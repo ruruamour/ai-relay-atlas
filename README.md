@@ -26,9 +26,9 @@
 
 | 项 | 数量 |
 |---|---|
-| 中转站（域名） | 1740 |
-| 中转站 × 模型 报价 | 12774 |
-| 模型名（去重） | 1353 |
+| 中转站（域名） | 2398 |
+| 中转站 × 模型 报价 | 34152 |
+| 模型名（去重） | 3291 |
 | 发卡店铺 | 314（SaaS 273 / 自建 41） |
 | 发卡商品报价 | 10646 |
 
@@ -72,15 +72,15 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 | 20 | `laysoai.com` | 200 | 5669ms | 100 | 2 | G | $0.048 |
 | 21 | `www.xcloudtoken.com` | 200 | 2754ms | 100 | 2 | G | $0.03375 |
 | 22 | `doro.lol` | 200 | 3026ms | 100 | 2 | G | $0.45 |
-| 23 | `aigc.x-see.cn` | 200 | 261ms | 100 | 0 | - | - |
-| 24 | `wawapi.top` | 200 | 1272ms | 100 | 0 | - | - |
-| 25 | `kuaiapi.net` | 200 | 2867ms | 100 | 0 | - | - |
-| 26 | `api.mosshubs.com` | 200 | 4354ms | 100 | 0 | - | - |
-| 27 | `www.akucb.com` | 200 | 1535ms | 100 | 0 | - | - |
-| 28 | `seesaw2ai.com` | 200 | 1662ms | 100 | 0 | - | - |
-| 29 | `kjapi.botsmart.net` | 200 | 468ms | 100 | 0 | - | - |
+| 23 | `seesaw2ai.com` | 200 | 1662ms | 100 | 0 | - | - |
+| 24 | `www.akucb.com` | 200 | 1535ms | 100 | 0 | - | - |
+| 25 | `api.mosshubs.com` | 200 | 4354ms | 100 | 0 | - | - |
+| 26 | `kuaiapi.net` | 200 | 2867ms | 100 | 0 | - | - |
+| 27 | `api-slb.packyapi.com` | 200 | 3936ms | 100 | 0 | - | - |
+| 28 | `wawapi.top` | 200 | 1272ms | 100 | 0 | - | - |
+| 29 | `aigc.x-see.cn` | 200 | 261ms | 100 | 0 | - | - |
 | 30 | `meowntor.xyz.hr` | 200 | 1063ms | 100 | 0 | - | - |
-| 31 | `api-slb.packyapi.com` | 200 | 3936ms | 100 | 0 | - | - |
+| 31 | `kjapi.botsmart.net` | 200 | 468ms | 100 | 0 | - | - |
 | 32 | `api.apiyi.com` | 200 | 2810ms | 98 | 136 | GXA | $0.0375 |
 | 33 | `coultra.blueshirtmap.com` | 200 | 4259ms | 98 | 74 | G | $0.065 |
 | 34 | `poloai.top` | 200 | 2379ms | 98 | 72 | GXA | $0.1 |
@@ -112,48 +112,48 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 | 60 | `api.gemai.cc` | 200 | 1562ms | 96 | 35 | GX | $75 |
 | 61 | `api3.gemai.cc` | 200 | 1453ms | 96 | 35 | GX | $75 |
 | 62 | `api2.gemai.cc` | 200 | 1457ms | 96 | 35 | GX | $75 |
-| 63 | `api.vectorengine.ai` | 200 | 2244ms | 96 | 32 | GM | $0.1 |
-| 64 | `nexaxis.ai` | 200 | 2820ms | 96 | 32 | GA | $0.15 |
+| 63 | `nexaxis.ai` | 200 | 2820ms | 96 | 32 | GA | $0.15 |
+| 64 | `api.vectorengine.ai` | 200 | 2244ms | 96 | 32 | GM | $0.1 |
 | 65 | `tidewhisper-ai.xyz` | 200 | 2352ms | 96 | 27 | GXA | $0.54 |
 | 66 | `newapi.youkies.cloud` | 200 | 1918ms | 96 | 25 | GA | $0.012 |
-| 67 | `wolfai.top` | 200 | 1897ms | 96 | 23 | GX | $0.25 |
-| 68 | `a6api.com` | 200 | 1247ms | 96 | 23 | GXMA | $1 |
+| 67 | `a6api.com` | 200 | 1247ms | 96 | 23 | GXMA | $1 |
+| 68 | `wolfai.top` | 200 | 1897ms | 96 | 23 | GX | $0.25 |
 | 69 | `api.mcapple.top` | 200 | 1181ms | 96 | 22 | GX | $0.078 |
 | 70 | `azemm.cc` | 200 | 2588ms | 96 | 20 | GA | $0.075 |
-| 71 | `sparkcode.top` | 200 | 2079ms | 96 | 19 | GXA | $0.15 |
-| 72 | `moyuu.cc` | 200 | 719ms | 96 | 19 | GXMA | $0.0375 |
+| 71 | `moyuu.cc` | 200 | 719ms | 96 | 19 | GXMA | $0.0375 |
+| 72 | `sparkcode.top` | 200 | 2079ms | 96 | 19 | GXA | $0.15 |
 | 73 | `viper3.ai` | 200 | 1981ms | 96 | 19 | GX | $0.325 |
 | 74 | `api.1024token.xyz` | 200 | 1669ms | 96 | 18 | GX | $0.045 |
 | 75 | `itkk.lol` | 200 | 1228ms | 96 | 18 | GXA | $0.015 |
 | 76 | `relayrax.com` | 200 | 1049ms | 96 | 13 | GA | $0.2 |
 | 77 | `llm-all.pro` | 200 | 6195ms | 96 | 12 | GXM | $0.06 |
 | 78 | `sapi.zly168.cn` | 200 | 300ms | 96 | 11 | GXMA | $0.97 |
-| 79 | `www.wamwuai.com` | 200 | 2584ms | 96 | 11 | G | - |
-| 80 | `api.clawsocket.com` | 200 | 1077ms | 96 | 11 | GXA | $0.5 |
-| 81 | `qilinapi.nervers.com` | 200 | 2332ms | 96 | 10 | GX | $0.018 |
-| 82 | `cf.modelflare.dev` | 200 | 1224ms | 96 | 10 | GX | $0.02 |
+| 79 | `api.clawsocket.com` | 200 | 1077ms | 96 | 11 | GXA | $0.5 |
+| 80 | `www.wamwuai.com` | 200 | 2584ms | 96 | 11 | G | - |
+| 81 | `cf.modelflare.dev` | 200 | 1224ms | 96 | 10 | GX | $0.02 |
+| 82 | `qilinapi.nervers.com` | 200 | 2332ms | 96 | 10 | GX | $0.018 |
 | 83 | `speed23.toter.me` | 200 | 1684ms | 96 | 9 | GXM | $0.18 |
-| 84 | `wawazz.xyz` | 200 | 2347ms | 96 | 8 | GXA | $0.125 |
-| 85 | `www.zzshu.cc` | 200 | 2805ms | 96 | 8 | GX | $0.15 |
-| 86 | `www.weekly-day.top` | 200 | 2168ms | 96 | 8 | GX | $0.09 |
-| 87 | `api.xiaoxuapi.com` | 200 | 813ms | 96 | 8 | G | $0.1925 |
-| 88 | `api.maoapi.org` | 200 | 1906ms | 96 | 7 | GXA | $0.24 |
-| 89 | `tian-shu.net` | 200 | 1309ms | 96 | 7 | G | $0.105 |
+| 84 | `www.weekly-day.top` | 200 | 2168ms | 96 | 8 | GX | $0.09 |
+| 85 | `api.xiaoxuapi.com` | 200 | 813ms | 96 | 8 | G | $0.1925 |
+| 86 | `wawazz.xyz` | 200 | 2347ms | 96 | 8 | GXA | $0.125 |
+| 87 | `www.zzshu.cc` | 200 | 2805ms | 96 | 8 | GX | $0.15 |
+| 88 | `tian-shu.net` | 200 | 1309ms | 96 | 7 | G | $0.105 |
+| 89 | `api.maoapi.org` | 200 | 1906ms | 96 | 7 | GXA | $0.24 |
 | 90 | `shapi.vip` | 200 | 1642ms | 96 | 5 | G | $0.08 |
 | 91 | `www.hejuapi.com` | 200 | 1120ms | 96 | 4 | GA | $0.1875 |
 | 92 | `dasuapi.com` | 200 | 1715ms | 96 | 4 | GX | $0.22 |
 | 93 | `api.wynb.top` | 200 | 1294ms | 96 | 3 | G | $0.2625 |
-| 94 | `www.ciciapi.com` | 200 | 1582ms | 96 | 0 | - | - |
-| 95 | `hiflowt.ai` | 200 | 2451ms | 96 | 0 | - | - |
-| 96 | `zenmux.ai` | 200 | 1317ms | 96 | 0 | - | - |
-| 97 | `bbbs.pw` | 200 | 1573ms | 96 | 0 | - | - |
-| 98 | `quanzil.com` | 200 | 1779ms | 95 | 89 | GXMA | $0.0055147 |
-| 99 | `api.relayrouter.ai` | 200 | 3440ms | 95 | 89 | GXMA | $0.0027574 |
-| 100 | `vipapi.online` | 200 | 1991ms | 95 | 85 | GXM | $0.0375 |
+| 94 | `zenmux.ai` | 200 | 1317ms | 96 | 0 | - | - |
+| 95 | `bbbs.pw` | 200 | 1573ms | 96 | 0 | - | - |
+| 96 | `hiflowt.ai` | 200 | 2451ms | 96 | 0 | - | - |
+| 97 | `www.ciciapi.com` | 200 | 1582ms | 96 | 0 | - | - |
+| 98 | `api.relayrouter.ai` | 200 | 3440ms | 95 | 89 | GXMA | $0.0027574 |
+| 99 | `quanzil.com` | 200 | 1779ms | 95 | 89 | GXMA | $0.0055147 |
+| 100 | `api.zhongzhuan.chat` | 200 | 2161ms | 95 | 85 | GXM | $0.0375 |
 
 覆盖：G=Gemini · X=Grok · M=MiMo · A=Argon。
 
-完整名单（1740 站）：[relays.csv](data/relays/relays.csv) · 站×模型价：[relay-models.csv](data/relays/relay-models.csv)
+完整名单（2398 站）：[relays.csv](data/relays/relays.csv) · 站×模型价：[relay-models.csv](data/relays/relay-models.csv)
 
 [↑ 目录](#toc)
 
@@ -164,10 +164,12 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 
 | 家族 | 模型名数 | 覆盖站点数 |
 |---|---|---|
-| Gemini | 1027 | 697 |
-| Grok | 15 | 1140 |
-| MiMo | 32 | 436 |
-| 其他 | 279 | 64 |
+| Gemini | 1053 | 927 |
+| Grok | 94 | 1300 |
+| MiMo | 32 | 461 |
+| Claude | 195 | 488 |
+| OpenAI | 402 | 562 |
+| 其他 | 1515 | 515 |
 
 [↑ 目录](#toc)
 
@@ -337,10 +339,10 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 
 | 路径 | 内容 |
 |---|---|
-| `data/relays/relays.csv` | 中转站主表（1740 站） |
-| `data/relays/relay-models.csv` | 站 × 模型 × 价格（12774 条） |
+| `data/relays/relays.csv` | 中转站主表（2398 站） |
+| `data/relays/relay-models.csv` | 站 × 模型 × 价格（34152 条） |
 | `data/relays/relay-systems.csv` | 中转站软件名录 |
-| `data/relays/by-model/` | 按模型榜单（1353 个模型） |
+| `data/relays/by-model/` | 按模型榜单（3291 个模型） |
 | `data/shops/platforms.csv` / `systems.csv` | 发卡平台 / 系统 |
 | `data/shops/shops.csv` | 店铺主表（314） |
 | `data/shops/products.csv` | 商品报价（10646） |
