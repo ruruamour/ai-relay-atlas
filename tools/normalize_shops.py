@@ -11,6 +11,8 @@ def rd(f):
 SYSTEM_BY_HOST={'ultra.makelove.cloud':'独角数卡','gpthub.ciyuanapi.ai':'独角数卡','shihuiai.cn':'异次元发卡'}
 def classify(host):
     if host in ('pay.ldxp.cn','ldxp.cn','wzyp.cn'): return ('SaaS','链动小铺','','')
+    if host=='catfk.com': return ('SaaS','云猫寄售','','')
+    if host=='shuka.cc': return ('SaaS','数卡寄售','','')
     if host in SYSTEM_BY_HOST: return ('自建','',SYSTEM_BY_HOST[host],'开源软件')
     return ('自建','','未知','未知')
 def cat(t):
