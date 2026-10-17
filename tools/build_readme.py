@@ -21,10 +21,20 @@ for r in rm:
     if p is None or p<=0: continue
     k=norm(r['model']); d=r['domain']
     if d not in by[k] or p<by[k][d][0]: by[k][d]=(p,r)
-MODELS=[('gemini-4-argon','Gemini 4 Argon'),('mimo-v2.6-pro','MiMo v2.6 Pro'),('mimo-v2.6-flash','MiMo v2.6 Flash'),
-        ('mimo-v2.5-pro','MiMo v2.5 Pro'),('mimo-v2.5','MiMo v2.5'),('grok-4.5','Grok 4.5'),
-        ('gemini-3.8-flash','Gemini 3.8 Flash'),('gemini-3.7-flash','Gemini 3.7 Flash'),('gemini-2.5-flash','Gemini 2.5 Flash')]
-nmodel=sum(1 for k,v in by.items() if len(v)>=8)
+FAMILIES=[('gemini','Gemini 系列'),('grok','Grok'),('mimo','MiMo'),('claude','Claude'),('gpt','OpenAI / GPT'),('other','其他')]
+def family(k):
+    if k.startswith('gemini'): return 'gemini'
+    if k.startswith('grok'): return 'grok'
+    if k.startswith('mimo'): return 'mimo'
+    if k.startswith('claude'): return 'claude'
+    if k.startswith('gpt') or k.startswith('o1') or k.startswith('o3') or k.startswith('o4'): return 'gpt'
+    return 'other'
+FLAGSHIP={'gemini':['gemini-4-argon','gemini-3.8-flash'],'grok':['grok-4.5'],'mimo':['mimo-v2.6-pro','mimo-v2.6-flash']}
+fam_models=defaultdict(list)
+for k,v in by.items():
+    if len(v)>=8: fam_models[family(k)].append(k)
+for k in fam_models: fam_models[k].sort(key=lambda x:-len(by[x]))
+nmodel=sum(len(v) for v in fam_models.values())
 L=[]
 A=L.append
 A('# ai-relay-atlas · AI 中转站与发卡地图'); A('')
@@ -35,8 +45,9 @@ A('<a id="toc"></a>'); A('## 目录'); A('')
 A('- [数据概览](#stats)')
 A('- [快速开始](#quickstart)')
 A('- [中转站 · 各模型最低价](#relays)')
-for k,t in MODELS:
-    if by.get(k): A('  - [%s](#model-%s)'%(t,k.replace('.','-')))
+for code,title in FAMILIES:
+    if fam_models.get(code): A('  - [%s](#family-%s) — %d 个模型'%(title,code,len(fam_models[code])))
+A('  - [全部模型榜单 →](data/relays/by-model/index.md)')
 A('- [发卡](#shops)')
 A('  - [平台与系统](#shop-platforms)')
 A('  - [Gemini Pro 低价](#shop-gemini-pro)')
@@ -67,19 +78,32 @@ A('```bash')
 A('python3 tools/normalize.py && python3 tools/normalize_shops.py \\')
 A('  && python3 tools/generate_by_model.py && python3 tools/build_readme.py')
 A('```'); A('')
-A('<a id="relays"></a>'); A('## 中转站 · 各模型最低价 Top 15'); A('')
-A('> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。完整榜单见 [by-model/index.md](data/relays/by-model/index.md)。'); A('')
-for key,title in MODELS:
-    items=by.get(key)
-    if not items: continue
-    it=sorted(items.items(),key=lambda kv:kv[1][0])[:15]
-    A('<a id="model-%s"></a>'%key.replace('.','-'))
-    A('### %s（%d 家）'%(title,len(items))); A('')
-    A('| # | 站点 | 输入 | 输出 | 倍率 | 分组 |'); A('|---|---|---|---|---|---|')
-    for i,(d,v) in enumerate(it,1):
-        r=v[1]; out=f(r['output_usd_m'])
-        A('| %d | `%s` | $%g | %s | %s | %s |'%(i,esc(d),v[0],('$%g'%out) if out is not None else '-',esc(r['group_ratio']),esc(r['group'])))
-    A(''); A('[↑ 目录](#toc)'); A('')
+A('<a id="relays"></a>'); A('## 中转站 · 各模型最低价'); A('')
+A('> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。点模型名看完整榜单。'); A('')
+for code,title in FAMILIES:
+    ks=fam_models.get(code)
+    if not ks: continue
+    A('<a id="family-%s"></a>'%code)
+    A('### %s（%d 个模型）'%(title,len(ks))); A('')
+    A('| 模型 | 家数 | 最低价 | 最低站 | 详情 |'); A('|---|---|---|---|---|')
+    for k in ks[:20]:
+        it=sorted(by[k].items(),key=lambda kv:kv[1][0])
+        d,v=it[0]
+        A('| `%s` | %d | $%g | `%s` | [榜](data/relays/by-model/%s.md) |'%(esc(k),len(by[k]),v[0],esc(d),k.replace('/','_').replace('*','star')))
+    if len(ks)>20:
+        A('| … | | | | [全部 %d 个 →](data/relays/by-model/index.md) |'%(len(ks)-20))
+    A('')
+    for k in FLAGSHIP.get(code,[]):
+        if k not in by: continue
+        it=sorted(by[k].items(),key=lambda kv:kv[1][0])[:15]
+        A('<a id="model-%s"></a>'%k.replace('.','-'))
+        A('#### %s · Top 15'%k); A('')
+        A('| # | 站点 | 输入 | 输出 | 倍率 | 分组 |'); A('|---|---|---|---|---|---|')
+        for i,(d,v) in enumerate(it,1):
+            r=v[1]; out=f(r['output_usd_m'])
+            A('| %d | `%s` | $%g | %s | %s | %s |'%(i,esc(d),v[0],('$%g'%out) if out is not None else '-',esc(r['group_ratio']),esc(r['group'])))
+        A('')
+    A('[↑ 目录](#toc)'); A('')
 A('<a id="shops"></a>'); A('## 发卡'); A('')
 A('<a id="shop-platforms"></a>'); A('### 平台与系统'); A('')
 A('**发卡平台（SaaS，商家入驻）**'); A('')

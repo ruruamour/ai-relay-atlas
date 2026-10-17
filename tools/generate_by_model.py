@@ -18,18 +18,26 @@ for r in rows:
     prev=by[key].get(d)
     if prev is None or p<prev[0]: by[key][d]=(p,r['output_usd_m'],r['group'],r['group_ratio'],r['model'],r['promo'])
 targets=sorted([k for k,v in by.items() if len(v)>=8], key=lambda k:-len(by[k]))
-index=['# 按模型榜单\n','> 价格为推算实际价（USD/1M 输入），未对账；已排除 0 价与免费组。\n']
+def fam(k):
+    if k.startswith('gemini'): return 'Gemini 系列'
+    if k.startswith('grok'): return 'Grok'
+    if k.startswith('mimo'): return 'MiMo'
+    if k.startswith('claude'): return 'Claude'
+    if k.startswith('gpt'): return 'OpenAI / GPT'
+    return '其他'
+entries=[]
 for key in targets:
-    items=by.get(key)
-    if not items: continue
-    it=sorted(items.items(),key=lambda kv:kv[1][0])
-    safe=key.replace('/','_').replace('*','star')
-    path=os.path.join(OUT,safe+'.md')
-    L=['# %s\n'%key,'共 %d 家。价为推算实际价 USD/1M 输入。\n'%len(it),
-       '| # | 站点 | 输入 | 输出 | 倍率 | 分组 |','|---|---|---|---|---|---|']
-    for i,(d,v) in enumerate(it[:60],1):
-        L.append('| %d | %s | $%g | %s | %s | %s |'%(i,d,v[0],('$%g'%float(v[1])) if v[1] not in ('',None) else '-',v[3],v[2]))
-    open(path,'w',encoding='utf-8').write('\n'.join(L)+'\n')
-    index.append('- [%s](%s.md) — %d 家，最低 $%g（%s）'%(key,safe,len(it),it[0][1][0],it[0][0]))
-    print('wrote',key,len(it))
-open(os.path.join(OUT,'index.md'),'w',encoding='utf-8').write('\n'.join(index)+'\n')
+    it=sorted(by[key].items(),key=lambda kv:kv[1][0])
+    entries.append((key,len(it),it[0][1][0],it[0][0]))
+from collections import defaultdict as dd
+g=dd(list)
+for e in entries: g[fam(e[0])].append(e)
+L=['# 按模型榜单','','> 价格为推算实际价（USD/1M 输入），未对账；已排除 0 价与免费组。共 %d 个模型。'%len(entries),'']
+for fname in ['Gemini 系列','Grok','MiMo','Claude','OpenAI / GPT','其他']:
+    if not g.get(fname): continue
+    L.append('## %s'%fname); L.append('')
+    L.append('| 模型 | 家数 | 最低价 | 最低站 |'); L.append('|---|---|---|---|')
+    for key,n,p,d in sorted(g[fname],key=lambda x:-x[1]):
+        L.append('| [%s](%s.md) | %d | $%g | `%s` |'%(key,key.replace('/','_').replace('*','star'),n,p,d))
+    L.append('')
+open(os.path.join(OUT,'index.md'),'w',encoding='utf-8').write('\n'.join(L)+'\n')

@@ -12,15 +12,10 @@
 - [数据概览](#stats)
 - [快速开始](#quickstart)
 - [中转站 · 各模型最低价](#relays)
-  - [Gemini 4 Argon](#model-gemini-4-argon)
-  - [MiMo v2.6 Pro](#model-mimo-v2-6-pro)
-  - [MiMo v2.6 Flash](#model-mimo-v2-6-flash)
-  - [MiMo v2.5 Pro](#model-mimo-v2-5-pro)
-  - [MiMo v2.5](#model-mimo-v2-5)
-  - [Grok 4.5](#model-grok-4-5)
-  - [Gemini 3.8 Flash](#model-gemini-3-8-flash)
-  - [Gemini 3.7 Flash](#model-gemini-3-7-flash)
-  - [Gemini 2.5 Flash](#model-gemini-2-5-flash)
+  - [Gemini 系列](#family-gemini) — 129 个模型
+  - [Grok](#family-grok) — 3 个模型
+  - [MiMo](#family-mimo) — 10 个模型
+  - [全部模型榜单 →](data/relays/by-model/index.md)
 - [发卡](#shops)
   - [平台与系统](#shop-platforms)
   - [Gemini Pro 低价](#shop-gemini-pro)
@@ -59,12 +54,39 @@ python3 tools/normalize.py && python3 tools/normalize_shops.py \
 ```
 
 <a id="relays"></a>
-## 中转站 · 各模型最低价 Top 15
+## 中转站 · 各模型最低价
 
-> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。完整榜单见 [by-model/index.md](data/relays/by-model/index.md)。
+> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。点模型名看完整榜单。
+
+<a id="family-gemini"></a>
+### Gemini 系列（129 个模型）
+
+| 模型 | 家数 | 最低价 | 最低站 | 详情 |
+|---|---|---|---|---|
+| `gemini-4-argon` | 509 | $0.069231 | `codelypixverse.com` | [榜](data/relays/by-model/gemini-4-argon.md) |
+| `gemini-3.6-flash` | 185 | $0.0128983 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-3.6-flash.md) |
+| `gemini-3.7-flash` | 182 | $0.0128983 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-3.7-flash.md) |
+| `gemini-3.1-pro-preview` | 182 | $1.44e-05 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3.1-pro-preview.md) |
+| `gemini-3.8-flash` | 176 | $0.0075 | `apiroute.top` | [榜](data/relays/by-model/gemini-3.8-flash.md) |
+| `gemini-3.5-flash` | 168 | $1.08e-05 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3.5-flash.md) |
+| `gemini-2.5-flash` | 147 | $0.0025797 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-2.5-flash.md) |
+| `gemini-3-flash-preview` | 143 | $3.6e-06 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3-flash-preview.md) |
+| `gemini-2.5-pro` | 134 | $0.0107486 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-2.5-pro.md) |
+| `gemini-3.1-flash-lite` | 130 | $0.0025 | `apiroute.top` | [榜](data/relays/by-model/gemini-3.1-flash-lite.md) |
+| `gemini-2.5-flash-lite` | 113 | $0.007353 | `api.openlux.ai` | [榜](data/relays/by-model/gemini-2.5-flash-lite.md) |
+| `gemini-3-pro-preview` | 110 | $1.44e-05 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3-pro-preview.md) |
+| `gemini-3.1-flash-lite-preview` | 103 | $0.001 | `api.ccode.vip` | [榜](data/relays/by-model/gemini-3.1-flash-lite-preview.md) |
+| `gemini-3.1-pro` | 94 | $0.0171977 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-3.1-pro.md) |
+| `gemini-3.5-flash-lite` | 94 | $0.022059 | `api.openlux.ai` | [榜](data/relays/by-model/gemini-3.5-flash-lite.md) |
+| `gemini-3-flash` | 86 | $0.05 | `modelsell.com` | [榜](data/relays/by-model/gemini-3-flash.md) |
+| `gemini-3.1-flash-image` | 62 | $0.01 | `liangxinapi.top` | [榜](data/relays/by-model/gemini-3.1-flash-image.md) |
+| `gemini-embedding-001` | 58 | $0.03 | `mux.la` | [榜](data/relays/by-model/gemini-embedding-001.md) |
+| `gemini-3.1-pro-preview-customtools` | 56 | $0.125 | `love.qinyan.icu` | [榜](data/relays/by-model/gemini-3.1-pro-preview-customtools.md) |
+| `gemini-2.5-flash-no` | 54 | $0.022059 | `api.openlux.ai` | [榜](data/relays/by-model/gemini-2.5-flash-no.md) |
+| … | | | | [全部 109 个 →](data/relays/by-model/index.md) |
 
 <a id="model-gemini-4-argon"></a>
-### Gemini 4 Argon（509 家）
+#### gemini-4-argon · Top 15
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
 |---|---|---|---|---|---|
@@ -84,125 +106,8 @@ python3 tools/normalize.py && python3 tools/normalize_shops.py \
 | 14 | `api.lt4net.org` | $0.4 | $2 | 0.1 | gemini |
 | 15 | `api.toapis.com` | $0.4 | $2 | 1 | default |
 
-[↑ 目录](#toc)
-
-<a id="model-mimo-v2-6-pro"></a>
-### MiMo v2.6 Pro（130 家）
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `sub2api.xybbz.xyz` | $0.0015 | - | 0.06 | Kimi-k3 |
-| 2 | `ai.gigimed.cn` | $0.06525 | - | 0.15 | a6api |
-| 3 | `api.wuhen-ai.com` | $0.075 | - | 0.3 | 小米-（cc客户端可接） |
-| 4 | `apiv3.52codeflow.top` | $0.087 | - | 0.2 | 世界第一模型 |
-| 5 | `aiapibank.com` | $0.15 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
-| 6 | `keylinkclub.com` | $0.1827 | - | 0.42 | guochan |
-| 7 | `api.bingyun.vip` | $0.24 | - | 0.08 | 国模福利-008倍率 |
-| 8 | `api.asdfas.party` | $0.248 | - | 0.08 | 英伟达 |
-| 9 | `api.openlux.ai` | $0.32625 | - | 0.75 | Xiaomi-1 |
-| 10 | `api.relayrouter.ai` | $0.32625 | - | 0.75 | Xiaomi-1 |
-| 11 | `gzxbykj.com` | $0.358875 | - | 0.8250000000000001 | Xiaomi-1 |
-| 12 | `worldcodes.online` | $0.36 | - | 1.0 | 国模低价分组【实际倍率0.12】 |
-| 13 | `v2.cloudmist.cloud` | $0.375187 | - | 0.8624999999999999 | Xiaomi-1 |
-| 14 | `makerend.com` | $0.407813 | - | 0.9375 | Xiaomi-1 |
-| 15 | `hetune.top` | $0.42 | - | 1 | 国模统一分组 |
-
-[↑ 目录](#toc)
-
-<a id="model-mimo-v2-6-flash"></a>
-### MiMo v2.6 Flash（145 家）
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `ai.gigimed.cn` | $0.021 | - | 0.15 | a6api |
-| 2 | `apiv3.52codeflow.top` | $0.028 | - | 0.2 | 世界第一模型 |
-| 3 | `keylinkclub.com` | $0.042 | - | 0.3 | guochan_便宜 |
-| 4 | `aiapibank.com` | $0.05 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
-| 5 | `api.hud.im` | $0.05 | - | 0.05 | 【国模】deepseek-特价 |
-| 6 | `api.asdfas.party` | $0.08 | - | 0.08 | 英伟达 |
-| 7 | `api.bingyun.vip` | $0.08 | - | 0.08 | 国模福利-008倍率 |
-| 8 | `api.openlux.ai` | $0.105 | - | 0.75 | Xiaomi-1 |
-| 9 | `api.relayrouter.ai` | $0.105 | - | 0.75 | Xiaomi-1 |
-| 10 | `gptzzz.ai` | $0.109 | - | 0.64 | MiMo 小米官key |
-| 11 | `gzxbykj.com` | $0.1155 | - | 0.8250000000000001 | Xiaomi-1 |
-| 12 | `ai.lfree.org` | $0.12 | - | 1 | claude |
-| 13 | `worldcodes.online` | $0.12 | - | 1.0 | 国模低价分组【实际倍率0.12】 |
-| 14 | `www.lingzhan.top` | $0.12 | - | 0.12 | 普通国模 |
-| 15 | `v2.cloudmist.cloud` | $0.12075 | - | 0.8624999999999999 | Xiaomi-1 |
-
-[↑ 目录](#toc)
-
-<a id="model-mimo-v2-5-pro"></a>
-### MiMo v2.5 Pro（332 家）
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `api.khaix.net` | $0.0099 | - | 0.045 | 🇨🇳国模池-按次计费（chat接口） |
-| 2 | `aeapi.cn` | $0.01 | - | 1 | default |
-| 3 | `pianyitoken.gay` | $0.032877 | - | 0.08 | 国模0.08x |
-| 4 | `api.deepsb.com` | $0.0435 | - | 0.1 | 一折国模大杂烩 |
-| 5 | `ai.gigimed.cn` | $0.06 | - | 0.15 | a6api |
-| 6 | `api.inktandwkx.top` | $0.068055 | - | 0.065 | 限时福利 |
-| 7 | `api.wuhen-ai.com` | $0.075 | - | 0.3 | 小米-gpt可接 |
-| 8 | `apiv3.52codeflow.top` | $0.08 | - | 0.2 | 世界第一模型 |
-| 9 | `ikun.love` | $0.08 | - | 0.2 | 国模 |
-| 10 | `openoneapi.com` | $0.12 | - | 0.3 | 国模 |
-| 11 | `kimera.cc` | $0.1305 | - | 0.3 | 国产模型聚合 超低价 |
-| 12 | `api.moleapi.com` | $0.135 | - | 0.3 | relay |
-| 13 | `hk.moleapi.com` | $0.135 | - | 0.3 | relay |
-| 14 | `hetune.top` | $0.14 | - | 1 | 国模统一分组 |
-| 15 | `api.yjs.im` | $0.15 | - | 0.15 | OpenModels |
-
-[↑ 目录](#toc)
-
-<a id="model-mimo-v2-5"></a>
-### MiMo v2.5（325 家）
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `ai.hebox.net` | $4e-06 | - | 1e-05 | 零元购 |
-| 2 | `api.aitokensflux.com` | $0.00063 | - | 0.005 | free |
-| 3 | `api.cnvip.com.cn` | $0.00125 | - | 0.05 | 质量国模（官转不降智） |
-| 4 | `aeapi.cn` | $0.005 | - | 1 | default |
-| 5 | `1rr.top` | $0.01 | - | 0.01 | 国模 |
-| 6 | `abinapi.com` | $0.01 | - | 0.05 | 福利分组 |
-| 7 | `direct.abinapi.com` | $0.01 | - | 0.05 | 福利分组 |
-| 8 | `nty-hk.zhouyang168.top` | $0.01 | - | 0.1 | free |
-| 9 | `ai.lfree.org` | $0.012 | - | 1 | claude |
-| 10 | `cybertruckai.top` | $0.012345 | - | 0.012345 | 🐳【国模】-【限时福利】-【0.012345】-死了就切~~ |
-| 11 | `liangxinapi.top` | $0.02 | - | 0.02 | 福利chat协议 |
-| 12 | `www.liangxinapi.top` | $0.02 | - | 0.02 | 福利cc协议 |
-| 13 | `ai.gigimed.cn` | $0.021 | - | 0.15 | a6api |
-| 14 | `api.inktandwkx.top` | $0.0234 | - | 0.065 | 限时福利 |
-| 15 | `apiv3.52codeflow.top` | $0.028 | - | 0.2 | 世界第一模型 |
-
-[↑ 目录](#toc)
-
-<a id="model-grok-4-5"></a>
-### Grok 4.5（1042 家）
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `api-hub.asia` | $0.002 | $0.006 | 0.001 | Grok |
-| 2 | `tmdapis.com` | $0.015 | $0.0375 | 0.25 | grok |
-| 3 | `790053500.com` | $0.02 | $0.06 | 0.01 | Grok-4.6《free号池》 |
-| 4 | `api.khala.online` | $0.02 | $0.06 | 0.01 | grok-free |
-| 5 | `api.wuhen-ai.com` | $0.02 | $0.06 | 0.01 | grok(标准messages) |
-| 6 | `cf.modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
-| 7 | `llm-api.aigw2.cn` | $0.02 | $0.06 | 0.01 | Grok Free |
-| 8 | `modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
-| 9 | `o-ai.me` | $0.02 | $0.06 | 0.01 | grok-001 |
-| 10 | `origin.modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
-| 11 | `weilai.chat` | $0.02 | $0.06 | 0.01 | grok free |
-| 12 | `xinyue.mom` | $0.02 | $0.06 | 0.01 | Gork【未开质量守护】 |
-| 13 | `api3.kscsnkli.site` | $0.021 | $0.061 | 0.01 | 低价国模 |
-| 14 | `pianyitoken.gay` | $0.027397 | $0.082191 | 0.1 | grok heavy |
-| 15 | `aggretoken.com` | $0.03 | $0.09 | 1 | Standard |
-
-[↑ 目录](#toc)
-
 <a id="model-gemini-3-8-flash"></a>
-### Gemini 3.8 Flash（176 家）
+#### gemini-3.8-flash · Top 15
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
 |---|---|---|---|---|---|
@@ -224,49 +129,95 @@ python3 tools/normalize.py && python3 tools/normalize_shops.py \
 
 [↑ 目录](#toc)
 
-<a id="model-gemini-3-7-flash"></a>
-### Gemini 3.7 Flash（182 家）
+<a id="family-grok"></a>
+### Grok（3 个模型）
+
+| 模型 | 家数 | 最低价 | 最低站 | 详情 |
+|---|---|---|---|---|
+| `grok-4.5` | 1042 | $0.002 | `api-hub.asia` | [榜](data/relays/by-model/grok-4.5.md) |
+| `grok-4.5-latest` | 12 | $0.02 | `supercodes.vip` | [榜](data/relays/by-model/grok-4.5-latest.md) |
+| `grok-4-5` | 8 | $0.4 | `36niu.com` | [榜](data/relays/by-model/grok-4-5.md) |
+
+<a id="model-grok-4-5"></a>
+#### grok-4.5 · Top 15
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
 |---|---|---|---|---|---|
-| 1 | `www.nexotoken.net` | $0.0128983 | $0.0644914 | 0.09273 | Gemini·CLI特价版 |
-| 2 | `fishai.yanyumeta.cn` | $0.04 | $0.17 |  |  |
-| 3 | `api.openlux.ai` | $0.0551475 | $0.275738 | 0.07353 | Anti-Gemini-1 |
-| 4 | `api.relayrouter.ai` | $0.0551475 | $0.275738 | 0.07353 | Anti-Gemini-1 |
-| 5 | `api.lcapi.online` | $0.06 | $0.3008 | 0.08 | 非人类分组【0.08x】 |
-| 6 | `v2.cloudmist.cloud` | $0.0634196 | $0.317098 | 0.0845595 | Anti-Gemini-1 |
-| 7 | `api-top.com` | $0.075 | $0.375 | 0.1 | Gemini满血 |
-| 8 | `topapi.io` | $0.075 | $0.375 | 0.1 | Gemini满血 |
-| 9 | `modelsell.com` | $0.075 | $0.375 | 0.1 | Gemini Cli |
-| 10 | `www.yuanshen.net.eu.org` | $0.075 | $0.075 | 0.001 | 福利分组 |
-| 11 | `newapi.youkies.cloud` | $0.09 | $0.45 | 0.12 | a/gemini |
-| 12 | `api.liangrekui.com` | $0.10875 | $0.54375 | 0.145 | JA gemini自制 |
-| 13 | `quanzil.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
-| 14 | `tryallapi.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
-| 15 | `jeniya.cn` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
+| 1 | `api-hub.asia` | $0.002 | $0.006 | 0.001 | Grok |
+| 2 | `tmdapis.com` | $0.015 | $0.0375 | 0.25 | grok |
+| 3 | `790053500.com` | $0.02 | $0.06 | 0.01 | Grok-4.6《free号池》 |
+| 4 | `api.khala.online` | $0.02 | $0.06 | 0.01 | grok-free |
+| 5 | `api.wuhen-ai.com` | $0.02 | $0.06 | 0.01 | grok(标准messages) |
+| 6 | `cf.modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
+| 7 | `llm-api.aigw2.cn` | $0.02 | $0.06 | 0.01 | Grok Free |
+| 8 | `modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
+| 9 | `o-ai.me` | $0.02 | $0.06 | 0.01 | grok-001 |
+| 10 | `origin.modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
+| 11 | `weilai.chat` | $0.02 | $0.06 | 0.01 | grok free |
+| 12 | `xinyue.mom` | $0.02 | $0.06 | 0.01 | Gork【未开质量守护】 |
+| 13 | `api3.kscsnkli.site` | $0.021 | $0.061 | 0.01 | 低价国模 |
+| 14 | `pianyitoken.gay` | $0.027397 | $0.082191 | 0.1 | grok heavy |
+| 15 | `aggretoken.com` | $0.03 | $0.09 | 1 | Standard |
 
 [↑ 目录](#toc)
 
-<a id="model-gemini-2-5-flash"></a>
-### Gemini 2.5 Flash（147 家）
+<a id="family-mimo"></a>
+### MiMo（10 个模型）
+
+| 模型 | 家数 | 最低价 | 最低站 | 详情 |
+|---|---|---|---|---|
+| `mimo-v2.5-pro` | 332 | $0.0099 | `api.khaix.net` | [榜](data/relays/by-model/mimo-v2.5-pro.md) |
+| `mimo-v2.5` | 325 | $4e-06 | `ai.hebox.net` | [榜](data/relays/by-model/mimo-v2.5.md) |
+| `mimo-v2.6-flash` | 145 | $0.021 | `ai.gigimed.cn` | [榜](data/relays/by-model/mimo-v2.6-flash.md) |
+| `mimo-v2.6-pro` | 130 | $0.0015 | `sub2api.xybbz.xyz` | [榜](data/relays/by-model/mimo-v2.6-pro.md) |
+| `mimo-v2-pro` | 85 | $0.075 | `api.wuhen-ai.com` | [榜](data/relays/by-model/mimo-v2-pro.md) |
+| `mimo-v2-omni` | 25 | $0.16 | `www.kamiapi.top` | [榜](data/relays/by-model/mimo-v2-omni.md) |
+| `mimo-v2.6-pro-ultraspeed` | 16 | $1 | `a6api.com` | [榜](data/relays/by-model/mimo-v2.6-pro-ultraspeed.md) |
+| `mimo-v2.5-tts` | 11 | $0.4 | `ai-api.loft.games` | [榜](data/relays/by-model/mimo-v2.5-tts.md) |
+| `mimo-v2.5-tts-voiceclone` | 8 | $0.4 | `ai-api.loft.games` | [榜](data/relays/by-model/mimo-v2.5-tts-voiceclone.md) |
+| `mimo-v2.5-tts-voicedesign` | 8 | $0.4 | `ai-api.loft.games` | [榜](data/relays/by-model/mimo-v2.5-tts-voicedesign.md) |
+
+<a id="model-mimo-v2-6-pro"></a>
+#### mimo-v2.6-pro · Top 15
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
 |---|---|---|---|---|---|
-| 1 | `www.nexotoken.net` | $0.0025797 | $0.0215143 | 0.09273 | Gemini·CLI特价版 |
-| 2 | `api.openlux.ai` | $0.022059 | $0.183972 | 0.07353 | Anti-Gemini-1 |
-| 3 | `api.relayrouter.ai` | $0.022059 | $0.183972 | 0.07353 | Anti-Gemini-1 |
-| 4 | `v2.cloudmist.cloud` | $0.0253678 | $0.211567 | 0.0845595 | Anti-Gemini-1 |
-| 5 | `newapi.youkies.cloud` | $0.036 | $0.3 | 0.12 | a/gemini |
-| 6 | `api.liangrekui.com` | $0.0435 | $0.3625 | 0.145 | JA gemini自制 |
-| 7 | `quanzil.com` | $0.044118 | $0.367944 | 0.14706 | Anti-Gemini-1 |
-| 8 | `tryallapi.com` | $0.044118 | $0.367944 | 0.14706 | Anti-Gemini-1 |
-| 9 | `jeniya.cn` | $0.044118 | $0.367944 | 0.14706 | Anti-Gemini-1 |
-| 10 | `itkk.lol` | $0.045 | $0.375 | 0.15 | gemini_满血 |
-| 11 | `laysoai.com` | $0.048 | $0.4 | 0.16 |  |
-| 12 | `thousandengine.com` | $0.0485298 | $0.404739 | 0.16176600000000002 | Anti-Gemini-1 |
-| 13 | `api.xiaoyaoxx.cn` | $0.054 | $0.45 | 0.18 | JB geminni |
-| 14 | `liangxinapi.top` | $0.054 | $0.45 | 0.2 | Gemini |
-| 15 | `qilinapi.nervers.com` | $0.054 | $0.45 | 0.2 | s4:google-gemini |
+| 1 | `sub2api.xybbz.xyz` | $0.0015 | - | 0.06 | Kimi-k3 |
+| 2 | `ai.gigimed.cn` | $0.06525 | - | 0.15 | a6api |
+| 3 | `api.wuhen-ai.com` | $0.075 | - | 0.3 | 小米-（cc客户端可接） |
+| 4 | `apiv3.52codeflow.top` | $0.087 | - | 0.2 | 世界第一模型 |
+| 5 | `aiapibank.com` | $0.15 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
+| 6 | `keylinkclub.com` | $0.1827 | - | 0.42 | guochan |
+| 7 | `api.bingyun.vip` | $0.24 | - | 0.08 | 国模福利-008倍率 |
+| 8 | `api.asdfas.party` | $0.248 | - | 0.08 | 英伟达 |
+| 9 | `api.openlux.ai` | $0.32625 | - | 0.75 | Xiaomi-1 |
+| 10 | `api.relayrouter.ai` | $0.32625 | - | 0.75 | Xiaomi-1 |
+| 11 | `gzxbykj.com` | $0.358875 | - | 0.8250000000000001 | Xiaomi-1 |
+| 12 | `worldcodes.online` | $0.36 | - | 1.0 | 国模低价分组【实际倍率0.12】 |
+| 13 | `v2.cloudmist.cloud` | $0.375187 | - | 0.8624999999999999 | Xiaomi-1 |
+| 14 | `makerend.com` | $0.407813 | - | 0.9375 | Xiaomi-1 |
+| 15 | `hetune.top` | $0.42 | - | 1 | 国模统一分组 |
+
+<a id="model-mimo-v2-6-flash"></a>
+#### mimo-v2.6-flash · Top 15
+
+| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
+|---|---|---|---|---|---|
+| 1 | `ai.gigimed.cn` | $0.021 | - | 0.15 | a6api |
+| 2 | `apiv3.52codeflow.top` | $0.028 | - | 0.2 | 世界第一模型 |
+| 3 | `keylinkclub.com` | $0.042 | - | 0.3 | guochan_便宜 |
+| 4 | `aiapibank.com` | $0.05 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
+| 5 | `api.hud.im` | $0.05 | - | 0.05 | 【国模】deepseek-特价 |
+| 6 | `api.asdfas.party` | $0.08 | - | 0.08 | 英伟达 |
+| 7 | `api.bingyun.vip` | $0.08 | - | 0.08 | 国模福利-008倍率 |
+| 8 | `api.openlux.ai` | $0.105 | - | 0.75 | Xiaomi-1 |
+| 9 | `api.relayrouter.ai` | $0.105 | - | 0.75 | Xiaomi-1 |
+| 10 | `gptzzz.ai` | $0.109 | - | 0.64 | MiMo 小米官key |
+| 11 | `gzxbykj.com` | $0.1155 | - | 0.8250000000000001 | Xiaomi-1 |
+| 12 | `ai.lfree.org` | $0.12 | - | 1 | claude |
+| 13 | `worldcodes.online` | $0.12 | - | 1.0 | 国模低价分组【实际倍率0.12】 |
+| 14 | `www.lingzhan.top` | $0.12 | - | 0.12 | 普通国模 |
+| 15 | `v2.cloudmist.cloud` | $0.12075 | - | 0.8624999999999999 | Xiaomi-1 |
 
 [↑ 目录](#toc)
 
