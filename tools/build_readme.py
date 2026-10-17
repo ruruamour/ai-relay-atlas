@@ -43,7 +43,7 @@ def score(d):
     v=vd.get(d) or 0
     n=len(st[d]['models']) if d in st else 0
     up=1 if str(http.get(d))=='200' else 0
-    return (up, 1 if v>0 else 0, v, n)
+    return (up, n, v)
 ranked=sorted(alldoms,key=lambda d:score(d),reverse=True)
 
 L=[];A=L.append
