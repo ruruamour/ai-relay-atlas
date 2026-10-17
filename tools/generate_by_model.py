@@ -23,12 +23,13 @@ for key in targets:
     items=by.get(key)
     if not items: continue
     it=sorted(items.items(),key=lambda kv:kv[1][0])
-    path=os.path.join(OUT,key.replace('/','_')+'.md')
+    safe=key.replace('/','_').replace('*','star')
+    path=os.path.join(OUT,safe+'.md')
     L=['# %s\n'%key,'共 %d 家。价为推算实际价 USD/1M 输入。\n'%len(it),
        '| # | 站点 | 输入 | 输出 | 倍率 | 分组 |','|---|---|---|---|---|---|']
     for i,(d,v) in enumerate(it[:60],1):
         L.append('| %d | %s | $%g | %s | %s | %s |'%(i,d,v[0],('$%g'%float(v[1])) if v[1] not in ('',None) else '-',v[3],v[2]))
     open(path,'w',encoding='utf-8').write('\n'.join(L)+'\n')
-    index.append('- [%s](%s.md) — %d 家，最低 $%g（%s）'%(key,key.replace('/','_'),len(it),it[0][1][0],it[0][0]))
+    index.append('- [%s](%s.md) — %d 家，最低 $%g（%s）'%(key,safe,len(it),it[0][1][0],it[0][0]))
     print('wrote',key,len(it))
 open(os.path.join(OUT,'index.md'),'w',encoding='utf-8').write('\n'.join(index)+'\n')
