@@ -2,10 +2,37 @@
 
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) [![Data: CC BY-NC 4.0](https://img.shields.io/badge/data-CC%20BY--NC%204.0-lightgrey.svg)](DATA-LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。README 直接给榜单，全量数据在 `data/`。
+把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。本页是摘要与榜单，全量数据在 [`data/`](data/README.md)。
 
 > ⚠️ 仅收录公开信息，不提供购买入口、不参与交易、不担保。价格为推算值、未对账，以原站为准。见 [DISCLAIMER.md](DISCLAIMER.md)。
 
+<a id="toc"></a>
+## 目录
+
+- [数据概览](#stats)
+- [快速开始](#quickstart)
+- [中转站 · 各模型最低价](#relays)
+  - [Gemini 4 Argon](#model-gemini-4-argon)
+  - [MiMo v2.6 Pro](#model-mimo-v2-6-pro)
+  - [MiMo v2.6 Flash](#model-mimo-v2-6-flash)
+  - [MiMo v2.5 Pro](#model-mimo-v2-5-pro)
+  - [MiMo v2.5](#model-mimo-v2-5)
+  - [Grok 4.5](#model-grok-4-5)
+  - [Gemini 3.8 Flash](#model-gemini-3-8-flash)
+  - [Gemini 3.7 Flash](#model-gemini-3-7-flash)
+  - [Gemini 2.5 Flash](#model-gemini-2-5-flash)
+- [发卡](#shops)
+  - [平台与系统](#shop-platforms)
+  - [Gemini Pro 低价](#shop-gemini-pro)
+  - [Google AI Ultra 20x](#shop-ultra-20x)
+  - [店铺速览](#shop-list)
+- [数据文件](#files)
+- [文档](#docs)
+- [数据来源](#sources)
+- [授权](#license)
+- [贡献](#contributing)
+
+<a id="stats"></a>
 ## 数据概览
 
 | 项 | 数量 |
@@ -14,17 +41,29 @@
 | 中转站 × 模型 报价 | 12774 |
 | 发卡店铺 | 314（SaaS 261 / 自建 53） |
 | 发卡商品报价 | 10646 |
-| 按模型榜单 | 142（≥8 家） |
+| 按模型榜单（≥8 家） | 142 |
+
+<a id="quickstart"></a>
+## 快速开始
 
 ```bash
+git clone https://github.com/ruruamour/ai-relay-atlas.git && cd ai-relay-atlas
 python3 tools/query.py model gemini-4-argon --n 30
 python3 tools/query.py domain api.openlux.ai
 ```
 
+更新数据后重生成本页：
+```bash
+python3 tools/normalize.py && python3 tools/normalize_shops.py \
+  && python3 tools/generate_by_model.py && python3 tools/build_readme.py
+```
+
+<a id="relays"></a>
 ## 中转站 · 各模型最低价 Top 15
 
-> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。完整榜单见 [by-model/](data/relays/by-model/index.md)。
+> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。完整榜单见 [by-model/index.md](data/relays/by-model/index.md)。
 
+<a id="model-gemini-4-argon"></a>
 ### Gemini 4 Argon（509 家）
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
@@ -45,6 +84,9 @@ python3 tools/query.py domain api.openlux.ai
 | 14 | `api.lt4net.org` | $0.4 | $2 | 0.1 | gemini |
 | 15 | `api.toapis.com` | $0.4 | $2 | 1 | default |
 
+[↑ 目录](#toc)
+
+<a id="model-mimo-v2-6-pro"></a>
 ### MiMo v2.6 Pro（130 家）
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
@@ -65,6 +107,9 @@ python3 tools/query.py domain api.openlux.ai
 | 14 | `makerend.com` | $0.407813 | - | 0.9375 | Xiaomi-1 |
 | 15 | `hetune.top` | $0.42 | - | 1 | 国模统一分组 |
 
+[↑ 目录](#toc)
+
+<a id="model-mimo-v2-6-flash"></a>
 ### MiMo v2.6 Flash（145 家）
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
@@ -85,6 +130,9 @@ python3 tools/query.py domain api.openlux.ai
 | 14 | `www.lingzhan.top` | $0.12 | - | 0.12 | 普通国模 |
 | 15 | `v2.cloudmist.cloud` | $0.12075 | - | 0.8624999999999999 | Xiaomi-1 |
 
+[↑ 目录](#toc)
+
+<a id="model-mimo-v2-5-pro"></a>
 ### MiMo v2.5 Pro（332 家）
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
@@ -105,6 +153,32 @@ python3 tools/query.py domain api.openlux.ai
 | 14 | `hetune.top` | $0.14 | - | 1 | 国模统一分组 |
 | 15 | `api.yjs.im` | $0.15 | - | 0.15 | OpenModels |
 
+[↑ 目录](#toc)
+
+<a id="model-mimo-v2-5"></a>
+### MiMo v2.5（325 家）
+
+| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
+|---|---|---|---|---|---|
+| 1 | `ai.hebox.net` | $4e-06 | - | 1e-05 | 零元购 |
+| 2 | `api.aitokensflux.com` | $0.00063 | - | 0.005 | free |
+| 3 | `api.cnvip.com.cn` | $0.00125 | - | 0.05 | 质量国模（官转不降智） |
+| 4 | `aeapi.cn` | $0.005 | - | 1 | default |
+| 5 | `1rr.top` | $0.01 | - | 0.01 | 国模 |
+| 6 | `abinapi.com` | $0.01 | - | 0.05 | 福利分组 |
+| 7 | `direct.abinapi.com` | $0.01 | - | 0.05 | 福利分组 |
+| 8 | `nty-hk.zhouyang168.top` | $0.01 | - | 0.1 | free |
+| 9 | `ai.lfree.org` | $0.012 | - | 1 | claude |
+| 10 | `cybertruckai.top` | $0.012345 | - | 0.012345 | 🐳【国模】-【限时福利】-【0.012345】-死了就切~~ |
+| 11 | `liangxinapi.top` | $0.02 | - | 0.02 | 福利chat协议 |
+| 12 | `www.liangxinapi.top` | $0.02 | - | 0.02 | 福利cc协议 |
+| 13 | `ai.gigimed.cn` | $0.021 | - | 0.15 | a6api |
+| 14 | `api.inktandwkx.top` | $0.0234 | - | 0.065 | 限时福利 |
+| 15 | `apiv3.52codeflow.top` | $0.028 | - | 0.2 | 世界第一模型 |
+
+[↑ 目录](#toc)
+
+<a id="model-grok-4-5"></a>
 ### Grok 4.5（1042 家）
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
@@ -125,6 +199,9 @@ python3 tools/query.py domain api.openlux.ai
 | 14 | `pianyitoken.gay` | $0.027397 | $0.082191 | 0.1 | grok heavy |
 | 15 | `aggretoken.com` | $0.03 | $0.09 | 1 | Standard |
 
+[↑ 目录](#toc)
+
+<a id="model-gemini-3-8-flash"></a>
 ### Gemini 3.8 Flash（176 家）
 
 | # | 站点 | 输入 | 输出 | 倍率 | 分组 |
@@ -145,7 +222,59 @@ python3 tools/query.py domain api.openlux.ai
 | 14 | `tryallapi.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
 | 15 | `jeniya.cn` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
 
-## 发卡 · 平台与系统
+[↑ 目录](#toc)
+
+<a id="model-gemini-3-7-flash"></a>
+### Gemini 3.7 Flash（182 家）
+
+| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
+|---|---|---|---|---|---|
+| 1 | `www.nexotoken.net` | $0.0128983 | $0.0644914 | 0.09273 | Gemini·CLI特价版 |
+| 2 | `fishai.yanyumeta.cn` | $0.04 | $0.17 |  |  |
+| 3 | `api.openlux.ai` | $0.0551475 | $0.275738 | 0.07353 | Anti-Gemini-1 |
+| 4 | `api.relayrouter.ai` | $0.0551475 | $0.275738 | 0.07353 | Anti-Gemini-1 |
+| 5 | `api.lcapi.online` | $0.06 | $0.3008 | 0.08 | 非人类分组【0.08x】 |
+| 6 | `v2.cloudmist.cloud` | $0.0634196 | $0.317098 | 0.0845595 | Anti-Gemini-1 |
+| 7 | `api-top.com` | $0.075 | $0.375 | 0.1 | Gemini满血 |
+| 8 | `topapi.io` | $0.075 | $0.375 | 0.1 | Gemini满血 |
+| 9 | `modelsell.com` | $0.075 | $0.375 | 0.1 | Gemini Cli |
+| 10 | `www.yuanshen.net.eu.org` | $0.075 | $0.075 | 0.001 | 福利分组 |
+| 11 | `newapi.youkies.cloud` | $0.09 | $0.45 | 0.12 | a/gemini |
+| 12 | `api.liangrekui.com` | $0.10875 | $0.54375 | 0.145 | JA gemini自制 |
+| 13 | `quanzil.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
+| 14 | `tryallapi.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
+| 15 | `jeniya.cn` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
+
+[↑ 目录](#toc)
+
+<a id="model-gemini-2-5-flash"></a>
+### Gemini 2.5 Flash（147 家）
+
+| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
+|---|---|---|---|---|---|
+| 1 | `www.nexotoken.net` | $0.0025797 | $0.0215143 | 0.09273 | Gemini·CLI特价版 |
+| 2 | `api.openlux.ai` | $0.022059 | $0.183972 | 0.07353 | Anti-Gemini-1 |
+| 3 | `api.relayrouter.ai` | $0.022059 | $0.183972 | 0.07353 | Anti-Gemini-1 |
+| 4 | `v2.cloudmist.cloud` | $0.0253678 | $0.211567 | 0.0845595 | Anti-Gemini-1 |
+| 5 | `newapi.youkies.cloud` | $0.036 | $0.3 | 0.12 | a/gemini |
+| 6 | `api.liangrekui.com` | $0.0435 | $0.3625 | 0.145 | JA gemini自制 |
+| 7 | `quanzil.com` | $0.044118 | $0.367944 | 0.14706 | Anti-Gemini-1 |
+| 8 | `tryallapi.com` | $0.044118 | $0.367944 | 0.14706 | Anti-Gemini-1 |
+| 9 | `jeniya.cn` | $0.044118 | $0.367944 | 0.14706 | Anti-Gemini-1 |
+| 10 | `itkk.lol` | $0.045 | $0.375 | 0.15 | gemini_满血 |
+| 11 | `laysoai.com` | $0.048 | $0.4 | 0.16 |  |
+| 12 | `thousandengine.com` | $0.0485298 | $0.404739 | 0.16176600000000002 | Anti-Gemini-1 |
+| 13 | `api.xiaoyaoxx.cn` | $0.054 | $0.45 | 0.18 | JB geminni |
+| 14 | `liangxinapi.top` | $0.054 | $0.45 | 0.2 | Gemini |
+| 15 | `qilinapi.nervers.com` | $0.054 | $0.45 | 0.2 | s4:google-gemini |
+
+[↑ 目录](#toc)
+
+<a id="shops"></a>
+## 发卡
+
+<a id="shop-platforms"></a>
+### 平台与系统
 
 **发卡平台（SaaS，商家入驻）**
 
@@ -169,7 +298,10 @@ python3 tools/query.py domain api.openlux.ai
 | Orion Key | https://github.com/RivenLau/orion-key | React+Next.js+Spring Boot |
 | 萌次元商城系统 | https://wiki.mcy.im | 分站/插件体系 |
 
-## 发卡 · Gemini Pro 低价 Top 15
+[↑ 目录](#toc)
+
+<a id="shop-gemini-pro"></a>
+### Gemini Pro 低价 Top 15
 
 | 商品 | 价格(¥) | 店铺 | 归属 | 来源 |
 |---|---|---|---|---|
@@ -189,7 +321,10 @@ python3 tools/query.py domain api.openlux.ai
 | Gemini AI Pro 18个月权益【官方链接直接领取】无质保~ | ¥5.47 | GGbond ai | 未知SaaS(wzyp.cn) | OpenPrice |
 | Gemini18个月Pro激活链接\|无需绑卡\|可使用反重力\|直接激活\| | ¥5.83 | GGbond ai | 未知SaaS(wzyp.cn) | OpenPrice |
 
-## 发卡 · Google AI Ultra 20x Top 15
+[↑ 目录](#toc)
+
+<a id="shop-ultra-20x"></a>
+### Google AI Ultra 20x Top 15
 
 | 商品 | 价格(¥) | 店铺 | 归属 | 来源 |
 |---|---|---|---|---|
@@ -209,7 +344,10 @@ python3 tools/query.py domain api.openlux.ai
 | Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥245.14 | （彩虹马）筱博的小店 | 未知SaaS(wzyp.cn) | OpenPrice |
 | Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥263.2 | 🐓PT-Plus | 链动小铺 | AI号探 |
 
-## 发卡 · 店铺速览（按商品数 Top 20）
+[↑ 目录](#toc)
+
+<a id="shop-list"></a>
+### 店铺速览（按商品数 Top 20）
 
 | 店铺 | 归属 | 品类 | 价位(¥) | 来源 |
 |---|---|---|---|---|
@@ -234,32 +372,55 @@ python3 tools/query.py domain api.openlux.ai
 | recardai | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/其它/邮箱 | 0.1-1895.2 | OpenPrice |
 | ai小头 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/Gemini Ultra/Grok/其它/邮箱 | 1.13-1461.57 | AI号探/OpenPrice |
 
-## 目录
+完整店铺与商品：[shops.csv](data/shops/shops.csv) · [products.csv](data/shops/products.csv)
 
-```
-data/relays/relays.csv          中转站主表
-data/relays/relay-models.csv    站×模型×价格（12774 条）
-data/relays/relay-systems.csv   中转站软件名录
-data/relays/by-model/*.md       143 个模型榜单
-data/shops/platforms.csv        发卡平台
-data/shops/systems.csv          发卡系统
-data/shops/shops.csv            店铺主表
-data/shops/products.csv         商品报价（10646 条）
-data/raw/                       原始产物与溯源
-docs/                           价格原理/黑话表/选购指南
-tools/                          抓取、归一化、查询
-```
+[↑ 目录](#toc)
 
+<a id="files"></a>
+## 数据文件
+
+| 路径 | 内容 |
+|---|---|
+| `data/relays/relays.csv` | 中转站主表（域名/评分/模型） |
+| `data/relays/relay-models.csv` | 站 × 模型 × 价格（12774 条） |
+| `data/relays/relay-systems.csv` | 中转站软件名录 |
+| `data/relays/by-model/` | 142 个模型榜单 + index |
+| `data/shops/platforms.csv` | 发卡平台 |
+| `data/shops/systems.csv` | 发卡系统 |
+| `data/shops/shops.csv` | 店铺主表 |
+| `data/shops/products.csv` | 商品报价（10646 条） |
+| `data/raw/` | 原始产物与溯源 |
+| `data/stats.md` | 数据概览 |
+
+[↑ 目录](#toc)
+
+<a id="docs"></a>
+## 文档
+
+| 文档 | 内容 |
+|---|---|
+| [pricing-basics.md](docs/pricing-basics.md) | 倍率/价格怎么算 |
+| [glossary.md](docs/glossary.md) | 黑话表（质保/首登/RT/反重力/拼车…） |
+| [how-to-choose.md](docs/how-to-choose.md) | 怎么选上游 / 避坑 |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | 贡献格式 |
+
+[↑ 目录](#toc)
+
+<a id="sources"></a>
 ## 数据来源
 
 OpenPrice、水獭比价(shuita.xyz)、PriceAI、AI号探、AiFaKa、Veridrop，以及各中转站公开的 `/api/pricing`、`/api/v1/model-plaza`。原始报价版权归各来源站，见 [DATA-LICENSE.md](DATA-LICENSE.md)。
 
+<a id="license"></a>
 ## 授权
 
 - 代码 **MIT** · [LICENSE](LICENSE)
 - 编排与整理 **CC BY-NC 4.0** · [DATA-LICENSE.md](DATA-LICENSE.md)
 - 原始报价版权归各来源站
 
+<a id="contributing"></a>
 ## 贡献
 
 见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+[↑ 回到目录](#toc)
