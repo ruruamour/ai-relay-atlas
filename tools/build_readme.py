@@ -35,12 +35,15 @@ for r in rm:
     if p is not None and p>0 and (st[d]['minp'] is None or p<st[d]['minp']): st[d]['minp']=p
 vd={r['domain']:f(r['veridrop_score']) for r in rl if r.get('veridrop_score')}
 name={r['domain']:r.get('name') for r in rl}
+http={r['domain']:r.get('http_status') for r in rl}
+lat={r['domain']:r.get('latency_ms') for r in rl}
 status={r['domain']:r.get('status') for r in rl}
 alldoms=set(r['domain'] for r in rl)|set(st)
 def score(d):
     v=vd.get(d) or 0
     n=len(st[d]['models']) if d in st else 0
-    return (1 if v>0 else 0, v, n)
+    up=1 if str(http.get(d))=='200' else 0
+    return (up, 1 if v>0 else 0, v, n)
 ranked=sorted(alldoms,key=lambda d:score(d),reverse=True)
 
 L=[];A=L.append
@@ -72,15 +75,17 @@ A('```'); A('')
 A('重生成本页：`python3 tools/normalize.py && python3 tools/normalize_shops.py && python3 tools/generate_by_model.py && python3 tools/build_readme.py`'); A('')
 # 综合名单
 A('<a id="relays"></a>'); A('## 中转站 · 综合名单'); A('')
-A('| # | 站点 | Veridrop | 模型数 | Gemini | Grok | MiMo | Argon | 最低价($/1M) | 状态 |')
-A('|---|---|---|---|---|---|---|---|---|---|')
+A('| # | 站点 | 状态 | 延迟 | Veridrop | 模型数 | 覆盖 | 最低价($/1M) |')
+A('|---|---|---|---|---|---|---|---|')
 def mark(d,k): return '✓' if k in st[d]['fams'] else ''
 for i,d in enumerate(ranked[:100],1):
     s=st[d]; v=vd.get(d)
-    A('| %d | `%s` | %s | %d | %s | %s | %s | %s | %s | %s |'%(
-        i,esc(d),('%g'%v) if v else '-',len(s['models']),mark(d,'gemini'),mark(d,'grok'),mark(d,'mimo'),('✓' if s['argon'] else ''),
-        ('$%g'%s['minp']) if s['minp'] else '-',esc(status.get(d,''))))
+    cov=''.join([k for k,ok in [('G','gemini' in s['fams']),('X','grok' in s['fams']),('M','mimo' in s['fams']),('A',s['argon'])] if ok])
+    A('| %d | `%s` | %s | %s | %s | %d | %s | %s |'%(
+        i,esc(d),esc(http.get(d) or '-'),(esc(lat.get(d))+'ms') if lat.get(d) else '-',('%g'%v) if v else '-',
+        len(s['models']),cov or '-',('$%g'%s['minp']) if s['minp'] else '-'))
 A('')
+A('覆盖：G=Gemini · X=Grok · M=MiMo · A=Argon。'); A('')
 A('完整名单（%d 站）：[relays.csv](data/relays/relays.csv) · 站×模型价：[relay-models.csv](data/relays/relay-models.csv)'%len(alldoms)); A('')
 A('[↑ 目录](#toc)'); A('')
 # 覆盖

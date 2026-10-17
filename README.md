@@ -48,108 +48,110 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 <a id="relays"></a>
 ## 中转站 · 综合名单
 
-| # | 站点 | Veridrop | 模型数 | Gemini | Grok | MiMo | Argon | 最低价($/1M) | 状态 |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | `www.micuapi.ai` | 100 | 155 | ✓ |  |  |  | $0.0375 | 200 |
-| 2 | `api.hoxkai.top` | 100 | 122 | ✓ | ✓ |  | ✓ | $0.06375 | 200 |
-| 3 | `ai.comfly.org` | 100 | 99 | ✓ | ✓ | ✓ | ✓ | $0.15 | 200 |
-| 4 | `thousandengine.com` | 100 | 89 | ✓ | ✓ | ✓ | ✓ | $0.0060662 | 200 |
-| 5 | `jeniya.cn` | 100 | 88 | ✓ | ✓ | ✓ |  | $0.0055147 | 200 |
-| 6 | `api.winfull.cloud-ip.cc` | 100 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
-| 7 | `anyaigc.com` | 100 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
-| 8 | `yinli.one` | 100 | 24 | ✓ |  |  |  | $0.15 | 200 |
-| 9 | `api.juziai.cc` | 100 | 18 | ✓ | ✓ |  | ✓ | $6 | 200 |
-| 10 | `api.qfgapi.com` | 100 | 18 | ✓ | ✓ |  | ✓ | $0.05 | 200 |
-| 11 | `api.key77qiqi.com` | 100 | 17 | ✓ |  |  |  | $0.1 | 200 |
-| 12 | `gemini30.pro` | 100 | 16 | ✓ |  |  |  | $0.2625 | 200 |
-| 13 | `tenzen.ai` | 100 | 16 | ✓ |  |  |  | $0.1 | 200 |
-| 14 | `top.taluna.ai` | 100 | 16 | ✓ | ✓ |  |  | $0.1 | 200 |
-| 15 | `code28.ccwu.cc` | 100 | 12 | ✓ | ✓ |  | ✓ | $0.375 | 200 |
-| 16 | `api.humanwill.xyz` | 100 | 11 | ✓ | ✓ |  |  | $0.24 | 200 |
-| 17 | `tian-shu.org` | 100 | 7 | ✓ |  |  |  | $0.105 | 200 |
-| 18 | `topapi.io` | 100 | 6 | ✓ | ✓ |  |  | $0.025 | 200 |
-| 19 | `aihubmix.com` | 100 | 3 | ✓ |  |  |  | $0.5 | 200 |
-| 20 | `doro.lol` | 100 | 2 | ✓ |  |  |  | $0.45 | 200 |
-| 21 | `laysoai.com` | 100 | 2 | ✓ |  |  |  | $0.048 | 200 |
-| 22 | `www.xcloudtoken.com` | 100 | 2 | ✓ |  |  |  | $0.03375 | 200 |
-| 23 | `www.akucb.com` | 100 | 0 |  |  |  |  | - | 200 |
-| 24 | `aigc.x-see.cn` | 100 | 0 |  |  |  |  | - | 200 |
-| 25 | `runy-test.yitd.cn` | 100 | 0 |  |  |  |  | - |  |
-| 26 | `seesaw2ai.com` | 100 | 0 |  |  |  |  | - | 200 |
-| 27 | `api.mosshubs.com` | 100 | 0 |  |  |  |  | - | 200 |
-| 28 | `kuaiapi.net` | 100 | 0 |  |  |  |  | - | 200 |
-| 29 | `kjapi.botsmart.net` | 100 | 0 |  |  |  |  | - | 200 |
-| 30 | `meowntor.xyz.hr` | 100 | 0 |  |  |  |  | - |  |
-| 31 | `wawapi.top` | 100 | 0 |  |  |  |  | - | 200 |
-| 32 | `api-slb.packyapi.com` | 100 | 0 |  |  |  |  | - | 200 |
-| 33 | `generativelanguage.googleapis.com` | 99 | 0 |  |  |  |  | - |  |
-| 34 | `api.apiyi.com` | 98 | 136 | ✓ | ✓ |  | ✓ | $0.0375 | 200 |
-| 35 | `coultra.blueshirtmap.com` | 98 | 74 | ✓ |  |  |  | $0.065 | 200 |
-| 36 | `poloai.top` | 98 | 72 | ✓ | ✓ |  | ✓ | $0.1 | 200 |
-| 37 | `api.vveai.com` | 98 | 59 | ✓ | ✓ |  |  | $0.1 | 200 |
-| 38 | `api.147ai.cn` | 98 | 40 | ✓ | ✓ |  | ✓ | $0.4 | 200 |
-| 39 | `runapi.co` | 98 | 19 | ✓ | ✓ |  | ✓ | $0.0215 | 200 |
-| 40 | `jp-api.tokone.ai` | 98 | 18 | ✓ |  |  |  | $0.07 | 200 |
-| 41 | `api.yourapi.cn` | 98 | 16 | ✓ |  |  | ✓ | $0.35 | 200 |
-| 42 | `lanxiu.cc` | 98 | 11 | ✓ | ✓ |  |  | $0.03 | 200 |
-| 43 | `api.feiyang.click` | 98 | 4 | ✓ | ✓ |  |  | $0.16 | 200 |
-| 44 | `api.squarefaceicon.org` | 98 | 2 | ✓ |  |  |  | $0.1875 | 200 |
-| 45 | `vip.xiaweiliang.cn` | 98 | 0 |  |  |  |  | - |  |
-| 46 | `newapi.wuji.us.eu.org` | 98 | 0 |  |  |  |  | - | 200 |
-| 47 | `vulcanapi.com` | 98 | 0 |  |  |  |  | - | 200 |
-| 48 | `api.theclawbay.com` | 98 | 0 |  |  |  |  | - |  |
-| 49 | `gg.aivvip.cc` | 97 | 55 | ✓ | ✓ |  | ✓ | - | 200 |
-| 50 | `ac.127api.top` | 97 | 35 | ✓ |  |  | ✓ | $75 | 200 |
-| 51 | `cf-api.o1key.com` | 97 | 26 | ✓ |  |  |  | $0.1 | 200 |
-| 52 | `cdn.sta1n.cn` | 97 | 24 | ✓ |  | ✓ | ✓ | $0.125 | 200 |
-| 53 | `api.gravitex.ai` | 97 | 18 | ✓ |  |  | ✓ | $0.1 | 200 |
-| 54 | `zjapi.com` | 97 | 12 | ✓ |  |  |  | $0.09 | 200 |
-| 55 | `nikoapi.xyz` | 97 | 11 | ✓ |  |  | ✓ | $0.075 | 200 |
-| 56 | `routemux.com` | 97 | 9 | ✓ |  |  |  | $0.075 | 200 |
-| 57 | `passion8.cc` | 97 | 8 | ✓ | ✓ |  | ✓ | $0.3 | 200 |
-| 58 | `api.xkiro.com` | 97 | 0 |  |  |  |  | - |  |
-| 59 | `nextrouterfree.duckdns.org` | 97 | 0 |  |  |  |  | - |  |
-| 60 | `iai.iisbo.com` | 96 | 114 | ✓ | ✓ |  | ✓ | $0.5418 | 200 |
-| 61 | `api.qingyuntop.top` | 96 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
-| 62 | `love.qinyan.icu` | 96 | 83 | ✓ |  |  |  | $0.065 | 200 |
-| 63 | `api.rcouyi.com` | 96 | 71 | ✓ | ✓ | ✓ |  | $0.075 | 200 |
-| 64 | `4sapi.com` | 96 | 47 | ✓ | ✓ |  | ✓ | $0.25 | 200 |
-| 65 | `vsllm.com` | 96 | 44 | ✓ | ✓ | ✓ |  | $0.1 | 200 |
-| 66 | `console.qqqrouter.ai` | 96 | 41 | ✓ |  |  |  | $0.1 | 200 |
-| 67 | `2api.powerapi.cc` | 96 | 40 | ✓ | ✓ |  | ✓ | $0.03 |  |
-| 68 | `api.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
-| 69 | `api3.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
-| 70 | `api2.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
-| 71 | `nexaxis.ai` | 96 | 32 | ✓ |  |  | ✓ | $0.15 | 200 |
-| 72 | `api.vectorengine.ai` | 96 | 32 | ✓ |  | ✓ |  | $0.1 | 200 |
-| 73 | `tidewhisper-ai.xyz` | 96 | 27 | ✓ | ✓ |  | ✓ | $0.54 | 200 |
-| 74 | `newapi.youkies.cloud` | 96 | 25 | ✓ |  |  | ✓ | $0.012 | 200 |
-| 75 | `wolfai.top` | 96 | 23 | ✓ | ✓ |  |  | $0.25 | 200 |
-| 76 | `a6api.com` | 96 | 23 | ✓ | ✓ | ✓ | ✓ | $1 | 200 |
-| 77 | `api.mcapple.top` | 96 | 22 | ✓ | ✓ |  |  | $0.078 | 200 |
-| 78 | `azemm.cc` | 96 | 20 | ✓ |  |  | ✓ | $0.075 | 200 |
-| 79 | `sparkcode.top` | 96 | 19 | ✓ | ✓ |  | ✓ | $0.15 | 200 |
-| 80 | `moyuu.cc` | 96 | 19 | ✓ | ✓ | ✓ | ✓ | $0.0375 | 200 |
-| 81 | `viper3.ai` | 96 | 19 | ✓ | ✓ |  |  | $0.325 | 200 |
-| 82 | `itkk.lol` | 96 | 18 | ✓ | ✓ |  | ✓ | $0.015 | 200 |
-| 83 | `api.1024token.xyz` | 96 | 18 | ✓ | ✓ |  |  | $0.045 | 200 |
-| 84 | `relayrax.com` | 96 | 13 | ✓ |  |  | ✓ | $0.2 | 200 |
-| 85 | `llm-all.pro` | 96 | 12 | ✓ | ✓ | ✓ |  | $0.06 | 200 |
-| 86 | `www.wamwuai.com` | 96 | 11 | ✓ |  |  |  | - | 200 |
-| 87 | `api.clawsocket.com` | 96 | 11 | ✓ | ✓ |  | ✓ | $0.5 | 200 |
-| 88 | `sapi.zly168.cn` | 96 | 11 | ✓ | ✓ | ✓ | ✓ | $0.97 | 200 |
-| 89 | `qilinapi.nervers.com` | 96 | 10 | ✓ | ✓ |  |  | $0.018 | 200 |
-| 90 | `cf.modelflare.dev` | 96 | 10 | ✓ | ✓ |  |  | $0.02 | 200 |
-| 91 | `speed23.toter.me` | 96 | 9 | ✓ | ✓ | ✓ |  | $0.18 | 200 |
-| 92 | `www.zzshu.cc` | 96 | 8 | ✓ | ✓ |  |  | $0.15 | 200 |
-| 93 | `api.xiaoxuapi.com` | 96 | 8 | ✓ |  |  |  | $0.1925 | 200 |
-| 94 | `wawazz.xyz` | 96 | 8 | ✓ | ✓ |  | ✓ | $0.125 | 200 |
-| 95 | `www.weekly-day.top` | 96 | 8 | ✓ | ✓ |  |  | $0.09 | 200 |
-| 96 | `tian-shu.net` | 96 | 7 | ✓ |  |  |  | $0.105 | 200 |
-| 97 | `api.maoapi.org` | 96 | 7 | ✓ | ✓ |  | ✓ | $0.24 | 200 |
-| 98 | `shapi.vip` | 96 | 5 | ✓ |  |  |  | $0.08 | 200 |
-| 99 | `dasuapi.com` | 96 | 4 | ✓ | ✓ |  |  | $0.22 | 200 |
-| 100 | `www.hejuapi.com` | 96 | 4 | ✓ |  |  | ✓ | $0.1875 | 200 |
+| # | 站点 | 状态 | 延迟 | Veridrop | 模型数 | 覆盖 | 最低价($/1M) |
+|---|---|---|---|---|---|---|---|
+| 1 | `www.micuapi.ai` | 200 | 2516ms | 100 | 155 | G | $0.0375 |
+| 2 | `api.hoxkai.top` | 200 | 1538ms | 100 | 122 | GXA | $0.06375 |
+| 3 | `ai.comfly.org` | 200 | 1277ms | 100 | 99 | GXMA | $0.15 |
+| 4 | `thousandengine.com` | 200 | 3439ms | 100 | 89 | GXMA | $0.0060662 |
+| 5 | `jeniya.cn` | 200 | 3216ms | 100 | 88 | GXM | $0.0055147 |
+| 6 | `api.winfull.cloud-ip.cc` | 200 | 3563ms | 100 | 85 | GXM | $0.0375 |
+| 7 | `anyaigc.com` | 200 | 2107ms | 100 | 85 | GXM | $0.0375 |
+| 8 | `yinli.one` | 200 | 2351ms | 100 | 24 | G | $0.15 |
+| 9 | `api.juziai.cc` | 200 | 2239ms | 100 | 18 | GXA | $6 |
+| 10 | `api.qfgapi.com` | 200 | 759ms | 100 | 18 | GXA | $0.05 |
+| 11 | `api.key77qiqi.com` | 200 | 1890ms | 100 | 17 | G | $0.1 |
+| 12 | `gemini30.pro` | 200 | 2881ms | 100 | 16 | G | $0.2625 |
+| 13 | `tenzen.ai` | 200 | 2623ms | 100 | 16 | G | $0.1 |
+| 14 | `top.taluna.ai` | 200 | 4274ms | 100 | 16 | GX | $0.1 |
+| 15 | `code28.ccwu.cc` | 200 | 849ms | 100 | 12 | GXA | $0.375 |
+| 16 | `api.humanwill.xyz` | 200 | 2422ms | 100 | 11 | GX | $0.24 |
+| 17 | `tian-shu.org` | 200 | 1747ms | 100 | 7 | G | $0.105 |
+| 18 | `topapi.io` | 200 | 836ms | 100 | 6 | GX | $0.025 |
+| 19 | `aihubmix.com` | 200 | 2536ms | 100 | 3 | G | $0.5 |
+| 20 | `laysoai.com` | 200 | 5669ms | 100 | 2 | G | $0.048 |
+| 21 | `www.xcloudtoken.com` | 200 | 2754ms | 100 | 2 | G | $0.03375 |
+| 22 | `doro.lol` | 200 | 3026ms | 100 | 2 | G | $0.45 |
+| 23 | `aigc.x-see.cn` | 200 | 261ms | 100 | 0 | - | - |
+| 24 | `wawapi.top` | 200 | 1272ms | 100 | 0 | - | - |
+| 25 | `kuaiapi.net` | 200 | 2867ms | 100 | 0 | - | - |
+| 26 | `api.mosshubs.com` | 200 | 4354ms | 100 | 0 | - | - |
+| 27 | `www.akucb.com` | 200 | 1535ms | 100 | 0 | - | - |
+| 28 | `seesaw2ai.com` | 200 | 1662ms | 100 | 0 | - | - |
+| 29 | `kjapi.botsmart.net` | 200 | 468ms | 100 | 0 | - | - |
+| 30 | `meowntor.xyz.hr` | 200 | 1063ms | 100 | 0 | - | - |
+| 31 | `api-slb.packyapi.com` | 200 | 3936ms | 100 | 0 | - | - |
+| 32 | `api.apiyi.com` | 200 | 2810ms | 98 | 136 | GXA | $0.0375 |
+| 33 | `coultra.blueshirtmap.com` | 200 | 4259ms | 98 | 74 | G | $0.065 |
+| 34 | `poloai.top` | 200 | 2379ms | 98 | 72 | GXA | $0.1 |
+| 35 | `api.vveai.com` | 200 | 1321ms | 98 | 59 | GX | $0.1 |
+| 36 | `api.147ai.cn` | 200 | 424ms | 98 | 40 | GXA | $0.4 |
+| 37 | `runapi.co` | 200 | 1567ms | 98 | 19 | GXA | $0.0215 |
+| 38 | `jp-api.tokone.ai` | 200 | 1180ms | 98 | 18 | G | $0.07 |
+| 39 | `api.yourapi.cn` | 200 | 858ms | 98 | 16 | GA | $0.35 |
+| 40 | `lanxiu.cc` | 200 | 3134ms | 98 | 11 | GX | $0.03 |
+| 41 | `api.feiyang.click` | 200 | 1436ms | 98 | 4 | GX | $0.16 |
+| 42 | `api.squarefaceicon.org` | 200 | 1445ms | 98 | 2 | G | $0.1875 |
+| 43 | `newapi.wuji.us.eu.org` | 200 | 3475ms | 98 | 0 | - | - |
+| 44 | `vulcanapi.com` | 200 | 1959ms | 98 | 0 | - | - |
+| 45 | `gg.aivvip.cc` | 200 | 1346ms | 97 | 55 | GXA | - |
+| 46 | `ac.127api.top` | 200 | 1161ms | 97 | 35 | GA | $75 |
+| 47 | `cf-api.o1key.com` | 200 | 1928ms | 97 | 26 | G | $0.1 |
+| 48 | `cdn.sta1n.cn` | 200 | 1261ms | 97 | 24 | GMA | $0.125 |
+| 49 | `api.gravitex.ai` | 200 | 2364ms | 97 | 18 | GA | $0.1 |
+| 50 | `zjapi.com` | 200 | 647ms | 97 | 12 | G | $0.09 |
+| 51 | `nikoapi.xyz` | 200 | 1482ms | 97 | 11 | GA | $0.075 |
+| 52 | `passion8.cc` | 200 | 678ms | 97 | 8 | GXA | $0.3 |
+| 53 | `iai.iisbo.com` | 200 | 1712ms | 96 | 114 | GXA | $0.5418 |
+| 54 | `api.qingyuntop.top` | 200 | 2460ms | 96 | 85 | GXM | $0.0375 |
+| 55 | `love.qinyan.icu` | 200 | 1685ms | 96 | 83 | G | $0.065 |
+| 56 | `api.rcouyi.com` | 200 | 1872ms | 96 | 71 | GXM | $0.075 |
+| 57 | `4sapi.com` | 200 | 1545ms | 96 | 47 | GXA | $0.25 |
+| 58 | `vsllm.com` | 200 | 1190ms | 96 | 44 | GXM | $0.1 |
+| 59 | `console.qqqrouter.ai` | 200 | 1638ms | 96 | 41 | G | $0.1 |
+| 60 | `api.gemai.cc` | 200 | 1562ms | 96 | 35 | GX | $75 |
+| 61 | `api3.gemai.cc` | 200 | 1453ms | 96 | 35 | GX | $75 |
+| 62 | `api2.gemai.cc` | 200 | 1457ms | 96 | 35 | GX | $75 |
+| 63 | `api.vectorengine.ai` | 200 | 2244ms | 96 | 32 | GM | $0.1 |
+| 64 | `nexaxis.ai` | 200 | 2820ms | 96 | 32 | GA | $0.15 |
+| 65 | `tidewhisper-ai.xyz` | 200 | 2352ms | 96 | 27 | GXA | $0.54 |
+| 66 | `newapi.youkies.cloud` | 200 | 1918ms | 96 | 25 | GA | $0.012 |
+| 67 | `wolfai.top` | 200 | 1897ms | 96 | 23 | GX | $0.25 |
+| 68 | `a6api.com` | 200 | 1247ms | 96 | 23 | GXMA | $1 |
+| 69 | `api.mcapple.top` | 200 | 1181ms | 96 | 22 | GX | $0.078 |
+| 70 | `azemm.cc` | 200 | 2588ms | 96 | 20 | GA | $0.075 |
+| 71 | `sparkcode.top` | 200 | 2079ms | 96 | 19 | GXA | $0.15 |
+| 72 | `moyuu.cc` | 200 | 719ms | 96 | 19 | GXMA | $0.0375 |
+| 73 | `viper3.ai` | 200 | 1981ms | 96 | 19 | GX | $0.325 |
+| 74 | `api.1024token.xyz` | 200 | 1669ms | 96 | 18 | GX | $0.045 |
+| 75 | `itkk.lol` | 200 | 1228ms | 96 | 18 | GXA | $0.015 |
+| 76 | `relayrax.com` | 200 | 1049ms | 96 | 13 | GA | $0.2 |
+| 77 | `llm-all.pro` | 200 | 6195ms | 96 | 12 | GXM | $0.06 |
+| 78 | `sapi.zly168.cn` | 200 | 300ms | 96 | 11 | GXMA | $0.97 |
+| 79 | `www.wamwuai.com` | 200 | 2584ms | 96 | 11 | G | - |
+| 80 | `api.clawsocket.com` | 200 | 1077ms | 96 | 11 | GXA | $0.5 |
+| 81 | `qilinapi.nervers.com` | 200 | 2332ms | 96 | 10 | GX | $0.018 |
+| 82 | `cf.modelflare.dev` | 200 | 1224ms | 96 | 10 | GX | $0.02 |
+| 83 | `speed23.toter.me` | 200 | 1684ms | 96 | 9 | GXM | $0.18 |
+| 84 | `wawazz.xyz` | 200 | 2347ms | 96 | 8 | GXA | $0.125 |
+| 85 | `www.zzshu.cc` | 200 | 2805ms | 96 | 8 | GX | $0.15 |
+| 86 | `www.weekly-day.top` | 200 | 2168ms | 96 | 8 | GX | $0.09 |
+| 87 | `api.xiaoxuapi.com` | 200 | 813ms | 96 | 8 | G | $0.1925 |
+| 88 | `api.maoapi.org` | 200 | 1906ms | 96 | 7 | GXA | $0.24 |
+| 89 | `tian-shu.net` | 200 | 1309ms | 96 | 7 | G | $0.105 |
+| 90 | `shapi.vip` | 200 | 1642ms | 96 | 5 | G | $0.08 |
+| 91 | `www.hejuapi.com` | 200 | 1120ms | 96 | 4 | GA | $0.1875 |
+| 92 | `dasuapi.com` | 200 | 1715ms | 96 | 4 | GX | $0.22 |
+| 93 | `api.wynb.top` | 200 | 1294ms | 96 | 3 | G | $0.2625 |
+| 94 | `www.ciciapi.com` | 200 | 1582ms | 96 | 0 | - | - |
+| 95 | `hiflowt.ai` | 200 | 2451ms | 96 | 0 | - | - |
+| 96 | `zenmux.ai` | 200 | 1317ms | 96 | 0 | - | - |
+| 97 | `bbbs.pw` | 200 | 1573ms | 96 | 0 | - | - |
+| 98 | `quanzil.com` | 200 | 1779ms | 95 | 89 | GXMA | $0.0055147 |
+| 99 | `api.relayrouter.ai` | 200 | 3440ms | 95 | 89 | GXMA | $0.0027574 |
+| 100 | `vipapi.online` | 200 | 1991ms | 95 | 85 | GXM | $0.0375 |
+
+覆盖：G=Gemini · X=Grok · M=MiMo · A=Argon。
 
 完整名单（1740 站）：[relays.csv](data/relays/relays.csv) · 站×模型价：[relay-models.csv](data/relays/relay-models.csv)
 
