@@ -8,7 +8,12 @@ def rd(f):
     p=os.path.join(RAW,f)
     if not os.path.exists(p): return []
     with open(p,newline='',encoding='utf-8-sig') as fh: return list(csv.DictReader(fh))
-SYSTEM_BY_HOST={'ultra.makelove.cloud':'独角数卡','gpthub.ciyuanapi.ai':'独角数卡','shihuiai.cn':'异次元发卡'}
+SYSTEM_BY_HOST={'ultra.makelove.cloud':'独角数卡','gpthub.ciyuanapi.ai':'独角数卡','shihuiai.cn':'异次元发卡',
+ 'shop.aictk.shop':'独角数卡',
+ 'accharbor.com':'异次元发卡','aiaimallss.cn':'异次元发卡','aisou.pro':'异次元发卡','apiciyuan.top':'异次元发卡',
+ 'cool.cheggnow.com':'异次元发卡','dimosky.com':'异次元发卡','douyiner.cn':'异次元发卡','gmailsol.com':'异次元发卡',
+ 'google7676.top':'异次元发卡','nikoers.com':'异次元发卡','store.codesky.qzz.io':'异次元发卡','tehuio.com':'异次元发卡',
+ 'www.ai-member.icu':'异次元发卡'}
 def classify(host):
     if host in ('pay.ldxp.cn','ldxp.cn','wzyp.cn'): return ('SaaS','链动小铺','','')
     if host=='catfk.com': return ('SaaS','云猫寄售','','')
