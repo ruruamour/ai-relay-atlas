@@ -72,7 +72,6 @@ A('```'); A('')
 A('重生成本页：`python3 tools/normalize.py && python3 tools/normalize_shops.py && python3 tools/generate_by_model.py && python3 tools/build_readme.py`'); A('')
 # 综合名单
 A('<a id="relays"></a>'); A('## 中转站 · 综合名单'); A('')
-A('> **不按最低价排序**：低价多为福利/免费组，可用性低。这里按 **Veridrop 实测分 → 模型覆盖数** 排序，仅作线索。'); A('')
 A('| # | 站点 | Veridrop | 模型数 | Gemini | Grok | MiMo | Argon | 最低价($/1M) | 状态 |')
 A('|---|---|---|---|---|---|---|---|---|---|')
 def mark(d,k): return '✓' if k in st[d]['fams'] else ''
