@@ -1,6 +1,6 @@
 # doubao-seed-2.0-mini
 
-> 10 家 · 最低 **$0.02411** @ `api.everyapi.ai` · 推算价（USD/1M 输入），未对账
+> 13 家 · 最低 **$0.02411** @ `api.everyapi.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -14,5 +14,8 @@
 | 8 | `api.ceptreal.com` | $60 | $60.0 | sssvip | 0.8 | doubao-seed-2.0-mini |
 | 9 | `mytok.vip` | $63.75 | $63.75 | Models-CN | 0.85 | doubao-seed-2.0-mini |
 | 10 | `www.mytok.vip` | $63.75 | $63.75 | Models-CN | 0.85 | doubao-seed-2.0-mini |
+| 11 | `kfcv50.link` | $75 | $75.0 | Domestic | 1 | doubao-seed-2.0-mini |
+| 12 | `llmhub.net` | $75 | $75.0 | default | 1 | doubao-seed-2.0-mini |
+| 13 | `hk2.tken.me` | $79.5 | $79.5 | 官方全系稳定渠道 | 1.06 | doubao-seed-2.0-mini |
 
 [← 返回索引](index.md)

@@ -1,6 +1,6 @@
 # gemini-2.5-flash-thinking-*
 
-> 39 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 42 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -39,9 +39,12 @@
 | 33 | `api2.4xapi.com` | $0.75 | $6.25 | Gemini-vertex | 2.5 | gemini-2.5-flash-thinking-* |
 | 34 | `api.zyai.online` | $0.9 | $7.5 | Banana2_VIP | 3 | gemini-2.5-flash-thinking-* |
 | 35 | `cn.api.zyai.online` | $0.9 | $7.5 | Banana2_VIP | 3 | gemini-2.5-flash-thinking-* |
-| 36 | `officesai.top` | $8.4 | $70.0 | Image绘图 4K | 1 | gemini-2.5-flash-thinking-* |
-| 37 | `api.hopeai.cc` | $75 | $625.0 | default | 1 | gemini-2.5-flash-thinking-* |
-| 38 | `poloai.top` | $225 | $1875.0 | Gemini-优质临时分组 | 3 | gemini-2.5-flash-thinking-* |
-| 39 | `poloapi.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-2.5-flash-thinking-* |
+| 36 | `claude.4sapi.com` | $1.05 | $8.757 | gemini-优质分组 | 3.5 | gemini-2.5-flash-thinking-* |
+| 37 | `officesai.top` | $8.4 | $70.0 | Image绘图 4K | 1 | gemini-2.5-flash-thinking-* |
+| 38 | `go.sbgpt.site` | $36 | $300.0 | 无审核az-0.4倍率 | 0.48 | gemini-2.5-flash-thinking-* |
+| 39 | `api.hopeai.cc` | $75 | $625.0 | default | 1 | gemini-2.5-flash-thinking-* |
+| 40 | `poloai.top` | $225 | $1875.0 | Gemini-优质临时分组 | 3 | gemini-2.5-flash-thinking-* |
+| 41 | `poloapi.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-2.5-flash-thinking-* |
+| 42 | `api2.poloai.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-2.5-flash-thinking-* |
 
 [← 返回索引](index.md)

@@ -1,6 +1,6 @@
 # gemini-2.5-flash-preview-09-2025-no
 
-> 19 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 21 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -22,6 +22,8 @@
 | 16 | `vipapi.online` | $0.3 | $2.505 | gemini-cli | 1 | gemini-2.5-flash-preview-09-2025-nothinking |
 | 17 | `api.qingyuntop.top` | $0.3 | $2.505 | gemini-cli | 1 | gemini-2.5-flash-preview-09-2025-nothinking |
 | 18 | `api.winfull.cloud-ip.cc` | $0.3 | $2.505 | gemini-cli | 1 | gemini-2.5-flash-preview-09-2025-nothinking |
-| 19 | `api.hoxkai.top` | $0.51 | $4.2499998 | gemini | 1.7 | gemini-2.5-flash-preview-09-2025-nothinking |
+| 19 | `kfcv50.link` | $0.3 | $2.502 | Gemini_vip | 1 | gemini-2.5-flash-preview-09-2025-nothinking |
+| 20 | `api.hoxkai.top` | $0.51 | $4.2499998 | gemini | 1.7 | gemini-2.5-flash-preview-09-2025-nothinking |
+| 21 | `go.sbgpt.site` | $45 | $180.0 | gemini全模型 | 0.6 | gemini-2.5-flash-preview-09-2025-nothinking |
 
 [← 返回索引](index.md)

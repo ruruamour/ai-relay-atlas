@@ -1,6 +1,6 @@
 # gemini-flash-lite-latest-no
 
-> 31 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 38 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -30,10 +30,17 @@
 | 24 | `api2.4xapi.com` | $0.625 | $3.75 | Gemini-vertex | 2.5 | gemini-flash-lite-latest-nothinking |
 | 25 | `officesai.top` | $7 | $42.0 | Image绘图 4K | 1 | gemini-flash-lite-latest-nothinking |
 | 26 | `koalaapi.com` | $22.5 | $90.0 | default | 0.3 | gemini-flash-lite-latest-nothinking |
-| 27 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-flash-lite-latest-nothinking |
-| 28 | `4sapi.org` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-nothinking |
-| 29 | `4sapi.com` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-nothinking |
-| 30 | `poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-nothinking |
-| 31 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-nothinking |
+| 27 | `go.sbgpt.site` | $45 | $180.0 | gemini全模型 | 0.6 | gemini-flash-lite-latest-nothinking |
+| 28 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-flash-lite-latest-nothinking |
+| 29 | `4sapi.org` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-nothinking |
+| 30 | `4sapi.com` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-nothinking |
+| 31 | `poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-nothinking |
+| 32 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-nothinking |
+| 33 | `api2.poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-nothinking |
+| 34 | `4sapi.ai` | $262.5 | $1050.0 | Gemini优质分组 | 3.5 | gemini-flash-lite-latest-nothinking |
+| 35 | `4sapi.dev` | $262.5 | $1050.0 | Gemini优质分组 | 3.5 | gemini-flash-lite-latest-nothinking |
+| 36 | `4sapi.net` | $262.5 | $1050.0 | Gemini优质分组 | 3.5 | gemini-flash-lite-latest-nothinking |
+| 37 | `4sapi.top` | $262.5 | $1050.0 | Gemini优质分组 | 3.5 | gemini-flash-lite-latest-nothinking |
+| 38 | `4sapi.club` | $262.5 | $1050.0 | Gemini优质分组 | 3.5 | gemini-flash-lite-latest-nothinking |
 
 [← 返回索引](index.md)

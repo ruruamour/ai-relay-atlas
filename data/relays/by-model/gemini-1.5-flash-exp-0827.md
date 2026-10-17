@@ -1,6 +1,6 @@
 # gemini-1.5-flash-exp-0827
 
-> 22 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 23 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | 19 | `ai.comfly.org` | $0.3 | $0.9 | gemini优质 | 2 | gemini-1.5-flash-exp-0827 |
 | 20 | `api.routeeasy.ai` | $0.315 | $1.26 | anti_gemini_0706_025_qing | 0.25 | gemini-1.5-flash-exp-0827 |
 | 21 | `api.openai-labs.com` | $0.378 | $1.512 | geminicli | 0.3 | gemini-1.5-flash-exp-0827 |
-| 22 | `api.apib.ai` | $1.5 | $6.0 | - | - | gemini-1.5-flash-exp-0827 |
+| 22 | `go.sbgpt.site` | $1.2 | $4.8 | gemini全模型 | 0.6 | gemini-1.5-flash-exp-0827 |
+| 23 | `api.apib.ai` | $1.5 | $6.0 | - | - | gemini-1.5-flash-exp-0827 |
 
 [← 返回索引](index.md)

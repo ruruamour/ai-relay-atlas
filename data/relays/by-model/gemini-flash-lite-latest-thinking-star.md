@@ -1,6 +1,6 @@
 # gemini-flash-lite-latest-thinking-*
 
-> 32 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 38 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -32,9 +32,15 @@
 | 26 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-flash-lite-latest-thinking-* |
 | 27 | `4sapi.org` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
 | 28 | `4sapi.com` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
-| 29 | `poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-thinking-* |
-| 30 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-thinking-* |
-| 31 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-flash-lite-latest-thinking-* |
-| 32 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-flash-lite-latest-thinking-* |
+| 29 | `4sapi.ai` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
+| 30 | `4sapi.dev` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
+| 31 | `4sapi.net` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
+| 32 | `4sapi.top` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
+| 33 | `4sapi.club` | $187.5 | $750.0 | Gemini综合分组 | 2.5 | gemini-flash-lite-latest-thinking-* |
+| 34 | `poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-thinking-* |
+| 35 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-thinking-* |
+| 36 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-flash-lite-latest-thinking-* |
+| 37 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-flash-lite-latest-thinking-* |
+| 38 | `api2.poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-lite-latest-thinking-* |
 
 [← 返回索引](index.md)

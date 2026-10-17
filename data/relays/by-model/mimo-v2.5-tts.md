@@ -1,6 +1,6 @@
 # mimo-v2.5-tts
 
-> 15 家 · 最低 **$0.4** @ `ai-api.loft.games` · 推算价（USD/1M 输入），未对账
+> 16 家 · 最低 **$0.4** @ `ai-api.loft.games` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -19,5 +19,6 @@
 | 13 | `speed23.toter.me` | $75 | - | 75 | 1 | mimo-v2.5-tts |
 | 14 | `api.zyuo.cn` | $75 | $75.0 | default | 1 | mimo-v2.5-tts |
 | 15 | `speed11.toter.me` | $75 | $75.0 | 75 | 1 | mimo-v2.5-tts |
+| 16 | `kfcv50.link` | $75 | $75.0 | Domestic | 1 | mimo-v2.5-tts |
 
 [← 返回索引](index.md)

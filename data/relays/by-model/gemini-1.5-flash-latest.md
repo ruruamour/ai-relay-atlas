@@ -1,6 +1,6 @@
 # gemini-1.5-flash-latest
 
-> 33 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 36 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -25,17 +25,20 @@
 | 19 | `api.winfull.cloud-ip.cc` | $0.075 | $0.3 | gemini-cli | 1 | gemini-1.5-flash-latest |
 | 20 | `api.apiyi.com` | $0.075 | $0.3 | Gemini_Reverse | 0.5 | gemini-1.5-flash-latest |
 | 21 | `www.aiapikey.net` | $0.075 | - | Gemini | 0.5 | gemini-1.5-flash-latest |
-| 22 | `fluxlane.cn` | $0.15 | - | - | - | gemini-1.5-flash-latest |
-| 23 | `dragtokens.com` | $0.15 | - | - | - | gemini-1.5-flash-latest |
-| 24 | `www.micuapi.ai` | $0.15 | - | - | - | gemini-1.5-flash-latest |
-| 25 | `cf-api.o1key.com` | $0.15 | - | - | - | gemini-1.5-flash-latest |
-| 26 | `love.qinyan.icu` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-latest |
-| 27 | `openai.chatnewai.com` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-latest |
-| 28 | `api.openai-labs.com` | $0.21 | $0.84 | geminicli | 0.3 | gemini-1.5-flash-latest |
-| 29 | `ai.comfly.org` | $0.3 | - | gemini优质 | 2 | gemini-1.5-flash-latest |
-| 30 | `www.packyapi.com` | $0.45 | - | gemini-slb | 3 | gemini-1.5-flash-latest |
-| 31 | `api.wukong.support` | $0.5625 | $2.25 | gemini官渠 | 3.75 | gemini-1.5-flash-latest |
-| 32 | `api.hopeai.cc` | $0.7 | $2.8 | default | 1 | gemini-1.5-flash-latest |
-| 33 | `api.apib.ai` | $1.5 | $6.0 | - | - | gemini-1.5-flash-latest |
+| 22 | `go.sbgpt.site` | $0.09 | $0.36 | gemini全模型 | 0.6 | gemini-1.5-flash-latest |
+| 23 | `fluxlane.cn` | $0.15 | - | - | - | gemini-1.5-flash-latest |
+| 24 | `dragtokens.com` | $0.15 | - | - | - | gemini-1.5-flash-latest |
+| 25 | `www.micuapi.ai` | $0.15 | - | - | - | gemini-1.5-flash-latest |
+| 26 | `cf-api.o1key.com` | $0.15 | - | - | - | gemini-1.5-flash-latest |
+| 27 | `love.qinyan.icu` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-latest |
+| 28 | `openai.chatnewai.com` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-latest |
+| 29 | `api.openai-labs.com` | $0.21 | $0.84 | geminicli | 0.3 | gemini-1.5-flash-latest |
+| 30 | `ai.comfly.org` | $0.3 | - | gemini优质 | 2 | gemini-1.5-flash-latest |
+| 31 | `chat-api4.087654.xyz` | $0.3 | $1.2 | default | 2 | gemini-1.5-flash-latest |
+| 32 | `apiai.shop` | $0.3 | $1.2 | default | 1 | gemini-1.5-flash-latest |
+| 33 | `www.packyapi.com` | $0.45 | - | gemini-slb | 3 | gemini-1.5-flash-latest |
+| 34 | `api.wukong.support` | $0.5625 | $2.25 | gemini官渠 | 3.75 | gemini-1.5-flash-latest |
+| 35 | `api.hopeai.cc` | $0.7 | $2.8 | default | 1 | gemini-1.5-flash-latest |
+| 36 | `api.apib.ai` | $1.5 | $6.0 | - | - | gemini-1.5-flash-latest |
 
 [← 返回索引](index.md)

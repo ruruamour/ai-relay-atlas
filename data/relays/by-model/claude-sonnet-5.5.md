@@ -1,6 +1,6 @@
 # claude-sonnet-5.5
 
-> 107 家 · 最低 **$0.3** @ `sub2.claudefsyk.com` · 推算价（USD/1M 输入），未对账
+> 1876 家 · 最低 **$0.3** @ `sub2.claudefsyk.com` · 推算价（USD/1M 输入），未对账（仅列前 200）
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -96,20 +96,113 @@
 | 90 | `hk.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
 | 91 | `gw.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
 | 92 | `2api.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
-| 93 | `aigw.store` | $0.7 | $3.5 | Claude Kiro【企业号】 | 0.35 | claude-sonnet-5.5 |
-| 94 | `cortexlane.cloud` | $0.8 | $4.0 | Claude Kiro 特惠 | 0.4 | claude-sonnet-5.5 |
-| 95 | `api.cortexlane.cloud` | $0.8 | $4.0 | Claude Kiro 特惠 | 0.4 | claude-sonnet-5.5 |
-| 96 | `api.vietapi.tech` | $0.84 | $0.84 | svip | 1 | claude-sonnet-5.5 |
-| 97 | `huanyuf.top` | $1 | $5.0 | 「Kiro 正价」Claude | 0.5 | claude-sonnet-5.5 |
-| 98 | `api.aiai.bar` | $1.4 | $7.0 | vip | 0.7 | claude-sonnet-5.5 |
-| 99 | `api.aiberm.com` | $1.43998 | $7.19992 | default | 0.23 | anthropic/claude-sonnet-5.5 |
-| 100 | `open.cherryin.net` | $2 | $10.0 | default | 1 | anthropic/claude-sonnet-5.5 |
-| 101 | `7k7kapi.xyz` | $2.4 | $12.0 | CC-Max | 1.2 | claude-sonnet-5.5 |
-| 102 | `www.7k7kapi.xyz` | $2.4 | $12.0 | CC-Max | 1.2 | claude-sonnet-5.5 |
-| 103 | `api.tacklekey.com` | $3.07692 | $15.384615 | default | 1 | anthropic/claude-sonnet-5.5 |
-| 104 | `hk.gpt-agent.cc` | $20 | $100.0 | default | 1 | claude-sonnet-5.5 |
-| 105 | `104.243.32.97` | $75 | $75.0 | AWS-S | 1 | claude-sonnet-5.5 |
-| 106 | `acloudvip.top` | $75 | $75.0 | default | 1 | claude-sonnet-5.5 |
-| 107 | `su7.d68.fun` | $75 | $75.0 | default | 1 | claude-sonnet-5.5 |
+| 93 | `ai2.2api.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 94 | `ai2.2api.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 95 | `ai2.2api.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 96 | `ai2.2api.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 97 | `ai2.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 98 | `ai2.2api.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 99 | `ai2.2api.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 100 | `ai2.ai.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 101 | `ai2.ai.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 102 | `ai2.ai.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 103 | `ai2.ai.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 104 | `ai2.ai.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 105 | `ai2.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 106 | `ai2.ai.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 107 | `ai2.ai.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 108 | `ai2.ai.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 109 | `ai2.api.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 110 | `ai2.api.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 111 | `ai2.api.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 112 | `ai2.api.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 113 | `ai2.api.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 114 | `ai2.api.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 115 | `ai2.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 116 | `ai2.api.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 117 | `ai2.api.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 118 | `ai2.api.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 119 | `ai2.cn.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 120 | `ai2.cn.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 121 | `ai2.cn.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 122 | `ai2.cn.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 123 | `ai2.cn.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 124 | `ai2.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 125 | `ai2.cn.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 126 | `ai2.cn.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 127 | `ai2.cn.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 128 | `ai2.gw.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 129 | `ai2.gw.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 130 | `ai2.gw.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 131 | `ai2.gw.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 132 | `ai2.gw.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 133 | `ai2.gw.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 134 | `ai2.gw.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 135 | `ai2.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 136 | `ai2.gw.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 137 | `ai2.hk.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 138 | `ai2.hk.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 139 | `ai2.hk.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 140 | `ai2.hk.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 141 | `ai2.hk.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 142 | `ai2.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 143 | `ai2.hk.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 144 | `ai2.hk.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 145 | `ai2.hk.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 146 | `ai2.new.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 147 | `ai2.new.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 148 | `ai2.new.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 149 | `ai2.new.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 150 | `ai2.new.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 151 | `ai2.new.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 152 | `ai2.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 153 | `ai2.new.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 154 | `ai2.new.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 155 | `ai2.sub.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 156 | `ai2.sub.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 157 | `ai2.sub.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 158 | `ai2.sub.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 159 | `ai2.sub.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 160 | `ai2.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 161 | `ai2.sub.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 162 | `ai2.sub.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 163 | `ai2.vip.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 164 | `ai2.vip.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 165 | `ai2.vip.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 166 | `ai2.vip.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 167 | `ai2.vip.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 168 | `ai2.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 169 | `ai2.vip.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 170 | `ai2.vip.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 171 | `ai2.www.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 172 | `ai2.www.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 173 | `ai2.www.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 174 | `ai2.www.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 175 | `ai2.www.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 176 | `ai2.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 177 | `ai2.www.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 178 | `ai2.www.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 179 | `ai2.www.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 180 | `api2.2api.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 181 | `api2.2api.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 182 | `api2.2api.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 183 | `api2.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 184 | `api2.2api.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 185 | `api2.ai.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 186 | `api2.ai.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 187 | `api2.ai.cn.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 188 | `api2.ai.gw.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 189 | `api2.ai.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 190 | `api2.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 191 | `api2.ai.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 192 | `api2.ai.vip.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 193 | `api2.ai.www.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 194 | `api2.api.2api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 195 | `api2.api.ai.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 196 | `api2.api.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 197 | `api2.api.hk.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 198 | `api2.api.new.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 199 | `api2.api.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
+| 200 | `api2.api.sub.shenlanqaq.com` | $0.6 | $3.0 | opus5.5-Kiro | 0.3 | claude-sonnet-5.5 |
 
 [← 返回索引](index.md)

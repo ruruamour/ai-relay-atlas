@@ -5,6 +5,7 @@ from collections import defaultdict
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT=os.path.join(ROOT,'data','relays','by-model'); os.makedirs(OUT,exist_ok=True)
 MIN=8
+TOP=200
 rows=list(csv.DictReader(open(os.path.join(ROOT,'data','relays','relay-models.csv'),encoding='utf-8')))
 def norm(m):
     s=(m or '').lower()
@@ -34,9 +35,9 @@ for old in glob.glob(os.path.join(OUT,'*.md')):
 entries=[]
 for key in targets:
     it=sorted(by[key].items(),key=lambda kv:kv[1][0])
-    L=['# %s'%key,'','> %d 家 · 最低 **$%g** @ `%s` · 推算价（USD/1M 输入），未对账'%(len(it),it[0][1][0],it[0][0]),'',
+    L=['# %s'%key,'','> %d 家 · 最低 **$%g** @ `%s` · 推算价（USD/1M 输入），未对账%s'%(len(it),it[0][1][0],it[0][0],('（仅列前 %d）'%TOP if len(it)>TOP else '')),'',
        '| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |','|---|---|---|---|---|---|---|']
-    for i,(d,v) in enumerate(it,1):
+    for i,(d,v) in enumerate(it[:TOP],1):
         p,out,grp,gr,raw,promo=v
         L.append('| %d | `%s` | $%g | %s | %s | %s | %s |'%(i,d,p,('$'+str(out)) if out not in ('',None) else '-',(grp or '-').replace('|','\\|'),gr or '-',raw))
     L+=['','[← 返回索引](index.md)']

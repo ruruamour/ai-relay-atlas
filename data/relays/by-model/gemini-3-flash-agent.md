@@ -1,6 +1,6 @@
 # gemini-3-flash-agent
 
-> 20 家 · 最低 **$0.1** @ `api.qfgapi.com` · 推算价（USD/1M 输入），未对账
+> 23 家 · 最低 **$0.1** @ `api.qfgapi.com` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -16,13 +16,16 @@
 | 10 | `aizhongzhuan.com` | $1.5 | $9.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
 | 11 | `www.aizhongzhuan.com` | $1.5 | $9.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
 | 12 | `llmai.freebird2913.tech` | $2 | $12.0 | Antigravity逆向 | 1 | gemini-3-flash-agent |
-| 13 | `vip.aipro.love` | $6 | $36.0 | default | 1.5 | gemini-3-flash-agent |
-| 14 | `free.aipro.love` | $6 | $36.0 | default | 1.5 | gemini-3-flash-agent |
-| 15 | `ai-gate.zeabur.app` | $11.25 | $45.0 | gemini-0.15x | 0.15 | gemini-3-flash-agent |
-| 16 | `api.aibridgea.com` | $12.75 | $51.0 | Gemini 反重力 | 0.17 | gemini-3-flash-agent |
-| 17 | `ai.zyyun.xyz` | $30 | $120.0 | Gemini Cli 不含生图 | 0.4 | gemini-3-flash-agent |
-| 18 | `xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
-| 19 | `api.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
-| 20 | `www.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
+| 13 | `supertoken.pro` | $2 | $8.0 | Gemini | 1 | gemini-3-flash-agent |
+| 14 | `vip.aipro.love` | $6 | $36.0 | default | 1.5 | gemini-3-flash-agent |
+| 15 | `free.aipro.love` | $6 | $36.0 | default | 1.5 | gemini-3-flash-agent |
+| 16 | `ai-gate.zeabur.app` | $11.25 | $45.0 | gemini-0.15x | 0.15 | gemini-3-flash-agent |
+| 17 | `api.aibridgea.com` | $12.75 | $51.0 | Gemini 反重力 | 0.17 | gemini-3-flash-agent |
+| 18 | `aiapi.cc` | $26.25 | $105.0 | 反重力 | 0.35 | gemini-3-flash-agent |
+| 19 | `ai.zyyun.xyz` | $30 | $120.0 | Gemini Cli 不含生图 | 0.4 | gemini-3-flash-agent |
+| 20 | `pianyitoken.com` | $75 | $75.0 | 打野11111 | 1 | ag/gemini-3-flash-agent |
+| 21 | `xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
+| 22 | `api.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
+| 23 | `www.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-3-flash-agent |
 
 [← 返回索引](index.md)

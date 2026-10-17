@@ -1,6 +1,6 @@
 # gemini-2.5-pro-preview-05-06-no
 
-> 18 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 19 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -22,5 +22,6 @@
 | 16 | `api.qingyuntop.top` | $1.25 | $10.0 | gemini-cli | 1 | gemini-2.5-pro-preview-05-06-nothinking |
 | 17 | `api.winfull.cloud-ip.cc` | $1.25 | $10.0 | gemini-cli | 1 | gemini-2.5-pro-preview-05-06-nothinking |
 | 18 | `api.hoxkai.top` | $2.125 | $17.0 | gemini | 1.7 | gemini-2.5-pro-preview-05-06-nothinking |
+| 19 | `go.sbgpt.site` | $36 | $288.0 | 无审核az-0.4倍率 | 0.48 | gemini-2.5-pro-preview-05-06-nothinking |
 
 [← 返回索引](index.md)

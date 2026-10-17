@@ -1,6 +1,6 @@
 # gemini-2.5-pro-preview-06-05-no
 
-> 8 家 · 最低 **$0.3125** @ `api.routeeasy.ai` · 推算价（USD/1M 输入），未对账
+> 10 家 · 最低 **$0.3125** @ `api.routeeasy.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -11,6 +11,8 @@
 | 5 | `api.zyai.online` | $1.5 | $9.0 | GeminiCli | 0.6 | gemini-2.5-pro-preview-06-05-nothinking |
 | 6 | `api.hoxkai.top` | $2.125 | $17.0 | gemini | 1.7 | gemini-2.5-pro-preview-06-05-nothinking |
 | 7 | `ai.comfly.org` | $2.5 | $20.0 | gemini优质 | 2 | gemini-2.5-pro-preview-06-05-nothinking |
-| 8 | `118api.cn` | $150 | $1200.0 | pro付费全模型 | 2 | gemini-2.5-pro-preview-06-05-nothinking |
+| 8 | `api.bltcy.ai` | $5 | $40.0 | gemini-t3 | 4 | gemini-2.5-pro-preview-06-05-nothinking |
+| 9 | `go.sbgpt.site` | $45 | $360.0 | gemini全模型 | 0.6 | gemini-2.5-pro-preview-06-05-nothinking |
+| 10 | `118api.cn` | $150 | $1200.0 | pro付费全模型 | 2 | gemini-2.5-pro-preview-06-05-nothinking |
 
 [← 返回索引](index.md)

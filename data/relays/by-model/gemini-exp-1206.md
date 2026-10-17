@@ -1,6 +1,6 @@
 # gemini-exp-1206
 
-> 17 家 · 最低 **$0.2** @ `love.qinyan.icu` · 推算价（USD/1M 输入），未对账
+> 20 家 · 最低 **$0.2** @ `love.qinyan.icu` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -16,10 +16,13 @@
 | 10 | `coultra.blueshirtmap.com` | $1.25 | $6.25 | - | - | gemini-exp-1206 |
 | 11 | `api.apiyi.com` | $1.25 | $5.0 | Gemini_Reverse | 0.5 | gemini-exp-1206 |
 | 12 | `api.hoxkai.top` | $2.125 | $8.5 | gemini | 1.7 | gemini-exp-1206 |
-| 13 | `api.apib.ai` | $2.5 | $10.0 | - | - | gemini-exp-1206 |
-| 14 | `api.zyai.online` | $3 | $12.0 | GeminiCli | 0.6 | gemini-exp-1206 |
-| 15 | `www.micuapi.ai` | $4 | $16.0 | - | - | gemini-exp-1206 |
-| 16 | `api.hopeai.cc` | $4 | $16.0 | default | 1 | gemini-exp-1206 |
-| 17 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-exp-1206 |
+| 13 | `go.sbgpt.site` | $2.4 | $9.6 | gemini全模型 | 0.6 | gemini-exp-1206 |
+| 14 | `api.apib.ai` | $2.5 | $10.0 | - | - | gemini-exp-1206 |
+| 15 | `chat-api4.087654.xyz` | $2.516 | $9.996 | default | 2 | gemini-exp-1206 |
+| 16 | `api.zyai.online` | $3 | $12.0 | GeminiCli | 0.6 | gemini-exp-1206 |
+| 17 | `www.micuapi.ai` | $4 | $16.0 | - | - | gemini-exp-1206 |
+| 18 | `api.hopeai.cc` | $4 | $16.0 | default | 1 | gemini-exp-1206 |
+| 19 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-exp-1206 |
+| 20 | `newapi.link` | $75 | $300.0 | 备用 | 1 | gemini-exp-1206 |
 
 [← 返回索引](index.md)

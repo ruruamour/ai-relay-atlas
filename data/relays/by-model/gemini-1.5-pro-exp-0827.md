@@ -1,6 +1,6 @@
 # gemini-1.5-pro-exp-0827
 
-> 23 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 25 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -23,9 +23,11 @@
 | 17 | `vipapi.online` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-exp-0827 |
 | 18 | `api.qingyuntop.top` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-exp-0827 |
 | 19 | `api.winfull.cloud-ip.cc` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-exp-0827 |
-| 20 | `coultra.blueshirtmap.com` | $3.5 | - | - | - | gemini-1.5-pro-exp-0827 |
-| 21 | `www.micuapi.ai` | $3.5 | $14.0 | - | - | gemini-1.5-pro-exp-0827 |
-| 22 | `api.hopeai.cc` | $3.5 | $14.0 | default | 1 | gemini-1.5-pro-exp-0827 |
-| 23 | `ai.comfly.org` | $10 | $30.0 | gemini优质 | 2 | gemini-1.5-pro-exp-0827 |
+| 20 | `go.sbgpt.site` | $2.1 | $8.4 | gemini全模型 | 0.6 | gemini-1.5-pro-exp-0827 |
+| 21 | `coultra.blueshirtmap.com` | $3.5 | - | - | - | gemini-1.5-pro-exp-0827 |
+| 22 | `www.micuapi.ai` | $3.5 | $14.0 | - | - | gemini-1.5-pro-exp-0827 |
+| 23 | `api.hopeai.cc` | $3.5 | $14.0 | default | 1 | gemini-1.5-pro-exp-0827 |
+| 24 | `ai.comfly.org` | $10 | $30.0 | gemini优质 | 2 | gemini-1.5-pro-exp-0827 |
+| 25 | `newapi.link` | $75 | $300.0 | 备用 | 1 | gemini-1.5-pro-exp-0827 |
 
 [← 返回索引](index.md)

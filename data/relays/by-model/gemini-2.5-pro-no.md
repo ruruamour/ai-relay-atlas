@@ -1,6 +1,6 @@
 # gemini-2.5-pro-no
 
-> 44 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 58 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -26,27 +26,41 @@
 | 20 | `api.winfull.cloud-ip.cc` | $1.25 | $10.0 | gemini-cli | 1 | gemini-2.5-pro-nothinking |
 | 21 | `api.apib.ai` | $1.25 | $10.0 | - | - | gemini-2.5-pro-nothinking |
 | 22 | `api.xistree.hk` | $1.25 | $10.0 | default | 1 | gemini-2.5-pro-nothinking |
-| 23 | `www.micuapi.ai` | $1.26 | $10.08 | - | - | gemini-2.5-pro-nothinking |
-| 24 | `api.openai-labs.com` | $1.26 | $10.08 | default | 1 | gemini-2.5-pro-nothinking |
-| 25 | `yinli.one` | $1.875 | $15.0 | Gemini-低价-90%稳定性 | 1.5 | gemini-2.5-pro-nothinking |
-| 26 | `api.hoxkai.top` | $2.125 | $17.0 | gemini | 1.7 | gemini-2.5-pro-nothinking |
-| 27 | `botcf.com` | $2.475 | $19.8 | 📐gemini-vertex | 1.98 | gemini-2.5-pro-nothinking |
-| 28 | `nexaxis.ai` | $2.5 | $20.0 | Gemini_AS | 2 | gemini-2.5-pro-nothinking |
-| 29 | `ai.comfly.org` | $2.5 | $20.0 | gemini优质 | 2 | gemini-2.5-pro-nothinking |
-| 30 | `api.key77qiqi.com` | $2.5 | $20.0 | gemini T1 | 2 | gemini-2.5-pro-nothinking |
-| 31 | `4sapi.org` | $3.125 | $25.0 | Gemini综合分组 | 2.5 | gemini-2.5-pro-nothinking |
-| 32 | `4sapi.com` | $3.125 | $25.0 | Gemini综合分组 | 2.5 | gemini-2.5-pro-nothinking |
-| 33 | `api2.4xapi.com` | $3.125 | $25.0 | Gemini-vertex | 2.5 | gemini-2.5-pro-nothinking |
-| 34 | `poloai.top` | $3.75 | $30.0 | Gemini-优质临时分组 | 3 | gemini-2.5-pro-nothinking |
-| 35 | `www.packyapi.com` | $3.75 | - | gemini-slb | 3 | gemini-2.5-pro-nothinking |
-| 36 | `poloapi.top` | $3.75 | $30.0 | Gemini-优质临时分组 | 3 | gemini-2.5-pro-nothinking |
-| 37 | `api.wukong.support` | $4.725 | $37.8 | gemini官渠 | 3.75 | gemini-2.5-pro-nothinking |
-| 38 | `api.zyai.online` | $7.5 | $60.0 | Banana2_VIP | 3 | gemini-2.5-pro-nothinking |
-| 39 | `cn.api.zyai.online` | $7.5 | $60.0 | Banana2_VIP | 3 | gemini-2.5-pro-nothinking |
-| 40 | `paw.v1chat.cc` | $13.95 | $53.2611 | Gemini2.5/3.1Pro专线31 | 3.1 | gemini-2.5-pro-nothinking |
-| 41 | `officesai.top` | $35 | $280.0 | Image绘图 4K | 1 | gemini-2.5-pro-nothinking |
-| 42 | `api.hopeai.cc` | $75 | $600.0 | default | 1 | gemini-2.5-pro-nothinking |
-| 43 | `118api.cn` | $150 | $600.0 | pro付费全模型 | 2 | gemini-2.5-pro-nothinking |
-| 44 | `vip.yinli.one` | $225 | $1800.0 | Gemini-中价-95%稳定性 | 3 | gemini-2.5-pro-nothinking |
+| 23 | `kfcv50.link` | $1.25 | $10.0 | Gemini_vip | 1 | gemini-2.5-pro-nothinking |
+| 24 | `apiai.shop` | $1.25 | $10.0 | default | 1 | gemini-2.5-pro-nothinking |
+| 25 | `www.micuapi.ai` | $1.26 | $10.08 | - | - | gemini-2.5-pro-nothinking |
+| 26 | `api.openai-labs.com` | $1.26 | $10.08 | default | 1 | gemini-2.5-pro-nothinking |
+| 27 | `yinli.one` | $1.875 | $15.0 | Gemini-低价-90%稳定性 | 1.5 | gemini-2.5-pro-nothinking |
+| 28 | `api.hoxkai.top` | $2.125 | $17.0 | gemini | 1.7 | gemini-2.5-pro-nothinking |
+| 29 | `botcf.com` | $2.475 | $19.8 | 📐gemini-vertex | 1.98 | gemini-2.5-pro-nothinking |
+| 30 | `nexaxis.ai` | $2.5 | $20.0 | Gemini_AS | 2 | gemini-2.5-pro-nothinking |
+| 31 | `ai.comfly.org` | $2.5 | $20.0 | gemini优质 | 2 | gemini-2.5-pro-nothinking |
+| 32 | `api.key77qiqi.com` | $2.5 | $20.0 | gemini T1 | 2 | gemini-2.5-pro-nothinking |
+| 33 | `api.dzzi.ai` | $2.5 | $20.0 | 按量 | 2 | [按量]gemini-2.5-pro-nothinking |
+| 34 | `nexaxis.io` | $2.5 | $20.0 | Gemini | 2 | gemini-2.5-pro-nothinking |
+| 35 | `4sapi.org` | $3.125 | $25.0 | Gemini综合分组 | 2.5 | gemini-2.5-pro-nothinking |
+| 36 | `4sapi.com` | $3.125 | $25.0 | Gemini综合分组 | 2.5 | gemini-2.5-pro-nothinking |
+| 37 | `api2.4xapi.com` | $3.125 | $25.0 | Gemini-vertex | 2.5 | gemini-2.5-pro-nothinking |
+| 38 | `poloai.top` | $3.75 | $30.0 | Gemini-优质临时分组 | 3 | gemini-2.5-pro-nothinking |
+| 39 | `www.packyapi.com` | $3.75 | - | gemini-slb | 3 | gemini-2.5-pro-nothinking |
+| 40 | `poloapi.top` | $3.75 | $30.0 | Gemini-优质临时分组 | 3 | gemini-2.5-pro-nothinking |
+| 41 | `api2.poloai.top` | $3.75 | $30.0 | gemini-号池 | 3 | gemini-2.5-pro-nothinking |
+| 42 | `78code.cc` | $4.032 | $32.256 | gemini-image | 3.2 | gemini-2.5-pro-nothinking |
+| 43 | `claude.4sapi.com` | $4.375 | $35.0 | gemini-优质分组 | 3.5 | gemini-2.5-pro-nothinking |
+| 44 | `api.wukong.support` | $4.725 | $37.8 | gemini官渠 | 3.75 | gemini-2.5-pro-nothinking |
+| 45 | `api.bltcy.ai` | $5 | $40.0 | gemini-t3 | 4 | gemini-2.5-pro-nothinking |
+| 46 | `4sapi.ai` | $6.25 | $50.0 | Gemini-官方 | 5 | gemini-2.5-pro-nothinking |
+| 47 | `4sapi.dev` | $6.25 | $50.0 | Gemini-官方 | 5 | gemini-2.5-pro-nothinking |
+| 48 | `4sapi.net` | $6.25 | $50.0 | Gemini-官方 | 5 | gemini-2.5-pro-nothinking |
+| 49 | `4sapi.top` | $6.25 | $50.0 | Gemini-官方 | 5 | gemini-2.5-pro-nothinking |
+| 50 | `4sapi.club` | $6.25 | $50.0 | Gemini-官方 | 5 | gemini-2.5-pro-nothinking |
+| 51 | `api.zyai.online` | $7.5 | $60.0 | Banana2_VIP | 3 | gemini-2.5-pro-nothinking |
+| 52 | `cn.api.zyai.online` | $7.5 | $60.0 | Banana2_VIP | 3 | gemini-2.5-pro-nothinking |
+| 53 | `paw.v1chat.cc` | $13.95 | $53.2611 | Gemini2.5/3.1Pro专线31 | 3.1 | gemini-2.5-pro-nothinking |
+| 54 | `officesai.top` | $35 | $280.0 | Image绘图 4K | 1 | gemini-2.5-pro-nothinking |
+| 55 | `go.sbgpt.site` | $45 | $360.0 | gemini全模型 | 0.6 | gemini-2.5-pro-nothinking |
+| 56 | `api.hopeai.cc` | $75 | $600.0 | default | 1 | gemini-2.5-pro-nothinking |
+| 57 | `118api.cn` | $150 | $600.0 | pro付费全模型 | 2 | gemini-2.5-pro-nothinking |
+| 58 | `vip.yinli.one` | $225 | $1800.0 | Gemini-中价-95%稳定性 | 3 | gemini-2.5-pro-nothinking |
 
 [← 返回索引](index.md)

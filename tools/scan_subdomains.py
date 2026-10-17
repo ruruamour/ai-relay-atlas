@@ -9,6 +9,7 @@ def num(v):
 def fetch(u,t=5,lim=4000000):
     r=urllib.request.Request(u,headers=UA); return urllib.request.urlopen(r,timeout=t,context=ctx).read(lim)
 def parse_pricing(j):
+    if not isinstance(j,dict): return None
     data=j.get('data')
     if not isinstance(data,list): return None
     groups=j.get('group_ratio') or {}
@@ -57,16 +58,22 @@ def main():
     if os.path.exists(outp):
         try: res=json.load(open(outp))
         except: pass
-    done=set(res)
+    donep=outp+'.done'
+    done=set()
+    if os.path.exists(donep):
+        try: done=set(x.strip() for x in open(donep) if x.strip())
+        except: pass
     todo=[d for d in doms if d not in done]
+    dfh=open(donep,'a')
     print('todo',len(todo),flush=True)
     cnt=0
     with cf.ThreadPoolExecutor(100) as ex:
         for d,r in ex.map(work,todo):
             cnt+=1
+            dfh.write(d+'\n')
             if r: res[d]=r
             if cnt%1000==0:
-                json.dump(res,open(outp,'w'),ensure_ascii=False); print('progress',cnt,'hits',len(res),flush=True)
-    json.dump(res,open(outp,'w'),ensure_ascii=False)
+                dfh.flush(); json.dump(res,open(outp,'w'),ensure_ascii=False); print('progress',cnt,'hits',len(res),flush=True)
+    dfh.close(); json.dump(res,open(outp,'w'),ensure_ascii=False)
     print('done hits',len(res))
 if __name__=='__main__': main()

@@ -1,6 +1,6 @@
 # gemini-2.0-flash-lite-001
 
-> 29 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 31 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -26,12 +26,14 @@
 | 20 | `api.winfull.cloud-ip.cc` | $0.075 | $0.3 | gemini-cli | 1 | gemini-2.0-flash-lite-001 |
 | 21 | `api.rcouyi.com` | $0.075 | $0.3 | default | 1 | gemini-2.0-flash-lite-001 |
 | 22 | `api.apib.ai` | $0.075 | $0.3 | - | - | gemini-2.0-flash-lite-001 |
-| 23 | `api.hoxkai.top` | $0.1275 | $0.51 | gemini | 1.7 | gemini-2.0-flash-lite-001 |
-| 24 | `ai.comfly.org` | $0.2 | $0.8 | gemini优质 | 2 | gemini-2.0-flash-lite-001 |
-| 25 | `123api.co` | $0.2 | $0.8 | default | 1 | gemini-2.0-flash-lite-001 |
-| 26 | `api.openai-labs.com` | $1.26 | $5.04 | default | 1 | gemini-2.0-flash-lite-001 |
-| 27 | `www.micuapi.ai` | $75 | $75.0 | - | - | google/gemini-2.0-flash-lite-001 |
-| 28 | `dollar.ruiyumaas.com` | $75 | $300.0 | default | 1 | gemini-2.0-flash-lite-001 |
-| 29 | `ai.ydcloud.org` | $150 | $600.0 | aistudio | 2 | gemini-2.0-flash-lite-001 |
+| 23 | `kfcv50.link` | $0.075 | $0.3 | Gemini_vip | 1 | gemini-2.0-flash-lite-001 |
+| 24 | `go.sbgpt.site` | $0.12 | $0.48 | gemini全模型 | 0.6 | gemini-2.0-flash-lite-001 |
+| 25 | `api.hoxkai.top` | $0.1275 | $0.51 | gemini | 1.7 | gemini-2.0-flash-lite-001 |
+| 26 | `ai.comfly.org` | $0.2 | $0.8 | gemini优质 | 2 | gemini-2.0-flash-lite-001 |
+| 27 | `123api.co` | $0.2 | $0.8 | default | 1 | gemini-2.0-flash-lite-001 |
+| 28 | `api.openai-labs.com` | $1.26 | $5.04 | default | 1 | gemini-2.0-flash-lite-001 |
+| 29 | `www.micuapi.ai` | $75 | $75.0 | - | - | google/gemini-2.0-flash-lite-001 |
+| 30 | `dollar.ruiyumaas.com` | $75 | $300.0 | default | 1 | gemini-2.0-flash-lite-001 |
+| 31 | `ai.ydcloud.org` | $150 | $600.0 | aistudio | 2 | gemini-2.0-flash-lite-001 |
 
 [← 返回索引](index.md)

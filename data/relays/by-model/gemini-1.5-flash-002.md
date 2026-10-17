@@ -1,6 +1,6 @@
 # gemini-1.5-flash-002
 
-> 22 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 23 家 · 最低 **$0.0055147** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -21,10 +21,11 @@
 | 15 | `api.qingyuntop.top` | $0.075 | $0.3 | gemini-cli | 1 | gemini-1.5-flash-002 |
 | 16 | `api.winfull.cloud-ip.cc` | $0.075 | $0.3 | gemini-cli | 1 | gemini-1.5-flash-002 |
 | 17 | `api.apiyi.com` | $0.075 | $0.3 | Gemini_Reverse | 0.5 | gemini-1.5-flash-002 |
-| 18 | `love.qinyan.icu` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-002 |
-| 19 | `openai.chatnewai.com` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-002 |
-| 20 | `ai.comfly.org` | $0.3 | - | gemini优质 | 2 | gemini-1.5-flash-002 |
-| 21 | `coultra.blueshirtmap.com` | $0.6 | $2.4 | - | - | gemini-1.5-flash-002 |
-| 22 | `api.apib.ai` | $1.5 | $6.0 | - | - | gemini-1.5-flash-002 |
+| 18 | `go.sbgpt.site` | $0.12 | $0.48 | gemini全模型 | 0.6 | gemini-1.5-flash-002 |
+| 19 | `love.qinyan.icu` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-002 |
+| 20 | `openai.chatnewai.com` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-flash-002 |
+| 21 | `ai.comfly.org` | $0.3 | - | gemini优质 | 2 | gemini-1.5-flash-002 |
+| 22 | `coultra.blueshirtmap.com` | $0.6 | $2.4 | - | - | gemini-1.5-flash-002 |
+| 23 | `api.apib.ai` | $1.5 | $6.0 | - | - | gemini-1.5-flash-002 |
 
 [← 返回索引](index.md)

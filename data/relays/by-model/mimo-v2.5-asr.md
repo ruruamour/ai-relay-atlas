@@ -1,6 +1,6 @@
 # mimo-v2.5-asr
 
-> 9 家 · 最低 **$0.014** @ `newapi.makelove.cloud` · 推算价（USD/1M 输入），未对账
+> 10 家 · 最低 **$0.014** @ `newapi.makelove.cloud` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -13,5 +13,6 @@
 | 7 | `tokenflux.cloud` | $37.5 | - | MIMO | 0.5 | mimo-v2.5-asr |
 | 8 | `api.tokenflux.cloud` | $37.5 | $37.5 | MIMO | 0.5 | mimo-v2.5-asr |
 | 9 | `api.kaopuapi.xyz` | $75 | - | default | 1 | mimo-v2.5-asr |
+| 10 | `kfcv50.link` | $75 | $75.0 | Domestic | 1 | mimo-v2.5-asr |
 
 [← 返回索引](index.md)

@@ -1,6 +1,6 @@
 # gpt-image
 
-> 8 家 · 最低 **$5** @ `llm-coding.space` · 推算价（USD/1M 输入），未对账
+> 10 家 · 最低 **$5** @ `llm-coding.space` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -12,5 +12,7 @@
 | 6 | `api.zero.cat` | $6 | $12.0 | 【生图】Adobe逆向分组 | 0.08 | gpt-image |
 | 7 | `nihao.dog` | $75 | $150.0 | 生图 | 1 | gpt-image-medium |
 | 8 | `www.nihao.dog` | $75 | $150.0 | 生图 | 1 | gpt-image-medium |
+| 9 | `naapi.cc` | $75 | $150.0 | default | 1 | gpt-image-medium |
+| 10 | `us.naapi.cc` | $75 | $150.0 | default | 1 | gpt-image-medium |
 
 [← 返回索引](index.md)

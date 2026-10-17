@@ -1,6 +1,6 @@
 # kimi-k2.7
 
-> 10 家 · 最低 **$0.325** @ `ai.mggoo.com` · 推算价（USD/1M 输入），未对账
+> 12 家 · 最低 **$0.325** @ `ai.mggoo.com` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | 7 | `worldcdn.api.inxk.com` | $3.16667 | $13.333333 | Kimi API | 0.5 | kimi-k2.7 |
 | 8 | `sub.xingjiabiapi.org` | $3.9 | $16.2 | 国产模型 | 0.6 | kimi-k2.7 |
 | 9 | `www.xingjiabiapi.org` | $3.9 | $16.2 | 国产模型 | 0.6 | kimi-k2.7 |
-| 10 | `hk.gpt-agent.cc` | $60 | $300.0 | 国产模型 | 5 | kimi-k2.7 |
+| 10 | `us.oojj.top` | $9 | $9.0 | cnmodel-w | 0.12 | kimi-k2.7 |
+| 11 | `xingya.space` | $15 | $15.0 | 国模 | 0.2 | kimi-k2.7 |
+| 12 | `hk.gpt-agent.cc` | $60 | $300.0 | 国产模型 | 5 | kimi-k2.7 |
 
 [← 返回索引](index.md)

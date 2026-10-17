@@ -1,6 +1,6 @@
 # jev-latest
 
-> 12 家 · 最低 **$0.0042** @ `codexpert.top` · 推算价（USD/1M 输入），未对账
+> 15 家 · 最低 **$0.0042** @ `codexpert.top` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -16,5 +16,8 @@
 | 10 | `sg.anyrouter.ai` | $75 | $75.0 | default | 1 | jev-latest |
 | 11 | `hk.gpt-agent.cc` | $75 | $75.0 | default | 1 | jev-latest |
 | 12 | `new.mhapi.net` | $75 | $75.0 | Jev | 1 | jev-latest |
+| 13 | `kfcv50.link` | $75 | $75.0 | Domestic | 1 | jev-latest |
+| 14 | `api.duckcoding.ai` | $135 | $135.0 | Jev Official | 1.8 | jev-latest |
+| 15 | `chat-api4.087654.xyz` | $150 | $150.0 | default | 2 | jev-latest |
 
 [← 返回索引](index.md)

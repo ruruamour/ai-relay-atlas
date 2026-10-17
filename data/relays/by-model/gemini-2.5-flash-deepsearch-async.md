@@ -1,6 +1,6 @@
 # gemini-2.5-flash-deepsearch-async
 
-> 20 家 · 最低 **$0.44118** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 22 家 · 最低 **$0.44118** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -16,13 +16,15 @@
 | 10 | `api.zyai.online` | $1.2 | $3.6 | GeminiCli | 0.6 | gemini-2.5-flash-deepsearch-async |
 | 11 | `mux.la` | $1.2 | $9.6 | Gemini-Lite | 0.2 | gemini-2.5-flash-deepsearch-async |
 | 12 | `api.routeeasy.ai` | $1.5 | $12.0 | anti_gemini_0706_025_qing | 0.25 | gemini-2.5-flash-deepsearch-async |
-| 13 | `yunwu.ai` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
-| 14 | `anyaigc.com` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
-| 15 | `api.zhongzhuan.chat` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
-| 16 | `vipapi.online` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
-| 17 | `api.qingyuntop.top` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
-| 18 | `api.winfull.cloud-ip.cc` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
-| 19 | `www.micuapi.ai` | $6 | $48.0 | - | - | gemini-2.5-flash-deepsearch-async |
-| 20 | `api.wukong.support` | $22.5 | $180.0 | gemini官渠 | 3.75 | gemini-2.5-flash-deepsearch-async |
+| 13 | `kfcv50.link` | $5.4 | $43.2 | Gemini_act | 0.9 | gemini-2.5-flash-deepsearch-async |
+| 14 | `yunwu.ai` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
+| 15 | `anyaigc.com` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
+| 16 | `api.zhongzhuan.chat` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
+| 17 | `vipapi.online` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
+| 18 | `api.qingyuntop.top` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
+| 19 | `api.winfull.cloud-ip.cc` | $6 | $48.0 | gemini-cli | 1 | gemini-2.5-flash-deepsearch-async |
+| 20 | `www.micuapi.ai` | $6 | $48.0 | - | - | gemini-2.5-flash-deepsearch-async |
+| 21 | `api.wukong.support` | $22.5 | $180.0 | gemini官渠 | 3.75 | gemini-2.5-flash-deepsearch-async |
+| 22 | `newapi.link` | $75 | $625.0 | 备用 | 1 | gemini-2.5-flash-deepsearch-async |
 
 [← 返回索引](index.md)

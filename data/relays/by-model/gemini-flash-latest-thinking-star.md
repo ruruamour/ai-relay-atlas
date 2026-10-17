@@ -1,6 +1,6 @@
 # gemini-flash-latest-thinking-*
 
-> 30 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 31 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -34,5 +34,6 @@
 | 28 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-thinking-* |
 | 29 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-flash-latest-thinking-* |
 | 30 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-flash-latest-thinking-* |
+| 31 | `api2.poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-thinking-* |
 
 [← 返回索引](index.md)

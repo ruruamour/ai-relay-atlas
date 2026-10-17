@@ -1,6 +1,6 @@
 # gemini-2.0-flash-thinking-exp-1219
 
-> 29 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 30 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -27,11 +27,12 @@
 | 21 | `openai.chatnewai.com` | $0.4 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-2.0-flash-thinking-exp-1219 |
 | 22 | `magic666.top` | $0.434 | $1.7794 | gemini-nx | 0.35 | gemini-2.0-flash-thinking-exp-1219 |
 | 23 | `api.routeeasy.ai` | $0.5 | $2.0 | anti_gemini_0706_025_qing | 0.25 | gemini-2.0-flash-thinking-exp-1219 |
-| 24 | `coultra.blueshirtmap.com` | $1.25 | $6.25 | - | - | gemini-2.0-flash-thinking-exp-1219 |
-| 25 | `api.xistree.hk` | $1.25 | $5.0 | default | 1 | gemini-2.0-flash-thinking-exp-1219 |
-| 26 | `api.zyai.online` | $1.5 | $12.0 | GeminiCli | 0.6 | gemini-2.0-flash-thinking-exp-1219 |
-| 27 | `paw.v1chat.cc` | $2 | $8.0 | default | 1 | gemini-2.0-flash-thinking-exp-1219 |
-| 28 | `api.hoxkai.top` | $2.125 | $8.5 | gemini | 1.7 | gemini-2.0-flash-thinking-exp-1219 |
-| 29 | `ai.comfly.org` | $5 | - | gemini优质 | 2 | gemini-2.0-flash-thinking-exp-1219 |
+| 24 | `go.sbgpt.site` | $0.72 | $2.88 | gemini全模型 | 0.6 | gemini-2.0-flash-thinking-exp-1219 |
+| 25 | `coultra.blueshirtmap.com` | $1.25 | $6.25 | - | - | gemini-2.0-flash-thinking-exp-1219 |
+| 26 | `api.xistree.hk` | $1.25 | $5.0 | default | 1 | gemini-2.0-flash-thinking-exp-1219 |
+| 27 | `api.zyai.online` | $1.5 | $12.0 | GeminiCli | 0.6 | gemini-2.0-flash-thinking-exp-1219 |
+| 28 | `paw.v1chat.cc` | $2 | $8.0 | default | 1 | gemini-2.0-flash-thinking-exp-1219 |
+| 29 | `api.hoxkai.top` | $2.125 | $8.5 | gemini | 1.7 | gemini-2.0-flash-thinking-exp-1219 |
+| 30 | `ai.comfly.org` | $5 | - | gemini优质 | 2 | gemini-2.0-flash-thinking-exp-1219 |
 
 [← 返回索引](index.md)

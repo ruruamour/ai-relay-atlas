@@ -1,6 +1,6 @@
 # gemini-pro-agent
 
-> 29 家 · 最低 **$0.4** @ `relayrax.com` · 推算价（USD/1M 输入），未对账
+> 34 家 · 最低 **$0.4** @ `relayrax.com` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -19,19 +19,24 @@
 | 13 | `api.wukong.support` | $1.82 | $10.92 | gemini优质 | 0.91 | gemini-pro-agent |
 | 14 | `llmai.freebird2913.tech` | $2 | $12.0 | Antigravity逆向 | 1 | gemini-pro-agent |
 | 15 | `sub2.molytea.ccwu.cc` | $2 | $12.0 | 按次 | 1.0 | gemini-pro-agent |
-| 16 | `vip.aipro.love` | $4.5 | $27.0 | default | 1.5 | gemini-pro-agent |
-| 17 | `free.aipro.love` | $4.5 | $27.0 | default | 1.5 | gemini-pro-agent |
-| 18 | `aizhongzhuan.com` | $6 | $36.0 | 反重力Gemini | 3 | gemini-pro-agent |
-| 19 | `www.aizhongzhuan.com` | $6 | $36.0 | 反重力Gemini | 3 | gemini-pro-agent |
-| 20 | `api.erasebg.xin` | $7.5 | $30.0 | gemini | 0.1 | gemini-pro-agent |
-| 21 | `api.qfgapi.com` | $15 | $60.0 | Gemini-Anti | 0.2 | gemini-pro-agent |
-| 22 | `ai.zyyun.xyz` | $30 | $120.0 | Gemini Cli 不含生图 | 0.4 | gemini-pro-agent |
-| 23 | `api.ceptreal.com` | $60 | $240.0 | sssvip | 0.8 | gemini-pro-agent |
-| 24 | `ai.skyee.de` | $75 | $300.0 | default | 1 | gemini-pro-agent |
-| 25 | `crownapi.org` | $75 | $300.0 | gemini | 1 | gemini-pro-agent |
-| 26 | `api.humanwill.xyz` | $120 | $480.0 | Gemini | 1.6 | gemini-pro-agent |
-| 27 | `xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-pro-agent |
-| 28 | `api.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-pro-agent |
-| 29 | `www.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-pro-agent |
+| 16 | `supertoken.pro` | $2 | $8.0 | Gemini | 1 | gemini-pro-agent |
+| 17 | `us.clauddy.com` | $3.6 | $21.6 | Gemini | 1.8 | gemini-pro-agent |
+| 18 | `vip.aipro.love` | $4.5 | $27.0 | default | 1.5 | gemini-pro-agent |
+| 19 | `free.aipro.love` | $4.5 | $27.0 | default | 1.5 | gemini-pro-agent |
+| 20 | `aizhongzhuan.com` | $6 | $36.0 | 反重力Gemini | 3 | gemini-pro-agent |
+| 21 | `www.aizhongzhuan.com` | $6 | $36.0 | 反重力Gemini | 3 | gemini-pro-agent |
+| 22 | `api.erasebg.xin` | $7.5 | $30.0 | gemini | 0.1 | gemini-pro-agent |
+| 23 | `api.qfgapi.com` | $15 | $60.0 | Gemini-Anti | 0.2 | gemini-pro-agent |
+| 24 | `aiapi.cc` | $26.25 | $105.0 | 反重力 | 0.35 | gemini-pro-agent |
+| 25 | `kfcv50.link` | $28.5 | $85.5 | gemini_cli_0401_038 | 0.38 | gemini-pro-agent |
+| 26 | `ai.zyyun.xyz` | $30 | $120.0 | Gemini Cli 不含生图 | 0.4 | gemini-pro-agent |
+| 27 | `api.ceptreal.com` | $60 | $240.0 | sssvip | 0.8 | gemini-pro-agent |
+| 28 | `ai.skyee.de` | $75 | $300.0 | default | 1 | gemini-pro-agent |
+| 29 | `crownapi.org` | $75 | $300.0 | gemini | 1 | gemini-pro-agent |
+| 30 | `pianyitoken.com` | $75 | $75.0 | 打野11111 | 1 | ag/gemini-pro-agent |
+| 31 | `api.humanwill.xyz` | $120 | $480.0 | Gemini | 1.6 | gemini-pro-agent |
+| 32 | `xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-pro-agent |
+| 33 | `api.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-pro-agent |
+| 34 | `www.xb-api.com` | $225 | $900.0 | 反重力Gemini | 3 | gemini-pro-agent |
 
 [← 返回索引](index.md)

@@ -1,6 +1,6 @@
 # gemini-2.5-flash-preview-04-17-no
 
-> 27 家 · 最低 **$0.0110295** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 28 家 · 最低 **$0.0110295** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -17,19 +17,20 @@
 | 11 | `api.routeeasy.ai` | $0.075 | $0.625005 | anti_gemini_0706_025_qing | 0.25 | gemini-2.5-flash-preview-04-17-nothinking |
 | 12 | `www.aiapikey.net` | $0.075 | - | Gemini | 0.5 | gemini-2.5-flash-preview-04-17-nothinking |
 | 13 | `api.openai-labs.com` | $0.09 | $0.750006 | geminicli | 0.3 | gemini-2.5-flash-preview-04-17-nothinking |
-| 14 | `dragtokens.com` | $0.15 | - | - | - | gemini-2.5-flash-preview-04-17-nothinking |
-| 15 | `yunwu.ai` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
-| 16 | `anyaigc.com` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
-| 17 | `api.zhongzhuan.chat` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
-| 18 | `vipapi.online` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
-| 19 | `api.qingyuntop.top` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
-| 20 | `api.winfull.cloud-ip.cc` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
-| 21 | `www.micuapi.ai` | $0.15 | - | - | - | gemini-2.5-flash-preview-04-17-nothinking |
-| 22 | `api.apiyi.com` | $0.15 | $1.2 | Gemini_Reverse | 0.5 | gemini-2.5-flash-preview-04-17-nothinking |
-| 23 | `cf-api.o1key.com` | $0.15 | - | - | - | gemini-2.5-flash-preview-04-17-nothinking |
-| 24 | `api.hoxkai.top` | $0.255 | $1.02 | gemini | 1.7 | gemini-2.5-flash-preview-04-17-nothinking |
-| 25 | `api.apib.ai` | $0.3 | $2.4999 | - | - | gemini-2.5-flash-preview-04-17-nothinking |
-| 26 | `www.packyapi.com` | $0.45 | - | gemini-slb | 3 | gemini-2.5-flash-preview-04-17-nothinking |
-| 27 | `ai.comfly.org` | $0.6 | - | gemini优质 | 2 | gemini-2.5-flash-preview-04-17-nothinking |
+| 14 | `go.sbgpt.site` | $0.09 | $0.36 | gemini全模型 | 0.6 | gemini-2.5-flash-preview-04-17-nothinking |
+| 15 | `dragtokens.com` | $0.15 | - | - | - | gemini-2.5-flash-preview-04-17-nothinking |
+| 16 | `yunwu.ai` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
+| 17 | `anyaigc.com` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
+| 18 | `api.zhongzhuan.chat` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
+| 19 | `vipapi.online` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
+| 20 | `api.qingyuntop.top` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
+| 21 | `api.winfull.cloud-ip.cc` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-04-17-nothinking |
+| 22 | `www.micuapi.ai` | $0.15 | - | - | - | gemini-2.5-flash-preview-04-17-nothinking |
+| 23 | `api.apiyi.com` | $0.15 | $1.2 | Gemini_Reverse | 0.5 | gemini-2.5-flash-preview-04-17-nothinking |
+| 24 | `cf-api.o1key.com` | $0.15 | - | - | - | gemini-2.5-flash-preview-04-17-nothinking |
+| 25 | `api.hoxkai.top` | $0.255 | $1.02 | gemini | 1.7 | gemini-2.5-flash-preview-04-17-nothinking |
+| 26 | `api.apib.ai` | $0.3 | $2.4999 | - | - | gemini-2.5-flash-preview-04-17-nothinking |
+| 27 | `www.packyapi.com` | $0.45 | - | gemini-slb | 3 | gemini-2.5-flash-preview-04-17-nothinking |
+| 28 | `ai.comfly.org` | $0.6 | - | gemini优质 | 2 | gemini-2.5-flash-preview-04-17-nothinking |
 
 [← 返回索引](index.md)

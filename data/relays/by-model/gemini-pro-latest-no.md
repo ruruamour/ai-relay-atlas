@@ -1,6 +1,6 @@
 # gemini-pro-latest-no
 
-> 14 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 15 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -18,5 +18,6 @@
 | 12 | `vipapi.online` | $1.25 | $10.0 | gemini-cli | 1 | gemini-pro-latest-nothinking |
 | 13 | `api.qingyuntop.top` | $1.25 | $10.0 | gemini-cli | 1 | gemini-pro-latest-nothinking |
 | 14 | `api.winfull.cloud-ip.cc` | $1.25 | $10.0 | gemini-cli | 1 | gemini-pro-latest-nothinking |
+| 15 | `go.sbgpt.site` | $45 | $180.0 | gemini全模型 | 0.6 | gemini-pro-latest-nothinking |
 
 [← 返回索引](index.md)

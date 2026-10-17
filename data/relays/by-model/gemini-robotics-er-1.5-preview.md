@@ -1,6 +1,6 @@
 # gemini-robotics-er-1.5-preview
 
-> 31 家 · 最低 **$0.06** @ `mux.la` · 推算价（USD/1M 输入），未对账
+> 33 家 · 最低 **$0.06** @ `mux.la` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -30,10 +30,12 @@
 | 24 | `dollar.ruiyumaas.com` | $75 | $625.0 | default | 1 | gemini-robotics-er-1.5-preview |
 | 25 | `api.apib.ai` | $75 | $625.0 | - | - | gemini-robotics-er-1.5-preview |
 | 26 | `api.hopeai.cc` | $75 | $625.0 | default | 1 | gemini-robotics-er-1.5-preview |
-| 27 | `api.hoxkai.top` | $150 | $1250.0 | gemini-svip | 2 | gemini-robotics-er-1.5-preview |
-| 28 | `poloai.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-robotics-er-1.5-preview |
-| 29 | `poloapi.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-robotics-er-1.5-preview |
-| 30 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-robotics-er-1.5-preview |
-| 31 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-robotics-er-1.5-preview |
+| 27 | `kfcv50.link` | $75 | $225.0 | Gemini_vip | 1 | gemini-robotics-er-1.5-preview |
+| 28 | `api.hoxkai.top` | $150 | $1250.0 | gemini-svip | 2 | gemini-robotics-er-1.5-preview |
+| 29 | `poloai.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-robotics-er-1.5-preview |
+| 30 | `poloapi.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-robotics-er-1.5-preview |
+| 31 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-robotics-er-1.5-preview |
+| 32 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-robotics-er-1.5-preview |
+| 33 | `api2.poloai.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-robotics-er-1.5-preview |
 
 [← 返回索引](index.md)

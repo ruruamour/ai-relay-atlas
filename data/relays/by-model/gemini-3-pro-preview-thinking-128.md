@@ -1,6 +1,6 @@
 # gemini-3-pro-preview-thinking-128
 
-> 12 家 · 最低 **$0.125** @ `love.qinyan.icu` · 推算价（USD/1M 输入），未对账
+> 13 家 · 最低 **$0.125** @ `love.qinyan.icu` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | 8 | `4sapi.com` | $2 | $12.0 | gemini-cli | 1 | gemini-3-pro-preview-thinking-128 |
 | 9 | `yinli.one` | $3 | $18.0 | Gemini-低价-90%稳定性 | 1.5 | gemini-3-pro-preview-thinking-128 |
 | 10 | `nexaxis.ai` | $4 | $24.0 | Gemini_AS | 2 | gemini-3-pro-preview-thinking-128 |
-| 11 | `vip.yinli.one` | $6 | $36.0 | Gemini-中价-95%稳定性 | 3 | gemini-3-pro-preview-thinking-128 |
-| 12 | `api.newapi.zone` | $150 | $900.0 | gemini API | 2 | gemini-3-pro-preview-thinking-128 |
+| 11 | `nexaxis.io` | $4 | $24.0 | Gemini | 2 | gemini-3-pro-preview-thinking-128 |
+| 12 | `vip.yinli.one` | $6 | $36.0 | Gemini-中价-95%稳定性 | 3 | gemini-3-pro-preview-thinking-128 |
+| 13 | `api.newapi.zone` | $150 | $900.0 | gemini API | 2 | gemini-3-pro-preview-thinking-128 |
 
 [← 返回索引](index.md)

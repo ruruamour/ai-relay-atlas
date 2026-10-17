@@ -1,6 +1,6 @@
 # gemini-2.5-flash-preview-09-2025-thinking-*
 
-> 19 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 20 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -23,5 +23,6 @@
 | 17 | `api.hoxkai.top` | $0.51 | $4.2499998 | gemini | 1.7 | gemini-2.5-flash-preview-09-2025-thinking-* |
 | 18 | `poloai.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-2.5-flash-preview-09-2025-thinking-* |
 | 19 | `poloapi.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-2.5-flash-preview-09-2025-thinking-* |
+| 20 | `api2.poloai.top` | $225 | $1875.0 | gemini-号池 | 3 | gemini-2.5-flash-preview-09-2025-thinking-* |
 
 [← 返回索引](index.md)

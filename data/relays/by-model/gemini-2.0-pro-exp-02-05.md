@@ -1,6 +1,6 @@
 # gemini-2.0-pro-exp-02-05
 
-> 30 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 33 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -24,15 +24,18 @@
 | 18 | `api.qingyuntop.top` | $1.25 | $5.0 | gemini-cli | 1 | gemini-2.0-pro-exp-02-05 |
 | 19 | `api.winfull.cloud-ip.cc` | $1.25 | $5.0 | gemini-cli | 1 | gemini-2.0-pro-exp-02-05 |
 | 20 | `api.apiyi.com` | $1.25 | $5.0 | Gemini_Reverse | 0.5 | gemini-2.0-pro-exp-02-05 |
-| 21 | `api.openai-labs.com` | $1.5 | $6.0 | geminicli | 0.3 | gemini-2.0-pro-exp-02-05 |
-| 22 | `api.zyai.online` | $1.5 | $12.0 | GeminiCli | 0.6 | gemini-2.0-pro-exp-02-05 |
-| 23 | `coultra.blueshirtmap.com` | $2.5 | $3.125 | - | - | gemini-2.0-pro-exp-02-05 |
-| 24 | `api.apib.ai` | $2.5 | $10.0 | - | - | gemini-2.0-pro-exp-02-05 |
-| 25 | `api.hoxkai.top` | $4.25 | $17.0 | gemini | 1.7 | gemini-2.0-pro-exp-02-05 |
-| 26 | `www.micuapi.ai` | $5 | $20.0 | - | - | gemini-2.0-pro-exp-02-05 |
-| 27 | `api.hopeai.cc` | $5 | $20.0 | default | 1 | gemini-2.0-pro-exp-02-05 |
-| 28 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-2.0-pro-exp-02-05 |
-| 29 | `paw.v1chat.cc` | $12.4 | $49.6 | Gemini2.5/3.1Pro专线31 | 3.1 | gemini-2.0-pro-exp-02-05 |
-| 30 | `api.wukong.support` | $18.75 | $75.0 | gemini官渠 | 3.75 | gemini-2.0-pro-exp-02-05 |
+| 21 | `apiai.shop` | $1.25 | $5.0 | default | 1 | gemini-2.0-pro-exp-02-05 |
+| 22 | `api.openai-labs.com` | $1.5 | $6.0 | geminicli | 0.3 | gemini-2.0-pro-exp-02-05 |
+| 23 | `api.zyai.online` | $1.5 | $12.0 | GeminiCli | 0.6 | gemini-2.0-pro-exp-02-05 |
+| 24 | `coultra.blueshirtmap.com` | $2.5 | $3.125 | - | - | gemini-2.0-pro-exp-02-05 |
+| 25 | `api.apib.ai` | $2.5 | $10.0 | - | - | gemini-2.0-pro-exp-02-05 |
+| 26 | `go.sbgpt.site` | $3.5 | $14.0 | openai逆向 | 0.7 | gemini-2.0-pro-exp-02-05 |
+| 27 | `api.hoxkai.top` | $4.25 | $17.0 | gemini | 1.7 | gemini-2.0-pro-exp-02-05 |
+| 28 | `www.micuapi.ai` | $5 | $20.0 | - | - | gemini-2.0-pro-exp-02-05 |
+| 29 | `api.hopeai.cc` | $5 | $20.0 | default | 1 | gemini-2.0-pro-exp-02-05 |
+| 30 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-2.0-pro-exp-02-05 |
+| 31 | `paw.v1chat.cc` | $12.4 | $49.6 | Gemini2.5/3.1Pro专线31 | 3.1 | gemini-2.0-pro-exp-02-05 |
+| 32 | `api.wukong.support` | $18.75 | $75.0 | gemini官渠 | 3.75 | gemini-2.0-pro-exp-02-05 |
+| 33 | `newapi.link` | $75 | $300.0 | 备用 | 1 | gemini-2.0-pro-exp-02-05 |
 
 [← 返回索引](index.md)

@@ -1,6 +1,6 @@
 # gemini-1.5-pro-002
 
-> 24 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 26 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -15,18 +15,20 @@
 | 9 | `thousandengine.com` | $0.202208 | $0.80883 | Anti-Gemini-1 | 0.16176600000000002 | gemini-1.5-pro-002 |
 | 10 | `mux.la` | $0.25 | $1.0 | Gemini-Lite | 0.2 | gemini-1.5-pro-002 |
 | 11 | `api.routeeasy.ai` | $0.315 | $0.945 | anti_gemini_0706_025_qing | 0.25 | gemini-1.5-pro-002 |
-| 12 | `api.openai-labs.com` | $1.2 | $4.8 | geminicli | 0.3 | gemini-1.5-pro-002 |
-| 13 | `yunwu.ai` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
-| 14 | `anyaigc.com` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
-| 15 | `coultra.blueshirtmap.com` | $1.25 | $5.0 | - | - | gemini-1.5-pro-002 |
-| 16 | `api.zhongzhuan.chat` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
-| 17 | `vipapi.online` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
-| 18 | `api.qingyuntop.top` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
-| 19 | `api.winfull.cloud-ip.cc` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
-| 20 | `api.apiyi.com` | $1.25 | $5.0 | Gemini_Reverse | 0.5 | gemini-1.5-pro-002 |
-| 21 | `api.apib.ai` | $2.5 | $10.0 | - | - | gemini-1.5-pro-002 |
-| 22 | `www.micuapi.ai` | $4 | $16.0 | - | - | gemini-1.5-pro-002 |
-| 23 | `api.hopeai.cc` | $4 | $16.0 | default | 1 | gemini-1.5-pro-002 |
-| 24 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-1.5-pro-002 |
+| 12 | `go.sbgpt.site` | $0.75 | $3.0 | gemini全模型 | 0.6 | gemini-1.5-pro-002 |
+| 13 | `api.openai-labs.com` | $1.2 | $4.8 | geminicli | 0.3 | gemini-1.5-pro-002 |
+| 14 | `yunwu.ai` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
+| 15 | `anyaigc.com` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
+| 16 | `coultra.blueshirtmap.com` | $1.25 | $5.0 | - | - | gemini-1.5-pro-002 |
+| 17 | `api.zhongzhuan.chat` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
+| 18 | `vipapi.online` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
+| 19 | `api.qingyuntop.top` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
+| 20 | `api.winfull.cloud-ip.cc` | $1.25 | $5.0 | gemini-cli | 1 | gemini-1.5-pro-002 |
+| 21 | `api.apiyi.com` | $1.25 | $5.0 | Gemini_Reverse | 0.5 | gemini-1.5-pro-002 |
+| 22 | `api.apib.ai` | $2.5 | $10.0 | - | - | gemini-1.5-pro-002 |
+| 23 | `www.micuapi.ai` | $4 | $16.0 | - | - | gemini-1.5-pro-002 |
+| 24 | `api.hopeai.cc` | $4 | $16.0 | default | 1 | gemini-1.5-pro-002 |
+| 25 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-1.5-pro-002 |
+| 26 | `newapi.link` | $75 | $300.0 | 备用 | 1 | gemini-1.5-pro-002 |
 
 [← 返回索引](index.md)

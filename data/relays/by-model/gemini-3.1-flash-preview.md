@@ -1,6 +1,6 @@
 # gemini-3.1-flash-preview
 
-> 20 家 · 最低 **$0.036765** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 25 家 · 最低 **$0.036765** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -20,9 +20,14 @@
 | 14 | `api.qingyuntop.top` | $0.5 | $3.0 | gemini-cli | 1 | gemini-3.1-flash-preview |
 | 15 | `api.winfull.cloud-ip.cc` | $0.5 | $3.0 | gemini-cli | 1 | gemini-3.1-flash-preview |
 | 16 | `api.yuboar.com` | $0.5 | $3.0 | Gemini | 1 | gemini-3.1-flash-preview |
-| 17 | `api.routeeasy.ai` | $0.9 | $5.4 | gemini_studio_18 | 1.8 | gemini-3.1-flash-preview |
-| 18 | `poloai.top` | $1.5 | $9.0 | gemini-号池 | 3 | gemini-3.1-flash-preview |
-| 19 | `poloapi.top` | $1.5 | $9.0 | Gemini-优质临时分组 | 3 | gemini-3.1-flash-preview |
-| 20 | `128api.cn` | $2.6 | $31.2 | default | 1 | gemini-3.1-flash-preview |
+| 17 | `kfcv50.link` | $0.5 | $3.0 | Gemini_vip | 1 | gemini-3.1-flash-preview |
+| 18 | `api.routeeasy.ai` | $0.9 | $5.4 | gemini_studio_18 | 1.8 | gemini-3.1-flash-preview |
+| 19 | `poloai.top` | $1.5 | $9.0 | gemini-号池 | 3 | gemini-3.1-flash-preview |
+| 20 | `poloapi.top` | $1.5 | $9.0 | Gemini-优质临时分组 | 3 | gemini-3.1-flash-preview |
+| 21 | `api2.poloai.top` | $1.5 | $9.0 | Gemini-优质临时分组 | 3 | gemini-3.1-flash-preview |
+| 22 | `128api.cn` | $2.6 | $31.2 | default | 1 | gemini-3.1-flash-preview |
+| 23 | `api-x.vip` | $75 | $300.0 | Gemini | 1 | gemini-3.1-flash-preview |
+| 24 | `api.nekoapi.com` | $187.5 | $750.0 | gemini-vip | 2.5 | gemini-3.1-flash-preview |
+| 25 | `nekoapi.com` | $187.5 | $750.0 | gemini-vip | 2.5 | gemini-3.1-flash-preview |
 
 [← 返回索引](index.md)

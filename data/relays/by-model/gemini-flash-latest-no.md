@@ -1,6 +1,6 @@
 # gemini-flash-latest-no
 
-> 26 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 28 家 · 最低 **$0.022059** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | 21 | `api2.4xapi.com` | $3.75 | $22.5 | Gemini-vertex | 2.5 | gemini-flash-latest-nothinking |
 | 22 | `officesai.top` | $8.4 | $33.6 | Image绘图 4K | 1 | gemini-flash-latest-nothinking |
 | 23 | `koalaapi.com` | $22.5 | $90.0 | default | 0.3 | gemini-flash-latest-nothinking |
-| 24 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-flash-latest-nothinking |
-| 25 | `poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-nothinking |
-| 26 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-nothinking |
+| 24 | `go.sbgpt.site` | $45 | $180.0 | gemini全模型 | 0.6 | gemini-flash-latest-nothinking |
+| 25 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-flash-latest-nothinking |
+| 26 | `poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-nothinking |
+| 27 | `poloapi.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-nothinking |
+| 28 | `api2.poloai.top` | $225 | $900.0 | gemini-号池 | 3 | gemini-flash-latest-nothinking |
 
 [← 返回索引](index.md)

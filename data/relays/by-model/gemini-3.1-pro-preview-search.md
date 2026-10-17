@@ -1,6 +1,6 @@
 # gemini-3.1-pro-preview-search
 
-> 8 家 · 最低 **$0.5** @ `api.routeeasy.ai` · 推算价（USD/1M 输入），未对账
+> 10 家 · 最低 **$0.5** @ `api.routeeasy.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -10,7 +10,9 @@
 | 4 | `newapi.aisonnet.org` | $1 | $6.0 | gemini低价 | 0.5 | gemini-3.1-pro-preview-search |
 | 5 | `newapi.aiopus.org` | $1 | $6.0 | gemini低价 | 0.5 | gemini-3.1-pro-preview-search |
 | 6 | `api.zyai.online` | $1.2 | $7.2 | GeminiCli | 0.6 | gemini-3.1-pro-preview-search |
-| 7 | `api.vveai.com` | $3 | $18.0 | gemini | 1.5 | gemini-3.1-pro-preview-search |
-| 8 | `s10.moligate.com` | $75 | $300.0 | gemini-openai | 1 | gemini-3.1-pro-preview-search |
+| 7 | `kfcv50.link` | $1.3 | $7.8 | gemini_anti_0401_065 | 0.65 | gemini-3.1-pro-preview-search |
+| 8 | `api.vveai.com` | $3 | $18.0 | gemini | 1.5 | gemini-3.1-pro-preview-search |
+| 9 | `s10.moligate.com` | $75 | $300.0 | gemini-openai | 1 | gemini-3.1-pro-preview-search |
+| 10 | `xingya.space` | $75 | $75.0 | default | 1 | [破限]gemini-3.1-pro-preview-search |
 
 [← 返回索引](index.md)

@@ -1,6 +1,6 @@
 # gemini-pro-latest-thinking-*
 
-> 28 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 29 家 · 最低 **$0.0919125** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -25,12 +25,13 @@
 | 19 | `api2.4xapi.com` | $5 | $30.0 | Gemini-vertex | 2.5 | gemini-pro-latest-thinking-* |
 | 20 | `poloai.top` | $7.5 | $75.0 | Gemini-优质临时分组 | 3 | gemini-pro-latest-thinking-* |
 | 21 | `poloapi.top` | $7.5 | $75.0 | Gemini-优质临时分组 | 3 | gemini-pro-latest-thinking-* |
-| 22 | `magic666.top` | $26.25 | $105.0 | gemini-nx | 0.35 | gemini-pro-latest-thinking-* |
-| 23 | `officesai.top` | $56 | $336.0 | Image绘图 4K | 1 | gemini-pro-latest-thinking-* |
-| 24 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-pro-latest-thinking-* |
-| 25 | `api.yuboar.com` | $75 | $300.0 | Gemini | 1 | gemini-pro-latest-thinking-* |
-| 26 | `api.hoxkai.top` | $150 | $600.0 | gemini-svip | 2 | gemini-pro-latest-thinking-* |
-| 27 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-pro-latest-thinking-* |
-| 28 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-pro-latest-thinking-* |
+| 22 | `api2.poloai.top` | $7.5 | $75.0 | Gemini-优质临时分组 | 3 | gemini-pro-latest-thinking-* |
+| 23 | `magic666.top` | $26.25 | $105.0 | gemini-nx | 0.35 | gemini-pro-latest-thinking-* |
+| 24 | `officesai.top` | $56 | $336.0 | Image绘图 4K | 1 | gemini-pro-latest-thinking-* |
+| 25 | `api.hopeai.cc` | $75 | $300.0 | default | 1 | gemini-pro-latest-thinking-* |
+| 26 | `api.yuboar.com` | $75 | $300.0 | Gemini | 1 | gemini-pro-latest-thinking-* |
+| 27 | `api.hoxkai.top` | $150 | $600.0 | gemini-svip | 2 | gemini-pro-latest-thinking-* |
+| 28 | `api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-pro-latest-thinking-* |
+| 29 | `cn.api.zyai.online` | $225 | $675.0 | Banana2_VIP | 3 | gemini-pro-latest-thinking-* |
 
 [← 返回索引](index.md)

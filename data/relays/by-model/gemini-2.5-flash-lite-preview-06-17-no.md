@@ -1,6 +1,6 @@
 # gemini-2.5-flash-lite-preview-06-17-no
 
-> 19 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
+> 21 家 · 最低 **$0.007353** @ `api.openlux.ai` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -23,5 +23,7 @@
 | 17 | `api.hoxkai.top` | $0.51 | $4.2499998 | gemini | 1.7 | gemini-2.5-flash-lite-preview-06-17-nothinking |
 | 18 | `poloai.top` | $0.9 | $7.497 | gemini-号池 | 3 | gemini-2.5-flash-lite-preview-06-17-nothinking |
 | 19 | `poloapi.top` | $0.9 | $7.497 | gemini-号池 | 3 | gemini-2.5-flash-lite-preview-06-17-nothinking |
+| 20 | `api2.poloai.top` | $0.9 | $7.497 | gemini-号池 | 3 | gemini-2.5-flash-lite-preview-06-17-nothinking |
+| 21 | `go.sbgpt.site` | $45 | $180.0 | gemini全模型 | 0.6 | gemini-2.5-flash-lite-preview-06-17-nothinking |
 
 [← 返回索引](index.md)

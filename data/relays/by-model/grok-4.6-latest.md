@@ -1,6 +1,6 @@
 # grok-4.6-latest
 
-> 10 家 · 最低 **$0.16** @ `api.lingzhouai.com` · 推算价（USD/1M 输入），未对账
+> 11 家 · 最低 **$0.16** @ `api.lingzhouai.com` · 推算价（USD/1M 输入），未对账
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
@@ -14,5 +14,6 @@
 | 8 | `www.u-ai.me` | $1.1 | $3.3 | grok-官转 | 0.55 | grok-4.6-latest |
 | 9 | `www.suanlitaikong.com` | $2.4 | $12.0 | grok-官转 | 0.8 | grok-4.6-latest |
 | 10 | `api.strong-api.top` | $15 | $15.0 | grok-heavy | 0.2 | grok-4.6-latest |
+| 11 | `windapi.ai` | $30 | $30.0 | grok | 0.4 | grok-4.6-latest |
 
 [← 返回索引](index.md)
