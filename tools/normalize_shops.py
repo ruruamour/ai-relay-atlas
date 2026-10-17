@@ -10,8 +10,7 @@ def rd(f):
     with open(p,newline='',encoding='utf-8-sig') as fh: return list(csv.DictReader(fh))
 SYSTEM_BY_HOST={'ultra.makelove.cloud':'独角数卡','gpthub.ciyuanapi.ai':'独角数卡','shihuiai.cn':'异次元发卡'}
 def classify(host):
-    if host in ('pay.ldxp.cn','ldxp.cn'): return ('SaaS','链动小铺','','')
-    if host=='wzyp.cn': return ('SaaS','未知SaaS(wzyp.cn)','','')
+    if host in ('pay.ldxp.cn','ldxp.cn','wzyp.cn'): return ('SaaS','链动小铺','','')
     if host in SYSTEM_BY_HOST: return ('自建','',SYSTEM_BY_HOST[host],'开源软件')
     return ('自建','','未知','未知')
 def cat(t):
@@ -65,7 +64,9 @@ for x in ded:
     except: pass
 rows=[]
 for shop,a in agg.items():
-    h=next((classify(x) for x in a['hosts']),('','','',''))
+    prio={'pay.ldxp.cn':0,'wzyp.cn':1,'ldxp.cn':2}
+    hs=sorted(a['hosts'],key=lambda x:prio.get(x,9))
+    h=next((classify(x) for x in hs),('','','',''))
     hosting,plat,sysn,stype=h
     rows.append(dict(shop=shop,hosting=hosting,platform=plat,system=sysn,system_type=stype,
         domain=';'.join(sorted(a['hosts'])),categories='/'.join(sorted(a['cats'])),
