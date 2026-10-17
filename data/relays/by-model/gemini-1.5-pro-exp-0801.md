@@ -1,14 +1,17 @@
 # gemini-1.5-pro-exp-0801
 
-共 8 家。价为推算实际价 USD/1M 输入。
+> 9 家 · 最低 **$0.2** @ `love.qinyan.icu` · 推算价（USD/1M 输入），未对账
 
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | love.qinyan.icu | $0.2 | - | 0.1 | 🎉Gemini限时福利分组 |
-| 2 | openai.chatnewai.com | $0.2 | - | 0.1 | 🎉Gemini限时福利分组 |
-| 3 | api.routeeasy.ai | $0.875 | $3.5 | 0.25 | anti_gemini_0706_025_qing |
-| 4 | api.openai-labs.com | $2.1 | $6.3 | 0.3 | geminicli |
-| 5 | www.micuapi.ai | $3.5 | $14 |  |  |
-| 6 | coultra.blueshirtmap.com | $4 | $8 |  |  |
-| 7 | ai.comfly.org | $10 | - | 2 | gemini优质 |
-| 8 | api.hoxkai.top | $17 | - | 1.7 | gemini |
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `love.qinyan.icu` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-pro-exp-0801 |
+| 2 | `openai.chatnewai.com` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-1.5-pro-exp-0801 |
+| 3 | `api.routeeasy.ai` | $0.875 | $3.5 | anti_gemini_0706_025_qing | 0.25 | gemini-1.5-pro-exp-0801 |
+| 4 | `api.openai-labs.com` | $2.1 | $6.3 | geminicli | 0.3 | gemini-1.5-pro-exp-0801 |
+| 5 | `www.micuapi.ai` | $3.5 | $14.0 | - | - | gemini-1.5-pro-exp-0801 |
+| 6 | `api.hopeai.cc` | $3.5 | $14.0 | default | 1 | gemini-1.5-pro-exp-0801 |
+| 7 | `coultra.blueshirtmap.com` | $4 | $8.0 | - | - | gemini-1.5-pro-exp-0801 |
+| 8 | `ai.comfly.org` | $10 | - | gemini优质 | 2 | gemini-1.5-pro-exp-0801 |
+| 9 | `api.hoxkai.top` | $17 | - | gemini | 1.7 | gemini-1.5-pro-exp-0801 |
+
+[← 返回索引](index.md)

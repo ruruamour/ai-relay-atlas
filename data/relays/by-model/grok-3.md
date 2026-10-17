@@ -1,0 +1,16 @@
+# grok-3
+
+> 8 家 · 最低 **$0.9** @ `www.koalaapi.com` · 推算价（USD/1M 输入），未对账
+
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `www.koalaapi.com` | $0.9 | $4.5 | default | 0.3 | grok-3 |
+| 2 | `cn.api.zyai.online` | $1 | $5.0 | mini | 0.5 | grok-3 |
+| 3 | `www.vectorengine.ai` | $1.8 | $9.0 | 限时特价 | 0.6 | grok-3 |
+| 4 | `www.yunwu.ai` | $1.8 | $9.0 | 限时特价 | 0.6 | grok-3 |
+| 5 | `api.hopeai.cc` | $2 | $2.0 | default | 1 | grok-3 |
+| 6 | `api.xistree.hk` | $2 | $10.0 | default | 1 | grok-3 |
+| 7 | `api.yuboar.com` | $3 | $15.0 | AzureOpenAI | 1 | grok-3 |
+| 8 | `us.julianapi.com` | $21.9 | $109.5 | default | 7.3 | grok-3 |
+
+[← 返回索引](index.md)

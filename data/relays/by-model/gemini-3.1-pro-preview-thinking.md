@@ -1,21 +1,27 @@
 # gemini-3.1-pro-preview-thinking
 
-共 15 家。价为推算实际价 USD/1M 输入。
+> 19 家 · 最低 **$0.5** @ `api.routeeasy.ai` · 推算价（USD/1M 输入），未对账
 
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | api.routeeasy.ai | $0.5 | $3 | 0.25 | anti_gemini_0706_025_qing |
-| 2 | magic666.top | $0.7 | $4.2 | 0.35 | gemini-nx |
-| 3 | newapi.aisonnet.org | $1 | $6 | 0.5 | gemini低价 |
-| 4 | www.aiapikey.net | $1 | - | 0.5 | Gemini |
-| 5 | newapi.aiopus.org | $1 | $6 | 0.5 | gemini低价 |
-| 6 | poloai.top | $2 | $12 | 1 | Gemini |
-| 7 | poloapi.top | $2 | $12 | 1 | Gemini |
-| 8 | www.micuapi.ai | $2 | $12 |  |  |
-| 9 | ai.comfly.org | $4 | $24 | 2 | gemini优质 |
-| 10 | ai.iisbo.com | $4.3334 | $26.0004 | 1 | token |
-| 11 | iai.iisbo.com | $4.3334 | $26.0004 | 1 | svipkld |
-| 12 | api.zyai.online | $6 | $36 | 3 | Banana2_VIP |
-| 13 | 4sapi.org | $75 | $300 | 1 | gemini-cli |
-| 14 | 4sapi.com | $75 | $300 | 1 | gemini-cli |
-| 15 | api.wukong.support | $281.25 | $1125 | 3.75 | gemini官渠 |
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.routeeasy.ai` | $0.5 | $3.0 | anti_gemini_0706_025_qing | 0.25 | gemini-3.1-pro-preview-thinking-high |
+| 2 | `magic666.top` | $0.7 | $4.2 | gemini-nx | 0.35 | gemini-3.1-pro-preview-thinking-high |
+| 3 | `newapi.aisonnet.org` | $1 | $6.0 | gemini低价 | 0.5 | gemini-3.1-pro-preview-thinking-low |
+| 4 | `www.aiapikey.net` | $1 | - | Gemini | 0.5 | gemini-3.1-pro-preview-thinking-high |
+| 5 | `newapi.aiopus.org` | $1 | $6.0 | gemini低价 | 0.5 | gemini-3.1-pro-preview-thinking-low |
+| 6 | `poloai.top` | $2 | $12.0 | Gemini | 1 | gemini-3.1-pro-preview-thinking-high |
+| 7 | `poloapi.top` | $2 | $12.0 | Gemini | 1 | gemini-3.1-pro-preview-thinking-high |
+| 8 | `www.micuapi.ai` | $2 | $12.0 | - | - | gemini-3.1-pro-preview-thinking-high |
+| 9 | `api.yuboar.com` | $2 | $12.0 | Gemini | 1 | gemini-3.1-pro-preview-thinking-high |
+| 10 | `ai.comfly.org` | $4 | $24.0 | gemini优质 | 2 | gemini-3.1-pro-preview-thinking-medium |
+| 11 | `ai.iisbo.com` | $4.3334 | $26.0004 | token | 1 | [OO]gemini-3.1-pro-preview-thinking-low |
+| 12 | `iai.iisbo.com` | $4.3334 | $26.0004 | svipkld | 1 | [OO]gemini-3.1-pro-preview-thinking-low |
+| 13 | `api.zyai.online` | $6 | $36.0 | Banana2_VIP | 3 | gemini-3.1-pro-preview-thinking-high |
+| 14 | `cn.api.zyai.online` | $6 | $36.0 | Banana2_VIP | 3 | gemini-3.1-pro-preview-thinking-high |
+| 15 | `4sapi.org` | $75 | $300.0 | gemini-cli | 1 | gemini-3.1-pro-preview-thinking-high |
+| 16 | `4sapi.com` | $75 | $300.0 | gemini-cli | 1 | gemini-3.1-pro-preview-thinking-high |
+| 17 | `dapicloud.com` | $84.375 | $337.5 | gemini-个人版 | 1.125 | gemini-3.1-pro-preview-thinking-high |
+| 18 | `www.dapicloud.com` | $84.375 | $337.5 | gemini-个人版 | 1.125 | gemini-3.1-pro-preview-thinking-low |
+| 19 | `api.wukong.support` | $281.25 | $1125.0 | gemini官渠 | 3.75 | gemini-3.1-pro-preview-thinking-low |
+
+[← 返回索引](index.md)

@@ -1,0 +1,28 @@
+# mj_relax_video
+
+> 20 家 · 最低 **$1.35** @ `api.2api.magic666.top` · 推算价（USD/1M 输入），未对账
+
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 2 | `new.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 3 | `sub.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 4 | `vip.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 5 | `www.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 6 | `hk.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 7 | `gw.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 8 | `2api.2api.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 9 | `api.gw.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 10 | `ai.gw.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 11 | `www.gw.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 12 | `sub.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 13 | `vip.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 14 | `new.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 15 | `sub.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 16 | `vip.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 17 | `ai.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 18 | `www.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 19 | `cn.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+| 20 | `2api.new.magic666.top` | $1.35 | $10.8 | default | 1 | mj_relax_video |
+
+[← 返回索引](index.md)

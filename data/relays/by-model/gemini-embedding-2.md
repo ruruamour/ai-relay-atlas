@@ -1,21 +1,30 @@
 # gemini-embedding-2
 
-共 15 家。价为推算实际价 USD/1M 输入。
+> 22 家 · 最低 **$0.05** @ `api.pie-xian.com` · 推算价（USD/1M 输入），未对账
 
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | api.pie-xian.com | $0.05 | $0.2 | 1 | gemini |
-| 2 | api.openai-labs.com | $0.06 | - | 0.3 | geminicli |
-| 3 | modelsell.com | $0.1 | $0.4 | 0.5 | Google AI Studio |
-| 4 | api.zyai.online | $0.12 | - | 0.6 | GeminiCli |
-| 5 | cn.gptapi.asia | $0.14 | $0 | 7 | enterprise |
-| 6 | api.routeeasy.ai | $0.18 | $0.18 | 0.9 | gemini_studio_09 |
-| 7 | www.micuapi.ai | $0.2 | $0.8 |  |  |
-| 8 | api.apiyi.com | $0.2 | $0.2 | 1 | default |
-| 9 | yujianwudi.top | $1.95 | - | 0.3 | Gemini-pro |
-| 10 | cdn.sta1n.cn | $2.4 | $0 | 1 | default |
-| 11 | api.humanwill.xyz | $10.4 | $41.6 | 1.6 | Gemini |
-| 12 | us-1.rcouyi.com | $60 | $60 | 1 | default |
-| 13 | api.rcouyi.com | $60 | $60 | 1 | default |
-| 14 | wolfai.top | $112.5 | $450 | 1.5 | vip |
-| 15 | pro.gemai.cc | $187.5 | $750 | 2.5 | Gemini AI Studio |
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.pie-xian.com` | $0.05 | $0.2 | gemini | 1 | gemini-embedding-2 |
+| 2 | `api.openai-labs.com` | $0.06 | - | geminicli | 0.3 | gemini-embedding-2 |
+| 3 | `api.bita-api.com` | $0.096 | $0.384 | gemini-high | 0.48 | gemini-embedding-2 |
+| 4 | `bita-api-production.up.railway.app` | $0.096 | $0.384 | gemini-high | 0.48 | gemini-embedding-2 |
+| 5 | `modelsell.com` | $0.1 | $0.4 | Google AI Studio | 0.5 | gemini-embedding-2 |
+| 6 | `api.zyai.online` | $0.12 | - | GeminiCli | 0.6 | gemini-embedding-2 |
+| 7 | `cn.gptapi.asia` | $0.14 | $0.0 | enterprise | 7 | gemini-embedding-2 |
+| 8 | `api.routeeasy.ai` | $0.18 | $0.18 | gemini_studio_09 | 0.9 | gemini-embedding-2 |
+| 9 | `www.micuapi.ai` | $0.2 | $0.8 | - | - | gemini-embedding-2 |
+| 10 | `api.apiyi.com` | $0.2 | $0.2 | default | 1 | gemini-embedding-2 |
+| 11 | `api.yuboar.com` | $0.2 | $0.2 | Gemini | 1 | gemini-embedding-2 |
+| 12 | `api2.4xapi.com` | $0.5 | $2.0 | Gemini-vertex | 2.5 | gemini-embedding-2 |
+| 13 | `yujianwudi.top` | $1.95 | - | Gemini-pro | 0.3 | gemini-embedding-2 |
+| 14 | `cdn.sta1n.cn` | $2.4 | $0.0 | default | 1 | gemini-embedding-2 |
+| 15 | `cn.ai-api.loft.games` | $6 | $24.0 | test | 0.08 | gemini-embedding-2 |
+| 16 | `api.humanwill.xyz` | $10.4 | $41.6 | Gemini | 1.6 | gemini-embedding-2 |
+| 17 | `us-1.rcouyi.com` | $60 | $60.0 | default | 1 | gemini-embedding-2 |
+| 18 | `api.rcouyi.com` | $60 | $60.0 | default | 1 | gemini-embedding-2 |
+| 19 | `wolfai.top` | $112.5 | $450.0 | vip | 1.5 | gemini-embedding-2 |
+| 20 | `www.wolfai.top` | $112.5 | $450.0 | vip | 1.5 | gemini-embedding-2 |
+| 21 | `pro.gemai.cc` | $187.5 | $750.0 | Gemini AI Studio | 2.5 | gemini-embedding-2 |
+| 22 | `api.wochirou.com` | $300 | $1200.0 | gemini_direct_mini | 4 | gemini-embedding-2 |
+
+[← 返回索引](index.md)

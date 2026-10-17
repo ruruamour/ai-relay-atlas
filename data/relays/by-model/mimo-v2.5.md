@@ -1,66 +1,400 @@
 # mimo-v2.5
 
-共 325 家。价为推算实际价 USD/1M 输入。
+> 392 家 · 最低 **$4e-06** @ `ai.hebox.net` · 推算价（USD/1M 输入），未对账
 
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | ai.hebox.net | $4e-06 | - | 1e-05 | 零元购 |
-| 2 | api.aitokensflux.com | $0.00063 | - | 0.005 | free |
-| 3 | api.cnvip.com.cn | $0.00125 | - | 0.05 | 质量国模（官转不降智） |
-| 4 | aeapi.cn | $0.005 | - | 1 | default |
-| 5 | 1rr.top | $0.01 | - | 0.01 | 国模 |
-| 6 | abinapi.com | $0.01 | - | 0.05 | 福利分组 |
-| 7 | direct.abinapi.com | $0.01 | - | 0.05 | 福利分组 |
-| 8 | nty-hk.zhouyang168.top | $0.01 | - | 0.1 | free |
-| 9 | ai.lfree.org | $0.012 | - | 1 | claude |
-| 10 | cybertruckai.top | $0.012345 | - | 0.012345 | 🐳【国模】-【限时福利】-【0.012345】-死了就切~~ |
-| 11 | liangxinapi.top | $0.02 | - | 0.02 | 福利chat协议 |
-| 12 | www.liangxinapi.top | $0.02 | - | 0.02 | 福利cc协议 |
-| 13 | ai.gigimed.cn | $0.021 | - | 0.15 | a6api |
-| 14 | api.inktandwkx.top | $0.0234 | - | 0.065 | 限时福利 |
-| 15 | apiv3.52codeflow.top | $0.028 | - | 0.2 | 世界第一模型 |
-| 16 | ikun.love | $0.028 | - | 0.2 | 国模 |
-| 17 | openoneapi.com | $0.042 | - | 0.3 | 国模 |
-| 18 | api.moleapi.com | $0.045 | - | 0.3 | relay |
-| 19 | hk.moleapi.com | $0.045 | - | 0.3 | relay |
-| 20 | tokenus.net | $0.049 | - | 1 | default |
-| 21 | aiapibank.com | $0.05 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
-| 22 | api.wuhen-ai.com | $0.06 | - | 0.3 | 小米-gpt可接 |
-| 23 | api.yuaiapi.com | $0.06 | - | 0.06 | 中国模型特惠 |
-| 24 | 116.62.113.242 | $0.068493 | - | 0.5 | 国产低价区 |
-| 25 | synthapi.asia | $0.068493 | - | 0.5 | 国产低价区 |
-| 26 | api-x.top | $0.07 | - | 0.5 | default |
-| 27 | api.daoxe.com | $0.07 | - | 0.5 | 海外国产模型 |
-| 28 | daoxe.com | $0.07 | - | 0.5 | 海外国产模型 |
-| 29 | jp.daoxe.com | $0.07 | - | 0.5 | 海外国产模型 |
-| 30 | llm.kagu.one | $0.07 | - | 0.5 | 大杂烩 |
-| 31 | tokenflux.cloud | $0.07 | - | 0.5 | MIMO |
-| 32 | api.skyning.cc | $0.075 | - | 0.001 | 福利分组 |
-| 33 | api.bingyun.vip | $0.08 | - | 0.08 | 国模福利-008倍率 |
-| 34 | api.bjhuiqu.net | $0.0822 | - | 0.3 | 国产模型 |
-| 35 | ai.zfb.la | $0.084 | - | 0.6 | 国产模型 |
-| 36 | api.toporeduce.cn | $0.084 | - | 0.6 | 国产模型 |
-| 37 | api.zfb.la | $0.084 | - | 0.6 | 国产模型 |
-| 38 | yunshuapi.wiki | $0.084 | - | 0.6 | 国模 |
-| 39 | aiberm.com | $0.0966 | - | 0.23 | default |
-| 40 | aiberm.org | $0.0966 | - | 0.23 | default |
-| 41 | ai.kdysite.cloud | $0.1 | - | 0.1 | 国产经济区 |
-| 42 | api.e6t.cn | $0.1 | - | 0.1 | 国模稳定 |
-| 43 | api.happyouai.org | $0.1 | - | 0.1 | Xiaomi MiMo |
-| 44 | api.kaopuapi.xyz | $0.1 | - | 1 | default |
-| 45 | api.lingxiaihub.com | $0.1 | - | 0.1 | 国产福利 |
-| 46 | bearlab.ai | $0.1 | - | 0.1 | 【国模】特惠分组 |
-| 47 | bearlab.space | $0.1 | - | 0.1 | 【国模】特惠分组 |
-| 48 | tokenkey.vip | $0.1 | - | 1.0 | 【国模大全分组】 |
-| 49 | www.tokenkey.uk | $0.1 | - | 1.0 | 【国模大全分组】 |
-| 50 | api.openlux.ai | $0.105 | - | 0.75 | Xiaomi-1 |
-| 51 | api.relayrouter.ai | $0.105 | - | 0.75 | Xiaomi-1 |
-| 52 | api1.link-ai.cc | $0.11 | - | 0.2 | 国产2折 |
-| 53 | ai-api.loft.games | $0.112 | - | 0.8 | default |
-| 54 | gw.hbapis.com | $0.112 | - | 0.8 | xiaomi-official |
-| 55 | hboom.ai | $0.112 | - | 0.8 | xiaomi-official |
-| 56 | hk.hbapis.com | $0.112 | - | 0.8 | xiaomi-official |
-| 57 | newapi.relayport17.asia | $0.112 | - | 0.8 | 国产模型 |
-| 58 | token.haxicloud.com | $0.112 | - | 0.8 | 国产模型 |
-| 59 | us.hbapis.com | $0.112 | - | 0.8 | xiaomi-official |
-| 60 | gzxbykj.com | $0.1155 | - | 0.8250000000000001 | Xiaomi-1 |
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `ai.hebox.net` | $4e-06 | - | 零元购 | 1e-05 | mimo-v2.5 |
+| 2 | `api.aitokensflux.com` | $0.00063 | - | free | 0.005 | mimo-v2.5 |
+| 3 | `api.cnvip.com.cn` | $0.00125 | - | 质量国模（官转不降智） | 0.05 | mimo-v2.5 |
+| 4 | `aeapi.cn` | $0.005 | - | default | 1 | mimo-v2.5 |
+| 5 | `1rr.top` | $0.01 | - | 国模 | 0.01 | mimo-v2.5 |
+| 6 | `abinapi.com` | $0.01 | - | 福利分组 | 0.05 | mimo-v2.5 |
+| 7 | `direct.abinapi.com` | $0.01 | - | 福利分组 | 0.05 | mimo-v2.5 |
+| 8 | `nty-hk.zhouyang168.top` | $0.01 | - | free | 0.1 | mimo-v2.5-free |
+| 9 | `api.1rr.top` | $0.01 | $0.02 | 国模 | 0.01 | mimo-v2.5 |
+| 10 | `www.1rr.top` | $0.01 | $0.02 | 国模 | 0.01 | mimo-v2.5 |
+| 11 | `ai.lfree.org` | $0.012 | - | claude | 1 | mimo-v2.5 |
+| 12 | `cybertruckai.top` | $0.012345 | - | 🐳【国模】-【限时福利】-【0.012345】-死了就切~~ | 0.012345 | mimo-v2.5 |
+| 13 | `liangxinapi.top` | $0.02 | - | 福利chat协议 | 0.02 | mimo-v2.5 |
+| 14 | `www.liangxinapi.top` | $0.02 | - | 福利cc协议 | 0.02 | mimo-v2.5 |
+| 15 | `ai.gigimed.cn` | $0.021 | - | a6api | 0.15 | mimo-v2.5 |
+| 16 | `api.inktandwkx.top` | $0.0234 | - | 限时福利 | 0.065 | mimo-v2.5 |
+| 17 | `apiv3.52codeflow.top` | $0.028 | - | 世界第一模型 | 0.2 | xiaomi/mimo-v2.5 |
+| 18 | `ikun.love` | $0.028 | - | 国模 | 0.2 | mimo-v2.5 |
+| 19 | `openoneapi.com` | $0.042 | - | 国模 | 0.3 | mimo-v2.5 |
+| 20 | `api.moleapi.com` | $0.045 | - | relay | 0.3 | mimo-v2.5 |
+| 21 | `hk.moleapi.com` | $0.045 | - | relay | 0.3 | mimo-v2.5 |
+| 22 | `tokenus.net` | $0.049 | - | default | 1 | mimo-v2.5 |
+| 23 | `www.tokenus.net` | $0.049 | $0.098 | default | 1 | mimo-v2.5 |
+| 24 | `aiapibank.com` | $0.05 | - | GPT超疯狂分组（国庆特惠） | 0.05 | mimo-v2.5 |
+| 25 | `api.wuhen-ai.com` | $0.06 | - | 小米-gpt可接 | 0.3 | mimo-v2.5 |
+| 26 | `api.yuaiapi.com` | $0.06 | - | 中国模型特惠 | 0.06 | mimo-v2.5 |
+| 27 | `116.62.113.242` | $0.068493 | - | 国产低价区 | 0.5 | mimo-v2.5 |
+| 28 | `synthapi.asia` | $0.068493 | - | 国产低价区 | 0.5 | mimo-v2.5 |
+| 29 | `www.synthapi.asia` | $0.068493 | $0.136986 | 国产低价区 | 0.5 | mimo-v2.5 |
+| 30 | `api-x.top` | $0.07 | - | default | 0.5 | mimo-v2.5 |
+| 31 | `api.daoxe.com` | $0.07 | - | 海外国产模型 | 0.5 | mimo-v2.5 |
+| 32 | `daoxe.com` | $0.07 | - | 海外国产模型 | 0.5 | mimo-v2.5 |
+| 33 | `jp.daoxe.com` | $0.07 | - | 海外国产模型 | 0.5 | mimo-v2.5 |
+| 34 | `llm.kagu.one` | $0.07 | - | 大杂烩 | 0.5 | mimo-v2.5 |
+| 35 | `tokenflux.cloud` | $0.07 | - | MIMO | 0.5 | mimo-v2.5 |
+| 36 | `api.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 37 | `sub.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 38 | `vip.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 39 | `ai.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 40 | `www.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 41 | `cn.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 42 | `hk.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 43 | `gw.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 44 | `2api.api-x.top` | $0.07 | $0.07 | default | 0.5 | mimo-v2.5 |
+| 45 | `api.tokenflux.cloud` | $0.07 | $0.14 | MIMO | 0.5 | mimo-v2.5 |
+| 46 | `api.skyning.cc` | $0.075 | - | 福利分组 | 0.001 | mimo-v2.5 |
+| 47 | `api.bingyun.vip` | $0.08 | - | 国模福利-008倍率 | 0.08 | mimo-v2.5 |
+| 48 | `api.tcvps.cn` | $0.08 | $0.16 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | mimo-v2.5 |
+| 49 | `api.bjhuiqu.net` | $0.0822 | - | 国产模型 | 0.3 | mimo-v2.5 |
+| 50 | `ai.zfb.la` | $0.084 | - | 国产模型 | 0.6 | mimo-v2.5 |
+| 51 | `api.toporeduce.cn` | $0.084 | - | 国产模型 | 0.6 | mimo-v2.5 |
+| 52 | `api.zfb.la` | $0.084 | - | 国产模型 | 0.6 | mimo-v2.5 |
+| 53 | `yunshuapi.wiki` | $0.084 | - | 国模 | 0.6 | mimo-v2.5 |
+| 54 | `api.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 55 | `new.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 56 | `sub.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 57 | `vip.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 58 | `ai.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 59 | `www.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 60 | `hk.juhe.zfb.la` | $0.084 | $0.168 | 国产模型 | 0.6 | mimo-v2.5 |
+| 61 | `aiberm.com` | $0.0966 | - | default | 0.23 | mimo-v2.5 |
+| 62 | `aiberm.org` | $0.0966 | - | default | 0.23 | mimo-v2.5 |
+| 63 | `api.aiberm.com` | $0.0966 | $0.2898 | default | 0.23 | mimo-v2.5 |
+| 64 | `ai.kdysite.cloud` | $0.1 | - | 国产经济区 | 0.1 | mimo-v2.5 |
+| 65 | `api.e6t.cn` | $0.1 | - | 国模稳定 | 0.1 | mimo-v2.5 |
+| 66 | `api.happyouai.org` | $0.1 | - | Xiaomi MiMo | 0.1 | mimo-v2.5 |
+| 67 | `api.kaopuapi.xyz` | $0.1 | - | default | 1 | mimo-v2.5 |
+| 68 | `api.lingxiaihub.com` | $0.1 | - | 国产福利 | 0.1 | mimo-v2.5 |
+| 69 | `bearlab.ai` | $0.1 | - | 【国模】特惠分组 | 0.1 | mimo-v2.5 |
+| 70 | `bearlab.space` | $0.1 | - | 【国模】特惠分组 | 0.1 | mimo-v2.5 |
+| 71 | `tokenkey.vip` | $0.1 | - | 【国模大全分组】 | 1.0 | mimo-v2.5 |
+| 72 | `www.tokenkey.uk` | $0.1 | - | 【国模大全分组】 | 1.0 | mimo-v2.5 |
+| 73 | `api.openlux.ai` | $0.105 | - | Xiaomi-1 | 0.75 | mimo-v2.5 |
+| 74 | `api.relayrouter.ai` | $0.105 | - | Xiaomi-1 | 0.75 | mimo-v2.5 |
+| 75 | `api1.link-ai.cc` | $0.11 | - | 国产2折 | 0.2 | mimo-v2.5 |
+| 76 | `ai-api.loft.games` | $0.112 | - | default | 0.8 | mimo-v2.5 |
+| 77 | `gw.hbapis.com` | $0.112 | - | xiaomi-official | 0.8 | mimo-v2.5 |
+| 78 | `hboom.ai` | $0.112 | - | xiaomi-official | 0.8 | mimo-v2.5 |
+| 79 | `hk.hbapis.com` | $0.112 | - | xiaomi-official | 0.8 | mimo-v2.5 |
+| 80 | `newapi.relayport17.asia` | $0.112 | - | 国产模型 | 0.8 | mimo-v2.5 |
+| 81 | `token.haxicloud.com` | $0.112 | - | 国产模型 | 0.8 | mimo-v2.5 |
+| 82 | `us.hbapis.com` | $0.112 | - | xiaomi-official | 0.8 | mimo-v2.5 |
+| 83 | `cn.ai-api.loft.games` | $0.112 | $0.224 | default | 0.8 | mimo-v2.5 |
+| 84 | `gzxbykj.com` | $0.1155 | - | Xiaomi-1 | 0.8250000000000001 | mimo-v2.5 |
+| 85 | `newapi.fangyi.asia` | $0.12 | - | 国产 | 0.3 | mimo-v2.5 |
+| 86 | `worldcodes.online` | $0.12 | - | 国模低价分组【实际倍率0.12】 | 1.0 | mimo-v2.5 |
+| 87 | `v2.cloudmist.cloud` | $0.12075 | - | Xiaomi-1 | 0.8624999999999999 | mimo-v2.5 |
+| 88 | `api.flymeteor.xyz` | $0.126 | - | 🤖hcnsec | 1 | mimo-v2.5 |
+| 89 | `crs.comalot.nyc.mn` | $0.126 | - | opc | 0.9 | mimo-v2.5 |
+| 90 | `kimera.cc` | $0.126 | - | 国产模型聚合 兜底 | 0.9 | mimo-v2.5 |
+| 91 | `makerend.com` | $0.13125 | - | Xiaomi-1 | 0.9375 | mimo-v2.5 |
+| 92 | `api.tokenreply.com` | $0.14 | - | default | 1 | mimo-v2.5 |
+| 93 | `api.uiuihao.com` | $0.14 | - | default | 1 | mimo-v2.5 |
+| 94 | `deepseek-api2.pages.dev` | $0.14 | - | default | 0.5 | mimo-v2.5 |
+| 95 | `hetune.top` | $0.14 | - | 国模统一分组 | 1 | mimo-v2.5 |
+| 96 | `inferaichat.com` | $0.14 | - | auto分组 | 1.0 | mimo-v2.5 |
+| 97 | `modelsell.cc` | $0.14 | - | XiaomiMIMO | 1 | mimo-v2.5 |
+| 98 | `modelsell.com` | $0.14 | - | XiaomiMIMO | 1 | mimo-v2.5 |
+| 99 | `new.bohr.de5.net` | $0.14 | - | default | 1 | mimo-v2.5 |
+| 100 | `newapi.prorisehub.com` | $0.14 | - | default | 1 | mimo-v2.5 |
+| 101 | `sg.uiuiapi.com` | $0.14 | - | default | 1 | mimo-v2.5 |
+| 102 | `www.modelsell.com` | $0.14 | - | XiaomiMIMO | 1 | mimo-v2.5 |
+| 103 | `pro.fan142.top` | $0.14 | $0.28 | coding api | 1.0 | xiaomi/mimo-v2.5 |
+| 104 | `tako.shiroha.tech` | $0.14 | $0.28 | pro-x1 | 1 | mimo-v2.5 |
+| 105 | `wzw.pp.ua` | $0.14 | $0.28 | default | 1 | mimo-v2.5 |
+| 106 | `api.hetune.top` | $0.14 | $0.28 | 国模统一分组 | 1 | mimo-v2.5 |
+| 107 | `www.hetune.top` | $0.14 | $0.28 | 国模统一分组 | 1 | mimo-v2.5 |
+| 108 | `x-coding.net` | $0.142857 | - | Xiaomi | 1.0 | mimo-v2.5 |
+| 109 | `apimaster.ai` | $0.147 | - | default | 1.05 | mimo-v2.5 |
+| 110 | `sheepaiplus.top` | $0.147 | - | Xiaomi-1 | 1.0499999999999998 | mimo-v2.5 |
+| 111 | `zgc.apihy.com` | $0.147 | - | default | 1 | mimo-v2.5 |
+| 112 | `api.apimaster.ai` | $0.147 | $0.294 | default | 1.05 | mimo-v2.5 |
+| 113 | `88.scxai.top` | $0.15 | - | 创世の鑫元 | 0.15 | mimo-v2.5 |
+| 114 | `ai.zhongygod.com` | $0.15 | - | 国模 | 0.15 | mimo-v2.5 |
+| 115 | `ai.zyyun.xyz` | $0.15 | - | 国模 | 0.15 | mimo-v2.5 |
+| 116 | `api.123uq.com` | $0.15 | - | 国产模型 | 0.15 | mimo-v2.5 |
+| 117 | `api.boluomiapi.cc` | $0.15 | - | Z04-其他国模 | 0.15 | mimo-v2.5 |
+| 118 | `api.wopally.cn` | $0.15 | - | 国模福利｜0.15x | 0.15 | mimo-v2.5 |
+| 119 | `api.yjs.im` | $0.15 | - | OpenModels | 0.15 | mimo-v2.5 |
+| 120 | `cdn.dragon3api.com` | $0.15 | - | 国模 | 0.15 | mimo-v2.5 |
+| 121 | `conn.mzhcloud.com` | $0.15 | - | 国产模型 | 0.15 | mimo-v2.5 |
+| 122 | `croissant.521911.xyz` | $0.15 | - | Special CN Model | 0.15 | mimo-v2.5 |
+| 123 | `direct.mianyouyou.xyz` | $0.15 | - | 国产模型补贴分组 | 0.15 | mimo-v2.5 |
+| 124 | `image.123uq.com` | $0.15 | - | 国产模型 | 0.15 | mimo-v2.5 |
+| 125 | `mzhcloud.com` | $0.15 | - | 国产模型 | 0.15 | mimo-v2.5 |
+| 126 | `newapi.dragon3api.com` | $0.15 | - | 国模 | 0.15 | mimo-v2.5 |
+| 127 | `www.fastapi.ltd` | $0.15 | - | 2-国产混合 | 1 | mimo-v2.5 |
+| 128 | `www.yysc.top` | $0.15 | - | 国产模型 | 0.15 | mimo-v2.5 |
+| 129 | `ymeng.cc` | $0.15 | - | 国模遥遥领先 | 0.15 | mimo-v2.5 |
+| 130 | `sub.dragon3api.com` | $0.15 | $0.3 | 国模 | 0.15 | mimo-v2.5 |
+| 131 | `vip.dragon3api.com` | $0.15 | $0.3 | 国模 | 0.15 | mimo-v2.5 |
+| 132 | `cn.dragon3api.com` | $0.15 | $0.3 | 国模 | 0.15 | mimo-v2.5 |
+| 133 | `hk.dragon3api.com` | $0.15 | $0.3 | 国模 | 0.15 | mimo-v2.5 |
+| 134 | `gw.dragon3api.com` | $0.15 | $0.3 | 国模 | 0.15 | mimo-v2.5 |
+| 135 | `2api.dragon3api.com` | $0.15 | $0.3 | 国模 | 0.15 | mimo-v2.5 |
+| 136 | `api.xctokens.com` | $0.15 | $0.3 | 国产模型特价 | 0.15 | mimo-v2.5 |
+| 137 | `www.kamiapi.top` | $0.16 | - | 国模分组 | 0.16 | mimo-v2.5 |
+| 138 | `millionengine.com` | $0.168 | - | Xiaomi-1 | 1.2000000000000002 | mimo-v2.5 |
+| 139 | `api.nornless.com` | $0.17 | - | 国产模型 按量 | 1.0 | mimo-v2.5 |
+| 140 | `ai-one.vip` | $0.18 | - | China | 1.8 | mimo-v2.5 |
+| 141 | `kuaipao.pro` | $0.18 | - | China | 1.8 | mimo-v2.5 |
+| 142 | `ltgpt.xyz` | $0.18 | - | 国模分组A 0.18 | 0.18 | mimo-v2.5 |
+| 143 | `momoapi.xin` | $0.18 | - | mimo | 0.18 | mimo-v2.5 |
+| 144 | `yujianwudi.top` | $0.18 | - | China-model | 0.18 | mimo-v2.5 |
+| 145 | `www.kuaipao.pro` | $0.18 | $0.36 | China | 1.8 | mimo-v2.5 |
+| 146 | `genshin.darkprometheus.top` | $0.183 | - | Doubao | 0.183 | MiMo-V2.5 |
+| 147 | `levelup.mom` | $0.196 | - | OpenCode Go满血号池（测试中） | 0.2 | mimo-v2.5 |
+| 148 | `api.9m8m.com` | $0.2 | - | 国模（阿里官key） | 0.2 | mimo-v2.5 |
+| 149 | `api.pezayo.com` | $0.2 | - | coding anthropic | 1 | mimo-v2.5 |
+| 150 | `api.relaylink.cloud` | $0.2 | - | 国模分组 | 0.2 | mimo-v2.5 |
+| 151 | `api.renice.cc` | $0.2 | - | openllm | 0.2 | mimo-v2.5 |
+| 152 | `apipaths.com` | $0.2 | - | 国产模型 | 0.2 | mimo-v2.5 |
+| 153 | `dct.okmcode.com` | $0.2 | - | 国模cc兼容 | 0.2 | mimo-v2.5 |
+| 154 | `okmcode.com` | $0.2 | - | 国模cc兼容 | 0.2 | mimo-v2.5 |
+| 155 | `tk.8t.chat` | $0.2 | - | 国模 | 0.2 | mimo-v2.5 |
+| 156 | `tokai.cc` | $0.2 | - | 国模 | 0.2 | mimo-v2.5 |
+| 157 | `api.openai.fans` | $0.2 | $0.4 | Mimo-sale | 0.2 | mimo-v2.5 |
+| 158 | `api.tuftech.org` | $0.2 | $0.4 | Mimo-sale | 0.2 | mimo-v2.5 |
+| 159 | `rapidapi.cc` | $0.2 | $0.4 | 国模一组 | 0.2 | mimo-v2.5 |
+| 160 | `pianyitoken.gay` | $0.205479 | - | 国模中价0.075x | 0.075 | mimo-v2.5 |
+| 161 | `aiwuje.com` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 162 | `api.echoflowai.cc` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 163 | `api.n1n.ai` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 164 | `api.quickrouter.ai` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 165 | `jeniya.chat` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 166 | `jeniya.cn` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 167 | `jeniya.top` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 168 | `linoapi.com` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 169 | `llm-api.net` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 170 | `quanzil.com` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 171 | `tryallapi.com` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 172 | `wellapi.ai` | $0.21 | - | Xiaomi-1 | 1.5 | mimo-v2.5 |
+| 173 | `thousandengine.com` | $0.213675 | - | Xiaomi-1 | 1.52625 | mimo-v2.5 |
+| 174 | `api.tacklekey.com` | $0.215385 | $0.43077 | default | 1 | xiaomi/mimo-v2.5 |
+| 175 | `api.polymer-ai.top` | $0.24 | - | 国模汇总-按量 | 0.2 | mimo-v2.5 |
+| 176 | `api.syon.ai` | $0.24 | - | default | 0.6 | mimo-v2.5 |
+| 177 | `vaelo.8t.chat` | $0.24 | - | 国模 | 0.24 | mimo-v2.5 |
+| 178 | `code.oai1.online` | $0.25 | - | 国产模型 | 0.25 | mimo-v2.5 |
+| 179 | `codeworksta.com` | $0.25 | - | 国产模型-额度计费 | 0.25 | mimo-v2.5 |
+| 180 | `codex101.cf-cdn.site` | $0.25 | - | 国产模型-额度计费 | 0.25 | mimo-v2.5 |
+| 181 | `new-cdn.dg8.site` | $0.25 | - | 国产模型-额度计费 | 0.25 | mimo-v2.5 |
+| 182 | `vip.xyapi.club` | $0.25 | - | 【国模按量】0.25X | 0.25 | mimo-v2.5 |
+| 183 | `www.codeworksta.com` | $0.25 | $0.5 | 国产模型-额度计费 | 0.25 | mimo-v2.5 |
+| 184 | `api2.aigcbest.top` | $0.26 | - | 通用大模型 | 0.26 | mimo-v2.5 |
+| 185 | `zzone.cc.cd` | $0.26 | - | 国产模型 | 0.26 | mimo-v2.5 |
+| 186 | `api.hohai.eu.org` | $0.28 | - | default | 1 | mimo-v2.5 |
+| 187 | `ai.baicloud.org` | $0.3 | - | 国产模型 | 0.3 | mimo-v2.5 |
+| 188 | `ai.furry.vg` | $0.3 | - | default | 1 | mimo-v2.5 |
+| 189 | `api.aihub8.top` | $0.3 | - | 国模超低价_浮动倍率 | 0.3 | mimo-v2.5 |
+| 190 | `api.emooo.cc` | $0.3 | - | 【国模】满血自部署版 | 0.3 | mimo-v2.5 |
+| 191 | `api.furry.vg` | $0.3 | - | default | 1 | mimo-v2.5 |
+| 192 | `api.hyhawang.com` | $0.3 | - | 国模分组（百炼） | 0.3 | mimo-v2.5 |
+| 193 | `api.sta1n.site` | $0.3 | - | default | 1 | mimo-v2.5 |
+| 194 | `cdn.sta1n.cn` | $0.3 | - | default | 1 | mimo-v2.5 |
+| 195 | `emooo.cc` | $0.3 | - | 【国模】满血自部署版 | 0.3 | mimo-v2.5 |
+| 196 | `godoftoken.eu.cc` | $0.3 | - | default | 1 | mimo-v2.5 |
+| 197 | `huablog.org` | $0.3 | - | 低价国模 | 0.15 | mimo-v2.5 |
+| 198 | `huablog.xyz` | $0.3 | - | 低价国模 | 0.15 | mimo-v2.5 |
+| 199 | `new.tianluo.ccwu.cc` | $0.3 | - | 国产小分队 | 0.3 | mimo-v2.5 |
+| 200 | `rockapi.cn` | $0.3 | - | 国产模型 | 0.3 | mimo-v2.5 |
+| 201 | `sub.skypoem.top` | $0.3 | - | 国模特价分组 | 0.3 | mimo-v2.5 |
+| 202 | `us1.beehears.com` | $0.3 | - | 🇨🇳 国模分组 | 0.3 | mimo-v2.5 |
+| 203 | `www.apiloop.top` | $0.3 | - | 国产模型大杂烩 | 0.3 | mimo-v2.5 |
+| 204 | `x-llm.net` | $0.3 | - | 国产模型 | 0.3 | mimo-v2.5 |
+| 205 | `xindu.xyz` | $0.3 | - | 国模全覆盖 | 0.3 | mimo-v2.5 |
+| 206 | `rambai.online` | $0.3 | $0.3 | me | 2 | cline-pass/mimo-v2.5 |
+| 207 | `www.huablog.xyz` | $0.3 | $0.6 | 低价国模 | 0.15 | mimo-v2.5 |
+| 208 | `www.rambai.online` | $0.3 | $0.3 | me | 2 | cline-pass/mimo-v2.5 |
+| 209 | `www.rockapi.cn` | $0.3 | $0.6 | 国产模型 | 0.3 | mimo-v2.5 |
+| 210 | `api.arithcore.com` | $0.33 | - | 国模分组全有 | 0.33 | mimo-v2.5 |
+| 211 | `aircola.top` | $0.3456 | - | A国模分组 | 1 | mimo-v2.5 |
+| 212 | `www.aircola.top` | $0.3456 | $0.6912 | A国模分组 | 1 | mimo-v2.5 |
+| 213 | `222650156.xyz` | $0.35 | - | MiMo | 0.35 | mimo-v2.5 |
+| 214 | `chrisapivip.com` | $0.35 | - | 国产资源-大厂-普通模型 | 0.35 | mimo-v2.5 |
+| 215 | `api.aipaiai.cn` | $0.352 | $0.704 | 国产模型接口调用 | 2 | mimo-v2.5 |
+| 216 | `api.satuo66.online` | $0.375 | - | 国产福利 | 0.25 | mimo-v2.5 |
+| 217 | `api.zdzui.xyz` | $0.38 | - | 国模 | 0.38 | mimo-v2.5 |
+| 218 | `apimodel.aihubkit.com` | $0.38 | $0.76 | 国模 | 0.38 | mimo-v2.5 |
+| 219 | `ai.qystart.top` | $0.4 | - | 🇨🇳 | 0.4 | mimo-v2.5 |
+| 220 | `api.asdfas.party` | $0.4 | - | 国模分组 /v1/messages | 0.4 | mimo-v2.5 |
+| 221 | `api.dreamaitoken.cloud` | $0.4 | - | Mimo | 1.0 | mimo-v2.5 |
+| 222 | `api.furryforum.com` | $0.4 | - | 国模稳定 | 0.4 | mimo-v2.5 |
+| 223 | `api.tokenrouter.com` | $0.4 | - | vip | 1 | xiaomi/mimo-v2.5 |
+| 224 | `closedai.kylenqaq.com` | $0.4 | - | 国产模型 | 0.4 | mimo-v2.5 |
+| 225 | `ioll.pp.ua` | $0.4 | - | 默认分组 | 1 | mimo-v2.5 |
+| 226 | `pureai.ink` | $0.4 | - | A-国产模型-量-国家超算平台 | 0.4 | mimo-v2.5 |
+| 227 | `zl.wonderful.edu.kg` | $0.4 | - | 【高倍率】国模集合分组 | 0.4 | mimo-v2.5 |
+| 228 | `sub.wonderful.edu.kg` | $0.4 | $0.8 | 国模官key | 0.4 | mimo-v2.5 |
+| 229 | `api.xkj666.top` | $0.45 | - | 国模分组 | 0.45 | mimo-v2.5 |
+| 230 | `apijing.com` | $0.49 | - | openrouter | 3.5 | mimo-v2.5 |
+| 231 | `api.foodtomb.eu.org` | $0.5 | - | default | 1 | mimo-v2.5 |
+| 232 | `api.staryears.net` | $0.5 | - | 国模 | 0.5 | mimo-v2.5 |
+| 233 | `api.xgapi.top` | $0.5 | - | default | 1 | mimo-v2.5 |
+| 234 | `api.ylai.xyz` | $0.5 | - | 国内模型 | 0.5 | mimo-v2.5 |
+| 235 | `dawnstudioai.com` | $0.5 | - | 国产开源-优质 | 0.5 | mimo-v2.5 |
+| 236 | `grok101.site` | $0.5 | - | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 237 | `llm-all.pro` | $0.5 | - | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 238 | `model101.site` | $0.5 | - | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 239 | `o-ai.me` | $0.5 | - | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 240 | `token101.site` | $0.5 | - | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 241 | `tokeness.cn` | $0.5 | - | DeepSeek | 0.5 | mimo-v2.5 |
+| 242 | `www.371181668.xyz` | $0.5 | - | default | 1 | mimo-v2.5 |
+| 243 | `u-ai.me` | $0.5 | $1.0 | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 244 | `www.u-ai.me` | $0.5 | $1.0 | 国产模型-额度计费 | 0.5 | mimo-v2.5 |
+| 245 | `api.rivoapi.com` | $0.521175 | - | 小米 MiMo | 3.5 | mimo-v2.5 |
+| 246 | `rivoapi.com` | $0.521175 | - | 小米 MiMo | 3.5 | mimo-v2.5 |
+| 247 | `cn.rivoapi.com` | $0.521175 | $1.04235 | 小米 MiMo | 3.5 | mimo-v2.5 |
+| 248 | `api.bestai.chat` | $0.6 | - | 国产模型（Anthropic协议） | 0.6 | mimo-v2.5 |
+| 249 | `api.slomerex.xyz` | $0.6 | - | 国模 | 0.6 | mimo-v2.5 |
+| 250 | `api.tokenfty.net` | $0.6 | - | 国产模型 | 0.6 | mimo-v2.5 |
+| 251 | `autorouter.io` | $0.6 | - | 国产模型 | 0.6 | mimo-v2.5 |
+| 252 | `autorouter.net` | $0.6 | - | 国产模型 | 0.6 | mimo-v2.5 |
+| 253 | `botcf.com` | $0.6 | - | 📱xiaomi-mix | 0.6 | mimo-v2.5 |
+| 254 | `oojj.top` | $0.6 | - | cnmodel | 0.6 | mimo-v2.5 |
+| 255 | `api.ccode.vip` | $0.7 | - | 国模分组 | 0.7 | mimo-v2.5 |
+| 256 | `api.lmuai.ai` | $0.7 | - | 阿里Qwen(Anthropic协议) | 0.7 | mimo-v2.5 |
+| 257 | `api.lmuai.com` | $0.7 | - | 阿里Qwen(Anthropic协议) | 0.7 | mimo-v2.5 |
+| 258 | `www.ggwk1.online` | $0.7 | - | 国产模型组-0.7倍率 | 0.7 | mimo-v2.5 |
+| 259 | `ai.lt4net.org` | $0.75 | - | default | 0.01 | mimo-v2.5 |
+| 260 | `api.lt4net.org` | $0.75 | - | default | 0.01 | mimo-v2.5 |
+| 261 | `dreamworld-ai.live` | $0.75 | - | default | 1 | mimo-v2.5 |
+| 262 | `www.dreamworld-ai.live` | $0.75 | $1.5 | default | 1 | mimo-v2.5 |
+| 263 | `slb-v1.api.fan` | $0.8 | - | mimo-officially | 0.8 | mimo-v2.5 |
+| 264 | `us.ai.easyart.cc` | $0.8 | - | 国内特价 | 0.8 | mimo-v2.5 |
+| 265 | `www.packyapi.ai` | $0.8 | - | mimo-officially | 0.8 | mimo-v2.5 |
+| 266 | `www.packyapi.com` | $0.8 | - | mimo-officially | 0.8 | mimo-v2.5 |
+| 267 | `yibuapi.com` | $0.8 | - | claude-code | 2 | mimo-v2.5 |
+| 268 | `www.laysoai.com` | $0.91 | $1.82 | Xiaomi-2 | 6.5 | mimo-v2.5 |
+| 269 | `api.zcloudapi.com` | $0.975 | - | 国产模型 | 0.65 | mimo-v2.5 |
+| 270 | `a6api.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 271 | `ai.nodeloc.com` | $1 | - | kiro_cc | 1 | mimo-v2.5 |
+| 272 | `aiyiwei.vip` | $1 | - | default | 1 | mimo-v2.5 |
+| 273 | `anyaigc.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 274 | `api.a6api.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 275 | `api.aibh.site` | $1 | - | default | 1 | mimo-v2.5 |
+| 276 | `api.aicso.top` | $1 | - | default | 1 | mimo-v2.5 |
+| 277 | `api.aiget.asia` | $1 | - | default | 1 | mimo-v2.5 |
+| 278 | `api.anthropicricardo.club` | $1 | - | default | 1 | mimo-v2.5 |
+| 279 | `api.antmoo.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 280 | `api.apiplus.org` | $1 | - | default | 1 | mimo-v2.5 |
+| 281 | `api.bitidea.cn` | $1 | - | default | 1 | mimo-v2.5 |
+| 282 | `api.clai.click` | $1 | - | default | 1 | mimo-v2.5 |
+| 283 | `api.cloudmist.cloud` | $1 | - | default | 1 | mimo-v2.5 |
+| 284 | `api.mumuverse.space` | $1 | - | default | 1 | mimo-v2.5 |
+| 285 | `api.new.bi` | $1 | - | 企业级高可用大模型 | 1 | mimo-v2.5 |
+| 286 | `api.qingyuntop.top` | $1 | - | default | 1 | mimo-v2.5 |
+| 287 | `api.vectorengine.ai` | $1 | - | default | 1 | mimo-v2.5 |
+| 288 | `api.vectorengine.cn` | $1 | - | default | 1 | mimo-v2.5 |
+| 289 | `api.videocaptioner.cn` | $1 | - | default | 1 | mimo-v2.5 |
+| 290 | `api.winfull.cloud-ip.cc` | $1 | - | default | 1 | mimo-v2.5 |
+| 291 | `api.wlai.vip` | $1 | - | default | 1 | mimo-v2.5 |
+| 292 | `api.xueai.me` | $1 | - | default | 1 | mimo-v2.5 |
+| 293 | `api.yunwu.ai` | $1 | - | default | 1 | mimo-v2.5 |
+| 294 | `api.zaowuyun.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 295 | `api.zhiyikeji.cn` | $1 | - | default | 1 | mimo-v2.5 |
+| 296 | `api.zhongzhuan.chat` | $1 | - | default | 1 | mimo-v2.5 |
+| 297 | `api.zhongzhuan.vip` | $1 | - | default | 1 | mimo-v2.5 |
+| 298 | `api123.eu.cc` | $1 | - | default | 1 | mimo-v2.5 |
+| 299 | `api3.wlai.vip` | $1 | - | default | 1 | mimo-v2.5 |
+| 300 | `apistudio.vip` | $1 | - | default | 1 | mimo-v2.5 |
+| 301 | `baipiao.dbgai.xyz` | $1 | - | default | 1 | mimo-v2.5 |
+| 302 | `ciyuan.today` | $1 | - | default | 1 | mimo-v2.5 |
+| 303 | `claude360.xyz` | $1 | - | 国模分组 | 1 | mimo-v2.5 |
+| 304 | `coneverse.com` | $1 | - | mimo-official | 7.3 | mimo-v2.5 |
+| 305 | `dawnnode.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 306 | `linxingran.top` | $1 | - | default | 1 | mimo-v2.5 |
+| 307 | `minitoken.top` | $1 | - | default | 1 | mimo-v2.5 |
+| 308 | `next.aigc2d.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 309 | `one.chatshare.one` | $1 | - | default | 1 | mimo-v2.5 |
+| 310 | `qianfufu.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 311 | `ruishiglobal.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 312 | `startapi.top` | $1 | - | default | 1 | mimo-v2.5 |
+| 313 | `token173.net` | $1 | - | default | 1 | mimo-v2.5 |
+| 314 | `vectorengine.ai` | $1 | - | default | 1 | mimo-v2.5 |
+| 315 | `vipapi.online` | $1 | - | default | 1 | mimo-v2.5 |
+| 316 | `www.aifast.club` | $1 | - | default | 1 | mimo-v2.5 |
+| 317 | `www.aigeek.life` | $1 | - | default | 1 | mimo-v2.5 |
+| 318 | `www.oyy-ai.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 319 | `www.shiyunapi.net` | $1 | - | default | 1 | mimo-v2.5 |
+| 320 | `www.vectronode.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 321 | `www.xiaoruiera.top` | $1 | - | default | 1 | mimo-v2.5 |
+| 322 | `xiaohumini.site` | $1 | - | default | 1 | mimo-v2.5 |
+| 323 | `xiguapi.icu` | $1 | - | default | 1 | mimo-v2.5 |
+| 324 | `xinyuanai666.com` | $1 | - | default | 1 | mimo-v2.5 |
+| 325 | `yuli.host` | $1 | - | default | 1 | mimo-v2.5 |
+| 326 | `yunai.chat` | $1 | - | default | 1 | mimo-v2.5 |
+| 327 | `yunwu.ai` | $1 | - | default | 1 | mimo-v2.5 |
+| 328 | `yunwu.site` | $1 | - | default | 1 | mimo-v2.5 |
+| 329 | `infistar.cc` | $1 | $2.0 | mimo-official | 7.3 | mimo-v2.5 |
+| 330 | `www.claude360.xyz` | $1 | $2.0 | 国模分组 | 1 | mimo-v2.5 |
+| 331 | `www.infistar.cc` | $1 | $2.0 | mimo-official | 7.3 | mimo-v2.5 |
+| 332 | `www.vectorengine.ai` | $1 | $2.0 | default | 1 | mimo-v2.5 |
+| 333 | `www.yunwu.ai` | $1 | $2.0 | default | 1 | mimo-v2.5 |
+| 334 | `api.ycapi.xyz` | $1.02041 | - | MiMo | 0.5 | mimo-v2.5 |
+| 335 | `ai.38yun.cn` | $1.05 | - | 官方全系稳定渠道 | 1.05 | mimo-v2.5 |
+| 336 | `gptzzz.ai` | $1.12763 | - | MiMo 小米官key | 0.64 | mimo-v2.5 |
+| 337 | `api.celestiai.dev` | $1.35 | - | default | 1.35 | mimo-v2.5 |
+| 338 | `api.celestiai.xyz` | $1.35 | - | default | 1.35 | mimo-v2.5 |
+| 339 | `api.tiantoken.com` | $1.5 | - | 国内模型2 | 1.5 | mimo-v2.5 |
+| 340 | `new.yihubang.top` | $1.5 | - | 国模 Openai 端点 | 1.5 | mimo-v2.5 |
+| 341 | `ai.comfly.org` | $1.96 | - | 国产特价 | 0.7 | mimo-v2.5 |
+| 342 | `ai.t8star.org` | $1.96 | - | 国产特价 | 0.7 | mimo-v2.5 |
+| 343 | `api.bltcy.ai` | $1.96 | - | 国产特价 | 0.7 | mimo-v2.5 |
+| 344 | `cn.gptapi.asia` | $1.96 | - | default | 0.7 | mimo-v2.5 |
+| 345 | `yutoapi.com` | $1.96 | - | default | 0.7 | mimo-v2.5 |
+| 346 | `api.camel-hub.cn` | $2.1 | - | default | 1 | mimo-v2.5 |
+| 347 | `api.camel-hub.com` | $2.1 | - | default | 1 | mimo-v2.5 |
+| 348 | `yhai.mmaqq.top` | $2.8 | - | gm满血 | 1.75 | mimo-v2.5 |
+| 349 | `ai-us.hctopup.com` | $2.88 | - | 国产模型 | 0.9 | mimo-v2.5 |
+| 350 | `ai.hctopup.com` | $2.88 | - | 国产模型 | 0.9 | mimo-v2.5 |
+| 351 | `api.hctopup.com` | $2.88 | - | 国产模型 | 0.9 | mimo-v2.5 |
+| 352 | `api.fishxcode.com` | $3 | - | default | 3 | mimo-v2.5 |
+| 353 | `api.luoqianyi.qzz.io` | $3 | - | default | 1 | opc/mimo-v2.5-free |
+| 354 | `fishxcode.com` | $3 | - | default | 3 | mimo-v2.5 |
+| 355 | `api.34ku.com` | $3.64 | - | default | 1.3 | mimo-v2.5 |
+| 356 | `api.llm-token.cn` | $4 | - | default | 1 | mimo-v2.5 |
+| 357 | `api.mytokenland.com` | $4 | - | default | 1 | mimo-v2.5 |
+| 358 | `api.tsbys.com` | $4 | - | default | 1 | mimo-v2.5 |
+| 359 | `gpt-agent.cc` | $4 | - | default | 1 | mimo-v2.5 |
+| 360 | `api.meai.cloud` | $5 | - | default | 1 | mimo-v2.5 |
+| 361 | `cn.meai.cloud` | $5 | - | default | 1 | mimo-v2.5 |
+| 362 | `cn.meta-api.vip` | $5 | - | MiMo · 企业专属 | 1 | mimo-v2.5 |
+| 363 | `meta-api.vip` | $5 | - | MiMo · 企业专属 | 1 | mimo-v2.5 |
+| 364 | `nan.meta-api.vip` | $5 | - | MiMo · 企业专属 | 1 | mimo-v2.5 |
+| 365 | `www.9915654.ggff.net` | $7.5 | - | default | 0.1 | mimo-v2.5 |
+| 366 | `aibridgea.com` | $9 | - | 国模聚合 | 0.12 | mimo-v2.5 |
+| 367 | `api.aibridgea.com` | $9 | $9.0 | 国模聚合 | 0.12 | mimo-v2.5 |
+| 368 | `keypool.space` | $10 | - | default | 1 | mimo-v2.5 |
+| 369 | `meinianda.top` | $15 | - | 国模-特惠 | 0.2 | mimo-v2.5 |
+| 370 | `chuangyuan.org` | $22.5 | - | A01国产模型(全部主流国模) | 0.3 | mimo-v2.5 |
+| 371 | `newapi.qwqtao.com` | $22.5 | - | 小米 MIMO | 0.3 | mimo-v2.5 |
+| 372 | `newapi.qwqtao.one` | $22.5 | - | 小米 MIMO | 0.3 | mimo-v2.5 |
+| 373 | `api.chuangyuan.org` | $22.5 | $22.5 | A01国产模型(全部主流国模) | 0.3 | mimo-v2.5 |
+| 374 | `api.nfffff.dpdns.org` | $28.5 | - | wegoo-api-CN | 0.38 | mimo-v2.5 |
+| 375 | `hk.getelucid.com` | $30 | - | 【国】国模 | 0.4 | mimo-v2.5 |
+| 376 | `88api.ai` | $37.5 | - | Xiaomi MiMo | 0.5 | mimo-v2.5 |
+| 377 | `na.wanxiaot.com` | $50 | - | 国模-渠道2 | 0.5 | mimo-v2.5 |
+| 378 | `naapi.cc` | $50 | - | 国模-渠道2 | 0.5 | mimo-v2.5 |
+| 379 | `api.rcouyi.com` | $60 | - | default | 1 | mimo-v2.5 |
+| 380 | `api.supxh.xin` | $75 | - | 75 | 1 | zen/mimo-v2.5 |
+| 381 | `max.openai365.top` | $75 | - | default | 1 | mimo-v2.5 |
+| 382 | `oracleamd2newapi.dns.navy` | $75 | - | default | 1 | mimo-v2.5 |
+| 383 | `speed.toter.me` | $75 | - | A | 1 | zen/mimo-v2.5 |
+| 384 | `speed23.toter.me` | $75 | - | A | 1 | zen/mimo-v2.5 |
+| 385 | `wochirou.com` | $75 | - | default | 1 | mimo-v2.5 |
+| 386 | `infinityrouter.dev` | $75 | $75.0 | pro | 1 | mimo-v2.5 |
+| 387 | `speed11.toter.me` | $75 | $75.0 | A | 1 | mimo-v2.5-free |
+| 388 | `api.wochirou.com` | $75 | $75.0 | default | 1 | mimo-v2.5 |
+| 389 | `yinziapi.top` | $77.25 | - | 大杂烩模型分组 | 1.03 | mimo-v2.5 |
+| 390 | `api.aiai.bar` | $82.5 | $82.5 | official | 1.1 | mimo-v2.5 |
+| 391 | `api.augmentproxy.com` | $150 | - | 国模按次 | 2 | mimo-v2.5 |
+| 392 | `api.augmentproxy.top` | $150 | - | 国模按次 | 2 | mimo-v2.5 |
+
+[← 返回索引](index.md)

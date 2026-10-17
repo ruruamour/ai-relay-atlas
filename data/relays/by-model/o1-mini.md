@@ -1,0 +1,26 @@
+# o1-mini
+
+> 18 家 · 最低 **$0.5** @ `cn.api.zyai.online` · 推算价（USD/1M 输入），未对账
+
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `cn.api.zyai.online` | $0.5 | $2.0 | mini | 0.5 | o1-mini |
+| 2 | `www.laysoai.com` | $1.0725 | $4.29 | Azure-Gpt-1 | 0.975 | o1-mini |
+| 3 | `api.bita-api.com` | $1.1 | $4.4 | gpt-origin | 1 | o1-mini |
+| 4 | `api.tenzen.ai` | $1.1 | $4.4 | default | 1 | o1-mini |
+| 5 | `api.xistree.hk` | $1.1 | $4.4 | default | 1 | o1-mini |
+| 6 | `api.yuboar.com` | $1.1 | $4.4 | AzureOpenAI | 1 | o1-mini |
+| 7 | `bita-api-production.up.railway.app` | $1.1 | $4.4 | gpt-origin | 1 | o1-mini |
+| 8 | `open.cherryin.net` | $1.1 | $4.4 | default | 1 | openai/o1-mini |
+| 9 | `hk.tenzen.ai` | $1.1 | $4.4 | default | 1 | o1-mini |
+| 10 | `www.vectorengine.ai` | $1.1 | $4.4 | default | 1 | o1-mini |
+| 11 | `xrok.dev` | $1.21 | $4.84 | AZ-GPT | 1.1 | o1-mini |
+| 12 | `api.xrok.dev` | $1.21 | $4.84 | AZ-GPT | 1.1 | o1-mini |
+| 13 | `api.vakv.cn` | $1.375 | $5.5 | 1848 | 1.25 | o1-mini |
+| 14 | `vakv.cn` | $1.375 | $5.5 | 1848 | 1.25 | o1-mini |
+| 15 | `vip.yinli.one` | $5.5 | $22.0 | GPT-Azure-高价-99%稳定性 | 5 | o1-mini |
+| 16 | `paw.v1chat.cc` | $6 | $24.0 | default | 1 | o1-mini |
+| 17 | `www.claudecn.top` | $7.7 | $30.8 | 正价Openai | 7 | o1-mini |
+| 18 | `api.wochirou.com` | $8.8 | $35.2 | Official | 8 | o1-mini |
+
+[← 返回索引](index.md)

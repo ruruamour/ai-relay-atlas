@@ -1,22 +1,28 @@
 # mimo-v2.6-pro-ultraspeed
 
-共 16 家。价为推算实际价 USD/1M 输入。
+> 20 家 · 最低 **$1** @ `a6api.com` · 推算价（USD/1M 输入），未对账
 
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | a6api.com | $1 | - | 1 | default |
-| 2 | api.a6api.com | $1 | - | 1 | default |
-| 3 | api.tokenrouter.com | $4.35 | - | 1 | default |
-| 4 | mamo.goooood.xyz | $4.35 | - | 1 | 小米 |
-| 5 | slb-v1.api.fan | $24 | - | 0.8 | mimo-officially |
-| 6 | www.packyapi.ai | $24 | - | 0.8 | mimo-officially |
-| 7 | www.packyapi.com | $24 | - | 0.8 | mimo-officially |
-| 8 | ai.amaxsmp.com | $30 | - | 1 | 原厂直供 |
-| 9 | api.wang9005.top | $30 | - | 1 | default |
-| 10 | coneverse.com | $30 | - | 7.3 | mimo-official |
-| 11 | api.ycapi.xyz | $30.6122 | - | 0.5 | MiMo |
-| 12 | api2.aigcbest.top | $75 | - | 1 | default |
-| 13 | max.openai365.top | $75 | - | 1 | default |
-| 14 | cn.meta-api.vip | $120 | - | 0.8 | MiMo · 优质（第三方） |
-| 15 | meta-api.vip | $120 | - | 0.8 | MiMo · 优质（第三方） |
-| 16 | nan.meta-api.vip | $120 | - | 0.8 | MiMo · 优质（第三方） |
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `a6api.com` | $1 | - | default | 1 | mimo-v2.6-pro-ultraspeed |
+| 2 | `api.a6api.com` | $1 | - | default | 1 | mimo-v2.6-pro-ultraspeed |
+| 3 | `api.tokenrouter.com` | $4.35 | - | default | 1 | xiaomi/mimo-v2.6-pro-ultraspeed |
+| 4 | `mamo.goooood.xyz` | $4.35 | - | 小米 | 1 | mimo-v2.6-pro-ultraspeed |
+| 5 | `api.tacklekey.com` | $6.69231 | $13.384616 | default | 1 | xiaomi/mimo-v2.6-pro-ultraspeed |
+| 6 | `sub.wonderful.edu.kg` | $12 | $24.0 | 国模官key | 0.4 | mimo-v2.6-pro-ultraspeed |
+| 7 | `slb-v1.api.fan` | $24 | - | mimo-officially | 0.8 | mimo-v2.6-pro-ultraspeed |
+| 8 | `www.packyapi.ai` | $24 | - | mimo-officially | 0.8 | mimo-v2.6-pro-ultraspeed |
+| 9 | `www.packyapi.com` | $24 | - | mimo-officially | 0.8 | mimo-v2.6-pro-ultraspeed |
+| 10 | `ai.amaxsmp.com` | $30 | - | 原厂直供 | 1 | mimo-v2.6-pro-ultraspeed |
+| 11 | `api.wang9005.top` | $30 | - | default | 1 | mimo-v2.6-pro-ultraspeed |
+| 12 | `coneverse.com` | $30 | - | mimo-official | 7.3 | mimo-v2.6-pro-ultraspeed |
+| 13 | `infistar.cc` | $30 | $60.0 | mimo-official | 7.3 | mimo-v2.6-pro-ultraspeed |
+| 14 | `www.infistar.cc` | $30 | $60.0 | mimo-official | 7.3 | mimo-v2.6-pro-ultraspeed |
+| 15 | `api.ycapi.xyz` | $30.6122 | - | MiMo | 0.5 | mimo-v2.6-pro-ultraspeed |
+| 16 | `api2.aigcbest.top` | $75 | - | default | 1 | mimo-v2.6-pro-ultraspeed |
+| 17 | `max.openai365.top` | $75 | - | default | 1 | mimo-v2.6-pro-ultraspeed |
+| 18 | `cn.meta-api.vip` | $120 | - | MiMo · 优质（第三方） | 0.8 | mimo-v2.6-pro-ultraspeed |
+| 19 | `meta-api.vip` | $120 | - | MiMo · 优质（第三方） | 0.8 | mimo-v2.6-pro-ultraspeed |
+| 20 | `nan.meta-api.vip` | $120 | - | MiMo · 优质（第三方） | 0.8 | mimo-v2.6-pro-ultraspeed |
+
+[← 返回索引](index.md)

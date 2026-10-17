@@ -1,45 +1,50 @@
 # gemini-2.5-flash-preview-05-20
 
-共 39 家。价为推算实际价 USD/1M 输入。
+> 42 家 · 最低 **$0.009** @ `api.openai-labs.com` · 推算价（USD/1M 输入），未对账
 
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | api.openai-labs.com | $0.009 | $0.027 | 0.3 | geminicli |
-| 2 | api.openlux.ai | $0.0110295 | $0.044118 | 0.07353 | Anti-Gemini-1 |
-| 3 | api.relayrouter.ai | $0.0110295 | $0.044118 | 0.07353 | Anti-Gemini-1 |
-| 4 | v2.cloudmist.cloud | $0.0126839 | $0.0507356 | 0.0845595 | Anti-Gemini-1 |
-| 5 | quanzil.com | $0.022059 | $0.088236 | 0.14706 | Anti-Gemini-1 |
-| 6 | tryallapi.com | $0.022059 | $0.088236 | 0.14706 | Anti-Gemini-1 |
-| 7 | jeniya.cn | $0.022059 | $0.088236 | 0.14706 | Anti-Gemini-1 |
-| 8 | thousandengine.com | $0.0242649 | $0.0970596 | 0.16176600000000002 | Anti-Gemini-1 |
-| 9 | mux.la | $0.03 | $0.12 | 0.2 | Gemini-Lite |
-| 10 | yujianwudi.top | $0.0405 | $0.945 | 0.3 | Gemini-pro |
-| 11 | www.ddtnew.com | $0.045 | $0.18 | 0.3 | Gemini(Antigravity) |
-| 12 | koalaapi.com | $0.045 | $1.0503 | 0.3 | default |
-| 13 | api.routeeasy.ai | $0.075 | $0.625005 | 0.25 | anti_gemini_0706_025_qing |
-| 14 | www.aiapikey.net | $0.075 | - | 0.5 | Gemini |
-| 15 | fluxlane.cn | $0.15 | - |  |  |
-| 16 | dragtokens.com | $0.15 | - |  |  |
-| 17 | yunwu.ai | $0.15 | $0.6 | 1 | gemini-cli |
-| 18 | anyaigc.com | $0.15 | $0.6 | 1 | gemini-cli |
-| 19 | coultra.blueshirtmap.com | $0.15 | $1.25 |  |  |
-| 20 | api.zhongzhuan.chat | $0.15 | $0.6 | 1 | gemini-cli |
-| 21 | vipapi.online | $0.15 | $0.6 | 1 | gemini-cli |
-| 22 | api.qingyuntop.top | $0.15 | $0.6 | 1 | gemini-cli |
-| 23 | api.winfull.cloud-ip.cc | $0.15 | $0.6 | 1 | gemini-cli |
-| 24 | www.micuapi.ai | $0.15 | $0.6 |  |  |
-| 25 | api.apiyi.com | $0.15 | $1.2 | 0.5 | Gemini_Reverse |
-| 26 | cf-api.o1key.com | $0.15 | - |  |  |
-| 27 | api.zyai.online | $0.18 | $1.44 | 0.6 | GeminiCli |
-| 28 | love.qinyan.icu | $0.2 | - | 0.1 | 🎉Gemini限时福利分组 |
-| 29 | openai.chatnewai.com | $0.2 | - | 0.1 | 🎉Gemini限时福利分组 |
-| 30 | api.hoxkai.top | $0.255 | $1.02 | 1.7 | gemini |
-| 31 | api.apib.ai | $0.3 | $2.4999 |  |  |
-| 32 | www.packyapi.com | $0.45 | - | 3 | gemini-slb |
-| 33 | newapi.aisonnet.org | $0.5 | $3.5 | 1 | default |
-| 34 | newapi.aiopus.org | $0.5 | $3.5 | 1 | default |
-| 35 | api.147ai.cn | $0.6 | $13.98 | 4 | gemini |
-| 36 | ai.comfly.org | $0.6 | $5 | 2 | gemini优质 |
-| 37 | magic666.top | $0.7 | $3.5 | 0.35 | gemini-nx |
-| 38 | 118api.cn | $75 | $437.5 | 1 | default |
-| 39 | 128api.cn | $75 | $437.5 | 1 | default |
+| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.openai-labs.com` | $0.009 | $0.027 | geminicli | 0.3 | gemini-2.5-flash-preview-05-20-thinking |
+| 2 | `api.openlux.ai` | $0.0110295 | $0.044118 | Anti-Gemini-1 | 0.07353 | gemini-2.5-flash-preview-05-20 |
+| 3 | `api.relayrouter.ai` | $0.0110295 | $0.044118 | Anti-Gemini-1 | 0.07353 | gemini-2.5-flash-preview-05-20 |
+| 4 | `v2.cloudmist.cloud` | $0.0126839 | $0.0507356 | Anti-Gemini-1 | 0.0845595 | gemini-2.5-flash-preview-05-20 |
+| 5 | `quanzil.com` | $0.022059 | $0.088236 | Anti-Gemini-1 | 0.14706 | gemini-2.5-flash-preview-05-20 |
+| 6 | `tryallapi.com` | $0.022059 | $0.088236 | Anti-Gemini-1 | 0.14706 | gemini-2.5-flash-preview-05-20 |
+| 7 | `jeniya.cn` | $0.022059 | $0.088236 | Anti-Gemini-1 | 0.14706 | gemini-2.5-flash-preview-05-20 |
+| 8 | `thousandengine.com` | $0.0242649 | $0.0970596 | Anti-Gemini-1 | 0.16176600000000002 | gemini-2.5-flash-preview-05-20 |
+| 9 | `mux.la` | $0.03 | $0.12 | Gemini-Lite | 0.2 | gemini-2.5-flash-preview-05-20 |
+| 10 | `yujianwudi.top` | $0.0405 | $0.945 | Gemini-pro | 0.3 | gemini-2.5-flash-preview-05-20 |
+| 11 | `www.ddtnew.com` | $0.045 | $0.18 | Gemini(Antigravity) | 0.3 | gemini-2.5-flash-preview-05-20 |
+| 12 | `koalaapi.com` | $0.045 | $1.0503 | default | 0.3 | gemini-2.5-flash-preview-05-20 |
+| 13 | `api.routeeasy.ai` | $0.075 | $0.625005 | anti_gemini_0706_025_qing | 0.25 | gemini-2.5-flash-preview-05-20 |
+| 14 | `www.aiapikey.net` | $0.075 | - | Gemini | 0.5 | gemini-2.5-flash-preview-05-20 |
+| 15 | `fluxlane.cn` | $0.15 | - | - | - | gemini-2.5-flash-preview-05-20 |
+| 16 | `dragtokens.com` | $0.15 | - | - | - | gemini-2.5-flash-preview-05-20 |
+| 17 | `yunwu.ai` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-05-20 |
+| 18 | `anyaigc.com` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-05-20 |
+| 19 | `coultra.blueshirtmap.com` | $0.15 | $1.25 | - | - | gemini-2.5-flash-preview-05-20 |
+| 20 | `api.zhongzhuan.chat` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-05-20 |
+| 21 | `vipapi.online` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-05-20 |
+| 22 | `api.qingyuntop.top` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-05-20 |
+| 23 | `api.winfull.cloud-ip.cc` | $0.15 | $0.6 | gemini-cli | 1 | gemini-2.5-flash-preview-05-20 |
+| 24 | `www.micuapi.ai` | $0.15 | $0.6 | - | - | gemini-2.5-flash-preview-05-20 |
+| 25 | `api.apiyi.com` | $0.15 | $1.2 | Gemini_Reverse | 0.5 | gemini-2.5-flash-preview-05-20 |
+| 26 | `cf-api.o1key.com` | $0.15 | - | - | - | gemini-2.5-flash-preview-05-20 |
+| 27 | `api.zyai.online` | $0.18 | $1.44 | GeminiCli | 0.6 | gemini-2.5-flash-preview-05-20 |
+| 28 | `love.qinyan.icu` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-2.5-flash-preview-05-20-thinking |
+| 29 | `openai.chatnewai.com` | $0.2 | - | 🎉Gemini限时福利分组 | 0.1 | gemini-2.5-flash-preview-05-20-thinking |
+| 30 | `api.hoxkai.top` | $0.255 | $1.02 | gemini | 1.7 | gemini-2.5-flash-preview-05-20 |
+| 31 | `api.apib.ai` | $0.3 | $2.4999 | - | - | gemini-2.5-flash-preview-05-20 |
+| 32 | `api.xiaoma.best` | $0.3 | $2.5 | gemini | 1 | gemini-2.5-flash-preview-05-20 |
+| 33 | `www.xiaoma.best` | $0.3 | $2.5 | gemini | 1 | gemini-2.5-flash-preview-05-20 |
+| 34 | `www.packyapi.com` | $0.45 | - | gemini-slb | 3 | gemini-2.5-flash-preview-05-20 |
+| 35 | `newapi.aisonnet.org` | $0.5 | $3.5 | default | 1 | gemini-2.5-flash-preview-05-20 |
+| 36 | `newapi.aiopus.org` | $0.5 | $3.5 | default | 1 | gemini-2.5-flash-preview-05-20 |
+| 37 | `api.147ai.cn` | $0.6 | $13.98 | gemini | 4 | gemini-2.5-flash-preview-05-20 |
+| 38 | `ai.comfly.org` | $0.6 | $5.0 | gemini优质 | 2 | gemini-2.5-flash-preview-05-20 |
+| 39 | `magic666.top` | $0.7 | $3.5 | gemini-nx | 0.35 | gemini-2.5-flash-preview-05-20 |
+| 40 | `118api.cn` | $75 | $437.5 | default | 1 | gemini-2.5-flash-preview-05-20-thinking |
+| 41 | `128api.cn` | $75 | $437.5 | default | 1 | gemini-2.5-flash-preview-05-20 |
+| 42 | `api.hopeai.cc` | $75 | $1750.0 | Antigravity逆向 | 1 | gemini-2.5-flash-preview-05-20 |
+
+[← 返回索引](index.md)
