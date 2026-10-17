@@ -54,7 +54,8 @@ for x in prod:
 with open(os.path.join(ROOT,'data','shops','products.csv'),'w',newline='',encoding='utf-8') as fh:
     w=csv.DictWriter(fh,fieldnames=['shop','host','hosting','platform','system','category','item','price_cny','status','warranty','stock','source','source_url','last_checked'],extrasaction='ignore'); w.writeheader()
     for x in ded:
-        h,s,pl,st=classify(x['host']); x.update(hosting=h,platform=pl,system=s); w.writerow(x)
+        hosting,plat,sysn,stype=classify(x['host'])
+        x.update(hosting=hosting,platform=plat,system=sysn,system_type=stype); w.writerow(x)
 print('products',len(ded))
 # shops aggregate
 agg=defaultdict(lambda:dict(cats=set(),prices=[],hosts=set(),sources=set()))
