@@ -60,30 +60,30 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 | 6 | `anyaigc.com` | 100 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
 | 7 | `api.winfull.cloud-ip.cc` | 100 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
 | 8 | `yinli.one` | 100 | 24 | ✓ |  |  |  | $0.15 | 200 |
-| 9 | `api.juziai.cc` | 100 | 18 | ✓ | ✓ |  | ✓ | $6 | 200 |
-| 10 | `api.qfgapi.com` | 100 | 18 | ✓ | ✓ |  | ✓ | $0.05 | 200 |
+| 9 | `api.qfgapi.com` | 100 | 18 | ✓ | ✓ |  | ✓ | $0.05 | 200 |
+| 10 | `api.juziai.cc` | 100 | 18 | ✓ | ✓ |  | ✓ | $6 | 200 |
 | 11 | `api.key77qiqi.com` | 100 | 17 | ✓ |  |  |  | $0.1 | 200 |
 | 12 | `top.taluna.ai` | 100 | 16 | ✓ | ✓ |  |  | $0.1 | 200 |
-| 13 | `gemini30.pro` | 100 | 16 | ✓ |  |  |  | $0.2625 | 200 |
-| 14 | `tenzen.ai` | 100 | 16 | ✓ |  |  |  | $0.1 | 200 |
+| 13 | `tenzen.ai` | 100 | 16 | ✓ |  |  |  | $0.1 | 200 |
+| 14 | `gemini30.pro` | 100 | 16 | ✓ |  |  |  | $0.2625 | 200 |
 | 15 | `code28.ccwu.cc` | 100 | 12 | ✓ | ✓ |  | ✓ | $0.375 | 200 |
 | 16 | `api.humanwill.xyz` | 100 | 11 | ✓ | ✓ |  |  | $0.24 | 200 |
 | 17 | `tian-shu.org` | 100 | 7 | ✓ |  |  |  | $0.105 | 200 |
 | 18 | `topapi.io` | 100 | 6 | ✓ | ✓ |  |  | $0.025 | 200 |
 | 19 | `aihubmix.com` | 100 | 3 | ✓ |  |  |  | $0.5 | 200 |
-| 20 | `laysoai.com` | 100 | 2 | ✓ |  |  |  | $0.048 | 200 |
+| 20 | `doro.lol` | 100 | 2 | ✓ |  |  |  | $0.45 | 200 |
 | 21 | `www.xcloudtoken.com` | 100 | 2 | ✓ |  |  |  | $0.03375 | 200 |
-| 22 | `doro.lol` | 100 | 2 | ✓ |  |  |  | $0.45 | 200 |
-| 23 | `kjapi.botsmart.net` | 100 | 0 |  |  |  |  | - | 200 |
-| 24 | `www.akucb.com` | 100 | 0 |  |  |  |  | - | 200 |
-| 25 | `runy-test.yitd.cn` | 100 | 0 |  |  |  |  | - |  |
-| 26 | `aigc.x-see.cn` | 100 | 0 |  |  |  |  | - | 200 |
-| 27 | `kuaiapi.net` | 100 | 0 |  |  |  |  | - | 200 |
-| 28 | `seesaw2ai.com` | 100 | 0 |  |  |  |  | - | 200 |
-| 29 | `api.mosshubs.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 22 | `laysoai.com` | 100 | 2 | ✓ |  |  |  | $0.048 | 200 |
+| 23 | `api.mosshubs.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 24 | `api-slb.packyapi.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 25 | `meowntor.xyz.hr` | 100 | 0 |  |  |  |  | - |  |
+| 26 | `runy-test.yitd.cn` | 100 | 0 |  |  |  |  | - |  |
+| 27 | `kjapi.botsmart.net` | 100 | 0 |  |  |  |  | - | 200 |
+| 28 | `kuaiapi.net` | 100 | 0 |  |  |  |  | - | 200 |
+| 29 | `seesaw2ai.com` | 100 | 0 |  |  |  |  | - | 200 |
 | 30 | `wawapi.top` | 100 | 0 |  |  |  |  | - | 200 |
-| 31 | `meowntor.xyz.hr` | 100 | 0 |  |  |  |  | - |  |
-| 32 | `api-slb.packyapi.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 31 | `www.akucb.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 32 | `aigc.x-see.cn` | 100 | 0 |  |  |  |  | - | 200 |
 | 33 | `generativelanguage.googleapis.com` | 99 | 0 |  |  |  |  | - |  |
 | 34 | `api.apiyi.com` | 98 | 136 | ✓ | ✓ |  | ✓ | $0.0375 | 200 |
 | 35 | `coultra.blueshirtmap.com` | 98 | 74 | ✓ |  |  |  | $0.065 | 200 |
@@ -97,8 +97,8 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 | 43 | `api.feiyang.click` | 98 | 4 | ✓ | ✓ |  |  | $0.16 | 200 |
 | 44 | `api.squarefaceicon.org` | 98 | 2 | ✓ |  |  |  | $0.1875 | 200 |
 | 45 | `vulcanapi.com` | 98 | 0 |  |  |  |  | - | 200 |
-| 46 | `newapi.wuji.us.eu.org` | 98 | 0 |  |  |  |  | - | 200 |
-| 47 | `vip.xiaweiliang.cn` | 98 | 0 |  |  |  |  | - |  |
+| 46 | `vip.xiaweiliang.cn` | 98 | 0 |  |  |  |  | - |  |
+| 47 | `newapi.wuji.us.eu.org` | 98 | 0 |  |  |  |  | - | 200 |
 | 48 | `api.theclawbay.com` | 98 | 0 |  |  |  |  | - |  |
 | 49 | `gg.aivvip.cc` | 97 | 55 | ✓ | ✓ |  | ✓ | - | 200 |
 | 50 | `ac.127api.top` | 97 | 35 | ✓ |  |  | ✓ | $75 | 200 |
@@ -109,8 +109,8 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 | 55 | `nikoapi.xyz` | 97 | 11 | ✓ |  |  | ✓ | $0.075 | 200 |
 | 56 | `routemux.com` | 97 | 9 | ✓ |  |  |  | $0.075 | 200 |
 | 57 | `passion8.cc` | 97 | 8 | ✓ | ✓ |  | ✓ | $0.3 | 200 |
-| 58 | `nextrouterfree.duckdns.org` | 97 | 0 |  |  |  |  | - |  |
-| 59 | `api.xkiro.com` | 97 | 0 |  |  |  |  | - |  |
+| 58 | `api.xkiro.com` | 97 | 0 |  |  |  |  | - |  |
+| 59 | `nextrouterfree.duckdns.org` | 97 | 0 |  |  |  |  | - |  |
 | 60 | `iai.iisbo.com` | 96 | 114 | ✓ | ✓ |  | ✓ | $0.5418 | 200 |
 | 61 | `api.qingyuntop.top` | 96 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
 | 62 | `love.qinyan.icu` | 96 | 83 | ✓ |  |  |  | $0.065 | 200 |
@@ -120,38 +120,38 @@ python3 tools/query.py domain api.openlux.ai        # 查某站
 | 66 | `console.qqqrouter.ai` | 96 | 41 | ✓ |  |  |  | $0.1 | 200 |
 | 67 | `2api.powerapi.cc` | 96 | 40 | ✓ | ✓ |  | ✓ | $0.03 |  |
 | 68 | `api3.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
-| 69 | `api.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
-| 70 | `api2.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
-| 71 | `nexaxis.ai` | 96 | 32 | ✓ |  |  | ✓ | $0.15 | 200 |
-| 72 | `api.vectorengine.ai` | 96 | 32 | ✓ |  | ✓ |  | $0.1 | 200 |
+| 69 | `api2.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
+| 70 | `api.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
+| 71 | `api.vectorengine.ai` | 96 | 32 | ✓ |  | ✓ |  | $0.1 | 200 |
+| 72 | `nexaxis.ai` | 96 | 32 | ✓ |  |  | ✓ | $0.15 | 200 |
 | 73 | `tidewhisper-ai.xyz` | 96 | 27 | ✓ | ✓ |  | ✓ | $0.54 | 200 |
 | 74 | `newapi.youkies.cloud` | 96 | 25 | ✓ |  |  | ✓ | $0.012 | 200 |
 | 75 | `wolfai.top` | 96 | 23 | ✓ | ✓ |  |  | $0.25 | 200 |
 | 76 | `a6api.com` | 96 | 23 | ✓ | ✓ | ✓ | ✓ | $1 | 200 |
 | 77 | `api.mcapple.top` | 96 | 22 | ✓ | ✓ |  |  | $0.078 | 200 |
 | 78 | `azemm.cc` | 96 | 20 | ✓ |  |  | ✓ | $0.075 | 200 |
-| 79 | `moyuu.cc` | 96 | 19 | ✓ | ✓ | ✓ | ✓ | $0.0375 | 200 |
-| 80 | `viper3.ai` | 96 | 19 | ✓ | ✓ |  |  | $0.325 | 200 |
-| 81 | `sparkcode.top` | 96 | 19 | ✓ | ✓ |  | ✓ | $0.15 | 200 |
-| 82 | `api.1024token.xyz` | 96 | 18 | ✓ | ✓ |  |  | $0.045 | 200 |
-| 83 | `itkk.lol` | 96 | 18 | ✓ | ✓ |  | ✓ | $0.015 | 200 |
+| 79 | `sparkcode.top` | 96 | 19 | ✓ | ✓ |  | ✓ | $0.15 | 200 |
+| 80 | `moyuu.cc` | 96 | 19 | ✓ | ✓ | ✓ | ✓ | $0.0375 | 200 |
+| 81 | `viper3.ai` | 96 | 19 | ✓ | ✓ |  |  | $0.325 | 200 |
+| 82 | `itkk.lol` | 96 | 18 | ✓ | ✓ |  | ✓ | $0.015 | 200 |
+| 83 | `api.1024token.xyz` | 96 | 18 | ✓ | ✓ |  |  | $0.045 | 200 |
 | 84 | `relayrax.com` | 96 | 13 | ✓ |  |  | ✓ | $0.2 | 200 |
 | 85 | `llm-all.pro` | 96 | 12 | ✓ | ✓ | ✓ |  | $0.06 | 200 |
-| 86 | `sapi.zly168.cn` | 96 | 11 | ✓ | ✓ | ✓ | ✓ | $0.97 | 200 |
-| 87 | `www.wamwuai.com` | 96 | 11 | ✓ |  |  |  | - | 200 |
+| 86 | `www.wamwuai.com` | 96 | 11 | ✓ |  |  |  | - | 200 |
+| 87 | `sapi.zly168.cn` | 96 | 11 | ✓ | ✓ | ✓ | ✓ | $0.97 | 200 |
 | 88 | `api.clawsocket.com` | 96 | 11 | ✓ | ✓ |  | ✓ | $0.5 | 200 |
 | 89 | `cf.modelflare.dev` | 96 | 10 | ✓ | ✓ |  |  | $0.02 | 200 |
 | 90 | `qilinapi.nervers.com` | 96 | 10 | ✓ | ✓ |  |  | $0.018 | 200 |
 | 91 | `speed23.toter.me` | 96 | 9 | ✓ | ✓ | ✓ |  | $0.18 | 200 |
-| 92 | `www.zzshu.cc` | 96 | 8 | ✓ | ✓ |  |  | $0.15 | 200 |
-| 93 | `api.xiaoxuapi.com` | 96 | 8 | ✓ |  |  |  | $0.1925 | 200 |
-| 94 | `www.weekly-day.top` | 96 | 8 | ✓ | ✓ |  |  | $0.09 | 200 |
-| 95 | `wawazz.xyz` | 96 | 8 | ✓ | ✓ |  | ✓ | $0.125 | 200 |
+| 92 | `api.xiaoxuapi.com` | 96 | 8 | ✓ |  |  |  | $0.1925 | 200 |
+| 93 | `www.zzshu.cc` | 96 | 8 | ✓ | ✓ |  |  | $0.15 | 200 |
+| 94 | `wawazz.xyz` | 96 | 8 | ✓ | ✓ |  | ✓ | $0.125 | 200 |
+| 95 | `www.weekly-day.top` | 96 | 8 | ✓ | ✓ |  |  | $0.09 | 200 |
 | 96 | `api.maoapi.org` | 96 | 7 | ✓ | ✓ |  | ✓ | $0.24 | 200 |
 | 97 | `tian-shu.net` | 96 | 7 | ✓ |  |  |  | $0.105 | 200 |
 | 98 | `shapi.vip` | 96 | 5 | ✓ |  |  |  | $0.08 | 200 |
-| 99 | `dasuapi.com` | 96 | 4 | ✓ | ✓ |  |  | $0.22 | 200 |
-| 100 | `www.hejuapi.com` | 96 | 4 | ✓ |  |  | ✓ | $0.1875 | 200 |
+| 99 | `www.hejuapi.com` | 96 | 4 | ✓ |  |  | ✓ | $0.1875 | 200 |
+| 100 | `dasuapi.com` | 96 | 4 | ✓ | ✓ |  |  | $0.22 | 200 |
 
 完整名单（1740 站）：[relays.csv](data/relays/relays.csv) · 站×模型价：[relay-models.csv](data/relays/relay-models.csv)
 

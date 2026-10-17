@@ -13,7 +13,7 @@ SYSTEM_BY_HOST={'ultra.makelove.cloud':'独角数卡','gpthub.ciyuanapi.ai':'独
  'accharbor.com':'异次元发卡','aiaimallss.cn':'异次元发卡','aisou.pro':'异次元发卡','apiciyuan.top':'异次元发卡',
  'cool.cheggnow.com':'异次元发卡','dimosky.com':'异次元发卡','douyiner.cn':'异次元发卡','gmailsol.com':'异次元发卡',
  'google7676.top':'异次元发卡','nikoers.com':'异次元发卡','store.codesky.qzz.io':'异次元发卡','tehuio.com':'异次元发卡',
- 'www.ai-member.icu':'异次元发卡'}
+ 'www.ai-member.icu':'异次元发卡','aichongz.cc':'异次元发卡'}
 def classify(host):
     if host in ('pay.ldxp.cn','ldxp.cn','wzyp.cn'): return ('SaaS','链动小铺','','')
     if host=='catfk.com': return ('SaaS','云猫寄售','','')
@@ -78,7 +78,8 @@ for shop,a in agg.items():
     rows.append(dict(shop=shop,hosting=hosting,platform=plat,system=sysn,system_type=stype,
         domain=';'.join(sorted(a['hosts'])),categories='/'.join(sorted(a['cats'])),
         price_range=('%g-%g'%(min(a['prices']),max(a['prices']))) if a['prices'] else '',
-        source='/'.join(sorted(a['sources'])),last_checked=DATE,notes=''))
+        source='/'.join(sorted(a['sources'])),last_checked=DATE,
+        notes=('未识别发卡系统' if (hosting=='自建' and sysn=='未知') else '')))
 rows.sort(key=lambda r:r['shop'] or '')
 with open(os.path.join(ROOT,'data','shops','shops.csv'),'w',newline='',encoding='utf-8') as fh:
     w=csv.DictWriter(fh,fieldnames=['shop','hosting','platform','system','system_type','domain','categories','price_range','source','last_checked','notes']); w.writeheader()
