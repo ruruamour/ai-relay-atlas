@@ -1,0 +1,3 @@
+你是联网搜索助手，只能用 bash 工具（curl）。任务：深入搜集【Google AI Ultra / Gemini Ultra】在中文圈的发卡、家庭组车位、合租拼车行情。
+用 curl 抓 https://www.bing.com/search?q=<关键词>（UA: Mozilla/5.0 Chrome/124），关键词：Google AI Ultra 家庭组 车位 价格、Gemini Ultra 20x 席位 购买、Google AI Ultra 代充 价格、Gemini Ultra 拼车 v2ex、Google AI Ultra nodeseek。跳转链接用 base64 解码 u=a1... 参数。也可直接抓 https://www.v2ex.com/search?q=Google+AI+Ultra 和 https://www.nodeseek.com/search?q=Google+Ultra。不超过10次 curl。
+输出 markdown 表格：商品/渠道 | 价格(¥) | 说明 | 链接。只输出表格。
