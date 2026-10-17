@@ -3,7 +3,7 @@
 ## relays/（中转站）
 | 文件 | 说明 |
 |---|---|
-| `relays.csv` | 站级主表：域名、Veridrop 评分、是否有 gemini/mimo/grok/argon |
+| `relays.csv` | 站级主表：域名、Veridrop 评分、是否有 gemini/mimo/grok/argon、`http_status`、`latency_ms` |
 | `relay-models.csv` | 站 × 模型 × 价格（核心），价格为**推算实际价** USD/1M |
 | `relay-systems.csv` | 中转站软件名录（New-API/One-API/Sub2API…） |
 | `by-model/*.md` | 按模型的可读榜单（143 个模型） |
