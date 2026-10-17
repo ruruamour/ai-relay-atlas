@@ -1,0 +1,7 @@
+system,type,repo,note
+New-API,开源自建,https://github.com/Calcium-Ion/new-api,主流，/api/pricing 公开倍率
+One-API,开源自建,https://github.com/songquanpeng/one-api,早期主流
+Sub2API,开源自建,,/api/v1/model-plaza 给显式价格
+Veloera,开源自建,,New-API 分支
+Done Hub,开源自建,,New-API 分支
+Super-API,开源自建,,New-API 衍生
