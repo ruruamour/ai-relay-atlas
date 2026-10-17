@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) [![Data: CC BY-NC 4.0](https://img.shields.io/badge/data-CC%20BY--NC%204.0-lightgrey.svg)](DATA-LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。本页是摘要与榜单，全量数据在 [`data/`](data/README.md)。
+把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。**本阶段以收全名单为主**，细节后续补充。
 
 > ⚠️ 仅收录公开信息，不提供购买入口、不参与交易、不担保。价格为推算值、未对账，以原站为准。见 [DISCLAIMER.md](DISCLAIMER.md)。
 
@@ -11,16 +11,10 @@
 
 - [数据概览](#stats)
 - [快速开始](#quickstart)
-- [中转站 · 各模型最低价](#relays)
-  - [Gemini 系列](#family-gemini) — 129 个模型
-  - [Grok](#family-grok) — 3 个模型
-  - [MiMo](#family-mimo) — 10 个模型
-  - [全部模型榜单 →](data/relays/by-model/index.md)
-- [发卡](#shops)
-  - [平台与系统](#shop-platforms)
-  - [Gemini Pro 低价](#shop-gemini-pro)
-  - [Google AI Ultra 20x](#shop-ultra-20x)
-  - [店铺速览](#shop-list)
+- [中转站 · 综合名单](#relays)
+- [中转站 · 模型覆盖](#coverage)
+- [卡网 · 店铺名单](#shops)
+- [卡网 · 平台与系统](#shop-platforms)
 - [数据文件](#files)
 - [文档](#docs)
 - [数据来源](#sources)
@@ -34,198 +28,283 @@
 |---|---|
 | 中转站（域名） | 1740 |
 | 中转站 × 模型 报价 | 12774 |
+| 模型名（去重） | 1353 |
 | 发卡店铺 | 314（SaaS 261 / 自建 53） |
 | 发卡商品报价 | 10646 |
-| 按模型榜单（≥8 家） | 142 |
+
+> 说明：**"模型名"是去重后的模型标识数量**（同一模型在多家站只算 1 个），不等于站数。
 
 <a id="quickstart"></a>
 ## 快速开始
 
 ```bash
 git clone https://github.com/ruruamour/ai-relay-atlas.git && cd ai-relay-atlas
-python3 tools/query.py model gemini-4-argon --n 30
-python3 tools/query.py domain api.openlux.ai
+python3 tools/query.py model gemini-4-argon --n 30   # 查某模型
+python3 tools/query.py domain api.openlux.ai        # 查某站
 ```
 
-更新数据后重生成本页：
-```bash
-python3 tools/normalize.py && python3 tools/normalize_shops.py \
-  && python3 tools/generate_by_model.py && python3 tools/build_readme.py
-```
+重生成本页：`python3 tools/normalize.py && python3 tools/normalize_shops.py && python3 tools/generate_by_model.py && python3 tools/build_readme.py`
 
 <a id="relays"></a>
-## 中转站 · 各模型最低价
+## 中转站 · 综合名单
 
-> 实际价 = `model_ratio × group_ratio × 2`，USD / 1M 输入，已排除 0 价与免费组。点模型名看完整榜单。
+> **不按最低价排序**：低价多为福利/免费组，可用性低。这里按 **Veridrop 实测分 → 模型覆盖数** 排序，仅作线索。
 
-<a id="family-gemini"></a>
-### Gemini 系列（129 个模型）
+| # | 站点 | Veridrop | 模型数 | Gemini | Grok | MiMo | Argon | 最低价($/1M) | 状态 |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | `www.micuapi.ai` | 100 | 155 | ✓ |  |  |  | $0.0375 | 200 |
+| 2 | `api.hoxkai.top` | 100 | 122 | ✓ | ✓ |  | ✓ | $0.06375 | 200 |
+| 3 | `ai.comfly.org` | 100 | 99 | ✓ | ✓ | ✓ | ✓ | $0.15 | 200 |
+| 4 | `thousandengine.com` | 100 | 89 | ✓ | ✓ | ✓ | ✓ | $0.0060662 | 200 |
+| 5 | `jeniya.cn` | 100 | 88 | ✓ | ✓ | ✓ |  | $0.0055147 | 200 |
+| 6 | `anyaigc.com` | 100 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
+| 7 | `api.winfull.cloud-ip.cc` | 100 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
+| 8 | `yinli.one` | 100 | 24 | ✓ |  |  |  | $0.15 | 200 |
+| 9 | `api.juziai.cc` | 100 | 18 | ✓ | ✓ |  | ✓ | $6 | 200 |
+| 10 | `api.qfgapi.com` | 100 | 18 | ✓ | ✓ |  | ✓ | $0.05 | 200 |
+| 11 | `api.key77qiqi.com` | 100 | 17 | ✓ |  |  |  | $0.1 | 200 |
+| 12 | `tenzen.ai` | 100 | 16 | ✓ |  |  |  | $0.1 | 200 |
+| 13 | `gemini30.pro` | 100 | 16 | ✓ |  |  |  | $0.2625 | 200 |
+| 14 | `top.taluna.ai` | 100 | 16 | ✓ | ✓ |  |  | $0.1 | 200 |
+| 15 | `code28.ccwu.cc` | 100 | 12 | ✓ | ✓ |  | ✓ | $0.375 | 200 |
+| 16 | `api.humanwill.xyz` | 100 | 11 | ✓ | ✓ |  |  | $0.24 | 200 |
+| 17 | `tian-shu.org` | 100 | 7 | ✓ |  |  |  | $0.105 | 200 |
+| 18 | `topapi.io` | 100 | 6 | ✓ | ✓ |  |  | $0.025 | 200 |
+| 19 | `aihubmix.com` | 100 | 3 | ✓ |  |  |  | $0.5 | 200 |
+| 20 | `www.xcloudtoken.com` | 100 | 2 | ✓ |  |  |  | $0.03375 | 200 |
+| 21 | `laysoai.com` | 100 | 2 | ✓ |  |  |  | $0.048 | 200 |
+| 22 | `doro.lol` | 100 | 2 | ✓ |  |  |  | $0.45 | 200 |
+| 23 | `runy-test.yitd.cn` | 100 | 0 |  |  |  |  | - |  |
+| 24 | `kjapi.botsmart.net` | 100 | 0 |  |  |  |  | - | 200 |
+| 25 | `wawapi.top` | 100 | 0 |  |  |  |  | - | 200 |
+| 26 | `meowntor.xyz.hr` | 100 | 0 |  |  |  |  | - |  |
+| 27 | `www.akucb.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 28 | `kuaiapi.net` | 100 | 0 |  |  |  |  | - | 200 |
+| 29 | `api-slb.packyapi.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 30 | `aigc.x-see.cn` | 100 | 0 |  |  |  |  | - | 200 |
+| 31 | `api.mosshubs.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 32 | `seesaw2ai.com` | 100 | 0 |  |  |  |  | - | 200 |
+| 33 | `generativelanguage.googleapis.com` | 99 | 0 |  |  |  |  | - |  |
+| 34 | `api.apiyi.com` | 98 | 136 | ✓ | ✓ |  | ✓ | $0.0375 | 200 |
+| 35 | `coultra.blueshirtmap.com` | 98 | 74 | ✓ |  |  |  | $0.065 | 200 |
+| 36 | `poloai.top` | 98 | 72 | ✓ | ✓ |  | ✓ | $0.1 | 200 |
+| 37 | `api.vveai.com` | 98 | 59 | ✓ | ✓ |  |  | $0.1 | 200 |
+| 38 | `api.147ai.cn` | 98 | 40 | ✓ | ✓ |  | ✓ | $0.4 | 200 |
+| 39 | `runapi.co` | 98 | 19 | ✓ | ✓ |  | ✓ | $0.0215 | 200 |
+| 40 | `jp-api.tokone.ai` | 98 | 18 | ✓ |  |  |  | $0.07 | 200 |
+| 41 | `api.yourapi.cn` | 98 | 16 | ✓ |  |  | ✓ | $0.35 | 200 |
+| 42 | `lanxiu.cc` | 98 | 11 | ✓ | ✓ |  |  | $0.03 | 200 |
+| 43 | `api.feiyang.click` | 98 | 4 | ✓ | ✓ |  |  | $0.16 | 200 |
+| 44 | `api.squarefaceicon.org` | 98 | 2 | ✓ |  |  |  | $0.1875 | 200 |
+| 45 | `vulcanapi.com` | 98 | 0 |  |  |  |  | - | 200 |
+| 46 | `newapi.wuji.us.eu.org` | 98 | 0 |  |  |  |  | - | 200 |
+| 47 | `api.theclawbay.com` | 98 | 0 |  |  |  |  | - |  |
+| 48 | `vip.xiaweiliang.cn` | 98 | 0 |  |  |  |  | - |  |
+| 49 | `gg.aivvip.cc` | 97 | 55 | ✓ | ✓ |  | ✓ | - | 200 |
+| 50 | `ac.127api.top` | 97 | 35 | ✓ |  |  | ✓ | $75 | 200 |
+| 51 | `cf-api.o1key.com` | 97 | 26 | ✓ |  |  |  | $0.1 | 200 |
+| 52 | `cdn.sta1n.cn` | 97 | 24 | ✓ |  | ✓ | ✓ | $0.125 | 200 |
+| 53 | `api.gravitex.ai` | 97 | 18 | ✓ |  |  | ✓ | $0.1 | 200 |
+| 54 | `zjapi.com` | 97 | 12 | ✓ |  |  |  | $0.09 | 200 |
+| 55 | `nikoapi.xyz` | 97 | 11 | ✓ |  |  | ✓ | $0.075 | 200 |
+| 56 | `routemux.com` | 97 | 9 | ✓ |  |  |  | $0.075 | 200 |
+| 57 | `passion8.cc` | 97 | 8 | ✓ | ✓ |  | ✓ | $0.3 | 200 |
+| 58 | `nextrouterfree.duckdns.org` | 97 | 0 |  |  |  |  | - |  |
+| 59 | `api.xkiro.com` | 97 | 0 |  |  |  |  | - |  |
+| 60 | `iai.iisbo.com` | 96 | 114 | ✓ | ✓ |  | ✓ | $0.5418 | 200 |
+| 61 | `api.qingyuntop.top` | 96 | 85 | ✓ | ✓ | ✓ |  | $0.0375 | 200 |
+| 62 | `love.qinyan.icu` | 96 | 83 | ✓ |  |  |  | $0.065 | 200 |
+| 63 | `api.rcouyi.com` | 96 | 71 | ✓ | ✓ | ✓ |  | $0.075 | 200 |
+| 64 | `4sapi.com` | 96 | 47 | ✓ | ✓ |  | ✓ | $0.25 | 200 |
+| 65 | `vsllm.com` | 96 | 44 | ✓ | ✓ | ✓ |  | $0.1 | 200 |
+| 66 | `console.qqqrouter.ai` | 96 | 41 | ✓ |  |  |  | $0.1 | 200 |
+| 67 | `2api.powerapi.cc` | 96 | 40 | ✓ | ✓ |  | ✓ | $0.03 |  |
+| 68 | `api2.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
+| 69 | `api.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
+| 70 | `api3.gemai.cc` | 96 | 35 | ✓ | ✓ |  |  | $75 | 200 |
+| 71 | `api.vectorengine.ai` | 96 | 32 | ✓ |  | ✓ |  | $0.1 | 200 |
+| 72 | `nexaxis.ai` | 96 | 32 | ✓ |  |  | ✓ | $0.15 | 200 |
+| 73 | `tidewhisper-ai.xyz` | 96 | 27 | ✓ | ✓ |  | ✓ | $0.54 | 200 |
+| 74 | `newapi.youkies.cloud` | 96 | 25 | ✓ |  |  | ✓ | $0.012 | 200 |
+| 75 | `a6api.com` | 96 | 23 | ✓ | ✓ | ✓ | ✓ | $1 | 200 |
+| 76 | `wolfai.top` | 96 | 23 | ✓ | ✓ |  |  | $0.25 | 200 |
+| 77 | `api.mcapple.top` | 96 | 22 | ✓ | ✓ |  |  | $0.078 | 200 |
+| 78 | `azemm.cc` | 96 | 20 | ✓ |  |  | ✓ | $0.075 | 200 |
+| 79 | `moyuu.cc` | 96 | 19 | ✓ | ✓ | ✓ | ✓ | $0.0375 | 200 |
+| 80 | `sparkcode.top` | 96 | 19 | ✓ | ✓ |  | ✓ | $0.15 | 200 |
+| 81 | `viper3.ai` | 96 | 19 | ✓ | ✓ |  |  | $0.325 | 200 |
+| 82 | `api.1024token.xyz` | 96 | 18 | ✓ | ✓ |  |  | $0.045 | 200 |
+| 83 | `itkk.lol` | 96 | 18 | ✓ | ✓ |  | ✓ | $0.015 | 200 |
+| 84 | `relayrax.com` | 96 | 13 | ✓ |  |  | ✓ | $0.2 | 200 |
+| 85 | `llm-all.pro` | 96 | 12 | ✓ | ✓ | ✓ |  | $0.06 | 200 |
+| 86 | `www.wamwuai.com` | 96 | 11 | ✓ |  |  |  | - | 200 |
+| 87 | `api.clawsocket.com` | 96 | 11 | ✓ | ✓ |  | ✓ | $0.5 | 200 |
+| 88 | `sapi.zly168.cn` | 96 | 11 | ✓ | ✓ | ✓ | ✓ | $0.97 | 200 |
+| 89 | `qilinapi.nervers.com` | 96 | 10 | ✓ | ✓ |  |  | $0.018 | 200 |
+| 90 | `cf.modelflare.dev` | 96 | 10 | ✓ | ✓ |  |  | $0.02 | 200 |
+| 91 | `speed23.toter.me` | 96 | 9 | ✓ | ✓ | ✓ |  | $0.18 | 200 |
+| 92 | `www.zzshu.cc` | 96 | 8 | ✓ | ✓ |  |  | $0.15 | 200 |
+| 93 | `api.xiaoxuapi.com` | 96 | 8 | ✓ |  |  |  | $0.1925 | 200 |
+| 94 | `www.weekly-day.top` | 96 | 8 | ✓ | ✓ |  |  | $0.09 | 200 |
+| 95 | `wawazz.xyz` | 96 | 8 | ✓ | ✓ |  | ✓ | $0.125 | 200 |
+| 96 | `api.maoapi.org` | 96 | 7 | ✓ | ✓ |  | ✓ | $0.24 | 200 |
+| 97 | `tian-shu.net` | 96 | 7 | ✓ |  |  |  | $0.105 | 200 |
+| 98 | `shapi.vip` | 96 | 5 | ✓ |  |  |  | $0.08 | 200 |
+| 99 | `www.hejuapi.com` | 96 | 4 | ✓ |  |  | ✓ | $0.1875 | 200 |
+| 100 | `dasuapi.com` | 96 | 4 | ✓ | ✓ |  |  | $0.22 | 200 |
 
-| 模型 | 家数 | 最低价 | 最低站 | 详情 |
-|---|---|---|---|---|
-| `gemini-4-argon` | 509 | $0.069231 | `codelypixverse.com` | [榜](data/relays/by-model/gemini-4-argon.md) |
-| `gemini-3.6-flash` | 185 | $0.0128983 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-3.6-flash.md) |
-| `gemini-3.7-flash` | 182 | $0.0128983 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-3.7-flash.md) |
-| `gemini-3.1-pro-preview` | 182 | $1.44e-05 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3.1-pro-preview.md) |
-| `gemini-3.8-flash` | 176 | $0.0075 | `apiroute.top` | [榜](data/relays/by-model/gemini-3.8-flash.md) |
-| `gemini-3.5-flash` | 168 | $1.08e-05 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3.5-flash.md) |
-| `gemini-2.5-flash` | 147 | $0.0025797 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-2.5-flash.md) |
-| `gemini-3-flash-preview` | 143 | $3.6e-06 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3-flash-preview.md) |
-| `gemini-2.5-pro` | 134 | $0.0107486 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-2.5-pro.md) |
-| `gemini-3.1-flash-lite` | 130 | $0.0025 | `apiroute.top` | [榜](data/relays/by-model/gemini-3.1-flash-lite.md) |
-| `gemini-2.5-flash-lite` | 113 | $0.007353 | `api.openlux.ai` | [榜](data/relays/by-model/gemini-2.5-flash-lite.md) |
-| `gemini-3-pro-preview` | 110 | $1.44e-05 | `zz.xcwang.cn` | [榜](data/relays/by-model/gemini-3-pro-preview.md) |
-| `gemini-3.1-flash-lite-preview` | 103 | $0.001 | `api.ccode.vip` | [榜](data/relays/by-model/gemini-3.1-flash-lite-preview.md) |
-| `gemini-3.1-pro` | 94 | $0.0171977 | `www.nexotoken.net` | [榜](data/relays/by-model/gemini-3.1-pro.md) |
-| `gemini-3.5-flash-lite` | 94 | $0.022059 | `api.openlux.ai` | [榜](data/relays/by-model/gemini-3.5-flash-lite.md) |
-| `gemini-3-flash` | 86 | $0.05 | `modelsell.com` | [榜](data/relays/by-model/gemini-3-flash.md) |
-| `gemini-3.1-flash-image` | 62 | $0.01 | `liangxinapi.top` | [榜](data/relays/by-model/gemini-3.1-flash-image.md) |
-| `gemini-embedding-001` | 58 | $0.03 | `mux.la` | [榜](data/relays/by-model/gemini-embedding-001.md) |
-| `gemini-3.1-pro-preview-customtools` | 56 | $0.125 | `love.qinyan.icu` | [榜](data/relays/by-model/gemini-3.1-pro-preview-customtools.md) |
-| `gemini-2.5-flash-no` | 54 | $0.022059 | `api.openlux.ai` | [榜](data/relays/by-model/gemini-2.5-flash-no.md) |
-| … | | | | [全部 109 个 →](data/relays/by-model/index.md) |
-
-<a id="model-gemini-4-argon"></a>
-#### gemini-4-argon · Top 15
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | $0.069231 | $0.115385 | 1 | default |
-| 2 | `ccoo.ai` | $0.2 | $1 | 0.1 | Google 特惠 |
-| 3 | `www.ccoo.ai` | $0.2 | $1 | 0.1 | Google 特惠 |
-| 4 | `catapi.catcard.uk` | $0.3 | $1.5 | 0.15 | 【自营按量】Gemini |
-| 5 | `moyuu.cc` | $0.3 | $1.5 | 0.15 | gemini |
-| 6 | `www.lingzhan.top` | $0.3 | $1.5 | 0.15 | Gemini(Antigravity反代自有号池) |
-| 7 | `www.moyuu.cc` | $0.3 | $1.5 | 0.15 | gemini |
-| 8 | `newapi.youkies.cloud` | $0.32 | $1.6 | 0.16 | a/gemini |
-| 9 | `api.fluxapi.vip` | $0.36 | $1.8 | 0.18 | Gemini满血反重力 |
-| 10 | `api.luciferai.cc` | $0.36 | $2.16 | 0.18 | gemini |
-| 11 | `fluxapi.vip` | $0.36 | $1.8 | 0.18 | Gemini满血反重力 |
-| 12 | `sub2api.luciferai.cc` | $0.36 | $2.16 | 0.18 | gemini |
-| 13 | `www.fluxapi.vip` | $0.36 | $1.8 | 0.18 | Gemini满血反重力 |
-| 14 | `api.lt4net.org` | $0.4 | $2 | 0.1 | gemini |
-| 15 | `api.toapis.com` | $0.4 | $2 | 1 | default |
-
-<a id="model-gemini-3-8-flash"></a>
-#### gemini-3.8-flash · Top 15
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `apiroute.top` | $0.0075 | $0.0375 | 0.01 | gemini-anti-特惠 |
-| 2 | `www.nexotoken.net` | $0.0128983 | $0.0644914 | 0.09273 | Gemini·CLI特价版 |
-| 3 | `fishai.yanyumeta.cn` | $0.044 | $0.187 |  |  |
-| 4 | `modelsell.com` | $0.05 | $0.3 | 0.1 | Gemini Cli |
-| 5 | `api.openlux.ai` | $0.0551475 | $0.275738 | 0.07353 | Anti-Gemini-1 |
-| 6 | `api.relayrouter.ai` | $0.0551475 | $0.275738 | 0.07353 | Anti-Gemini-1 |
-| 7 | `v2.cloudmist.cloud` | $0.0634196 | $0.317098 | 0.0845595 | Anti-Gemini-1 |
-| 8 | `crowllm.com` | $0.065 | $0.34 | 0.5 | pro |
-| 9 | `api-top.com` | $0.075 | $0.375 | 0.1 | Gemini满血 |
-| 10 | `topapi.io` | $0.075 | $0.375 | 0.1 | Gemini满血 |
-| 11 | `newapi.youkies.cloud` | $0.09 | $0.45 | 0.12 | a/gemini |
-| 12 | `api.liangrekui.com` | $0.10875 | $0.54375 | 0.145 | JA gemini自制 |
-| 13 | `quanzil.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
-| 14 | `tryallapi.com` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
-| 15 | `jeniya.cn` | $0.110295 | $0.551475 | 0.14706 | Anti-Gemini-1 |
+完整名单（1740 站）：[relays.csv](data/relays/relays.csv) · 站×模型价：[relay-models.csv](data/relays/relay-models.csv)
 
 [↑ 目录](#toc)
 
-<a id="family-grok"></a>
-### Grok（3 个模型）
+<a id="coverage"></a>
+## 中转站 · 模型覆盖
 
-| 模型 | 家数 | 最低价 | 最低站 | 详情 |
-|---|---|---|---|---|
-| `grok-4.5` | 1042 | $0.002 | `api-hub.asia` | [榜](data/relays/by-model/grok-4.5.md) |
-| `grok-4.5-latest` | 12 | $0.02 | `supercodes.vip` | [榜](data/relays/by-model/grok-4.5-latest.md) |
-| `grok-4-5` | 8 | $0.4 | `36niu.com` | [榜](data/relays/by-model/grok-4-5.md) |
+> 家族 → 模型名数 / 覆盖站点数。完整榜单见 [by-model/index.md](data/relays/by-model/index.md)。
 
-<a id="model-grok-4-5"></a>
-#### grok-4.5 · Top 15
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `api-hub.asia` | $0.002 | $0.006 | 0.001 | Grok |
-| 2 | `tmdapis.com` | $0.015 | $0.0375 | 0.25 | grok |
-| 3 | `790053500.com` | $0.02 | $0.06 | 0.01 | Grok-4.6《free号池》 |
-| 4 | `api.khala.online` | $0.02 | $0.06 | 0.01 | grok-free |
-| 5 | `api.wuhen-ai.com` | $0.02 | $0.06 | 0.01 | grok(标准messages) |
-| 6 | `cf.modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
-| 7 | `llm-api.aigw2.cn` | $0.02 | $0.06 | 0.01 | Grok Free |
-| 8 | `modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
-| 9 | `o-ai.me` | $0.02 | $0.06 | 0.01 | grok-001 |
-| 10 | `origin.modelflare.dev` | $0.02 | $0.06 | 0.01 | grok-award |
-| 11 | `weilai.chat` | $0.02 | $0.06 | 0.01 | grok free |
-| 12 | `xinyue.mom` | $0.02 | $0.06 | 0.01 | Gork【未开质量守护】 |
-| 13 | `api3.kscsnkli.site` | $0.021 | $0.061 | 0.01 | 低价国模 |
-| 14 | `pianyitoken.gay` | $0.027397 | $0.082191 | 0.1 | grok heavy |
-| 15 | `aggretoken.com` | $0.03 | $0.09 | 1 | Standard |
-
-[↑ 目录](#toc)
-
-<a id="family-mimo"></a>
-### MiMo（10 个模型）
-
-| 模型 | 家数 | 最低价 | 最低站 | 详情 |
-|---|---|---|---|---|
-| `mimo-v2.5-pro` | 332 | $0.0099 | `api.khaix.net` | [榜](data/relays/by-model/mimo-v2.5-pro.md) |
-| `mimo-v2.5` | 325 | $4e-06 | `ai.hebox.net` | [榜](data/relays/by-model/mimo-v2.5.md) |
-| `mimo-v2.6-flash` | 145 | $0.021 | `ai.gigimed.cn` | [榜](data/relays/by-model/mimo-v2.6-flash.md) |
-| `mimo-v2.6-pro` | 130 | $0.0015 | `sub2api.xybbz.xyz` | [榜](data/relays/by-model/mimo-v2.6-pro.md) |
-| `mimo-v2-pro` | 85 | $0.075 | `api.wuhen-ai.com` | [榜](data/relays/by-model/mimo-v2-pro.md) |
-| `mimo-v2-omni` | 25 | $0.16 | `www.kamiapi.top` | [榜](data/relays/by-model/mimo-v2-omni.md) |
-| `mimo-v2.6-pro-ultraspeed` | 16 | $1 | `a6api.com` | [榜](data/relays/by-model/mimo-v2.6-pro-ultraspeed.md) |
-| `mimo-v2.5-tts` | 11 | $0.4 | `ai-api.loft.games` | [榜](data/relays/by-model/mimo-v2.5-tts.md) |
-| `mimo-v2.5-tts-voiceclone` | 8 | $0.4 | `ai-api.loft.games` | [榜](data/relays/by-model/mimo-v2.5-tts-voiceclone.md) |
-| `mimo-v2.5-tts-voicedesign` | 8 | $0.4 | `ai-api.loft.games` | [榜](data/relays/by-model/mimo-v2.5-tts-voicedesign.md) |
-
-<a id="model-mimo-v2-6-pro"></a>
-#### mimo-v2.6-pro · Top 15
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `sub2api.xybbz.xyz` | $0.0015 | - | 0.06 | Kimi-k3 |
-| 2 | `ai.gigimed.cn` | $0.06525 | - | 0.15 | a6api |
-| 3 | `api.wuhen-ai.com` | $0.075 | - | 0.3 | 小米-（cc客户端可接） |
-| 4 | `apiv3.52codeflow.top` | $0.087 | - | 0.2 | 世界第一模型 |
-| 5 | `aiapibank.com` | $0.15 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
-| 6 | `keylinkclub.com` | $0.1827 | - | 0.42 | guochan |
-| 7 | `api.bingyun.vip` | $0.24 | - | 0.08 | 国模福利-008倍率 |
-| 8 | `api.asdfas.party` | $0.248 | - | 0.08 | 英伟达 |
-| 9 | `api.openlux.ai` | $0.32625 | - | 0.75 | Xiaomi-1 |
-| 10 | `api.relayrouter.ai` | $0.32625 | - | 0.75 | Xiaomi-1 |
-| 11 | `gzxbykj.com` | $0.358875 | - | 0.8250000000000001 | Xiaomi-1 |
-| 12 | `worldcodes.online` | $0.36 | - | 1.0 | 国模低价分组【实际倍率0.12】 |
-| 13 | `v2.cloudmist.cloud` | $0.375187 | - | 0.8624999999999999 | Xiaomi-1 |
-| 14 | `makerend.com` | $0.407813 | - | 0.9375 | Xiaomi-1 |
-| 15 | `hetune.top` | $0.42 | - | 1 | 国模统一分组 |
-
-<a id="model-mimo-v2-6-flash"></a>
-#### mimo-v2.6-flash · Top 15
-
-| # | 站点 | 输入 | 输出 | 倍率 | 分组 |
-|---|---|---|---|---|---|
-| 1 | `ai.gigimed.cn` | $0.021 | - | 0.15 | a6api |
-| 2 | `apiv3.52codeflow.top` | $0.028 | - | 0.2 | 世界第一模型 |
-| 3 | `keylinkclub.com` | $0.042 | - | 0.3 | guochan_便宜 |
-| 4 | `aiapibank.com` | $0.05 | - | 0.05 | GPT超疯狂分组（国庆特惠） |
-| 5 | `api.hud.im` | $0.05 | - | 0.05 | 【国模】deepseek-特价 |
-| 6 | `api.asdfas.party` | $0.08 | - | 0.08 | 英伟达 |
-| 7 | `api.bingyun.vip` | $0.08 | - | 0.08 | 国模福利-008倍率 |
-| 8 | `api.openlux.ai` | $0.105 | - | 0.75 | Xiaomi-1 |
-| 9 | `api.relayrouter.ai` | $0.105 | - | 0.75 | Xiaomi-1 |
-| 10 | `gptzzz.ai` | $0.109 | - | 0.64 | MiMo 小米官key |
-| 11 | `gzxbykj.com` | $0.1155 | - | 0.8250000000000001 | Xiaomi-1 |
-| 12 | `ai.lfree.org` | $0.12 | - | 1 | claude |
-| 13 | `worldcodes.online` | $0.12 | - | 1.0 | 国模低价分组【实际倍率0.12】 |
-| 14 | `www.lingzhan.top` | $0.12 | - | 0.12 | 普通国模 |
-| 15 | `v2.cloudmist.cloud` | $0.12075 | - | 0.8624999999999999 | Xiaomi-1 |
+| 家族 | 模型名数 | 覆盖站点数 |
+|---|---|---|
+| Gemini | 1027 | 697 |
+| Grok | 15 | 1140 |
+| MiMo | 32 | 436 |
+| 其他 | 279 | 64 |
 
 [↑ 目录](#toc)
 
 <a id="shops"></a>
-## 发卡
+## 卡网 · 店铺名单
+
+> 按店铺列，粗记"卖什么"。**不提供购买入口**，`域名` 仅为标识。完整表：[shops.csv](data/shops/shops.csv) / [products.csv](data/shops/products.csv)。
+
+| # | 店铺 | 归属 | 卖什么 | 价位(¥) | 来源 |
+|---|---|---|---|---|---|
+| 1 | GGbond ai | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.12-11433 | OpenPrice |
+| 2 | 梦泽 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.01-3325.87 | AI号探/OpenPrice |
+| 3 | Alexander | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0-3419.6 | AI号探/OpenPrice |
+| 4 | harvey | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.06-2263.73 | OpenPrice |
+| 5 | 派大星 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.06-2263.73 | OpenPrice |
+| 6 | chiyu | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.04-3440.2 | AI号探/OpenPrice |
+| 7 | 🛍 壹号铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.04-5665 | OpenPrice |
+| 8 | AccHarbor | 自建/未知 | 邮箱 | 0.9-1073.04 | OpenPrice |
+| 9 | 陆柒科技 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/邮箱 | 0.32-2884 | AI号探/OpenPrice |
+| 10 | team最后的余晖 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 0.07-10300 | AI号探/OpenPrice |
+| 11 | 比特拈花 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0-3625.6 | AI号探/OpenPrice |
+| 12 | 自行车 Ai 店铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Grok/Kiro/邮箱 | 0.04-3499.94 | AI号探/OpenPrice |
+| 13 | Xm API | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/邮箱 | 0.07-102999 | OpenPrice |
+| 14 | RenWin | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Kiro/邮箱 | 0-3347.5 | OpenPrice |
+| 15 | （彩虹马）筱博的小店 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 1.99-3296 | OpenPrice |
+| 16 | 橙子AI源头(全网最低源头) | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Grok/邮箱 | 0.01-1812.8 | OpenPrice |
+| 17 | 奥特曼严选 | 未知SaaS(wzyp.cn) | GPT/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.21-1122.7 | AI号探/OpenPrice |
+| 18 | YaHo🐯GPT全网低价 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Kiro/邮箱 | 0-3285.7 | OpenPrice |
+| 19 | recardai | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 0.1-1895.2 | OpenPrice |
+| 20 | ai小头 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 1.13-1461.57 | AI号探/OpenPrice |
+| 21 | ai教父 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 0.1-3512.3 | AI号探/OpenPrice |
+| 22 | 源头AI - Bot | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 0.26-3656.5 | OpenPrice |
+| 23 | 小柴AI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Grok/Kiro/邮箱 | 0.12-2935.5 | OpenPrice |
+| 24 | 大娃 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Kiro/邮箱 | 1.84-1433.76 | OpenPrice |
+| 25 | YUJI | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Grok/邮箱 | 0.04-3439.17 | OpenPrice |
+| 26 | Tora-雪诺AI源头分销小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 0-3397.97 | AI号探/OpenPrice |
+| 27 | 商家8719 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/Kiro/邮箱 | 0.21-5665 | OpenPrice |
+| 28 | 稳中求胜 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/邮箱 | 0.14-6180 | OpenPrice |
+| 29 | 52XUEAI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Kiro/邮箱 | 0.6-2781 | OpenPrice |
+| 30 | 一梦低价货源 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/邮箱 | 0.07-1902.36 | OpenPrice |
+| 31 | 亚米的整合服务供应商 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Kiro/邮箱 | 0-3953.14 | OpenPrice |
+| 32 | 商家9027 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Kiro/邮箱 | 0.13-2018.8 | OpenPrice |
+| 33 | GPT-源头供货-招代理 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 0.72-3399 | OpenPrice |
+| 34 | 直连AI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.16-3924.3 | OpenPrice |
+| 35 | 极速Ai | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Grok/邮箱 | 0.23-10300 | OpenPrice |
+| 36 | 海海星星AI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/Kiro/邮箱 | 0.05-3378.4 | OpenPrice |
+| 37 | 幻境MirageAI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Grok/邮箱 | 0.09-2152.7 | AI号探/OpenPrice |
+| 38 | 金幺の小店 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Grok/Kiro/邮箱 | 0.08-3594.7 | OpenPrice |
+| 39 | GPT \| Cluade \| Gemini \| Grok 集合铺 | 自建/未知 | GPT/Claude/Cursor/Gemini/Grok/邮箱 | 0.05-1336.01 | OpenPrice |
+| 40 | 棉被的ai小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Grok/邮箱 | 1.73-3213.6 | OpenPrice |
+| 41 | Antipro（请看店铺公告） | 自建/未知 | GPT/Claude/Gemini/Grok | 0-10299 | OpenPrice |
+| 42 | 元宇宙土拨鼠 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/邮箱 | 0.12-3656.5 | OpenPrice |
+| 43 | 启航AI | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Kiro/邮箱 | 0.87-3406.73 | OpenPrice |
+| 44 | 东北23333--承接理工科毕设 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Kiro/邮箱 | 0.05-3633.84 | OpenPrice |
+| 45 | AI猫猫社 | 未知SaaS(wzyp.cn) | GPT/邮箱 | 0-3551.96 | OpenPrice |
+| 46 | NiuGe AI 加钟站 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/Kiro/邮箱 | 0.09-10300 | OpenPrice |
+| 47 | AI OPC | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Grok | 2.06-3474.86 | OpenPrice |
+| 48 | NianHuaStore | 自建/独角数卡 | GPT/Claude/Ultra/Grok/邮箱 | 9-7999 | OpenPrice |
+| 49 | 曼波小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/Kiro/邮箱 | 0.38-3424.75 | OpenPrice |
+| 50 | LeoLab | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 0.1-1277.2 | OpenPrice |
+| 51 | 自我放飞 | 未知SaaS(wzyp.cn) | GPT/邮箱 | 0.62-3347.5 | OpenPrice |
+| 52 | ai直售 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/邮箱 | 0.03-1416.25 | OpenPrice |
+| 53 | 老马AI（源头直供，招代理） | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 0.52-3397.97 | OpenPrice |
+| 54 | FranklyBuilds的AI小店 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Kiro/邮箱 | 0.03-243.34 | AI号探/OpenPrice |
+| 55 | gpt_plus_批发 | 未知SaaS(wzyp.cn) | GPT/Claude/邮箱 | 0.04-192.61 | OpenPrice |
+| 56 | 柴柴AI | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 0-1903.44 | OpenPrice |
+| 57 | 【AI源头直供】AICA | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Kiro/邮箱 | 1.17-1984.19 | OpenPrice |
+| 58 | 诚心优选 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/邮箱 | 0-10299 | OpenPrice |
+| 59 | 智铺 AI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Ultra/邮箱 | 1.83-1291.28 | OpenPrice |
+| 60 | 9号小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 0.09-11845 | OpenPrice |
+| 61 | AI源头批发旗舰店 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/Ultra/Grok/邮箱 | 3.86-3254.8 | OpenPrice |
+| 62 | 007的小铺 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 8.19-275.32 | AI号探/OpenPrice |
+| 63 | AI小铺 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 0-1658.3 | OpenPrice |
+| 64 | ai源头高品质供应商 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 1.03-3930.48 | OpenPrice |
+| 65 | 商家1430 | 未知SaaS(wzyp.cn) | GPT/邮箱 | 0.07-1287.5 | OpenPrice |
+| 66 | 无事小神仙的ai小店 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 0.01-3306.3 | OpenPrice |
+| 67 | Esa的Ai小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 1.85-1182.44 | OpenPrice |
+| 68 | 幽羊 AI | 未知SaaS(wzyp.cn) | GPT/邮箱 | 0.04-107.64 | OpenPrice |
+| 69 | 马了个马 | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/邮箱 | 0.24-684.95 | OpenPrice |
+| 70 | AI供应 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Grok/邮箱 | 0.14-3347.5 | OpenPrice |
+| 71 | 卷子ai ( Lucky ) | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 0.23-3347.5 | OpenPrice |
+| 72 | 第8号铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 0.12-10300 | OpenPrice |
+| 73 | TxyxT小店 | 自建/未知 | GPT/Claude/Gemini/Ultra/Grok | 2.5-3600 | OpenPrice |
+| 74 | 全网最低批发ai账号 | 自建/未知 | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 6-3300 | OpenPrice |
+| 75 | open_store | 未知SaaS(wzyp.cn) | GPT/邮箱 | 1.85-1081.5 | OpenPrice |
+| 76 | AI gogo渠道 （招代理） | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini/邮箱 | 0.01-3347.5 | OpenPrice |
+| 77 | AI贝贝 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 0.03-3502 | OpenPrice |
+| 78 | yuyu的G小店 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 0.09-1359.6 | OpenPrice |
+| 79 | 橙子AI批发站 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 0.26-3283.64 | AI号探/OpenPrice |
+| 80 | DT的AI小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/邮箱 | 0.57-1926.1 | OpenPrice |
+| 81 | 一站式 AI 杂货铺 | 自建/未知 | GPT/Claude/Gemini/Ultra/Grok/邮箱 | 8-3456 | OpenPrice |
+| 82 | 稳问AI  --AI 大玩家（AI真源头，招代理） | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 2.06-2008.5 | OpenPrice |
+| 83 | 52AI店铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 0.52-3244.5 | OpenPrice |
+| 84 | Epoch | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Grok/邮箱 | 0.19-764.78 | OpenPrice |
+| 85 | 海神- GPT-大玩家（招代理） | 未知SaaS(wzyp.cn) | GPT/Claude/Ultra/邮箱 | 3.19-3584.4 | OpenPrice |
+| 86 | 猫猫豆 | 未知SaaS(wzyp.cn) | Gemini/Grok | 0.09-216.3 | OpenPrice |
+| 87 | Esfine科技小店 | 自建/未知 | GPT | 0.5-1150 | OpenPrice |
+| 88 | YUJAN宇见Ai-Plus Pro-源头直供 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 16.48-3499.94 | OpenPrice |
+| 89 | LaniCC AI | 未知SaaS(wzyp.cn) | GPT/Claude/Cursor/Gemini | 9.5-3450.5 | OpenPrice |
+| 90 | AI-MEMBER发卡网 | 自建/未知 | GPT/Claude/Gemini/Grok/邮箱 | 0.39-3300 | OpenPrice |
+| 91 | AI甄选 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra | 5.05-1863.17 | OpenPrice |
+| 92 | 布布 AI | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 2.58-288.4 | OpenPrice |
+| 93 | Aisou智充 | 自建/未知 | GPT/Claude/Gemini/Grok | 6.8-66666 | OpenPrice |
+| 94 | Nature-Ai账号 | 自建/未知 | GPT/Claude/Gemini/Grok | 3.6-3488 | OpenPrice |
+| 95 | 各类低价对接汇总 | 链动小铺 | GPT/Gemini/Ultra/邮箱 | 0.33-360 | AI号探 |
+| 96 | 小JIANG的商店 | 未知SaaS(wzyp.cn) | GPT/Claude/邮箱 | 0.52-2004.16 | OpenPrice |
+| 97 | 海王AI-源头直供 | 未知SaaS(wzyp.cn) | GPT/Claude | 4.74-3466.98 | OpenPrice |
+| 98 | IKUN货源 | 未知SaaS(wzyp.cn) | Gemini/邮箱 | 4.53-199.73 | OpenPrice |
+| 99 | Tim的AI便利店 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/Ultra/邮箱 | 1.02-1543.97 | OpenPrice |
+| 100 | lulu-Ai | 未知SaaS(wzyp.cn) | GPT/Claude/Grok/邮箱 | 0.08-1122.7 | OpenPrice |
+| 101 | 迷途小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini/邮箱 | 1.55-3489.64 | AI号探/OpenPrice |
+| 102 | iKun AI源头小铺 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 0.07-1050.6 | OpenPrice |
+| 103 | 泡泡Ai | 未知SaaS(wzyp.cn) | GPT/Claude/邮箱 | 1.15-1280.29 | OpenPrice |
+| 104 | 王哈哈AI 源头工作室 | 自建/未知 | GPT/Claude/Grok | 34-666666 | OpenPrice |
+| 105 | ai源头批发 | 未知SaaS(wzyp.cn) | Gemini/Ultra/Grok | 2.05-968.1 | OpenPrice |
+| 106 | dandan的AI小铺 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini | 0.79-1563.54 | OpenPrice |
+| 107 | ton | 未知SaaS(wzyp.cn) | GPT/邮箱 | 0.5-1153.6 | AI号探/OpenPrice |
+| 108 | 以太 AI服务订阅充值 | 自建/未知 | GPT/Gemini/Ultra/Grok/邮箱 | 4-3250 | OpenPrice |
+| 109 | 吾爱API | 未知SaaS(wzyp.cn) | 邮箱 | 25.74-710.7 | OpenPrice |
+| 110 | 小白源头AI | 未知SaaS(wzyp.cn) | Claude/Gemini/邮箱 | 0-102999 | OpenPrice |
+| 111 | 抢抢的AI小铺 | 未知SaaS(wzyp.cn) | GPT/邮箱 | 0.08-1236 | OpenPrice |
+| 112 | 还没想好 | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 1.59-1155.66 | OpenPrice |
+| 113 | AI五条悟 | 未知SaaS(wzyp.cn) | GPT/Claude/Gemini | 3.17-3563.8 | OpenPrice |
+| 114 | AI奥特曼【源头招代理】对接码：99999 | 自建/未知 | GPT/Claude | 8.76-3605 | OpenPrice |
+| 115 | AI海外账号 | 未知SaaS(wzyp.cn) | GPT/Claude/Ultra/邮箱 | 9.71-2060 | OpenPrice |
+| 116 | FlyAI源头 | 自建/未知 | GPT/Claude/Grok | 49-3640 | OpenPrice |
+| 117 | GOGO 商店 | 自建/未知 | GPT/Claude | 2.5-1460 | OpenPrice |
+| 118 | Gemini源头供货商 | 未知SaaS(wzyp.cn) | Gemini/邮箱 | 1.03-22.66 | AI号探/OpenPrice |
+| 119 | HZ-API | 未知SaaS(wzyp.cn) | GPT | 0.89-3244.5 | OpenPrice |
+| 120 | YCYAPI | 未知SaaS(wzyp.cn) | GPT/Gemini/邮箱 | 0.34-1030 | OpenPrice |
+
+共 314 家店，上表按商品数取前 120。
+
+[↑ 目录](#toc)
 
 <a id="shop-platforms"></a>
-### 平台与系统
+## 卡网 · 平台与系统
 
 **发卡平台（SaaS，商家入驻）**
 
@@ -251,95 +330,18 @@ python3 tools/normalize.py && python3 tools/normalize_shops.py \
 
 [↑ 目录](#toc)
 
-<a id="shop-gemini-pro"></a>
-### Gemini Pro 低价 Top 15
-
-| 商品 | 价格(¥) | 店铺 | 归属 | 来源 |
-|---|---|---|---|---|
-| Google AI Pro会员 学生会员一年续期【要有学生资格认证的号】 | ¥0.01 | RenWin | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini3个月Pro激活链接\|需要绑卡\|可使用反重力\| | ¥2.58 | GPT-源头供货-招代理 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini3个月Pro激活链接\|需要绑卡\|可使用反重力\| | ¥3.61 | 梦泽 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini Pro 18个月 Google One 5TB（兑换链接,不需要绑卡 | ¥3.91 | RenWin | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini 3.5pro家庭组（月卡） | ¥3.98 | Ai俱乐部 | 链动小铺 | AI号探 |
-| Gemini Pro  3个月链接 | ¥4 | 以太 AI服务订阅充值 | 自建/未知 | OpenPrice |
-| Gemini3个月Pro激活链接\|需要绑卡\|可使用反重力\| | ¥4.02 | YaHo🐯GPT全网低价 | 未知SaaS(wzyp.cn) | OpenPrice |
-| （1个起）Google ai pro三个月领取优惠链接（couresa渠道） | ¥4.5 | AI 能量小店 | 自建/未知 | OpenPrice |
-| JIO Gemini pro 18个月 兑换链接 \| 考虑售后请提前录屏 | ¥4.53 | IKUN货源 | 未知SaaS(wzyp.cn) | OpenPrice |
-| 【绝版】Gemini Pro 18个月 Google One 5TB（兑换链接 | ¥4.64 | 双子星AI | 未知SaaS(wzyp.cn) | OpenPrice |
-| JIO Gemini pro 18个月 兑换链接 \| 考虑售后请提前录屏 | ¥4.86 | GGbond ai | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini AI Pro 18个月权益【官方链接直接领取】无质保~ | ¥5.1 | RenWin | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini 18个月 pro 特价出一批 群友特供  不是成品看清楚（活动10月25日结束 | ¥5.15 | gemini源头直供 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini AI Pro 18个月权益【官方链接直接领取】无质保~ | ¥5.47 | GGbond ai | 未知SaaS(wzyp.cn) | OpenPrice |
-| Gemini18个月Pro激活链接\|无需绑卡\|可使用反重力\|直接激活\| | ¥5.83 | GGbond ai | 未知SaaS(wzyp.cn) | OpenPrice |
-
-[↑ 目录](#toc)
-
-<a id="shop-ultra-20x"></a>
-### Google AI Ultra 20x Top 15
-
-| 商品 | 价格(¥) | 店铺 | 归属 | 来源 |
-|---|---|---|---|---|
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥203.0 | 懂你AI的小铺 | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥203.04 | 如鱼得水(玩转ai) | 链动小铺 | AI号探 |
-| 【全程质保30天】Gemini Ultra 20x 家庭组席位\|随机Flow积分 | ¥204.85 | Tim的AI便利店 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥206.8 | 各类低价对接汇总 | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥206.8 | 牟利ai | 链动小铺 | AI号探 |
-| Veo3.1-无积分的Ultra20x企业版【不可以用反重力】 | ¥210 | 全网最低批发ai账号 | 自建/未知 | OpenPrice |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥218.0 | 奥特曼严选 | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥224.54 | 奥特曼严选 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥225.6 | 比特拈花 | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥225.6 | ai小头 | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥232.37 | 比特拈花 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥236.88 | 小🐏阳AI精选店 | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥238.0 | 胡小阳的AI店铺（招代理） | 链动小铺 | AI号探 |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥245.14 | （彩虹马）筱博的小店 | 未知SaaS(wzyp.cn) | OpenPrice |
-| Google AI Ultra 20x【质保订阅】支持Antigravity反重力｜家庭组邀 | ¥263.2 | 🐓PT-Plus | 链动小铺 | AI号探 |
-
-[↑ 目录](#toc)
-
-<a id="shop-list"></a>
-### 店铺速览（按商品数 Top 20）
-
-| 店铺 | 归属 | 品类 | 价位(¥) | 来源 |
-|---|---|---|---|---|
-| GGbond ai | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.12-11433 | OpenPrice |
-| 梦泽 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.01-3325.87 | AI号探/OpenPrice |
-| Alexander | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0-3419.6 | AI号探/OpenPrice |
-| harvey | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.06-2263.73 | OpenPrice |
-| 派大星 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.06-2263.73 | OpenPrice |
-| chiyu | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.04-3440.2 | AI号探/OpenPrice |
-| 🛍 壹号铺 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.04-5665 | OpenPrice |
-| AccHarbor | 自建/未知 | 其它/邮箱 | 0.9-1073.04 | OpenPrice |
-| 陆柒科技 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/其它/邮箱 | 0.32-2884 | AI号探/OpenPrice |
-| team最后的余晖 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/Gemini Ultra/Grok/其它/邮箱 | 0.07-10300 | AI号探/OpenPrice |
-| 比特拈花 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0-3625.6 | AI号探/OpenPrice |
-| 自行车 Ai 店铺 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/Grok/Kiro/其它/邮箱 | 0.04-3499.94 | AI号探/OpenPrice |
-| Xm API | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/其它/邮箱 | 0.07-102999 | OpenPrice |
-| RenWin | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Kiro/其它/邮箱 | 0-3347.5 | OpenPrice |
-| （彩虹马）筱博的小店 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Cursor/Gemini/Gemini Ultra/Grok/其它/邮箱 | 1.99-3296 | OpenPrice |
-| 橙子AI源头(全网最低源头) | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/Grok/其它/邮箱 | 0.01-1812.8 | OpenPrice |
-| 奥特曼严选 | 未知SaaS(wzyp.cn) | ChatGPT/Cursor/Gemini/Gemini Ultra/Grok/Kiro/其它/邮箱 | 0.21-1122.7 | AI号探/OpenPrice |
-| YaHo🐯GPT全网低价 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/Kiro/其它/邮箱 | 0-3285.7 | OpenPrice |
-| recardai | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/其它/邮箱 | 0.1-1895.2 | OpenPrice |
-| ai小头 | 未知SaaS(wzyp.cn) | ChatGPT/Claude/Gemini/Gemini Ultra/Grok/其它/邮箱 | 1.13-1461.57 | AI号探/OpenPrice |
-
-完整店铺与商品：[shops.csv](data/shops/shops.csv) · [products.csv](data/shops/products.csv)
-
-[↑ 目录](#toc)
-
 <a id="files"></a>
 ## 数据文件
 
 | 路径 | 内容 |
 |---|---|
-| `data/relays/relays.csv` | 中转站主表（域名/评分/模型） |
+| `data/relays/relays.csv` | 中转站主表（1740 站） |
 | `data/relays/relay-models.csv` | 站 × 模型 × 价格（12774 条） |
 | `data/relays/relay-systems.csv` | 中转站软件名录 |
-| `data/relays/by-model/` | 142 个模型榜单 + index |
-| `data/shops/platforms.csv` | 发卡平台 |
-| `data/shops/systems.csv` | 发卡系统 |
-| `data/shops/shops.csv` | 店铺主表 |
-| `data/shops/products.csv` | 商品报价（10646 条） |
+| `data/relays/by-model/` | 按模型榜单（1353 个模型） |
+| `data/shops/platforms.csv` / `systems.csv` | 发卡平台 / 系统 |
+| `data/shops/shops.csv` | 店铺主表（314） |
+| `data/shops/products.csv` | 商品报价（10646） |
 | `data/raw/` | 原始产物与溯源 |
 | `data/stats.md` | 数据概览 |
 
@@ -351,7 +353,7 @@ python3 tools/normalize.py && python3 tools/normalize_shops.py \
 | 文档 | 内容 |
 |---|---|
 | [pricing-basics.md](docs/pricing-basics.md) | 倍率/价格怎么算 |
-| [glossary.md](docs/glossary.md) | 黑话表（质保/首登/RT/反重力/拼车…） |
+| [glossary.md](docs/glossary.md) | 黑话表 |
 | [how-to-choose.md](docs/how-to-choose.md) | 怎么选上游 / 避坑 |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 贡献格式 |
 
