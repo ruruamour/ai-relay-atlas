@@ -17,7 +17,7 @@ for r in rows:
     if p<=0: continue
     prev=by[key].get(d)
     if prev is None or p<prev[0]: by[key][d]=(p,r['output_usd_m'],r['group'],r['group_ratio'],r['model'],r['promo'])
-targets=['gemini-4-argon','mimo-v2.6-pro','mimo-v2.6-flash','mimo-v2.5-pro','mimo-v2.5','grok-4.5','gemini-3.8-flash','gemini-3.7-flash','gemini-2.5-flash']
+targets=sorted([k for k,v in by.items() if len(v)>=8], key=lambda k:-len(by[k]))
 index=['# 按模型榜单\n','> 价格为推算实际价（USD/1M 输入），未对账；已排除 0 价与免费组。\n']
 for key in targets:
     items=by.get(key)

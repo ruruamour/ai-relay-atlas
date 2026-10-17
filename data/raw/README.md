@@ -1,44 +1,24 @@
-# Gemini 上游价格数据（nuoapi.net 选型）
+# 原始抓取产物
 
-抓取日期：2026-09-23/24。来源：Veridrop Gemini 榜（427 域名）+ 各站公开价格接口/页面。
+本目录保留归一化前的原始文件，便于溯源与复现。**不作为对外主表**，主表见 `../relays/`、`../shops/`。
 
-## 覆盖率（全 427 域名）
+| 文件 | 内容 | 抓取日 |
+|---|---|---|
+| `coverage.csv` | Veridrop 收录站覆盖情况（427 站） | 2026-09-24 |
+| `gemini-stations.csv` | Gemini 站结构化提取（233 站） | 2026-09-24 |
+| `gemini-prices-long.csv` | 站×Gemini 模型×价格（9194 行） | 2026-09-24 |
+| `gemini-ranking.md` / `ALL-prices.md` / `BY-RATIO.md` | Gemini 排名与比价 | 2026-09-24/25 |
+| `custom-rendered.csv/md` | 浏览器渲染解析的自建站 | 2026-09-25 |
+| `mimo-family-*` | mimo 家族扫描（439 站） | 2026-10-02 |
+| `mimo-both-pro.md` / `mimo-shortlist.md` | 2.5pro+2.6pro 双有站点 / 采购短名单 | 2026-10-05 |
+| `grok-4.5-providers.csv/md` | grok-4.5 扫描（1150 站） | 2026-10-08 |
+| `gemini-4-argon-providers.csv/md` | Gemini 4 Argon 扫描（551 站） | 2026-10-14 |
+| `google-card-offers.csv` | OpenPrice Google/Gemini 商品（669 条） | 2026-10-16 |
+| `google-ultra-offers.csv` | Google Ultra 商品（43 条） | 2026-10-16 |
+| `google-*-发卡行情.md` / `google-ultra-20x.md` | Google 会员发卡行情整理 | 2026-10-16 |
+| `aihaotan-goods.json` | AI号探商品（204 条） | 2026-10-16 |
+| `openprice-offers.json` | OpenPrice 全量报价（9820 条） | 2026-10-16 |
+| `ultra20x-shops.json` | Ultra 20x 店铺链接映射 | 2026-10-16 |
+| `ultra-and-vertex.md` | Ultra + Vertex/Aistudio 渠道 | 2026-10-16 |
 
-| 状态 | 数量 | 说明 |
-|---|---:|---|
-| **有 Gemini 价格** | **250** | 结构化 233 + 自建站 17（去重后） |
-| 自建站、无公开 Gemini 价格 | 86 | 首页 200，但价格页/接口不含 Gemini |
-| 不可达 | 65 | 超时/连接失败/死站 |
-| New-API 关闭注册 | 18 | 无法取登录后价格 |
-| New-API 需登录、已尝试但无 Gemini | 8 | 注册成功但 API 无 Gemini 模型 |
-
-逐域名状态见 `coverage.csv`。
-
-## 文件
-
-| 文件 | 内容 |
-|---|---|
-| `gemini-ranking.md` | 结构化站（New-API/Sub2API，含登录后）按 3.8 Flash 输入价排序，含分组倍率、折扣标签、Veridrop |
-| `gemini-stations.csv` | 一站一行的汇总（各 Flash 档位最低价、分组、充值/活动） |
-| `gemini-prices-long.csv` | 站×模型长表，保留 `raw`/`billing_expr` 原始字段与价格口径 |
-| `custom-rendered.md` / `custom-rendered.csv` | 自建站/SPA：浏览器渲染价格页 + pi 抽取 |
-| `PLAN.md` | 全量采集计划与数据模型 |
-
-## 数据来源与可信度
-
-- **结构化（229→232 家）**：New-API `/api/pricing`、Sub2API `/api/v1/model-plaza`、`transit snapshot`、`/api/ratio_config`；部分站需注册登录后取。
-  - New-API 价格 = `model_ratio × group_ratio × $2`（推算，标 `ratio`）；
-  - Sub2API/transit 给的是显式 `input_price/output_price`（标 `explicit_token`，更可信）；
-  - 带 `billing_expr` 的以原公式为准（标 `expr`）。
-- **自建站（13 家）**：浏览器渲染公开价格页，pi 抽取。
-- 所有值都是公开配置/页面推算，**未用真实账单核对**。最便宜的组多是福利/引流组，不代表默认可用。
-
-## 账号
-
-注册账号（用户名/密码/token）存于仓库外：`~/.codex/gemini-research/accounts.json`。**不要提交进仓库。**
-
-## 已知限制
-
-- Veridrop 榜显示 473 家，页面实际只渲染 ~427 个唯一域名（36–80 名次坑位不渲染）。
-- 部分站价格/活动需登录；部分用 Turnstile/Cap 人机验证。
-- 榜单实时重排，位置会漂移；已按域名去重。
+> 价格为公开页面推算值，未对账；版权归各来源站，见根目录 `DATA-LICENSE.md`。

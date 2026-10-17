@@ -43,6 +43,17 @@ tools/                  # 抓取与归一化脚本（手动运行，无 CI）
 - `system`：自建店所用发卡系统（独角数卡/异次元发卡/ZFAKA…）。
 - `domain`：**纯文本**，仅作标识，非购买入口。
 
+## 快速查看
+- 数据概览：[data/stats.md](data/stats.md)
+- 按模型榜单：[data/relays/by-model/index.md](data/relays/by-model/index.md)
+- 原始产物与溯源：[data/raw/README.md](data/raw/README.md)
+
+## 查询
+```bash
+python3 tools/query.py model gemini-4-argon --n 30
+python3 tools/query.py domain api.openlux.ai
+```
+
 ## 数据来源
 OpenPrice、水獭比价（shuita.xyz）、PriceAI、AI号探、AiFaKa 名单、Veridrop，以及各中转站公开的 `/api/pricing`、`/api/v1/model-plaza` 等接口。详见 [DATA-LICENSE.md](DATA-LICENSE.md)。
 
