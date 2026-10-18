@@ -27,24 +27,7 @@
 |---|---|
 | New-API | 1691 |
 | Sub2API | 322 |
-| 未知 | 163 |
-| 12ZX AI API | 1 |
-| AIHubMix | 1 |
-| airoute | 1 |
-| Sora API | 1 |
-| yuegle API | 1 |
-| 星辰 API | 1 |
-| hiflowtAPI | 1 |
-| 跨境BotAPI | 1 |
-| loptu | 1 |
-| SWT-AI_API（Free） | 1 |
-| New API | 1 |
-| SeekAi | 1 |
-| Dataseq | 1 |
-| aicost API | 1 |
-| CICI | 1 |
-| DMXAPI官网：中国大模型API聚合平台 | 1 |
-| MN API | 1 |
+| 未知 | 180 |
 
 ## 模型家族
 

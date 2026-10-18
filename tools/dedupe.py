@@ -259,6 +259,10 @@ def main():
             r['source'] = s
             srcs.add(s)
         system = ci.get('system') or ci.get('system_name') or ''
+        if system not in ('New-API', 'Sub2API', 'One-API', 'Veloera', 'VoAPI', 'Done-Hub', 'OhMyGPT'):
+            if system and not ci.get('name'):
+                ci['name'] = system  # 旧数据把站名填进了 system 列
+            system = ''
         if any(s.startswith('newapi') for s in srcs):
             system = 'New-API'
         elif any(s.startswith('sub2api') for s in srcs):
