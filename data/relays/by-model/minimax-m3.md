@@ -1,60 +1,123 @@
 # minimax-m3
 
-> 576 站提供 · 正常价 381 站 · 中位价 **$0.693**（$/1M 输入）· 推算，未对账
+> 581 站提供 · 正常价 381 站 · 名义中位价 **$0.675**/1M 输入 · 实付中位价 **¥1.35**/1M 输入（299 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `api.unorouter.com` | $0.0315 | $0.126 | ih-cb-minimax-m3 | 0.105 | minimax-m3 |
-| 2 | `gpt.gptzzz.xyz` | $0.0525 | $0.21 | GPT | 0.25 | MiniMax-M3 |
-| 3 | `ai.lt4net.org` | $0.06 | $0.24 | opencode | 0.2 | MiniMax-M3 |
-| 4 | `api.yunnet.top` | $0.06 | $0.24 | MiniMax | 0.2 | MiniMax-M3 |
-| 5 | `nb.deepsb.com` | $0.06 | $0.24 | 一折国模大杂烩 | 0.1 | minimax-m3 |
-| 6 | `puppyrouter.com` | $0.06 | $0.24 | chinese-models | 0.2 | MiniMax-M3 |
-| 7 | `sub.pikaqiu.shop` | $0.06 | $0.24 | 国模大杂烩 | 0.1 | minimax-m3 |
-| 8 | `ideastead.com` | $0.075 | $0.3 | Opencode | 0.25 | minimax-m3 |
-| 9 | `qwer069.com` | $0.08 | $0.3 | ds4.1 | 0.02 | minimax-m3 |
-| 10 | `closedai.kylenqaq.com` | $0.084 | $0.336 | 国模3 | 0.04 | minimax-m3 |
-| 11 | `airouter.dev` | $0.09 | $0.36 | default | 0.3 | minimax/minimax-m3 |
-| 12 | `cortexlane.cloud` | $0.09 | $0.36 | 国模 | 0.3 | minimax-m3 |
-| 13 | `hk.moleapi.com` | $0.09 | $0.36 | relay | 0.3 | minimax-m3 |
-| 14 | `ikun.love` | $0.09 | $0.36 | 国模 | 0.4 | minimax-m3 |
-| 15 | `moliapi.cloud` | $0.09 | $0.36 | 国产model-minimax-m3 | 0.3 | minimax-m3 |
-| 16 | `newapi.qwqtao.com` | $0.09 | $0.36 | Minimax | 0.3 | MiniMax-M3 |
-| 17 | `api.arithcore.com` | $0.099 | $0.396 | 国模分组全有 | 0.33 | minimax-m3 |
-| 18 | `ai.mggoo.com` | $0.105 | $0.42 | 国模(聚合分组) | 0.05 | minimax-m3 |
-| 19 | `code.ciyuanapi.xyz` | $0.105 | $0.42 | wb国产模型 | 0.05 | minimax-m3 |
-| 20 | `moyuu.cc` | $0.105 | $0.105 | 🥚测 | 0.05 | minimax-m3 |
-| 21 | `tokenus.net` | $0.105 | $0.42 | default | 1 | minimax-m3 |
-| 22 | `www.lingzhan.top` | $0.105 | $0.42 | 反代国模(自营反代号池) | 0.05 | minimax-m3 |
-| 23 | `www.treeapi.online` | $0.105 | $0.21 | tree自营 | 0.05 | minimax-m3 |
-| 24 | `you.loveme.space` | $0.105 | $0.42 | 国产模型-workbuddy | 0.05 | MiniMax-M3 |
-| 25 | `aiapibank.com` | $0.147 | $0.588 | GPT低价分组 | 0.07 | minimax-m3 |
-| 26 | `api-x.top` | $0.15 | $0.6 | default | 0.5 | minimax-m3 |
-| 27 | `api.flashcode.cc` | $0.15 | $0.6 | MiniMax 官转 | 0.25 | minimax-m3 |
-| 28 | `api.openlux.ai` | $0.15 | $0.6 | Self-Deployed-2 | 0.5 | MiniMax-M3 |
-| 29 | `api.relayrouter.ai` | $0.15 | $0.6 | Self-Deployed-2 | 0.5 | MiniMax-M3 |
-| 30 | `ioll.pp.ua` | $0.15 | $0.15 | nvidia专区 | 0.5 | MiniMax-M3 |
-| 31 | `llm.kagu.one` | $0.15 | $0.6 | 大杂烩 | 0.5 | minimax-m3 |
-| 32 | `newapi.relayport17.asia` | $0.15 | $0.6 | 国产模型 | 0.5 | minimax-m3 |
-| 33 | `officesai.top` | $0.15 | $0.6 | 基础普及通道 | 0.15 | minimax-m3 |
-| 34 | `api.tidewhisper-ai.xyz` | $0.165 | $0.66 | Self-Deployed-2 | 0.55 | MiniMax-M3 |
-| 35 | `gzxbykj.com` | $0.165 | $0.66 | Self-Deployed-2 | 0.55 | MiniMax-M3 |
-| 36 | `www.kk-vibe.top` | $0.168 | $0.672 | 国产大模型 0.08倍率 | 0.08 | minimax-m3 |
-| 37 | `v2.cloudmist.cloud` | $0.1725 | $0.69 | Self-Deployed-2 | 0.575 | MiniMax-M3 |
-| 38 | `api.okinto.com` | $0.18 | $0.72 | 随时挂 玩具分组 | 0.6 | MiniMax-M3 |
-| 39 | `api.syon.ai` | $0.18 | $0.72 | default | 0.6 | minimax-m3 |
-| 40 | `kimera.cc` | $0.18 | $0.72 | 国产模型聚合 超低价 | 0.3 | minimax-m3 |
-| 41 | `tokeness.io` | $0.18 | $0.72 | default | 0.6 | minimax-m3 |
-| 42 | `www.vectronode.com` | $0.18 | $0.72 | Self-Deployed-2 | 0.6 | MiniMax-M3 |
-| 43 | `routerra.ai` | $0.184 | $0.767998 | default | 1 | minimax-m3 |
-| 44 | `api.zcloudapi.com` | $0.186986 | $0.747945 | 国产模型 | 0.65 | minimax-m3 |
-| 45 | `ciyuan.today` | $0.1875 | $0.75 | Self-Deployed-2 | 0.625 | MiniMax-M3 |
-| 46 | `gptapi.top` | $0.1875 | $0.75 | Self-Deployed-2 | 0.625 | MiniMax-M3 |
-| 47 | `makerend.com` | $0.1875 | $0.75 | Self-Deployed-2 | 0.625 | MiniMax-M3 |
-| 48 | `ai.furry.vg` | $0.189 | $0.756 | default | 1 | MiniMax-M3 |
-| 49 | `moliapi.com` | $0.189 | $0.756 | Self-Deployed-2 | 0.63 | MiniMax-M3 |
-| 50 | `ai-api.cc` | $0.195 | $0.78 | Self-Deployed-2 | 0.65 | MiniMax-M3 |
+## 实付价（按 ¥ 排序）
 
-> 另有 331 站未列出；195 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.unorouter.com` | ¥0.0315 | $0.0315 / $0.126 | 1 | ih-cb-minimax-m3 | minimax-m3 |
+| 2 | `gpt.gptzzz.xyz` | ¥0.0525 | $0.0525 / $0.21 | 1 | GPT | MiniMax-M3 |
+| 3 | `api.yunnet.top` | ¥0.06 | $0.06 / $0.24 | 1 | MiniMax | MiniMax-M3 |
+| 4 | `closedai.kylenqaq.com` | ¥0.084 | $0.084 / $0.336 | 1 | 国模3 | minimax-m3 |
+| 5 | `cortexlane.cloud` | ¥0.09 | $0.09 / $0.36 | 1 | 国模 | minimax-m3 |
+| 6 | `ikun.love` | ¥0.09 | $0.09 / $0.36 | 1 | 国模 | minimax-m3 |
+| 7 | `moliapi.cloud` | ¥0.09 | $0.09 / $0.36 | 1 | 国产model-minimax-m3 | minimax-m3 |
+| 8 | `newapi.qwqtao.com` | ¥0.09 | $0.09 / $0.36 | 1 | Minimax | MiniMax-M3 |
+| 9 | `api.arithcore.com` | ¥0.099 | $0.099 / $0.396 | 1 | 国模分组全有 | minimax-m3 |
+| 10 | `code.ciyuanapi.xyz` | ¥0.105 | $0.105 / $0.42 | 1 | wb国产模型 | minimax-m3 |
+| 11 | `moyuu.cc` | ¥0.105 | $0.105 / $0.105 | 1 | 🥚测 | minimax-m3 |
+| 12 | `www.treeapi.online` | ¥0.105 | $0.105 / $0.21 | 1 | tree自营 | minimax-m3 |
+| 13 | `api.flashcode.cc` | ¥0.15 | $0.15 / $0.6 | 1 | MiniMax 官转 | minimax-m3 |
+| 14 | `api.openlux.ai` | ¥0.15 | $0.15 / $0.6 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 15 | `api.relayrouter.ai` | ¥0.15 | $0.15 / $0.6 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 16 | `api.tidewhisper-ai.xyz` | ¥0.165 | $0.165 / $0.66 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 17 | `gzxbykj.com` | ¥0.165 | $0.165 / $0.66 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 18 | `www.vectronode.com` | ¥0.18 | $0.18 / $0.72 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 19 | `routerra.ai` | ¥0.184 | $0.184 / $0.767998 | 1 | default | minimax-m3 |
+| 20 | `ciyuan.today` | ¥0.1875 | $0.1875 / $0.75 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 21 | `gptapi.top` | ¥0.1875 | $0.1875 / $0.75 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 22 | `makerend.com` | ¥0.1875 | $0.1875 / $0.75 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 23 | `ai.furry.vg` | ¥0.189 | $0.189 / $0.756 | 1 | default | MiniMax-M3 |
+| 24 | `moliapi.com` | ¥0.189 | $0.189 / $0.756 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 25 | `ai-api.cc` | ¥0.195 | $0.195 / $0.78 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 26 | `nodapi.com` | ¥0.198 | $0.198 / $0.792 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 27 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.8 | 1 | relay | minimax-m3 |
+| 28 | `infinityrouter.dev` | ¥0.2 | $0.2 / $0.9 | 1 | max | minimax-m3 |
+| 29 | `yyapis.com` | ¥0.2 | $0.2 / $0.2 | 1 | default | minimax-m3 |
+| 30 | `anyaigc.ai` | ¥0.2025 | $0.2025 / $0.81 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 31 | `direct.mianyouyou.xyz` | ¥0.21 | $0.21 / $0.84 | 1 | KIMI超低 | MiniMax-M3 |
+| 32 | `momoapi.xin` | ¥0.21 | $0.21 / $0.84 | 1 | minimax | MiniMax-M3 |
+| 33 | `nexaxis.ai` | ¥0.21 | $0.21 / $0.84 | 1 | 国模 | MiniMax-M3 |
+| 34 | `sheepaiplus.top` | ¥0.21 | $0.21 / $0.84 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 35 | `xiguapi.icu` | ¥0.21 | $0.21 / $0.84 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 36 | `api.88api.chat` | ¥0.225 | $0.225 / $0.9 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 37 | `api.videocaptioner.cn` | ¥0.225 | $0.225 / $0.9 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 38 | `api.zdzui.xyz` | ¥0.228 | $0.228 / $0.912 | 1 | 国模 | minimax-m3 |
+| 39 | `api.huitex.top` | ¥0.2485 | $0.2485 / $1.2425 | 1 | default | minimax-m3 |
+| 40 | `api.nixapi.com` | ¥0.2535 | $0.2535 / $1.014 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 41 | `hetune.top` | ¥0.273 | $0.273 / $1.092 | 1 | 国模统一分组 | MiniMax-M3 |
+| 42 | `wzw.pp.ua` | ¥0.28 | $0.28 / $1.1 | 1 | default | minimaxai/minimax-m3 |
+| 43 | `coneverse.com` | ¥0.287671 | $0.287671 / $1.15068 | 1 | supply-f261dde23193b530a853e9ab | MiniMax-M3 |
+| 44 | `infistar.ai` | ¥0.287671 | $0.287671 / $1.15068 | 1 | supply-f261dde23193b530a853e9ab | MiniMax-M3 |
+| 45 | `aiwuje.com` | ¥0.3 | $0.3 / $1.2 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 46 | `api.echoflowai.cc` | ¥0.3 | $0.3 / $1.2 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 47 | `api.n1n.ai` | ¥0.3 | $0.3 / $1.2 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 48 | `api.quickrouter.ai` | ¥0.3 | $0.3 / $1.2 | 1 | Self-Deployed-2 | MiniMax-M3 |
+| 49 | `api.tokenreply.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
+| 50 | `crowllm.com` | ¥0.3 | $0.3 / $1.25 | 1 | pro | minimax-m3 |
+
+> 另有 249 站未列出。
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `kuafushe.cc` | $0.042 / $0.168 | 国模-王炸组 | 0.02 | minimax-m3 |
+| 2 | `nb.deepsb.com` | $0.06 / $0.24 | 一折国模大杂烩 | 0.1 | minimax-m3 |
+| 3 | `sub.pikaqiu.shop` | $0.06 / $0.24 | 国模大杂烩 | 0.1 | minimax-m3 |
+| 4 | `qwer069.com` | $0.08 / $0.3 | ds4.1 | 0.02 | minimax-m3 |
+| 5 | `ai.mggoo.com` | $0.105 / $0.42 | 国模(聚合分组) | 0.05 | minimax-m3 |
+| 6 | `mgoole.com` | $0.105 / $0.42 | 国模(聚合分组) | 0.05 | minimax-m3 |
+| 7 | `www.lingzhan.top` | $0.105 / $0.42 | 反代国模(自营反代号池) | 0.05 | minimax-m3 |
+| 8 | `you.loveme.space` | $0.105 / $0.42 | 国产模型-workbuddy | 0.05 | MiniMax-M3 |
+| 9 | `aiapibank.com` | $0.147 / $0.588 | GPT低价分组 | 0.07 | minimax-m3 |
+| 10 | `newapi.relayport17.asia` | $0.15 / $0.6 | 国产模型 | 0.5 | minimax-m3 |
+| 11 | `officesai.top` | $0.15 / $0.6 | 基础普及通道 | 0.15 | minimax-m3 |
+| 12 | `mzeapi.top` | $0.168 / $0.672 | 国模-【MINIMAX】 | 0.08 | minimax-m3 |
+| 13 | `www.kk-vibe.top` | $0.168 / $0.672 | 国产大模型 0.08倍率 | 0.08 | minimax-m3 |
+| 14 | `api.okinto.com` | $0.18 / $0.72 | 随时挂 玩具分组 | 0.6 | MiniMax-M3 |
+| 15 | `kimera.cc` | $0.18 / $0.72 | 国产模型聚合 超低价 | 0.3 | minimax-m3 |
+| 16 | `sub2.molytea.ccwu.cc` | $0.2 / $0.8 | MIMO | 0.1 | minimax-m3 |
+| 17 | `api.123uq.com` | $0.21 / $0.84 | 牛逼国模听话 | 0.1 | MiniMax-M3 |
+| 18 | `api.247kan.com` | $0.21 / $0.84 | 国模按量分组（0.1稳定组）全天稳定 | 0.1 | MiniMax-M3 |
+| 19 | `codexauv.com` | $0.21 / $0.84 | 国产模型聚合-Workbuddy渠道 | 0.1 | minimax-m3 |
+| 20 | `kittyapi.xyz` | $0.21 / $0.84 | 国产-MiniMax 【特殊渠道】 | 1 | minimax-m3 |
+| 21 | `llm.twinight.co` | $0.21 / $0.84 | 国模按量分组（0.1稳定组）全天稳定 | 0.1 | MiniMax-M3 |
+| 22 | `tokenkey.vip` | $0.21 / $0.84 | 【国模大全分组】 | 1 | minimax-m3 |
+| 23 | `tuzkiapi.tuzki.online` | $0.21 / $0.84 | 国模官key兜底(90%+缓存) | 0.1 | MiniMax-M3 |
+| 24 | `worldcodes.online` | $0.21 / $0.84 | 【国模聚合3】优选池 · Pro | 0.1 | minimax-m3 |
+| 25 | `api.coderplan.ai` | $0.24 / $0.96 | open | 0.8 | minimax-m3 |
+| 26 | `inferaichat.com` | $0.3 / $1.2 | auto分组 | 1 | minimax-m3 |
+| 27 | `pro.fan142.top` | $0.3 / $1.2 | coding api | 1 | MiniMaxAI/MiniMax-M3 |
+| 28 | `88.scxai.top` | $0.315 / $1.26 | 创世の鑫元 | 0.15 | MiniMax-M3 |
+| 29 | `api.xiaojue.cloud` | $0.315 / $1.26 | 国模 | 0.15 | minimax-m3 |
+| 30 | `zhiyuanapis.top` | $0.315 / $1.26 | 国内模型 | 0.15 | MiniMax-M3 |
+| 31 | `api.tcvps.cn` | $0.32 / $1.2 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | minimax-m3 |
+| 32 | `www.ohmycodex.cn` | $0.357 / $1.428 | MiniMax | 0.17 | MiniMax-M3 |
+| 33 | `api.nornless.com` | $0.368333 / $1.43083 | 国产模型 按量 | 1 | MiniMax-M3 |
+| 34 | `ltgpt.xyz` | $0.378 / $1.512 | 国模分组A 0.18 | 0.18 | MiniMax-M3 |
+| 35 | `genshin.darkprometheus.top` | $0.3843 / $1.5372 | MiniMax | 0.183 | MiniMax-M3 |
+| 36 | `ai.blue1.top` | $0.4 / $1.5 | 国模（定价看右上角模型广场 ） | 0.1 | minimax-m3 |
+| 37 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | cn:minimax-m3 |
+| 38 | `api.boluomiapi.cc` | $0.42 / $1.68 | Z04-其他国模 | 0.2 | MiniMax-M3 |
+| 39 | `api.hyhawang.com` | $0.42 / $1.68 | 国模低价 | 0.2 | minimax-m3 |
+| 40 | `api.kcne.top` | $0.42 / $1.68 | 国模组 | 1.4 | minimax-m3 |
+| 41 | `api.maixun.icu` | $0.42 / $1.68 | 国模（多模型） | 0.1 | minimax-m3 |
+| 42 | `api.openai.fans` | $0.42 / $1.68 | MiniMax-sale | 0.2 | MiniMax-M3 |
+| 43 | `api.relaylink.cloud` | $0.42 / $1.68 | 国模分组 | 0.2 | MiniMax-M3 |
+| 44 | `okmcode.com` | $0.42 / $1.68 | 国模cc兼容 | 0.2 | MiniMax-M3 |
+| 45 | `panel.hanhegufei.online` | $0.42 / $1.68 | minimax | 0.2 | minimax-m3 |
+| 46 | `rapidapi.cc` | $0.42 / $1.68 | 国模一组 | 0.2 | minimax-m3 |
+| 47 | `tokai.cc` | $0.42 / $1.68 | 国模 | 0.2 | minimax-m3 |
+| 48 | `api.hy88.my` | $0.4944 / $1.9776 | minimax | 0.8 | MiniMax-M3 |
+| 49 | `sub.skypoem.top` | $0.525 / $2.1 | Muse | 0.25 | minimax-m3 |
+| 50 | `www.tokens1688.com` | $0.575342 / $2.30137 | default | 1 | MiniMax-M3 |
+
+> 另有 32 站未列出。
+
+> 200 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

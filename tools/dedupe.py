@@ -8,21 +8,17 @@
 用法: python3 tools/dedupe.py [--recheck-wildcard]
 """
 import argparse
-import concurrent.futures as cf
 import hashlib
+import re
 import json
 import os
-import random
-import socket
 import statistics
-import string
 import sys
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *  # noqa
 
-WILDCARD_CACHE = os.path.join(SOURCES, 'wildcard-dns.json')
 SUMMARY = path('data', 'relays', 'summary.json')
 SRC_MAP = {
     'scan:plaza': 'sub2api:/api/v1/model-plaza', 'plaza': 'sub2api:/api/v1/model-plaza',
@@ -30,35 +26,6 @@ SRC_MAP = {
     'scan': 'newapi:/api/pricing',
 }
 RANK = {'veridrop': 0, 'github-list': 1, 'scan': 2}
-
-
-def _rand(n=10):
-    return ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(n))
-
-
-def _resolves(host):
-    try:
-        socket.getaddrinfo(host, 443, proto=socket.IPPROTO_TCP)
-        return True
-    except Exception:
-        return False
-
-
-def wildcard_map(hosts, recheck=False):
-    cache = {}
-    if os.path.exists(WILDCARD_CACHE) and not recheck:
-        cache = json.load(open(WILDCARD_CACHE))
-    todo = sorted(h for h in hosts if h not in cache)
-    if todo:
-        if _resolves('zz%s.com' % _rand(16)):  # 解析器劫持 NXDOMAIN 时无法判断
-            print('! DNS 解析器劫持了不存在的域名，跳过泛解析检测')
-            return cache
-        print('泛解析检测', len(todo), '个主机…', flush=True)
-        with cf.ThreadPoolExecutor(64) as ex:
-            for h, ok in zip(todo, ex.map(lambda h: _resolves('zz%s.%s' % (_rand(), h)), todo)):
-                cache[h] = ok
-        json.dump(cache, open(WILDCARD_CACHE, 'w'), indent=0, sort_keys=True)
-    return cache
 
 
 def nkey(v):
@@ -117,7 +84,14 @@ def main():
             x = par[x]
         return x
 
+    split = set()
+    sp = path('data', 'relays', 'split.txt')
+    if os.path.exists(sp):
+        split = {x.split('#')[0].strip() for x in open(sp, encoding='utf-8')} - {''}
+
     def union(x, y):
+        if x in split or y in split:  # 人工标记为独立站点，不与任何域名合并
+            return
         rx, ry = find(x), find(y)
         if rx != ry:
             par[ry] = rx
@@ -218,6 +192,21 @@ def main():
             else:
                 first[b] = d
 
+    # 规则 4：同一个自定义站名（来自 /api/status 或网页标题；共享托管域除外）
+    #   同可注册域：直接合并；跨可注册域（换后缀）：站名不能只是域名本身（"2API" 之于 2api.xx 不算证据）
+    def nn(x):
+        return re.sub(r'[\s\-_.]+', '', (x or '').lower())
+    first_name = {}
+    for d in sorted(info):
+        n = nn(info[d].get('name'))
+        if len(n) < 3 or is_generic_name(n) or len(hosts_per_rd[registered(d)]) >= 4:
+            continue
+        for k in ([('rd', registered(d), n)] + ([('brand', brand(d), n)] if n != nn(brand(d)) and len(n) >= 4 else [])):
+            if k in first_name:
+                union(first_name[k], d)
+            else:
+                first_name[k] = d
+
     clusters = defaultdict(list)
     for d in doms:
         clusters[find(d)].append(d)
@@ -250,8 +239,9 @@ def main():
             o = info.get(d) or {}
             if score(d) > (num(ci.get('veridrop_score')) or 0):
                 ci['veridrop_score'] = o.get('veridrop_score')
-            if not ci.get('name') and o.get('name'):
-                ci['name'] = o['name']
+            for k in ('name', 'version', 'topup_cny_per_usd'):
+                if not ci.get(k) and o.get(k):
+                    ci[k] = o[k]
         drows = list(by[donor].values()) if donor else []
         srcs = set()
         for r in drows:
@@ -259,7 +249,7 @@ def main():
             r['source'] = s
             srcs.add(s)
         system = ci.get('system') or ci.get('system_name') or ''
-        if system not in ('New-API', 'Sub2API', 'One-API', 'Veloera', 'VoAPI', 'Done-Hub', 'OhMyGPT'):
+        if system not in SYSTEMS + ('One-API', 'Veloera', 'VoAPI', 'Done-Hub', 'OhMyGPT'):
             if system and not ci.get('name'):
                 ci['name'] = system  # 旧数据把站名填进了 system 列
             system = ''
@@ -282,6 +272,7 @@ def main():
             out_rows.append(r)
         out_relays.append(dict(
             domain=can, api_host=api_host, name=ci.get('name', ''), system=system,
+            version=ci.get('version', ''), topup_cny_per_usd=ci.get('topup_cny_per_usd', ''),
             discovered_via=min((via(d) for d in ms), key=lambda v: RANK[v]),
             veridrop_score=ci.get('veridrop_score', ''), n_models=len(drows),
             families='/'.join(c for c in FAMILY_ORDER if c in fams), aliases=len(keep), backend_group='',

@@ -1,60 +1,123 @@
 # qwen3.8-flash
 
-> 399 站提供 · 正常价 305 站 · 中位价 **$0.28**（$/1M 输入）· 推算，未对账
+> 404 站提供 · 正常价 307 站 · 名义中位价 **$0.28**/1M 输入 · 实付中位价 **¥0.45**/1M 输入（241 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `ai.hebox.net` | $0.0135 | $0.0423 | 订阅_专属 | 0.09 | qwen3.8-flash |
-| 2 | `api.banban.plus` | $0.0147945 | $0.0499315 | 国模合集-自部署 | 0.135 | qwen3.8-flash |
-| 3 | `api.yjs.im` | $0.0225 | $0.0705 | OpenModels | 0.15 | qwen3.8-flash |
-| 4 | `hiapi.top` | $0.0225 | $0.0705 | 国模主力 | 0.15 | qwen3.8-flash |
-| 5 | `api.everygpt.site` | $0.03 | $0.094 | Opencode官方套餐 | 0.2 | qwen3.8-flash |
-| 6 | `puppyrouter.com` | $0.03 | $0.094 | chinese-models | 0.2 | qwen3.8-flash |
-| 7 | `yunwu.live` | $0.035625 | $0.120219 | gemini-only-schema | 0.3 | qwen3.8-flash |
-| 8 | `codelypixverse.com` | $0.0384615 | $0.0384615 | default | 1 | qwen3.8-flash |
-| 9 | `you.loveme.space` | $0.04 | $0.135 | 国产模型-workbuddy | 0.05 | qwen3.8-flash |
-| 10 | `ikun.love` | $0.0475 | $0.160292 | 国模 | 0.4 | qwen3.8-flash |
-| 11 | `aiapibank.com` | $0.056 | $0.189 | GPT低价分组 | 0.07 | qwen3.8-flash |
-| 12 | `www.lingzhan.top` | $0.056 | $0.1645 | 反代国模(自营反代号池) | 0.05 | qwen3.8-flash |
-| 13 | `apipaths.com` | $0.06 | $0.64 | 国产模型 | 0.2 | qwen3.8-flash |
-| 14 | `tokencount.aigemini.org` | $0.06 | $0.188 | 孙割国模官方 | 0.4 | qwen3.8-flash |
-| 15 | `www.kk-vibe.top` | $0.064 | $0.216 | 国产大模型 0.08倍率 | 0.08 | qwen3.8-flash |
-| 16 | `api.syon.ai` | $0.07062 | $0.23826 | default | 0.6 | qwen3.8-flash |
-| 17 | `open.cherryin.ai` | $0.0738375 | $0.221513 | default | 1 | qwen/qwen3.8-flash |
-| 18 | `supercodes.vip` | $0.075 | $0.235 | opencode渠道 | 0.5 | qwen3.8-flash |
-| 19 | `api.123uq.com` | $0.08 | $0.27 | 牛逼国模听话 | 0.1 | qwen3.8-flash |
-| 20 | `api.247kan.com` | $0.08 | $0.27 | 国模按量分组（0.1稳定组）全天稳定 | 0.1 | qwen3.8-flash |
-| 21 | `llm.twinight.co` | $0.08 | $0.27 | 国模按量分组（0.1稳定组）全天稳定 | 0.1 | qwen3.8-flash |
-| 22 | `llmhub.net` | $0.08 | $0.27 | default | 1 | qwen3.8-flash |
-| 23 | `sub.pikaqiu.shop` | $0.08 | $0.27 | 国模大杂烩 | 0.1 | qwen3.8-flash |
-| 24 | `worldcodes.online` | $0.08 | $0.27 | 【国模聚合3】优选池 · Pro | 0.1 | qwen3.8-flash |
-| 25 | `wqdsjhaoai.site` | $0.08 | $0.27 | qwen3.8 flash | 0.1 | Qwen3.8-Flash |
-| 26 | `nbapi.pro` | $0.0857143 | $0.289286 | default | 1 | qwen3.8-flash |
-| 27 | `api.tcvps.cn` | $0.088 | $0.256 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | qwen3.8-flash |
-| 28 | `tokeness.io` | $0.09 | $0.282 | default | 0.6 | qwen3.8-flash |
-| 29 | `runapi.co` | $0.094816 | $0.320004 | default | 1 | qwen3.8-flash |
-| 30 | `api.liangrekui.com` | $0.1 | $0.3375 | 国模合集-自部署 | 0.125 | qwen3.8-flash |
-| 31 | `555codex.xyz` | $0.104 | $0.351 | 国产模型 | 0.13 | qwen3.8-flash |
-| 32 | `ai-model.chinaz.net` | $0.109589 | $0.369863 | default | 1 | qwen3.8-flash |
-| 33 | `ai.nodeloc.com` | $0.11 | $0.38 | default | 1 | qwen3.8-flash |
-| 34 | `api.openlux.ai` | $0.1125 | $0.3525 | Alibaba-2 | 0.75 | qwen3.8-flash |
-| 35 | `api.relayrouter.ai` | $0.1125 | $0.3525 | Alibaba-2 | 0.75 | qwen3.8-flash |
-| 36 | `ai.skyee.de` | $0.1126 | $0.380025 | default | 1 | qwen3.8-flash |
-| 37 | `api.apiyi.com` | $0.114 | $0.3876 | default | 1 | qwen3.8-flash |
-| 38 | `apicdn.xyc.ai` | $0.115942 | $0.391304 | qwen-ent | 1 | qwen3.8-flash |
-| 39 | `apicdn.xycai.us` | $0.115942 | $0.391304 | qwen-ent | 1 | qwen3.8-flash |
-| 40 | `api.tokenrouter.com` | $0.1177 | $0.3971 | default | 1 | qwen/qwen3.8-flash |
-| 41 | `coneverse.com` | $0.119057 | $0.401816 | supply-6f9bb603825f94f202124ea1 | 1 | qwen3.8-flash |
-| 42 | `infistar.ai` | $0.119057 | $0.401816 | supply-6f9bb603825f94f202124ea1 | 1 | qwen3.8-flash |
-| 43 | `1.cnmz.de` | $0.12 | $0.405 | 国模精品极致速度分组 | 0.15 | qwen3.8-flash |
-| 44 | `88.scxai.top` | $0.12 | $0.405 | 创世の鑫元 | 0.15 | qwen3.8-flash |
-| 45 | `ai.furry.vg` | $0.12 | $0.405 | default | 1 | qwen3.8-flash |
-| 46 | `codexauv.com` | $0.12 | $0.405 | 国产模型聚合-三方自部署满血渠道 | 0.15 | qwen3.8-flash |
-| 47 | `daoxe.com` | $0.12 | $0.6 | 海外国产模型 | 0.5 | qwen3.8-flash |
-| 48 | `direct.mianyouyou.xyz` | $0.12 | $0.405 | 国产模型补贴分组 | 0.15 | qwen3.8-flash |
-| 49 | `dragon3api.com` | $0.12 | $0.405 | 国模 | 0.15 | qwen3.8-flash |
-| 50 | `modelsell.com` | $0.12 | $0.4 | Alibaba | 1 | qwen3.8-flash |
+## 实付价（按 ¥ 排序）
 
-> 另有 255 站未列出；94 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.banban.plus` | ¥0.0147945 | $0.0147945 / $0.0499315 | 1 | 国模合集-自部署 | qwen3.8-flash |
+| 2 | `api.yjs.im` | ¥0.0225 | $0.0225 / $0.0705 | 1 | OpenModels | qwen3.8-flash |
+| 3 | `hiapi.top` | ¥0.0225 | $0.0225 / $0.0705 | 1 | 国模主力 | qwen3.8-flash |
+| 4 | `api.everygpt.site` | ¥0.03 | $0.03 / $0.094 | 1 | Opencode官方套餐 | qwen3.8-flash |
+| 5 | `yunwu.live` | ¥0.035625 | $0.035625 / $0.120219 | 1 | gemini-only-schema | qwen3.8-flash |
+| 6 | `codelypixverse.com` | ¥0.0384615 | $0.0384615 / $0.0384615 | 1 | vip | qwen3.8-flash |
+| 7 | `ikun.love` | ¥0.0475 | $0.0475 / $0.160292 | 1 | 国模 | qwen3.8-flash |
+| 8 | `apipaths.com` | ¥0.06 | $0.06 / $0.64 | 1 | 国产模型 | qwen3.8-flash |
+| 9 | `tokencount.aigemini.org` | ¥0.06 | $0.06 / $0.188 | 1 | 孙割国模官方 | qwen3.8-flash |
+| 10 | `ai.hebox.net` | ¥0.09855 | $0.0135 / $0.0423 | 7.3 | 订阅_专属 | qwen3.8-flash |
+| 11 | `api.liangrekui.com` | ¥0.1 | $0.1 / $0.3375 | 1 | 国模合集-自部署 | qwen3.8-flash |
+| 12 | `555codex.xyz` | ¥0.104 | $0.104 / $0.351 | 1 | 国产模型 | qwen3.8-flash |
+| 13 | `api.openlux.ai` | ¥0.1125 | $0.1125 / $0.3525 | 1 | Alibaba-2 | qwen3.8-flash |
+| 14 | `api.relayrouter.ai` | ¥0.1125 | $0.1125 / $0.3525 | 1 | Alibaba-2 | qwen3.8-flash |
+| 15 | `coneverse.com` | ¥0.119057 | $0.119057 / $0.401816 | 1 | supply-6f9bb603825f94f202124ea1 | qwen3.8-flash |
+| 16 | `infistar.ai` | ¥0.119057 | $0.119057 / $0.401816 | 1 | supply-6f9bb603825f94f202124ea1 | qwen3.8-flash |
+| 17 | `1.cnmz.de` | ¥0.12 | $0.12 / $0.405 | 1 | 国模精品极致速度分组 | qwen3.8-flash |
+| 18 | `ai.furry.vg` | ¥0.12 | $0.12 / $0.405 | 1 | default | qwen3.8-flash |
+| 19 | `direct.mianyouyou.xyz` | ¥0.12 | $0.12 / $0.405 | 1 | 国产模型补贴分组 | qwen3.8-flash |
+| 20 | `dragon3api.com` | ¥0.12 | $0.12 / $0.405 | 1 | 国模 | qwen3.8-flash |
+| 21 | `daoxe.com` | ¥0.1236 | $0.12 / $0.6 | 1.03 | 海外国产模型 | qwen3.8-flash |
+| 22 | `api.tidewhisper-ai.xyz` | ¥0.12375 | $0.12375 / $0.38775 | 1 | Alibaba-2 | qwen3.8-flash |
+| 23 | `gzxbykj.com` | ¥0.12375 | $0.12375 / $0.38775 | 1 | Alibaba-2 | qwen3.8-flash |
+| 24 | `www.vectronode.com` | ¥0.135 | $0.135 / $0.423 | 1 | Alibaba-2 | qwen3.8-flash |
+| 25 | `8yes.cc` | ¥0.137143 | $0.137143 / $0.462857 | 1 | 国模openai协议 | hh-qwen3.8-flash |
+| 26 | `ciyuan.today` | ¥0.140625 | $0.140625 / $0.440625 | 1 | Alibaba-2 | qwen3.8-flash |
+| 27 | `gptapi.top` | ¥0.140625 | $0.140625 / $0.440625 | 1 | Alibaba-2 | qwen3.8-flash |
+| 28 | `makerend.com` | ¥0.140625 | $0.140625 / $0.440625 | 1 | Alibaba-2 | qwen3.8-flash |
+| 29 | `moliapi.com` | ¥0.14175 | $0.14175 / $0.44415 | 1 | Alibaba-2 | qwen3.8-flash |
+| 30 | `www.xpivot.top` | ¥0.144 | $0.144 / $0.486 | 1 | 国模dp | qwen3.8-flash |
+| 31 | `ai-api.cc` | ¥0.14625 | $0.14625 / $0.45825 | 1 | Alibaba-2 | qwen3.8-flash |
+| 32 | `nodapi.com` | ¥0.1485 | $0.1485 / $0.4653 | 1 | Alibaba-2 | qwen3.8-flash |
+| 33 | `api.nuwarouter.com` | ¥0.15 | $0.15 / $0.47 | 1 | ali-DeepSeek | qwen3.8-flash |
+| 34 | `api.nyxos.shop` | ¥0.15 | $0.15 / $0.47 | 1 | AUTO-V2 | qwen3.8-flash |
+| 35 | `crowllm.com` | ¥0.15 | $0.15 / $0.32 | 1 | pro | qwen3.8-flash-thinking |
+| 36 | `relay.fast` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
+| 37 | `router.cheap` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
+| 38 | `routerra.ai` | ¥0.15 | $0.15 / $0.469995 | 1 | default | qwen3.8-flash |
+| 39 | `anyaigc.ai` | ¥0.151875 | $0.151875 / $0.475875 | 1 | Alibaba-2 | qwen3.8-flash |
+| 40 | `sheepaiplus.top` | ¥0.1575 | $0.1575 / $0.4935 | 1 | Alibaba-2 | qwen3.8-flash |
+| 41 | `xiguapi.icu` | ¥0.1575 | $0.1575 / $0.4935 | 1 | Alibaba-2 | qwen3.8-flash |
+| 42 | `api.ccode.vip` | ¥0.16 | $0.16 / $0.54 | 1 | Flash 平价专享 | qwen3.8-flash |
+| 43 | `api.renice.cc` | ¥0.16 | $0.16 / $0.54 | 1 | openllm | qwen3.8-flash |
+| 44 | `api.slomerex.xyz` | ¥0.16 | $0.16 / $0.54 | 1 | Qwen | qwen3.8-flash |
+| 45 | `api.tuftech.org` | ¥0.16 | $0.16 / $0.54 | 1 | Qwen-sale | qwen3.8-flash |
+| 46 | `api.xctokens.com` | ¥0.16 | $0.16 / $0.54 | 1 | 国产模型稳定 | qwen3.8-flash |
+| 47 | `e-flowcode.cc` | ¥0.16 | $0.16 / $0.54 | 1 | 1_vip_china | qwen3.8-flash |
+| 48 | `moyuu.cc` | ¥0.16 | $0.16 / $0.54 | 1 | go | qwen3.8-flash |
+| 49 | `tk.8t.chat` | ¥0.16 | $0.16 / $0.54 | 1 | 国模 | qwen3.8-flash |
+| 50 | `xxapi.info` | ¥0.16 | $0.16 / $0.54 | 1 | 国模 | qwen3.8-flash |
+
+> 另有 191 站未列出。
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `you.loveme.space` | $0.04 / $0.135 | 国产模型-workbuddy | 0.05 | qwen3.8-flash |
+| 2 | `aiapibank.com` | $0.056 / $0.189 | GPT低价分组 | 0.07 | qwen3.8-flash |
+| 3 | `www.lingzhan.top` | $0.056 / $0.1645 | 反代国模(自营反代号池) | 0.05 | qwen3.8-flash |
+| 4 | `www.kk-vibe.top` | $0.064 / $0.216 | 国产大模型 0.08倍率 | 0.08 | qwen3.8-flash |
+| 5 | `supercodes.vip` | $0.075 / $0.235 | opencode渠道 | 0.5 | qwen3.8-flash |
+| 6 | `api.123uq.com` | $0.08 / $0.27 | 牛逼国模听话 | 0.1 | qwen3.8-flash |
+| 7 | `api.247kan.com` | $0.08 / $0.27 | 国模按量分组（0.1稳定组）全天稳定 | 0.1 | qwen3.8-flash |
+| 8 | `llm.twinight.co` | $0.08 / $0.27 | 国模按量分组（0.1稳定组）全天稳定 | 0.1 | qwen3.8-flash |
+| 9 | `sub.pikaqiu.shop` | $0.08 / $0.27 | 国模大杂烩 | 0.1 | qwen3.8-flash |
+| 10 | `worldcodes.online` | $0.08 / $0.27 | 【国模聚合3】优选池 · Pro | 0.1 | qwen3.8-flash |
+| 11 | `wqdsjhaoai.site` | $0.08 / $0.27 | qwen3.8 flash | 0.1 | Qwen3.8-Flash |
+| 12 | `api.tcvps.cn` | $0.088 / $0.256 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | qwen3.8-flash |
+| 13 | `88.scxai.top` | $0.12 / $0.405 | 创世の鑫元 | 0.15 | qwen3.8-flash |
+| 14 | `codexauv.com` | $0.12 / $0.405 | 国产模型聚合-三方自部署满血渠道 | 0.15 | qwen3.8-flash |
+| 15 | `www.digitalcats.cc` | $0.12 / $0.405 | Qwen千问 | 0.15 | qwen3.8-flash |
+| 16 | `zhiyuanapis.top` | $0.12 / $0.405 | 国内模型 | 0.15 | qwen3.8-flash |
+| 17 | `api.nornless.com` | $0.136 / $0.459 | 国产模型 按量 | 1 | qwen3.8-flash |
+| 18 | `tuzkiapi.tuzki.online` | $0.14 / $0.47 | 国模官key兜底(90%+缓存) | 0.1 | qwen3.8-flash |
+| 19 | `kimera.cc` | $0.144 / $0.423 | 国产模型聚合 兜底 | 0.9 | qwen3.8-flash |
+| 20 | `ltgpt.xyz` | $0.144 / $0.486 | 国模分组A 0.18 | 0.18 | qwen3.8-flash |
+| 21 | `genshin.darkprometheus.top` | $0.1464 / $0.4941 | Doubao | 0.183 | Qwen3.8-Flash |
+| 22 | `api.xiaojue.cloud` | $0.15 / $0.45 | 国模 | 0.15 | qwen3.8-flash |
+| 23 | `api.boluomiapi.cc` | $0.16 / $0.54 | Z04-其他国模 | 0.2 | qwen3.8-flash |
+| 24 | `api.openai.fans` | $0.16 / $0.54 | Qwen-sale | 0.2 | qwen3.8-flash |
+| 25 | `api.relaylink.cloud` | $0.16 / $0.54 | 国模分组 | 0.2 | qwen3.8-flash |
+| 26 | `mzeapi.top` | $0.16 / $0.54 | 国模-【QWEN】 | 0.2 | qwen3.8-flash |
+| 27 | `pro.fan142.top` | $0.16 / $0.47 | coding api | 1 | Qwen/Qwen3.8-Flash |
+| 28 | `rapidapi.cc` | $0.16 / $0.54 | 国模一组 | 0.2 | qwen3.8-flash |
+| 29 | `sub.onetopai.com` | $0.16 / $0.54 | 国模分组 | 0.2 | qwen3.8-flash |
+| 30 | `tokai.cc` | $0.16 / $0.54 | 国模 | 0.2 | qwen3.8-flash |
+| 31 | `tokenkey.vip` | $0.16 / $0.54 | 【国模大全分组】 | 1 | qwen3.8-flash |
+| 32 | `xindu.xyz` | $0.16 / $0.54 | 国模全系列 | 0.2 | qwen3.8-flash |
+| 33 | `api.binzzz.xyz` | $0.17 / $0.51 | Qwen【满血】 | 0.17 | qwen3.8-flash |
+| 34 | `sub.skypoem.top` | $0.2 / $0.675 | Muse | 0.25 | qwen3.8-flash |
+| 35 | `token.54421666.xyz` | $0.2 / $0.675 | Qwen | 0.25 | qwen3.8-flash |
+| 36 | `api.kcne.top` | $0.21 / $0.658 | 国模组 | 1.4 | qwen3.8-flash |
+| 37 | `okmcode.com` | $0.216 / $0.632 | 国模cc兼容 | 0.2 | qwen3.8-flash |
+| 38 | `ai.yusflow.com` | $0.22 / $0.64 | 国模按量0.2分组 | 0.2 | qwen3.8-flash |
+| 39 | `api.hyhawang.com` | $0.224 / $0.658 | 国模低价 | 0.2 | qwen3.8-flash |
+| 40 | `aus.aivra.lat` | $0.24 / $0.81 | 国产模型 | 0.3 | qwen3.8-flash |
+| 41 | `go.mkapi.top` | $0.25 / $0.75 | Qwen | 0.25 | qwen3.8-flash |
+| 42 | `ai.qystart.top` | $0.32 / $1.08 | 🇨🇳 | 0.4 | qwen3.8-flash |
+| 43 | `goforai.top` | $0.32 / $1.08 | Kimi K3 | 0.4 | qwen3.8-flash |
+| 44 | `oapi.shop` | $0.32 / $1.08 | 国模/非GPT模型汇总 | 0.4 | Qwen/Qwen3.8-Flash |
+| 45 | `sub.wonderful.edu.kg` | $0.32 / $1.08 | 国模官key | 0.4 | qwen3.8-flash |
+| 46 | `www.jiguang.me` | $0.32 / $1.08 | 机房千问 | 0.4 | qwen3.8-flash |
+| 47 | `x.ailzd.com` | $0.32 / $1.08 | 国模(Anthropic) | 0.4 | qwen3.8-flash |
+| 48 | `api.1route.dev` | $0.4 / $1.35 | 国模大乱炖 🥘（啥都有） | 0.5 | qwen3.8-flash |
+| 49 | `aichronos.xyz` | $0.48 / $1.62 | 国模 | 0.6 | qwen3.8-flash |
+| 50 | `api.bestai.chat` | $0.48 / $1.62 | 国产模型（Anthropic协议） | 0.6 | qwen3.8-flash |
+
+> 另有 16 站未列出。
+
+> 97 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

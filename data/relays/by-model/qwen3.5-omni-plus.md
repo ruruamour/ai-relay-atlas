@@ -1,20 +1,24 @@
 # qwen3.5-omni-plus
 
-> 26 站提供 · 正常价 10 站 · 中位价 **$1.6**（$/1M 输入）· 推算，未对账
+> 25 站提供 · 正常价 10 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥7**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `api.wapq.cn` | $0.5 | $0.5 | default | 0.5 | qwen3.5-omni-plus |
-| 2 | `llm.kagu.one` | $0.7 | $4.15 | 大杂烩 | 0.5 | qwen/qwen3.5-omni-plus |
-| 3 | `ai-model.chinaz.net` | $0.958904 | $5.47945 | default | 1 | qwen3.5-omni-plus-2026-03-15 |
-| 4 | `api.tokenrouter.com` | $1 | $5.7143 | default | 1 | qwen3.5-omni-plus |
-| 5 | `api.apiyi.com` | $1.2 | $6 | default | 1 | qwen3.5-omni-plus |
-| 6 | `supertoken.pro` | $2 | $2 | 千问 | 1 | qwen3.5-omni-plus |
-| 7 | `shanyiapi.com` | $2.45 | $14 | vip_ch | 0.35 | qwen3.5-omni-plus |
-| 8 | `yibuapi.com` | $5.6 | $32 | default | 2 | qwen3.5-omni-plus |
-| 9 | `codeyy.top` | $7 | $53 | default | 1 | qwen3.5-omni-plus |
-| 10 | `qweapi.com` | $7 | $40 | default | 1 | qwen3.5-omni-plus |
+## 实付价（按 ¥ 排序）
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `shanyiapi.com` | ¥2.45 | $2.45 / $14 | 1 | vip_ch | qwen3.5-omni-plus |
+| 2 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | qwen3.5-omni-plus |
+| 3 | `llm.kagu.one` | ¥5.11 | $0.7 / $4.15 | 7.3 | 大杂烩 | qwen/qwen3.5-omni-plus |
+| 4 | `ai-model.chinaz.net` | ¥7 | $0.958904 / $5.47945 | 7.3 | default | qwen3.5-omni-plus-2026-03-15 |
+| 5 | `api.tokenrouter.com` | ¥7 | $1 / $5.7143 | 7 | vip | qwen3.5-omni-plus |
+| 6 | `qweapi.com` | ¥7 | $7 / $40 | 1 | default | qwen3.5-omni-plus |
+| 7 | `yibuapi.com` | ¥8.4 | $5.6 / $32 | 1.5 | claude-code | qwen3.5-omni-plus |
+| 8 | `api.apiyi.com` | ¥8.4 | $1.2 / $6 | 7 | default | qwen3.5-omni-plus |
+| 9 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3.5-omni-plus |
+| 10 | `codeyy.top` | ¥51.1 | $7 / $53 | 7.3 | default | qwen3.5-omni-plus |
+
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

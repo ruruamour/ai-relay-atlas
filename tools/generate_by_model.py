@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """生成 data/relays/by-model/：每个基础模型一页 + index.md。
-排名只用正常价格（排除 promo/zero/default/low），被排除的站点数写在页尾。"""
+排名只用正常价格（排除 promo/zero/default/low），被排除的站点数写在页尾。
+实付价 = 名义价 × 该站充值价（元/1 美元额度）；公开了充值价的站按实付价单独排一张表。"""
 import glob
 import os
 import statistics
@@ -26,6 +27,7 @@ def esc(x):
 
 def main():
     rows = read_csv(MODELS)
+    tp = topup_map()
     by = defaultdict(lambda: defaultdict(list))
     for r in rows:
         by[r['model_base']][r['domain']].append(r)
@@ -54,41 +56,61 @@ def main():
             continue
         it = sorted(good.items(), key=lambda kv: kv[1][0])
         med = statistics.median(p for p, _ in good.values())
+        real = sorted(((d, p, r, p * tp[d]) for d, (p, r) in good.items() if d in tp), key=lambda x: x[3])
+        nom = [(d, p, r) for d, (p, r) in it if d not in tp]
+        rmed = statistics.median(x[3] for x in real) if real else None
+        u = '次' if call else '1M 输入'
         unit = '$/次' if call else '$/1M 输入'
         L = ['# %s' % base, '',
-             '> %d 站提供 · 正常价 %d 站 · 中位价 **$%s**（%s）· 推算，未对账' % (len(sites), len(good), fmt(med), unit), '',
+             '> %d 站提供 · 正常价 %d 站 · 名义中位价 **$%s**/%s%s · 推算，未对账' % (
+                 len(sites), len(good), fmt(med), u,
+                 (' · 实付中位价 **¥%s**/%s（%d 站公开充值价）' % (fmt(rmed), u, len(real))) if real else ''), '',
              '[← 返回索引](index.md)', '']
-        if call:
-            L += ['| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |', '|---|---|---|---|---|---|']
-        else:
-            L += ['| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |', '|---|---|---|---|---|---|---|']
-        for i, (d, (p, r)) in enumerate(it[:TOP], 1):
+
+        def price_cell(r, p):
             if call:
-                L.append('| %d | `%s` | $%s | %s | %s | %s |' % (i, d, fmt(p), esc(r['group']) or '-', r['group_ratio'] or '-', esc(r['model'])))
-            else:
-                o = num(r['output_usd_m'])
-                L.append('| %d | `%s` | $%s | %s | %s | %s | %s |' % (i, d, fmt(p), ('$' + fmt(o)) if o is not None else '-',
-                                                                     esc(r['group']) or '-', r['group_ratio'] or '-', esc(r['model'])))
-        tail = []
-        if len(it) > TOP:
-            tail.append('另有 %d 站未列出' % (len(it) - TOP))
+                return '$' + fmt(p)
+            o = num(r['output_usd_m'])
+            return '$%s / %s' % (fmt(p), ('$' + fmt(o)) if o is not None else '-')
+        if real:
+            L += ['## 实付价（按 ¥ 排序）', '', '实付 = 名义价 × 充值价（元 / 1 美元额度）。', '',
+                  '| # | 站点 | 实付 ¥ | 名义 $%s | 充值 ¥/$ | 分组 | 原始模型名 |' % ('' if call else ' 输入/输出'),
+                  '|---|---|---|---|---|---|---|']
+            for i, (d, p, r, rp) in enumerate(real[:TOP], 1):
+                L.append('| %d | `%s` | ¥%s | %s | %s | %s | %s |' % (i, d, fmt(rp), price_cell(r, p), fmt(tp[d]),
+                                                                    esc(r['group']) or '-', esc(r['model'])))
+            if len(real) > TOP:
+                L.append('')
+                L.append('> 另有 %d 站未列出。' % (len(real) - TOP))
+            L.append('')
+        if nom:
+            L += ['## 名义价（未公开充值价，按 $ 排序）' if real else '## 名义价（按 $ 排序）', '',
+                  '| # | 站点 | 名义 $%s | 分组 | 倍率 | 原始模型名 |' % ('' if call else ' 输入/输出'),
+                  '|---|---|---|---|---|---|']
+            for i, (d, p, r) in enumerate(nom[:TOP], 1):
+                L.append('| %d | `%s` | %s | %s | %s | %s |' % (i, d, price_cell(r, p), esc(r['group']) or '-',
+                                                              r['group_ratio'] or '-', esc(r['model'])))
+            if len(nom) > TOP:
+                L.append('')
+                L.append('> 另有 %d 站未列出。' % (len(nom) - TOP))
+            L.append('')
         if bad:
-            tail.append('%d 站只有福利/占位/异常价，未参与排名' % bad)
-        if tail:
-            L += ['', '> ' + '；'.join(tail) + '。完整数据见 `relay-models.csv`。']
+            L += ['> %d 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。' % bad]
         open(os.path.join(OUT, fname(base) + '.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
-        index[family(base)].append((base, len(sites), med, unit))
+        index[family(base)].append((base, len(sites), med, unit, rmed))
     total = sum(len(v) for v in index.values())
-    L = ['# 按模型榜单', '', '> 共 %d 个模型（≥%d 站提供）。中位价只统计正常价格，推算，未对账。' % (total, MIN_SITES), '']
+    L = ['# 按模型榜单', '', '> 共 %d 个模型（≥%d 站提供）。中位价只统计正常价格；名义价单位 USD/1M 输入，实付价 = 名义价 × 站点充值价（元/1 美元额度）。推算，未对账。' % (total, MIN_SITES), '']
     toc = [('[%s](#%s)' % (FAMILY_NAME[c], c)) for c in FAMILY_ORDER if index.get(c)]
     L += [' · '.join(toc), '']
     for c in FAMILY_ORDER:
         if not index.get(c):
             continue
         L += ['<a id="%s"></a>' % c, '## %s（%d）' % (FAMILY_NAME[c], len(index[c])), '',
-              '| 模型 | 站点数 | 中位价 |', '|---|---|---|']
-        for base, n, med, unit in sorted(index[c], key=lambda x: -x[1]):
-            L.append('| [%s](%s.md) | %d | $%s%s |' % (base, fname(base), n, fmt(med), '/次' if unit == '$/次' else ''))
+              '| 模型 | 站点数 | 名义中位价 | 实付中位价 |', '|---|---|---|---|']
+        for base, n, med, unit, rmed in sorted(index[c], key=lambda x: -x[1]):
+            per = '/次' if unit == '$/次' else ''
+            L.append('| [%s](%s.md) | %d | $%s%s | %s |' % (base, fname(base), n, fmt(med), per,
+                                                           ('¥%s%s' % (fmt(rmed), per)) if rmed else '-'))
         L.append('')
     open(os.path.join(OUT, 'index.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('by-model pages', total)

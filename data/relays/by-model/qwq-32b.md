@@ -1,60 +1,62 @@
 # qwq-32b
 
-> 110 站提供 · 正常价 51 站 · 中位价 **$1.2**（$/1M 输入）· 推算，未对账
+> 108 站提供 · 正常价 48 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（48 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `api.luoqianyi.qzz.io` | $0.15 | $0.58 | default | 1 | Qwen/QwQ-32B |
-| 2 | `claudecn.ai` | $0.2583 | $0.7749 | 国产模型 | 0.9 | qwq-32b |
-| 3 | `www.mrouter.com` | $0.286 | $0.858 | sp1 | 1 | QwQ-32B |
-| 4 | `www.ggwk1.online` | $0.42 | $1.1214 | 开源模型组 | 2.8 | Qwen/QwQ-32B |
-| 5 | `api.openlux.ai` | $0.6 | $1.8 | Self-Deployed-1 | 0.3 | qwq-32b |
-| 6 | `api.relayrouter.ai` | $0.6 | $1.8 | Self-Deployed-1 | 0.3 | qwq-32b |
-| 7 | `api.tidewhisper-ai.xyz` | $0.66 | $1.98 | Self-Deployed-1 | 0.33 | qwq-32b |
-| 8 | `gzxbykj.com` | $0.66 | $1.98 | Self-Deployed-1 | 0.33 | qwq-32b |
-| 9 | `v2.cloudmist.cloud` | $0.69 | $2.07 | Self-Deployed-1 | 0.345 | qwq-32b |
-| 10 | `www.vectronode.com` | $0.72 | $2.16 | Self-Deployed-1 | 0.36 | qwq-32b |
-| 11 | `ciyuan.today` | $0.75 | $2.25 | Self-Deployed-1 | 0.375 | qwq-32b |
-| 12 | `gptapi.top` | $0.75 | $2.25 | Self-Deployed-1 | 0.375 | qwq-32b |
-| 13 | `makerend.com` | $0.75 | $2.25 | Self-Deployed-1 | 0.375 | qwq-32b |
-| 14 | `moliapi.com` | $0.756 | $2.268 | Self-Deployed-1 | 0.378 | qwq-32b |
-| 15 | `ai-api.cc` | $0.78 | $2.34 | Self-Deployed-1 | 0.39 | qwq-32b |
-| 16 | `nodapi.com` | $0.792 | $2.376 | Self-Deployed-1 | 0.396 | qwq-32b |
-| 17 | `anyaigc.ai` | $0.81 | $2.43 | Self-Deployed-1 | 0.405 | qwq-32b |
-| 18 | `sheepaiplus.top` | $0.84 | $2.52 | Self-Deployed-1 | 0.42 | qwq-32b |
-| 19 | `xiguapi.icu` | $0.84 | $2.52 | Self-Deployed-1 | 0.42 | qwq-32b |
-| 20 | `api.videocaptioner.cn` | $0.9 | $2.7 | Self-Deployed-1 | 0.45 | qwq-32b |
-| 21 | `crazyrouter.com` | $0.9 | $2.7 | default | 1 | qwq-32b |
-| 22 | `api.zyai.online` | $1 | $3 | mini | 0.5 | qwq-32b |
-| 23 | `api.nixapi.com` | $1.014 | $3.042 | Self-Deployed-1 | 0.507 | qwq-32b |
-| 24 | `aiwuje.com` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 25 | `api.echoflowai.cc` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 26 | `api.n1n.ai` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 27 | `api.quickrouter.ai` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 28 | `jeniya.cn` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 29 | `linoapi.com` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 30 | `llm-api.net` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 31 | `quanzil.cn` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 32 | `quanzil.com` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 33 | `token173.net` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 34 | `tryallapi.com` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 35 | `wellapi.ai` | $1.2 | $3.6 | Self-Deployed-1 | 0.6 | qwq-32b |
-| 36 | `thousandengine.com` | $1.221 | $3.663 | Self-Deployed-1 | 0.6105 | qwq-32b |
-| 37 | `api.xgapi.top` | $1.4 | $4.2 | default | 1 | qwq-32b |
-| 38 | `ai.nodeloc.com` | $1.4572 | $5.8288 | default | 1 | qwen/qwq-32b |
-| 39 | `ai.soruxgpt.com` | $1.4572 | $1.4572 | default | 1 | qwq-32b |
-| 40 | `api.hopeai.cc` | $1.4572 | $1.4572 | default | 1 | qwq-32b |
-| 41 | `gpt-api.cc` | $1.4572 | $5.8288 | default | 1 | qwen/qwq-32b |
-| 42 | `api.camel-hub.cn` | $1.5 | $4.5 | default | 1 | qwq-32b |
-| 43 | `api.camel-hub.com` | $1.5 | $4.5 | default | 1 | qwq-32b |
-| 44 | `api2.aigcbest.top` | $1.5 | $4.005 | default | 1 | qwen/qwq-32b |
-| 45 | `kfcv50.link` | $1.5 | $4.5 | cn_discount_0407_075 | 0.75 | qwq-32b |
-| 46 | `api.ocoolai.com` | $1.9 | $5.7 | cn | 0.95 | qwq-32b |
-| 47 | `api.new.bi` | $2 | $6 | default | 1 | qwq-32b |
-| 48 | `api.zhiyikeji.cn` | $2 | $6 | default | 1 | qwq-32b |
-| 49 | `gptapi.app` | $2 | $6 | default | 1 | qwq-32b |
-| 50 | `keypool.space` | $2 | $6 | default | 1 | qwq-32b |
+## 实付价（按 ¥ 排序）
 
-> 另有 1 站未列出；59 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.luoqianyi.qzz.io` | ¥0.075 | $0.15 / $0.58 | 0.5 | default | Qwen/QwQ-32B |
+| 2 | `claudecn.ai` | ¥0.2583 | $0.2583 / $0.7749 | 1 | 国产模型 | qwq-32b |
+| 3 | `www.mrouter.com` | ¥0.286 | $0.286 / $0.858 | 1 | sp1 | QwQ-32B |
+| 4 | `www.ggwk1.online` | ¥0.42 | $0.42 / $1.1214 | 1 | 开源模型组 | Qwen/QwQ-32B |
+| 5 | `api.openlux.ai` | ¥0.6 | $0.6 / $1.8 | 1 | Self-Deployed-1 | qwq-32b |
+| 6 | `api.relayrouter.ai` | ¥0.6 | $0.6 / $1.8 | 1 | Self-Deployed-1 | qwq-32b |
+| 7 | `api.tidewhisper-ai.xyz` | ¥0.66 | $0.66 / $1.98 | 1 | Self-Deployed-1 | qwq-32b |
+| 8 | `gzxbykj.com` | ¥0.66 | $0.66 / $1.98 | 1 | Self-Deployed-1 | qwq-32b |
+| 9 | `www.vectronode.com` | ¥0.72 | $0.72 / $2.16 | 1 | Self-Deployed-1 | qwq-32b |
+| 10 | `ciyuan.today` | ¥0.75 | $0.75 / $2.25 | 1 | Self-Deployed-1 | qwq-32b |
+| 11 | `gptapi.top` | ¥0.75 | $0.75 / $2.25 | 1 | Self-Deployed-1 | qwq-32b |
+| 12 | `makerend.com` | ¥0.75 | $0.75 / $2.25 | 1 | Self-Deployed-1 | qwq-32b |
+| 13 | `moliapi.com` | ¥0.756 | $0.756 / $2.268 | 1 | Self-Deployed-1 | qwq-32b |
+| 14 | `ai-api.cc` | ¥0.78 | $0.78 / $2.34 | 1 | Self-Deployed-1 | qwq-32b |
+| 15 | `nodapi.com` | ¥0.792 | $0.792 / $2.376 | 1 | Self-Deployed-1 | qwq-32b |
+| 16 | `anyaigc.ai` | ¥0.81 | $0.81 / $2.43 | 1 | Self-Deployed-1 | qwq-32b |
+| 17 | `sheepaiplus.top` | ¥0.84 | $0.84 / $2.52 | 1 | Self-Deployed-1 | qwq-32b |
+| 18 | `xiguapi.icu` | ¥0.84 | $0.84 / $2.52 | 1 | Self-Deployed-1 | qwq-32b |
+| 19 | `api.88api.chat` | ¥0.9 | $0.9 / $2.7 | 1 | Self-Deployed-1 | qwq-32b |
+| 20 | `api.videocaptioner.cn` | ¥0.9 | $0.9 / $2.7 | 1 | Self-Deployed-1 | qwq-32b |
+| 21 | `api.zyai.online` | ¥1 | $1 / $3 | 1 | mini | qwq-32b |
+| 22 | `api.nixapi.com` | ¥1.014 | $1.014 / $3.042 | 1 | Self-Deployed-1 | qwq-32b |
+| 23 | `aiwuje.com` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 24 | `api.echoflowai.cc` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 25 | `api.n1n.ai` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 26 | `api.quickrouter.ai` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 27 | `api.zhiyikeji.cn` | ¥1.2 | $2 / $6 | 0.6 | default | qwq-32b |
+| 28 | `jeniya.cn` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 29 | `linoapi.com` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 30 | `llm-api.net` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 31 | `quanzil.com` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 32 | `token173.net` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 33 | `tryallapi.com` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 34 | `wellapi.ai` | ¥1.2 | $1.2 / $3.6 | 1 | Self-Deployed-1 | qwq-32b |
+| 35 | `api.camel-hub.cn` | ¥1.2 | $1.5 / $4.5 | 0.8 | default | qwq-32b |
+| 36 | `thousandengine.com` | ¥1.221 | $1.221 / $3.663 | 1 | Self-Deployed-1 | qwq-32b |
+| 37 | `api.xgapi.top` | ¥1.4 | $1.4 / $4.2 | 1 | default | qwq-32b |
+| 38 | `ai.soruxgpt.com` | ¥1.4572 | $1.4572 / $1.4572 | 1 | default | qwq-32b |
+| 39 | `api.hopeai.cc` | ¥1.4572 | $1.4572 / $1.4572 | 1 | default | qwq-32b |
+| 40 | `gpt-api.cc` | ¥1.4572 | $1.4572 / $5.8288 | 1 | default | qwen/qwq-32b |
+| 41 | `kfcv50.link` | ¥1.5 | $1.5 / $4.5 | 1 | cn_discount_0407_075 | qwq-32b |
+| 42 | `api.ocoolai.com` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwq-32b |
+| 43 | `api.new.bi` | ¥2 | $2 / $6 | 1 | default | qwq-32b |
+| 44 | `gptapi.app` | ¥2 | $2 / $6 | 1 | default | qwq-32b |
+| 45 | `keypool.space` | ¥2 | $2 / $6 | 1 | vip | qwq-32b |
+| 46 | `api2.aigcbest.top` | ¥5.25 | $1.5 / $4.005 | 3.5 | default | qwen/qwq-32b |
+| 47 | `ai.nodeloc.com` | ¥10.6376 | $1.4572 / $5.8288 | 7.3 | default | qwen/qwq-32b |
+| 48 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | qwq-32b |
+
+> 60 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

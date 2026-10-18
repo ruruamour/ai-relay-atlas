@@ -1,10 +1,10 @@
 {
- "sites": 2193,
- "aliases": 635,
- "wildcard_removed": 5246,
- "backend_groups": 92,
- "backend_group_sites": 245,
- "model_rows": 176797,
- "model_bases": 10323,
- "raw_model_names": 22270
+ "sites": 3857,
+ "aliases": 871,
+ "wildcard_removed": 5251,
+ "backend_groups": 99,
+ "backend_group_sites": 261,
+ "model_rows": 179347,
+ "model_bases": 10361,
+ "raw_model_names": 22366
 }

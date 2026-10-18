@@ -1,60 +1,66 @@
 # mj-modal
 
-> 51 站提供 · 正常价 50 站 · 中位价 **$0.0882**（$/次）· 推算，未对账
+> 52 站提供 · 正常价 51 站 · 名义中位价 **$0.0882**/次 · 实付中位价 **¥0.0882**/次（51 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `modelsell.com` | $0.025 | 标准按次 | 1 | mj_modal |
-| 2 | `api.openlux.ai` | $0.0441 | MJ-3 | 0.147 | mj_modal |
-| 3 | `api.relayrouter.ai` | $0.0441 | MJ-3 | 0.147 | mj_modal |
-| 4 | `api.tidewhisper-ai.xyz` | $0.04851 | MJ-3 | 0.1617 | mj_modal |
-| 5 | `gzxbykj.com` | $0.04851 | MJ-3 | 0.1617 | mj_modal |
-| 6 | `tian-shu.org` | $0.05 | midjourney | 0.5 | mj_modal |
-| 7 | `v2.cloudmist.cloud` | $0.050715 | MJ-3 | 0.16905 | mj_modal |
-| 8 | `www.vectronode.com` | $0.05292 | MJ-3 | 0.1764 | mj_modal |
-| 9 | `ciyuan.today` | $0.055125 | MJ-3 | 0.18375 | mj_modal |
-| 10 | `gptapi.top` | $0.055125 | MJ-3 | 0.18375 | mj_modal |
-| 11 | `makerend.com` | $0.055125 | MJ-3 | 0.18375 | mj_modal |
-| 12 | `moliapi.com` | $0.055566 | MJ-3 | 0.18522 | mj_modal |
-| 13 | `ai-api.cc` | $0.05733 | MJ-3 | 0.1911 | mj_modal |
-| 14 | `nodapi.com` | $0.058212 | MJ-3 | 0.19404 | mj_modal |
-| 15 | `anyaigc.ai` | $0.059535 | MJ-3 | 0.19845 | mj_modal |
-| 16 | `sheepaiplus.top` | $0.06174 | MJ-3 | 0.2058 | mj_modal |
-| 17 | `xiguapi.icu` | $0.06174 | MJ-3 | 0.2058 | mj_modal |
-| 18 | `api.videocaptioner.cn` | $0.06615 | MJ-3 | 0.2205 | mj_modal |
-| 19 | `api.nixapi.com` | $0.074529 | MJ-3 | 0.24843 | mj_modal |
-| 20 | `aeapi.cn` | $0.08 | default | 1 | mj_modal |
-| 21 | `ccapi.ai` | $0.085 | default | 0.85 | mj_modal |
-| 22 | `aiwuje.com` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 23 | `api.echoflowai.cc` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 24 | `api.n1n.ai` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 25 | `api.quickrouter.ai` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 26 | `jeniya.cn` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 27 | `linoapi.com` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 28 | `llm-api.net` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 29 | `quanzil.com` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 30 | `token173.net` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 31 | `tryallapi.com` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 32 | `wellapi.ai` | $0.0882 | MJ-3 | 0.294 | mj_modal |
-| 33 | `thousandengine.com` | $0.0897435 | MJ-3 | 0.299145 | mj_modal |
-| 34 | `api.apipro.ai` | $0.1 | default | 1 | mj_modal |
-| 35 | `api.bianxie.ai` | $0.1 | default | 1 | mj_modal |
-| 36 | `api.camel-hub.com` | $0.1 | default | 1 | mj_modal |
-| 37 | `api.nekoapi.com` | $0.1 | default | 1 | mj_modal |
-| 38 | `api.uiuihao.com` | $0.1 | default | 1 | mj_modal |
-| 39 | `go.sbgpt.site` | $0.1 | default | 1 | mj_modal |
-| 40 | `open.xiaojingai.com` | $0.1 | default | 1 | mj_modal |
-| 41 | `poloai.top` | $0.1 | MJ慢速 | 1 | mj_modal |
-| 42 | `poloapi.top` | $0.1 | MJ慢速 | 1 | mj_modal |
-| 43 | `sg.uiuiapi.com` | $0.1 | default | 1 | mj_modal |
-| 44 | `wolfai.top` | $0.1 | default | 1 | mj_modal |
-| 45 | `api2.aigcbest.top` | $0.15 | default | 1 | mj_modal |
-| 46 | `api.34ku.com` | $0.26 | default | 1.3 | mj_modal |
-| 47 | `cnapi.kksj.org` | $0.27 | default | 0.9 | mj_modal |
-| 48 | `keypool.space` | $0.3 | default | 1 | mj_modal |
-| 49 | `nbapi.net` | $0.3 | default | 1 | mj_modal |
-| 50 | `api.wukong.support` | $1.125 | gemini官渠 | 3.75 | mj_modal |
+## 实付价（按 ¥ 排序）
+
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.openlux.ai` | ¥0.0441 | $0.0441 | 1 | MJ-3 | mj_modal |
+| 2 | `api.relayrouter.ai` | ¥0.0441 | $0.0441 | 1 | MJ-3 | mj_modal |
+| 3 | `api.tidewhisper-ai.xyz` | ¥0.04851 | $0.04851 | 1 | MJ-3 | mj_modal |
+| 4 | `gzxbykj.com` | ¥0.04851 | $0.04851 | 1 | MJ-3 | mj_modal |
+| 5 | `tian-shu.org` | ¥0.05 | $0.05 | 1 | midjourney | mj_modal |
+| 6 | `www.vectronode.com` | ¥0.05292 | $0.05292 | 1 | MJ-3 | mj_modal |
+| 7 | `ciyuan.today` | ¥0.055125 | $0.055125 | 1 | MJ-3 | mj_modal |
+| 8 | `gptapi.top` | ¥0.055125 | $0.055125 | 1 | MJ-3 | mj_modal |
+| 9 | `makerend.com` | ¥0.055125 | $0.055125 | 1 | MJ-3 | mj_modal |
+| 10 | `moliapi.com` | ¥0.055566 | $0.055566 | 1 | MJ-3 | mj_modal |
+| 11 | `ai-api.cc` | ¥0.05733 | $0.05733 | 1 | MJ-3 | mj_modal |
+| 12 | `nodapi.com` | ¥0.058212 | $0.058212 | 1 | MJ-3 | mj_modal |
+| 13 | `anyaigc.ai` | ¥0.059535 | $0.059535 | 1 | MJ-3 | mj_modal |
+| 14 | `sheepaiplus.top` | ¥0.06174 | $0.06174 | 1 | MJ-3 | mj_modal |
+| 15 | `xiguapi.icu` | ¥0.06174 | $0.06174 | 1 | MJ-3 | mj_modal |
+| 16 | `api.88api.chat` | ¥0.06615 | $0.06615 | 1 | MJ-3 | mj_modal |
+| 17 | `api.videocaptioner.cn` | ¥0.06615 | $0.06615 | 1 | MJ-3 | mj_modal |
+| 18 | `api.nixapi.com` | ¥0.074529 | $0.074529 | 1 | MJ-3 | mj_modal |
+| 19 | `api.camel-hub.cn` | ¥0.08 | $0.1 | 0.8 | default | mj_modal |
+| 20 | `aiwuje.com` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 21 | `api.echoflowai.cc` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 22 | `api.n1n.ai` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 23 | `api.quickrouter.ai` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 24 | `jeniya.cn` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 25 | `linoapi.com` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 26 | `llm-api.net` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 27 | `quanzil.com` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 28 | `token173.net` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 29 | `tryallapi.com` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 30 | `wellapi.ai` | ¥0.0882 | $0.0882 | 1 | MJ-3 | mj_modal |
+| 31 | `thousandengine.com` | ¥0.0897435 | $0.0897435 | 1 | MJ-3 | mj_modal |
+| 32 | `go.sbgpt.site` | ¥0.1 | $0.1 | 1 | default | mj_modal |
+| 33 | `open.xiaojingai.com` | ¥0.1 | $0.1 | 1 | default | mj_modal |
+| 34 | `poloai.top` | ¥0.1 | $0.1 | 1 | MJ慢速 | mj_modal |
+| 35 | `poloapi.top` | ¥0.1 | $0.1 | 1 | MJ慢速 | mj_modal |
+| 36 | `chrisapivip.com` | ¥0.15 | $0.15 | 1 | mj_fast | mj_modal |
+| 37 | `modelsell.com` | ¥0.17 | $0.025 | 6.8 | 标准按次 | mj_modal |
+| 38 | `api.nekoapi.com` | ¥0.2 | $0.1 | 2 | default | mj_modal |
+| 39 | `wolfai.top` | ¥0.2 | $0.1 | 2 | default | mj_modal |
+| 40 | `api.34ku.com` | ¥0.26 | $0.26 | 1 | default | mj_modal |
+| 41 | `cnapi.kksj.org` | ¥0.27 | $0.27 | 1 | default | mj_modal |
+| 42 | `keypool.space` | ¥0.3 | $0.3 | 1 | default | mj_modal |
+| 43 | `api.uiuihao.com` | ¥0.319 | $0.1 | 3.19 | default | mj_modal |
+| 44 | `sg.uiuiapi.com` | ¥0.319 | $0.1 | 3.19 | default | mj_modal |
+| 45 | `api2.aigcbest.top` | ¥0.525 | $0.15 | 3.5 | default | mj_modal |
+| 46 | `aeapi.cn` | ¥0.536 | $0.08 | 6.7 | default | mj_modal |
+| 47 | `ccapi.ai` | ¥0.5865 | $0.085 | 6.9 | default | mj_modal |
+| 48 | `api.apipro.ai` | ¥0.7 | $0.1 | 7 | default | mj_modal |
+| 49 | `api.bianxie.ai` | ¥0.73 | $0.1 | 7.3 | default | mj_modal |
+| 50 | `api.wukong.support` | ¥1.125 | $1.125 | 1 | gemini官渠 | mj_modal |
+
+> 另有 1 站未列出。
 
 > 1 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

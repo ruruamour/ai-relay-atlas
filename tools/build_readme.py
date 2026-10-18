@@ -51,6 +51,10 @@ def main():
     A('| 已剔除的泛解析子域 | %d |' % m['wildcard_removed'])
     A('| 站 × 模型 报价 | %d |' % m['model_rows'])
     A('| 基础模型数（不同模型，非站数） | %d |' % m['model_bases'])
+    tps = [valid_topup(r['topup_cny_per_usd']) for r in rl if valid_topup(r['topup_cny_per_usd'])]
+    if tps:
+        A('| 公开充值价的站 | %d（≤¥1.5/$ 的 %d 站，≥¥6/$ 的 %d 站） |' % (
+            len(tps), sum(1 for x in tps if x <= 1.5), sum(1 for x in tps if x >= 6)))
     A('| 发卡店铺 | %d（SaaS %d / 自建 %d） |' % (len(sh), sum(1 for x in sh if x['hosting'] == 'SaaS'),
                                             sum(1 for x in sh if x['hosting'] == '自建')))
     A('| 发卡商品报价 | %d |' % len(pr))
@@ -72,20 +76,23 @@ def main():
     A('<a id="relays"></a>')
     A('## 中转站 · 综合名单')
     A('')
-    A('| # | 站点 | 系统 | 模型数 | 覆盖 | 别名 | Veridrop | 状态 | 延迟 |')
-    A('|---|---|---|---|---|---|---|---|---|')
+    A('| # | 站点 | 站名 | 系统 | 模型数 | 覆盖 | 充值 ¥/$ | Veridrop | 状态 | 延迟 |')
+    A('|---|---|---|---|---|---|---|---|---|---|')
 
     def key(r):
         return (r['http_status'] == '200', int(r['n_models'] or 0), num(r['veridrop_score']) or 0)
     for i, r in enumerate(sorted(rl, key=key, reverse=True)[:100], 1):
         fams = set((r['families'] or '').split('/'))
         cov = ''.join(l for c, l in LETTER if c in fams) or '-'
-        A('| %d | `%s` | %s | %s | %s | %s | %s | %s | %s |' % (
-            i, esc(r['domain']), esc(r['system']) or '-', r['n_models'] or 0, cov, r['aliases'] or 0,
+        nm = (r['name'] or '').strip()
+        A('| %d | `%s` | %s | %s | %s | %s | %s | %s | %s | %s |' % (
+            i, esc(r['domain']), esc(nm[:18] + ('…' if len(nm) > 18 else '')) or '-', esc(r['system']) or '-',
+            r['n_models'] or 0, cov, fmt(valid_topup(r['topup_cny_per_usd'])) or '-',
             esc(r['veridrop_score']) or '-', esc(r['http_status']) or '-',
             (r['latency_ms'] + 'ms') if r['latency_ms'] else '-'))
     A('')
-    A('覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek')
+    A('覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。'
+      '充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。')
     A('')
     A('完整名单（%d 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · '
       '报价：[relay-models.csv](data/relays/relay-models.csv)' % m['sites'])

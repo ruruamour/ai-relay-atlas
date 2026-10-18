@@ -1,60 +1,66 @@
 # wan2.6-i2v
 
-> 104 站提供 · 正常价 89 站 · 中位价 **$1**（$/次）· 推算，未对账
+> 105 站提供 · 正常价 90 站 · 名义中位价 **$1**/次 · 实付中位价 **¥0.59**/次（90 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `test-api.apiqik.online` | $0.0528696 | aliyun/official | 0.63 | wan2.6-i2v |
-| 2 | `api.openlux.ai` | $0.0716765 | Alibaba-1 | 0.5 | wan2.6-i2v |
-| 3 | `api.relayrouter.ai` | $0.0716765 | Alibaba-1 | 0.5 | wan2.6-i2v |
-| 4 | `116.62.113.242` | $0.07636 | 图像模型聚合(可自定义图像参数) | 0.07 | wan2.6-i2v |
-| 5 | `synthapi.asia` | $0.07636 | 视频模型聚合 | 0.07 | wan2.6-i2v |
-| 6 | `api.tidewhisper-ai.xyz` | $0.0788442 | Alibaba-1 | 0.55 | wan2.6-i2v |
-| 7 | `gzxbykj.com` | $0.0788442 | Alibaba-1 | 0.55 | wan2.6-i2v |
-| 8 | `supertoken.pro` | $0.0822 | 万象 | 1 | wan2.6-i2v |
-| 9 | `v2.cloudmist.cloud` | $0.082428 | Alibaba-1 | 0.575 | wan2.6-i2v |
-| 10 | `www.vectronode.com` | $0.0860118 | Alibaba-1 | 0.6 | wan2.6-i2v |
-| 11 | `ciyuan.today` | $0.0895956 | Alibaba-1 | 0.625 | wan2.6-i2v |
-| 12 | `gptapi.top` | $0.0895956 | Alibaba-1 | 0.625 | wan2.6-i2v |
-| 13 | `makerend.com` | $0.0895956 | Alibaba-1 | 0.625 | wan2.6-i2v |
-| 14 | `moliapi.com` | $0.0903124 | Alibaba-1 | 0.63 | wan2.6-i2v |
-| 15 | `ai-api.cc` | $0.0931795 | Alibaba-1 | 0.65 | wan2.6-i2v |
-| 16 | `nodapi.com` | $0.094613 | Alibaba-1 | 0.66 | wan2.6-i2v |
-| 17 | `anyaigc.ai` | $0.0967633 | Alibaba-1 | 0.675 | wan2.6-i2v |
-| 18 | `sheepaiplus.top` | $0.100347 | Alibaba-1 | 0.7 | wan2.6-i2v |
-| 19 | `xiguapi.icu` | $0.100347 | Alibaba-1 | 0.7 | wan2.6-i2v |
-| 20 | `api.videocaptioner.cn` | $0.107515 | Alibaba-1 | 0.75 | wan2.6-i2v |
-| 21 | `api.nixapi.com` | $0.121133 | Alibaba-1 | 0.845 | wan2.6-i2v |
-| 22 | `aiwuje.com` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 23 | `api.echoflowai.cc` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 24 | `api.n1n.ai` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 25 | `api.quickrouter.ai` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 26 | `jeniya.cn` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 27 | `linoapi.com` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 28 | `llm-api.net` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 29 | `quanzil.com` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 30 | `token173.net` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 31 | `tryallapi.com` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 32 | `wellapi.ai` | $0.143353 | Alibaba-1 | 1 | wan2.6-i2v |
-| 33 | `thousandengine.com` | $0.145862 | Alibaba-1 | 1.0175 | wan2.6-i2v |
-| 34 | `api.camel-hub.com` | $0.15 | default | 1 | wan2.6-i2v |
-| 35 | `api2.aigcbest.top` | $0.156 | 通用大模型 | 0.26 | wan2.6-i2v |
-| 36 | `yibuapi.com` | $0.51 | claude-code | 2 | wan2.6-i2v |
-| 37 | `api.lingyaai.cn` | $0.6 | default | 1 | wan2.6-i2v |
-| 38 | `beeroute.ai` | $0.6 | default | 1 | wan2.6-i2v |
-| 39 | `laysoai.com` | $0.605666 | Alibaba-1 | 4.225 | wan2.6-i2v |
-| 40 | `www.hohoapi.com` | $0.78 | default | 1 | wan2.6-i2v |
-| 41 | `aiapihub.cloud` | $1 | default | 1 | wan2.6-i2v |
-| 42 | `aiyiwei.vip` | $1 | default | 1 | wan2.6-i2v |
-| 43 | `anyaigc.com` | $1 | default | 1 | wan2.6-i2v |
-| 44 | `api-hub.vip` | $1 | default | 1 | wan2.6-i2v |
-| 45 | `api.aibh.site` | $1 | default | 1 | wan2.6-i2v |
-| 46 | `api.aicso.top` | $1 | default | 1 | wan2.6-i2v |
-| 47 | `api.anthropicricardo.club` | $1 | default | 1 | wan2.6-i2v |
-| 48 | `api.antmoo.com` | $1 | default | 1 | wan2.6-i2v |
-| 49 | `api.apiplus.org` | $1 | default | 1 | wan2.6-i2v |
-| 50 | `api.bitidea.cn` | $1 | default | 1 | wan2.6-i2v |
+## 实付价（按 ¥ 排序）
 
-> 另有 39 站未列出；15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.openlux.ai` | ¥0.0716765 | $0.0716765 | 1 | Alibaba-1 | wan2.6-i2v |
+| 2 | `api.relayrouter.ai` | ¥0.0716765 | $0.0716765 | 1 | Alibaba-1 | wan2.6-i2v |
+| 3 | `api.tidewhisper-ai.xyz` | ¥0.0788442 | $0.0788442 | 1 | Alibaba-1 | wan2.6-i2v |
+| 4 | `gzxbykj.com` | ¥0.0788442 | $0.0788442 | 1 | Alibaba-1 | wan2.6-i2v |
+| 5 | `www.vectronode.com` | ¥0.0860118 | $0.0860118 | 1 | Alibaba-1 | wan2.6-i2v |
+| 6 | `ciyuan.today` | ¥0.0895956 | $0.0895956 | 1 | Alibaba-1 | wan2.6-i2v |
+| 7 | `gptapi.top` | ¥0.0895956 | $0.0895956 | 1 | Alibaba-1 | wan2.6-i2v |
+| 8 | `makerend.com` | ¥0.0895956 | $0.0895956 | 1 | Alibaba-1 | wan2.6-i2v |
+| 9 | `moliapi.com` | ¥0.0903124 | $0.0903124 | 1 | Alibaba-1 | wan2.6-i2v |
+| 10 | `ai-api.cc` | ¥0.0931795 | $0.0931795 | 1 | Alibaba-1 | wan2.6-i2v |
+| 11 | `nodapi.com` | ¥0.094613 | $0.094613 | 1 | Alibaba-1 | wan2.6-i2v |
+| 12 | `anyaigc.ai` | ¥0.0967633 | $0.0967633 | 1 | Alibaba-1 | wan2.6-i2v |
+| 13 | `sheepaiplus.top` | ¥0.100347 | $0.100347 | 1 | Alibaba-1 | wan2.6-i2v |
+| 14 | `xiguapi.icu` | ¥0.100347 | $0.100347 | 1 | Alibaba-1 | wan2.6-i2v |
+| 15 | `api.88api.chat` | ¥0.107515 | $0.107515 | 1 | Alibaba-1 | wan2.6-i2v |
+| 16 | `api.videocaptioner.cn` | ¥0.107515 | $0.107515 | 1 | Alibaba-1 | wan2.6-i2v |
+| 17 | `api.camel-hub.cn` | ¥0.12 | $0.15 | 0.8 | default | wan2.6-i2v |
+| 18 | `api.nixapi.com` | ¥0.121133 | $0.121133 | 1 | Alibaba-1 | wan2.6-i2v |
+| 19 | `aiwuje.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 20 | `api.echoflowai.cc` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 21 | `api.n1n.ai` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 22 | `api.quickrouter.ai` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 23 | `jeniya.cn` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 24 | `linoapi.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 25 | `llm-api.net` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 26 | `quanzil.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 27 | `token173.net` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 28 | `tryallapi.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 29 | `wellapi.ai` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.6-i2v |
+| 30 | `thousandengine.com` | ¥0.145862 | $0.145862 | 1 | Alibaba-1 | wan2.6-i2v |
+| 31 | `test-api.apiqik.online` | ¥0.370087 | $0.0528696 | 7 | aliyun/official | wan2.6-i2v |
+| 32 | `api.apiplus.org` | ¥0.5 | $1 | 0.5 | default | wan2.6-i2v |
+| 33 | `api.vectorengine.ai` | ¥0.5 | $1 | 0.5 | default | wan2.6-i2v |
+| 34 | `api.wlai.vip` | ¥0.5 | $1 | 0.5 | default | wan2.6-i2v |
+| 35 | `api.zhongzhuan.chat` | ¥0.5 | $1 | 0.5 | default | wan2.6-i2v |
+| 36 | `api.zhongzhuan.vip` | ¥0.5 | $1 | 0.5 | default | wan2.6-i2v |
+| 37 | `yunwu.ai` | ¥0.5 | $1 | 0.5 | default | wan2.6-i2v |
+| 38 | `api2.aigcbest.top` | ¥0.546 | $0.156 | 3.5 | 通用大模型 | wan2.6-i2v |
+| 39 | `api.aicso.top` | ¥0.55 | $1 | 0.55 | default | wan2.6-i2v |
+| 40 | `api.clai.click` | ¥0.55 | $1 | 0.55 | default | wan2.6-i2v |
+| 41 | `api.winfull.cloud-ip.cc` | ¥0.55 | $1 | 0.55 | default | wan2.6-i2v |
+| 42 | `api123.eu.cc` | ¥0.55 | $1 | 0.55 | default | wan2.6-i2v |
+| 43 | `116.62.113.242` | ¥0.557428 | $0.07636 | 7.3 | 视频模型聚合 | wan2.6-i2v |
+| 44 | `synthapi.asia` | ¥0.557428 | $0.07636 | 7.3 | 视频模型聚合 | wan2.6-i2v |
+| 45 | `yuli.host` | ¥0.58 | $1 | 0.58 | default | wan2.6-i2v |
+| 46 | `api.lingyaai.cn` | ¥0.6 | $0.6 | 1 | default | wan2.6-i2v |
+| 47 | `api.zhiyikeji.cn` | ¥0.6 | $1 | 0.6 | default | wan2.6-i2v |
+| 48 | `apistudio.vip` | ¥0.6 | $1 | 0.6 | default | wan2.6-i2v |
+| 49 | `beeroute.ai` | ¥0.6 | $0.6 | 1 | default | wan2.6-i2v |
+| 50 | `one.chatshare.one` | ¥0.6 | $1 | 0.6 | default | wan2.6-i2v |
+
+> 另有 40 站未列出。
+
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

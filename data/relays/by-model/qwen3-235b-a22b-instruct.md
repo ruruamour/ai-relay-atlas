@@ -1,60 +1,72 @@
 # qwen3-235b-a22b-instruct
 
-> 93 站提供 · 正常价 77 站 · 中位价 **$2**（$/1M 输入）· 推算，未对账
+> 93 站提供 · 正常价 78 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.8**/1M 输入（77 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `llm.kagu.one` | $0.11 | $0.44 | 大杂烩 | 0.5 | qwen/qwen3-235b-a22b-instruct-2507 |
-| 2 | `aiapi.world` | $0.19941 | $0.877404 | cmodels | 0.1445 | qwen3-235b-a22b-instruct-2507 |
-| 3 | `aws.baby` | $0.285714 | $0.285714 | 阿里云百炼大客户 | 1 | qwen3-235b-a22b-instruct-2507 |
-| 4 | `hk.moleapi.com` | $0.29 | $1.16 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 5 | `api2.aigcbest.top` | $0.52 | $2.08 | 通用大模型 | 0.26 | Qwen/Qwen3-235B-A22B-Instruct-2507 |
-| 6 | `na.wanxiaot.com` | $0.6 | $0.6 | default | 1 | Qwen/Qwen3-235B-A22B-Instruct-2507 |
-| 7 | `naapi.cc` | $0.6 | $0.6 | default | 1 | Qwen/Qwen3-235B-A22B-Instruct-2507 |
-| 8 | `api.zyai.online` | $1 | $4 | mini | 0.5 | qwen3-235b-a22b-instruct-2507 |
-| 9 | `www.hohoapi.com` | $1.04 | $4.16 | qwen | 0.4 | qwen3-235b-a22b-instruct-2507 |
-| 10 | `open.xiaojingai.com` | $1.125 | $4.5 | 阿里 | 0.5 | qwen3-235b-a22b-instruct-2507 |
-| 11 | `api.ipest.ai` | $1.16 | $4.64 | cn_model_default | 0.58 | qwen3-235b-a22b-instruct-2507 |
-| 12 | `rockapi.ai` | $1.4 | $5.6 | 0.7x | 0.7 | qwen3-235b-a22b-instruct-2507 |
-| 13 | `api.camel-hub.cn` | $1.5 | $6 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 14 | `api.camel-hub.com` | $1.5 | $6 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 15 | `kfcv50.link` | $1.5 | $6 | cn_discount_0407_075 | 0.75 | qwen3-235b-a22b-instruct-2507 |
-| 16 | `yibuapi.com` | $1.6 | $6.4 | default | 2 | qwen3-235b-a22b-instruct-2507 |
-| 17 | `koalaapi.com` | $1.7 | $6.8 | 一key国产中转全模型 | 0.85 | qwen3-235b-a22b-instruct-2507 |
-| 18 | `claudecn.ai` | $1.8 | $7.2 | 国产模型 | 0.9 | qwen3-235b-a22b-instruct-2507 |
-| 19 | `aiapihub.cloud` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 20 | `aiyiwei.vip` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 21 | `anyaigc.com` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 22 | `api-hub.vip` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 23 | `api.aibh.site` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 24 | `api.aicso.top` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 25 | `api.anthropicricardo.club` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 26 | `api.antmoo.com` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 27 | `api.apiplus.org` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 28 | `api.bitidea.cn` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 29 | `api.clai.click` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 30 | `api.cloudmist.cloud` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 31 | `api.mumuverse.space` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 32 | `api.qingyuntop.top` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 33 | `api.vectorengine.ai` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 34 | `api.winfull.cloud-ip.cc` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 35 | `api.wlai.vip` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 36 | `api.xistree.hk` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 37 | `api.xueai.me` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 38 | `api.zhiyikeji.cn` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 39 | `api.zhongzhuan.chat` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 40 | `api.zhongzhuan.vip` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 41 | `api123.eu.cc` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 42 | `apipro.maynor1024.live` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 43 | `apistudio.vip` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 44 | `apixin.cn` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 45 | `codeyy.top` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 46 | `dawnnode.com` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 47 | `fluxapi.top` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 48 | `gptapi.app` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 49 | `keypool.space` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
-| 50 | `linxingran.top` | $2 | $8 | default | 1 | qwen3-235b-a22b-instruct-2507 |
+## 实付价（按 ¥ 排序）
 
-> 另有 27 站未列出；16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `aws.baby` | ¥0.285714 | $0.285714 / $0.285714 | 1 | 阿里云百炼大客户 | qwen3-235b-a22b-instruct-2507 |
+| 2 | `na.wanxiaot.com` | ¥0.6 | $0.6 / $0.6 | 1 | default | Qwen/Qwen3-235B-A22B-Instruct-2507 |
+| 3 | `naapi.cc` | ¥0.6 | $0.6 / $0.6 | 1 | default | Qwen/Qwen3-235B-A22B-Instruct-2507 |
+| 4 | `llm.kagu.one` | ¥0.803 | $0.11 / $0.44 | 7.3 | 大杂烩 | qwen/qwen3-235b-a22b-instruct-2507 |
+| 5 | `api.apiplus.org` | ¥1 | $2 / $8 | 0.5 | default | qwen3-235b-a22b-instruct-2507 |
+| 6 | `api.vectorengine.ai` | ¥1 | $2 / $8 | 0.5 | default | qwen3-235b-a22b-instruct-2507 |
+| 7 | `api.wlai.vip` | ¥1 | $2 / $8 | 0.5 | default | qwen3-235b-a22b-instruct-2507 |
+| 8 | `api.zhongzhuan.chat` | ¥1 | $2 / $8 | 0.5 | default | qwen3-235b-a22b-instruct-2507 |
+| 9 | `api.zhongzhuan.vip` | ¥1 | $2 / $8 | 0.5 | default | qwen3-235b-a22b-instruct-2507 |
+| 10 | `api.zyai.online` | ¥1 | $1 / $4 | 1 | mini | qwen3-235b-a22b-instruct-2507 |
+| 11 | `yunwu.ai` | ¥1 | $2 / $8 | 0.5 | default | qwen3-235b-a22b-instruct-2507 |
+| 12 | `api.aicso.top` | ¥1.1 | $2 / $8 | 0.55 | default | qwen3-235b-a22b-instruct-2507 |
+| 13 | `api.clai.click` | ¥1.1 | $2 / $8 | 0.55 | default | qwen3-235b-a22b-instruct-2507 |
+| 14 | `api.winfull.cloud-ip.cc` | ¥1.1 | $2 / $8 | 0.55 | default | qwen3-235b-a22b-instruct-2507 |
+| 15 | `api123.eu.cc` | ¥1.1 | $2 / $8 | 0.55 | default | qwen3-235b-a22b-instruct-2507 |
+| 16 | `open.xiaojingai.com` | ¥1.125 | $1.125 / $4.5 | 1 | 阿里 | qwen3-235b-a22b-instruct-2507 |
+| 17 | `yuli.host` | ¥1.16 | $2 / $8 | 0.58 | default | qwen3-235b-a22b-instruct-2507 |
+| 18 | `api.zhiyikeji.cn` | ¥1.2 | $2 / $8 | 0.6 | default | qwen3-235b-a22b-instruct-2507 |
+| 19 | `apistudio.vip` | ¥1.2 | $2 / $8 | 0.6 | default | qwen3-235b-a22b-instruct-2507 |
+| 20 | `one.chatshare.one` | ¥1.2 | $2 / $8 | 0.6 | default | qwen3-235b-a22b-instruct-2507 |
+| 21 | `api.camel-hub.cn` | ¥1.2 | $1.5 / $6 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 22 | `aiyiwei.vip` | ¥1.26 | $2 / $8 | 0.63 | default | qwen3-235b-a22b-instruct-2507 |
+| 23 | `anyaigc.com` | ¥1.32 | $2 / $8 | 0.66 | default | qwen3-235b-a22b-instruct-2507 |
+| 24 | `aiapi.world` | ¥1.35599 | $0.19941 / $0.877404 | 6.8 | cmodels | qwen3-235b-a22b-instruct-2507 |
+| 25 | `fluxapi.top` | ¥1.4 | $2 / $8 | 0.7 | default | qwen3-235b-a22b-instruct-2507 |
+| 26 | `rockapi.ai` | ¥1.4 | $1.4 / $5.6 | 1 | 0.7x | qwen3-235b-a22b-instruct-2507 |
+| 27 | `api.mumuverse.space` | ¥1.5 | $2 / $8 | 0.75 | default | qwen3-235b-a22b-instruct-2507 |
+| 28 | `kfcv50.link` | ¥1.5 | $1.5 / $6 | 1 | cn_discount_0407_075 | qwen3-235b-a22b-instruct-2507 |
+| 29 | `www.aifast.club` | ¥1.5 | $2 / $8 | 0.75 | default | qwen3-235b-a22b-instruct-2507 |
+| 30 | `linxingran.top` | ¥1.56 | $2 / $8 | 0.78 | default | qwen3-235b-a22b-instruct-2507 |
+| 31 | `api.qingyuntop.top` | ¥1.58 | $2 / $8 | 0.79 | default | qwen3-235b-a22b-instruct-2507 |
+| 32 | `api.antmoo.com` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 33 | `minitoken.top` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 34 | `qianfufu.com` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 35 | `www.xiaoruiera.top` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 36 | `xiaohumini.site` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 37 | `xinyuanai666.com` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 38 | `yunai.chat` | ¥1.6 | $2 / $8 | 0.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 39 | `claudecn.ai` | ¥1.8 | $1.8 / $7.2 | 1 | 国产模型 | qwen3-235b-a22b-instruct-2507 |
+| 40 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $2.08 | 3.5 | 通用大模型 | Qwen/Qwen3-235B-A22B-Instruct-2507 |
+| 41 | `hk.moleapi.com` | ¥1.972 | $0.29 / $1.16 | 6.8 | default | qwen3-235b-a22b-instruct-2507 |
+| 42 | `api-hub.vip` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 43 | `api.aibh.site` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 44 | `api.anthropicricardo.club` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 45 | `api.bitidea.cn` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 46 | `api.xueai.me` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 47 | `apixin.cn` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 48 | `code.yansd666.com` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 49 | `dawnnode.com` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+| 50 | `gptapi.app` | ¥2 | $2 / $8 | 1 | default | qwen3-235b-a22b-instruct-2507 |
+
+> 另有 27 站未列出。
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `liangjiewis.com` | $4.04922 / $26.4055 | self-hosted | 1 | Qwen/Qwen3-235B-A22B-Instruct-2507 |
+
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

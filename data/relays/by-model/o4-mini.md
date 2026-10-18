@@ -1,60 +1,88 @@
 # o4-mini
 
-> 224 站提供 · 正常价 154 站 · 中位价 **$1.1**（$/1M 输入）· 推算，未对账
+> 231 站提供 · 正常价 159 站 · 名义中位价 **$1.1**/1M 输入 · 实付中位价 **¥1.65**/1M 输入（142 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `v2.cloudmist.cloud` | $0.05566 | $0.22264 | Azure-Gpt-1 | 0.0506 | o4-mini |
-| 2 | `www.vectronode.com` | $0.05808 | $0.23232 | Azure-Gpt-1 | 0.0528 | o4-mini |
-| 3 | `ciyuan.today` | $0.0605 | $0.242 | Azure-Gpt-1 | 0.055 | o4-mini |
-| 4 | `gptapi.top` | $0.0605 | $0.242 | Azure-Gpt-1 | 0.055 | o4-mini |
-| 5 | `makerend.com` | $0.0605 | $0.242 | Azure-Gpt-1 | 0.055 | o4-mini |
-| 6 | `moliapi.com` | $0.060984 | $0.243936 | Azure-Gpt-1 | 0.05544 | o4-mini |
-| 7 | `ai-api.cc` | $0.06292 | $0.25168 | Azure-Gpt-1 | 0.0572 | o4-mini |
-| 8 | `nodapi.com` | $0.063888 | $0.255552 | Azure-Gpt-1 | 0.05808 | o4-mini |
-| 9 | `anyaigc.ai` | $0.06534 | $0.26136 | Azure-Gpt-1 | 0.0594 | o4-mini |
-| 10 | `sheepaiplus.top` | $0.06776 | $0.27104 | Azure-Gpt-1 | 0.0616 | o4-mini |
-| 11 | `xiguapi.icu` | $0.06776 | $0.27104 | Azure-Gpt-1 | 0.0616 | o4-mini |
-| 12 | `api.videocaptioner.cn` | $0.0726 | $0.2904 | Azure-Gpt-1 | 0.066 | o4-mini |
-| 13 | `api.nixapi.com` | $0.081796 | $0.327184 | Azure-Gpt-1 | 0.07436 | o4-mini |
-| 14 | `xinyue.mom` | $0.088 | $0.352 | 不降智焚决【只有astra】 | 0.08 | o4-mini |
-| 15 | `aiwuje.com` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 16 | `api.echoflowai.cc` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 17 | `api.n1n.ai` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 18 | `api.quickrouter.ai` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 19 | `jeniya.cn` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 20 | `linoapi.com` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 21 | `llm-api.net` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 22 | `quanzil.cn` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 23 | `quanzil.com` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 24 | `token173.net` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 25 | `tryallapi.com` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 26 | `wellapi.ai` | $0.0968 | $0.3872 | Azure-Gpt-1 | 0.088 | o4-mini |
-| 27 | `thousandengine.com` | $0.098494 | $0.393976 | Azure-Gpt-1 | 0.08954 | o4-mini |
-| 28 | `api.socode.cc` | $0.11 | $0.44 | GPT[Main] | 0.1 | o4-mini |
-| 29 | `ai.mggoo.com` | $0.132 | $0.528 | GPT-20x(尽力低价-不稳就换) | 0.12 | o4-mini |
-| 30 | `daoxe.com` | $0.165 | $0.66 | codex | 0.15 | o4-mini |
-| 31 | `saletoken.org` | $0.22 | $0.88 | CODEX-pro | 0.2 | o4-mini |
-| 32 | `sub2api.hyl2api.com` | $0.22 | $0.88 | GPT  | 0.2 | o4-mini |
-| 33 | `sub2api.simplaj.top` | $0.22 | $0.88 | GPT 纯血Pro 余额分组 | 0.2 | o4-mini |
-| 34 | `api.geniuscoder.net` | $0.275 | $1.1 | gpt优惠 | 0.25 | o4-mini |
-| 35 | `hboom.ai` | $0.33 | $1.32 | Azure-Mid | 0.3 | o4-mini |
-| 36 | `hk.hbapis.com` | $0.33 | $1.32 | Azure-Mid | 0.3 | o4-mini |
-| 37 | `hk.moleapi.com` | $0.33 | $1.32 | relay | 0.3 | o4-mini |
-| 38 | `koalaapi.com` | $0.33 | $1.32 | default | 0.3 | o4-mini |
-| 39 | `go.sbgpt.site` | $0.528 | $2.112 | 无审核az-0.38 | 0.48 | o4-mini |
-| 40 | `api.openai-labs.com` | $0.55 | $2.2 | g1 | 0.5 | o4-mini |
-| 41 | `api.zyai.online` | $0.55 | $2.2 | mini | 0.5 | o4-mini |
-| 42 | `kfcv50.link` | $0.55 | $2.2 | az_act05 | 0.5 | o4-mini |
-| 43 | `llm.kagu.one` | $0.55 | $2.2 | 大杂烩 | 0.5 | o4-mini |
-| 44 | `n.lconai.com` | $0.55 | $2.2 | A1 | 0.5 | o4-mini |
-| 45 | `supersubscribe689.com` | $0.55 | $2.2 | chatgpt美区版 | 0.5 | o4-mini |
-| 46 | `proaiapi.tech` | $0.572 | $2.288 | default | 1 | o4-mini |
-| 47 | `runapi.co` | $0.64 | $2.56 | default | 1 | o4-mini |
-| 48 | `mux.la` | $0.66 | $2.64 | GPT-AZ-Pro | 0.6 | o4-mini |
-| 49 | `api.uiuihao.com` | $0.77 | $3.08 | 🔥CodeX-专用 | 0.7 | o4-mini |
-| 50 | `pro.gemai.cc` | $0.77 | $0.77 | Azure All | 0.7 | o4-mini |
+## 实付价（按 ¥ 排序）
 
-> 另有 104 站未列出；70 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `www.vectronode.com` | ¥0.05808 | $0.05808 / $0.23232 | 1 | Azure-Gpt-1 | o4-mini |
+| 2 | `ciyuan.today` | ¥0.0605 | $0.0605 / $0.242 | 1 | Azure-Gpt-1 | o4-mini |
+| 3 | `gptapi.top` | ¥0.0605 | $0.0605 / $0.242 | 1 | Azure-Gpt-1 | o4-mini |
+| 4 | `makerend.com` | ¥0.0605 | $0.0605 / $0.242 | 1 | Azure-Gpt-1 | o4-mini |
+| 5 | `moliapi.com` | ¥0.060984 | $0.060984 / $0.243936 | 1 | Azure-Gpt-1 | o4-mini |
+| 6 | `ai-api.cc` | ¥0.06292 | $0.06292 / $0.25168 | 1 | Azure-Gpt-1 | o4-mini |
+| 7 | `nodapi.com` | ¥0.063888 | $0.063888 / $0.255552 | 1 | Azure-Gpt-1 | o4-mini |
+| 8 | `anyaigc.ai` | ¥0.06534 | $0.06534 / $0.26136 | 1 | Azure-Gpt-1 | o4-mini |
+| 9 | `sheepaiplus.top` | ¥0.06776 | $0.06776 / $0.27104 | 1 | Azure-Gpt-1 | o4-mini |
+| 10 | `xiguapi.icu` | ¥0.06776 | $0.06776 / $0.27104 | 1 | Azure-Gpt-1 | o4-mini |
+| 11 | `api.88api.chat` | ¥0.0726 | $0.0726 / $0.2904 | 1 | Azure-Gpt-1 | o4-mini |
+| 12 | `api.videocaptioner.cn` | ¥0.0726 | $0.0726 / $0.2904 | 1 | Azure-Gpt-1 | o4-mini |
+| 13 | `api.nixapi.com` | ¥0.081796 | $0.081796 / $0.327184 | 1 | Azure-Gpt-1 | o4-mini |
+| 14 | `aiwuje.com` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 15 | `api.echoflowai.cc` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 16 | `api.n1n.ai` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 17 | `api.quickrouter.ai` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 18 | `jeniya.cn` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 19 | `linoapi.com` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 20 | `llm-api.net` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 21 | `quanzil.com` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 22 | `token173.net` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 23 | `tryallapi.com` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 24 | `wellapi.ai` | ¥0.0968 | $0.0968 / $0.3872 | 1 | Azure-Gpt-1 | o4-mini |
+| 25 | `thousandengine.com` | ¥0.098494 | $0.098494 / $0.393976 | 1 | Azure-Gpt-1 | o4-mini |
+| 26 | `daoxe.com` | ¥0.16995 | $0.165 / $0.66 | 1.03 | codex | o4-mini |
+| 27 | `chrisapivip.com` | ¥0.44 | $0.44 / $1.76 | 1 | default | o4-mini |
+| 28 | `go.sbgpt.site` | ¥0.528 | $0.528 / $2.112 | 1 | 无审核az-0.38 | o4-mini |
+| 29 | `api.openai-labs.com` | ¥0.55 | $0.55 / $2.2 | 1 | g1 | o4-mini |
+| 30 | `api.zyai.online` | ¥0.55 | $0.55 / $2.2 | 1 | mini | o4-mini |
+| 31 | `kfcv50.link` | ¥0.55 | $0.55 / $2.2 | 1 | az_act05 | o4-mini |
+| 32 | `n.lconai.com` | ¥0.55 | $0.55 / $2.2 | 1 | A1 | o4-mini |
+| 33 | `proaiapi.tech` | ¥0.572 | $0.572 / $2.288 | 1 | default | o4-mini |
+| 34 | `api.zhiyikeji.cn` | ¥0.66 | $1.1 / $4.4 | 0.6 | default | o4-mini |
+| 35 | `pro.gemai.cc` | ¥0.77 | $0.77 / $0.77 | 1 | Azure All | o4-mini |
+| 36 | `api.paasai.cc` | ¥0.88 | $0.88 / $0.88 | 1 | Azure | o4-mini |
+| 37 | `cn.gptapi.asia` | ¥0.88 | $0.88 / $3.52 | 1 | default | o4-mini |
+| 38 | `yutoapi.com` | ¥0.88 | $0.88 / $3.52 | 1 | default | o4-mini |
+| 39 | `ai.soruxgpt.com` | ¥0.99 | $0.99 / $3.96 | 1 | azure-low | o4-mini |
+| 40 | `cnapi.kksj.org` | ¥0.99 | $0.99 / $3.96 | 1 | default | o4-mini |
+| 41 | `api.bltcy.ai` | ¥1.1 | $1.1 / $4.4 | 1 | svip | o4-mini |
+| 42 | `api.hopeai.cc` | ¥1.1 | $1.1 / $1.1 | 1 | default | o4-mini |
+| 43 | `api.new.bi` | ¥1.1 | $1.1 / $4.4 | 1 | 企业级高可用大模型 | o4-mini |
+| 44 | `api.openai-hub.net` | ¥1.1 | $1.1 / $4.4 | 1 | cheap | o4-mini |
+| 45 | `api.qinzhiai.com` | ¥1.1 | $1.1 / $4.4 | 1 | az | o4-mini |
+| 46 | `api.routeeasy.ai` | ¥1.1 | $1.1 / $4.4 | 1 | default | o4-mini |
+| 47 | `api.wanapis.com` | ¥1.1 | $1.1 / $4.4 | 1 | default | o4-mini |
+| 48 | `api.yuboar.com` | ¥1.1 | $1.1 / $4.4 | 1 | AzureOpenAI | o4-mini |
+| 49 | `codechn.com` | ¥1.1 | $1.1 / $4.4 | 1 | gpt/grok | o4-mini |
+| 50 | `coneverse.com` | ¥1.1 | $1.1 / $4.4 | 1 | supply-317595f7a35b74ade9fd8f13 | o4-mini |
+
+> 另有 92 站未列出。
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `xinyue.mom` | $0.088 / $0.352 | 不降智焚决【只有astra】 | 0.08 | o4-mini |
+| 2 | `api.socode.cc` | $0.11 / $0.44 | GPT[Main] | 0.1 | o4-mini |
+| 3 | `ai.mggoo.com` | $0.132 / $0.528 | GPT-20x(尽力低价-不稳就换) | 0.12 | o4-mini |
+| 4 | `mgoole.com` | $0.132 / $0.528 | GPT-20x(尽力低价-不稳就换) | 0.12 | o4-mini |
+| 5 | `saletoken.org` | $0.22 / $0.88 | CODEX-pro | 0.2 | o4-mini |
+| 6 | `sub2api.hyl2api.com` | $0.22 / $0.88 | GPT  | 0.2 | o4-mini |
+| 7 | `sub2api.simplaj.top` | $0.22 / $0.88 | GPT 纯血Pro 余额分组 | 0.2 | o4-mini |
+| 8 | `api.geniuscoder.net` | $0.275 / $1.1 | gpt优惠 | 0.25 | o4-mini |
+| 9 | `supersubscribe689.com` | $0.55 / $2.2 | chatgpt美区版 | 0.5 | o4-mini |
+| 10 | `api.hy88.my` | $0.88 / $3.52 | gpt_max | 0.8 | o4-mini |
+| 11 | `api.yescale.io` | $1.1 / $4.4 | starter | 1 | o4-mini |
+| 12 | `happyapi.org` | $1.1 / $4.4 | default | 1 | o4-mini |
+| 13 | `api.zhimigy.cn` | $1.76 / $7.04 | pro | 1.6 | o4-mini |
+| 14 | `relaybases.com` | $2.2 / $8.8 | azure-gpt | 2 | o4-mini |
+| 15 | `sub.vcnovb.cn` | $2.64 / $10.56 | Az-gpt | 2.4 | o4-mini |
+| 16 | `api.akko.space` | $2.75 / $11 | Codex Azure | 2.5 | o4-mini |
+| 17 | `liangjiewis.com` | $52.25 / $209 | default | 1 | o4-mini |
+
+> 72 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

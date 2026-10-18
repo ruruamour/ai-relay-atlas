@@ -19,7 +19,7 @@ MODELS = path('data', 'relays', 'relay-models.csv')
 ALIASES = path('data', 'relays', 'aliases.csv')
 SOURCES = path('data', 'raw', 'sources')
 
-RELAY_COLS = ['domain', 'api_host', 'name', 'system', 'discovered_via', 'veridrop_score', 'n_models', 'families',
+RELAY_COLS = ['domain', 'api_host', 'name', 'system', 'version', 'topup_cny_per_usd', 'discovered_via', 'veridrop_score', 'n_models', 'families',
               'aliases', 'backend_group', 'http_status', 'latency_ms', 'last_checked', 'notes']
 MODEL_COLS = ['domain', 'model', 'model_base', 'billing', 'input_usd_m', 'output_usd_m', 'call_usd',
               'group', 'group_ratio', 'model_ratio', 'source', 'flag', 'last_checked']
@@ -145,7 +145,33 @@ PROMO_RX = re.compile(r'福利|特价|特惠|免费|free|公益|限时|体验|�
 IP_RE = re.compile(r'^\d{1,3}(\.\d{1,3}){3}(:\d+)?$')
 GEN_PREFIX = {'api', 'new', 'sub', 'vip', 'ai', 'www', 'cn', 'hk', 'gw', '2api', 'api2', 'api3', 'us', 'sg',
               'hk2', 'jp', 'tw', 'v2', 'v3', 'relay', 'llm', 'proxy', 'gw2', 'openai', 'claude', 'gemini',
-              'grok', 'gpt', 'ai2', 'mirror'}
+              'grok', 'gpt', 'ai2', 'mirror', 'sub2api', 'sub2', 'code', 'cc', 'router', 'newapi', 'oneapi',
+              'direct', 'cdn'}
+SYSTEMS = ('New-API', 'Sub2API', 'New-API/One-API')  # 最后一个：有 /api/status 但价格不公开
+_GENERIC = {'newapi', 'oneapi', 'sub2api', 'api', 'voapi', 'veloera', 'donehub', 'aiapi', 'openai', 'chatgpt',
+            'loading...', 'vite+react', 'reactapp', 'aiapigateway', ''}
+
+
+def is_generic_name(n):
+    return re.sub(r'[\s\-_]+', '', (n or '').lower()) in _GENERIC
+
+
+TOPUP_RANGE = (0.3, 15)  # 合理的"元 / 1 美元额度"；超出多半是配置错误或单位不同，视为未公开
+
+
+def valid_topup(v):
+    v = num(v)
+    return v if (v is not None and TOPUP_RANGE[0] <= v <= TOPUP_RANGE[1]) else None
+
+
+def topup_map():
+    """站点 → 充值价（元 / 1 美元额度），仅限站点公开、开启在线充值、且数值在合理区间的。"""
+    out = {}
+    for r in read_csv(RELAYS):
+        v = valid_topup(r.get('topup_cny_per_usd'))
+        if v:
+            out[r['domain']] = v
+    return out
 _EXT = None
 
 
@@ -184,3 +210,54 @@ def brand(d):
     if IP_RE.match(d):
         return d
     return registered(d).split('.')[0]
+
+
+# ---------------- DNS ----------------
+WILDCARD_CACHE = os.path.join(SOURCES, 'wildcard-dns.json')
+
+
+def _rand(n=10):
+    import random
+    import string
+    return ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(n))
+
+
+def resolves(host):
+    import socket
+    try:
+        socket.getaddrinfo(host, 443, proto=socket.IPPROTO_TCP)
+        return True
+    except Exception:
+        return False
+
+
+def resolve_many(hosts, workers=256):
+    """并发解析，返回能解析的集合。"""
+    import concurrent.futures as cf
+    hosts = list(hosts)
+    ok = set()
+    with cf.ThreadPoolExecutor(workers) as ex:
+        for h, r in zip(hosts, ex.map(resolves, hosts)):
+            if r:
+                ok.add(h)
+    return ok
+
+
+def wildcard_map(hosts, recheck=False):
+    """父域 → 是否泛解析（随机子域也能解析）。结果缓存在 data/raw/sources/wildcard-dns.json。"""
+    import json
+    cache = {}
+    if os.path.exists(WILDCARD_CACHE) and not recheck:
+        cache = json.load(open(WILDCARD_CACHE))
+    todo = sorted(h for h in hosts if h not in cache)
+    if todo:
+        if resolves('zz%s.com' % _rand(16)):
+            print('! DNS 解析器劫持了不存在的域名，跳过泛解析检测', file=sys.stderr)
+            return cache
+        print('泛解析检测', len(todo), '个主机…', file=sys.stderr, flush=True)
+        probe = {h: 'zz%s.%s' % (_rand(), h) for h in todo}
+        ok = resolve_many(probe.values(), workers=128)
+        for h in todo:
+            cache[h] = probe[h] in ok
+        json.dump(cache, open(WILDCARD_CACHE, 'w'), indent=0, sort_keys=True)
+    return cache

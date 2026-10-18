@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
-"""扫描站点公开价格接口（New-API /api/pricing + Sub2API /api/v1/model-plaza），断点续跑。
+"""扫描站点公开接口，断点续跑。
+  New-API 系：/api/status（站名、版本、充值价）+ /api/pricing（价格）
+  Sub2API   ：/api/v1/settings/public（站名、版本）+ /api/v1/model-plaza（价格）
 用法: python3 tools/scan.py <域名清单.txt> <输出.json> [--workers 64]
 每个模型取"可用分组里最便宜的非免费分组"作为参考价；按次计费模型单独记 call_usd。
+连不上的主机只试一次，不再请求其余接口。
 """
 import argparse
 import concurrent.futures as cf
@@ -9,6 +12,7 @@ import datetime
 import json
 import os
 import ssl
+import urllib.error
 import urllib.request
 
 CTX = ssl.create_default_context()
@@ -24,10 +28,44 @@ def num(v):
         return None
 
 
+class Down(Exception):
+    """连接层失败（DNS/拒绝/超时/TLS），该主机其余接口不用再试。"""
+
+
 def fetch_json(url, timeout=8):
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout, context=CTX) as r:
-        return json.loads(r.read(8_000_000))
+    try:
+        with urllib.request.urlopen(req, timeout=timeout, context=CTX) as r:
+            body = r.read(8_000_000)
+    except urllib.error.HTTPError:
+        return None
+    except Exception as e:
+        raise Down(str(e))
+    try:
+        return json.loads(body)
+    except ValueError:
+        return None
+
+
+def parse_status(j):
+    """New-API / One-API 的 /api/status：只取站名、版本、充值价、是否自用/演示。"""
+    d = (j or {}).get('data') if isinstance(j, dict) else None
+    if not isinstance(d, dict) or not any(k in d for k in ('system_name', 'quota_per_unit', 'version')):
+        return None
+    price = num(d.get('price'))
+    online = d.get('enable_online_topup')
+    return dict(name=str(d.get('system_name') or '')[:80], version=str(d.get('version') or '')[:40],
+                topup=price if (price and price > 0 and online is not False) else None,
+                self_use=bool(d.get('self_use_mode_enabled')), demo=bool(d.get('demo_site_enabled')))
+
+
+def parse_settings(j):
+    """Sub2API 的 /api/v1/settings/public：只取站名、版本、是否开放注册/模型广场。不取任何联系方式。"""
+    d = (j or {}).get('data') if isinstance(j, dict) else None
+    if not isinstance(d, dict) or 'site_name' not in d:
+        return None
+    return dict(name=str(d.get('site_name') or '')[:80], version=str(d.get('version') or '')[:40],
+                registration=bool(d.get('registration_enabled')), plaza=bool(d.get('model_plaza_enabled')))
 
 
 def r6(x):
@@ -106,16 +144,24 @@ def parse_sub2api(j):
 def work(host):
     res = {}
     try:
-        p = parse_newapi(fetch_json('https://%s/api/pricing' % host))
-        if p:
-            res['pricing'] = p
-    except Exception:
-        pass
-    try:
-        p = parse_sub2api(fetch_json('https://%s/api/v1/model-plaza' % host))
-        if p:
-            res['plaza'] = p
-    except Exception:
+        st = parse_status(fetch_json('https://%s/api/status' % host))
+        if st:
+            res['status'] = st
+            p = parse_newapi(fetch_json('https://%s/api/pricing' % host))
+            if p:
+                res['pricing'] = p
+        else:
+            se = parse_settings(fetch_json('https://%s/api/v1/settings/public' % host))
+            if se:
+                res['settings'] = se
+            p = parse_sub2api(fetch_json('https://%s/api/v1/model-plaza' % host))
+            if p:
+                res['plaza'] = p
+            if not se and not p:  # 没有 status 也不是 Sub2API：仍试一次 pricing（部分魔改站关了 status）
+                p = parse_newapi(fetch_json('https://%s/api/pricing' % host))
+                if p:
+                    res['pricing'] = p
+    except Down:
         pass
     if res:
         res['checked'] = datetime.date.today().isoformat()

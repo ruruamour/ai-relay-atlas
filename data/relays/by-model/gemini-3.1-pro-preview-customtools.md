@@ -1,60 +1,77 @@
 # gemini-3.1-pro-preview-customtools
 
-> 156 站提供 · 正常价 130 站 · 中位价 **$5.9**（$/1M 输入）· 推算，未对账
+> 157 站提供 · 正常价 131 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥5.76**/1M 输入（125 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `cf-api.o1key.com` | $0.3 | - | - | - | gemini-3.1-pro-preview-customtools |
-| 2 | `levelup.mom` | $0.5 | $3 | Gemini Banana3Pro生图号池 | 0.25 | gemini-3.1-pro-preview-customtools |
-| 3 | `botcf.com` | $0.56 | $3.36 | 🪐gemini-antigravity | 0.28 | gemini-3.1-pro-preview-customtools |
-| 4 | `b.kr777.top` | $0.6 | $3.6 | Gemini | 0.3 | gemini-3.1-pro-preview-customtools |
-| 5 | `daoxe.com` | $0.6 | $3.6 | Ant-Gemini | 0.3 | gemini-3.1-pro-preview-customtools |
-| 6 | `test-api.apiqik.online` | $0.68 | $4.08 | vertex/sp/gemini | 0.34 | gemini-3.1-pro-preview-customtools |
-| 7 | `mux.la` | $0.7 | $4.2 | Gemini-Ai-Studio | 0.35 | gemini-3.1-pro-preview-customtools |
-| 8 | `hboom.ai` | $0.8 | $4.8 | Gemini-Mid | 0.4 | gemini-3.1-pro-preview-customtools |
-| 9 | `hk.hbapis.com` | $0.8 | $4.8 | Gemini-Mid | 0.4 | gemini-3.1-pro-preview-customtools |
-| 10 | `api.bita-api.com` | $0.96 | $5.76 | gemini-蒸馏 | 0.48 | gemini-3.1-pro-preview-customtools |
-| 11 | `bita-api-production.up.railway.app` | $0.96 | $5.76 | gemini-蒸馏 | 0.48 | gemini-3.1-pro-preview-customtools |
-| 12 | `91token.ai` | $1 | $6 | 个人用户组 | 0.5 | gemini-3.1-pro-preview-customtools |
-| 13 | `llm.kagu.one` | $1 | $6 | 大杂烩 | 0.5 | gemini-3.1-pro-preview-customtools |
-| 14 | `modelsell.com` | $1 | $6 | Google AI Studio | 0.5 | gemini-3.1-pro-preview-customtools |
-| 15 | `api.hy88.my` | $1.2 | $7.2 | gemini_pro | 0.6 | gemini-3.1-pro-preview-customtools |
-| 16 | `coderelay.cn` | $1.2 | $7.2 | Gemini | 0.6 | gemini-3.1-pro-preview-customtools |
-| 17 | `rockapi.ai` | $1.4 | $8.4 | 0.7x | 0.7 | gemini-3.1-pro-preview-customtools |
-| 18 | `ai2.qiqiai.top` | $1.5 | $9 | gemini画图 | 0.75 | gemini-3.1-pro-preview-customtools |
-| 19 | `api.linktoagi.com` | $1.6 | $9.6 | Gemini | 0.8 | gemini-3.1-pro-preview-customtools |
-| 20 | `api.wukong.support` | $1.6 | $9.6 | gemini优质 | 0.8 | gemini-3.1-pro-preview-customtools |
-| 21 | `ccoo.ai` | $1.6 | $9.6 | Google 官方 | 0.8 | gemini-3.1-pro-preview-customtools |
-| 22 | `api.apiyi.com` | $1.8 | $10.8 | default | 1 | gemini-3.1-pro-preview-customtools |
-| 23 | `123api.co` | $2 | $12 | default | 1 | gemini-3.1-pro-preview-customtools |
-| 24 | `ai.vstecscloud.com` | $2 | $12 | 三游宝-新 | 1 | gemini-3.1-pro-preview-customtools |
-| 25 | `api.nuwarouter.com` | $2 | $12 | Gemini-aistudio | 1 | gemini-3.1-pro-preview-customtools |
-| 26 | `api.xhuoai.com` | $2 | $12 | default | 1 | gemini-3.1-pro-preview-customtools |
-| 27 | `api.yuboar.com` | $2 | $12 | Gemini | 1 | gemini-3.1-pro-preview-customtools |
-| 28 | `apius.shubiaobiao.cn` | $2 | $12 | Evan | 1 | gemini-3.1-pro-preview-customtools |
-| 29 | `bridge.pulseneko.com` | $2 | $12 | gemini | 1 | gemini-3.1-pro-preview-customtools |
-| 30 | `console.qqqrouter.ai` | $2 | $12 | Gemini_Vertex直连 | 1 | gemini-3.1-pro-preview-customtools |
-| 31 | `dollar.ruiyumaas.com` | $2 | $12 | Vertex Gemini | 1 | gemini-3.1-pro-preview-customtools |
-| 32 | `easyrouter.io` | $2 | $12 | default | 1 | gemini-3.1-pro-preview-customtools |
-| 33 | `hk.apitoken.ai` | $2 | $12 | sandbox | 1 | gemini-3.1-pro-preview-customtools |
-| 34 | `kfcv50.link` | $2 | $12 | Gemini_vip | 1 | gemini-3.1-pro-preview-customtools |
-| 35 | `qiuqiutoken.com` | $2 | $12 | Gemini专用-Ultra号池 | 1 | gemini-3.1-pro-preview-customtools |
-| 36 | `sg.anyrouter.ai` | $2 | $12 | default | 1 | gemini-3.1-pro-preview-customtools |
-| 37 | `www.micuapi.ai` | $2 | $12 | - | - | gemini-3.1-pro-preview-customtools |
-| 38 | `x.one-origin.ai` | $2 | $12 | Gemini官方 | 1 | gemini-3.1-pro-preview-customtools |
-| 39 | `hiapi.online` | $2.8 | $16.8 | default | 1 | gemini-3.1-pro-preview-customtools |
-| 40 | `www.amutes.com` | $3 | $18 | aistudio | 1.5 | gemini-3.1-pro-preview-customtools |
-| 41 | `api.oullm.com` | $3.2 | $19.2 | vt-gemini | 1.6 | gemini-3.1-pro-preview-customtools |
-| 42 | `www.xpivot.top` | $3.2 | $19.2 | Gemini | 1.6 | gemini-3.1-pro-preview-customtools |
-| 43 | `nxaiapp.com` | $3.5 | $21 | Gemini【稳】 | 1.75 | gemini-3.1-pro-preview-customtools |
-| 44 | `70.33.249.114` | $3.6 | $21.6 | vtgemini | 1.8 | gemini-3.1-pro-preview-customtools |
-| 45 | `ai.soruxgpt.com` | $3.6 | $21.6 | gemini-chat | 1.8 | gemini-3.1-pro-preview-customtools |
-| 46 | `catapi.catcard.uk` | $3.6 | $21.6 | 【自营】Gemini-Vertex | 1.8 | gemini-3.1-pro-preview-customtools |
-| 47 | `emengai.com` | $3.6 | $21.6 | vertex-gemini | 1.8 | gemini-3.1-pro-preview-customtools |
-| 48 | `api.yourapi.cn` | $3.8 | $22.8 | 企业池-gemini-官key | 1.9 | gemini-3.1-pro-preview-customtools |
-| 49 | `ai.comfly.org` | $4 | $24 | gemini优质 | 2 | gemini-3.1-pro-preview-customtools |
-| 50 | `ai.t8star.org` | $4 | $24 | gemini优质 | 2 | gemini-3.1-pro-preview-customtools |
+## 实付价（按 ¥ 排序）
 
-> 另有 80 站未列出；26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `cf-api.o1key.com` | ¥0.3048 | $0.3 / - | 1.016 | - | gemini-3.1-pro-preview-customtools |
+| 2 | `botcf.com` | ¥0.56 | $0.56 / $3.36 | 1 | 🪐gemini-antigravity | gemini-3.1-pro-preview-customtools |
+| 3 | `b.kr777.top` | ¥0.6 | $0.6 / $3.6 | 1 | Gemini | gemini-3.1-pro-preview-customtools |
+| 4 | `daoxe.com` | ¥0.618 | $0.6 / $3.6 | 1.03 | Ant-Gemini | gemini-3.1-pro-preview-customtools |
+| 5 | `91token.ai` | ¥1 | $1 / $6 | 1 | 个人用户组 | gemini-3.1-pro-preview-customtools |
+| 6 | `coderelay.cn` | ¥1.2 | $1.2 / $7.2 | 1 | Gemini | gemini-3.1-pro-preview-customtools |
+| 7 | `rockapi.ai` | ¥1.4 | $1.4 / $8.4 | 1 | 0.7x | gemini-3.1-pro-preview-customtools |
+| 8 | `api.linktoagi.com` | ¥1.6 | $1.6 / $9.6 | 1 | Gemini | gemini-3.1-pro-preview-customtools |
+| 9 | `api.wukong.support` | ¥1.6 | $1.6 / $9.6 | 1 | gemini优质 | gemini-3.1-pro-preview-customtools |
+| 10 | `123api.co` | ¥2 | $2 / $12 | 1 | default | gemini-3.1-pro-preview-customtools |
+| 11 | `api.nuwarouter.com` | ¥2 | $2 / $12 | 1 | Gemini-aistudio | gemini-3.1-pro-preview-customtools |
+| 12 | `api.yuboar.com` | ¥2 | $2 / $12 | 1 | Gemini | gemini-3.1-pro-preview-customtools |
+| 13 | `bridge.pulseneko.com` | ¥2 | $2 / $12 | 1 | gemini | gemini-3.1-pro-preview-customtools |
+| 14 | `easyrouter.io` | ¥2 | $2 / $12 | 1 | default | gemini-3.1-pro-preview-customtools |
+| 15 | `kfcv50.link` | ¥2 | $2 / $12 | 1 | Gemini_vip | gemini-3.1-pro-preview-customtools |
+| 16 | `qiuqiutoken.com` | ¥2 | $2 / $12 | 1 | Gemini专用-Ultra号池 | gemini-3.1-pro-preview-customtools |
+| 17 | `www.micuapi.ai` | ¥2 | $2 / $12 | 1 | - | gemini-3.1-pro-preview-customtools |
+| 18 | `hiapi.online` | ¥2.8 | $2.8 / $16.8 | 1 | default | gemini-3.1-pro-preview-customtools |
+| 19 | `api.xhuoai.com` | ¥3 | $2 / $12 | 1.5 | default | gemini-3.1-pro-preview-customtools |
+| 20 | `www.xpivot.top` | ¥3.2 | $3.2 / $19.2 | 1 | Gemini | gemini-3.1-pro-preview-customtools |
+| 21 | `ai.soruxgpt.com` | ¥3.6 | $3.6 / $21.6 | 1 | gemini-chat | gemini-3.1-pro-preview-customtools |
+| 22 | `api.apiplus.org` | ¥3.6 | $7.2 / $43.2 | 0.5 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 23 | `api.vectorengine.ai` | ¥3.6 | $7.2 / $43.2 | 0.5 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 24 | `api.wlai.vip` | ¥3.6 | $7.2 / $43.2 | 0.5 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 25 | `api.zhongzhuan.chat` | ¥3.6 | $7.2 / $43.2 | 0.5 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 26 | `api.zhongzhuan.vip` | ¥3.6 | $7.2 / $43.2 | 0.5 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 27 | `catapi.catcard.uk` | ¥3.6 | $3.6 / $21.6 | 1 | 【自营】Gemini-Vertex | gemini-3.1-pro-preview-customtools |
+| 28 | `emengai.com` | ¥3.6 | $3.6 / $21.6 | 1 | vertex-gemini | gemini-3.1-pro-preview-customtools |
+| 29 | `yunwu.ai` | ¥3.6 | $7.2 / $43.2 | 0.5 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 30 | `api.yourapi.cn` | ¥3.8 | $3.8 / $22.8 | 1 | 企业池-gemini-官key | gemini-3.1-pro-preview-customtools |
+| 31 | `api.aicso.top` | ¥3.96 | $7.2 / $43.2 | 0.55 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 32 | `api.clai.click` | ¥3.96 | $7.2 / $43.2 | 0.55 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 33 | `api.winfull.cloud-ip.cc` | ¥3.96 | $7.2 / $43.2 | 0.55 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 34 | `api123.eu.cc` | ¥3.96 | $7.2 / $43.2 | 0.55 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 35 | `api.bltcy.ai` | ¥4 | $4 / $24 | 1 | gemini优质 | gemini-3.1-pro-preview-customtools |
+| 36 | `api.dawclaudecode.com` | ¥4 | $4 / $24 | 1 | gemini | gemini-3.1-pro-preview-customtools |
+| 37 | `dawcode.com` | ¥4 | $4 / $24 | 1 | gemini | gemini-3.1-pro-preview-customtools |
+| 38 | `dawvip.com` | ¥4 | $4 / $24 | 1 | gemini | gemini-3.1-pro-preview-customtools |
+| 39 | `nexaxis.ai` | ¥4 | $4 / $24 | 1 | Gemini | gemini-3.1-pro-preview-customtools |
+| 40 | `www.mrouter.com` | ¥4 | $4 / $18 | 1 | GCP | gemini-3.1-pro-preview-customtools |
+| 41 | `yuli.host` | ¥4.176 | $7.2 / $43.2 | 0.58 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 42 | `api.zhiyikeji.cn` | ¥4.32 | $7.2 / $43.2 | 0.6 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 43 | `apistudio.vip` | ¥4.32 | $7.2 / $43.2 | 0.6 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 44 | `one.chatshare.one` | ¥4.32 | $7.2 / $43.2 | 0.6 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 45 | `aiyiwei.vip` | ¥4.536 | $7.2 / $43.2 | 0.63 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 46 | `anyaigc.com` | ¥4.752 | $7.2 / $43.2 | 0.66 | 官转gemini | gemini-3.1-pro-preview-customtools |
+| 47 | `test-api.apiqik.online` | ¥4.76 | $0.68 / $4.08 | 7 | vertex/sp/gemini | gemini-3.1-pro-preview-customtools |
+| 48 | `ai.comfly.org` | ¥4.8 | $4 / $24 | 1.2 | gemini优质 | gemini-3.1-pro-preview-customtools |
+| 49 | `xh.v1api.cc` | ¥4.8 | $6 / $36 | 0.8 | default | gemini-3.1-pro-preview-customtools |
+| 50 | `api.novaris.com.cn` | ¥5 | $5 / $30 | 1 | Gemini 官转 | gemini-3.1-pro-preview-customtools |
+
+> 另有 75 站未列出。
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `levelup.mom` | $0.5 / $3 | Gemini Banana3Pro生图号池 | 0.25 | gemini-3.1-pro-preview-customtools |
+| 2 | `api.hy88.my` | $1.2 / $7.2 | gemini_pro | 0.6 | gemini-3.1-pro-preview-customtools |
+| 3 | `aicat.api.sumnece.com` | $4.2 / $25.2 | Gemini-Vertex | 2.1 | gemini-3.1-pro-preview-customtools |
+| 4 | `tokenwenwen.com` | $12 / $72 | GCP  Gemini官方直连 | 6 | gemini-3.1-pro-preview-customtools |
+| 5 | `officesai.top` | $56 / $336 | Image绘图 4K | 1 | gemini-3.1-pro-preview-customtools |
+| 6 | `api.rcouyi.com` | $60 / $360 | default | 1 | gemini-3.1-pro-preview-customtools |
+
+> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

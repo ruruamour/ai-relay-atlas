@@ -1,32 +1,41 @@
 # flux-2-pro
 
-> 27 站提供 · 正常价 22 站 · 中位价 **$0.0475**（$/次）· 推算，未对账
+> 27 站提供 · 正常价 22 站 · 名义中位价 **$0.0475**/次 · 实付中位价 **¥0.21**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+## 实付价（按 ¥ 排序）
+
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.camel-hub.cn` | ¥0.048 | $0.06 | 0.8 | default | flux-2-pro |
+| 2 | `api.wanapis.com` | ¥0.05 | $0.05 | 1 | default | flux-2-pro |
+| 3 | `newapi.prorisehub.com` | ¥0.05 | $0.05 | 1 | 图像-低 | flux-2-pro |
+| 4 | `tokenmarket.cheap` | ¥0.05 | $0.05 | 1 | 图像(逆向渠道) | flux-2-pro |
+| 5 | `airouter.dev` | ¥0.1005 | $0.015 | 6.7 | Pro | flux-2-pro |
+| 6 | `keypool.space` | ¥0.12 | $0.12 | 1 | default | flux-2-pro |
+| 7 | `hboom.ai` | ¥0.1632 | $0.024 | 6.8 | Flux-Top | flux-2-pro |
+| 8 | `hk.hbapis.com` | ¥0.1632 | $0.024 | 6.8 | Flux-Top | flux-2-pro |
+| 9 | `toapis.com` | ¥0.175 | $0.025 | 7 | default | flux-2-pro |
+| 10 | `api.xgapi.top` | ¥0.2 | $0.2 | 1 | default | flux-2-pro |
+| 11 | `api.apiyi.com` | ¥0.21 | $0.03 | 7 | default | flux-2-pro |
+| 12 | `api.laozhang.ai` | ¥0.21 | $0.03 | 7 | default | flux-2-pro |
+| 13 | `www.hohoapi.com` | ¥0.225 | $0.075 | 3 | image | flux-2-pro |
+| 14 | `116.62.113.242` | ¥0.30222 | $0.0414 | 7.3 | 图像模型聚合(可自定义图像参数) | flux-2-pro |
+| 15 | `synthapi.asia` | ¥0.30222 | $0.0414 | 7.3 | 图像模型聚合(可自定义图像参数) | flux-2-pro |
+| 16 | `tokenflux.ai` | ¥0.315 | $0.045 | 7 | default | image/black-forest-labs/flux-2-pro |
+| 17 | `api.tiantoken.com` | ¥0.3285 | $0.045 | 7.3 | default | flux-2-pro |
+| 18 | `tidewhisper-ai.xyz` | ¥0.3285 | $0.045 | 7.3 | default | flux-2-pro |
+| 19 | `laysoai.com` | ¥0.39 | $0.39 | 1 | Azure-Gpt-3 | flux-2-pro |
+| 20 | `api2.aigcbest.top` | ¥0.875 | $0.25 | 3.5 | default | black-forest-labs/flux-2-pro |
+| 21 | `nbapi.net` | ¥0.876 | $0.12 | 7.3 | default | flux-2-pro |
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `airouter.dev` | $0.015 | Pro | 0.5 | flux-2-pro |
-| 2 | `hboom.ai` | $0.024 | Flux-Top | 0.8 | flux-2-pro |
-| 3 | `hk.hbapis.com` | $0.024 | Flux-Top | 0.8 | flux-2-pro |
-| 4 | `toapis.com` | $0.025 | vip | 1 | flux-2-pro |
-| 5 | `api.apiyi.com` | $0.03 | default | 1 | flux-2-pro |
-| 6 | `api.laozhang.ai` | $0.03 | default | 1 | flux-2-pro |
-| 7 | `116.62.113.242` | $0.0414 | 视频模型聚合 | 0.07 | flux-2-pro |
-| 8 | `synthapi.asia` | $0.0414 | 视频模型聚合 | 0.07 | flux-2-pro |
-| 9 | `api.tiantoken.com` | $0.045 | default | 1 | flux-2-pro |
-| 10 | `tidewhisper-ai.xyz` | $0.045 | default | 1 | flux-2-pro |
-| 11 | `tokenflux.ai` | $0.045 | default | 1 | image/black-forest-labs/flux-2-pro |
-| 12 | `api.wanapis.com` | $0.05 | default | 1 | flux-2-pro |
-| 13 | `newapi.prorisehub.com` | $0.05 | default | 1 | flux-2-pro |
-| 14 | `tokenmarket.cheap` | $0.05 | 图像(逆向渠道) | 1 | flux-2-pro |
-| 15 | `api.camel-hub.com` | $0.06 | default | 1 | flux-2-pro |
-| 16 | `panel.hanhegufei.online` | $0.07 | gemini生图 | 1 | fal/flux-2-pro |
-| 17 | `www.hohoapi.com` | $0.075 | image | 1 | flux-2-pro |
-| 18 | `keypool.space` | $0.12 | default | 1 | flux-2-pro |
-| 19 | `nbapi.net` | $0.12 | default | 1 | flux-2-pro |
-| 20 | `api.xgapi.top` | $0.2 | default | 1 | flux-2-pro |
-| 21 | `api2.aigcbest.top` | $0.25 | default | 1 | black-forest-labs/flux-2-pro |
-| 22 | `laysoai.com` | $0.39 | Azure-Gpt-3 | 3.25 | flux-2-pro |
+| 1 | `panel.hanhegufei.online` | $0.07 | gemini生图 | 1 | fal/flux-2-pro |
 
 > 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

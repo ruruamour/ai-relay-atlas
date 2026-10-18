@@ -1,60 +1,73 @@
 # qwen-max
 
-> 137 站提供 · 正常价 122 站 · 中位价 **$2.4**（$/1M 输入）· 推算，未对账
+> 135 站提供 · 正常价 121 站 · 名义中位价 **$2.4**/1M 输入 · 实付中位价 **¥1.8**/1M 输入（119 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `api.aliyunfuwu.top` | $0.2 | $0.6 | relay | 0.5 | qwen-max |
-| 2 | `ai-model.chinaz.net` | $0.328767 | $1.31507 | default | 1 | qwen-max |
-| 3 | `api.pezayo.com` | $0.3428 | $1.36822 | default | 1 | qwen-max |
-| 4 | `aws.baby` | $0.342857 | $1.37143 | 阿里云百炼大客户 | 1 | qwen-max |
-| 5 | `zgc.apihy.com` | $0.3529 | $1.4118 | default | 1 | qwen-max |
-| 6 | `api.bianxie.ai` | $0.354 | $1.416 | default | 1 | qwen-max |
-| 7 | `api2.aigcbest.top` | $0.624 | $2.496 | 通用大模型 | 0.26 | qwen-max |
-| 8 | `api.openlux.ai` | $0.8 | $3.2 | Alibaba-1 | 0.5 | qwen-max |
-| 9 | `api.relayrouter.ai` | $0.8 | $3.2 | Alibaba-1 | 0.5 | qwen-max |
-| 10 | `api.tidewhisper-ai.xyz` | $0.88 | $3.52 | Alibaba-1 | 0.55 | qwen-max |
-| 11 | `gzxbykj.com` | $0.88 | $3.52 | Alibaba-1 | 0.55 | qwen-max |
-| 12 | `ai.nodeloc.com` | $0.9 | $3.6 | default | 1 | qwen-max |
-| 13 | `gpt-api.cc` | $0.9 | $3.6 | default | 1 | qwen-max |
-| 14 | `v2.cloudmist.cloud` | $0.92 | $3.68 | Alibaba-1 | 0.575 | qwen-max |
-| 15 | `www.vectronode.com` | $0.96 | $3.84 | Alibaba-1 | 0.6 | qwen-max |
-| 16 | `ciyuan.today` | $1 | $4 | Alibaba-1 | 0.625 | qwen-max |
-| 17 | `gptapi.top` | $1 | $4 | Alibaba-1 | 0.625 | qwen-max |
-| 18 | `makerend.com` | $1 | $4 | Alibaba-1 | 0.625 | qwen-max |
-| 19 | `moliapi.com` | $1.008 | $4.032 | Alibaba-1 | 0.63 | qwen-max |
-| 20 | `ai-api.cc` | $1.04 | $4.16 | Alibaba-1 | 0.65 | qwen-max |
-| 21 | `nodapi.com` | $1.056 | $4.224 | Alibaba-1 | 0.66 | qwen-max |
-| 22 | `anyaigc.ai` | $1.08 | $4.32 | Alibaba-1 | 0.675 | qwen-max |
-| 23 | `sheepaiplus.top` | $1.12 | $4.48 | Alibaba-1 | 0.7 | qwen-max |
-| 24 | `xiguapi.icu` | $1.12 | $4.48 | Alibaba-1 | 0.7 | qwen-max |
-| 25 | `api.videocaptioner.cn` | $1.2 | $4.8 | Alibaba-1 | 0.75 | qwen-max |
-| 26 | `api.zyai.online` | $1.2 | $4.8 | mini | 0.5 | qwen-max |
-| 27 | `magic666.top` | $1.2 | $4.8 | 国产 | 0.5 | qwen-max |
-| 28 | `open.xiaojingai.com` | $1.2 | $4.8 | 阿里 | 0.5 | qwen-max |
-| 29 | `www.hohoapi.com` | $1.248 | $4.992 | qwen | 0.4 | qwen-max |
-| 30 | `api.nixapi.com` | $1.352 | $5.408 | Alibaba-1 | 0.845 | qwen-max |
-| 31 | `api.yanai.it.com` | $1.44 | $5.76 | 阿里百炼 | 0.6 | qwen-max |
-| 32 | `poloai.top` | $1.44 | $5.76 | qwen-new | 0.9 | qwen-max-0403 |
-| 33 | `poloapi.top` | $1.44 | $5.76 | qwen-new | 0.9 | qwen-max-0403 |
-| 34 | `happyapi.org` | $1.4572 | $5.8288 | vip | 1 | qwen-max-2025-01-25 |
-| 35 | `aiwuje.com` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 36 | `api.apiyi.com` | $1.6 | $6.4 | default | 1 | qwen-max |
-| 37 | `api.echoflowai.cc` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 38 | `api.laozhang.ai` | $1.6 | $6.4 | default | 1 | qwen-max |
-| 39 | `api.n1n.ai` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 40 | `api.quickrouter.ai` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 41 | `crazyrouter.com` | $1.6 | $6.4 | default | 1 | qwen-max |
-| 42 | `jeniya.cn` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 43 | `linoapi.com` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 44 | `llm-api.net` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 45 | `quanzil.cn` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 46 | `quanzil.com` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 47 | `token173.net` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 48 | `tryallapi.com` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 49 | `wellapi.ai` | $1.6 | $6.4 | Alibaba-1 | 1 | qwen-max |
-| 50 | `thousandengine.com` | $1.628 | $6.512 | Alibaba-1 | 1.0175 | qwen-max |
+## 实付价（按 ¥ 排序）
 
-> 另有 72 站未列出；15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+实付 = 名义价 × 充值价（元 / 1 美元额度）。
+
+| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+|---|---|---|---|---|---|---|
+| 1 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.6 | 1 | relay | qwen-max |
+| 2 | `aws.baby` | ¥0.342857 | $0.342857 / $1.37143 | 1 | 阿里云百炼大客户 | qwen-max |
+| 3 | `api.openlux.ai` | ¥0.8 | $0.8 / $3.2 | 1 | Alibaba-1 | qwen-max |
+| 4 | `api.relayrouter.ai` | ¥0.8 | $0.8 / $3.2 | 1 | Alibaba-1 | qwen-max |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.88 | $0.88 / $3.52 | 1 | Alibaba-1 | qwen-max |
+| 6 | `gzxbykj.com` | ¥0.88 | $0.88 / $3.52 | 1 | Alibaba-1 | qwen-max |
+| 7 | `gpt-api.cc` | ¥0.9 | $0.9 / $3.6 | 1 | default | qwen-max |
+| 8 | `www.vectronode.com` | ¥0.96 | $0.96 / $3.84 | 1 | Alibaba-1 | qwen-max |
+| 9 | `ciyuan.today` | ¥1 | $1 / $4 | 1 | Alibaba-1 | qwen-max |
+| 10 | `gptapi.top` | ¥1 | $1 / $4 | 1 | Alibaba-1 | qwen-max |
+| 11 | `makerend.com` | ¥1 | $1 / $4 | 1 | Alibaba-1 | qwen-max |
+| 12 | `moliapi.com` | ¥1.008 | $1.008 / $4.032 | 1 | Alibaba-1 | qwen-max |
+| 13 | `ai-api.cc` | ¥1.04 | $1.04 / $4.16 | 1 | Alibaba-1 | qwen-max |
+| 14 | `nodapi.com` | ¥1.056 | $1.056 / $4.224 | 1 | Alibaba-1 | qwen-max |
+| 15 | `anyaigc.ai` | ¥1.08 | $1.08 / $4.32 | 1 | Alibaba-1 | qwen-max |
+| 16 | `sheepaiplus.top` | ¥1.12 | $1.12 / $4.48 | 1 | Alibaba-1 | qwen-max |
+| 17 | `xiguapi.icu` | ¥1.12 | $1.12 / $4.48 | 1 | Alibaba-1 | qwen-max |
+| 18 | `api.88api.chat` | ¥1.2 | $1.2 / $4.8 | 1 | Alibaba-1 | qwen-max |
+| 19 | `api.apiplus.org` | ¥1.2 | $2.4 / $9.6 | 0.5 | default | qwen-max |
+| 20 | `api.vectorengine.ai` | ¥1.2 | $2.4 / $9.6 | 0.5 | default | qwen-max |
+| 21 | `api.videocaptioner.cn` | ¥1.2 | $1.2 / $4.8 | 1 | Alibaba-1 | qwen-max |
+| 22 | `api.wlai.vip` | ¥1.2 | $2.4 / $9.6 | 0.5 | default | qwen-max |
+| 23 | `api.zhongzhuan.chat` | ¥1.2 | $2.4 / $9.6 | 0.5 | default | qwen-max |
+| 24 | `api.zhongzhuan.vip` | ¥1.2 | $2.4 / $9.6 | 0.5 | default | qwen-max |
+| 25 | `api.zyai.online` | ¥1.2 | $1.2 / $4.8 | 1 | mini | qwen-max |
+| 26 | `magic666.top` | ¥1.2 | $1.2 / $4.8 | 1 | 国产 | qwen-max |
+| 27 | `open.xiaojingai.com` | ¥1.2 | $1.2 / $4.8 | 1 | 阿里 | qwen-max |
+| 28 | `yunwu.ai` | ¥1.2 | $2.4 / $9.6 | 0.5 | default | qwen-max |
+| 29 | `api.aicso.top` | ¥1.32 | $2.4 / $9.6 | 0.55 | default | qwen-max |
+| 30 | `api.clai.click` | ¥1.32 | $2.4 / $9.6 | 0.55 | default | qwen-max |
+| 31 | `api.winfull.cloud-ip.cc` | ¥1.32 | $2.4 / $9.6 | 0.55 | default | qwen-max |
+| 32 | `api123.eu.cc` | ¥1.32 | $2.4 / $9.6 | 0.55 | default | qwen-max |
+| 33 | `api.nixapi.com` | ¥1.352 | $1.352 / $5.408 | 1 | Alibaba-1 | qwen-max |
+| 34 | `yuli.host` | ¥1.392 | $2.4 / $9.6 | 0.58 | default | qwen-max |
+| 35 | `api.yanai.it.com` | ¥1.44 | $1.44 / $5.76 | 1 | 阿里百炼 | qwen-max |
+| 36 | `api.zhiyikeji.cn` | ¥1.44 | $2.4 / $9.6 | 0.6 | default | qwen-max |
+| 37 | `apistudio.vip` | ¥1.44 | $2.4 / $9.6 | 0.6 | default | qwen-max |
+| 38 | `one.chatshare.one` | ¥1.44 | $2.4 / $9.6 | 0.6 | default | qwen-max |
+| 39 | `poloai.top` | ¥1.44 | $1.44 / $5.76 | 1 | qwen-new | qwen-max-0403 |
+| 40 | `poloapi.top` | ¥1.44 | $1.44 / $5.76 | 1 | qwen-new | qwen-max-0403 |
+| 41 | `api.camel-hub.cn` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
+| 42 | `aiyiwei.vip` | ¥1.512 | $2.4 / $9.6 | 0.63 | default | qwen-max |
+| 43 | `anyaigc.com` | ¥1.584 | $2.4 / $9.6 | 0.66 | default | qwen-max |
+| 44 | `aiwuje.com` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+| 45 | `api.echoflowai.cc` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+| 46 | `api.n1n.ai` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+| 47 | `api.quickrouter.ai` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+| 48 | `jeniya.cn` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+| 49 | `linoapi.com` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+| 50 | `llm-api.net` | ¥1.6 | $1.6 / $6.4 | 1 | Alibaba-1 | qwen-max |
+
+> 另有 69 站未列出。
+
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `happyapi.org` | $1.4572 / $5.8288 | default | 1 | qwen-max-2025-01-25 |
+| 2 | `apiai.shop` | $2.4 / $9.6 | default | 1 | qwen-max-latest |
+
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

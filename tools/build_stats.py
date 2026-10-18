@@ -58,6 +58,12 @@ def main():
     L += ['| %s | %d |' % (k, v) for k, v in s['via'].most_common()]
     L += ['', '## 系统', '', '| 系统 | 站点 |', '|---|---|']
     L += ['| %s | %d |' % (k, v) for k, v in s['system'].most_common()]
+    tps = [valid_topup(r['topup_cny_per_usd']) for r in s['rl'] if valid_topup(r['topup_cny_per_usd'])]
+    if tps:
+        L += ['', '## 充值价（元 / 1 美元额度）', '', '公开了充值价的站：%d。' % len(tps), '',
+              '| 区间 | 站点 |', '|---|---|']
+        for lo, hi, lab in [(0, 1.5, '≤1.5（约 1:1）'), (1.5, 3.5, '1.5–3.5'), (3.5, 6, '3.5–6'), (6, 99, '≥6（接近汇率）')]:
+            L.append('| %s | %d |' % (lab, sum(1 for x in tps if lo < x <= hi or (lo == 0 and x <= hi))))
     L += ['', '## 模型家族', '', '| 家族 | 基础模型数 | 覆盖站点 |', '|---|---|---|']
     L += ['| %s | %d | %d |' % (FAMILY_NAME[c], len(s['fam_models'][c]), len(s['fam_sites'][c]))
           for c in FAMILY_ORDER if s['fam_models'].get(c)]
