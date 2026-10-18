@@ -128,6 +128,16 @@ def family(base):
     return 'other'
 
 
+# 疑似密钥：个别站把 API Key 误填进模型名/分组名，入库前丢弃
+SECRET_RX = re.compile(r'sk-[A-Za-z0-9]{32,}|sk-ant-[A-Za-z0-9_-]{20,}|AIza[0-9A-Za-z_-]{35}|gh[pousr]_[A-Za-z0-9]{30,}|'
+                       r'github_pat_[A-Za-z0-9_]{30,}|xai-[A-Za-z0-9]{30,}|AKIA[A-Z0-9]{16}|'
+                       r'eyJ[A-Za-z0-9_-]{20,}\.eyJ[A-Za-z0-9_-]{20,}', re.I)
+
+
+def has_secret(*vals):
+    return any(SECRET_RX.search(v or '') for v in vals)
+
+
 PROMO_RX = re.compile(r'福利|特价|特惠|免费|free|公益|限时|体验|白嫖|award|活动|赠送|测试|test|试用', re.I)
 
 

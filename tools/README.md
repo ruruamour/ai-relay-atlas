@@ -25,7 +25,8 @@ bash tools/build.sh
 
 | 脚本 | 作用 |
 |---|---|
-| `build.sh` | 一键重建：dedupe → 店铺归一 → 模型榜单 → 统计 → README |
+| `build.sh` | 一键重建：dedupe → 店铺归一 → 模型榜单 → 统计 → README → 密钥检查 |
+| `check_secrets.sh` | 检查仓库里有没有疑似 API Key/Token（有则报错，禁止提交） |
 | `scan.py` | 扫 New-API `/api/pricing` 与 Sub2API `/api/v1/model-plaza`，取最低付费分组价，区分按量/按次 |
 | `merge.py` | 扫描结果并入 `relays.csv` / `relay-models.csv`，别名自动映射主域名 |
 | `dedupe.py` | 合并别名与镜像、剔除泛解析子域、归一模型名、打价格标记、识别疑似同后端 |
@@ -40,6 +41,10 @@ bash tools/build.sh
 | `discover/` | 找新站的方法（Veridrop、GitHub 名单、证书日志） |
 | `legacy/` | 早期一次性脚本，已停用 |
 | `prompts/` | 让 AI 代理执行扫描任务的提示词 |
+
+## 安全
+
+个别站会把 API Key 误填进模型名或分组名，`merge.py` / `dedupe.py` 入库前会丢弃这类行；`build.sh` 最后跑 `check_secrets.sh` 兜底。**提交前务必看到 ✓。**
 
 ## 去重规则（dedupe.py）
 

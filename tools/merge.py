@@ -17,7 +17,7 @@ def rows_from(host_blob):
     for key, src in (('pricing', 'newapi:/api/pricing'), ('plaza', 'sub2api:/api/v1/model-plaza')):
         for x in host_blob.get(key) or []:
             m = (x.get('model') or '').strip()
-            if not m or m in seen:
+            if not m or m in seen or has_secret(m, x.get('group')):
                 continue
             seen.add(m)
             out.append(dict(model=m, billing=x.get('billing') or 'token', input_usd_m=fmt(x.get('input')),

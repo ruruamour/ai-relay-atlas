@@ -109347,7 +109347,6 @@ liangjiewis.com,Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo,qwen3-coder-480b-a35b-
 liangjiewis.com,Qwen/Qwen3-Next-80B-A3B-Instruct,qwen3-next-80b-a3b-instruct,token,5.13281,62.7344,,self-hosted,1,2.56641,newapi:/api/pricing,,2026-10-18
 liangjiewis.com,Qwen/Qwen3-VL-235B-A22B-Instruct,qwen3-vl-235b-a22b-instruct,token,11.4062,68.4375,,self-hosted,1,5.70312,newapi:/api/pricing,,2026-10-18
 liangjiewis.com,Qwen/Qwen3-VL-30B-A3B-Instruct,qwen3-vl-30b-a3b-instruct,token,8.55469,34.2188,,self-hosted,1,4.27734,newapi:/api/pricing,,2026-10-18
-liangjiewis.com,sk-REDACTED,sk-REDACTED,token,75,75,,default,1,37.5,newapi:/api/pricing,default,2026-10-18
 liangjiewis.com,text-embedding-3-small,text-embedding-3-small,token,0.95,0.95,,default,1,0.475,newapi:/api/pricing,high,2026-10-18
 liangxinapi.top,claude-fable-5,claude-fable-5,token,4.5,4.5,,Claude-kiro无缓存,0.06,37.5,newapi:/api/pricing,,2026-10-18
 liangxinapi.top,claude-fable-5[次],claude-fable-5,token,75,75,,按次,1,37.5,newapi:/api/pricing,default,2026-10-18

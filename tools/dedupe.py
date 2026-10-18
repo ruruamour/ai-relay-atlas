@@ -92,7 +92,7 @@ def main():
     by = defaultdict(dict)
     for r in rows:
         d, m = r['domain'], (r['model'] or '').strip()
-        if not d or not m:
+        if not d or not m or has_secret(m, r.get('group')):
             continue
         r['model'] = m
         prev = by[d].get(m)
@@ -244,6 +244,8 @@ def main():
         donor = max(cands, key=lambda d: (max((r.get('last_checked') or '') for r in by[d].values()),
                                           len(by[d]), d == can, -len(d))) if cands else None
         ci = dict(info.get(can) or {})
+        if has_secret(ci.get('name'), ci.get('notes')):
+            ci['name'], ci['notes'] = '', ''
         for d in ms:
             o = info.get(d) or {}
             if score(d) > (num(ci.get('veridrop_score')) or 0):

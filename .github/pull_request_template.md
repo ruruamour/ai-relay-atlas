@@ -12,3 +12,4 @@
 - [ ] 未包含账号密码、cookie、token
 - [ ] 已填 `last_checked`
 - [ ] 价格标注了来源接口
+- [ ] 已运行 `bash tools/build.sh`，末尾显示 ✓ 未发现疑似密钥
