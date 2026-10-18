@@ -1,6 +1,6 @@
 # qwen2.5-14b-instruct
 
-> 27 站提供 · 正常价 19 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（19 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 32 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,22 +12,40 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.15 | 1 | relay | Qwen2.5-14B-Instruct |
 | 2 | `www.mrouter.com` | ¥0.143 | $0.143 / $0.429 | 1 | sp1 | Qwen2.5-14B-Instruct |
-| 3 | `api.vectorengine.ai` | ¥0.5 | $1 / $3 | 0.5 | default | qwen2.5-14b-instruct |
-| 4 | `api.zhongzhuan.vip` | ¥0.5 | $1 / $3 | 0.5 | default | qwen2.5-14b-instruct |
-| 5 | `api.zyai.online` | ¥0.5 | $0.5 / $1.5 | 1 | mini | qwen2.5-14b-instruct |
-| 6 | `yuli.host` | ¥0.58 | $1 / $3 | 0.58 | default | qwen2.5-14b-instruct |
-| 7 | `api.zhiyikeji.cn` | ¥0.6 | $1 / $3 | 0.6 | default | qwen2.5-14b-instruct |
-| 8 | `apistudio.vip` | ¥0.6 | $1 / $3 | 0.6 | default | qwen2.5-14b-instruct |
-| 9 | `one.chatshare.one` | ¥0.6 | $1 / $3 | 0.6 | default | qwen2.5-14b-instruct |
-| 10 | `www.xiaoruiera.top` | ¥0.8 | $1 / $3 | 0.8 | default | qwen2.5-14b-instruct |
-| 11 | `api.ocoolai.com` | ¥0.95 | $0.95 / $2.85 | 1 | cn | qwen2.5-14b-instruct |
-| 12 | `api.anthropicricardo.club` | ¥1 | $1 / $3 | 1 | default | qwen2.5-14b-instruct |
-| 13 | `dawnnode.com` | ¥1 | $1 / $3 | 1 | default | qwen2.5-14b-instruct |
-| 14 | `keypool.space` | ¥1 | $1 / $3 | 1 | vip | qwen2.5-14b-instruct |
-| 15 | `kfcv50.link` | ¥1 | $1 / $3 | 1 | Domestic | qwen2.5-14b-instruct |
-| 16 | `ruishiglobal.com` | ¥1.08 | $1 / $3 | 1.08 | default | qwen2.5-14b-instruct |
-| 17 | `api2.aigcbest.top` | ¥1.274 | $0.364 / $1.092 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-14B-Instruct |
-| 18 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-14b-instruct |
-| 19 | `api.xistree.hk` | ¥7.3 | $1 / $3 | 7.3 | default | qwen2.5-14b-instruct |
+| 3 | `api.zyai.online` | ¥0.5 | $0.5 / $1.5 | 1 | mini | qwen2.5-14b-instruct |
+| 4 | `mb.dmxapi.cn` | ¥0.7 | $0.14 / $0.14 | 5 | default | qwen2.5-14b-instruct |
+| 5 | `api.ocoolai.com` | ¥0.95 | $0.95 / $2.85 | 1 | cn | qwen2.5-14b-instruct |
+| 6 | `ocool.cn` | ¥0.95 | $0.95 / $2.85 | 1 | cn | qwen2.5-14b-instruct |
+| 7 | `keypool.space` | ¥1 | $1 / $3 | 1 | vip | qwen2.5-14b-instruct |
+| 8 | `kfcv50.link` | ¥1 | $1 / $3 | 1 | Domestic | qwen2.5-14b-instruct |
+| 9 | `api2.aigcbest.top` | ¥1.274 | $0.364 / $1.092 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-14B-Instruct |
+| 10 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-14b-instruct |
+| 11 | `hy88.my` | ¥4.38 | $0.6 / $1.8 | 7.3 | qwen | qwen2.5-14b-instruct |
+| 12 | `kaopuapi.com` | ¥7.3 | $1 / $3 | 7.3 | cn1 | Qwen2.5-14B-Instruct |
+| 13 | `mrouter.cn` | ¥7.3 | $1 / $3 | 7.3 | cn1 | Qwen2.5-14B-Instruct |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `ai.kalehui.cn` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 2 | `aiopus.top` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 3 | `api.anthropicricardo.club` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 4 | `api.gpt666claude.top` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 5 | `api.token173.net` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 6 | `api.vectorengine.ai` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 7 | `api.xistree.hk` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 8 | `api.zhiyikeji.cn` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 9 | `api.zhongzhuan.vip` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 10 | `apistudio.vip` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 11 | `dawnnode.com` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 12 | `juhe.34ku.com` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 13 | `one.chatshare.one` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 14 | `ruishiglobal.com` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 15 | `tiantoken.cn` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 16 | `token.kkdmx.com` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 17 | `vortexapi.cn` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 18 | `www.xiaoruiera.top` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+| 19 | `yuli.host` | $1 / $3 | default | 1 | qwen2.5-14b-instruct |
+
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

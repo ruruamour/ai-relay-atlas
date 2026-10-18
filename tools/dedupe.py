@@ -89,15 +89,26 @@ def main():
     if os.path.exists(sp):
         split = {x.split('#')[0].strip() for x in open(sp, encoding='utf-8')} - {''}
 
-    def union(x, y):
-        if x in split or y in split:  # 人工标记为独立站点，不与任何域名合并
-            return
-        rx, ry = find(x), find(y)
-        if rx != ry:
-            par[ry] = rx
+    mset = {d: set(by[d]) if d in by else set() for d in doms}
 
+    def union(x, y, guard=False):
+        if x in split or y in split:  # 人工标记为独立站点，不与任何域名合并
+            return False
+        rx, ry = find(x), find(y)
+        if rx == ry:
+            return True
+        A, B = mset[rx], mset[ry]
+        # 保护：两边都有价格表（≥10 个模型）且模型集合差异大 → 同一运营方的不同部署，不合并（否则丢一张价格表）
+        if guard and len(A) >= 10 and len(B) >= 10 and len(A & B) / len(A | B) < 0.6:
+            return False
+        par[ry] = rx
+        mset[rx] = A if len(A) >= len(B) else B
+        return True
+
+    alias_split = 0
     for al, ca in alias_of.items():
-        union(ca, al)
+        if not union(ca, al, guard=True):
+            alias_split += 1
 
     # ---- 泛解析：扫描生成的 "前缀.父域"，若 "随机.父域" 也能解析，则该前缀没有意义（泛解析产物）----
     def generated(d):
@@ -162,14 +173,28 @@ def main():
             for d in ds:
                 if d not in by:
                     union(p, d)
-    # 规则 3：同可注册域（非共享托管域）+ 完全同价表
-    hosts_per_rd = defaultdict(set)
+    # 共享托管域判定：同一可注册域下 ≥4 个主机，且站名大多各不相同（多租户/免费二级域）
+    #   同一运营方的多个子域（boft.ai 下都叫 BANK OF TOKEN）不算共享
+    def nn(x):
+        return re.sub(r'[\s\-_.]+', '', (x or '').lower())
+    hosts_per_rd, names_per_rd = defaultdict(set), defaultdict(list)
     for d in doms:
-        hosts_per_rd[registered(d)].add(base_host(d))
+        rd = registered(d)
+        hosts_per_rd[rd].add(base_host(d))
+        n = nn((info.get(d) or {}).get('name'))
+        if n and not is_generic_name(n):
+            names_per_rd[rd].append(n)
+    def shared(rd):
+        hs = hosts_per_rd[rd]
+        if len(hs) < 4:
+            return False
+        ns = names_per_rd[rd]
+        return len(ns) < 3 or len(set(ns)) >= max(3, len(ns) // 2)
+
     seen_rd = {}
     for d in sorted(by):
         rd = registered(d)
-        if len(hosts_per_rd[rd]) >= 4:  # ccwu.cc / railway.app 这类共享域，不按此规则合并
+        if shared(rd):  # ccwu.cc / railway.app 这类共享域，不按此规则合并
             continue
         k = (rd, FP[d])
         if k in seen_rd:
@@ -194,18 +219,36 @@ def main():
 
     # 规则 4：同一个自定义站名（来自 /api/status 或网页标题；共享托管域除外）
     #   同可注册域：直接合并；跨可注册域（换后缀）：站名不能只是域名本身（"2API" 之于 2api.xx 不算证据）
-    def nn(x):
-        return re.sub(r'[\s\-_.]+', '', (x or '').lower())
     first_name = {}
     for d in sorted(info):
         n = nn(info[d].get('name'))
-        if len(n) < 3 or is_generic_name(n) or len(hosts_per_rd[registered(d)]) >= 4:
+        if len(n) < 3 or is_generic_name(n) or shared(registered(d)):
             continue
         for k in ([('rd', registered(d), n)] + ([('brand', brand(d), n)] if n != nn(brand(d)) and len(n) >= 4 else [])):
             if k in first_name:
-                union(first_name[k], d)
+                union(first_name[k], d, guard=True)
             else:
                 first_name[k] = d
+
+    # 规则 5：多租户平台的同一租户挂在两个平台域名下（a.router.nerver.cc / a.nervers.com）
+    #   同首段标签 + （同价表 ≥5 模型 或 同自定义站名），且两边都在共享托管域
+    first_tenant = {}
+    for d in sorted(doms):
+        rd = registered(d)
+        lab = d.split('.')[0]
+        if IP_RE.match(d) or not shared(rd) or len(lab) < 2 or lab in GEN_PREFIX:
+            continue
+        keys = []
+        if d in by and len(by[d]) >= 5:
+            keys.append(('fp', lab, FP[d]))
+        n = nn((info.get(d) or {}).get('name'))
+        if len(n) >= 2 and not is_generic_name(n):
+            keys.append(('name', lab, n))
+        for k in keys:
+            if k in first_tenant and registered(first_tenant[k]) != rd:
+                union(first_tenant[k], d, guard=True)
+            else:
+                first_tenant.setdefault(k, d)
 
     clusters = defaultdict(list)
     for d in doms:
@@ -357,7 +400,7 @@ def main():
                 wildcard_removed=prev.get('wildcard_removed', 0) + junk_total,
                 backend_groups=len(groups), backend_group_sites=sum(len(g) for g in groups),
                 model_rows=len(out_rows), model_bases=len({r['model_base'] for r in out_rows}),
-                raw_model_names=len({r['model'] for r in out_rows}))
+                raw_model_names=len({r['model'] for r in out_rows}), alias_split=alias_split)
     json.dump(summ, open(SUMMARY, 'w'), indent=1, ensure_ascii=False)
     print(json.dumps(summ, ensure_ascii=False))
 

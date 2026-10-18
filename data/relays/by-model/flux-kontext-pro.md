@@ -1,6 +1,6 @@
 # flux-kontext-pro
 
-> 26 站提供 · 正常价 22 站 · 名义中位价 **$0.04**/次 · 实付中位价 **¥0.2176**/次（22 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 28 站 · 名义中位价 **$0.0475**/次 · 实付中位价 **¥0.2176**/次（26 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,17 +20,28 @@
 | 8 | `runapi.co` | ¥0.189 | $0.028 | 6.75 | default | flux-kontext-pro |
 | 9 | `api.xgapi.top` | ¥0.2 | $0.2 | 1 | default | flux-kontext-pro |
 | 10 | `kfcv50.link` | ¥0.2 | $0.2 | 1 | default | flux-kontext-pro |
-| 11 | `hboom.ai` | ¥0.2176 | $0.032 | 6.8 | Flux-Top | flux-kontext-pro |
-| 12 | `hk.hbapis.com` | ¥0.2176 | $0.032 | 6.8 | Flux-Top | flux-kontext-pro |
-| 13 | `api.apiyi.com` | ¥0.245 | $0.035 | 7 | default | flux-kontext-pro |
-| 14 | `api.laozhang.ai` | ¥0.245 | $0.035 | 7 | default | flux-kontext-pro |
-| 15 | `116.62.113.242` | ¥0.26864 | $0.0368 | 7.3 | 视频模型聚合 | flux-kontext-pro |
-| 16 | `synthapi.asia` | ¥0.26864 | $0.0368 | 7.3 | 视频模型聚合 | flux-kontext-pro |
-| 17 | `tokenflux.ai` | ¥0.28 | $0.04 | 7 | default | image/black-forest-labs/flux-kontext-pro |
-| 18 | `api.hopeai.cc` | ¥0.4 | $0.4 | 1 | default | flux-kontext-pro |
-| 19 | `api.tiantoken.com` | ¥0.4015 | $0.055 | 7.3 | default | flux-kontext-pro |
-| 20 | `tidewhisper-ai.xyz` | ¥0.4015 | $0.055 | 7.3 | default | flux-kontext-pro |
-| 21 | `api2.aigcbest.top` | ¥0.42 | $0.12 | 3.5 | default | flux-kontext-pro |
-| 22 | `api.xistree.hk` | ¥1.46 | $0.2 | 7.3 | default | black-forest-labs/flux-kontext-pro |
+| 11 | `mb.dmxapi.cn` | ¥0.2 | $0.04 | 5 | default | flux-kontext-pro |
+| 12 | `new.gateway.icu` | ¥0.2 | $0.2 | 1 | default | flux-kontext-pro |
+| 13 | `hboom.ai` | ¥0.2176 | $0.032 | 6.8 | Flux-Top | flux-kontext-pro |
+| 14 | `hk.hbapis.com` | ¥0.2176 | $0.032 | 6.8 | Flux-Top | flux-kontext-pro |
+| 15 | `api.apiyi.com` | ¥0.245 | $0.035 | 7 | default | flux-kontext-pro |
+| 16 | `api.laozhang.ai` | ¥0.245 | $0.035 | 7 | default | flux-kontext-pro |
+| 17 | `116.62.113.242` | ¥0.2686 | $0.0368 | 7.3 | 视频模型聚合 | flux-kontext-pro |
+| 18 | `synthapi.asia` | ¥0.2686 | $0.0368 | 7.3 | 图像模型聚合(可自定义图像参数) | flux-kontext-pro |
+| 19 | `tokenflux.ai` | ¥0.28 | $0.04 | 7 | default | image/black-forest-labs/flux-kontext-pro |
+| 20 | `api.ilaien.com` | ¥0.292 | $0.04 | 7.3 | default | flux-kontext-pro |
+| 21 | `api.hopeai.cc` | ¥0.4 | $0.4 | 1 | default | flux-kontext-pro |
+| 22 | `api.chatshare.one` | ¥0.4015 | $0.055 | 7.3 | default | flux-kontext-pro |
+| 23 | `api.tiantoken.com` | ¥0.4015 | $0.055 | 7.3 | default | flux-kontext-pro |
+| 24 | `tidewhisper-ai.xyz` | ¥0.4015 | $0.055 | 7.3 | default | flux-kontext-pro |
+| 25 | `token.34ku.com` | ¥0.4015 | $0.055 | 7.3 | default | flux-kontext-pro |
+| 26 | `api2.aigcbest.top` | ¥0.42 | $0.12 | 3.5 | default | flux-kontext-pro |
 
-> 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `api.xistree.hk` | $0.2 | default | 1 | black-forest-labs/flux-kontext-pro |
+| 2 | `windhub.online` | $43 | Fenghe 桌面统一路由 | 1 | flux-kontext-pro |
+
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # glm-5.3-prime
 
-> 22 站提供 · 正常价 10 站 · 名义中位价 **$1.022**/1M 输入 · 实付中位价 **¥6.88**/1M 输入（6 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 13 站 · 名义中位价 **$1.68**/1M 输入 · 实付中位价 **¥12.64**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,12 +10,15 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.0769231 | $0.0769231 / $0.0769231 | 1 | vip | glm-5.3-prime |
+| 1 | `codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | vip | glm-5.3-prime |
 | 2 | `gwlink.cc` | ¥0.7 | $0.7 / $2.2 | 1 | 国模补贴专场 | glm-5.3-prime |
 | 3 | `api.rtoc.cc` | ¥1.12 | $1.12 / $3.52 | 1 | 10 GLM | glm-5.3-prime |
-| 4 | `beeroute.ai` | ¥12.64 | $12.64 / $44.24 | 1 | CN-Model-Special​ | glm-5.3-prime |
-| 5 | `crazyrouter.com` | ¥16.7414 | $2.39163 / $8.3707 | 7 | default | glm-5.3-prime |
-| 6 | `api.tacklekey.com` | ¥31.4461 | $4.30769 / $13.5385 | 7.3 | default | z-ai/glm-5.3-prime |
+| 4 | `ent.yzcld.com` | ¥1.697 | $1.68 / $5.28 | 1.01 | GLM | glm-5.3-prime |
+| 5 | `beeroute.ai` | ¥12.64 | $12.64 / $44.24 | 1 | CN-Model-Special​ | glm-5.3-prime |
+| 6 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥12.64 | $12.64 / $44.24 | 1 | CN-Model-Special​ | glm-5.3-prime |
+| 7 | `crazyrouter.com` | ¥16.74 | $2.39163 / $8.3707 | 7 | default | glm-5.3-prime |
+| 8 | `hub.yzcld.com` | ¥20.44 | $2.8 / $8.8 | 7.3 | GLM | glm-5.3-prime |
+| 9 | `api.tacklekey.com` | ¥31.45 | $4.30769 / $13.5385 | 7.3 | default | z-ai/glm-5.3-prime |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

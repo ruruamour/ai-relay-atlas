@@ -1,6 +1,6 @@
 # gpt-4o-search-preview
 
-> 106 站提供 · 正常价 83 站 · 名义中位价 **$17.5**/1M 输入 · 实付中位价 **¥15**/1M 输入（80 站公开充值价） · 推算，未对账
+> 140 站提供 · 正常价 109 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥11.25**/1M 输入（38 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,57 +18,92 @@
 | 6 | `rockapi.ai` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-4o-search-preview |
 | 7 | `api.34ku.com` | ¥3.25 | $3.25 / $13 | 1 | default | gpt-4o-search-preview |
 | 8 | `35.aigcbest.top` | ¥3.75 | $2.5 / $10 | 1.5 | default | gpt-4o-search-preview |
-| 9 | `api.qinzhiai.com` | ¥6.25 | $6.25 / $25 | 1 | openai | gpt-4o-search-preview |
-| 10 | `api.bltcy.ai` | ¥7.5 | $7.5 / $30 | 1 | ssvip | gpt-4o-search-preview |
-| 11 | `api.vectorengine.ai` | ¥7.5 | $15 / $60 | 0.5 | 官转OpenAI | gpt-4o-search-preview |
-| 12 | `api.zhongzhuan.vip` | ¥7.5 | $15 / $60 | 0.5 | 官转OpenAI | gpt-4o-search-preview |
-| 13 | `api.hoxkai.top` | ¥8 | $8 / $32 | 1 | openai-vip | gpt-4o-search-preview |
-| 14 | `yuli.host` | ¥8.7 | $15 / $60 | 0.58 | 官转OpenAI | gpt-4o-search-preview |
-| 15 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-search-preview |
-| 16 | `poloai.top` | ¥8.75 | $8.75 / $35 | 1 | gpt-vip | gpt-4o-search-preview |
-| 17 | `poloapi.top` | ¥8.75 | $8.75 / $35 | 1 | gpt-vip | gpt-4o-search-preview |
-| 18 | `ai.comfly.org` | ¥9 | $7.5 / $30 | 1.2 | ssvip | gpt-4o-search-preview |
-| 19 | `api.zhiyikeji.cn` | ¥9 | $15 / $60 | 0.6 | 官转OpenAI | gpt-4o-search-preview |
-| 20 | `apistudio.vip` | ¥9 | $15 / $60 | 0.6 | 官转OpenAI | gpt-4o-search-preview |
-| 21 | `one.chatshare.one` | ¥9 | $15 / $60 | 0.6 | 官转OpenAI | gpt-4o-search-preview |
-| 22 | `www.cybersol.net` | ¥9 | $4.5 / $18 | 2 | GPT Advance | gpt-4o-search-preview |
-| 23 | `llm.kagu.one` | ¥9.125 | $1.25 / $5 | 7.3 | 大杂烩 | gpt-4o-search-preview |
-| 24 | `api.apiplus.org` | ¥10 | $20 / $80 | 0.5 | 优质官转OpenAI | gpt-4o-search-preview |
-| 25 | `api.wlai.vip` | ¥10 | $20 / $80 | 0.5 | 优质官转OpenAI | gpt-4o-search-preview |
-| 26 | `api.zhongzhuan.chat` | ¥10 | $20 / $80 | 0.5 | 优质官转OpenAI | gpt-4o-search-preview |
-| 27 | `yunwu.ai` | ¥10 | $20 / $80 | 0.5 | 优质官转OpenAI | gpt-4o-search-preview |
-| 28 | `ai.t8star.org` | ¥10.125 | $7.5 / $30 | 1.35 | ssvip | gpt-4o-search-preview |
-| 29 | `api.aicso.top` | ¥11 | $20 / $80 | 0.55 | 优质官转OpenAI | gpt-4o-search-preview |
-| 30 | `api.clai.click` | ¥11 | $20 / $80 | 0.55 | 优质官转OpenAI | gpt-4o-search-preview |
-| 31 | `api.winfull.cloud-ip.cc` | ¥11 | $20 / $80 | 0.55 | 优质官转OpenAI | gpt-4o-search-preview |
-| 32 | `api123.eu.cc` | ¥11 | $20 / $80 | 0.55 | 优质官转OpenAI | gpt-4o-search-preview |
-| 33 | `zhangsan.yun` | ¥11.25 | $11.25 / $45 | 1 | image-2分组 | gpt-4o-search-preview |
-| 34 | `www.xiaoruiera.top` | ¥12 | $15 / $60 | 0.8 | 官转OpenAI | gpt-4o-search-preview |
-| 35 | `aiyiwei.vip` | ¥12.6 | $20 / $80 | 0.63 | 优质官转OpenAI | gpt-4o-search-preview |
-| 36 | `anyaigc.com` | ¥13.2 | $20 / $80 | 0.66 | 优质官转OpenAI | gpt-4o-search-preview |
-| 37 | `fluxapi.top` | ¥14 | $20 / $80 | 0.7 | 优质官转OpenAI | gpt-4o-search-preview |
-| 38 | `api.anthropicricardo.club` | ¥15 | $15 / $60 | 1 | 官转OpenAI | gpt-4o-search-preview |
-| 39 | `api.mumuverse.space` | ¥15 | $20 / $80 | 0.75 | 优质官转OpenAI | gpt-4o-search-preview |
-| 40 | `dawnnode.com` | ¥15 | $15 / $60 | 1 | 官转OpenAI | gpt-4o-search-preview |
-| 41 | `www.aifast.club` | ¥15 | $20 / $80 | 0.75 | 优质官转OpenAI | gpt-4o-search-preview |
-| 42 | `linxingran.top` | ¥15.6 | $20 / $80 | 0.78 | 优质官转OpenAI | gpt-4o-search-preview |
-| 43 | `api.qingyuntop.top` | ¥15.8 | $20 / $80 | 0.79 | 优质官转OpenAI | gpt-4o-search-preview |
-| 44 | `api.antmoo.com` | ¥16 | $20 / $80 | 0.8 | 优质官转OpenAI | gpt-4o-search-preview |
-| 45 | `minitoken.top` | ¥16 | $20 / $80 | 0.8 | 优质官转OpenAI | gpt-4o-search-preview |
-| 46 | `qianfufu.com` | ¥16 | $20 / $80 | 0.8 | 优质官转OpenAI | gpt-4o-search-preview |
-| 47 | `xiaohumini.site` | ¥16 | $20 / $80 | 0.8 | 优质官转OpenAI | gpt-4o-search-preview |
-| 48 | `xinyuanai666.com` | ¥16 | $20 / $80 | 0.8 | 优质官转OpenAI | gpt-4o-search-preview |
-| 49 | `yunai.chat` | ¥16 | $20 / $80 | 0.8 | 优质官转OpenAI | gpt-4o-search-preview |
-| 50 | `ruishiglobal.com` | ¥16.2 | $15 / $60 | 1.08 | 官转OpenAI | gpt-4o-search-preview |
-
-> 另有 30 站未列出。
+| 9 | `147ai.online` | ¥4 | $5 / $20 | 0.8 | default | gpt-4o-search-preview |
+| 10 | `big.sbgpt.site` | ¥5 | $5 / $20 | 1 | 官openai | gpt-4o-search-preview |
+| 11 | `api.bltcy.ai` | ¥7.5 | $7.5 / $30 | 1 | ssvip | gpt-4o-search-preview |
+| 12 | `api.hoxkai.top` | ¥8 | $8 / $32 | 1 | openai-vip | gpt-4o-search-preview |
+| 13 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-search-preview |
+| 14 | `poloai.top` | ¥8.75 | $8.75 / $35 | 1 | gpt-vip | gpt-4o-search-preview |
+| 15 | `www.cybersol.net` | ¥9 | $4.5 / $18 | 2 | GPT Advance | gpt-4o-search-preview |
+| 16 | `llm.kagu.one` | ¥9.125 | $1.25 / $5 | 7.3 | 大杂烩 | gpt-4o-search-preview |
+| 17 | `api.qiqiai.top` | ¥10 | $5 / $20 | 2 | Claude / OpenAI 官方 | gpt-4o-search-preview |
+| 18 | `ai.t8star.org` | ¥10.12 | $7.5 / $30 | 1.35 | ssvip | gpt-4o-search-preview |
+| 19 | `api.qinzhiai.com` | ¥11.25 | $11.25 / $45 | 1 | openai | gpt-4o-search-preview |
+| 20 | `zhangsan.yun` | ¥11.25 | $11.25 / $45 | 1 | image-2分组 | gpt-4o-search-preview |
+| 21 | `api1.147ai.com` | ¥12.5 | $12.5 / $50 | 1 | openai | gpt-4o-search-preview |
+| 22 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-4o-search-preview |
+| 23 | `apicdn.xyc.ai` | ¥17.25 | $2.5 / $10 | 6.9 | gpt-flow | gpt-4o-search-preview |
+| 24 | `apicdn.xycai.us` | ¥17.25 | $2.5 / $10 | 6.9 | gpt-flow | gpt-4o-search-preview |
+| 25 | `cn.gptapi.asia` | ¥17.5 | $17.5 / $70 | 1 | enterprise | gpt-4o-search-preview |
+| 26 | `yutoapi.com` | ¥17.5 | $17.5 / $70 | 1 | enterprise | gpt-4o-search-preview |
+| 27 | `ai2.qiqiai.top` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 28 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 29 | `api.bita-api.com` | ¥18.25 | $2.5 / $10 | 7.3 | gpt-origin | gpt-4o-search-preview |
+| 30 | `bita-api-production.up.railway.app` | ¥18.25 | $2.5 / $10 | 7.3 | gpt-origin | gpt-4o-search-preview |
+| 31 | `ssvip.dmxapi.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 32 | `api.zyai.online` | ¥18.75 | $18.75 / $75 | 1 | guan | gpt-4o-search-preview |
+| 33 | `eo.wochirou.com` | ¥20 | $20 / $80 | 1 | Official | gpt-4o-search-preview |
+| 34 | `new.foxi-api.cn` | ¥20 | $20 / $80 | 1 | 优质官转OpenAI | gpt-4o-search-preview |
+| 35 | `wochirou.com` | ¥20 | $20 / $80 | 1 | Official | gpt-4o-search-preview |
+| 36 | `vip.yinli.one` | ¥45.62 | $6.25 / $25 | 7.3 | 聚合分组稳定性95% | gpt-4o-search-preview |
+| 37 | `yinli.pro` | ¥54.75 | $7.5 / $30 | 7.3 | GPT-Azure-低价-90%稳定性 | gpt-4o-search-preview |
+| 38 | `wrduai.com` | ¥127.8 | $17.5 / $70 | 7.3 | 优质官转 | gpt-4o-search-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `supersubscribe689.com` | $1.25 / $5 | chatgpt美区版 | 0.5 | gpt-4o-search-preview |
-| 2 | `api.zhimigy.cn` | $4 / $16 | pro | 1.6 | gpt-4o-search-preview |
-| 3 | `api.akko.space` | $6.25 / $25 | Codex Azure | 2.5 | gpt-4o-search-preview |
+| 2 | `expapi.echoflowai.cc` | $2.5 / $10 | OpenAI-Pro渠道 | 1 | gpt-4o-search-preview |
+| 3 | `api.zhimigy.cn` | $4 / $16 | pro | 1.6 | gpt-4o-search-preview |
+| 4 | `api.akko.space` | $6.25 / $25 | Codex Azure | 2.5 | gpt-4o-search-preview |
+| 5 | `ai.comfly.org` | $7.5 / $30 | ssvip | 3 | gpt-4o-search-preview |
+| 6 | `poloapi.top` | $8.75 / $35 | gpt-vip | 3.5 | gpt-4o-search-preview |
+| 7 | `ai.kalehui.cn` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 8 | `aiopus.top` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 9 | `api.anthropicricardo.club` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 10 | `api.gpt666claude.top` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 11 | `api.token173.net` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 12 | `api.vectorengine.ai` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 13 | `api.zhiyikeji.cn` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 14 | `api.zhongzhuan.vip` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 15 | `apistudio.vip` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 16 | `dawnnode.com` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 17 | `juhe.34ku.com` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 18 | `one.chatshare.one` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 19 | `ruishiglobal.com` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 20 | `tiantoken.cn` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 21 | `token.kkdmx.com` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 22 | `vortexapi.cn` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 23 | `www.xiaoruiera.top` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 24 | `yuli.host` | $15 / $60 | 官转OpenAI | 6 | gpt-4o-search-preview |
+| 25 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-4o-search-preview |
+| 26 | `aiapihub.cloud` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 27 | `aiyiwei.vip` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 28 | `anyaigc.com` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 29 | `api-hub.vip` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 30 | `api.aibh.site` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 31 | `api.aicso.top` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 32 | `api.antmoo.com` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 33 | `api.apiplus.org` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 34 | `api.bitidea.cn` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 35 | `api.clai.click` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 36 | `api.cloudmist.cloud` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 37 | `api.modelyard.cc` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 38 | `api.mumuverse.space` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 39 | `api.qingyuntop.top` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 40 | `api.winfull.cloud-ip.cc` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 41 | `api.wlai.vip` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 42 | `api.xueai.me` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 43 | `api.zhongzhuan.chat` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 44 | `api123.eu.cc` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 45 | `apilink.shop` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 46 | `apipro.maynor1024.live` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 47 | `apixin.cn` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 48 | `fluxapi.top` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 49 | `juapi.cc` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
+| 50 | `lemonapi.cn` | $20 / $80 | 优质官转OpenAI | 8 | gpt-4o-search-preview |
 
-> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 另有 21 站未列出。
+
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

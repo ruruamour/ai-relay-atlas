@@ -52,11 +52,27 @@ def parse_status(j):
     d = (j or {}).get('data') if isinstance(j, dict) else None
     if not isinstance(d, dict) or not any(k in d for k in ('system_name', 'quota_per_unit', 'version')):
         return None
-    price = num(d.get('price'))
-    online = d.get('enable_online_topup')
     return dict(name=str(d.get('system_name') or '')[:80], version=str(d.get('version') or '')[:40],
-                topup=price if (price and price > 0 and online is not False) else None,
+                topup=num(d.get('price')), topup_cny=topup_cny(d),
                 self_use=bool(d.get('self_use_mode_enabled')), demo=bool(d.get('demo_site_enabled')))
+
+
+def topup_cny(d):
+    """充值价换算成"元 / 1 美元额度"。经典 New-API 的 price 就是元；部分分支用美元收款
+    （payment_currency_symbol='$'），要乘站点自己的 usd_exchange_rate；币种不明（CUSTOM 等）返回 None。"""
+    price = num(d.get('price'))
+    if not price or price <= 0 or d.get('enable_online_topup') is False:
+        return None
+    sym = str(d.get('payment_currency_symbol') or '').strip()
+    cur = str(d.get('currency_type') or '').upper()
+    if sym in ('$', 'US$', 'USD') or (cur == 'USD' and sym in ('$', '')):
+        if not sym and cur == 'USD':
+            return None  # 只有 currency_type=USD、没有收款符号：可能只是额度显示单位，不确定
+        rate = num(d.get('usd_exchange_rate'))
+        return price * rate if rate and 3 <= rate <= 10 else None
+    if cur == 'CUSTOM' or (sym and sym not in ('¥', '￥', 'CNY', 'RMB')):
+        return None
+    return price
 
 
 def parse_settings(j):
@@ -141,10 +157,21 @@ def parse_sub2api(j):
     return [v[1] for v in best.values()] or None
 
 
+ONLY = None
+
+
 def work(host):
     res = {}
     try:
         st = parse_status(fetch_json('https://%s/api/status' % host))
+        if ONLY == 'status':
+            if st:
+                res['status'] = st
+            else:
+                se = parse_settings(fetch_json('https://%s/api/v1/settings/public' % host))
+                if se:
+                    res['settings'] = se
+            raise Down('status-only')
         if st:
             res['status'] = st
             p = parse_newapi(fetch_json('https://%s/api/pricing' % host))
@@ -173,7 +200,10 @@ def main():
     ap.add_argument('src')
     ap.add_argument('out')
     ap.add_argument('--workers', type=int, default=64)
+    ap.add_argument('--only', choices=['status'], help='只刷新站点信息（站名/版本/充值价），不取价格')
     a = ap.parse_args()
+    global ONLY
+    ONLY = a.only
     hosts = [x.strip() for x in open(a.src) if x.strip()]
     res = json.load(open(a.out)) if os.path.exists(a.out) else {}
     done_p = a.out + '.done'

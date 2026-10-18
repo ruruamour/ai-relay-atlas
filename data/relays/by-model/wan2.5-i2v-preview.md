@@ -1,6 +1,6 @@
 # wan2.5-i2v-preview
 
-> 91 站提供 · 正常价 82 站 · 名义中位价 **$1**/次 · 实付中位价 **¥0.565**/次（82 站公开充值价） · 推算，未对账
+> 115 站提供 · 正常价 106 站 · 名义中位价 **$1**/次 · 实付中位价 **¥0.7223**/次（42 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,57 +10,104 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.openlux.ai` | ¥0.0716765 | $0.0716765 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 2 | `api.relayrouter.ai` | ¥0.0716765 | $0.0716765 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 3 | `api.tidewhisper-ai.xyz` | ¥0.0788442 | $0.0788442 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 4 | `gzxbykj.com` | ¥0.0788442 | $0.0788442 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 5 | `www.vectronode.com` | ¥0.0860118 | $0.0860118 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 6 | `ciyuan.today` | ¥0.0895956 | $0.0895956 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 7 | `gptapi.top` | ¥0.0895956 | $0.0895956 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 8 | `makerend.com` | ¥0.0895956 | $0.0895956 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 9 | `moliapi.com` | ¥0.0903124 | $0.0903124 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 10 | `ai-api.cc` | ¥0.0931795 | $0.0931795 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 11 | `nodapi.com` | ¥0.094613 | $0.094613 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 12 | `anyaigc.ai` | ¥0.0967633 | $0.0967633 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 13 | `sheepaiplus.top` | ¥0.100347 | $0.100347 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 14 | `xiguapi.icu` | ¥0.100347 | $0.100347 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 15 | `api.88api.chat` | ¥0.107515 | $0.107515 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 16 | `api.videocaptioner.cn` | ¥0.107515 | $0.107515 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 17 | `api.camel-hub.cn` | ¥0.12 | $0.15 | 0.8 | default | wan2.5-i2v-preview |
-| 18 | `api.nixapi.com` | ¥0.121133 | $0.121133 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 19 | `aiwuje.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 20 | `api.echoflowai.cc` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 21 | `api.n1n.ai` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 22 | `api.quickrouter.ai` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 23 | `jeniya.cn` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 24 | `linoapi.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 25 | `llm-api.net` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 26 | `quanzil.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 27 | `token173.net` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 28 | `tryallapi.com` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 29 | `wellapi.ai` | ¥0.143353 | $0.143353 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 30 | `thousandengine.com` | ¥0.145862 | $0.145862 | 1 | Alibaba-1 | wan2.5-i2v-preview |
-| 31 | `api2.aigcbest.top` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | wan2.5-i2v-preview |
-| 32 | `api.apiplus.org` | ¥0.5 | $1 | 0.5 | default | wan2.5-i2v-preview |
-| 33 | `api.vectorengine.ai` | ¥0.5 | $1 | 0.5 | default | wan2.5-i2v-preview |
-| 34 | `api.wlai.vip` | ¥0.5 | $1 | 0.5 | default | wan2.5-i2v-preview |
-| 35 | `api.zhongzhuan.chat` | ¥0.5 | $1 | 0.5 | default | wan2.5-i2v-preview |
-| 36 | `api.zhongzhuan.vip` | ¥0.5 | $1 | 0.5 | default | wan2.5-i2v-preview |
-| 37 | `yunwu.ai` | ¥0.5 | $1 | 0.5 | default | wan2.5-i2v-preview |
-| 38 | `api.aicso.top` | ¥0.55 | $1 | 0.55 | default | wan2.5-i2v-preview |
-| 39 | `api.clai.click` | ¥0.55 | $1 | 0.55 | default | wan2.5-i2v-preview |
-| 40 | `api.winfull.cloud-ip.cc` | ¥0.55 | $1 | 0.55 | default | wan2.5-i2v-preview |
-| 41 | `api123.eu.cc` | ¥0.55 | $1 | 0.55 | default | wan2.5-i2v-preview |
-| 42 | `yuli.host` | ¥0.58 | $1 | 0.58 | default | wan2.5-i2v-preview |
-| 43 | `api.zhiyikeji.cn` | ¥0.6 | $1 | 0.6 | default | wan2.5-i2v-preview |
-| 44 | `apistudio.vip` | ¥0.6 | $1 | 0.6 | default | wan2.5-i2v-preview |
-| 45 | `one.chatshare.one` | ¥0.6 | $1 | 0.6 | default | wan2.5-i2v-preview |
-| 46 | `aiyiwei.vip` | ¥0.63 | $1 | 0.63 | default | wan2.5-i2v-preview |
-| 47 | `anyaigc.com` | ¥0.66 | $1 | 0.66 | default | wan2.5-i2v-preview |
-| 48 | `fluxapi.top` | ¥0.7 | $1 | 0.7 | default | wan2.5-i2v-preview |
-| 49 | `api.mumuverse.space` | ¥0.75 | $1 | 0.75 | default | wan2.5-i2v-preview |
-| 50 | `www.aifast.club` | ¥0.75 | $1 | 0.75 | default | wan2.5-i2v-preview |
+| 1 | `api.camel-hub.com` | ¥0.12 | $0.15 | 0.8 | default | wan2.5-i2v-preview |
+| 2 | `api2.aigcbest.top` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | wan2.5-i2v-preview |
+| 3 | `api.relayrouter.ai` | ¥0.4815 | $0.0716765 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 4 | `openlux.zhongzhuan.chat` | ¥0.4815 | $0.0716765 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.5297 | $0.0788442 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 6 | `gzxbykj.com` | ¥0.5297 | $0.0788442 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 7 | `yunwu.org` | ¥0.5297 | $0.0788442 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 8 | `v2.cloudmist.cloud` | ¥0.5538 | $0.082428 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 9 | `www.vectronode.com` | ¥0.5778 | $0.0860118 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 10 | `apiclaw.cn` | ¥0.5826 | $0.0867286 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 11 | `newapi.xueai.me` | ¥0.5826 | $0.0867286 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 12 | `ciyuan.today` | ¥0.6019 | $0.0895956 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 13 | `gptapi.top` | ¥0.6019 | $0.0895956 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 14 | `makerend.com` | ¥0.6019 | $0.0895956 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 15 | `moliapi.com` | ¥0.6067 | $0.0903124 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 16 | `ai-api.cc` | ¥0.626 | $0.0931795 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 17 | `nodapi.com` | ¥0.6356 | $0.094613 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 18 | `anyaigc.ai` | ¥0.6501 | $0.0967633 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 19 | `sheepaiplus.top` | ¥0.6741 | $0.100347 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 20 | `xiguapi.icu` | ¥0.6741 | $0.100347 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 21 | `api.88api.chat` | ¥0.7223 | $0.107515 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 22 | `api.videocaptioner.cn` | ¥0.7223 | $0.107515 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 23 | `new.aigc2d.com` | ¥0.7223 | $0.107515 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 24 | `oyy-ai.xyz` | ¥0.7223 | $0.107515 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 25 | `api.nixapi.com` | ¥0.8138 | $0.121133 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 26 | `aiwuje.com` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 27 | `api.echoflowai.cc` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 28 | `api.n1n.ai` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 29 | `api.quickrouter.ai` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 30 | `jeniya.cn` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 31 | `linoapi.com` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 32 | `llm-api.net` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 33 | `quanzil.com` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 34 | `token173.net` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 35 | `tryallapi.com` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 36 | `wellapi.ai` | ¥0.963 | $0.143353 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 37 | `thousandengine.com` | ¥0.9799 | $0.145862 | 6.718 | Alibaba-1 | wan2.5-i2v-preview |
+| 38 | `api.new.bi` | ¥1 | $1 | 1 | 企业级高可用大模型 | wan2.5-i2v-preview |
+| 39 | `new.foxi-api.cn` | ¥1 | $1 | 1 | default | wan2.5-i2v-preview |
+| 40 | `www.hohoapi.com` | ¥2.34 | $0.78 | 3 | default | wan2.5-i2v-preview |
+| 41 | `plusx.nyxos.shop` | ¥5.232 | $0.716765 | 7.3 | Alibaba-1 | wan2.5-i2v-preview |
+| 42 | `api.34ku.com` | ¥6.5 | $6.5 | 1 | default | wan2.5-i2v-preview |
 
-> 另有 32 站未列出。
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `ai.kalehui.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 2 | `aiapihub.cloud` | $1 | default | 1 | wan2.5-i2v-preview |
+| 3 | `aiopus.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 4 | `aiyiwei.vip` | $1 | default | 1 | wan2.5-i2v-preview |
+| 5 | `anyaigc.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 6 | `api-hub.vip` | $1 | default | 1 | wan2.5-i2v-preview |
+| 7 | `api.aibh.site` | $1 | default | 1 | wan2.5-i2v-preview |
+| 8 | `api.aicso.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 9 | `api.anthropicricardo.club` | $1 | default | 1 | wan2.5-i2v-preview |
+| 10 | `api.antmoo.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 11 | `api.apiplus.org` | $1 | default | 1 | wan2.5-i2v-preview |
+| 12 | `api.bitidea.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 13 | `api.clai.click` | $1 | default | 1 | wan2.5-i2v-preview |
+| 14 | `api.cloudmist.cloud` | $1 | default | 1 | wan2.5-i2v-preview |
+| 15 | `api.gpt666claude.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 16 | `api.modelyard.cc` | $1 | default | 1 | wan2.5-i2v-preview |
+| 17 | `api.mumuverse.space` | $1 | default | 1 | wan2.5-i2v-preview |
+| 18 | `api.qingyuntop.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 19 | `api.token173.net` | $1 | default | 1 | wan2.5-i2v-preview |
+| 20 | `api.vectorengine.ai` | $1 | default | 1 | wan2.5-i2v-preview |
+| 21 | `api.winfull.cloud-ip.cc` | $1 | default | 1 | wan2.5-i2v-preview |
+| 22 | `api.wlai.vip` | $1 | default | 1 | wan2.5-i2v-preview |
+| 23 | `api.xueai.me` | $1 | default | 1 | wan2.5-i2v-preview |
+| 24 | `api.zhiyikeji.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 25 | `api.zhongzhuan.chat` | $1 | default | 1 | wan2.5-i2v-preview |
+| 26 | `api.zhongzhuan.vip` | $1 | default | 1 | wan2.5-i2v-preview |
+| 27 | `api123.eu.cc` | $1 | default | 1 | wan2.5-i2v-preview |
+| 28 | `apilink.shop` | $1 | default | 1 | wan2.5-i2v-preview |
+| 29 | `apipro.maynor1024.live` | $1 | default | 1 | wan2.5-i2v-preview |
+| 30 | `apistudio.vip` | $1 | default | 1 | wan2.5-i2v-preview |
+| 31 | `apixin.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 32 | `dawnnode.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 33 | `fluxapi.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 34 | `juapi.cc` | $1 | default | 1 | wan2.5-i2v-preview |
+| 35 | `juhe.34ku.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 36 | `lemonapi.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 37 | `linxingran.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 38 | `minitoken.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 39 | `new.xhuoai.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 40 | `next.aigc2d.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 41 | `one.chatshare.one` | $1 | default | 1 | wan2.5-i2v-preview |
+| 42 | `qianfufu.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 43 | `ruishiglobal.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 44 | `s.qweapi.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 45 | `solidapi.cc` | $1 | default | 1 | wan2.5-i2v-preview |
+| 46 | `sparkapi.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 47 | `startapi.top` | $1 | default | 1 | wan2.5-i2v-preview |
+| 48 | `tiantoken.cn` | $1 | default | 1 | wan2.5-i2v-preview |
+| 49 | `token.kkdmx.com` | $1 | default | 1 | wan2.5-i2v-preview |
+| 50 | `uouo.fun` | $1 | default | 1 | wan2.5-i2v-preview |
+
+> 另有 14 站未列出。
 
 > 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

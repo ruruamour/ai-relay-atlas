@@ -1,6 +1,6 @@
 # minimax-h3-768p
 
-> 22 站提供 · 正常价 16 站 · 名义中位价 **$0.145**/次 · 实付中位价 **¥0.16**/次（15 站公开充值价） · 推算，未对账
+> 29 站提供 · 正常价 18 站 · 名义中位价 **$0.13**/次 · 实付中位价 **¥0.1339**/次（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,15 +16,17 @@
 | 4 | `suanliai.top` | ¥0.09 | $0.09 | 1 | default | 特价/minimax_h3-768p |
 | 5 | `yinziapi.top` | ¥0.09 | $0.09 | 1 | 稳定视频分组 | 特价渠道 MiniMax H3-768p |
 | 6 | `www.371181668.xyz` | ¥0.1 | $0.1 | 1 | default | minimax_h3-768p |
-| 7 | `aibridgea.com` | ¥0.1339 | $0.13 | 1.03 | 视频生成分组 | minimax-h3 768p |
-| 8 | `tokenworldapi.com` | ¥0.16 | $0.16 | 1 | minimax-h3 | MiniMax-H3-768p |
-| 9 | `xixiapi.com` | ¥0.21 | $0.21 | 1 | default | minimax-h3-768p |
-| 10 | `api.new.bi` | ¥0.3 | $0.3 | 1 | New.bi-视频 | minimax-h3-768p |
-| 11 | `gw.magic666.top` | ¥0.3 | $0.3 | 1 | default | minimax-h3-768p |
-| 12 | `mydamoxing.cn` | ¥0.425 | $0.425 | 1 | minimax-video | MiniMax-H3-768p |
-| 13 | `tu.988236.xyz` | ¥0.584 | $0.08 | 7.3 | minimax系列视频 | minimax_h3-768p |
-| 14 | `www.fmgo.top` | ¥10.95 | $1.5 | 7.3 | default | minimax-h3-768p |
-| 15 | `api.supertoken.cc` | ¥199.8 | $399.6 | 0.5 | default | leonardo-minimax-h3-768p |
+| 7 | `image.yinziapi.top` | ¥0.12 | $0.12 | 1 | 稳定视频分组 | 特价渠道 MiniMax H3-768p |
+| 8 | `aibridgea.com` | ¥0.1339 | $0.13 | 1.03 | 视频生成分组 | minimax-h3 768p |
+| 9 | `ce.aibridgea.com` | ¥0.1339 | $0.13 | 1.03 | jimeng | minimax-h3 768p |
+| 10 | `tokenworldapi.com` | ¥0.16 | $0.16 | 1 | minimax-h3 | MiniMax-H3-768p |
+| 11 | `xixiapi.com` | ¥0.21 | $0.21 | 1 | default | minimax-h3-768p |
+| 12 | `api.new.bi` | ¥0.3 | $0.3 | 1 | New.bi-视频 | minimax-h3-768p |
+| 13 | `magic666.top` | ¥0.3 | $0.3 | 1 | default | minimax-h3-768p |
+| 14 | `mydamoxing.cn` | ¥0.425 | $0.425 | 1 | minimax-video | MiniMax-H3-768p |
+| 15 | `tu.988236.xyz` | ¥0.584 | $0.08 | 7.3 | minimax系列视频 | minimax_h3-768p |
+| 16 | `www.fmgo.top` | ¥10.95 | $1.5 | 7.3 | default | minimax-h3-768p |
+| 17 | `api.supertoken.cc` | ¥199.8 | $399.6 | 0.5 | default | leonardo-minimax-h3-768p |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +34,4 @@
 |---|---|---|---|---|---|
 | 1 | `coloful-rose.com` | $100 | 视频模型 | 1 | minimax-h3-768p |
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

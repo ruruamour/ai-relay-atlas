@@ -1,6 +1,6 @@
 # glm-5.2-fast-preview
 
-> 32 站提供 · 正常价 24 站 · 名义中位价 **$6.4**/1M 输入 · 实付中位价 **¥6**/1M 输入（12 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 29 站 · 名义中位价 **$6.4**/1M 输入 · 实付中位价 **¥6.4**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,18 +10,23 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.furryforum.com` | ¥3.2 | $3.2 / $11.2 | 1 | 国模稳定 | glm-5.2-fast-preview |
-| 2 | `api.yuaiapi.com` | ¥3.2 | $3.2 / $11.2 | 1 | 国模按量 | glm-5.2-fast-preview |
-| 3 | `e-flowcode.cc` | ¥3.2 | $3.2 / $11.2 | 1 | 1_vip_china | glm-5.2-fast-preview |
-| 4 | `gwlink.cc` | ¥4 | $4 / $14 | 1 | 国模补贴专场 | glm-5.2-fast-preview |
-| 5 | `cdn.yorhamc.com` | ¥5.6 | $5.6 / $19.6 | 1 | default | glm-5.2-fast-preview |
-| 6 | `shanyiapi.com` | ¥5.6 | $5.6 / $19.6 | 1 | vip_ch | glm-5.2-fast-preview |
-| 7 | `closedai.kylenqaq.com` | ¥6.4 | $6.4 / $22.4 | 1 | 国产模型 | glm-5.2-fast-preview |
-| 8 | `api.xkj666.top` | ¥7.2 | $7.2 / $25.2 | 1 | 国模分组 | glm-5.2-fast-preview |
-| 9 | `api.wukong.support` | ¥11.2 | $11.2 / $39.2 | 1 | 国模-openai格式 | glm-5.2-fast-preview |
-| 10 | `ai.centos.hk` | ¥12 | $12 / $42 | 1 | 智谱GLM-openai | glm-5.2-fast-preview |
-| 11 | `ai-model.chinaz.net` | ¥16 | $2.19178 / $7.67123 | 7.3 | default | glm-5.2-fast-preview |
-| 12 | `tokenworldapi.com` | ¥16 | $16 / $56 | 1 | default | glm-5.2-fast-preview |
+| 1 | `ainzy.net` | ¥1.373 | $1.37333 / $4.8 | 1 | aliyun-chinese-model | glm-5.2-fast-preview |
+| 2 | `api.furryforum.com` | ¥3.2 | $3.2 / $11.2 | 1 | 国模稳定 | glm-5.2-fast-preview |
+| 3 | `api.yuaiapi.com` | ¥3.2 | $3.2 / $11.2 | 1 | 国模按量 | glm-5.2-fast-preview |
+| 4 | `e-flowcode.cc` | ¥3.2 | $3.2 / $11.2 | 1 | 1_vip_china | glm-5.2-fast-preview |
+| 5 | `gwlink.cc` | ¥4 | $4 / $14 | 1 | 国模补贴专场 | glm-5.2-fast-preview |
+| 6 | `cdn.yorhamc.com` | ¥5.6 | $5.6 / $19.6 | 1 | default | glm-5.2-fast-preview |
+| 7 | `shanyiapi.com` | ¥5.6 | $5.6 / $19.6 | 1 | vip_ch | glm-5.2-fast-preview |
+| 8 | `closedai.kylenqaq.com` | ¥6.4 | $6.4 / $22.4 | 1 | 国产模型 | glm-5.2-fast-preview |
+| 9 | `gpt.venlacy.com` | ¥6.4 | $6.4 / $22.4 | 1 | 国模 | glm-5.2-fast-preview |
+| 10 | `api.xkj666.top` | ¥7.2 | $7.2 / $25.2 | 1 | 国模分组 | glm-5.2-fast-preview |
+| 11 | `api.wukong.support` | ¥11.2 | $11.2 / $39.2 | 1 | 国模-openai格式 | glm-5.2-fast-preview |
+| 12 | `ai.centos.hk` | ¥12 | $12 / $42 | 1 | 智谱GLM-openai | glm-5.2-fast-preview |
+| 13 | `chy.hyper99.top` | ¥13.6 | $13.6 / $47.6 | 1 | 【阿里云】国模 | glm-5.2-fast-preview |
+| 14 | `ai-model.chinaz.net` | ¥16 | $2.19178 / $7.67123 | 7.3 | default | glm-5.2-fast-preview |
+| 15 | `e.fishxcode.com` | ¥16 | $16 / $56 | 1 | default | glm-5.2-fast-preview |
+| 16 | `tokenworldapi.com` | ¥16 | $16 / $56 | 1 | default | glm-5.2-fast-preview |
+| 17 | `unorouter.net` | ¥116.8 | $16 / $56 | 7.3 | default | glm-5.2-fast-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

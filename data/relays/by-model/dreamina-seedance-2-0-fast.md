@@ -1,6 +1,6 @@
 # dreamina-seedance-2-0-fast
 
-> 22 站提供 · 正常价 9 站 · 名义中位价 **$5.6**/1M 输入 · 实付中位价 **¥40.04**/1M 输入（8 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 25 站 · 名义中位价 **$44.8**/1M 输入 · 实付中位价 **¥44.8**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,14 +10,30 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.dogrouter.ai` | ¥5.6 | $5.6 / $5.6 | 1 | default | dreamina-seedance-2-0-fast-260128 |
-| 2 | `nexaxis.ai` | ¥32.368 | $32.368 / $32.368 | 1 | Seedance2.0 | dreamina-seedance-2-0-fast-260128 |
-| 3 | `ccoo.ai` | ¥38.08 | $5.6 / $5.6 | 6.8 | Byteplus 官方 | dreamina-seedance-2-0-fast-260128 |
-| 4 | `aiapi.hk` | ¥39.2 | $5.6 / $9.50303 | 7 | seedance-2-0-fast | dreamina-seedance-2-0-fast-260128 |
-| 5 | `agent.tokensea.ai` | ¥40.88 | $5.6 / $5.6 | 7.3 | poc-3 | byteplus/dreamina-seedance-2-0-fast-260128 |
-| 6 | `ai.centos.hk` | ¥44 | $44 / $44 | 1 | 海外-dreamina-seedance2 | dreamina-seedance-2-0-fast-260128 |
-| 7 | `api.weytoken.com` | ¥572.32 | $78.4 / $78.4 | 7.3 | 企业视频分组 | dreamina-seedance-2-0-fast-260128 |
-| 8 | `inferhub.net` | ¥2913.93 | $399.168 / $399.168 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
+| 1 | `art.taluna.ai` | ¥5.32 | $5.32 / $0 | 1 | seedance | dreamina-seedance-2-0-fast-260128 |
+| 2 | `api.dogrouter.ai` | ¥5.6 | $5.6 / $5.6 | 1 | default | dreamina-seedance-2-0-fast-260128 |
+| 3 | `taluna.ai` | ¥5.6 | $5.6 / $0 | 1 | seedance2.0 | dreamina-seedance-2-0-fast-260128 |
+| 4 | `nexaxis.ai` | ¥32.37 | $32.368 / $32.368 | 1 | Seedance2.0 | dreamina-seedance-2-0-fast-260128 |
+| 5 | `ccoo.ai` | ¥38.08 | $5.6 / $5.6 | 6.8 | Byteplus 官方 | dreamina-seedance-2-0-fast-260128 |
+| 6 | `agent.tokensea.ai` | ¥40.88 | $5.6 / $5.6 | 7.3 | poc-3 | byteplus/dreamina-seedance-2-0-fast-260128 |
+| 7 | `cn.sandbox.dogrouter.ai` | ¥40.88 | $5.6 / $5.6 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
+| 8 | `flynn.sandbox.dogrouter.ai` | ¥40.88 | $5.6 / $5.6 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
+| 9 | `sandbox.dogrouter.ai` | ¥40.88 | $5.6 / $5.6 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
+| 10 | `ai.centos.hk` | ¥44 | $44 / $44 | 1 | 海外-dreamina-seedance2 | dreamina-seedance-2-0-fast-260128 |
+| 11 | `beehears.com` | ¥44.8 | $44.8 / $44.8 | 1 | 🎥 视频生成 SeeDance-2 | dreamina-seedance-2-0-fast-260128 |
+| 12 | `images.beehears.com` | ¥44.8 | $44.8 / $44.8 | 1 | 🎥 视频生成 SeeDance-2 | dreamina-seedance-2-0-fast-260128 |
+| 13 | `ucenter.beehears.com` | ¥44.8 | $44.8 / $44.8 | 1 | 🎥 视频生成 SeeDance-2 | dreamina-seedance-2-0-fast-260128 |
+| 14 | `api.manxiaobai.online` | ¥75 | $75 / $75 | 1 | 视频分组 | dreamina-seedance-2-0-fast-260128 |
+| 15 | `www.openseer.ai` | ¥75 | $75 / $75 | 1 | seedance原厂满血版 | dreamina-seedance-2-0-fast |
+| 16 | `api.qinzhiai.com` | ¥185 | $185 / $185 | 1 | fast_forward | dreamina-seedance-2-0-fast-260128 |
+| 17 | `maisi-ai.com` | ¥286.2 | $39.2 / $39.2 | 7.3 | 视频分组 | dreamina-seedance-2-0-fast-260128 |
+| 18 | `modelsell.com` | ¥469.2 | $69 / $69 | 6.8 | Volcengine | dreamina-seedance-2-0-fast-260128 |
+| 19 | `m78.newapi.botcf.com` | ¥485.7 | $66.528 / $66.528 | 7.3 | 🎞️SeedDance-Fast-视频-BOTCF02(国外满血渠道可NSFW) | dreamina-seedance-2-0-fast-260128 |
+| 20 | `ai.zan.top` | ¥547.5 | $75 / $75 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
+| 21 | `api.opengw.com` | ¥547.5 | $75 / $75 | 7.3 | seedance-max | dreamina-seedance-2-0-fast-260128 |
+| 22 | `mytok.vip` | ¥547.5 | $75 / $75 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
+| 23 | `api.weytoken.com` | ¥572.3 | $78.4 / $78.4 | 7.3 | 企业视频分组 | dreamina-seedance-2-0-fast-260128 |
+| 24 | `inferhub.net` | ¥2914 | $399.168 / $399.168 | 7.3 | default | dreamina-seedance-2-0-fast-260128 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -25,4 +41,4 @@
 |---|---|---|---|---|---|
 | 1 | `api.hy88.my` | $5.6 / $5.6 | seedance | 0.95 | dreamina-seedance-2-0-fast-260128 |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

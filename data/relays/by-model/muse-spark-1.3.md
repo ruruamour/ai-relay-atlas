@@ -10,14 +10,14 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.0769231 | $0.0769231 / $0.230769 | 1 | default | muse-spark-1.3 |
+| 1 | `codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.230769 | 1 | default | muse-spark-1.3 |
 | 2 | `api.yanai.it.com` | ¥0.375 | $0.375 / $1.275 | 1 | muse | muse-spark-1.3 |
 | 3 | `deepkey.top` | ¥0.5 | $0.5 / $1.7 | 1 | muse | muse-spark-1.3 |
 | 4 | `api.ethancode.xyz` | ¥0.75 | $0.75 / $0.75 | 1 | muse | muse-spark-1.3 |
 | 5 | `relay.fast` | ¥1.25 | $1.25 / $4.25 | 1 | default | muse-spark-1.3 |
 | 6 | `router.cheap` | ¥1.25 | $1.25 / $4.25 | 1 | default | muse-spark-1.3 |
 | 7 | `ai.easysu.cn` | ¥1.32 | $1.32 / $2.64 | 1 | meta | muse-spark-1.3 |
-| 8 | `cf.modelflare.dev` | ¥1.4375 | $1.4375 / $4.8875 | 1 | spark-premium | muse-spark-1.3 |
+| 8 | `cf.modelflare.dev` | ¥1.438 | $1.4375 / $4.8875 | 1 | spark-premium | muse-spark-1.3 |
 | 9 | `claudeaihub.cloud` | ¥1.5 | $1.5 / $7.5 | 1 | Cursor | muse-spark-1.3 |
 | 10 | `api.bddevlab.online` | ¥3.65 | $0.5 / $1 | 7.3 | UNLIMITED INDO | muse-spark-1.3 |
 | 11 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | muse-spark-1.3 |
@@ -25,8 +25,8 @@
 | 13 | `us.pomoai.xyz` | ¥5.475 | $0.75 / $2.55 | 7.3 | muse | muse-spark-1.3 |
 | 14 | `modelsell.com` | ¥6.8 | $1 / $3.4 | 6.8 | Meta | muse-spark-1.3 |
 | 15 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | muse-spark-1.3 |
-| 16 | `apimaster.ai` | ¥9.1875 | $1.3125 / $4.4625 | 7 | default | muse-spark-1.3 |
-| 17 | `api.tacklekey.com` | ¥14.0385 | $1.92308 / $6.53846 | 7.3 | default | meta/muse-spark-1.3 |
+| 16 | `apimaster.ai` | ¥9.188 | $1.3125 / $4.4625 | 7 | default | muse-spark-1.3 |
+| 17 | `api.tacklekey.com` | ¥14.04 | $1.92308 / $6.53846 | 7.3 | default | meta/muse-spark-1.3 |
 | 18 | `tako.shiroha.tech` | ¥18.25 | $2.5 / $8.5 | 7.3 | pro-mini | muse-spark-1.3 |
 
 ## 名义价（未公开充值价，按 $ 排序）

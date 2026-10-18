@@ -64,7 +64,7 @@ def main():
         L = ['# %s' % base, '',
              '> %d 站提供 · 正常价 %d 站 · 名义中位价 **$%s**/%s%s · 推算，未对账' % (
                  len(sites), len(good), fmt(med), u,
-                 (' · 实付中位价 **¥%s**/%s（%d 站公开充值价）' % (fmt(rmed), u, len(real))) if real else ''), '',
+                 (' · 实付中位价 **¥%.4g**/%s（%d 站公开充值价）' % (rmed, u, len(real))) if real else ''), '',
              '[← 返回索引](index.md)', '']
 
         def price_cell(r, p):
@@ -77,7 +77,7 @@ def main():
                   '| # | 站点 | 实付 ¥ | 名义 $%s | 充值 ¥/$ | 分组 | 原始模型名 |' % ('' if call else ' 输入/输出'),
                   '|---|---|---|---|---|---|---|']
             for i, (d, p, r, rp) in enumerate(real[:TOP], 1):
-                L.append('| %d | `%s` | ¥%s | %s | %s | %s | %s |' % (i, d, fmt(rp), price_cell(r, p), fmt(tp[d]),
+                L.append('| %d | `%s` | ¥%s | %s | %s | %s | %s |' % (i, d, '%.4g' % rp, price_cell(r, p), fmt(tp[d]),
                                                                     esc(r['group']) or '-', esc(r['model'])))
             if len(real) > TOP:
                 L.append('')
@@ -110,7 +110,7 @@ def main():
         for base, n, med, unit, rmed in sorted(index[c], key=lambda x: -x[1]):
             per = '/次' if unit == '$/次' else ''
             L.append('| [%s](%s.md) | %d | $%s%s | %s |' % (base, fname(base), n, fmt(med), per,
-                                                           ('¥%s%s' % (fmt(rmed), per)) if rmed else '-'))
+                                                           ('¥%.4g%s' % (rmed, per)) if rmed else '-'))
         L.append('')
     open(os.path.join(OUT, 'index.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('by-model pages', total)

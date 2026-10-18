@@ -1,6 +1,6 @@
 # minimax-m2.5
 
-> 289 站提供 · 正常价 243 站 · 名义中位价 **$1.05**/1M 输入 · 实付中位价 **¥1.575**/1M 输入（218 站公开充值价） · 推算，未对账
+> 374 站提供 · 正常价 303 站 · 名义中位价 **$1.26**/1M 输入 · 实付中位价 **¥1.695**/1M 输入（210 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.yunnet.top` | ¥0.06 | $0.06 / $0.24 | 1 | MiniMax | MiniMax-M2.5 |
-| 2 | `yunshuapi.site` | ¥0.066 | $0.066 / $0.57 | 1 | 国模 | minimax-m2.5 |
-| 3 | `llmai.freebird2913.tech` | ¥0.09 | $0.3 / $1.2 | 0.3 | 其他渠道 | minimax-m2.5 |
-| 4 | `apiv3.52codeflow.top` | ¥0.11 | $0.11 / $0.95 | 1 | kiro-claude-个人号-按次 | minimax-m2.5 |
-| 5 | `api.unorouter.com` | ¥0.11568 | $0.11568 / $0.46272 | 1 | a7-mega-6453-minimax-m2.5 | minimax-m2.5 |
-| 6 | `api.openlux.ai` | ¥0.15 | $0.15 / $0.6 | 1 | Alibaba-1 | MiniMax-M2.5 |
+| 1 | `yunshuapi.wiki` | ¥0.066 | $0.066 / $0.57 | 1 | 国模 | minimax-m2.5 |
+| 2 | `llmai.freebird2913.tech` | ¥0.09 | $0.3 / $1.2 | 0.3 | 其他渠道 | minimax-m2.5 |
+| 3 | `apiv3.52codeflow.top` | ¥0.11 | $0.11 / $0.95 | 1 | kiro-claude-个人号-按次 | minimax-m2.5 |
+| 4 | `otoken.pro` | ¥0.11 | $0.11 / $0.95 | 1 | default | minimax-m2.5 |
+| 5 | `api.unorouter.com` | ¥0.1157 | $0.11568 / $0.46272 | 1 | a7-mega-6453-minimax-m2.5 | minimax-m2.5 |
+| 6 | `gpt.venlacy.com` | ¥0.1204 | $0.1204 / $0.482 | 1 | 国模 | MiniMax/MiniMax-M2.5 |
 | 7 | `api.qfgapi.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | minimax-m2.5 |
-| 8 | `api.relayrouter.ai` | ¥0.15 | $0.15 / $0.6 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 9 | `api.tidewhisper-ai.xyz` | ¥0.165 | $0.165 / $0.66 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 10 | `gzxbykj.com` | ¥0.165 | $0.165 / $0.66 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 11 | `www.vectronode.com` | ¥0.18 | $0.18 / $0.72 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 12 | `ciyuan.today` | ¥0.1875 | $0.1875 / $0.75 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 13 | `gptapi.top` | ¥0.1875 | $0.1875 / $0.75 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 14 | `makerend.com` | ¥0.1875 | $0.1875 / $0.75 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 15 | `moliapi.com` | ¥0.189 | $0.189 / $0.756 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 16 | `ai-api.cc` | ¥0.195 | $0.195 / $0.78 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 17 | `xiaomuai.cn` | ¥0.195 | $0.195 / $0.195 | 1 | default | MiniMax-M2.5 |
-| 18 | `nodapi.com` | ¥0.198 | $0.198 / $0.792 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 19 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.8 | 1 | relay | AITC-Minimax-M2.5 |
-| 20 | `anyaigc.ai` | ¥0.2025 | $0.2025 / $0.81 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 21 | `sheepaiplus.top` | ¥0.21 | $0.21 / $0.84 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 22 | `xiguapi.icu` | ¥0.21 | $0.21 / $0.84 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 23 | `routerra.ai` | ¥0.2162 | $0.2162 / $0.8648 | 1 | default | Minimax-M2.5 |
-| 24 | `api.88api.chat` | ¥0.225 | $0.225 / $0.9 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 25 | `api.videocaptioner.cn` | ¥0.225 | $0.225 / $0.9 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 26 | `api.nbility.ai` | ¥0.24 | $0.24 / $0.96 | 1 | china-aliyun | MiniMax-M2.5 |
-| 27 | `crowllm.com` | ¥0.25 | $0.25 / $1.19 | 1 | pro | minimax-m2.5 |
-| 28 | `api.nixapi.com` | ¥0.2535 | $0.2535 / $1.014 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 29 | `ai.soruxgpt.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
-| 30 | `aiwuje.com` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 31 | `api.amux.ai` | ¥0.3 | $0.3 / $1.2 | 1 | premium | MiniMax-M2.5 |
-| 32 | `api.echoflowai.cc` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 33 | `api.n1n.ai` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 34 | `api.quickrouter.ai` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 35 | `api.tokenreply.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m2.5 |
-| 36 | `aws.baby` | ¥0.3 | $0.3 / $1.2 | 1 | 阿里云百炼大客户 | MiniMax-M2.5 |
-| 37 | `easyrouter.io` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
-| 38 | `feiniu-ai.xyz` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
-| 39 | `gptapi.app` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m2.5 |
-| 40 | `jeniya.cn` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 41 | `linoapi.com` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 42 | `llm-api.net` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 43 | `quanzil.com` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 44 | `token173.net` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 45 | `tryallapi.com` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 46 | `wellapi.ai` | ¥0.3 | $0.3 / $1.2 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 47 | `www.mrouter.com` | ¥0.3 | $0.3 / $1.2 | 1 | cn | MiniMax-M2.5 |
-| 48 | `thousandengine.com` | ¥0.30525 | $0.30525 / $1.221 | 1 | Alibaba-1 | MiniMax-M2.5 |
-| 49 | `ai.38yun.cn` | ¥0.315 | $0.315 / $1.26 | 1 | 官方全系稳定渠道 | minimax/minimax-m2.5 |
-| 50 | `hk2.tken.me` | ¥0.318 | $0.318 / $1.272 | 1 | 官方全系稳定渠道 | minimax/minimax-m2.5 |
+| 8 | `xiaomuai.cn` | ¥0.195 | $0.195 / $0.195 | 1 | default | MiniMax-M2.5 |
+| 9 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.8 | 1 | relay | AITC-Minimax-M2.5 |
+| 10 | `routerra.ai` | ¥0.2162 | $0.2162 / $0.8648 | 1 | default | Minimax-M2.5 |
+| 11 | `api.nbility.ai` | ¥0.24 | $0.24 / $0.96 | 1 | china-aliyun | MiniMax-M2.5 |
+| 12 | `crowllm.com` | ¥0.25 | $0.25 / $1.19 | 1 | pro | minimax-m2.5 |
+| 13 | `ai.soruxgpt.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
+| 14 | `api.amux.ai` | ¥0.3 | $0.3 / $1.2 | 1 | premium | MiniMax-M2.5 |
+| 15 | `api.tokenreply.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m2.5 |
+| 16 | `aws.baby` | ¥0.3 | $0.3 / $1.2 | 1 | 阿里云百炼大客户 | MiniMax-M2.5 |
+| 17 | `dev.api.dimleap.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
+| 18 | `e.fishxcode.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
+| 19 | `easyrouter.io` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
+| 20 | `feiniu-ai.xyz` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M2.5 |
+| 21 | `gptapi.app` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m2.5 |
+| 22 | `www.mrouter.com` | ¥0.3 | $0.3 / $1.2 | 1 | cn | MiniMax-M2.5 |
+| 23 | `ai.38yun.cn` | ¥0.315 | $0.315 / $1.26 | 1 | 官方全系稳定渠道 | minimax/minimax-m2.5 |
+| 24 | `www.kamiapi.top` | ¥0.336 | $0.336 / $1.344 | 1 | 国模分组 | minimax-m2.5 |
+| 25 | `api1.link-ai.cc` | ¥0.4 | $0.4 / $1.6 | 1 | 国产2折 | MiniMax-M2.5 |
+| 26 | `ai.gigimed.cn` | ¥0.5235 | $0.071706 / $0.41773 | 7.3 | 智能路由分组 | minimax-m2.5 |
+| 27 | `layso.ai` | ¥0.5669 | $0.566865 / $3.30232 | 1 | Self-Deployed-1 | minimax-m2.5 |
+| 28 | `laysoai.com` | ¥0.5669 | $0.566865 / $3.30232 | 1 | Self-Deployed-1 | minimax-m2.5 |
+| 29 | `agentapi.xyz` | ¥0.584 | $0.08 / $0.35 | 7.3 | default | minimax-m2.5 |
+| 30 | `api.aieyra.cn` | ¥0.6 | $0.6 / $2.4 | 1 | ChinaModels | MiniMax-M2.5 |
+| 31 | `airouter.dev` | ¥0.603 | $0.09 / $0.36 | 6.7 | default | minimax-m2.5 |
+| 32 | `hk.moleapi.com` | ¥0.6202 | $0.0912 / $0.3648 | 6.8 | relay | MiniMax-M2.5 |
+| 33 | `new.tianluo.ccwu.cc` | ¥0.63 | $0.63 / $2.52 | 1 | 国产小分队 | MiniMax-M2.5 |
+| 34 | `api.pezayo.com` | ¥0.73 | $0.1 / $0.1 | 7.3 | coding anthropic | MiniMax-M2.5 |
+| 35 | `shanyiapi.com` | ¥0.735 | $0.735 / $2.94 | 1 | vip_ch | MiniMax-M2.5 |
+| 36 | `mgrouter.com` | ¥0.7956 | $0.117 / $0.468 | 6.8 | Minimax-M2.5-原厂标准版-3.9折 | MiniMax-M2.5 |
+| 37 | `tokensupply.ai` | ¥0.8 | $0.8 / $3.5 | 1 | svip | minimax-m2.5 |
+| 38 | `mydamoxing.cn` | ¥0.84 | $0.84 / $3.36 | 1 | minimax | MiniMax-M2.5 |
+| 39 | `fluxa.camila.qzz.io` | ¥0.8652 | $0.84 / $3.36 | 1.03 | 国模 | MiniMax-M2.5 |
+| 40 | `www.yuluapi.com` | ¥0.9 | $0.9 / $1.8 | 1 | default | minimax-m2.5 |
+| 41 | `faroapi.com` | ¥1 | $1 / $5 | 1 | default | minimax-m2.5 |
+| 42 | `api.relayrouter.ai` | ¥1.008 | $0.15 / $0.6 | 6.718 | Alibaba-1 | MiniMax-M2.5 |
+| 43 | `openlux.zhongzhuan.chat` | ¥1.008 | $0.15 / $0.6 | 6.718 | Alibaba-1 | MiniMax-M2.5 |
+| 44 | `8stoken.com` | ¥1.05 | $1.05 / $4.2 | 1 | 国产模型聚合专区 | minimax-m2.5 |
+| 45 | `api-x.vip` | ¥1.05 | $1.05 / $4.2 | 1 | model-cn-low | MiniMax-M2.5 |
+| 46 | `api.openai-labs.com` | ¥1.05 | $1.05 / $4.2 | 1 | g1 | minimax-m2.5 |
+| 47 | `open.xiaojingai.com` | ¥1.05 | $1.05 / $4.2 | 1 | 阿里 | MiniMax-M2.5 |
+| 48 | `pro.gemai.cc` | ¥1.05 | $1.05 / $4.2 | 1 | Chinese Model | minimax-m2.5 |
+| 49 | `slb-v1.api.fan` | ¥1.05 | $1.05 / $4.2 | 1 | bailian | minimax-m2.5 |
+| 50 | `www.packyapi.com` | ¥1.05 | $1.05 / $4.2 | 1 | bailian | minimax-m2.5 |
 
-> 另有 168 站未列出。
+> 另有 160 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -70,27 +70,54 @@
 | 1 | `newapi.relayport17.asia` | $0.15 / $0.6 | 国产模型 | 0.5 | minimax-m2.5 |
 | 2 | `api.okinto.com` | $0.18 / $0.72 | 随时挂 玩具分组 | 0.6 | MiniMax-M2.5 |
 | 3 | `api.wopally.cn` | $0.21875 / $0.875 | Claude-DS｜0.25x | 0.25 | minimax-m2.5 |
-| 4 | `api.coderplan.ai` | $0.24 / $0.96 | open | 0.8 | minimax-m2.5 |
-| 5 | `api.hy88.my` | $0.24 / $0.96 | minimax | 0.8 | MiniMax-M2.5 |
-| 6 | `inferaichat.com` | $0.3 / $1.2 | auto分组 | 1 | minimax-m2.5 |
-| 7 | `pro.fan142.top` | $0.3 / $1.2 | coding api | 1 | MiniMaxAI/MiniMax-M2.5 |
-| 8 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | cn:minimax-m2.5 |
-| 9 | `api.kcne.top` | $0.42 / $1.68 | 国模组 | 1.4 | minimax-m2.5 |
-| 10 | `token.54421666.xyz` | $0.525 / $2.1 | MiniMax | 0.25 | minimax-m2.5 |
-| 11 | `tuzkiapi.tuzki.online` | $0.5375 / $1.975 | 国模官key兜底(90%+缓存) | 0.1 | minimax-m2.5 |
-| 12 | `www.wanmoapi.com` | $1.05 / $4.2 | bailian | 0.5 | MiniMax-M2.5 |
-| 13 | `rapidapi.cc` | $1.075 / $3.95 | 国模二组 | 0.2 | minimax-m2.5 |
-| 14 | `api.lmuai.ai` | $1.47 / $5.88 | 阿里Qwen(Anthropic协议) | 0.7 | MiniMax-M2.5 |
-| 15 | `www.jiguang.me` | $1.47 / $5.88 | MiniMAX | 0.7 | MiniMax-M2.5 |
-| 16 | `openclawroot.com` | $1.5 / $8 | default | 1 | MiniMax-M2.5 |
-| 17 | `api.baosiai.com` | $1.8 / $7.2 | minimax | 6 | MiniMax-M2.5 |
-| 18 | `baosiapi.com` | $1.8 / $7.2 | minimax | 6 | MiniMax-M2.5 |
-| 19 | `api.jucode.cn` | $1.995 / $7.98 | 国产模型 · 官方 | 0.95 | MiniMax-M2.5 |
-| 20 | `aiapihub.net` | $2.4 / $8.4 | default | 1 | MiniMax-M2.5 |
-| 21 | `tiktoken.top` | $3.927 / $15.708 | default | 1 | minimax-m2.5 |
-| 22 | `ccmaxshop.de5.net` | $6.3 / $25.2 | OpenAI-国模 | 3 | minimax-m2.5 |
-| 23 | `liangjiewis.com` | $15.3984 / $54.1797 | self-hosted | 1 | MiniMaxAI/MiniMax-M2.5 |
-| 24 | `api.gemai.cc` | $210 / $840 | default | 1 | minimax-m2.5 |
-| 25 | `gemai.huchan.cn` | $210 / $840 | default | 1 | minimax-m2.5 |
+| 4 | `or.mux.la` | $0.22 / $0.9 | default | 1 | minimax/minimax-m2.5 |
+| 5 | `api.coderplan.ai` | $0.24 / $0.96 | open | 0.8 | minimax-m2.5 |
+| 6 | `api.hy88.my` | $0.24 / $0.96 | minimax | 0.8 | MiniMax-M2.5 |
+| 7 | `inferaichat.com` | $0.3 / $1.2 | auto分组 | 1 | minimax-m2.5 |
+| 8 | `pro.fan142.top` | $0.3 / $1.2 | coding api | 1 | MiniMaxAI/MiniMax-M2.5 |
+| 9 | `tken.lol` | $0.318 / $1.272 | 官方全系稳定渠道 | 1.06 | minimax/minimax-m2.5 |
+| 10 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | cn:minimax-m2.5 |
+| 11 | `api.kcne.top` | $0.42 / $1.68 | 国模组 | 1.4 | minimax-m2.5 |
+| 12 | `token.54421666.xyz` | $0.525 / $2.1 | MiniMax | 0.25 | minimax-m2.5 |
+| 13 | `tuzkiapi.tuzki.online` | $0.5375 / $1.975 | 国模官key兜底(90%+缓存) | 0.1 | minimax-m2.5 |
+| 14 | `rapidapi.cc` | $1.075 / $3.95 | 国模二组 | 0.2 | minimax-m2.5 |
+| 15 | `api.jiguang.me` | $1.47 / $5.88 | MiniMax | 0.7 | MiniMax-M2.5 |
+| 16 | `api.lmuai.ai` | $1.47 / $5.88 | 阿里Qwen(Anthropic协议) | 0.7 | MiniMax-M2.5 |
+| 17 | `www.jiguang.me` | $1.47 / $5.88 | MiniMAX | 0.7 | MiniMax-M2.5 |
+| 18 | `openclawroot.com` | $1.5 / $8 | default | 1 | MiniMax-M2.5 |
+| 19 | `api.baosiai.com` | $1.8 / $7.2 | minimax | 6 | MiniMax-M2.5 |
+| 20 | `baosiapi.com` | $1.8 / $7.2 | minimax | 6 | MiniMax-M2.5 |
+| 21 | `api.jucode.cn` | $1.995 / $7.98 | 国产模型 · 官方 | 0.95 | MiniMax-M2.5 |
+| 22 | `ai.kalehui.cn` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 23 | `aiapihub.cloud` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 24 | `aiopus.top` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 25 | `aiyiwei.vip` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 26 | `anyaigc.com` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 27 | `api-hub.vip` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 28 | `api.aibh.site` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 29 | `api.aicso.top` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 30 | `api.anthropicricardo.club` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 31 | `api.antmoo.com` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 32 | `api.apiplus.org` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 33 | `api.bitidea.cn` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 34 | `api.clai.click` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 35 | `api.cloudmist.cloud` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 36 | `api.gpt666claude.top` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 37 | `api.modelyard.cc` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 38 | `api.mumuverse.space` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 39 | `api.qingyuntop.top` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 40 | `api.solov.cc` | $2.1 / $8.4 | MiniMax | 1 | MiniMax-M2.5 |
+| 41 | `api.token173.net` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 42 | `api.vectorengine.ai` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 43 | `api.winfull.cloud-ip.cc` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 44 | `api.wlai.vip` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 45 | `api.xistree.hk` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 46 | `api.xueai.me` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 47 | `api.zhiyikeji.cn` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 48 | `api.zhongzhuan.chat` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 49 | `api.zhongzhuan.vip` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
+| 50 | `api123.eu.cc` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
 
-> 46 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 另有 43 站未列出。
+
+> 71 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

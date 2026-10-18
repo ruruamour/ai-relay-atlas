@@ -1,6 +1,6 @@
 # moonshot-v1
 
-> 65 站提供 · 正常价 58 站 · 名义中位价 **$3.6**/1M 输入 · 实付中位价 **¥2.88**/1M 输入（58 站公开充值价） · 推算，未对账
+> 92 站提供 · 正常价 81 站 · 名义中位价 **$3.6**/1M 输入 · 实付中位价 **¥3.6**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,57 +10,79 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `go.sbgpt.site` | ¥1.4 | $1.4 / $1.4 | 1 | openai逆向 | moonshot-v1-8k |
-| 2 | `kfcv50.link` | ¥1.6 | $1.6 / $8 | 1 | Domestic_act_08 | moonshot-v1-8k |
-| 3 | `api.hopeai.cc` | ¥1.704 | $1.704 / $1.704 | 1 | default | moonshot-v1-8k |
-| 4 | `api.apiplus.org` | ¥1.8 | $3.6 / $3.6 | 0.5 | 纯AZ | moonshot-v1-8k |
-| 5 | `api.vectorengine.ai` | ¥1.8 | $3.6 / $3.6 | 0.5 | 纯AZ | moonshot-v1-8k |
-| 6 | `api.wlai.vip` | ¥1.8 | $3.6 / $3.6 | 0.5 | 纯AZ | moonshot-v1-8k |
-| 7 | `api.zhongzhuan.chat` | ¥1.8 | $3.6 / $3.6 | 0.5 | 纯AZ | moonshot-v1-8k |
-| 8 | `api.zhongzhuan.vip` | ¥1.8 | $3.6 / $3.6 | 0.5 | 纯AZ | moonshot-v1-8k |
-| 9 | `yunwu.ai` | ¥1.8 | $3.6 / $3.6 | 0.5 | 纯AZ | moonshot-v1-8k |
-| 10 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $2.6 | 3.5 | 通用大模型 | moonshot-v1-8k |
-| 11 | `api.ocoolai.com` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
-| 12 | `api.aicso.top` | ¥1.98 | $3.6 / $3.6 | 0.55 | 纯AZ | moonshot-v1-8k |
-| 13 | `api.clai.click` | ¥1.98 | $3.6 / $3.6 | 0.55 | 纯AZ | moonshot-v1-8k |
-| 14 | `api.winfull.cloud-ip.cc` | ¥1.98 | $3.6 / $3.6 | 0.55 | 纯AZ | moonshot-v1-8k |
-| 15 | `api123.eu.cc` | ¥1.98 | $3.6 / $3.6 | 0.55 | 纯AZ | moonshot-v1-8k |
-| 16 | `yuli.host` | ¥2.088 | $3.6 / $3.6 | 0.58 | 纯AZ | moonshot-v1-8k |
-| 17 | `api.zhiyikeji.cn` | ¥2.16 | $3.6 / $3.6 | 0.6 | 纯AZ | moonshot-v1-8k |
-| 18 | `apistudio.vip` | ¥2.16 | $3.6 / $3.6 | 0.6 | 纯AZ | moonshot-v1-8k |
-| 19 | `one.chatshare.one` | ¥2.16 | $3.6 / $3.6 | 0.6 | 纯AZ | moonshot-v1-8k |
-| 20 | `aiyiwei.vip` | ¥2.268 | $3.6 / $3.6 | 0.63 | 纯AZ | moonshot-v1-8k |
-| 21 | `anyaigc.com` | ¥2.376 | $3.6 / $3.6 | 0.66 | 纯AZ | moonshot-v1-8k |
-| 22 | `fluxapi.top` | ¥2.52 | $3.6 / $3.6 | 0.7 | 纯AZ | moonshot-v1-8k |
-| 23 | `api.mumuverse.space` | ¥2.7 | $3.6 / $3.6 | 0.75 | 纯AZ | moonshot-v1-8k |
-| 24 | `www.aifast.club` | ¥2.7 | $3.6 / $3.6 | 0.75 | 纯AZ | moonshot-v1-8k |
-| 25 | `linxingran.top` | ¥2.808 | $3.6 / $3.6 | 0.78 | 纯AZ | moonshot-v1-8k |
-| 26 | `api.qingyuntop.top` | ¥2.844 | $3.6 / $3.6 | 0.79 | 纯AZ | moonshot-v1-8k |
-| 27 | `api.antmoo.com` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 28 | `minitoken.top` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 29 | `qianfufu.com` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 30 | `www.xiaoruiera.top` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 31 | `xiaohumini.site` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 32 | `xinyuanai666.com` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 33 | `yunai.chat` | ¥2.88 | $3.6 / $3.6 | 0.8 | 纯AZ | moonshot-v1-8k |
-| 34 | `api-hub.vip` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 35 | `api.aibh.site` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 36 | `api.anthropicricardo.club` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 37 | `api.bitidea.cn` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 38 | `api.xueai.me` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 39 | `apixin.cn` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 40 | `code.yansd666.com` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 41 | `dawnnode.com` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 42 | `next.aigc2d.com` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 43 | `sparkapi.cn` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 44 | `startapi.top` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 45 | `uouo.fun` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 46 | `v2.cloudmist.cloud` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 47 | `vipapi.online` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 48 | `www.aigeek.life` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 49 | `www.shiyunapi.net` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 50 | `yunshu.hk` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
+| 1 | `new.gateway.icu` | ¥0.852 | $0.852 / $0.852 | 1 | reverse | moonshot-v1-8k |
+| 2 | `big.sbgpt.site` | ¥1.2 | $1.2 / $1.2 | 1 | openai逆向 | moonshot-v1-8k |
+| 3 | `go.sbgpt.site` | ¥1.4 | $1.4 / $1.4 | 1 | openai逆向 | moonshot-v1-8k |
+| 4 | `kfcv50.link` | ¥1.6 | $1.6 / $8 | 1 | Domestic_act_08 | moonshot-v1-8k |
+| 5 | `api.hopeai.cc` | ¥1.704 | $1.704 / $1.704 | 1 | default | moonshot-v1-8k |
+| 6 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $2.6 | 3.5 | 通用大模型 | moonshot-v1-8k |
+| 7 | `api.ocoolai.com` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
+| 8 | `ocool.cn` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
+| 9 | `new.foxi-api.cn` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
+| 10 | `llm.kagu.one` | ¥3.65 | $0.5 / $1.5 | 7.3 | 大杂烩 | moonshot-v1-32k |
+| 11 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | svip | moonshot-v1-8k |
+| 12 | `api.34ku.com` | ¥7.8 | $7.8 / $7.8 | 1 | default | moonshot-v1-8k |
+| 13 | `mb.dmxapi.cn` | ¥8.3 | $1.66 / $1.66 | 5 | default | moonshot-v1-8k |
+| 14 | `tk.dmxapi.cn` | ¥8.3 | $1.66 / $1.66 | 5 | default | moonshot-v1-8k |
+| 15 | `cn.gptapi.asia` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
+| 16 | `yutoapi.com` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
+| 17 | `www.hohoapi.com` | ¥23.4 | $7.8 / $7.8 | 3 | default | moonshot-v1-8k |
 
-> 另有 8 站未列出。
+## 名义价（未公开充值价，按 $ 排序）
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `ai.kalehui.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 2 | `aiapihub.cloud` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 3 | `aiopus.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 4 | `aiyiwei.vip` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 5 | `anyaigc.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 6 | `api-hub.vip` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 7 | `api.aibh.site` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 8 | `api.aicso.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 9 | `api.anthropicricardo.club` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 10 | `api.antmoo.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 11 | `api.apiplus.org` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 12 | `api.bitidea.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 13 | `api.clai.click` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 14 | `api.cloudmist.cloud` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 15 | `api.gpt666claude.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 16 | `api.modelyard.cc` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 17 | `api.mumuverse.space` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 18 | `api.qingyuntop.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 19 | `api.token173.net` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 20 | `api.vectorengine.ai` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 21 | `api.winfull.cloud-ip.cc` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 22 | `api.wlai.vip` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 23 | `api.xueai.me` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 24 | `api.zhiyikeji.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 25 | `api.zhongzhuan.chat` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 26 | `api.zhongzhuan.vip` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 27 | `api123.eu.cc` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 28 | `apilink.shop` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 29 | `apipro.maynor1024.live` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 30 | `apistudio.vip` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 31 | `apixin.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 32 | `dawnnode.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 33 | `fluxapi.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 34 | `juapi.cc` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 35 | `juhe.34ku.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 36 | `lemonapi.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 37 | `linxingran.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 38 | `minitoken.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 39 | `new.xhuoai.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 40 | `next.aigc2d.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 41 | `one.chatshare.one` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 42 | `qianfufu.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 43 | `ruishiglobal.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 44 | `s.qweapi.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 45 | `solidapi.cc` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 46 | `sparkapi.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 47 | `startapi.top` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 48 | `tiantoken.cn` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 49 | `token.kkdmx.com` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+| 50 | `uouo.fun` | $3.6 / $3.6 | 纯AZ | 1.5 | moonshot-v1-8k |
+
+> 另有 14 站未列出。
+
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

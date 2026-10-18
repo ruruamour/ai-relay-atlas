@@ -175,12 +175,33 @@ def topup_map():
 _EXT = None
 
 
+_EXT_PUB = None
+
+
 def _ext():
+    """含私有后缀（vercel.app、github.io 等托管平台视为后缀），离线，用内置后缀表。"""
     global _EXT
     if _EXT is None:
         import tldextract
-        _EXT = tldextract.TLDExtract(suffix_list_urls=(), cache_dir=None)  # 离线，用内置后缀表
+        _EXT = tldextract.TLDExtract(suffix_list_urls=(), cache_dir=None, include_psl_private_domains=True)
     return _EXT
+
+
+def _ext_pub():
+    global _EXT_PUB
+    if _EXT_PUB is None:
+        import tldextract
+        _EXT_PUB = tldextract.TLDExtract(suffix_list_urls=(), cache_dir=None)
+    return _EXT_PUB
+
+
+def on_paas(d):
+    """是否托管在 vercel.app / github.io / workers.dev 这类公共平台的子域上。"""
+    if IP_RE.match(d):
+        return False
+    r = _ext_pub()(d.split(':')[0])
+    pub = getattr(r, 'top_domain_under_public_suffix', None) or r.registered_domain
+    return bool(pub) and pub != registered(d)
 
 
 def registered(d):

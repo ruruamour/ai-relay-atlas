@@ -1,6 +1,6 @@
 # gpt-5.5-instant
 
-> 28 站提供 · 正常价 15 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥5**/1M 输入（15 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 17 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥5.5**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,16 +14,18 @@
 | 2 | `kfcv50.link` | ¥2.5 | $2.5 / $15 | 1 | az_act05 | gpt-5.5-instant |
 | 3 | `cn.gptapi.asia` | ¥4 | $4 / $24 | 1 | default | gpt-5.5-instant |
 | 4 | `yutoapi.com` | ¥4 | $4 / $24 | 1 | default | gpt-5.5-instant |
-| 5 | `api.qinzhiai.com` | ¥5 | $5 / $30 | 1 | az | gpt-5.5-instant |
-| 6 | `api.routeeasy.ai` | ¥5 | $5 / $30 | 1 | default | gpt-5.5-instant |
-| 7 | `api.zyai.online` | ¥5 | $5 / $30 | 1 | AZvip | gpt-5.5-instant |
-| 8 | `deepkey.top` | ¥5 | $5 / $30 | 1 | gpt-azure | gpt-5.5-instant |
+| 5 | `api.routeeasy.ai` | ¥5 | $5 / $30 | 1 | default | gpt-5.5-instant |
+| 6 | `api.zyai.online` | ¥5 | $5 / $30 | 1 | AZvip | gpt-5.5-instant |
+| 7 | `deepkey.top` | ¥5 | $5 / $30 | 1 | gpt-azure | gpt-5.5-instant |
+| 8 | `platform.anyrouter.ai` | ¥5 | $5 / $30 | 1 | Azure4 | gpt-5.5-instant |
 | 9 | `xrok.dev` | ¥5.5 | $5.5 / $33 | 1 | AZ-GPT | gpt-5.5-instant |
 | 10 | `api.zhiyunai168.com` | ¥10 | $5 / $30 | 2 | Azure | gpt-5.5-instant |
-| 11 | `api.ycapi.xyz` | ¥10.2041 | $10.2041 / $61.2245 | 1 | gpt-azure | gpt-5.5-instant |
-| 12 | `9527.codes` | ¥15 | $15 / $90 | 1 | Azure-GPT | gpt-5.5-instant |
-| 13 | `9527code.com` | ¥15 | $15 / $90 | 1 | Azure-GPT | gpt-5.5-instant |
-| 14 | `us.pomoai.xyz` | ¥43.8 | $6 / $36 | 7.3 | gpt-azure | gpt-5.5-instant |
-| 15 | `ai.ydcloud.org` | ¥54.75 | $7.5 / $45 | 7.3 | az gpt | gpt-5.5-instant |
+| 11 | `usapi.zhiyunai168.com` | ¥10 | $5 / $30 | 2 | Azure | gpt-5.5-instant |
+| 12 | `api.ycapi.xyz` | ¥10.2 | $10.2041 / $61.2245 | 1 | gpt-azure | gpt-5.5-instant |
+| 13 | `9527.codes` | ¥15 | $15 / $90 | 1 | Azure-GPT | gpt-5.5-instant |
+| 14 | `9527code.com` | ¥15 | $15 / $90 | 1 | Azure-GPT | gpt-5.5-instant |
+| 15 | `us.pomoai.xyz` | ¥43.8 | $6 / $36 | 7.3 | gpt-azure | gpt-5.5-instant |
+| 16 | `ai.ydcloud.org` | ¥54.75 | $7.5 / $45 | 7.3 | az gpt | gpt-5.5-instant |
+| 17 | `to-relay.com` | ¥69.35 | $9.5 / $57 | 7.3 | AZ-GPT (纯文本） | gpt-5.5-instant |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

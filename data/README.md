@@ -9,6 +9,7 @@
 | `medians.json` | 各基础模型的正常价中位数（USD/1M 输入） |
 | `summary.json` | 去重统计（README 用） |
 | `relay-systems.csv` | 中转站软件名录（New-API/One-API/Sub2API…） |
+| `split.txt` | 人工拆分名单：列出的域名永不合并 |
 | `by-model/*.md` | 按基础模型的榜单（≥20 站提供的模型） |
 
 ### relays.csv
@@ -17,7 +18,9 @@
 | `domain` | 主域名 |
 | `api_host` | 实际取价的主机（与主域名不同时才填） |
 | `name` | 站名（网页标题） |
-| `system` | `New-API` / `Sub2API` / 空（自研或无公开价格接口） |
+| `system` | `New-API` / `Sub2API`（价格公开）；`New-API/One-API`（有 `/api/status`，价格不公开）；空（自研或接口不可达） |
+| `version` | 系统版本（站点公开的） |
+| `topup_cny_per_usd` | 充值价：元 / 1 美元额度（站点公开且币种明确的才填，见 [pricing-basics](../docs/pricing-basics.md#实付价人民币)） |
 | `discovered_via` | 发现来源：`veridrop` / `github-list` / `scan`（前缀/后缀扩展扫描） |
 | `veridrop_score` | Veridrop 实测分（有才填） |
 | `n_models` | 模型数 |
@@ -30,7 +33,10 @@
 ### aliases.csv
 | 列 | 含义 |
 |---|---|
-| `reason` | `same-host`：同一主机加/去前缀（api./www.）；`mirror`：同品牌换后缀或子域且价格表相同 |
+| `reason` | `same-host`：同一主机加/去前缀（api./www.）；`mirror`：同品牌换后缀/子域，价格表相同或站名相同 |
+
+合并保护：两边各有价格表（≥10 个模型）且模型集合重合度 <60% 时视为不同部署，不合并。
+误合并可把域名写进 `split.txt`（人工拆分名单）后重建。
 
 ### relay-models.csv
 | 列 | 含义 |

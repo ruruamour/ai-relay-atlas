@@ -1,6 +1,6 @@
 # viduq2-turbo
 
-> 92 站提供 · 正常价 86 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.0096**/次（86 站公开充值价） · 推算，未对账
+> 120 站提供 · 正常价 113 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.01002**/次（49 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,57 +10,111 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.openlux.ai` | ¥0.00088236 | $0.00088236 | 1 | Vidu-1 | viduq2-turbo |
-| 2 | `api.relayrouter.ai` | ¥0.00088236 | $0.00088236 | 1 | Vidu-1 | viduq2-turbo |
-| 3 | `api.tidewhisper-ai.xyz` | ¥0.000970596 | $0.000970596 | 1 | Vidu-1 | viduq2-turbo |
-| 4 | `gzxbykj.com` | ¥0.000970596 | $0.000970596 | 1 | Vidu-1 | viduq2-turbo |
-| 5 | `www.vectronode.com` | ¥0.00105883 | $0.00105883 | 1 | Vidu-1 | viduq2-turbo |
-| 6 | `ciyuan.today` | ¥0.00110295 | $0.00110295 | 1 | Vidu-1 | viduq2-turbo |
-| 7 | `gptapi.top` | ¥0.00110295 | $0.00110295 | 1 | Vidu-1 | viduq2-turbo |
-| 8 | `makerend.com` | ¥0.00110295 | $0.00110295 | 1 | Vidu-1 | viduq2-turbo |
-| 9 | `moliapi.com` | ¥0.00111177 | $0.00111177 | 1 | Vidu-1 | viduq2-turbo |
-| 10 | `ai-api.cc` | ¥0.00114707 | $0.00114707 | 1 | Vidu-1 | viduq2-turbo |
-| 11 | `nodapi.com` | ¥0.00116472 | $0.00116472 | 1 | Vidu-1 | viduq2-turbo |
-| 12 | `anyaigc.ai` | ¥0.00119119 | $0.00119119 | 1 | Vidu-1 | viduq2-turbo |
-| 13 | `sheepaiplus.top` | ¥0.0012353 | $0.0012353 | 1 | Vidu-1 | viduq2-turbo |
-| 14 | `xiguapi.icu` | ¥0.0012353 | $0.0012353 | 1 | Vidu-1 | viduq2-turbo |
-| 15 | `api.88api.chat` | ¥0.00132354 | $0.00132354 | 1 | Vidu-1 | viduq2-turbo |
-| 16 | `api.videocaptioner.cn` | ¥0.00132354 | $0.00132354 | 1 | Vidu-1 | viduq2-turbo |
-| 17 | `api.nixapi.com` | ¥0.00149119 | $0.00149119 | 1 | Vidu-1 | viduq2-turbo |
-| 18 | `aiwuje.com` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 19 | `api.echoflowai.cc` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 20 | `api.n1n.ai` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 21 | `api.quickrouter.ai` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 22 | `jeniya.cn` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 23 | `linoapi.com` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 24 | `llm-api.net` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 25 | `quanzil.com` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 26 | `token173.net` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 27 | `tryallapi.com` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 28 | `wellapi.ai` | ¥0.00176472 | $0.00176472 | 1 | Vidu-1 | viduq2-turbo |
-| 29 | `thousandengine.com` | ¥0.0017956 | $0.0017956 | 1 | Vidu-1 | viduq2-turbo |
-| 30 | `laysoai.com` | ¥0.00764712 | $0.00764712 | 1 | Vidu-1 | viduq2-turbo |
-| 31 | `api.apiplus.org` | ¥0.008 | $0.016 | 0.5 | default | viduq2-turbo |
-| 32 | `api.vectorengine.ai` | ¥0.008 | $0.016 | 0.5 | default | viduq2-turbo |
-| 33 | `api.wlai.vip` | ¥0.008 | $0.016 | 0.5 | default | viduq2-turbo |
-| 34 | `api.zhongzhuan.chat` | ¥0.008 | $0.016 | 0.5 | default | viduq2-turbo |
-| 35 | `api.zhongzhuan.vip` | ¥0.008 | $0.016 | 0.5 | default | viduq2-turbo |
-| 36 | `yunwu.ai` | ¥0.008 | $0.016 | 0.5 | default | viduq2-turbo |
-| 37 | `api.aicso.top` | ¥0.0088 | $0.016 | 0.55 | default | viduq2-turbo |
-| 38 | `api.clai.click` | ¥0.0088 | $0.016 | 0.55 | default | viduq2-turbo |
-| 39 | `api.winfull.cloud-ip.cc` | ¥0.0088 | $0.016 | 0.55 | default | viduq2-turbo |
-| 40 | `api123.eu.cc` | ¥0.0088 | $0.016 | 0.55 | default | viduq2-turbo |
-| 41 | `yuli.host` | ¥0.00928 | $0.016 | 0.58 | default | viduq2-turbo |
-| 42 | `api.zhiyikeji.cn` | ¥0.0096 | $0.016 | 0.6 | default | viduq2-turbo |
-| 43 | `apistudio.vip` | ¥0.0096 | $0.016 | 0.6 | default | viduq2-turbo |
-| 44 | `one.chatshare.one` | ¥0.0096 | $0.016 | 0.6 | default | viduq2-turbo |
-| 45 | `aiyiwei.vip` | ¥0.01008 | $0.016 | 0.63 | default | viduq2-turbo |
-| 46 | `anyaigc.com` | ¥0.01056 | $0.016 | 0.66 | default | viduq2-turbo |
-| 47 | `fluxapi.top` | ¥0.0112 | $0.016 | 0.7 | default | viduq2-turbo |
-| 48 | `api.mumuverse.space` | ¥0.012 | $0.016 | 0.75 | default | viduq2-turbo |
-| 49 | `www.aifast.club` | ¥0.012 | $0.016 | 0.75 | default | viduq2-turbo |
-| 50 | `linxingran.top` | ¥0.01248 | $0.016 | 0.78 | default | viduq2-turbo |
+| 1 | `api.relayrouter.ai` | ¥0.005928 | $0.00088236 | 6.718 | Vidu-1 | viduq2-turbo |
+| 2 | `openlux.zhongzhuan.chat` | ¥0.005928 | $0.00088236 | 6.718 | Vidu-1 | viduq2-turbo |
+| 3 | `api.tidewhisper-ai.xyz` | ¥0.00652 | $0.000970596 | 6.718 | Vidu-1 | viduq2-turbo |
+| 4 | `gzxbykj.com` | ¥0.00652 | $0.000970596 | 6.718 | Vidu-1 | viduq2-turbo |
+| 5 | `yunwu.org` | ¥0.00652 | $0.000970596 | 6.718 | Vidu-1 | viduq2-turbo |
+| 6 | `v2.cloudmist.cloud` | ¥0.006817 | $0.00101471 | 6.718 | Vidu-1 | viduq2-turbo |
+| 7 | `www.vectronode.com` | ¥0.007113 | $0.00105883 | 6.718 | Vidu-1 | viduq2-turbo |
+| 8 | `apiclaw.cn` | ¥0.007173 | $0.00106766 | 6.718 | Vidu-1 | viduq2-turbo |
+| 9 | `newapi.xueai.me` | ¥0.007173 | $0.00106766 | 6.718 | Vidu-1 | viduq2-turbo |
+| 10 | `ciyuan.today` | ¥0.00741 | $0.00110295 | 6.718 | Vidu-1 | viduq2-turbo |
+| 11 | `gptapi.top` | ¥0.00741 | $0.00110295 | 6.718 | Vidu-1 | viduq2-turbo |
+| 12 | `makerend.com` | ¥0.00741 | $0.00110295 | 6.718 | Vidu-1 | viduq2-turbo |
+| 13 | `moliapi.com` | ¥0.007469 | $0.00111177 | 6.718 | Vidu-1 | viduq2-turbo |
+| 14 | `layso.ai` | ¥0.007647 | $0.00764712 | 1 | Vidu-1 | viduq2-turbo |
+| 15 | `laysoai.com` | ¥0.007647 | $0.00764712 | 1 | Vidu-1 | viduq2-turbo |
+| 16 | `ai-api.cc` | ¥0.007706 | $0.00114707 | 6.718 | Vidu-1 | viduq2-turbo |
+| 17 | `nodapi.com` | ¥0.007825 | $0.00116472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 18 | `anyaigc.ai` | ¥0.008002 | $0.00119119 | 6.718 | Vidu-1 | viduq2-turbo |
+| 19 | `sheepaiplus.top` | ¥0.008299 | $0.0012353 | 6.718 | Vidu-1 | viduq2-turbo |
+| 20 | `xiguapi.icu` | ¥0.008299 | $0.0012353 | 6.718 | Vidu-1 | viduq2-turbo |
+| 21 | `api.88api.chat` | ¥0.008892 | $0.00132354 | 6.718 | Vidu-1 | viduq2-turbo |
+| 22 | `api.videocaptioner.cn` | ¥0.008892 | $0.00132354 | 6.718 | Vidu-1 | viduq2-turbo |
+| 23 | `new.aigc2d.com` | ¥0.008892 | $0.00132354 | 6.718 | Vidu-1 | viduq2-turbo |
+| 24 | `oyy-ai.xyz` | ¥0.008892 | $0.00132354 | 6.718 | Vidu-1 | viduq2-turbo |
+| 25 | `api.nixapi.com` | ¥0.01002 | $0.00149119 | 6.718 | Vidu-1 | viduq2-turbo |
+| 26 | `aiwuje.com` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 27 | `api.echoflowai.cc` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 28 | `api.n1n.ai` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 29 | `api.quickrouter.ai` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 30 | `jeniya.cn` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 31 | `linoapi.com` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 32 | `llm-api.net` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 33 | `quanzil.com` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 34 | `token173.net` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 35 | `tryallapi.com` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 36 | `wellapi.ai` | ¥0.01186 | $0.00176472 | 6.718 | Vidu-1 | viduq2-turbo |
+| 37 | `thousandengine.com` | ¥0.01206 | $0.0017956 | 6.718 | Vidu-1 | viduq2-turbo |
+| 38 | `api.new.bi` | ¥0.016 | $0.016 | 1 | 企业级高可用大模型 | viduq2-turbo |
+| 39 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | viduq2-turbo |
+| 40 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | viduq2-turbo |
+| 41 | `api.camel-hub.cn` | ¥0.048 | $0.06 | 0.8 | default | viduq2-turbo |
+| 42 | `api.camel-hub.com` | ¥0.048 | $0.06 | 0.8 | default | viduq2-turbo |
+| 43 | `api.kr777.top` | ¥0.048 | $0.06 | 0.8 | default | viduq2-turbo |
+| 44 | `plusx.nyxos.shop` | ¥0.06441 | $0.0088236 | 7.3 | Vidu-1 | viduq2-turbo |
+| 45 | `ccapi.ai` | ¥1.725 | $0.25 | 6.9 | vidu-A | viduq2-turbo |
+| 46 | `kfcv50.link` | ¥3.438 | $3.4375 | 1 | default | viduq2-turbo |
+| 47 | `api.klxey.com` | ¥3.65 | $0.5 | 7.3 | default | viduq2-turbo |
+| 48 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq2-turbo |
+| 49 | `api2.aigcbest.top` | ¥7 | $2 | 3.5 | default | viduq2-turbo |
 
-> 另有 36 站未列出。
+## 名义价（未公开充值价，按 $ 排序）
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `ai.kalehui.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 2 | `aiapihub.cloud` | $0.016 | default | 1 | viduq2-turbo |
+| 3 | `aiopus.top` | $0.016 | default | 1 | viduq2-turbo |
+| 4 | `aiyiwei.vip` | $0.016 | default | 1 | viduq2-turbo |
+| 5 | `anyaigc.com` | $0.016 | default | 1 | viduq2-turbo |
+| 6 | `api-hub.vip` | $0.016 | default | 1 | viduq2-turbo |
+| 7 | `api.aibh.site` | $0.016 | default | 1 | viduq2-turbo |
+| 8 | `api.aicso.top` | $0.016 | default | 1 | viduq2-turbo |
+| 9 | `api.anthropicricardo.club` | $0.016 | default | 1 | viduq2-turbo |
+| 10 | `api.antmoo.com` | $0.016 | default | 1 | viduq2-turbo |
+| 11 | `api.apiplus.org` | $0.016 | default | 1 | viduq2-turbo |
+| 12 | `api.bitidea.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 13 | `api.clai.click` | $0.016 | default | 1 | viduq2-turbo |
+| 14 | `api.cloudmist.cloud` | $0.016 | default | 1 | viduq2-turbo |
+| 15 | `api.gpt666claude.top` | $0.016 | default | 1 | viduq2-turbo |
+| 16 | `api.modelyard.cc` | $0.016 | default | 1 | viduq2-turbo |
+| 17 | `api.mumuverse.space` | $0.016 | default | 1 | viduq2-turbo |
+| 18 | `api.qingyuntop.top` | $0.016 | default | 1 | viduq2-turbo |
+| 19 | `api.token173.net` | $0.016 | default | 1 | viduq2-turbo |
+| 20 | `api.vectorengine.ai` | $0.016 | default | 1 | viduq2-turbo |
+| 21 | `api.winfull.cloud-ip.cc` | $0.016 | default | 1 | viduq2-turbo |
+| 22 | `api.wlai.vip` | $0.016 | default | 1 | viduq2-turbo |
+| 23 | `api.xueai.me` | $0.016 | default | 1 | viduq2-turbo |
+| 24 | `api.zhiyikeji.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 25 | `api.zhongzhuan.chat` | $0.016 | default | 1 | viduq2-turbo |
+| 26 | `api.zhongzhuan.vip` | $0.016 | default | 1 | viduq2-turbo |
+| 27 | `api123.eu.cc` | $0.016 | default | 1 | viduq2-turbo |
+| 28 | `apilink.shop` | $0.016 | default | 1 | viduq2-turbo |
+| 29 | `apipro.maynor1024.live` | $0.016 | default | 1 | viduq2-turbo |
+| 30 | `apistudio.vip` | $0.016 | default | 1 | viduq2-turbo |
+| 31 | `apixin.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 32 | `dawnnode.com` | $0.016 | default | 1 | viduq2-turbo |
+| 33 | `fluxapi.top` | $0.016 | default | 1 | viduq2-turbo |
+| 34 | `juapi.cc` | $0.016 | default | 1 | viduq2-turbo |
+| 35 | `juhe.34ku.com` | $0.016 | default | 1 | viduq2-turbo |
+| 36 | `lemonapi.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 37 | `linxingran.top` | $0.016 | default | 1 | viduq2-turbo |
+| 38 | `minitoken.top` | $0.016 | default | 1 | viduq2-turbo |
+| 39 | `new.xhuoai.com` | $0.016 | default | 1 | viduq2-turbo |
+| 40 | `next.aigc2d.com` | $0.016 | default | 1 | viduq2-turbo |
+| 41 | `one.chatshare.one` | $0.016 | default | 1 | viduq2-turbo |
+| 42 | `qianfufu.com` | $0.016 | default | 1 | viduq2-turbo |
+| 43 | `ruishiglobal.com` | $0.016 | default | 1 | viduq2-turbo |
+| 44 | `s.qweapi.com` | $0.016 | default | 1 | viduq2-turbo |
+| 45 | `solidapi.cc` | $0.016 | default | 1 | viduq2-turbo |
+| 46 | `sparkapi.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 47 | `startapi.top` | $0.016 | default | 1 | viduq2-turbo |
+| 48 | `tiantoken.cn` | $0.016 | default | 1 | viduq2-turbo |
+| 49 | `token.kkdmx.com` | $0.016 | default | 1 | viduq2-turbo |
+| 50 | `uouo.fun` | $0.016 | default | 1 | viduq2-turbo |
+
+> 另有 14 站未列出。
+
+> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

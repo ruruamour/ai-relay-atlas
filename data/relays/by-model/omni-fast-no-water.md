@@ -1,6 +1,6 @@
 # omni-fast-no-water
 
-> 21 站提供 · 正常价 17 站 · 名义中位价 **$1.2**/次 · 实付中位价 **¥1.2**/次（13 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 21 站 · 名义中位价 **$1.2**/次 · 实付中位价 **¥1.2**/次（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,14 +23,18 @@
 | 11 | `api.zq4i.com` | ¥1.81 | $1.81 | 1 | 视频渠道 | omni-fast-no-water |
 | 12 | `cf.a-piko.top` | ¥1.86 | $1.86 | 1 | 视频统一分组 | omni-fast-no-water |
 | 13 | `tu.988236.xyz` | ¥4.234 | $0.58 | 7.3 | omni和veo系列视频 | omni-fast-no-water |
+| 14 | `image.cjyyswq.com` | ¥8.395 | $1.15 | 7.3 | default | omni-fast-no-water |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.chuangxiangai.asia` | $9.6 | 视频 | 1 | omni-fast-no-water |
-| 2 | `aiapi.market` | $9.72 | video | 12 | omni-fast-no-water |
-| 3 | `api.bblabu.ai` | $24 | 视频模型分组 | 1 | omni-fast-no-water |
-| 4 | `openai.sharkmagic.top` | $252 | tier_3 | 0.9 | [lq]q\|Rim/omni-fast-no-water |
+| 1 | `sub.aigege.one` | $1.053 | 生视频分组 | 1 | omni-fast-no-water |
+| 2 | `sub.linkrun.org` | $1.053 | default | 1 | omni-fast-no-water |
+| 3 | `superxihe.com` | $1.31 | video | 1 | omni-fast-no-water |
+| 4 | `api.chuangxiangai.asia` | $9.6 | 视频 | 1 | omni-fast-no-water |
+| 5 | `aiapi.market` | $9.72 | video | 12 | omni-fast-no-water |
+| 6 | `api.bblabu.ai` | $24 | 视频模型分组 | 1 | omni-fast-no-water |
+| 7 | `openai.sharkmagic.top` | $252 | tier_3 | 0.9 | [lq]q\|Rim/omni-fast-no-water |
 
-> 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

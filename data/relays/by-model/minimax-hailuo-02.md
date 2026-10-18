@@ -1,6 +1,6 @@
 # minimax-hailuo-02
 
-> 66 站提供 · 正常价 61 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.016**/次（61 站公开充值价） · 推算，未对账
+> 90 站提供 · 正常价 81 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.6716**/次（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,57 +10,78 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.apiplus.org` | ¥0.008 | $0.016 | 0.5 | default | MiniMax-Hailuo-02 |
-| 2 | `api.vectorengine.ai` | ¥0.008 | $0.016 | 0.5 | default | MiniMax-Hailuo-02 |
-| 3 | `api.wlai.vip` | ¥0.008 | $0.016 | 0.5 | default | MiniMax-Hailuo-02 |
-| 4 | `api.zhongzhuan.chat` | ¥0.008 | $0.016 | 0.5 | default | MiniMax-Hailuo-02 |
-| 5 | `api.zhongzhuan.vip` | ¥0.008 | $0.016 | 0.5 | default | MiniMax-Hailuo-02 |
-| 6 | `yunwu.ai` | ¥0.008 | $0.016 | 0.5 | default | MiniMax-Hailuo-02 |
-| 7 | `api.aicso.top` | ¥0.0088 | $0.016 | 0.55 | default | MiniMax-Hailuo-02 |
-| 8 | `api.clai.click` | ¥0.0088 | $0.016 | 0.55 | default | MiniMax-Hailuo-02 |
-| 9 | `api.winfull.cloud-ip.cc` | ¥0.0088 | $0.016 | 0.55 | default | MiniMax-Hailuo-02 |
-| 10 | `api123.eu.cc` | ¥0.0088 | $0.016 | 0.55 | default | MiniMax-Hailuo-02 |
-| 11 | `yuli.host` | ¥0.00928 | $0.016 | 0.58 | default | MiniMax-Hailuo-02 |
-| 12 | `api.zhiyikeji.cn` | ¥0.0096 | $0.016 | 0.6 | default | MiniMax-Hailuo-02 |
-| 13 | `apistudio.vip` | ¥0.0096 | $0.016 | 0.6 | default | MiniMax-Hailuo-02 |
-| 14 | `one.chatshare.one` | ¥0.0096 | $0.016 | 0.6 | default | MiniMax-Hailuo-02 |
-| 15 | `aiyiwei.vip` | ¥0.01008 | $0.016 | 0.63 | default | MiniMax-Hailuo-02 |
-| 16 | `anyaigc.com` | ¥0.01056 | $0.016 | 0.66 | default | MiniMax-Hailuo-02 |
-| 17 | `fluxapi.top` | ¥0.0112 | $0.016 | 0.7 | default | MiniMax-Hailuo-02 |
-| 18 | `api.mumuverse.space` | ¥0.012 | $0.016 | 0.75 | default | MiniMax-Hailuo-02 |
-| 19 | `www.aifast.club` | ¥0.012 | $0.016 | 0.75 | default | MiniMax-Hailuo-02 |
-| 20 | `linxingran.top` | ¥0.01248 | $0.016 | 0.78 | default | MiniMax-Hailuo-02 |
-| 21 | `api.qingyuntop.top` | ¥0.01264 | $0.016 | 0.79 | default | MiniMax-Hailuo-02 |
-| 22 | `api.antmoo.com` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 23 | `minitoken.top` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 24 | `qianfufu.com` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 25 | `www.xiaoruiera.top` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 26 | `xiaohumini.site` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 27 | `xinyuanai666.com` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 28 | `yunai.chat` | ¥0.0128 | $0.016 | 0.8 | default | MiniMax-Hailuo-02 |
-| 29 | `api-hub.vip` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 30 | `api.aibh.site` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 31 | `api.anthropicricardo.club` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 32 | `api.bitidea.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 33 | `api.xueai.me` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 34 | `apixin.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 35 | `code.yansd666.com` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 36 | `dawnnode.com` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 37 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | MiniMax-Hailuo-02 |
-| 38 | `next.aigc2d.com` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 39 | `sparkapi.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 40 | `startapi.top` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 41 | `uouo.fun` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 42 | `v2.cloudmist.cloud` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 43 | `vipapi.online` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 44 | `www.aigeek.life` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 45 | `www.shiyunapi.net` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 46 | `yunshu.hk` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 47 | `ruishiglobal.com` | ¥0.01728 | $0.016 | 1.08 | default | MiniMax-Hailuo-02 |
-| 48 | `aiapihub.cloud` | ¥0.0176 | $0.016 | 1.1 | default | MiniMax-Hailuo-02 |
-| 49 | `apipro.maynor1024.live` | ¥0.02 | $0.016 | 1.25 | default | MiniMax-Hailuo-02 |
-| 50 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | MiniMax-Hailuo-02 |
+| 1 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | MiniMax-Hailuo-02 |
+| 2 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
+| 3 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | MiniMax-Hailuo-02 |
+| 4 | `api.camel-hub.cn` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
+| 5 | `api.camel-hub.com` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
+| 6 | `api.kr777.top` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
+| 7 | `kfcv50.link` | ¥0.49 | $0.49 | 1 | default | MiniMax-Hailuo-02 |
+| 8 | `116.62.113.242` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | minimax-hailuo-02 |
+| 9 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | minimax-hailuo-02 |
+| 10 | `toapis.com` | ¥1.358 | $0.194 | 7 | default | MiniMax-Hailuo-02 |
+| 11 | `www.hohoapi.com` | ¥1.746 | $0.582 | 3 | video | MiniMax-Hailuo-02 |
+| 12 | `api.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-02 |
+| 13 | `api.34ku.com` | ¥2.6 | $2.6 | 1 | default | MiniMax-Hailuo-02 |
+| 14 | `ai.t8star.org` | ¥2.7 | $2 | 1.35 | default | MiniMax-Hailuo-02 |
+| 15 | `api.ilaien.com` | ¥2.832 | $0.388 | 7.3 | default | MiniMax-Hailuo-02 |
+| 16 | `api2.aigcbest.top` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-02 |
 
-> 另有 11 站未列出。
+## 名义价（未公开充值价，按 $ 排序）
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `ai.kalehui.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 2 | `aiapihub.cloud` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 3 | `aiopus.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 4 | `aiyiwei.vip` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 5 | `anyaigc.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 6 | `api-hub.vip` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 7 | `api.aibh.site` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 8 | `api.aicso.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 9 | `api.anthropicricardo.club` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 10 | `api.antmoo.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 11 | `api.apiplus.org` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 12 | `api.bitidea.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 13 | `api.clai.click` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 14 | `api.cloudmist.cloud` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 15 | `api.gpt666claude.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 16 | `api.modelyard.cc` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 17 | `api.mumuverse.space` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 18 | `api.qingyuntop.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 19 | `api.token173.net` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 20 | `api.vectorengine.ai` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 21 | `api.winfull.cloud-ip.cc` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 22 | `api.wlai.vip` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 23 | `api.xueai.me` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 24 | `api.zhiyikeji.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 25 | `api.zhongzhuan.chat` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 26 | `api.zhongzhuan.vip` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 27 | `api123.eu.cc` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 28 | `apilink.shop` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 29 | `apipro.maynor1024.live` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 30 | `apistudio.vip` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 31 | `apixin.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 32 | `dawnnode.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 33 | `fluxapi.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 34 | `juapi.cc` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 35 | `juhe.34ku.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 36 | `lemonapi.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 37 | `linxingran.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 38 | `minitoken.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 39 | `new.xhuoai.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 40 | `next.aigc2d.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 41 | `one.chatshare.one` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 42 | `qianfufu.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 43 | `ruishiglobal.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 44 | `s.qweapi.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 45 | `solidapi.cc` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 46 | `sparkapi.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 47 | `startapi.top` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 48 | `tiantoken.cn` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 49 | `token.kkdmx.com` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+| 50 | `uouo.fun` | $0.016 | default | 1 | MiniMax-Hailuo-02 |
+
+> 另有 15 站未列出。
+
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

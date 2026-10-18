@@ -1,6 +1,6 @@
 # qwen3-vl-30b-a3b-instruct
 
-> 80 站提供 · 正常价 69 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥0.6**/1M 输入（68 站公开充值价） · 推算，未对账
+> 105 站提供 · 正常价 91 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥0.675**/1M 输入（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,59 +14,83 @@
 | 2 | `api.aliyunfuwu.top` | ¥0.09 | $0.09 / $0.27 | 1 | SiliconFlow | Qwen/Qwen3-VL-30B-A3B-Instruct |
 | 3 | `daoxe.com` | ¥0.103 | $0.1 / $0.35 | 1.03 | 海外国产模型 | qwen3-vl-30b-a3b-instruct |
 | 4 | `token101.site` | ¥0.15 | $0.15 / $0.55 | 1 | cn_model | Qwen/Qwen3-VL-30B-A3B-Instruct |
-| 5 | `api.apiplus.org` | ¥0.375 | $0.75 / $3 | 0.5 | default | qwen3-vl-30b-a3b-instruct |
-| 6 | `api.vectorengine.ai` | ¥0.375 | $0.75 / $3 | 0.5 | default | qwen3-vl-30b-a3b-instruct |
-| 7 | `api.wlai.vip` | ¥0.375 | $0.75 / $3 | 0.5 | default | qwen3-vl-30b-a3b-instruct |
-| 8 | `api.zhongzhuan.chat` | ¥0.375 | $0.75 / $3 | 0.5 | default | qwen3-vl-30b-a3b-instruct |
-| 9 | `api.zhongzhuan.vip` | ¥0.375 | $0.75 / $3 | 0.5 | default | qwen3-vl-30b-a3b-instruct |
-| 10 | `yunwu.ai` | ¥0.375 | $0.75 / $3 | 0.5 | default | qwen3-vl-30b-a3b-instruct |
-| 11 | `llm.kagu.one` | ¥0.3942 | $0.054 / $0.215 | 7.3 | 大杂烩 | qwen/qwen3-vl-30b-a3b-instruct |
-| 12 | `api.aicso.top` | ¥0.4125 | $0.75 / $3 | 0.55 | default | qwen3-vl-30b-a3b-instruct |
-| 13 | `api.clai.click` | ¥0.4125 | $0.75 / $3 | 0.55 | default | qwen3-vl-30b-a3b-instruct |
-| 14 | `api.winfull.cloud-ip.cc` | ¥0.4125 | $0.75 / $3 | 0.55 | default | qwen3-vl-30b-a3b-instruct |
-| 15 | `api123.eu.cc` | ¥0.4125 | $0.75 / $3 | 0.55 | default | qwen3-vl-30b-a3b-instruct |
-| 16 | `yuli.host` | ¥0.435 | $0.75 / $3 | 0.58 | default | qwen3-vl-30b-a3b-instruct |
-| 17 | `api.zhiyikeji.cn` | ¥0.45 | $0.75 / $3 | 0.6 | default | qwen3-vl-30b-a3b-instruct |
-| 18 | `apistudio.vip` | ¥0.45 | $0.75 / $3 | 0.6 | default | qwen3-vl-30b-a3b-instruct |
-| 19 | `one.chatshare.one` | ¥0.45 | $0.75 / $3 | 0.6 | default | qwen3-vl-30b-a3b-instruct |
-| 20 | `api.camel-hub.cn` | ¥0.45 | $0.5625 / $2.25 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 21 | `aiyiwei.vip` | ¥0.4725 | $0.75 / $3 | 0.63 | default | qwen3-vl-30b-a3b-instruct |
-| 22 | `anyaigc.com` | ¥0.495 | $0.75 / $3 | 0.66 | default | qwen3-vl-30b-a3b-instruct |
-| 23 | `fluxapi.top` | ¥0.525 | $0.75 / $3 | 0.7 | default | qwen3-vl-30b-a3b-instruct |
-| 24 | `api.qinzhiai.com` | ¥0.525 | $0.525 / $2.1 | 1 | openrouter | qwen/qwen3-vl-30b-a3b-instruct |
-| 25 | `api.mumuverse.space` | ¥0.5625 | $0.75 / $3 | 0.75 | default | qwen3-vl-30b-a3b-instruct |
-| 26 | `www.aifast.club` | ¥0.5625 | $0.75 / $3 | 0.75 | default | qwen3-vl-30b-a3b-instruct |
-| 27 | `linxingran.top` | ¥0.585 | $0.75 / $3 | 0.78 | default | qwen3-vl-30b-a3b-instruct |
-| 28 | `api.qingyuntop.top` | ¥0.5925 | $0.75 / $3 | 0.79 | default | qwen3-vl-30b-a3b-instruct |
-| 29 | `api.antmoo.com` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 30 | `minitoken.top` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 31 | `qianfufu.com` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 32 | `www.xiaoruiera.top` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 33 | `xiaohumini.site` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 34 | `xinyuanai666.com` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 35 | `yunai.chat` | ¥0.6 | $0.75 / $3 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
-| 36 | `open.xiaojingai.com` | ¥0.63 | $0.63 / $2.52 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 37 | `api2.aigcbest.top` | ¥0.637 | $0.182 / $0.728 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-30B-A3B-Instruct |
-| 38 | `claudecn.ai` | ¥0.675 | $0.675 / $2.7 | 1 | 国产模型 | qwen3-vl-30b-a3b-instruct |
-| 39 | `hk.moleapi.com` | ¥0.7344 | $0.108 / $0.432 | 6.8 | default | qwen3-vl-30b-a3b-instruct |
-| 40 | `api-hub.vip` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 41 | `api.aibh.site` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 42 | `api.anthropicricardo.club` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 43 | `api.bitidea.cn` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 44 | `api.xueai.me` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 45 | `apixin.cn` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 46 | `code.yansd666.com` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 47 | `dawnnode.com` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 48 | `keypool.space` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 49 | `next.aigc2d.com` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-| 50 | `sparkapi.cn` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
-
-> 另有 18 站未列出。
+| 5 | `llm.kagu.one` | ¥0.3942 | $0.054 / $0.215 | 7.3 | 大杂烩 | qwen/qwen3-vl-30b-a3b-instruct |
+| 6 | `api.camel-hub.cn` | ¥0.45 | $0.5625 / $2.25 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
+| 7 | `api.camel-hub.com` | ¥0.45 | $0.5625 / $2.25 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
+| 8 | `api.kr777.top` | ¥0.45 | $0.5625 / $2.25 | 0.8 | default | qwen3-vl-30b-a3b-instruct |
+| 9 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.45 | $0.45 / $1.8 | 1 | aliyun | qwen3-vl-30b-a3b-instruct |
+| 10 | `open.xiaojingai.com` | ¥0.63 | $0.63 / $2.52 | 1 | default | qwen3-vl-30b-a3b-instruct |
+| 11 | `api2.aigcbest.top` | ¥0.637 | $0.182 / $0.728 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-30B-A3B-Instruct |
+| 12 | `api.qinzhiai.com` | ¥0.675 | $0.675 / $2.7 | 1 | openrouter | qwen/qwen3-vl-30b-a3b-instruct |
+| 13 | `claudecn.ai` | ¥0.675 | $0.675 / $2.7 | 1 | 国产模型 | qwen3-vl-30b-a3b-instruct |
+| 14 | `hk.moleapi.com` | ¥0.7344 | $0.108 / $0.432 | 6.8 | default | qwen3-vl-30b-a3b-instruct |
+| 15 | `keypool.space` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
+| 16 | `new.foxi-api.cn` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-vl-30b-a3b-instruct |
+| 17 | `tokenone.net` | ¥0.75 | $0.1103 / $0.4412 | 6.8 | default | qwen3-vl-30b-a3b-instruct |
+| 18 | `www.ggwk1.online` | ¥0.812 | $0.812 / $2.76892 | 1 | 开源模型组 | Qwen/Qwen3-VL-30B-A3B-Instruct |
+| 19 | `aiapi.world` | ¥0.8843 | $0.13005 / $0.5202 | 6.8 | cmodels | qwen3-vl-30b-a3b-instruct |
+| 20 | `yibuapi.com` | ¥0.9 | $0.6 / $2.4 | 1.5 | default | qwen3-vl-30b-a3b-instruct |
+| 21 | `www.hohoapi.com` | ¥1.17 | $0.39 / $1.56 | 3 | qwen | qwen3-vl-30b-a3b-instruct |
+| 22 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $0.923077 | 7.3 | default | qwen/qwen3-vl-30b-a3b-instruct |
+| 23 | `ai2.qiqiai.top` | ¥1.708 | $0.234 / $0.936 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-30b-a3b-instruct |
+| 24 | `koalaapi.com` | ¥3.748 | $0.5355 / $2.142 | 7 | 一key国产中转全模型 | qwen3-vl-30b-a3b-instruct |
+| 25 | `treerouter.com` | ¥3.748 | $0.5355 / $2.142 | 7 | 一key国产中转全模型 | qwen3-vl-30b-a3b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `liangjiewis.com` | $8.55469 / $34.2188 | self-hosted | 1 | Qwen/Qwen3-VL-30B-A3B-Instruct |
+| 1 | `or.mux.la` | $0.15 / $0.6 | default | 1 | qwen/qwen3-vl-30b-a3b-instruct |
+| 2 | `ai.kalehui.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 3 | `aiapihub.cloud` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 4 | `aiopus.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 5 | `aiyiwei.vip` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 6 | `anyaigc.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 7 | `api-hub.vip` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 8 | `api.aibh.site` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 9 | `api.aicso.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 10 | `api.anthropicricardo.club` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 11 | `api.antmoo.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 12 | `api.apiplus.org` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 13 | `api.bitidea.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 14 | `api.clai.click` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 15 | `api.cloudmist.cloud` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 16 | `api.gpt666claude.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 17 | `api.modelyard.cc` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 18 | `api.mumuverse.space` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 19 | `api.qingyuntop.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 20 | `api.token173.net` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 21 | `api.vectorengine.ai` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 22 | `api.winfull.cloud-ip.cc` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 23 | `api.wlai.vip` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 24 | `api.xueai.me` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 25 | `api.zhiyikeji.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 26 | `api.zhongzhuan.chat` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 27 | `api.zhongzhuan.vip` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 28 | `api123.eu.cc` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 29 | `apilink.shop` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 30 | `apipro.maynor1024.live` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 31 | `apistudio.vip` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 32 | `apixin.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 33 | `dawnnode.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 34 | `fluxapi.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 35 | `juapi.cc` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 36 | `juhe.34ku.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 37 | `lemonapi.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 38 | `linxingran.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 39 | `minitoken.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 40 | `new.xhuoai.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 41 | `next.aigc2d.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 42 | `one.chatshare.one` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 43 | `qianfufu.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 44 | `ruishiglobal.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 45 | `s.qweapi.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 46 | `solidapi.cc` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 47 | `sparkapi.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 48 | `startapi.top` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 49 | `tiantoken.cn` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
+| 50 | `token.kkdmx.com` | $0.75 / $3 | default | 1 | qwen3-vl-30b-a3b-instruct |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 另有 16 站未列出。
+
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3.8-flash-next
 
-> 20 站提供 · 正常价 5 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥2.4552**/1M 输入（5 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 8 站 · 名义中位价 **$0.43**/1M 输入 · 实付中位价 **¥3.65**/1M 输入（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,8 +12,16 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.xkj666.top` | ¥0.09045 | $0.09045 / $0.225 | 1 | 国模分组 | Qwen3.8-Flash-Next |
 | 2 | `api.pie-xian.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | model | qwen3.8-flash-next |
-| 3 | `api.aimodelserver.com` | ¥2.4552 | $0.36 / $1.2 | 6.82 | chinese | qwen3.8-flash-next |
+| 3 | `api.aimodelserver.com` | ¥2.455 | $0.36 / $1.2 | 6.82 | chinese | qwen3.8-flash-next |
 | 4 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | qwen/qwen3.8-flash-next |
-| 5 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | 幻1 | Qwen3.8-Flash-Next |
+| 5 | `kaopuapi.com` | ¥5.84 | $0.8 / $2.7 | 7.3 | Local_自建 | Qwen3.8-Flash-Next |
+| 6 | `mrouter.cn` | ¥5.84 | $0.8 / $2.7 | 7.3 | Local_自建 | Qwen3.8-Flash-Next |
+| 7 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | 幻1 | Qwen3.8-Flash-Next |
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `crs2.4bc.cc` | $0.15 / $0.47 | default | 1 | qwen3.8-flash-next |
+
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

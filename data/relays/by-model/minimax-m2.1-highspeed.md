@@ -1,6 +1,6 @@
 # minimax-m2.1-highspeed
 
-> 28 站提供 · 正常价 17 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3.486**/1M 输入（14 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 18 站 · 名义中位价 **$2.25**/1M 输入 · 实付中位价 **¥3.822**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,8 +22,9 @@
 | 10 | `coneverse.com` | ¥4.2 | $4.2 / $16.8 | 1 | minimax-official | MiniMax-M2.1-highspeed |
 | 11 | `infistar.ai` | ¥4.2 | $4.2 / $16.8 | 1 | minimax-official | MiniMax-M2.1-highspeed |
 | 12 | `tokenworldapi.com` | ¥4.2 | $4.2 / $16.8 | 1 | minimax官key | MiniMax-M2.1-highspeed |
-| 13 | `yibuapi.com` | ¥5.04 | $3.36 / $13.44 | 1.5 | claude-code | MiniMax-M2.1-highspeed |
-| 14 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | minimax-m2.1-highspeed |
+| 13 | `otoken.pro` | ¥5 | $5 / $5 | 1 | default | MiniMax-M2.1-highspeed |
+| 14 | `yibuapi.com` | ¥5.04 | $3.36 / $13.44 | 1.5 | claude-code | MiniMax-M2.1-highspeed |
+| 15 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | minimax-m2.1-highspeed |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -33,4 +34,4 @@
 | 2 | `baosiapi.com` | $1.8 / $14.4 | minimax | 6 | MiniMax-M2.1-highspeed |
 | 3 | `openclawroot.com` | $3.2 / $14.4 | default | 1 | MiniMax-M2.1-highspeed |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

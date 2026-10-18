@@ -1,6 +1,6 @@
 # kling-avatar-image2video
 
-> 32 站提供 · 正常价 32 站 · 名义中位价 **$0.00199377**/次 · 实付中位价 **¥0.00199377**/次（32 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 41 站 · 名义中位价 **$0.00187502**/次 · 实付中位价 **¥0.0126**/次（41 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,36 +10,45 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.openlux.ai` | ¥0.00125001 | $0.00125001 | 1 | Kling-2 | kling-avatar-image2video |
-| 2 | `api.relayrouter.ai` | ¥0.00125001 | $0.00125001 | 1 | Kling-2 | kling-avatar-image2video |
-| 3 | `api.tidewhisper-ai.xyz` | ¥0.00137501 | $0.00137501 | 1 | Kling-2 | kling-avatar-image2video |
-| 4 | `gzxbykj.com` | ¥0.00137501 | $0.00137501 | 1 | Kling-2 | kling-avatar-image2video |
-| 5 | `www.vectronode.com` | ¥0.00150001 | $0.00150001 | 1 | Kling-2 | kling-avatar-image2video |
-| 6 | `ciyuan.today` | ¥0.00156251 | $0.00156251 | 1 | Kling-2 | kling-avatar-image2video |
-| 7 | `gptapi.top` | ¥0.00156251 | $0.00156251 | 1 | Kling-2 | kling-avatar-image2video |
-| 8 | `makerend.com` | ¥0.00156251 | $0.00156251 | 1 | Kling-2 | kling-avatar-image2video |
-| 9 | `moliapi.com` | ¥0.00157501 | $0.00157501 | 1 | Kling-2 | kling-avatar-image2video |
-| 10 | `ai-api.cc` | ¥0.00162501 | $0.00162501 | 1 | Kling-2 | kling-avatar-image2video |
-| 11 | `nodapi.com` | ¥0.00165001 | $0.00165001 | 1 | Kling-2 | kling-avatar-image2video |
-| 12 | `anyaigc.ai` | ¥0.00168751 | $0.00168751 | 1 | Kling-2 | kling-avatar-image2video |
-| 13 | `sheepaiplus.top` | ¥0.00175001 | $0.00175001 | 1 | Kling-2 | kling-avatar-image2video |
-| 14 | `xiguapi.icu` | ¥0.00175001 | $0.00175001 | 1 | Kling-2 | kling-avatar-image2video |
-| 15 | `api.88api.chat` | ¥0.00187502 | $0.00187502 | 1 | Kling-2 | kling-avatar-image2video |
-| 16 | `api.videocaptioner.cn` | ¥0.00187502 | $0.00187502 | 1 | Kling-2 | kling-avatar-image2video |
-| 17 | `api.nixapi.com` | ¥0.00211252 | $0.00211252 | 1 | Kling-2 | kling-avatar-image2video |
-| 18 | `aiwuje.com` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 19 | `api.echoflowai.cc` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 20 | `api.n1n.ai` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 21 | `api.quickrouter.ai` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 22 | `jeniya.cn` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 23 | `linoapi.com` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 24 | `llm-api.net` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 25 | `quanzil.com` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 26 | `token173.net` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 27 | `tryallapi.com` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 28 | `wellapi.ai` | ¥0.00250002 | $0.00250002 | 1 | Kling-2 | kling-avatar-image2video |
-| 29 | `thousandengine.com` | ¥0.00254377 | $0.00254377 | 1 | Kling-2 | kling-avatar-image2video |
-| 30 | `keypool.space` | ¥0.017 | $0.017 | 1 | default | kling-avatar-image2video |
-| 31 | `nbapi.net` | ¥0.1241 | $0.017 | 7.3 | default | kling-avatar-image2video |
-| 32 | `api.camel-hub.cn` | ¥0.16 | $0.2 | 0.8 | default | kling-avatar-image2video |
+| 1 | `api.relayrouter.ai` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 2 | `openlux.zhongzhuan.chat` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 3 | `api.tidewhisper-ai.xyz` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 4 | `gzxbykj.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 5 | `yunwu.org` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 6 | `v2.cloudmist.cloud` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 7 | `www.vectronode.com` | ¥0.01008 | $0.00150001 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 8 | `apiclaw.cn` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 9 | `newapi.xueai.me` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 10 | `ciyuan.today` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 11 | `gptapi.top` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 12 | `makerend.com` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 13 | `moliapi.com` | ¥0.01058 | $0.00157501 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 14 | `ai-api.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 15 | `nodapi.com` | ¥0.01108 | $0.00165001 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 16 | `anyaigc.ai` | ¥0.01134 | $0.00168751 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 17 | `sheepaiplus.top` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 18 | `xiguapi.icu` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 19 | `api.88api.chat` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 20 | `api.videocaptioner.cn` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 21 | `new.aigc2d.com` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 22 | `oyy-ai.xyz` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 23 | `api.nixapi.com` | ¥0.01419 | $0.00211252 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 24 | `aiwuje.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 25 | `api.echoflowai.cc` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 26 | `api.n1n.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 27 | `api.quickrouter.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 28 | `jeniya.cn` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 29 | `linoapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 30 | `llm-api.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 31 | `quanzil.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 32 | `token173.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 33 | `tryallapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 34 | `wellapi.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 35 | `keypool.space` | ¥0.017 | $0.017 | 1 | default | kling-avatar-image2video |
+| 36 | `thousandengine.com` | ¥0.01709 | $0.00254377 | 6.718 | Kling-2 | kling-avatar-image2video |
+| 37 | `plusx.nyxos.shop` | ¥0.09125 | $0.0125001 | 7.3 | Kling-2 | kling-avatar-image2video |
+| 38 | `nbapi.net` | ¥0.1241 | $0.017 | 7.3 | default | kling-avatar-image2video |
+| 39 | `api.camel-hub.cn` | ¥0.16 | $0.2 | 0.8 | default | kling-avatar-image2video |
+| 40 | `api.camel-hub.com` | ¥0.16 | $0.2 | 0.8 | default | kling-avatar-image2video |
+| 41 | `api.kr777.top` | ¥0.16 | $0.2 | 0.8 | default | kling-avatar-image2video |
 

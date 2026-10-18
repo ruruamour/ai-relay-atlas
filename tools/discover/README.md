@@ -7,7 +7,8 @@
 | Veridrop 目录 | 浏览器 | 站点有 Cloudflare，需在已过盾的浏览器页面里执行下面的 JS |
 | GitHub 名单仓库 | `github_lists.py` | 需要 `gh auth login`；新仓库加到 `REPOS` |
 | 前缀 / 换后缀 | `../gen_candidates.py` | 基于已收录站点生成，自动跳过泛解析父域 |
-| 证书透明日志 | `crtsh.py` / `certspotter.py` | 能挖到猜不到的子域；两者免费额度都很低，容易 429 |
+| 证书透明日志 | `crtsh.py` | 直连 crt.sh 公共 PostgreSQL（需 `psql`），批量查询、断点续跑、只走 IPv4；默认 3 并发，请勿调大 |
+| 证书透明日志（备用） | `certspotter.py` | HTTP 接口，免费额度很低 |
 
 ## Veridrop（浏览器控制台）
 
@@ -30,7 +31,8 @@
 
 ```bash
 python3 tools/discover/github_lists.py > /tmp/gh.txt
-python3 tools/gen_candidates.py --skip /tmp/old.json.done > /tmp/cands.txt
+python3 tools/discover/crtsh.py run /tmp/crt.json && python3 tools/discover/crtsh.py candidates /tmp/crt.json > /tmp/crt.txt
+python3 tools/gen_candidates.py --resolve > /tmp/cands.txt
 python3 tools/scan.py /tmp/cands.txt /tmp/new.json
 python3 tools/merge.py /tmp/new.json --via scan
 python3 tools/probe.py && bash tools/build.sh

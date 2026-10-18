@@ -1,6 +1,6 @@
 # gpt-daybreak-blue
 
-> 20 站提供 · 正常价 12 站 · 名义中位价 **$0.9**/1M 输入 · 实付中位价 **¥19.4555**/1M 输入（1 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 15 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥19.46**/1M 输入（1 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `aiapi.world` | ¥19.4555 | $2.8611 / $17.1666 | 6.8 | default | gpt-daybreak-blue-latest |
+| 1 | `aiapi.world` | ¥19.46 | $2.8611 / $17.1666 | 6.8 | default | gpt-daybreak-blue-latest |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -24,8 +24,11 @@
 | 6 | `sub2api.simplaj.top` | $0.8 / $4 | GPT 纯血Pro 余额分组 | 0.2 | gpt-daybreak-blue-latest |
 | 7 | `api.geniuscoder.net` | $1 / $5 | gpt优惠 | 0.25 | gpt-daybreak-blue-latest |
 | 8 | `supersubscribe689.com` | $2 / $10 | chatgpt美区版 | 0.5 | gpt-daybreak-blue-latest |
-| 9 | `sub.vcnovb.cn` | $4 / $20 | Cyber | 1 | gpt-daybreak-blue-latest |
-| 10 | `api.akko.space` | $10 / $50 | Codex Azure | 2.5 | gpt-daybreak-blue-latest |
-| 11 | `aus.aivra.lat` | $12.75 / $34 | OpenAI Cyber | 0.85 | gpt-daybreak-blue-latest |
+| 9 | `canana.vcnovb.cn` | $4 / $20 | Cyber | 1 | gpt-daybreak-blue-latest |
+| 10 | `expapi.echoflowai.cc` | $4 / $20 | OpenAI-Pro渠道 | 1 | gpt-daybreak-blue-latest |
+| 11 | `sub.vcnovb.cn` | $4 / $20 | Cyber | 1 | gpt-daybreak-blue-latest |
+| 12 | `api.akko.space` | $10 / $50 | Codex Azure | 2.5 | gpt-daybreak-blue-latest |
+| 13 | `aus.aivra.lat` | $12.75 / $34 | OpenAI Cyber | 0.85 | gpt-daybreak-blue-latest |
+| 14 | `sub.hongyun.chat` | $30 / $150 | gpt | 7.5 | gpt-daybreak-blue-latest |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -210,7 +210,8 @@ def main():
     A('<a id="sources"></a>')
     A('## 数据来源')
     A('')
-    A('- 中转站：Veridrop 目录、GitHub 公开名单、对已知域名的子域/后缀扩展扫描；价格取自各站公开的 `/api/pricing`、`/api/v1/model-plaza`')
+    A('- 中转站：Veridrop 目录、GitHub 公开名单、证书透明日志（crt.sh）、对已知域名的子域/后缀扩展扫描；'
+      '站点信息与价格取自各站公开的 `/api/status`、`/api/pricing`、Sub2API `/api/v1/settings/public`、`/api/v1/model-plaza`')
     A('- 卡网：OpenPrice、水獭比价(shuita.xyz)、PriceAI、AI号探、AiFaKa')
     A('- 原始报价版权归各来源站，见 [DATA-LICENSE.md](DATA-LICENSE.md)')
     A('')

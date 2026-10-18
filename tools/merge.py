@@ -3,7 +3,7 @@
 - 有价格：已有站点用新快照整体替换该站报价；新站点追加。
 - 只有站点信息（/api/status 或 Sub2API 设置）没有公开价格：已有站点只更新站名/版本/充值价；
   新站点仅在"已知目录收录"或"有自定义站名且非自用/演示"时收录（避免把私人部署当中转站）。
-别名域名自动映射到主域名。合并后请运行 tools/build.sh（会重新去重）。
+别名域名的报价单独保存，是否同一站由 dedupe 判断（价格表差异大的不会合并）。合并后请运行 tools/build.sh。
 用法: python3 tools/merge.py <scan.json> [--via scan|veridrop|github-list]
 """
 import argparse
@@ -36,7 +36,8 @@ def meta_from(blob):
     m = st or se
     if not m:
         return None
-    return dict(name=m.get('name') or '', version=m.get('version') or '', topup=st.get('topup'),
+    return dict(name=m.get('name') or '', version=m.get('version') or '',
+                topup=st.get('topup_cny'), topup_known='topup_cny' in st,
                 system='Sub2API' if se else 'New-API/One-API',
                 public=not (st.get('self_use') or st.get('demo')) and (not se or se.get('registration') or se.get('plaza')))
 
@@ -49,7 +50,6 @@ def main():
     data = json.load(open(a.scan_json))
     relays = read_csv(RELAYS)
     rows = read_csv(MODELS)
-    alias_of = {r['alias']: r['canonical'] for r in read_csv(ALIASES)}
     info = {r['domain']: r for r in relays}
     api_of = {r['api_host']: r['domain'] for r in relays if r.get('api_host')}
     known = set()
@@ -60,7 +60,7 @@ def main():
 
     snap, metas = {}, {}
     for host, blob in data.items():
-        can = api_of.get(host) or alias_of.get(host) or host
+        can = api_of.get(host) or host
         new = rows_from(blob)
         if new:
             pri = (host == (info.get(can) or {}).get('api_host'), host == can, len(new))
@@ -95,7 +95,8 @@ def main():
         if mt['name'] and not is_generic_name(mt['name']) and not has_secret(mt['name']):
             r['name'] = mt['name']
         r['version'] = mt['version'] or r.get('version', '')
-        r['topup_cny_per_usd'] = fmt(valid_topup(mt['topup'])) if valid_topup(mt['topup']) else ''
+        if mt['topup_known']:  # 旧格式扫描结果没有币种信息，不覆盖
+            r['topup_cny_per_usd'] = fmt(valid_topup(mt['topup'])) if valid_topup(mt['topup']) else ''
         if r.get('system') not in ('New-API', 'Sub2API'):
             r['system'] = mt['system']
         updated_meta += 1
