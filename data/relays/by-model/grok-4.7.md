@@ -1,208 +1,60 @@
 # grok-4.7
 
-> 1014 家 · 最低 **$0.004** @ `api.topapi.io` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 866 站提供 · 正常价 472 站 · 中位价 **$0.4**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.topapi.io` | $0.004 | $0.012 | Grok畅享 | 0.002 | grok-4.7 |
-| 2 | `www.topapi.io` | $0.004 | $0.012 | Grok畅享 | 0.002 | grok-4.7 |
-| 3 | `api.weilai.chat` | $0.02 | $0.06 | grok free | 0.01 | grok-4.7 |
-| 4 | `claude.llmhub.ltd` | $0.02 | $0.06 | grok | 0.01 | grok-4.7 |
-| 5 | `pianyitoken.top` | $0.027397 | $0.082191 | grok heavy | 0.1 | grok-4.7 |
-| 6 | `ai.nexfaro.com` | $0.06 | $0.18 | Grok Free | 0.03 | grok-4.7 |
-| 7 | `www.u-ai.me` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.7 |
-| 8 | `nb.deepsb.com` | $0.08 | $0.24 | grok free | 0.04 | grok-4.7 |
-| 9 | `sub.rkshadow.com` | $0.08 | $0.24 | Grok free | 0.04 | grok-4.7 |
-| 10 | `www.newtonrouter.com` | $0.08 | $0.24 | Grok Heavy | 0.04 | grok-4.7 |
-| 11 | `www.puppyrouter.com` | $0.084 | $0.252 | grok | 0.042 | grok-4.7 |
-| 12 | `api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 13 | `new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 14 | `sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 15 | `ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 16 | `cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 17 | `hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 18 | `2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 19 | `ai2.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 20 | `ai2.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 21 | `ai2.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 22 | `ai2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 23 | `ai2.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 24 | `ai2.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 25 | `ai2.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 26 | `ai2.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 27 | `api2.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 28 | `api2.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 29 | `api2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 30 | `api2.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 31 | `api2.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 32 | `api2.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 33 | `api3.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 34 | `api3.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 35 | `api3.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 36 | `api3.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 37 | `api3.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 38 | `api3.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 39 | `claude.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 40 | `claude.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 41 | `claude.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 42 | `claude.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 43 | `gemini.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 44 | `gemini.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 45 | `gemini.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 46 | `gemini.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 47 | `gemini.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 48 | `gemini.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 49 | `gemini.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 50 | `gpt.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 51 | `gpt.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 52 | `gpt.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 53 | `gpt.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 54 | `gpt.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 55 | `gpt.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 56 | `gpt.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 57 | `grok.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 58 | `grok.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 59 | `grok.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 60 | `grok.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 61 | `grok.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 62 | `grok.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 63 | `grok.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 64 | `gw2.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 65 | `gw2.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 66 | `gw2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 67 | `gw2.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 68 | `gw2.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 69 | `gw2.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 70 | `gw2.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 71 | `hk2.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 72 | `hk2.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 73 | `hk2.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 74 | `hk2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 75 | `hk2.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 76 | `hk2.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 77 | `hk2.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 78 | `jp.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 79 | `jp.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 80 | `jp.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 81 | `jp.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 82 | `jp.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 83 | `jp.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 84 | `jp.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 85 | `llm.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 86 | `llm.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 87 | `llm.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 88 | `llm.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 89 | `llm.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 90 | `llm.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 91 | `llm.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 92 | `llm.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 93 | `mirror.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 94 | `mirror.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 95 | `mirror.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 96 | `mirror.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 97 | `mirror.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 98 | `mirror.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 99 | `openai.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 100 | `openai.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 101 | `openai.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 102 | `openai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 103 | `openai.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 104 | `openai.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 105 | `openai.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 106 | `api2.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 107 | `api2.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 108 | `api3.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 109 | `api3.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 110 | `claude.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 111 | `claude.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 112 | `gemini.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 113 | `gpt.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 114 | `grok.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 115 | `gw2.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 116 | `hk2.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 117 | `jp.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 118 | `mirror.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 119 | `proxy.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 120 | `proxy.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 121 | `proxy.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 122 | `proxy.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 123 | `proxy.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 124 | `proxy.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 125 | `proxy.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 126 | `relay.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 127 | `relay.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 128 | `relay.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 129 | `relay.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 130 | `sg.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 131 | `sg.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 132 | `sg.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 133 | `sg.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 134 | `sg.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 135 | `sg.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 136 | `tw.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 137 | `tw.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 138 | `tw.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 139 | `tw.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 140 | `tw.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 141 | `tw.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 142 | `tw.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 143 | `tw.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 144 | `us.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 145 | `us.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 146 | `us.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 147 | `us.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 148 | `us.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 149 | `us.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 150 | `us.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 151 | `v2.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 152 | `v2.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 153 | `v2.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 154 | `v2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 155 | `v2.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 156 | `v2.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 157 | `v2.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 158 | `v3.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 159 | `v3.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 160 | `v3.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 161 | `v3.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 162 | `v3.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.7 |
-| 163 | `pipio.io` | $0.1 | $0.3 | grok | 0.05 | grok-4.7 |
-| 164 | `www.api-top.com` | $0.1 | $0.3 | Grok满血 | 0.05 | grok-4.7 |
-| 165 | `pipio.dev` | $0.1 | $0.3 | grok | 0.05 | grok-4.7 |
-| 166 | `llm-coding.space` | $0.12 | $0.36 | grok特价 | 0.06 | grok-4.7 |
-| 167 | `api2.love-long.com` | $0.12 | $0.36 | grok | 0.06 | grok-4.7 |
-| 168 | `us.xigong.cloud` | $0.13 | $0.39 | Grok-全模型 | 0.065 | grok-4.7 |
-| 169 | `runapi.co` | $0.14 | $0.42 | grok | 0.233333 | grok-4.7 |
-| 170 | `relayrouter.ai` | $0.14706 | $0.44118 | Cli-Grok-1 | 0.07353 | grok-4.7 |
-| 171 | `tokeness.ai` | $0.15 | $0.45 | Grok | 0.075 | grok-4.7 |
-| 172 | `api.lingzhouai.com` | $0.16 | $0.48 | grok | 0.08 | grok-4.7 |
-| 173 | `www.bb-api.com` | $0.16 | $0.48 | grok heavy-008倍率 （巨推荐） | 0.08 | grok-4.7 |
-| 174 | `ycyapi.cn` | $0.16 | $0.48 | 18-GROK-4.6-HEAVY | 0.08 | grok-4.7 |
-| 175 | `www.ycyapi.cn` | $0.16 | $0.48 | 18-GROK-4.6-HEAVY | 0.08 | grok-4.7 |
-| 176 | `yunmian.site` | $0.16 | $0.48 | grok-特价 | 0.08 | grok-4.7 |
-| 177 | `aipixapi.art` | $0.17 | $0.51 | grok-heavy | 0.085 | grok-4.7 |
-| 178 | `api.aipaiai.cn` | $0.18 | $0.54 | Grok | 0.09 | grok-4.7 |
-| 179 | `gptapi.top` | $0.183825 | $0.551475 | Cli-Grok-1 | 0.0919125 | grok-4.7 |
-| 180 | `moliapi.com` | $0.185296 | $0.555888 | Cli-Grok-1 | 0.0926478 | grok-4.7 |
-| 181 | `ai-api.cc` | $0.191178 | $0.573534 | Cli-Grok-1 | 0.09558900000000001 | grok-4.7 |
-| 182 | `api.qiuming-ai.com` | $0.192 | $0.576 | Grok-Heavy | 0.096 | grok-4.7 |
-| 183 | `api.qiuming-web.com` | $0.192 | $0.576 | Grok-Heavy | 0.096 | grok-4.7 |
-| 184 | `nodapi.com` | $0.194119 | $0.582357 | Cli-Grok-1 | 0.0970596 | grok-4.7 |
-| 185 | `anyaigc.ai` | $0.198531 | $0.595593 | Cli-Grok-1 | 0.0992655 | grok-4.7 |
-| 186 | `aigw.store` | $0.2 | $0.6 | Grok Heavy | 0.1 | grok-4.7 |
-| 187 | `api.nitrorouter.com` | $0.2 | $0.6 | default | 1 | grok-4.7 |
-| 188 | `api.robinsonai.shop` | $0.2 | $0.6 | Grok | 0.1 | grok-4.7 |
-| 189 | `cbapi.ai` | $0.2 | $0.6 | Grok-flex | 0.1 | grok-4.7 |
-| 190 | `cn.fluxtoken.ai` | $0.2 | $0.6 | 【Grok】Heavy· 福利 | 0.1 | grok-4.7 |
-| 191 | `codexpert.top` | $0.2 | $0.6 | Gork-heavy | 0.1 | grok-4.7 |
-| 192 | `kucodeapi.com` | $0.2 | $0.6 | SuperGrok | 0.1 | grok-4.7 |
-| 193 | `openkun.xyz` | $0.2 | $0.621429 | Grok Heavy | 0.1 | grok-4.7 |
-| 194 | `api.988665.xyz` | $0.2 | $0.6 | grok heavy | 0.1 | grok-4.7 |
-| 195 | `www.codexplus.shop` | $0.2 | $0.6 | Grok heavy | 0.1 | grok-4.7 |
-| 196 | `www.fushengyunsuan.cn` | $0.2 | $0.6 | grok | 0.1 | grok-4.7 |
-| 197 | `www.fushengyunsuan.com` | $0.2 | $0.6 | grok | 0.1 | grok-4.7 |
-| 198 | `www.mv88.cn` | $0.2 | $0.6 | Grok | 0.1 | grok-4.7 |
-| 199 | `www.reverix.ai` | $0.2 | $0.6 | default | 1 | grok-4.7 |
-| 200 | `api.right.codes` | $0.2 | $0.6 | grok | 0.1 | grok-4.7 |
+| 1 | `api.unorouter.com` | $0.024 | $0.072 | a7-bin-704-grok-4.7 | 0.012 | grok-4.7 |
+| 2 | `pianyitoken.gay` | $0.0273973 | $0.0821918 | grok heavy | 0.1 | grok-4.7 |
+| 3 | `988665.xyz` | $0.04 | $0.12 | grok | 0.02 | grok-4.7 |
+| 4 | `momoapi.xin` | $0.04 | $0.12 | grok | 0.02 | grok-4.7 |
+| 5 | `codelypixverse.com` | $0.0576923 | $0.0576923 | vip | 1 | grok-4.7 |
+| 6 | `ai.lt4net.org` | $0.06 | $0.18 | grok | 0.03 | grok-4.7 |
+| 7 | `api.boluomiapi.cc` | $0.06 | $0.18 | G01-grok | 0.03 | grok-4.7 |
+| 8 | `api.zzswitch.com` | $0.06 | $0.18 | grok | 0.03 | grok-4.7 |
+| 9 | `grok101.site` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.7 |
+| 10 | `llm-all.pro` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.7 |
+| 11 | `model101.site` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.7 |
+| 12 | `ovo1.vip` | $0.06 | $0.18 | Grok Lite | 0.03 | grok-4.7 |
+| 13 | `token101.site` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.7 |
+| 14 | `u-ai.me` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.7 |
+| 15 | `www.aqzzz.com` | $0.06 | $0.18 | Grok | 0.03 | grok-4.7 |
+| 16 | `api.kcne.top` | $0.08 | $0.24 | Grok | 0.04 | grok-4.7 |
+| 17 | `newtonrouter.com` | $0.08 | $0.24 | Grok Heavy | 0.04 | grok-4.7 |
+| 18 | `puppyrouter.com` | $0.084 | $0.252 | grok | 0.042 | grok-4.7 |
+| 19 | `api.0elog.com` | $0.1 | $0.3 | Grok | 0.05 | grok-4.7 |
+| 20 | `api.pezayo.com` | $0.1 | $0.3 | default | 1 | grok-4.7 |
+| 21 | `api.wapq.cn` | $0.1 | $0.1 | grok | 0.1 | grok-4.7-high |
+| 22 | `liliapi.siphot.com` | $0.1 | $0.3 | grok | 0.05 | grok-4.7 |
+| 23 | `pipio.io` | $0.1 | $0.3 | grok | 0.05 | grok-4.7 |
+| 24 | `www.zhuanyuncang.top` | $0.1 | $0.3 | Grok | 0.05 | grok-4.7 |
+| 25 | `kpzhu.com` | $0.12 | $0.36 | grok | 0.06 | grok-4.7 |
+| 26 | `love-long.com` | $0.12 | $0.36 | grok | 0.06 | grok-4.7 |
+| 27 | `api.text168.com` | $0.14 | $0.42 | Grok-heavy | 0.07 | grok-4.7 |
+| 28 | `nextpro.top` | $0.14 | $0.42 | SuperGrok Heavy（自营） | 0.07 | grok-4.7 |
+| 29 | `runapi.co` | $0.14 | $0.419999 | grok | 0.233333 | grok-4.7 |
+| 30 | `api.openlux.ai` | $0.14706 | $0.44118 | Cli-Grok-1 | 0.07353 | grok-4.7 |
+| 31 | `api.relayrouter.ai` | $0.14706 | $0.44118 | Cli-Grok-1 | 0.07353 | grok-4.7 |
+| 32 | `abinapi.com` | $0.15 | $0.45 | Grok纯血 | 0.075 | grok-4.7 |
+| 33 | `tokeness.io` | $0.15 | $0.45 | Grok | 0.075 | grok-4.7 |
+| 34 | `api.123uq.com` | $0.16 | $0.48 | grok  heavy | 0.08 | grok-4.7 |
+| 35 | `api.apikl.ai` | $0.16 | $0.48 | Grok-Heavy | 0.08 | grok-4.7 |
+| 36 | `api.lingzhouai.com` | $0.16 | $0.48 | grok | 0.08 | grok-4.7 |
+| 37 | `mofa.love.gd` | $0.16 | $0.48 | grok-heavy | 0.08 | grok-4.7 |
+| 38 | `www.bb-api.com` | $0.16 | $0.48 | grok heavy-008倍率 （巨推荐） | 0.08 | grok-4.7 |
+| 39 | `ycyapi.cn` | $0.16 | $0.48 | 18-GROK-4.6-HEAVY | 0.08 | grok-4.7 |
+| 40 | `api.tidewhisper-ai.xyz` | $0.161766 | $0.485298 | Cli-Grok-1 | 0.080883 | grok-4.7 |
+| 41 | `gzxbykj.com` | $0.161766 | $0.485298 | Cli-Grok-1 | 0.080883 | grok-4.7 |
+| 42 | `v2.cloudmist.cloud` | $0.169119 | $0.507357 | Cli-Grok-1 | 0.0845595 | grok-4.7 |
+| 43 | `aipixapi.art` | $0.17 | $0.51 | grok-heavy | 0.085 | grok-4.7 |
+| 44 | `xigong.cloud` | $0.17 | $0.51 | Grok-全模型 | 0.085 | grok-4.7 |
+| 45 | `www.vectronode.com` | $0.176472 | $0.529416 | Cli-Grok-1 | 0.088236 | grok-4.7 |
+| 46 | `aipaiai.cn` | $0.18 | $0.54 | Grok | 0.09 | grok-4.7 |
+| 47 | `api.paasai.cc` | $0.18 | $0.36 | Grok | 0.06 | grok-4.7 |
+| 48 | `kimera.cc` | $0.18 | $0.54 | Grok heavy | 0.09 | grok-4.7 |
+| 49 | `sub.bulita.net` | $0.18 | $0.54 | grok heavy | 0.09 | grok-4.7 |
+| 50 | `www.cybersol.net` | $0.18 | $0.54 | Grok Pro | 0.09 | grok-4.7 |
 
-[← 返回索引](index.md)
+> 另有 422 站未列出；394 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

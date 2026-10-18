@@ -1,208 +1,60 @@
 # gpt-5.4-mini
 
-> 1625 家 · 最低 **$0.009247** @ `www.synthapi.asia` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 671 站提供 · 正常价 528 站 · 中位价 **$0.6**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.synthapi.asia` | $0.009247 | $0.055482 | Plus线路一 | 0.045 | gpt-5.4-mini |
-| 2 | `sub.apiroute.top` | $0.01125 | $0.0675 | gpt-plus | 0.015 | gpt-5.4-mini |
-| 3 | `ai-gate.zeabur.app` | $0.02625 | $0.1575 | gpt-0.035x | 0.035 | gpt-5.4-mini |
-| 4 | `xinghubai.top` | $0.03 | $0.18 | gpt plus | 0.04 | gpt-5.4-mini |
-| 5 | `api.allaitoken.com` | $0.03 | $0.18 | GPT福利 | 0.04 | gpt-5.4-mini |
-| 6 | `relayrouter.ai` | $0.033 | $0.198 | Azure-Gpt-1 | 0.044 | gpt-5.4-mini |
-| 7 | `gptapi.top` | $0.04125 | $0.2475 | Azure-Gpt-1 | 0.05499999999999999 | gpt-5.4-mini |
-| 8 | `moliapi.com` | $0.04158 | $0.24948 | Azure-Gpt-1 | 0.055439999999999996 | gpt-5.4-mini |
-| 9 | `ai-api.cc` | $0.0429 | $0.2574 | Azure-Gpt-1 | 0.0572 | gpt-5.4-mini |
-| 10 | `nodapi.com` | $0.04356 | $0.26136 | Azure-Gpt-1 | 0.05808 | gpt-5.4-mini |
-| 11 | `anyaigc.ai` | $0.04455 | $0.2673 | Azure-Gpt-1 | 0.0594 | gpt-5.4-mini |
-| 12 | `api.1rr.top` | $0.045 | $0.27 | 特惠plus | 0.06 | gpt-5.4-mini |
-| 13 | `www.1rr.top` | $0.045 | $0.27 | 特惠plus | 0.06 | gpt-5.4-mini |
-| 14 | `orange-ai.online` | $0.045 | $0.27 | 🍊-GPT-Sale (0.06-0.1) | 0.06 | gpt-5.4-mini |
-| 15 | `xiguapi.cc` | $0.0462 | $0.2772 | Azure-Gpt-1 | 0.061599999999999995 | gpt-5.4-mini |
-| 16 | `vip.tyasai.com` | $0.04875 | $0.2925 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-5.4-mini |
-| 17 | `www.huablog.xyz` | $0.04875 | $0.2925 | 超绝拼好池 | 0.065 | gpt-5.4-mini |
-| 18 | `jp.huablog.org` | $0.04875 | $0.2925 | 超绝拼好池 | 0.065 | gpt-5.4-mini |
-| 19 | `llm-coding.space` | $0.0525 | $0.315 | codex福利分组 | 0.07 | gpt-5.4-mini |
-| 20 | `www.civilian.asia` | $0.0525 | $0.315 | 狼人分组 | 0.07 | gpt-5.4-mini |
-| 21 | `api.julongkj.top` | $0.05625 | $0.3375 | codex-v1 | 0.075 | gpt-5.4-mini |
-| 22 | `www.api.julongkj.top` | $0.05625 | $0.3375 | codex-v1 | 0.075 | gpt-5.4-mini |
-| 23 | `api.xiaojue.cloud` | $0.06 | $0.36 | 超级福利gpt | 0.04 | gpt-5.4-mini |
-| 24 | `newapi.13791888.xyz` | $0.06 | $0.36 | gpt 特惠分组 | 0.08 | gpt-5.4-mini |
-| 25 | `www.freegiand.com` | $0.06 | $0.36 | GPTPlus | 0.08 | gpt-5.4-mini |
-| 26 | `www.apiqd.com` | $0.06 | $0.36 | codex备用 | 0.08 | gpt-5.4-mini |
-| 27 | `www.shendun.vip` | $0.06 | $0.36 | GPT-限时特价 | 0.08 | gpt-5.4-mini |
-| 28 | `maxtopai.cc` | $0.06375 | $0.3825 | plus 限时特惠 | 0.085 | gpt-5.4-mini |
-| 29 | `www.maxtopai.cc` | $0.06375 | $0.3825 | plus 限时特惠 | 0.085 | gpt-5.4-mini |
-| 30 | `api.n1n.ai` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
-| 31 | `jeniya.cc` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
-| 32 | `llm-api.dev` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
-| 33 | `quanzil.cn` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
-| 34 | `quanzil.net` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
-| 35 | `134.175.71.62` | $0.0675 | $0.405 | gpt | 0.09 | gpt-5.4-mini |
-| 36 | `api.tcvps.cn` | $0.0675 | $0.405 | GPT【Plus组】速度中等/稳定性一般★★ | 0.09 | gpt-5.4-mini |
-| 37 | `www.1route.dev` | $0.0675 | $0.405 | GPT 🎲（混合号池） | 0.09 | gpt-5.4-mini |
-| 38 | `yancc.cloud` | $0.0675 | $0.405 | gpt | 0.09 | gpt-5.4-mini |
-| 39 | `api.socode.cc` | $0.075 | $0.45 | GPT[Main] | 0.1 | gpt-5.4-mini |
-| 40 | `api.vshex.com` | $0.075 | $0.45 | GPT Plus | 0.1 | gpt-5.4-mini |
-| 41 | `nihao.dog` | $0.075 | $0.45 | gpt混池 | 0.1 | gpt-5.4-mini |
-| 42 | `panel.hanhegufei.online` | $0.075 | $0.45 | codex-plus | 0.1 | gpt-5.4-mini |
-| 43 | `www.ainx.chat` | $0.075 | $0.45 | gpt | 0.1 | gpt-5.4-mini |
-| 44 | `www.codexplus.shop` | $0.075 | $0.45 | GPTPlus | 0.1 | gpt-5.4-mini |
-| 45 | `www.nihao.dog` | $0.075 | $0.45 | gpt混池 | 0.1 | gpt-5.4-mini |
-| 46 | `agentapi.xyz` | $0.075 | $0.45 | vip | 0.1 | gpt-5.4-mini |
-| 47 | `nexaxis.io` | $0.075 | $0.45 | ChatGPT_plus | 0.2 | gpt-5.4-mini |
-| 48 | `us.hboom.ai` | $0.075 | $0.45 | GPT-Eco | 0.1 | gpt-5.4-mini |
-| 49 | `api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 50 | `new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 51 | `sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 52 | `vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 53 | `ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 54 | `www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 55 | `cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 56 | `hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 57 | `gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 58 | `2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 59 | `new.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 60 | `sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 61 | `vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 62 | `ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 63 | `www.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 64 | `cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 65 | `hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 66 | `gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 67 | `2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 68 | `ai2.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 69 | `ai2.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 70 | `ai2.ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 71 | `ai2.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 72 | `ai2.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 73 | `ai2.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 74 | `ai2.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 75 | `ai2.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 76 | `ai2.gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 77 | `ai2.gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 78 | `ai2.hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 79 | `ai2.hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 80 | `ai2.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 81 | `ai2.new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 82 | `ai2.new.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 83 | `ai2.sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 84 | `ai2.sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 85 | `ai2.vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 86 | `ai2.vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 87 | `ai2.www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 88 | `ai2.www.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 89 | `api2.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 90 | `api2.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 91 | `api2.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 92 | `api2.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 93 | `api2.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 94 | `api2.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 95 | `api2.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 96 | `api2.gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 97 | `api2.gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 98 | `api2.hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 99 | `api2.hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 100 | `api2.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 101 | `api2.new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 102 | `api2.new.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 103 | `api2.sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 104 | `api2.sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 105 | `api2.vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 106 | `api2.vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 107 | `api2.www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 108 | `api2.www.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 109 | `api3.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 110 | `api3.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 111 | `api3.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 112 | `api3.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 113 | `api3.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 114 | `api3.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 115 | `api3.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 116 | `api3.gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 117 | `api3.gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 118 | `api3.hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 119 | `api3.hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 120 | `api3.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 121 | `api3.new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 122 | `api3.vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 123 | `api3.vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 124 | `api3.www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 125 | `claude.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 126 | `claude.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 127 | `claude.ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 128 | `claude.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 129 | `claude.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 130 | `claude.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 131 | `claude.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 132 | `claude.gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 133 | `claude.gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 134 | `claude.hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 135 | `claude.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 136 | `claude.sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 137 | `claude.sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 138 | `claude.www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 139 | `gemini.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 140 | `gemini.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 141 | `gemini.ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 142 | `gemini.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 143 | `gemini.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 144 | `gemini.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 145 | `gemini.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 146 | `gemini.hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 147 | `gemini.hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 148 | `gemini.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 149 | `gemini.new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 150 | `gemini.sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 151 | `gemini.sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 152 | `gemini.vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 153 | `gemini.vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 154 | `gemini.www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 155 | `gemini.www.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 156 | `gpt.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 157 | `gpt.ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 158 | `gpt.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 159 | `gpt.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 160 | `gpt.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 161 | `gpt.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 162 | `gpt.gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 163 | `gpt.gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 164 | `gpt.hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 165 | `gpt.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 166 | `gpt.new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 167 | `gpt.new.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 168 | `gpt.sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 169 | `gpt.sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 170 | `gpt.vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 171 | `gpt.vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 172 | `gpt.www.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 173 | `gpt.www.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 174 | `grok.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 175 | `grok.ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 176 | `grok.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 177 | `grok.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 178 | `grok.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 179 | `grok.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 180 | `grok.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 181 | `grok.gw.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 182 | `grok.gw.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 183 | `grok.hk.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 184 | `grok.hk.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 185 | `grok.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 186 | `grok.new.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 187 | `grok.new.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 188 | `grok.sub.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 189 | `grok.sub.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 190 | `grok.vip.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 191 | `grok.vip.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 192 | `grok.www.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 193 | `gw2.2api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 194 | `gw2.2api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 195 | `gw2.ai.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 196 | `gw2.ai.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 197 | `gw2.api.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 198 | `gw2.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 199 | `gw2.cn.api.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
-| 200 | `gw2.cn.linksapi.cn` | $0.0752 | $0.4512 | codex限时特价福利 | 0.08 | gpt-5.4-mini |
+| 1 | `buliangrenai.com` | $0.027 | $0.162 | gpt-0.036 | 0.036 | gpt-5.4-mini |
+| 2 | `www.mofas.one` | $0.03 | $0.18 | gpt | 0.04 | gpt-5.4-mini |
+| 3 | `coreengine.cc` | $0.0313 | $0.1878 | default | 1 | gpt-5.4-mini |
+| 4 | `api.openlux.ai` | $0.033 | $0.198 | Azure-Gpt-1 | 0.044 | gpt-5.4-mini |
+| 5 | `api.relayrouter.ai` | $0.033 | $0.198 | Azure-Gpt-1 | 0.044 | gpt-5.4-mini |
+| 6 | `api.tidewhisper-ai.xyz` | $0.0363 | $0.2178 | Azure-Gpt-1 | 0.0484 | gpt-5.4-mini |
+| 7 | `gzxbykj.com` | $0.0363 | $0.2178 | Azure-Gpt-1 | 0.0484 | gpt-5.4-mini |
+| 8 | `api.vibe-subsapi.com` | $0.0375 | $0.225 | ChatGPT 混池 | 0.05 | gpt-5.4-mini |
+| 9 | `v2.cloudmist.cloud` | $0.03795 | $0.2277 | Azure-Gpt-1 | 0.0506 | gpt-5.4-mini |
+| 10 | `www.vectronode.com` | $0.0396 | $0.2376 | Azure-Gpt-1 | 0.0528 | gpt-5.4-mini |
+| 11 | `ciyuan.today` | $0.04125 | $0.2475 | Azure-Gpt-1 | 0.055 | gpt-5.4-mini |
+| 12 | `gptapi.top` | $0.04125 | $0.2475 | Azure-Gpt-1 | 0.055 | gpt-5.4-mini |
+| 13 | `makerend.com` | $0.04125 | $0.2475 | Azure-Gpt-1 | 0.055 | gpt-5.4-mini |
+| 14 | `moliapi.com` | $0.04158 | $0.24948 | Azure-Gpt-1 | 0.05544 | gpt-5.4-mini |
+| 15 | `ai-api.cc` | $0.0429 | $0.2574 | Azure-Gpt-1 | 0.0572 | gpt-5.4-mini |
+| 16 | `nodapi.com` | $0.04356 | $0.26136 | Azure-Gpt-1 | 0.05808 | gpt-5.4-mini |
+| 17 | `anyaigc.ai` | $0.04455 | $0.2673 | Azure-Gpt-1 | 0.0594 | gpt-5.4-mini |
+| 18 | `orange-ai.online` | $0.045 | $0.27 | 🍊-GPT-Sale (0.06-0.1) | 0.06 | gpt-5.4-mini |
+| 19 | `sheepaiplus.top` | $0.0462 | $0.2772 | Azure-Gpt-1 | 0.0616 | gpt-5.4-mini |
+| 20 | `xiguapi.icu` | $0.0462 | $0.2772 | Azure-Gpt-1 | 0.0616 | gpt-5.4-mini |
+| 21 | `api.tyasai.com` | $0.04875 | $0.2925 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-5.4-mini |
+| 22 | `closedai.kylenqaq.com` | $0.04875 | $0.2925 | GPT-Pro | 0.13 | gpt-5.4-mini |
+| 23 | `huablog.org` | $0.04875 | $0.2925 | 超绝拼好池 | 0.065 | gpt-5.4-mini |
+| 24 | `www.kamiapi.top` | $0.04875 | $0.2925 | GPT Standard 标准号池 | 0.065 | gpt-5.4-mini |
+| 25 | `api.videocaptioner.cn` | $0.0495 | $0.297 | Azure-Gpt-1 | 0.066 | gpt-5.4-mini |
+| 26 | `aiapibank.com` | $0.0525 | $0.315 | GPT低价分组 | 0.07 | gpt-5.4-mini |
+| 27 | `www.civilian.asia` | $0.0525 | $0.315 | 狼人分组 | 0.07 | gpt-5.4-mini |
+| 28 | `api.nixapi.com` | $0.05577 | $0.33462 | Azure-Gpt-1 | 0.07436 | gpt-5.4-mini |
+| 29 | `api.boluomiapi.cc` | $0.05625 | $0.3375 | A02-GPTteam混池 | 0.075 | gpt-5.4-mini |
+| 30 | `api.julongkj.top` | $0.05625 | $0.3375 | codex-v1 | 0.075 | gpt-5.4-mini |
+| 31 | `api.bingoapi.top` | $0.06 | $0.36 | gpt plus（骨折价，稳定性适中） | 0.08 | gpt-5.4-mini |
+| 32 | `api.everygpt.site` | $0.06 | $0.36 | GPT-Lite | 0.08 | gpt-5.4-mini |
+| 33 | `api.tokenbits.net` | $0.06 | $0.36 | codex-plus | 0.08 | gpt-5.4-mini |
+| 34 | `api.xiaoyaoxx.cn` | $0.06 | $0.36 | NA grok | 0.08 | gpt-5.4-mini |
+| 35 | `freegiand.com` | $0.06 | $0.36 | GPTPlus | 0.08 | gpt-5.4-mini |
+| 36 | `www.apiqd.com` | $0.06 | $0.36 | codex备用 | 0.08 | gpt-5.4-mini |
+| 37 | `xinyue.mom` | $0.06 | $0.36 | 不降智焚决【只有astra】 | 0.08 | gpt-5.4-mini |
+| 38 | `api.zcloudapi.com` | $0.0616438 | $0.369863 | GPT Pro-Plus 混池 | 0.6 | gpt-5.4-mini |
+| 39 | `aiwuje.com` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 40 | `api.echoflowai.cc` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 41 | `api.n1n.ai` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 42 | `api.quickrouter.ai` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 43 | `jeniya.cn` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 44 | `linoapi.com` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 45 | `llm-api.net` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 46 | `quanzil.cn` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 47 | `quanzil.com` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 48 | `token173.net` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 49 | `tryallapi.com` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
+| 50 | `wellapi.ai` | $0.066 | $0.396 | Azure-Gpt-1 | 0.088 | gpt-5.4-mini |
 
-[← 返回索引](index.md)
+> 另有 478 站未列出；143 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

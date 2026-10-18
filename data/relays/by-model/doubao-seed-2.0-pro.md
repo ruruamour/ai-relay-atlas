@@ -1,24 +1,25 @@
 # doubao-seed-2.0-pro
 
-> 16 家 · 最低 **$0.05** @ `feiniu-ai.cn` · 推算价（USD/1M 输入），未对账
+> 32 站提供 · 正常价 15 站 · 中位价 **$1.28**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `feiniu-ai.cn` | $0.05 | $0.05 | default | 1 | doubao-seed-2.0-pro |
-| 2 | `feiniu-ai.tech` | $0.05 | $0.05 | default | 1 | doubao-seed-2.0-pro |
-| 3 | `api.tian-shu.net` | $1.12 | $5.6 | doubao | 0.35 | doubao-seed-2.0-pro |
-| 4 | `api.tian-shu.org` | $1.12 | $5.6 | doubao | 0.35 | doubao-seed-2.0-pro |
-| 5 | `www.tian-shu.org` | $1.12 | $5.6 | doubao | 0.35 | doubao-seed-2.0-pro |
-| 6 | `feiniu-ai.xyz` | $4 | $20.0 | default | 1 | doubao-seed-2.0-pro |
-| 7 | `api.zeekai-cn.cc` | $7.5 | $7.5 | cn_models 国模聚合按量 | 0.1 | doubao-seed-2.0-pro |
-| 8 | `hk.gpt-agent.cc` | $30 | $150.0 | 国产模型 | 5 | doubao-seed-2.0-pro |
-| 9 | `mytok.vip` | $63.75 | $63.75 | Models-CN | 0.85 | doubao-seed-2.0-pro |
-| 10 | `www.mytok.vip` | $63.75 | $63.75 | Models-CN | 0.85 | doubao-seed-2.0-pro |
-| 11 | `agent.tokensea.ai` | $75 | $375.000162 | default | 1 | Doubao-Seed-2.0-Pro |
-| 12 | `kfcv50.link` | $75 | $75.0 | Domestic | 1 | doubao-seed-2.0-pro |
-| 13 | `cooper-api.net` | $75 | $75.0 | default | 1 | doubao-seed-2.0-pro |
-| 14 | `llmhub.net` | $75 | $75.0 | default | 1 | doubao-seed-2.0-pro |
-| 15 | `xmtoken.ai` | $75 | $75.0 | default | 1 | doubao-seed-2.0-pro |
-| 16 | `hk2.tken.me` | $79.5 | $79.5 | 官方全系稳定渠道 | 1.06 | doubao-seed-2.0-pro |
+| 1 | `api.aliyunfuwu.top` | $0.14 | $0.56 | relay | 0.5 | Doubao-Seed-2.0-Pro |
+| 2 | `hk.moleapi.com` | $0.141 | $0.708 | relay | 0.3 | doubao-seed-2.0-pro |
+| 3 | `model101.site` | $0.45 | $2.24 | cn_model | 1 | doubao-seed-2.0-pro |
+| 4 | `token101.site` | $0.45 | $2.24 | cn_model | 1 | doubao-seed-2.0-pro |
+| 5 | `aiapi.shiwuyan.cn` | $0.5 | $1 | default | 1 | doubao-seed-2.0-pro |
+| 6 | `rapidapi.cc` | $1.075 | $3.95 | 国模二组 | 0.2 | doubao-seed-2.0-pro-260215 |
+| 7 | `tian-shu.org` | $1.12 | $5.6 | doubao | 0.35 | doubao-seed-2.0-pro |
+| 8 | `closedai.kylenqaq.com` | $1.28 | $6.4 | 国产模型 | 0.4 | doubao-seed-2.0-pro |
+| 9 | `www.mrouter.com` | $1.372 | $6.86 | cn | 1 | doubao-seed-2.0-pro |
+| 10 | `aichronos.xyz` | $1.92 | $9.6 | 国模 | 0.6 | doubao-seed-2.0-pro |
+| 11 | `api.tsbys.com` | $4 | $20 | default | 1 | doubao-seed-2.0-pro |
+| 12 | `feiniu-ai.xyz` | $4 | $20 | default | 1 | doubao-seed-2.0-pro |
+| 13 | `openclawroot.com` | $5 | $25 | default | 1 | Doubao-Seed-2.0-pro |
+| 14 | `api.llm-token.cn` | $6 | $30 | default | 1 | doubao-seed-2.0-pro |
+| 15 | `gpt-agent.cc` | $6 | $30 | default | 1 | doubao-seed-2.0-pro |
 
-[← 返回索引](index.md)
+> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

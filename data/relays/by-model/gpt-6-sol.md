@@ -1,208 +1,60 @@
 # gpt-6-sol
 
-> 5194 家 · 最低 **$0.000773** @ `www.api522.pro` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 1400 站提供 · 正常价 657 站 · 中位价 **$0.5**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.api522.pro` | $0.000773 | $0.003865 | default | 1 | gpt-6-sol |
-| 2 | `pianyitoken.top` | $0.015068 | $0.07534 | 0.055x-gpt | 0.055 | gpt-6-sol |
-| 3 | `www.api-top.com` | $0.02 | $0.1 | Codex福利 | 0.01 | gpt-6-sol |
-| 4 | `api.topapi.io` | $0.02 | $0.1 | Codex福利 | 0.01 | gpt-6-sol |
-| 5 | `www.topapi.io` | $0.02 | $0.1 | Codex福利 | 0.01 | gpt-6-sol |
-| 6 | `www.synthapi.asia` | $0.021918 | $0.10959 | Plus特价 | 0.04 | gpt-6-sol |
-| 7 | `api.aiyxgaw.com` | $0.024658 | $0.12329 | gpt-稳定 | 0.09 | gpt-6-sol |
-| 8 | `ai.goodfly.space` | $0.044 | $0.22 | GPT-降智渠道 | 0.022 | gpt-6-sol |
-| 9 | `openkun.xyz` | $0.05 | $0.25 | Codex特价 | 0.025 | gpt-6-sol |
-| 10 | `api.robinsonai.shop` | $0.054769 | $0.273846 | gpt-plus-优惠 | 0.178 | gpt-6-sol |
-| 11 | `www.puppyrouter.com` | $0.06 | $0.3 | gpt-plus-team | 0.03 | gpt-6-sol |
-| 12 | `modelflare.dev` | $0.06 | $0.3 | openai-award | 0.03 | gpt-6-sol |
-| 13 | `tokeness.ai` | $0.06 | $0.3 | GPT-Entry | 0.03 | gpt-6-sol |
-| 14 | `all-api.ccode.dev` | $0.07 | $0.35 | Codex-Lite | 0.035 | gpt-6-sol |
-| 15 | `tuokeapi.com` | $0.07 | $0.35 | gpt | 0.035 | gpt-6-sol |
-| 16 | `relayrouter.ai` | $0.07354 | $0.3677 | Codex-Gpt-1 | 0.03677 | gpt-6-sol |
-| 17 | `sub.apiroute.top` | $0.075 | $0.375 | gpt-plus | 0.015 | gpt-6-sol |
-| 18 | `api.xiaojue.cloud` | $0.08 | $0.4 | 超级福利gpt | 0.04 | gpt-6-sol |
-| 19 | `us.xigong.cloud` | $0.08 | $0.4 | GPT-5xTeam | 0.04 | gpt-6-sol |
-| 20 | `xinghubai.top` | $0.08 | $0.4 | gpt plus | 0.04 | gpt-6-sol |
-| 21 | `api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 22 | `new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 23 | `sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 24 | `vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 25 | `ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 26 | `www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 27 | `hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 28 | `ai2.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 29 | `ai2.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 30 | `ai2.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 31 | `ai2.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 32 | `ai2.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 33 | `ai2.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 34 | `ai2.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 35 | `api2.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 36 | `api2.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 37 | `api2.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 38 | `api2.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 39 | `api2.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 40 | `api2.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 41 | `api2.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 42 | `api3.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 43 | `api3.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 44 | `api3.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 45 | `api3.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 46 | `api3.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 47 | `claude.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 48 | `claude.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 49 | `claude.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 50 | `claude.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 51 | `claude.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 52 | `gemini.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 53 | `gemini.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 54 | `gemini.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 55 | `gemini.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 56 | `gemini.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 57 | `gemini.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 58 | `gpt.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 59 | `gpt.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 60 | `gpt.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 61 | `gpt.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 62 | `gpt.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 63 | `gpt.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 64 | `gpt.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 65 | `grok.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 66 | `grok.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 67 | `grok.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 68 | `grok.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 69 | `grok.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 70 | `grok.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 71 | `grok.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 72 | `gw2.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 73 | `gw2.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 74 | `gw2.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 75 | `gw2.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 76 | `gw2.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 77 | `gw2.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 78 | `gw2.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 79 | `hk2.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 80 | `hk2.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 81 | `hk2.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 82 | `hk2.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 83 | `hk2.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 84 | `jp.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 85 | `jp.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 86 | `jp.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 87 | `jp.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 88 | `jp.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 89 | `jp.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 90 | `jp.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 91 | `llm.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 92 | `llm.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 93 | `llm.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 94 | `llm.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 95 | `llm.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 96 | `llm.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 97 | `llm.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 98 | `mirror.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 99 | `mirror.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 100 | `mirror.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 101 | `mirror.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 102 | `mirror.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 103 | `openai.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 104 | `openai.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 105 | `openai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 106 | `openai.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 107 | `openai.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 108 | `ai2.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 109 | `api2.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 110 | `api3.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 111 | `api3.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 112 | `claude.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 113 | `gemini.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 114 | `gpt.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 115 | `grok.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 116 | `gw2.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 117 | `hk2.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 118 | `hk2.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 119 | `hk2.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 120 | `jp.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 121 | `llm.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 122 | `mirror.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 123 | `mirror.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 124 | `mirror.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 125 | `openai.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 126 | `openai.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 127 | `openai.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 128 | `proxy.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 129 | `proxy.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 130 | `proxy.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 131 | `proxy.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 132 | `proxy.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 133 | `proxy.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 134 | `proxy.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 135 | `relay.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 136 | `relay.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 137 | `relay.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 138 | `relay.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 139 | `relay.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 140 | `relay.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 141 | `sg.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 142 | `sg.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 143 | `sg.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 144 | `sg.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 145 | `sg.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 146 | `sg.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 147 | `sg.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 148 | `tw.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 149 | `tw.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 150 | `tw.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 151 | `tw.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 152 | `tw.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 153 | `tw.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 154 | `tw.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 155 | `tw.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 156 | `us.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 157 | `us.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 158 | `us.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 159 | `us.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 160 | `us.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 161 | `us.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 162 | `v2.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 163 | `v2.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 164 | `v2.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 165 | `v2.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 166 | `v2.sub.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 167 | `v2.www.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 168 | `v3.ai.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 169 | `v3.api.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 170 | `v3.hk.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 171 | `v3.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 172 | `v3.new.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 173 | `v3.vip.juhe.zfb.la` | $0.08 | $0.4 | 福利gpt | 0.04 | gpt-6-sol |
-| 174 | `sixthsense-llm.com` | $0.082192 | $0.41096 | 特惠GPT 稳定一般 | 0.15 | gpt-6-sol |
-| 175 | `www.newtonrouter.com` | $0.09 | $0.45 | Gpt Pro 20x | 0.045 | gpt-6-sol |
-| 176 | `gptapi.top` | $0.091925 | $0.459625 | Codex-Gpt-1 | 0.045962499999999996 | gpt-6-sol |
-| 177 | `moliapi.com` | $0.09266 | $0.4633 | Codex-Gpt-1 | 0.046330199999999995 | gpt-6-sol |
-| 178 | `ai-api.cc` | $0.095602 | $0.47801 | Codex-Gpt-1 | 0.047800999999999996 | gpt-6-sol |
-| 179 | `corealgos.com` | $0.096 | $0.48 | gpt-max（满血） | 0.048 | gpt-6-sol |
-| 180 | `nodapi.com` | $0.097073 | $0.485365 | Codex-Gpt-1 | 0.0485364 | gpt-6-sol |
-| 181 | `anyaigc.ai` | $0.099279 | $0.496395 | Codex-Gpt-1 | 0.049639499999999996 | gpt-6-sol |
-| 182 | `ai.8888.name` | $0.1 | $0.5 | GPT-特惠分组 | 0.05 | gpt-6-sol |
-| 183 | `api.nitrorouter.com` | $0.1 | $0.5 | gpt-cheap | 0.25 | gpt-6-sol |
-| 184 | `nova.vcrauo.com` | $0.1 | $0.5 | Codex福利节点二渠道 | 0.05 | gpt-6-sol |
-| 185 | `super.aresaicode.cn` | $0.1 | $0.5 | gpt （降智不保证） | 0.05 | gpt-6-sol |
-| 186 | `www.nmoon.cc` | $0.1 | $0.5 | OpenAI 福利分组  | 0.05 | gpt-6-sol |
-| 187 | `xiguapi.cc` | $0.102956 | $0.51478 | Codex-Gpt-1 | 0.051477999999999996 | gpt-6-sol |
-| 188 | `ai.lazymo.qzz.io` | $0.118 | $0.59 | 【GPT】特惠006-70%缓 | 0.059 | gpt-6-sol |
-| 189 | `555codex.xyz` | $0.12 | $0.6 | default | 0.06 | gpt-6-sol |
-| 190 | `8yes.cc` | $0.12 | $0.6 | gpt-默认降智 | 0.06 | gpt-6-sol |
-| 191 | `aigw.store` | $0.12 | $0.6 | GPT 特惠 | 0.06 | gpt-6-sol |
-| 192 | `cn.fluxtoken.ai` | $0.12 | $0.6 | 【Codex】反代 · 福利 | 0.06 | gpt-6-sol |
-| 193 | `codexpert.top` | $0.12 | $0.6 | GPT特价组 | 0.06 | gpt-6-sol |
-| 194 | `www.8yes.cc` | $0.12 | $0.6 | gpt-默认降智 | 0.06 | gpt-6-sol |
-| 195 | `www.555codex.xyz` | $0.12 | $0.6 | default | 0.06 | gpt-6-sol |
-| 196 | `sub.dragon3api.com` | $0.12 | $0.6 | gpt-特惠 | 0.06 | gpt-6-sol |
-| 197 | `vip.dragon3api.com` | $0.12 | $0.6 | gpt-特惠 | 0.06 | gpt-6-sol |
-| 198 | `cn.dragon3api.com` | $0.12 | $0.6 | gpt-特惠 | 0.06 | gpt-6-sol |
-| 199 | `hk.dragon3api.com` | $0.12 | $0.6 | gpt-特惠 | 0.06 | gpt-6-sol |
-| 200 | `gw.dragon3api.com` | $0.12 | $0.6 | gpt-特惠 | 0.06 | gpt-6-sol |
+| 1 | `api.aiyxgaw.com` | $0.0246575 | $0.123288 | gpt-稳定 | 0.09 | gpt-6-sol |
+| 2 | `ai.goodfly.space` | $0.044 | $0.22 | GPT-降智渠道 | 0.022 | gpt-6-sol |
+| 3 | `api.robinsonai.shop` | $0.0547692 | $0.273846 | gpt-plus-优惠 | 0.178 | gpt-6-sol |
+| 4 | `puppyrouter.com` | $0.06 | $0.3 | gpt-plus-team | 0.03 | gpt-6-sol |
+| 5 | `tokeness.io` | $0.06 | $0.3 | GPT-Entry | 0.03 | gpt-6-sol |
+| 6 | `codex-relay.codes` | $0.064 | $0.32 | default | 1 | gpt-6-sol |
+| 7 | `all-api.ccode.dev` | $0.07 | $0.35 | Codex-Lite | 0.035 | gpt-6-sol |
+| 8 | `mhapi.net` | $0.07 | $0.35 | 激励gpt | 0.035 | gpt-6-sol |
+| 9 | `tuokeapi.com` | $0.07 | $0.35 | gpt1 | 0.035 | gpt-6-sol |
+| 10 | `api.openlux.ai` | $0.07354 | $0.3677 | Codex-Gpt-1 | 0.03677 | gpt-6-sol |
+| 11 | `api.relayrouter.ai` | $0.07354 | $0.3677 | Codex-Gpt-1 | 0.03677 | gpt-6-sol |
+| 12 | `sub.apiroute.top` | $0.075 | $0.375 | gpt-plus | 0.015 | gpt-6-sol |
+| 13 | `fluxapi.vip` | $0.076 | $0.38 | team/plus/bugpro全自动号池0.038x | 0.038 | gpt-6-sol |
+| 14 | `www.zhuanyuncang.top` | $0.08 | $0.4 | ChatGPT | 0.04 | gpt-6-sol |
+| 15 | `xigong.cloud` | $0.08 | $0.4 | GPT-5xTeam | 0.04 | gpt-6-sol |
+| 16 | `api.tidewhisper-ai.xyz` | $0.080894 | $0.40447 | Codex-Gpt-1 | 0.040447 | gpt-6-sol |
+| 17 | `gzxbykj.com` | $0.080894 | $0.40447 | Codex-Gpt-1 | 0.040447 | gpt-6-sol |
+| 18 | `v2.cloudmist.cloud` | $0.084571 | $0.422855 | Codex-Gpt-1 | 0.0422855 | gpt-6-sol |
+| 19 | `www.vectronode.com` | $0.088248 | $0.44124 | Codex-Gpt-1 | 0.044124 | gpt-6-sol |
+| 20 | `newtonrouter.com` | $0.09 | $0.45 | Gpt Pro 20x | 0.045 | gpt-6-sol |
+| 21 | `zcbbzzz.online` | $0.09 | $0.45 | GPT 全自动号池 | 0.045 | gpt-6-sol |
+| 22 | `ciyuan.today` | $0.091925 | $0.459625 | Codex-Gpt-1 | 0.0459625 | gpt-6-sol |
+| 23 | `gptapi.top` | $0.091925 | $0.459625 | Codex-Gpt-1 | 0.0459625 | gpt-6-sol |
+| 24 | `makerend.com` | $0.091925 | $0.459625 | Codex-Gpt-1 | 0.0459625 | gpt-6-sol |
+| 25 | `moliapi.com` | $0.0926604 | $0.463302 | Codex-Gpt-1 | 0.0463302 | gpt-6-sol |
+| 26 | `ai-api.cc` | $0.095602 | $0.47801 | Codex-Gpt-1 | 0.047801 | gpt-6-sol |
+| 27 | `bmodels.top` | $0.096 | $0.64 | default | 0.032 | gpt-6-sol |
+| 28 | `nodapi.com` | $0.0970728 | $0.485364 | Codex-Gpt-1 | 0.0485364 | gpt-6-sol |
+| 29 | `anyaigc.ai` | $0.099279 | $0.496395 | Codex-Gpt-1 | 0.0496395 | gpt-6-sol |
+| 30 | `abinapi.com` | $0.1 | $0.5 | GPTteam | 0.05 | gpt-6-sol |
+| 31 | `ai.bayunzi.shop` | $0.1 | $0.5 | ChatGPT-Plus | 0.05 | gpt-6-sol |
+| 32 | `api.cnvip.com.cn` | $0.1 | $0.5 | GPT  team | 0.05 | gpt-6-sol |
+| 33 | `api.nitrorouter.com` | $0.1 | $0.5 | gpt-cheap | 0.25 | gpt-6-sol |
+| 34 | `api.vibe-subsapi.com` | $0.1 | $0.5 | ChatGPT 混池 | 0.05 | gpt-6-sol |
+| 35 | `ikun.love` | $0.1 | $0.5 | ChatGPT Pro | 0.05 | gpt-6-sol |
+| 36 | `loveapi.top` | $0.1 | $0.5 | Codex-Plus 激励组0.05x | 0.05 | gpt-6-sol |
+| 37 | `super.aresaicode.cn` | $0.1 | $0.5 | gpt （降智不保证） | 0.05 | gpt-6-sol |
+| 38 | `tk.8t.chat` | $0.1 | $0.5 | openai-plus | 0.05 | gpt-6-sol |
+| 39 | `sheepaiplus.top` | $0.102956 | $0.51478 | Codex-Gpt-1 | 0.051478 | gpt-6-sol |
+| 40 | `xiguapi.icu` | $0.102956 | $0.51478 | Codex-Gpt-1 | 0.051478 | gpt-6-sol |
+| 41 | `api.hk.toumingx.fun` | $0.11 | $0.55 | GPT-P3 | 0.055 | gpt-6-sol |
+| 42 | `kimera.cc` | $0.11 | $0.55 | 超便宜Plus池01 | 0.055 | gpt-6-sol |
+| 43 | `tm-token.com` | $0.11 | $0.55 | GPT-P3 | 0.055 | gpt-6-sol |
+| 44 | `api.videocaptioner.cn` | $0.11031 | $0.55155 | Codex-Gpt-1 | 0.055155 | gpt-6-sol |
+| 45 | `codelypixverse.com` | $0.115385 | $0.692308 | default | 1 | gpt-6-sol |
+| 46 | `555codex.xyz` | $0.12 | $0.6 | default | 0.06 | gpt-6-sol |
+| 47 | `8yes.cc` | $0.12 | $0.6 | gpt-默认降智 | 0.06 | gpt-6-sol |
+| 48 | `ai.blue1.top` | $0.12 | $0.6 | Plus 优惠组（不能用就切） | 0.06 | gpt-6-sol |
+| 49 | `api.123uq.com` | $0.12 | $0.6 | plus狂欢 | 0.06 | gpt-6-sol |
+| 50 | `hetune.top` | $0.12 | $0.6 | Codex-team | 0.06 | gpt-6-sol |
 
-[← 返回索引](index.md)
+> 另有 607 站未列出；743 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

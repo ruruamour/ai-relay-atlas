@@ -1,208 +1,60 @@
 # grok-4.6
 
-> 2006 家 · 最低 **$0.02** @ `api.biuapi.com` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 1028 站提供 · 正常价 661 站 · 中位价 **$0.4**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.biuapi.com` | $0.02 | $0.06 | GROK free | 0.01 | grok-4.6 |
-| 2 | `api.weilai.chat` | $0.02 | $0.06 | grok free | 0.01 | grok-4.6 |
-| 3 | `claude.llmhub.ltd` | $0.02 | $0.06 | grok | 0.01 | grok-4.6 |
-| 4 | `pianyitoken.top` | $0.027397 | $0.082191 | grok heavy | 0.1 | grok-4.6 |
-| 5 | `ai.nexfaro.com` | $0.06 | $0.18 | Grok Free | 0.03 | grok-4.6 |
-| 6 | `u-ai.me` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.6 |
-| 7 | `api.allaitoken.com` | $0.06 | $0.18 | Grok | 0.03 | grok-4.6 |
-| 8 | `nb.deepsb.com` | $0.08 | $0.24 | grok free | 0.04 | grok-4.6 |
-| 9 | `www.newtonrouter.com` | $0.08 | $0.24 | Grok Heavy | 0.04 | grok-4.6 |
-| 10 | `www.puppyrouter.com` | $0.084 | $0.252 | grok | 0.042 | grok-4.6 |
-| 11 | `api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 12 | `new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 13 | `sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 14 | `ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 15 | `cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 16 | `hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 17 | `2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 18 | `gemini.ai.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 19 | `gemini.hk.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 20 | `gemini.new.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 21 | `grok.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 22 | `gw2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 23 | `gw2.cn.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 24 | `hk2.api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 25 | `hk2.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 26 | `gpt.2api.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 27 | `sg.sub.api.xwsz.top` | $0.09 | $0.27 | Grok-Free | 0.045 | grok-4.6 |
-| 28 | `code.leessmin.com` | $0.1 | $0.2 | 福利分组 | 0.1 | grok-4.6 |
-| 29 | `pipio.io` | $0.1 | $0.3 | grok | 0.05 | grok-4.6 |
-| 30 | `www.api-top.com` | $0.1 | $0.3 | Grok满血 | 0.05 | grok-4.6 |
-| 31 | `cn.rivoapi.com` | $0.1 | $0.3 | Grok 官方 | 0.05 | grok-4.6 |
-| 32 | `api.topapi.io` | $0.1 | $0.3 | Grok满血 | 0.05 | grok-4.6 |
-| 33 | `www.topapi.io` | $0.1 | $0.3 | Grok满血 | 0.05 | grok-4.6 |
-| 34 | `pipio.dev` | $0.1 | $0.3 | grok | 0.05 | grok-4.6 |
-| 35 | `ai.8888.name` | $0.12 | $0.36 | Grok | 0.06 | grok-4.6 |
-| 36 | `llm-coding.space` | $0.12 | $0.36 | grok特价 | 0.06 | grok-4.6 |
-| 37 | `uo.mentoe.com` | $0.12 | $0.36 | grok-free | 0.06 | grok-4.6 |
-| 38 | `us.uocode.com` | $0.12 | $0.36 | grok-free | 0.06 | grok-4.6 |
-| 39 | `www.uocode.com` | $0.12 | $0.36 | grok-free | 0.06 | grok-4.6 |
-| 40 | `api.1yapi.com` | $0.12 | $0.36 | grok-super | 0.06 | grok-4.6 |
-| 41 | `www.1yapi.com` | $0.12 | $0.36 | grok-super | 0.06 | grok-4.6 |
-| 42 | `www.unassigned.top` | $0.12 | $0.36 | grok-free | 0.06 | grok-4.6 |
-| 43 | `api2.love-long.com` | $0.12 | $0.36 | grok | 0.06 | grok-4.6 |
-| 44 | `us.xigong.cloud` | $0.13 | $0.39 | Grok-全模型 | 0.065 | grok-4.6 |
-| 45 | `api.moliapi.cloud` | $0.14 | $0.42 | grok | 0.07 | grok-4.6 |
-| 46 | `runapi.co` | $0.14 | $0.42 | grok | 0.233333 | grok-4.6 |
-| 47 | `relayrouter.ai` | $0.14706 | $0.44118 | Cli-Grok-1 | 0.07353 | grok-4.6 |
-| 48 | `tokeness.ai` | $0.15 | $0.45 | Grok | 0.075 | grok-4.6 |
-| 49 | `api.lingzhouai.com` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 50 | `api.socode.cc` | $0.16 | $0.48 | Grok-[Havry]  | 0.08 | grok-4.6 |
-| 51 | `www.bb-api.com` | $0.16 | $0.48 | grok heavy-008倍率 （巨推荐） | 0.08 | grok-4.6 |
-| 52 | `ycyapi.cn` | $0.16 | $0.48 | 18-GROK-4.6-HEAVY | 0.08 | grok-4.6 |
-| 53 | `api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 54 | `new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 55 | `sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 56 | `vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 57 | `ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 58 | `www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 59 | `hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 60 | `www.xlapis.com` | $0.16 | $0.48 | grok-缓存分组 | 0.08 | grok-4.6 |
-| 61 | `www.ycyapi.cn` | $0.16 | $0.48 | 18-GROK-4.6-HEAVY | 0.08 | grok-4.6 |
-| 62 | `ai2.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 63 | `ai2.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 64 | `ai2.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 65 | `ai2.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 66 | `ai2.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 67 | `ai2.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 68 | `ai2.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 69 | `api2.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 70 | `api2.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 71 | `api2.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 72 | `api2.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 73 | `api2.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 74 | `api2.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 75 | `api2.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 76 | `api3.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 77 | `api3.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 78 | `api3.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 79 | `api3.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 80 | `api3.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 81 | `claude.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 82 | `claude.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 83 | `claude.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 84 | `claude.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 85 | `claude.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 86 | `gemini.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 87 | `gemini.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 88 | `gemini.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 89 | `gemini.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 90 | `gemini.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 91 | `gemini.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 92 | `gpt.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 93 | `gpt.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 94 | `gpt.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 95 | `gpt.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 96 | `gpt.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 97 | `gpt.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 98 | `gpt.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 99 | `grok.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 100 | `grok.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 101 | `grok.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 102 | `grok.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 103 | `grok.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 104 | `grok.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 105 | `grok.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 106 | `gw2.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 107 | `gw2.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 108 | `gw2.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 109 | `gw2.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 110 | `gw2.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 111 | `gw2.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 112 | `gw2.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 113 | `hk2.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 114 | `hk2.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 115 | `hk2.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 116 | `hk2.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 117 | `hk2.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 118 | `jp.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 119 | `jp.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 120 | `jp.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 121 | `jp.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 122 | `jp.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 123 | `jp.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 124 | `jp.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 125 | `llm.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 126 | `llm.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 127 | `llm.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 128 | `llm.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 129 | `llm.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 130 | `llm.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 131 | `llm.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 132 | `mirror.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 133 | `mirror.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 134 | `mirror.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 135 | `mirror.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 136 | `mirror.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 137 | `openai.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 138 | `openai.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 139 | `openai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 140 | `openai.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 141 | `openai.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 142 | `ai2.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 143 | `api2.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 144 | `api3.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 145 | `api3.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 146 | `claude.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 147 | `gemini.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 148 | `gpt.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 149 | `grok.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 150 | `gw2.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 151 | `hk2.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 152 | `hk2.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 153 | `hk2.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 154 | `jp.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 155 | `llm.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 156 | `mirror.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 157 | `mirror.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 158 | `mirror.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 159 | `openai.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 160 | `openai.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 161 | `openai.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 162 | `proxy.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 163 | `proxy.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 164 | `proxy.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 165 | `proxy.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 166 | `proxy.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 167 | `proxy.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 168 | `proxy.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 169 | `relay.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 170 | `relay.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 171 | `relay.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 172 | `relay.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 173 | `relay.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 174 | `relay.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 175 | `sg.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 176 | `sg.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 177 | `sg.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 178 | `sg.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 179 | `sg.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 180 | `sg.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 181 | `sg.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 182 | `tw.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 183 | `tw.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 184 | `tw.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 185 | `tw.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 186 | `tw.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 187 | `tw.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 188 | `tw.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 189 | `tw.www.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 190 | `us.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 191 | `us.hk.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 192 | `us.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 193 | `us.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 194 | `us.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 195 | `us.vip.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 196 | `v2.ai.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 197 | `v2.api.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 198 | `v2.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 199 | `v2.new.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
-| 200 | `v2.sub.juhe.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
+| 1 | `pianyitoken.gay` | $0.0273973 | $0.0821918 | grok heavy | 0.1 | grok-4.6 |
+| 2 | `www.yiyuantoken.com` | $0.0352944 | $0.105882 | 💥Grok 官方原版 | 0.12 | grok-4.6 |
+| 3 | `ai.gpt666claude.top` | $0.04 | $0.12 | gork | 0.02 | grok-4.6 |
+| 4 | `momoapi.xin` | $0.04 | $0.12 | grok | 0.02 | grok-4.6 |
+| 5 | `ai.lt4net.org` | $0.06 | $0.18 | grok | 0.03 | grok-4.6 |
+| 6 | `allaitoken.com` | $0.06 | $0.18 | Grok | 0.03 | grok-4.6 |
+| 7 | `api.boluomiapi.cc` | $0.06 | $0.18 | G01-grok | 0.03 | grok-4.6 |
+| 8 | `api.zzswitch.com` | $0.06 | $0.18 | grok | 0.03 | grok-4.6 |
+| 9 | `grok101.site` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.6 |
+| 10 | `llm-all.pro` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.6 |
+| 11 | `model101.site` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.6 |
+| 12 | `ovo1.vip` | $0.06 | $0.18 | Grok Lite | 0.03 | grok-4.6 |
+| 13 | `token101.site` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.6 |
+| 14 | `u-ai.me` | $0.06 | $0.18 | grok-001 | 0.03 | grok-4.6 |
+| 15 | `buliangrenai.com` | $0.072 | $0.216 | gpt-0.036 | 0.036 | grok-4.6 |
+| 16 | `api.kcne.top` | $0.08 | $0.24 | Grok | 0.04 | grok-4.6 |
+| 17 | `api.yunserver.cn` | $0.08 | $0.24 | grok-cheap | 0.04 | grok-4.6 |
+| 18 | `apibest.ai` | $0.08 | $0.24 | Grok | 0.04 | grok-4.6 |
+| 19 | `newtonrouter.com` | $0.08 | $0.24 | Grok Heavy | 0.04 | grok-4.6 |
+| 20 | `puppyrouter.com` | $0.084 | $0.252 | grok | 0.042 | grok-4.6 |
+| 21 | `api.0elog.com` | $0.1 | $0.3 | Grok | 0.05 | grok-4.6 |
+| 22 | `api.unorouter.com` | $0.1 | $0.3 | Grok-Build-duck-grok-4.6 | 0.05 | grok-4.6 |
+| 23 | `api.wapq.cn` | $0.1 | $0.1 | grok | 0.1 | grok-4.6-high |
+| 24 | `factory.pub` | $0.1 | $0.3 | Grok | 0.05 | grok-4.6 |
+| 25 | `liliapi.siphot.com` | $0.1 | $0.3 | grok | 0.05 | grok-4.6 |
+| 26 | `linkapi.ai` | $0.1 | $0.3 | GrokBuild | 0.05 | grok-4.6 |
+| 27 | `pipio.io` | $0.1 | $0.3 | grok | 0.05 | grok-4.6 |
+| 28 | `rivoapi.com` | $0.1 | $0.3 | Grok 官方 | 0.05 | grok-4.6 |
+| 29 | `sub.vcnovb.cn` | $0.1 | $0.3 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.6 |
+| 30 | `www.zhuanyuncang.top` | $0.1 | $0.3 | Grok | 0.05 | grok-4.6 |
+| 31 | `api.zcloudapi.com` | $0.109589 | $0.328767 | grok-text | 0.4 | grok-4.6 |
+| 32 | `1yapi.com` | $0.12 | $0.36 | grok-super | 0.06 | grok-4.6 |
+| 33 | `8888.name` | $0.12 | $0.36 | Grok | 0.06 | grok-4.6 |
+| 34 | `kpzhu.com` | $0.12 | $0.36 | grok | 0.06 | grok-4.6 |
+| 35 | `love-long.com` | $0.12 | $0.36 | grok | 0.06 | grok-4.6 |
+| 36 | `api.celestiai.dev` | $0.14 | $0.42 | grok | 0.07 | grok-4.6 |
+| 37 | `api.text168.com` | $0.14 | $0.42 | Grok-heavy | 0.07 | grok-4.6 |
+| 38 | `closedai.kylenqaq.com` | $0.14 | $0.42 | GROK | 0.07 | grok-4.6 |
+| 39 | `moliapi.cloud` | $0.14 | $0.42 | grok | 0.07 | grok-4.6 |
+| 40 | `nextpro.top` | $0.14 | $0.42 | SuperGrok Heavy（自营） | 0.07 | grok-4.6 |
+| 41 | `runapi.co` | $0.14 | $0.419999 | grok | 0.233333 | grok-4.6 |
+| 42 | `z30.top` | $0.14 | $0.42 | GROK heavy | 0.07 | grok-4.6 |
+| 43 | `api.openlux.ai` | $0.14706 | $0.44118 | Cli-Grok-1 | 0.07353 | grok-4.6 |
+| 44 | `api.relayrouter.ai` | $0.14706 | $0.44118 | Cli-Grok-1 | 0.07353 | grok-4.6 |
+| 45 | `abinapi.com` | $0.15 | $0.45 | Grok纯血 | 0.075 | grok-4.6 |
+| 46 | `tokeness.io` | $0.15 | $0.45 | Grok | 0.075 | grok-4.6 |
+| 47 | `ai.iyuyu.top` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
+| 48 | `ai.zfb.la` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
+| 49 | `aircola.top` | $0.16 | $0.48 | grok | 0.08 | grok-4.6 |
+| 50 | `api.123uq.com` | $0.16 | $0.48 | grok  heavy | 0.08 | grok-4.6 |
 
-[← 返回索引](index.md)
+> 另有 611 站未列出；367 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

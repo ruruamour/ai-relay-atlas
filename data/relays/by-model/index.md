@@ -1,1001 +1,816 @@
 # 按模型榜单
 
-> 推算价（USD/1M 输入），未对账；已排除 0 价。仅列 ≥8 家的模型，共 967 个。
+> 共 720 个模型（≥20 站提供）。中位价只统计正常价格，推算，未对账。
 
-## Gemini 系列
+[OpenAI](#openai) · [Claude](#claude) · [Gemini](#gemini) · [Grok](#grok) · [MiMo](#mimo) · [DeepSeek](#deepseek) · [Qwen](#qwen) · [GLM](#glm) · [Kimi](#kimi) · [豆包](#doubao) · [MiniMax](#minimax) · [混元](#hunyuan) · [Llama](#llama) · [图像/视频/音频](#media) · [其他](#other)
 
-| 模型 | 家数 | 最低价 | 最低站 |
-|---|---|---|---|
-| [gemini-3.8-flash](gemini-3.8-flash.md) | 3562 | $0.0075 | `apiroute.top` |
-| [gemini-3-flash](gemini-3-flash.md) | 3288 | $0.05 | `modelsell.com` |
-| [gemini-4-argon](gemini-4-argon.md) | 3071 | $0.069231 | `codelypixverse.com` |
-| [gemini-3.1-flash-lite](gemini-3.1-flash-lite.md) | 2718 | $0.0025 | `apiroute.top` |
-| [gemini-3.5-flash-lite](gemini-3.5-flash-lite.md) | 2585 | $0.022059 | `api.openlux.ai` |
-| [gemini-3.1-pro-preview](gemini-3.1-pro-preview.md) | 2164 | $1.44e-05 | `zz.xcwang.cn` |
-| [gemini-3.5-flash](gemini-3.5-flash.md) | 1979 | $1.08e-05 | `zz.xcwang.cn` |
-| [gemini-3.7-flash](gemini-3.7-flash.md) | 1853 | $0.0128983 | `www.nexotoken.net` |
-| [gemini-3-flash-preview](gemini-3-flash-preview.md) | 1770 | $3.6e-06 | `zz.xcwang.cn` |
-| [gemini-3-pro-preview](gemini-3-pro-preview.md) | 1645 | $1.44e-05 | `zz.xcwang.cn` |
-| [gemini-3.6-flash](gemini-3.6-flash.md) | 1619 | $0.0128983 | `www.nexotoken.net` |
-| [gemini-2.5-flash](gemini-2.5-flash.md) | 1487 | $0.0025797 | `www.nexotoken.net` |
-| [gemini-3.1-pro](gemini-3.1-pro.md) | 1241 | $0.0171977 | `www.nexotoken.net` |
-| [gemini-2.5-pro](gemini-2.5-pro.md) | 1104 | $0.0107486 | `www.nexotoken.net` |
-| [gemini-2.5-flash-lite](gemini-2.5-flash-lite.md) | 939 | $0.007353 | `api.openlux.ai` |
-| [gemini-3.1-flash-lite-preview](gemini-3.1-flash-lite-preview.md) | 910 | $0.001 | `api.ccode.vip` |
-| [gemini-3.1-flash-image](gemini-3.1-flash-image.md) | 774 | $0.01 | `liangxinapi.top` |
-| [gemini-3-pro-image](gemini-3-pro-image.md) | 728 | $0.04 | `liangxinapi.top` |
-| [gemini-3.1-flash-lite-image](gemini-3.1-flash-lite-image.md) | 536 | $0.005 | `liangxinapi.top` |
-| [gemini-3.1-flash-image-preview](gemini-3.1-flash-image-preview.md) | 506 | $3.6e-06 | `zz.xcwang.cn` |
-| [gemini-3-pro-image-preview](gemini-3-pro-image-preview.md) | 495 | $1.44e-05 | `zz.xcwang.cn` |
-| [gemini-3-pro](gemini-3-pro.md) | 493 | $0.2 | `love.qinyan.icu` |
-| [gemini-3-flash-thinking-128](gemini-3-flash-thinking-128.md) | 486 | $0.115 | `us.oojj.top` |
-| [gemini-3.5-flash-extra](gemini-3.5-flash-extra.md) | 467 | $0.195 | `api.biuapi.com` |
-| [gemini-3.1-pro-preview-thinking-128](gemini-3.1-pro-preview-thinking-128.md) | 461 | $0.125 | `love.qinyan.icu` |
-| [gemini-2.5-pro-preview](gemini-2.5-pro-preview.md) | 454 | $0.315 | `api.routeeasy.ai` |
-| [gemini-3.1-flash](gemini-3.1-flash.md) | 454 | $0.075 | `www.yuanshen.net.eu.org` |
-| [gemini-3-pro-image-l](gemini-3-pro-image-l.md) | 444 | $8.4 | `api.2api.magic666.top` |
-| [gemini-3.1-flash-lite-image-l](gemini-3.1-flash-lite-image-l.md) | 444 | $1.05 | `api.2api.magic666.top` |
-| [gemini-3.1-flash-image-l](gemini-3.1-flash-image-l.md) | 444 | $2.1 | `api.2api.magic666.top` |
-| [gemini-3.1-pro-web](gemini-3.1-pro-web.md) | 444 | $37.5 | `api.2api.magic666.top` |
-| [gemini-2.5-flash-image](gemini-2.5-flash-image.md) | 290 | $3.6e-06 | `zz.xcwang.cn` |
-| [gemini-3.8-flash-tiered](gemini-3.8-flash-tiered.md) | 255 | $0.008077 | `api.robinsonai.shop` |
-| [gemini-2.5-flash-no](gemini-2.5-flash-no.md) | 132 | $0.022059 | `api.openlux.ai` |
-| [gemini-3.1-pro-preview-customtools](gemini-3.1-pro-preview-customtools.md) | 118 | $0.125 | `love.qinyan.icu` |
-| [gemini-nano-banana-2.1](gemini-nano-banana-2.1.md) | 116 | $0.442478 | `runapi.co` |
-| [gemini-embedding-001](gemini-embedding-001.md) | 113 | $0.012 | `cn.ai-api.loft.games` |
-| [gemini-3.1-flash-tts-preview](gemini-3.1-flash-tts-preview.md) | 112 | $0.08 | `mux.la` |
-| [gemini-flash-lite-latest](gemini-flash-lite-latest.md) | 104 | $0.007353 | `api.openlux.ai` |
-| [gemini-flash-latest](gemini-flash-latest.md) | 102 | $0.022059 | `api.openlux.ai` |
-| [gemini-2.5-pro-preview-tts](gemini-2.5-pro-preview-tts.md) | 96 | $0.08 | `cn.ai-api.loft.games` |
-| [gemini-2.5-flash-preview-tts](gemini-2.5-flash-preview-tts.md) | 95 | $0.04 | `cn.ai-api.loft.games` |
-| [gemini-3.6-flash-tiered](gemini-3.6-flash-tiered.md) | 91 | $0.125 | `nexaxis.io` |
-| [gemini-embedding-2-preview](gemini-embedding-2-preview.md) | 83 | $0.04 | `mux.la` |
-| [gemini-pro-latest](gemini-pro-latest.md) | 83 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.5-flash-lite-preview-09-2025](gemini-2.5-flash-lite-preview-09-2025.md) | 72 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.0-flash-lite](gemini-2.0-flash-lite.md) | 69 | $0.0055147 | `api.openlux.ai` |
-| [gemini-2.0-flash](gemini-2.0-flash.md) | 64 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.5-pro-thinking-*](gemini-2.5-pro-thinking-star.md) | 60 | $0.075 | `api.openai-labs.com` |
-| [gemini-2.5-pro-no](gemini-2.5-pro-no.md) | 58 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.5-pro-preview-03-25](gemini-2.5-pro-preview-03-25.md) | 49 | $0.0773536 | `api.openlux.ai` |
-| [gemini-2.5-flash-preview-04-17](gemini-2.5-flash-preview-04-17.md) | 48 | $0.0110295 | `api.openlux.ai` |
-| [gemini-2.5-flash-lite-preview-06-17](gemini-2.5-flash-lite-preview-06-17.md) | 46 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.5-flash-preview-05-20](gemini-2.5-flash-preview-05-20.md) | 46 | $0.009 | `api.openai-labs.com` |
-| [gemini-2.5-pro-exp-03-25](gemini-2.5-pro-exp-03-25.md) | 45 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.5-pro-preview-05-06](gemini-2.5-pro-preview-05-06.md) | 44 | $0.05 | `liangxinapi.top` |
-| [gemini-2.5-flash-thinking-*](gemini-2.5-flash-thinking-star.md) | 42 | $0.022059 | `api.openlux.ai` |
-| [gemini-3-flash-preview-no](gemini-3-flash-preview-no.md) | 42 | $0.125 | `api.routeeasy.ai` |
-| [gemini-2.5-flash-preview-09-2025](gemini-2.5-flash-preview-09-2025.md) | 42 | $0.022059 | `api.openlux.ai` |
-| [gemini-2.5-pro-preview-06-05](gemini-2.5-pro-preview-06-05.md) | 42 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.0-flash-001](gemini-2.0-flash-001.md) | 40 | $0.0110295 | `api.openlux.ai` |
-| [gemini-flash-lite-latest-no](gemini-flash-lite-latest-no.md) | 38 | $0.007353 | `api.openlux.ai` |
-| [gemini-flash-lite-latest-thinking-*](gemini-flash-lite-latest-thinking-star.md) | 38 | $0.007353 | `api.openlux.ai` |
-| [gemini-1.5-flash-latest](gemini-1.5-flash-latest.md) | 36 | $0.0055147 | `api.openlux.ai` |
-| [gemini-3.7-flash-tiered](gemini-3.7-flash-tiered.md) | 36 | $0.15 | `api.qfgapi.com` |
-| [gemini-1.5-pro-latest](gemini-1.5-pro-latest.md) | 35 | $0.0919125 | `api.openlux.ai` |
-| [gemini-3-pro-preview-11-2025](gemini-3-pro-preview-11-2025.md) | 35 | $0.14706 | `api.openlux.ai` |
-| [gemini-2.0-flash-exp](gemini-2.0-flash-exp.md) | 35 | $0.007353 | `api.openlux.ai` |
-| [gemini-1.5-pro](gemini-1.5-pro.md) | 34 | $0.0919125 | `api.openlux.ai` |
-| [gemini-pro-agent](gemini-pro-agent.md) | 34 | $0.4 | `relayrax.com` |
-| [gemini-robotics-er-1.5-preview](gemini-robotics-er-1.5-preview.md) | 33 | $0.06 | `mux.la` |
-| [gemini-2.5-pro-thinking-128](gemini-2.5-pro-thinking-128.md) | 33 | $0.125 | `love.qinyan.icu` |
-| [gemini-2.0-pro-exp-02-05](gemini-2.0-pro-exp-02-05.md) | 33 | $0.0919125 | `api.openlux.ai` |
-| [gemini-1.5-flash](gemini-1.5-flash.md) | 32 | $0.0055147 | `api.openlux.ai` |
-| [gemini-2.0-flash-lite-001](gemini-2.0-flash-lite-001.md) | 31 | $0.0055147 | `api.openlux.ai` |
-| [gemini-flash-latest-thinking-*](gemini-flash-latest-thinking-star.md) | 31 | $0.022059 | `api.openlux.ai` |
-| [gemini-2.5-flash-preview-05-20-no](gemini-2.5-flash-preview-05-20-no.md) | 30 | $0.0110295 | `api.openlux.ai` |
-| [gemini-2.0-flash-thinking-exp-01-21](gemini-2.0-flash-thinking-exp-01-21.md) | 30 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.0-flash-thinking-exp-1219](gemini-2.0-flash-thinking-exp-1219.md) | 30 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.5-flash-lite-no](gemini-2.5-flash-lite-no.md) | 29 | $0.007353 | `api.openlux.ai` |
-| [gemini-pro-latest-thinking-*](gemini-pro-latest-thinking-star.md) | 29 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.5-flash-preview-04-17-no](gemini-2.5-flash-preview-04-17-no.md) | 28 | $0.0110295 | `api.openlux.ai` |
-| [gemini-2.0-flash-lite-preview-02-05](gemini-2.0-flash-lite-preview-02-05.md) | 28 | $0.0055147 | `api.openlux.ai` |
-| [gemini-flash-latest-no](gemini-flash-latest-no.md) | 28 | $0.022059 | `api.openlux.ai` |
-| [gemini-2.5-flash-image-preview](gemini-2.5-flash-image-preview.md) | 28 | $0.0083011 | `www.nexotoken.net` |
-| [gemini-3.8-flash-tts](gemini-3.8-flash-tts.md) | 28 | $0.132355 | `relayrouter.ai` |
-| [gemini-2.5-pro-thinking-512](gemini-2.5-pro-thinking-512.md) | 27 | $0.125 | `love.qinyan.icu` |
-| [gemini-1.5-flash-8b](gemini-1.5-flash-8b.md) | 26 | $0.0027574 | `api.openlux.ai` |
-| [gemini-1.5-pro-002](gemini-1.5-pro-002.md) | 26 | $0.0919125 | `api.openlux.ai` |
-| [gemini-embedding-2](gemini-embedding-2.md) | 25 | $0.05 | `api.pie-xian.com` |
-| [gemini-1.5-pro-001](gemini-1.5-pro-001.md) | 25 | $0.0919125 | `api.openlux.ai` |
-| [gemini-1.5-pro-exp-0827](gemini-1.5-pro-exp-0827.md) | 25 | $0.0919125 | `api.openlux.ai` |
-| [gemini-3.1-flash-preview](gemini-3.1-flash-preview.md) | 25 | $0.036765 | `api.openlux.ai` |
-| [gemini-3-flash-agent](gemini-3-flash-agent.md) | 23 | $0.1 | `api.qfgapi.com` |
-| [gemini-1.5-flash-002](gemini-1.5-flash-002.md) | 23 | $0.0055147 | `api.openlux.ai` |
-| [gemini-1.5-flash-exp-0827](gemini-1.5-flash-exp-0827.md) | 23 | $0.0055147 | `api.openlux.ai` |
-| [gemini-3.1-pro-preview-thinking](gemini-3.1-pro-preview-thinking.md) | 23 | $0.5 | `api.routeeasy.ai` |
-| [gemini-2.5-flash-deepsearch-async](gemini-2.5-flash-deepsearch-async.md) | 22 | $0.44118 | `api.openlux.ai` |
-| [gemini-2.5-flash-lite-preview-06-17-no](gemini-2.5-flash-lite-preview-06-17-no.md) | 21 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.5-flash-preview-09-2025-no](gemini-2.5-flash-preview-09-2025-no.md) | 21 | $0.022059 | `api.openlux.ai` |
-| [gemini-2.5-flash-preview-09-2025-thinking-*](gemini-2.5-flash-preview-09-2025-thinking-star.md) | 20 | $0.022059 | `api.openlux.ai` |
-| [gemini-exp-1206](gemini-exp-1206.md) | 20 | $0.2 | `love.qinyan.icu` |
-| [gemini-2.5-pro-preview-05-06-no](gemini-2.5-pro-preview-05-06-no.md) | 19 | $0.0919125 | `api.openlux.ai` |
-| [gemini-3-flash-preview-thinking-*](gemini-3-flash-preview-thinking-star.md) | 19 | $0.1 | `mux.la` |
-| [gemini-2.5-pro-preview-03-25-no](gemini-2.5-pro-preview-03-25-no.md) | 18 | $0.0919125 | `api.openlux.ai` |
-| [gemini-omni-flash-preview](gemini-omni-flash-preview.md) | 17 | $0.45 | `www.ddtnew.com` |
-| [gemini-2.0-flash-thinking-exp](gemini-2.0-flash-thinking-exp.md) | 17 | $0.15 | `api.apiyi.com` |
-| [gemini-2.5-flash-deepsearch](gemini-2.5-flash-deepsearch.md) | 17 | $0.72 | `api.openai-labs.com` |
-| [gemini-2.5-flash-thinking-512](gemini-2.5-flash-thinking-512.md) | 16 | $0.075 | `api.routeeasy.ai` |
-| [gemini-1.5-flash-8b-exp-0924](gemini-1.5-flash-8b-exp-0924.md) | 16 | $0.0027574 | `api.openlux.ai` |
-| [gemini-robotics-er-1.6-preview](gemini-robotics-er-1.6-preview.md) | 16 | $0.4 | `hk.hbapis.com` |
-| [gemini-pro](gemini-pro.md) | 16 | $0.14 | `love.qinyan.icu` |
-| [gemini-2.5-computer-use-preview-10-2025](gemini-2.5-computer-use-preview-10-2025.md) | 16 | $0.375 | `yujianwudi.top` |
-| [gemini-2.5-flash-lite-preview-09-2025-no](gemini-2.5-flash-lite-preview-09-2025-no.md) | 15 | $0.007353 | `api.openlux.ai` |
-| [gemini-pro-latest-no](gemini-pro-latest-no.md) | 15 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.0-flash-exp-image-generation](gemini-2.0-flash-exp-image-generation.md) | 15 | $0.04 | `mux.la` |
-| [gemini-2.5-flash-lite-preview-09-2025-thinking-*](gemini-2.5-flash-lite-preview-09-2025-thinking-star.md) | 14 | $0.007353 | `api.openlux.ai` |
-| [gemini-2.5-pro-exp-03-25-no](gemini-2.5-pro-exp-03-25-no.md) | 14 | $0.0919125 | `api.openlux.ai` |
-| [gemini-2.5-test](gemini-2.5-test.md) | 14 | $1.4706 | `api.openlux.ai` |
-| [gemini-3-pro-image-preview-l](gemini-3-pro-image-preview-l.md) | 14 | $0.14706 | `api.openlux.ai` |
-| [gemini-2.5-flash-search](gemini-2.5-flash-search.md) | 14 | $0.075 | `api.routeeasy.ai` |
-| [gemini-3-pro-preview-thinking-128](gemini-3-pro-preview-thinking-128.md) | 13 | $0.125 | `love.qinyan.icu` |
-| [gemini-3-pro-preview-thinking-*](gemini-3-pro-preview-thinking-star.md) | 13 | $0.4 | `mux.la` |
-| [gemini-3.8-flash-lite-tts](gemini-3.8-flash-lite-tts.md) | 13 | $0.15 | `www.koalaapi.com` |
-| [gemini-2.0-pro-exp](gemini-2.0-pro-exp.md) | 12 | $0.3 | `love.qinyan.icu` |
-| [gemini-exp-1114](gemini-exp-1114.md) | 12 | $0.2 | `love.qinyan.icu` |
-| [gemini-exp-1121](gemini-exp-1121.md) | 12 | $0.2 | `love.qinyan.icu` |
-| [gemini-pro-vision](gemini-pro-vision.md) | 12 | $0.164 | `love.qinyan.icu` |
-| [gemini-2.5-pro-all](gemini-2.5-pro-all.md) | 12 | $0.5 | `mux.la` |
-| [gemini-2.5-pro-thinking-3000](gemini-2.5-pro-thinking-3000.md) | 12 | $0.3125 | `api.routeeasy.ai` |
-| [gemini-4-barium](gemini-4-barium.md) | 12 | $0.4 | `toapis.cn` |
-| [gemini-3-pro-image-preview-4k](gemini-3-pro-image-preview-4k.md) | 11 | $0.44 | `api.apiyi.com` |
-| [gemini-1.5-pro-exp-0801](gemini-1.5-pro-exp-0801.md) | 11 | $0.2 | `love.qinyan.icu` |
-| [gemini-2.5-pro-search](gemini-2.5-pro-search.md) | 11 | $0.375 | `api.openai-labs.com` |
-| [gemini-2.5-flash-all](gemini-2.5-flash-all.md) | 11 | $0.06 | `mux.la` |
-| [gemini-3-flash-preview-thinking-128](gemini-3-flash-preview-thinking-128.md) | 10 | $0.125 | `api.routeeasy.ai` |
-| [gemini-3-pro-preview-thinking](gemini-3-pro-preview-thinking.md) | 10 | $0.5 | `api.routeeasy.ai` |
-| [gemini-3.1-flash-image-preview-4k](gemini-3.1-flash-image-preview-4k.md) | 10 | $0.09 | `api.apiyi.com` |
-| [gemini-3-pro-image-preview-2k](gemini-3-pro-image-preview-2k.md) | 10 | $0.44 | `api.apiyi.com` |
-| [gemini-2.5-flash-native-audio-latest](gemini-2.5-flash-native-audio-latest.md) | 10 | $0.15 | `www.aiapikey.net` |
-| [gemini-2.0-flash-lite-preview](gemini-2.0-flash-lite-preview.md) | 10 | $0.01875 | `api.routeeasy.ai` |
-| [gemini-3-flash-preview-search](gemini-3-flash-preview-search.md) | 10 | $0.125 | `api.routeeasy.ai` |
-| [gemini-3.5-flash-search](gemini-3.5-flash-search.md) | 10 | $0.375 | `api.routeeasy.ai` |
-| [gemini-3.1-pro-preview-search](gemini-3.1-pro-preview-search.md) | 10 | $0.5 | `api.routeeasy.ai` |
-| [gemini-2.5-pro-preview-06-05-no](gemini-2.5-pro-preview-06-05-no.md) | 10 | $0.3125 | `api.routeeasy.ai` |
-| [gemini-3.1-flash-image-preview-t](gemini-3.1-flash-image-preview-t.md) | 10 | $0.5 | `www.micuapi.ai` |
-| [gemini-3-pro-image-preview-t](gemini-3-pro-image-preview-t.md) | 10 | $2 | `www.micuapi.ai` |
-| [gemini-2.5-flash-lite-preview-thinking-*](gemini-2.5-flash-lite-preview-thinking-star.md) | 9 | $0.03 | `www.ddtnew.com` |
-| [gemini-2.5-flash-native-audio-preview-09-2025](gemini-2.5-flash-native-audio-preview-09-2025.md) | 9 | $0.15 | `www.aiapikey.net` |
-| [gemini-2.5-flash-lite-search](gemini-2.5-flash-lite-search.md) | 9 | $0.025 | `api.routeeasy.ai` |
-| [gemini-omni-1.1-flash](gemini-omni-1.1-flash.md) | 9 | $1.5 | `api.apib.ai` |
-| [gemini-2.5-pro-deepsearch](gemini-2.5-pro-deepsearch.md) | 9 | $0.625 | `api.apiyi.com` |
-| [gemini-4-argon-instant](gemini-4-argon-instant.md) | 9 | $0.78 | `ai.wegoo.site` |
-| [gemini-4-argon-a](gemini-4-argon-a.md) | 9 | $0.78 | `ai.wegoo.site` |
-| [gemini-3-pro-image-preview-c](gemini-3-pro-image-preview-c.md) | 8 | $0.5 | `api.routeeasy.ai` |
-| [gemini-3.1-flash-image-preview-2k](gemini-3.1-flash-image-preview-2k.md) | 8 | $0.125 | `api.routeeasy.ai` |
-| [gemini-2.5-flash-native-audio-preview-12-2025](gemini-2.5-flash-native-audio-preview-12-2025.md) | 8 | $0.15 | `www.aiapikey.net` |
-| [gemini-3.5-flash-no](gemini-3.5-flash-no.md) | 8 | $0.375 | `api.routeeasy.ai` |
-| [gemini-2.0-flash-preview-image-generation](gemini-2.0-flash-preview-image-generation.md) | 8 | $1.25 | `api.routeeasy.ai` |
-| [gemini-2.5-pro-deepsearch-async](gemini-2.5-pro-deepsearch-async.md) | 8 | $1 | `cn.api.zyai.online` |
+<a id="openai"></a>
+## OpenAI（129）
 
-## Grok
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [gpt-5.6-sol](gpt-5.6-sol.md) | 1674 | $1.25 |
+| [gpt-5.6-terra](gpt-5.6-terra.md) | 1593 | $0.5 |
+| [gpt-6-astra](gpt-6-astra.md) | 1542 | $2.5 |
+| [gpt-6-sol](gpt-6-sol.md) | 1400 | $0.5 |
+| [gpt-6.1-sol](gpt-6.1-sol.md) | 1381 | $0.5 |
+| [gpt-image-2](gpt-image-2.md) | 1334 | $0.08/次 |
+| [gpt-5.5](gpt-5.5.md) | 1299 | $1.5 |
+| [gpt-5.6-luna](gpt-5.6-luna.md) | 1170 | $0.2 |
+| [gpt-image-2.5-flare](gpt-image-2.5-flare.md) | 907 | $0.1/次 |
+| [gpt-image-2.5-sunburst](gpt-image-2.5-sunburst.md) | 904 | $0.1/次 |
+| [codex-auto-review](codex-auto-review.md) | 876 | $0.7 |
+| [gpt-6-luna](gpt-6-luna.md) | 853 | $0.0625 |
+| [gpt-5.4](gpt-5.4.md) | 847 | $1.25 |
+| [gpt-5.4-mini](gpt-5.4-mini.md) | 671 | $0.6 |
+| [gpt-image-2.5](gpt-image-2.5.md) | 465 | $0.08/次 |
+| [gpt-5.2](gpt-5.2.md) | 426 | $1.575 |
+| [gpt-5.3-codex](gpt-5.3-codex.md) | 375 | $1.75 |
+| [gpt-5.3-codex-spark](gpt-5.3-codex-spark.md) | 369 | $0.7875 |
+| [gpt-5.6](gpt-5.6.md) | 361 | $0.95 |
+| [gpt-image-1.5](gpt-image-1.5.md) | 332 | $4 |
+| [gpt-4o](gpt-4o.md) | 326 | $2.5 |
+| [gpt-image-1](gpt-image-1.md) | 307 | $4.6875 |
+| [gpt-5](gpt-5.md) | 305 | $1.25 |
+| [gpt-4o-mini](gpt-4o-mini.md) | 300 | $0.15 |
+| [gpt-5-mini](gpt-5-mini.md) | 292 | $0.25 |
+| [gpt-4.1](gpt-4.1.md) | 291 | $2 |
+| [gpt-4.1-mini](gpt-4.1-mini.md) | 285 | $0.4 |
+| [gpt-5.4-nano](gpt-5.4-nano.md) | 273 | $0.2 |
+| [gpt-5.1](gpt-5.1.md) | 273 | $1.25 |
+| [gpt-5-nano](gpt-5-nano.md) | 262 | $0.05 |
+| [gpt-4.1-nano](gpt-4.1-nano.md) | 251 | $0.1 |
+| [text-embedding-3-small](text-embedding-3-small.md) | 241 | $0.02 |
+| [gpt-5.4-pro](gpt-5.4-pro.md) | 240 | $30 |
+| [gpt-5.2-chat](gpt-5.2-chat.md) | 228 | $1.4915 |
+| [text-embedding-3-large](text-embedding-3-large.md) | 228 | $0.13 |
+| [gpt-5.2-codex](gpt-5.2-codex.md) | 227 | $1.75 |
+| [gpt-3.5-turbo](gpt-3.5-turbo.md) | 226 | $0.5 |
+| [o4-mini](o4-mini.md) | 224 | $1.1 |
+| [o3](o3.md) | 223 | $2 |
+| [o3-mini](o3-mini.md) | 222 | $1.1 |
+| [gpt-5.5-openai-compact](gpt-5.5-openai-compact.md) | 219 | $1.5 |
+| [gpt-5.2-pro](gpt-5.2-pro.md) | 219 | $14.7 |
+| [text-embedding-ada-002](text-embedding-ada-002.md) | 213 | $0.1 |
+| [gpt-5-codex](gpt-5-codex.md) | 210 | $1.25 |
+| [o1](o1.md) | 210 | $15 |
+| [gpt-4-turbo](gpt-4-turbo.md) | 208 | $10 |
+| [gpt-oss-120b](gpt-oss-120b.md) | 207 | $1 |
+| [gpt-5-pro](gpt-5-pro.md) | 204 | $15 |
+| [gpt-5.1-codex](gpt-5.1-codex.md) | 204 | $1.25 |
+| [gpt-4o-audio-preview](gpt-4o-audio-preview.md) | 202 | $2.48 |
+| [gpt-4](gpt-4.md) | 197 | $30 |
+| [gpt-5-chat](gpt-5-chat.md) | 193 | $1.25 |
+| [gpt-5.1-codex-mini](gpt-5.1-codex-mini.md) | 193 | $0.25 |
+| [gpt-5.5-pro](gpt-5.5-pro.md) | 191 | $75 |
+| [gpt-5.1-chat](gpt-5.1-chat.md) | 176 | $1.25 |
+| [o3-pro](o3-pro.md) | 165 | $20 |
+| [tts-1](tts-1.md) | 163 | $15 |
+| [gpt-4o-mini-tts](gpt-4o-mini-tts.md) | 161 | $0.0264/次 |
+| [gpt-image-1-mini](gpt-image-1-mini.md) | 161 | $1.6 |
+| [gpt-4o-transcribe](gpt-4o-transcribe.md) | 157 | $2 |
+| [tts-1-hd](tts-1-hd.md) | 157 | $30 |
+| [whisper-1](whisper-1.md) | 157 | $30 |
+| [gpt-4-1106-preview](gpt-4-1106-preview.md) | 156 | $10 |
+| [gpt-5.4-openai-compact](gpt-5.4-openai-compact.md) | 154 | $1.1625 |
+| [gpt-audio](gpt-audio.md) | 152 | $1.375 |
+| [gpt-5.1-codex-max](gpt-5.1-codex-max.md) | 151 | $1.25 |
+| [gpt-4o-mini-transcribe](gpt-4o-mini-transcribe.md) | 150 | $0.625 |
+| [gpt-5.3-chat](gpt-5.3-chat.md) | 139 | $1.75 |
+| [gpt-6](gpt-6.md) | 131 | $1.75 |
+| [gpt-5-search-api](gpt-5-search-api.md) | 130 | $5.625 |
+| [gpt-4o-realtime-preview](gpt-4o-realtime-preview.md) | 129 | $4.875 |
+| [o1-pro](o1-pro.md) | 125 | $165 |
+| [gpt-4-turbo-preview](gpt-4-turbo-preview.md) | 117 | $10 |
+| [gpt-realtime](gpt-realtime.md) | 117 | $4 |
+| [gpt-chat](gpt-chat.md) | 117 | $0.44 |
+| [gpt-image-2-c](gpt-image-2-c.md) | 111 | $0.12/次 |
+| [gpt-5.6-sol-openai-compact](gpt-5.6-sol-openai-compact.md) | 107 | $0.825 |
+| [gpt-4o-mini-search-preview](gpt-4o-mini-search-preview.md) | 105 | $1.1225 |
+| [dall-e-3](dall-e-3.md) | 105 | $0.04/次 |
+| [gpt-4o-search-preview](gpt-4o-search-preview.md) | 103 | $17.5 |
+| [o1-mini](o1-mini.md) | 103 | $1.1 |
+| [gpt-4o-mini-audio-preview](gpt-4o-mini-audio-preview.md) | 101 | $0.15 |
+| [davinci-002](davinci-002.md) | 92 | $40 |
+| [gpt-oss-20b](gpt-oss-20b.md) | 91 | $0.08 |
+| [o1-preview](o1-preview.md) | 87 | $15 |
+| [gpt-4-0125-preview](gpt-4-0125-preview.md) | 84 | $10 |
+| [gpt-5.6-terra-openai-compact](gpt-5.6-terra-openai-compact.md) | 82 | $0.5 |
+| [gpt-reserve](gpt-reserve.md) | 80 | $0.5 |
+| [gpt-4o-mini-realtime-preview](gpt-4o-mini-realtime-preview.md) | 74 | $0.6 |
+| [gpt-3.5-turbo-instruct](gpt-3.5-turbo-instruct.md) | 72 | $1.95 |
+| [gpt-4-vision-preview](gpt-4-vision-preview.md) | 69 | $10 |
+| [sora-2](sora-2.md) | 63 | $0.25/次 |
+| [gpt-audio-mini](gpt-audio-mini.md) | 60 | $0.6 |
+| [gpt-audio-1.5](gpt-audio-1.5.md) | 58 | $2.5 |
+| [gpt-realtime-1.5](gpt-realtime-1.5.md) | 58 | $3.2 |
+| [chatgpt-4o](chatgpt-4o.md) | 57 | $5 |
+| [gpt-4.5-preview](gpt-4.5-preview.md) | 53 | $581.25 |
+| [babbage-002](babbage-002.md) | 51 | $0.4 |
+| [gpt-4o-transcribe-diarize](gpt-4o-transcribe-diarize.md) | 50 | $2.5 |
+| [gpt-realtime-mini](gpt-realtime-mini.md) | 50 | $0.6 |
+| [o3-deep-research](o3-deep-research.md) | 50 | $10 |
+| [gpt-image-2-adobe](gpt-image-2-adobe.md) | 48 | $0.15/次 |
+| [gpt-4o-image](gpt-4o-image.md) | 47 | $0.05/次 |
+| [gpt-image-2.5-flare-c](gpt-image-2.5-flare-c.md) | 46 | $0.0235296/次 |
+| [gpt-image-2.5-sunburst-c](gpt-image-2.5-sunburst-c.md) | 46 | $0.0235296/次 |
+| [o4-mini-deep-research](o4-mini-deep-research.md) | 46 | $3.2 |
+| [gpt-4o-image-vip](gpt-4o-image-vip.md) | 43 | $0.105/次 |
+| [sora-2-pro](sora-2-pro.md) | 41 | $1.1/次 |
+| [gpt-image-2-pro](gpt-image-2-pro.md) | 39 | $0.1275/次 |
+| [gpt-realtime-2.1](gpt-realtime-2.1.md) | 39 | $3.6 |
+| [gpt-realtime-2](gpt-realtime-2.md) | 37 | $3.2 |
+| [dall-e-2](dall-e-2.md) | 36 | $16 |
+| [gpt-4-gizmo-*](gpt-4-gizmo-.md) | 34 | $0.15/次 |
+| [gpt-image](gpt-image.md) | 34 | $0.134/次 |
+| [gpt-4-dalle](gpt-4-dalle.md) | 33 | $62.25 |
+| [gpt-image-2-vip](gpt-image-2-vip.md) | 32 | $0.11/次 |
+| [gpt-realtime-2.1-mini](gpt-realtime-2.1-mini.md) | 32 | $0.48 |
+| [gpt-5.3-codex-openai-compact](gpt-5.3-codex-openai-compact.md) | 28 | $1.0625 |
+| [gpt-5.5-instant](gpt-5.5-instant.md) | 28 | $5 |
+| [text-embedding-v1](text-embedding-v1.md) | 27 | $0.1 |
+| [chatgpt-image](chatgpt-image.md) | 27 | $9 |
+| [gpt-5.6-luna-openai-compact](gpt-5.6-luna-openai-compact.md) | 26 | $0.22 |
+| [gpt-5-codex-mini](gpt-5-codex-mini.md) | 26 | $1.25 |
+| [omni-moderation](omni-moderation.md) | 26 | $0.3 |
+| [gpt-image-2-5-sunburst](gpt-image-2-5-sunburst.md) | 23 | $0.075/次 |
+| [gpt-6-astra-openai-compact](gpt-6-astra-openai-compact.md) | 22 | $4.5 |
+| [gpt-image-2-5-flare](gpt-image-2-5-flare.md) | 21 | $0.05/次 |
+| [sora-image](sora-image.md) | 20 | $0.05/次 |
+| [gpt-daybreak-blue](gpt-daybreak-blue.md) | 20 | $1 |
 
-| 模型 | 家数 | 最低价 | 最低站 |
-|---|---|---|---|
-| [grok-4.5](grok-4.5.md) | 3126 | $0.002 | `api-hub.asia` |
-| [grok-4.6](grok-4.6.md) | 2006 | $0.02 | `api.biuapi.com` |
-| [grok-4.7](grok-4.7.md) | 1014 | $0.004 | `api.topapi.io` |
-| [grok-4.3](grok-4.3.md) | 846 | $0.05 | `www.apiqd.com` |
-| [grok-build-0.1](grok-build-0.1.md) | 263 | $0.04 | `www.apiqd.com` |
-| [grok-imagine-video-1.5](grok-imagine-video-1.5.md) | 218 | $0.75 | `api.api-x.top` |
-| [grok-composer-2.5](grok-composer-2.5.md) | 190 | $37.5 | `api.api-x.top` |
-| [grok-imagine-image-2.0](grok-imagine-image-2.0.md) | 182 | $0.06 | `ai.nexfaro.com` |
-| [grok-imagine-video](grok-imagine-video.md) | 182 | $1 | `api.kunkunout.cn` |
-| [grok-composer-2.5-fast](grok-composer-2.5-fast.md) | 177 | $0.15 | `nexapi.store` |
-| [grok-imagine-image-quality](grok-imagine-image-quality.md) | 166 | $0.3 | `123api.co` |
-| [grok-chat-fast](grok-chat-fast.md) | 155 | $0.2 | `ai.emoe.top` |
-| [grok-voice-think-fast-1.0](grok-voice-think-fast-1.0.md) | 154 | $75 | `api.juhe.zfb.la` |
-| [grok-stt](grok-stt.md) | 154 | $75 | `api.juhe.zfb.la` |
-| [grok-voice-latest](grok-voice-latest.md) | 154 | $75 | `api.juhe.zfb.la` |
-| [grok-voice-think-fast-2.0](grok-voice-think-fast-2.0.md) | 154 | $75 | `api.juhe.zfb.la` |
-| [grok-video-auto](grok-video-auto.md) | 153 | $1 | `api.juhe.zfb.la` |
-| [grok-imagine-image-edit](grok-imagine-image-edit.md) | 153 | $75 | `api.juhe.zfb.la` |
-| [grok-4.7-build-fast](grok-4.7-build-fast.md) | 64 | $0.13 | `us.xigong.cloud` |
-| [grok-4.20-0309-non-reasoning](grok-4.20-0309-non-reasoning.md) | 55 | $0.05 | `www.apiqd.com` |
-| [grok-4.20-0309-reasoning](grok-4.20-0309-reasoning.md) | 55 | $0.05 | `www.apiqd.com` |
-| [grok-4](grok-4.md) | 44 | $0.22059 | `relayrouter.ai` |
-| [grok-4.20-multi-agent-0309](grok-4.20-multi-agent-0309.md) | 40 | $0.1 | `api.socode.cc` |
-| [grok-4-20-non-reasoning](grok-4-20-non-reasoning.md) | 34 | $0.091912 | `relayrouter.ai` |
-| [grok-4-20-reasoning](grok-4-20-reasoning.md) | 31 | $0.091912 | `relayrouter.ai` |
-| [grok-4-1-fast-reasoning](grok-4-1-fast-reasoning.md) | 29 | $0.054 | `yunwu.live` |
-| [grok-3](grok-3.md) | 29 | $0.9 | `www.koalaapi.com` |
-| [grok-3-mini](grok-3-mini.md) | 29 | $0.045 | `www.aircola.top` |
-| [grok-4-1-fast-non-reasoning](grok-4-1-fast-non-reasoning.md) | 28 | $0.054 | `yunwu.live` |
-| [grok-4.5-latest](grok-4.5-latest.md) | 26 | $0.02 | `supercodes.vip` |
-| [grok-4-fast-non-reasoning](grok-4-fast-non-reasoning.md) | 26 | $0.06 | `www.koalaapi.com` |
-| [grok-4-fast-reasoning](grok-4-fast-reasoning.md) | 26 | $0.06 | `www.koalaapi.com` |
-| [grok-imagine-image](grok-imagine-image.md) | 14 | $0.06 | `ai.nexfaro.com` |
-| [grok-4-5](grok-4-5.md) | 13 | $0.22 | `www.dasuapi.cn` |
-| [grok-4.20-fast](grok-4.20-fast.md) | 11 | $0.0625 | `www.codexplus.shop` |
-| [grok-4.6-latest](grok-4.6-latest.md) | 11 | $0.16 | `api.lingzhouai.com` |
-| [grok-2-1212](grok-2-1212.md) | 10 | $0.6 | `www.koalaapi.com` |
-| [grok-4.1](grok-4.1.md) | 10 | $0.6 | `www.koalaapi.com` |
-| [grok-code-fast-1](grok-code-fast-1.md) | 9 | $0.1 | `kfcv50.link` |
-| [grok-imagine](grok-imagine.md) | 8 | $11.25 | `www.tokensflux.net` |
-| [grok-3-deepsearch](grok-3-deepsearch.md) | 8 | $0.6 | `www.koalaapi.com` |
+<a id="claude"></a>
+## Claude（29）
 
-## MiMo
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [claude-opus-4-8](claude-opus-4-8.md) | 1520 | $2.5 |
+| [claude-opus-4-6](claude-opus-4-6.md) | 1502 | $2.5 |
+| [claude-opus-5](claude-opus-5.md) | 1477 | $2.25 |
+| [claude-opus-4-7](claude-opus-4-7.md) | 1474 | $2.5 |
+| [claude-sonnet-5](claude-sonnet-5.md) | 1466 | $1.05 |
+| [claude-sonnet-4-6](claude-sonnet-4-6.md) | 1458 | $1.5 |
+| [claude-fable-5](claude-fable-5.md) | 1400 | $10 |
+| [claude-opus-5-5](claude-opus-5-5.md) | 1311 | $2 |
+| [claude-haiku-4-5](claude-haiku-4-5.md) | 1252 | $0.6 |
+| [claude-fable-5-1](claude-fable-5-1.md) | 1176 | $10 |
+| [claude-sonnet-5-5](claude-sonnet-5-5.md) | 1071 | $1.2 |
+| [claude-sonnet-4-5](claude-sonnet-4-5.md) | 890 | $2.4 |
+| [claude-opus-4-5](claude-opus-4-5.md) | 883 | $4 |
+| [claude-haiku-5-5](claude-haiku-5-5.md) | 663 | $0.1 |
+| [claude-sonnet-4](claude-sonnet-4.md) | 324 | $3 |
+| [claude-opus-4-1](claude-opus-4-1.md) | 320 | $15 |
+| [claude-opus-4](claude-opus-4.md) | 292 | $15 |
+| [claude-3-7-sonnet](claude-3-7-sonnet.md) | 131 | $3 |
+| [claude-3-5-haiku](claude-3-5-haiku.md) | 117 | $0.84 |
+| [claude-3-5-sonnet](claude-3-5-sonnet.md) | 116 | $3 |
+| [claude-3-haiku](claude-3-haiku.md) | 110 | $2 |
+| [claude-3-opus](claude-3-opus.md) | 55 | $15 |
+| [claude-opus-4-7-max](claude-opus-4-7-max.md) | 34 | $5 |
+| [claude-opus-4-6-max](claude-opus-4-6-max.md) | 32 | $5 |
+| [claude-3-sonnet](claude-3-sonnet.md) | 31 | $3 |
+| [claude-mythos-5](claude-mythos-5.md) | 29 | $3 |
+| [claude-4-sonnet](claude-4-sonnet.md) | 28 | $4.05 |
+| [claude-opus-4-8-max](claude-opus-4-8-max.md) | 20 | $3.65 |
+| [claude-opus-4-6-c](claude-opus-4-6-c.md) | 20 | $0.24/次 |
 
-| 模型 | 家数 | 最低价 | 最低站 |
-|---|---|---|---|
-| [mimo-v2.5-pro](mimo-v2.5-pro.md) | 1419 | $0.0099 | `api.khaix.net` |
-| [mimo-v2.5](mimo-v2.5.md) | 814 | $4e-06 | `ai.hebox.net` |
-| [mimo-v2-pro](mimo-v2-pro.md) | 297 | $0.075 | `api.wuhen-ai.com` |
-| [mimo-v2.6-flash](mimo-v2.6-flash.md) | 251 | $0.02 | `rapidapi.cc` |
-| [mimo-v2-omni](mimo-v2-omni.md) | 222 | $0.14 | `feiniu-ai.xyz` |
-| [mimo-v2.6-pro](mimo-v2.6-pro.md) | 207 | $0.0015 | `sub2api.xybbz.xyz` |
-| [mimo-v2.6-pro-ultraspeed](mimo-v2.6-pro-ultraspeed.md) | 21 | $1 | `a6api.com` |
-| [mimo-v2.5-tts](mimo-v2.5-tts.md) | 16 | $0.4 | `ai-api.loft.games` |
-| [mimo-v2.5-tts-voiceclone](mimo-v2.5-tts-voiceclone.md) | 12 | $0.4 | `ai-api.loft.games` |
-| [mimo-v2.5-tts-voicedesign](mimo-v2.5-tts-voicedesign.md) | 12 | $0.4 | `ai-api.loft.games` |
-| [mimo-v2-flash](mimo-v2-flash.md) | 12 | $0.0966 | `aiberm.com` |
-| [mimo-v2.5-asr](mimo-v2.5-asr.md) | 10 | $0.014 | `newapi.makelove.cloud` |
+<a id="gemini"></a>
+## Gemini（93）
 
-## Claude
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [gemini-3.8-flash](gemini-3.8-flash.md) | 980 | $0.375 |
+| [gemini-3.1-pro-preview](gemini-3.1-pro-preview.md) | 807 | $1.7 |
+| [gemini-3.6-flash](gemini-3.6-flash.md) | 793 | $0.75 |
+| [gemini-3.7-flash](gemini-3.7-flash.md) | 793 | $0.45 |
+| [gemini-3.5-flash](gemini-3.5-flash.md) | 755 | $1.2 |
+| [gemini-4-argon](gemini-4-argon.md) | 649 | $1 |
+| [gemini-2.5-flash](gemini-2.5-flash.md) | 637 | $0.24 |
+| [gemini-3-flash-preview](gemini-3-flash-preview.md) | 629 | $0.5 |
+| [gemini-3.1-flash-lite](gemini-3.1-flash-lite.md) | 597 | $0.175 |
+| [gemini-3.1-flash-image](gemini-3.1-flash-image.md) | 559 | $0.15/次 |
+| [gemini-3.1-flash-image-preview](gemini-3.1-flash-image-preview.md) | 557 | $0.13/次 |
+| [gemini-2.5-pro](gemini-2.5-pro.md) | 549 | $1.25 |
+| [gemini-3-pro-image-preview](gemini-3-pro-image-preview.md) | 544 | $0.2/次 |
+| [gemini-2.5-flash-lite](gemini-2.5-flash-lite.md) | 474 | $0.1 |
+| [gemini-3.5-flash-lite](gemini-3.5-flash-lite.md) | 448 | $0.3 |
+| [gemini-3-pro-preview](gemini-3-pro-preview.md) | 429 | $2 |
+| [gemini-3-flash](gemini-3-flash.md) | 422 | $0.2 |
+| [gemini-3.1-pro](gemini-3.1-pro.md) | 397 | $0.8 |
+| [gemini-3-pro-image](gemini-3-pro-image.md) | 384 | $0.2/次 |
+| [gemini-3.1-flash-lite-preview](gemini-3.1-flash-lite-preview.md) | 369 | $0.25 |
+| [gemini-2.5-flash-image](gemini-2.5-flash-image.md) | 340 | $0.1/次 |
+| [gemini-nano-banana-2.1](gemini-nano-banana-2.1.md) | 260 | $0.1/次 |
+| [gemini-3.1-flash-lite-image](gemini-3.1-flash-lite-image.md) | 259 | $0.14/次 |
+| [gemini-embedding-001](gemini-embedding-001.md) | 173 | $0.2625 |
+| [nano-banana-2](nano-banana-2.md) | 167 | $0.15/次 |
+| [nano-banana-pro](nano-banana-pro.md) | 167 | $0.18/次 |
+| [gemini-flash-lite](gemini-flash-lite.md) | 159 | $0.36 |
+| [gemini-3.1-flash-tts-preview](gemini-3.1-flash-tts-preview.md) | 158 | $2.35 |
+| [gemini-pro](gemini-pro.md) | 156 | $3.50625 |
+| [gemini-3.1-pro-preview-customtools](gemini-3.1-pro-preview-customtools.md) | 156 | $5.9 |
+| [gemini-flash](gemini-flash.md) | 154 | $1.05 |
+| [gemini-2.5-flash-preview-tts](gemini-2.5-flash-preview-tts.md) | 145 | $1.2 |
+| [gemini-2.5-pro-preview-tts](gemini-2.5-pro-preview-tts.md) | 139 | $2.4 |
+| [gemini-2.0-flash-lite](gemini-2.0-flash-lite.md) | 113 | $0.27 |
+| [gemini-embedding-2-preview](gemini-embedding-2-preview.md) | 108 | $0.3 |
+| [gemini-2.5-flash-image-preview](gemini-2.5-flash-image-preview.md) | 95 | $0.1/次 |
+| [gemini-2.5-flash-lite-preview-09](gemini-2.5-flash-lite-preview-09.md) | 95 | $0.6 |
+| [gemini-3.8-flash-tiered](gemini-3.8-flash-tiered.md) | 90 | $0.225 |
+| [gemini-3.6-flash-tiered](gemini-3.6-flash-tiered.md) | 86 | $0.3 |
+| [gemini-3-pro](gemini-3-pro.md) | 84 | $1.6 |
+| [nano-banana](nano-banana.md) | 71 | $0.1/次 |
+| [gemini-3.7-flash-tiered](gemini-3.7-flash-tiered.md) | 69 | $0.225 |
+| [gemini-2.0-flash](gemini-2.0-flash.md) | 62 | $0.18 |
+| [gemini-3.8-flash-tts](gemini-3.8-flash-tts.md) | 61 | $0.26471 |
+| [gemini-2.5-pro-preview](gemini-2.5-pro-preview.md) | 59 | $1.25 |
+| [gemini-pro-agent](gemini-pro-agent.md) | 58 | $1 |
+| [gemini-3.5-flash-extra](gemini-3.5-flash-extra.md) | 58 | $0.51 |
+| [veo-3-1](veo-3-1.md) | 52 | $0.220585/次 |
+| [gemini-2.5-pro-thinking-*](gemini-2.5-pro-thinking-.md) | 52 | $2.25 |
+| [nano-banana-2.1](nano-banana-2.1.md) | 50 | $0.1/次 |
+| [gemini-3-flash-agent](gemini-3-flash-agent.md) | 50 | $0.19 |
+| [veo-3-1-fast](veo-3-1-fast.md) | 49 | $0.165439/次 |
+| [gemini-2.5-flash-preview](gemini-2.5-flash-preview.md) | 41 | $0.3 |
+| [gemini-embedding-2](gemini-embedding-2.md) | 41 | $0.25 |
+| [gemini-omni-flash-preview](gemini-omni-flash-preview.md) | 38 | $2.25 |
+| [gemini-2.5-flash-preview-09](gemini-2.5-flash-preview-09.md) | 37 | $0.3 |
+| [veo-3.1-fast-generate-preview](veo-3.1-fast-generate-preview.md) | 35 | $0.285/次 |
+| [veo-3.1-generate-preview](veo-3.1-generate-preview.md) | 34 | $0.5/次 |
+| [veo-3-1-components](veo-3-1-components.md) | 34 | $0.186394/次 |
+| [gemini-2.5-flash-thinking-*](gemini-2.5-flash-thinking-.md) | 34 | $0.375 |
+| [veo3.1](veo3.1.md) | 33 | $1.17/次 |
+| [gemini-robotics-er-1.5-preview](gemini-robotics-er-1.5-preview.md) | 32 | $0.3 |
+| [gemini-4-barium](gemini-4-barium.md) | 30 | $1 |
+| [veo3.1-fast](veo3.1-fast.md) | 28 | $0.8/次 |
+| [gemini-3-flash-preview-thinking-*](gemini-3-flash-preview-thinking-.md) | 28 | $1 |
+| [gemini-2.0-flash-001](gemini-2.0-flash-001.md) | 27 | $0.15 |
+| [gemini-2.5-flash-lite-preview](gemini-2.5-flash-lite-preview.md) | 27 | $0.175 |
+| [nano-banana2](nano-banana2.md) | 27 | $0.09/次 |
+| [gemini-3.1-flash-image-preview-c](gemini-3.1-flash-image-preview-c.md) | 27 | $0.15/次 |
+| [gemini-2.5-pro-exp](gemini-2.5-pro-exp.md) | 26 | $2.5 |
+| [gemini-2.0-flash-exp](gemini-2.0-flash-exp.md) | 25 | $1.2 |
+| [gemini-3.8-flash-lite-tts](gemini-3.8-flash-lite-tts.md) | 25 | $0.3 |
+| [gemini-robotics-er-1.6-preview](gemini-robotics-er-1.6-preview.md) | 25 | $1 |
+| [gemini-3.1-flash](gemini-3.1-flash.md) | 24 | $0.2 |
+| [gemini-2.0-flash-thinking-exp](gemini-2.0-flash-thinking-exp.md) | 24 | $1.5 |
+| [veo-3.1-fast](veo-3.1-fast.md) | 24 | $0.3/次 |
+| [gemini-3.8-live](gemini-3.8-live.md) | 24 | $0.9375 |
+| [gemini-3-pro-image-preview-c](gemini-3-pro-image-preview-c.md) | 24 | $0.2/次 |
+| [gemini-2.5-computer-use-preview-10](gemini-2.5-computer-use-preview-10.md) | 23 | $1.25 |
+| [gemini-flash-lite-latest-thinking-*](gemini-flash-lite-latest-thinking-.md) | 23 | $0.29 |
+| [veo3.1-pro](veo3.1-pro.md) | 23 | $5.2/次 |
+| [gemini-1.5-flash](gemini-1.5-flash.md) | 23 | $0.24 |
+| [gemini-exp](gemini-exp.md) | 22 | $2.145 |
+| [gemini-3-pro-preview-thinking-*](gemini-3-pro-preview-thinking-.md) | 22 | $4 |
+| [gemini-1.5-pro](gemini-1.5-pro.md) | 22 | $2.5 |
+| [gemini-flash-latest-thinking-*](gemini-flash-latest-thinking-.md) | 22 | $1.275 |
+| [gemini-2.5-flash-native-audio](gemini-2.5-flash-native-audio.md) | 21 | $0.175 |
+| [gemini-pro-latest-thinking-*](gemini-pro-latest-thinking-.md) | 21 | $3.8 |
+| [gemini-2.5-flash-native-audio-preview-09](gemini-2.5-flash-native-audio-preview-09.md) | 20 | $0.175 |
+| [veo-3.1](veo-3.1.md) | 20 | $0.447917/次 |
+| [veo3.1-components](veo3.1-components.md) | 20 | $1.185/次 |
+| [nano-banana-2-lite](nano-banana-2-lite.md) | 20 | $0.08/次 |
+| [gemini-2.0-pro-exp](gemini-2.0-pro-exp.md) | 20 | $2.65 |
 
-| 模型 | 家数 | 最低价 | 最低站 |
-|---|---|---|---|
-| [claude-sonnet-5](claude-sonnet-5.md) | 4996 | $0.02 | `u-ai.me` |
-| [claude-fable-5](claude-fable-5.md) | 4934 | $0.10411 | `www.synthapi.asia` |
-| [claude-opus-4-8](claude-opus-4-8.md) | 4923 | $0.05 | `u-ai.me` |
-| [claude-opus-5](claude-opus-5.md) | 4858 | $0.05 | `u-ai.me` |
-| [claude-opus-5-5](claude-opus-5-5.md) | 4773 | $0.04 | `u-ai.me` |
-| [claude-opus-4-6](claude-opus-4-6.md) | 4698 | $0.038462 | `api.robinsonai.shop` |
-| [claude-sonnet-4-6](claude-sonnet-4-6.md) | 4445 | $0.03 | `u-ai.me` |
-| [claude-fable-5-1](claude-fable-5-1.md) | 4252 | $0.10411 | `www.synthapi.asia` |
-| [claude-sonnet-5-5](claude-sonnet-5-5.md) | 3898 | $0.02 | `u-ai.me` |
-| [claude-opus-4-7](claude-opus-4-7.md) | 3038 | $0.05 | `u-ai.me` |
-| [claude-haiku-5-5](claude-haiku-5-5.md) | 2391 | $0.008 | `api.socode.cc` |
-| [claude-haiku-4.5](claude-haiku-4.5.md) | 2290 | $0.0875 | `cn.fluxtoken.ai` |
-| [claude-haiku-4-5-20251001](claude-haiku-4-5-20251001.md) | 2279 | $0.010274 | `pianyitoken.top` |
-| [claude-opus-5.5](claude-opus-5.5.md) | 2114 | $0.191781 | `pianyitoken.top` |
-| [claude-haiku-4-5](claude-haiku-4-5.md) | 1964 | $0.022 | `www.newtonrouter.com` |
-| [claude-sonnet-5.5](claude-sonnet-5.5.md) | 1876 | $0.3 | `sub2.claudefsyk.com` |
-| [claude-opus-4-5-20251101](claude-opus-4-5-20251101.md) | 1852 | $0.2 | `77code.fun` |
-| [claude-sonnet-4-5-20250929](claude-sonnet-4-5-20250929.md) | 1815 | $0.12 | `77code.fun` |
-| [claude-sonnet-4-5](claude-sonnet-4-5.md) | 1329 | $0.12 | `apicangku.icu` |
-| [claude-opus-4-5](claude-opus-4-5.md) | 1189 | $0.2 | `apicangku.icu` |
-| [claude-sonnet-4-20250514](claude-sonnet-4-20250514.md) | 1084 | $0.27 | `api-sub.ip233.com` |
-| [claude-opus-4-1-20250805](claude-opus-4-1-20250805.md) | 964 | $0.8 | `1024token.xyz` |
-| [claude-opus-4-20250514](claude-opus-4-20250514.md) | 955 | $0.8 | `1024token.xyz` |
-| [claude-3-7-sonnet-20250219](claude-3-7-sonnet-20250219.md) | 490 | $0.66 | `sub2api.hyl2api.com` |
-| [claude-3-5-haiku-20241022](claude-3-5-haiku-20241022.md) | 490 | $0.2 | `kfcv50.link` |
-| [claude-3-5-sonnet-20241022](claude-3-5-sonnet-20241022.md) | 484 | $0.45 | `claudeagent.com.cn` |
-| [claude-3-haiku-20240307](claude-3-haiku-20240307.md) | 484 | $0.055 | `sub2api.hyl2api.com` |
-| [claude-3-5-sonnet-20240620](claude-3-5-sonnet-20240620.md) | 482 | $0.75 | `kfcv50.link` |
-| [claude-opus-4-6-max](claude-opus-4-6-max.md) | 470 | $1 | `1xm.ai` |
-| [claude-opus-4-7-max](claude-opus-4-7-max.md) | 465 | $0.3 | `00ccc.cn` |
-| [claude-3-opus-20240229](claude-3-opus-20240229.md) | 464 | $3.3 | `sub2api.hyl2api.com` |
-| [claude-3-sonnet-20240229](claude-3-sonnet-20240229.md) | 460 | $1.5 | `newapi.link` |
-| [claude-opus-4-8-max](claude-opus-4-8-max.md) | 459 | $0.3 | `00ccc.cn` |
-| [claude-opus-4-7-x](claude-opus-4-7-x.md) | 459 | $1.25 | `ssnaicloud.com` |
-| [claude-opus-4-8-x](claude-opus-4-8-x.md) | 451 | $1.25 | `ssnaicloud.com` |
-| [claude-opus-4.8](claude-opus-4.8.md) | 164 | $0.09589 | `pianyitoken.top` |
-| [claude-opus-4-6-thimking](claude-opus-4-6-thimking.md) | 134 | $75 | `codeyy.top` |
-| [claude0sonnet-4-5](claude0sonnet-4-5.md) | 134 | $112.5 | `codeyy.top` |
-| [claude-fable-5.1](claude-fable-5.1.md) | 54 | $0.9 | `nova.vcrauo.com` |
-| [claude-opus-4.7](claude-opus-4.7.md) | 52 | $1 | `api.aiai.bar` |
-| [claude-opus-4.6](claude-opus-4.6.md) | 50 | $0.5 | `aigw.store` |
-| [claude-opus-4.5](claude-opus-4.5.md) | 44 | $0.5 | `aigw.store` |
-| [claude-sonnet-4.5](claude-sonnet-4.5.md) | 41 | $0.36 | `api.988665.xyz` |
-| [claude-sonnet-4.6](claude-sonnet-4.6.md) | 39 | $0.6 | `api.aiai.bar` |
-| [claude-sonnet-4](claude-sonnet-4.md) | 32 | $0.36 | `api.988665.xyz` |
-| [claude-opus-4-1](claude-opus-4-1.md) | 17 | $1.2 | `api.socode.cc` |
-| [claude-opus-4-6-20260205](claude-opus-4-6-20260205.md) | 10 | $0.25 | `www.bb-api.com` |
-| [claude-opus-4-7-20260416](claude-opus-4-7-20260416.md) | 9 | $0.25 | `www.bb-api.com` |
-| [claude-mythos-5](claude-mythos-5.md) | 8 | $2.2 | `sub2api.hyl2api.com` |
-| [claude-haiku-5.5](claude-haiku-5.5.md) | 8 | $0.07 | `api.aiai.bar` |
+<a id="grok"></a>
+## Grok（45）
 
-## OpenAI / GPT
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [grok-4.5](grok-4.5.md) | 1083 | $0.5 |
+| [grok-4.6](grok-4.6.md) | 1028 | $0.4 |
+| [grok-4.7](grok-4.7.md) | 866 | $0.4 |
+| [grok-4.3](grok-4.3.md) | 399 | $0.75 |
+| [grok-imagine-image](grok-imagine-image.md) | 355 | $0.06/次 |
+| [grok-build-0.1](grok-build-0.1.md) | 304 | $0.5 |
+| [grok-imagine-image-2.0](grok-imagine-image-2.0.md) | 273 | $0.059925/次 |
+| [grok-imagine-video](grok-imagine-video.md) | 246 | $0.06/次 |
+| [grok-imagine-image-quality](grok-imagine-image-quality.md) | 233 | $0.0597/次 |
+| [grok-4.20](grok-4.20.md) | 191 | $0.875 |
+| [grok-4.20-0309-non](grok-4.20-0309-non.md) | 185 | $0.6875 |
+| [grok-imagine-video-1.5](grok-imagine-video-1.5.md) | 180 | $0.14/次 |
+| [grok-4](grok-4.md) | 160 | $2.7 |
+| [grok-imagine-video-1.5-preview](grok-imagine-video-1.5-preview.md) | 156 | $0.06/次 |
+| [grok-4.20-multi-agent](grok-4.20-multi-agent.md) | 154 | $0.6125 |
+| [grok-4.7-build-fast](grok-4.7-build-fast.md) | 124 | $0.4 |
+| [grok-3](grok-3.md) | 114 | $3 |
+| [grok-3-mini](grok-3-mini.md) | 111 | $0.3 |
+| [grok-composer-2.5-fast](grok-composer-2.5-fast.md) | 110 | $0.3 |
+| [grok-4-fast](grok-4-fast.md) | 100 | $0.2 |
+| [grok-4-1-fast](grok-4-1-fast.md) | 98 | $0.2 |
+| [grok-4-20-non](grok-4-20-non.md) | 94 | $12 |
+| [grok-4-1-fast-non](grok-4-1-fast-non.md) | 92 | $0.2 |
+| [grok-4-20](grok-4-20.md) | 91 | $12 |
+| [grok-4-fast-non](grok-4-fast-non.md) | 90 | $0.3 |
+| [grok-imagine-image-lite](grok-imagine-image-lite.md) | 50 | $0.06/次 |
+| [grok](grok.md) | 47 | $0.7 |
+| [grok-imagine](grok-imagine.md) | 45 | $0.045/次 |
+| [grok-4.1](grok-4.1.md) | 45 | $2 |
+| [grok-4.2](grok-4.2.md) | 43 | $2.5 |
+| [grok-build](grok-build.md) | 43 | $0.375 |
+| [grok-1.5-video](grok-1.5-video.md) | 36 | $0.4853/次 |
+| [grok-code-fast-1](grok-code-fast-1.md) | 36 | $0.3 |
+| [grok-3-mini-fast](grok-3-mini-fast.md) | 31 | $0.6 |
+| [grok-chat-fast](grok-chat-fast.md) | 29 | $0.5 |
+| [grok-imagine-image-pro](grok-imagine-image-pro.md) | 27 | $0.3/次 |
+| [grok-imagine-image-edit](grok-imagine-image-edit.md) | 27 | $0.06/次 |
+| [grok-video-1.5](grok-video-1.5.md) | 27 | $1.66/次 |
+| [grok-composer](grok-composer.md) | 27 | $1.575 |
+| [grok-3-deepsearch](grok-3-deepsearch.md) | 25 | $2.6 |
+| [grok-4.20-beta](grok-4.20-beta.md) | 24 | $2.98826 |
+| [grok-4.20-non](grok-4.20-non.md) | 23 | $0.4375 |
+| [grok-4.20-fast](grok-4.20-fast.md) | 23 | $1.25 |
+| [grok-3-reasoner](grok-3-reasoner.md) | 22 | $2.8 |
+| [grok-beta](grok-beta.md) | 21 | $5 |
 
-| 模型 | 家数 | 最低价 | 最低站 |
-|---|---|---|---|
-| [gpt-5.6-sol](gpt-5.6-sol.md) | 5483 | $0.001088 | `www.api522.pro` |
-| [gpt-6-astra](gpt-6-astra.md) | 5474 | $0.004002 | `www.api522.pro` |
-| [gpt-6.1-sol](gpt-6.1-sol.md) | 5395 | $0.000773 | `www.api522.pro` |
-| [gpt-6-sol](gpt-6-sol.md) | 5194 | $0.000773 | `www.api522.pro` |
-| [gpt-5.6-terra](gpt-5.6-terra.md) | 5075 | $0.000431 | `www.api522.pro` |
-| [gpt-5.5](gpt-5.5.md) | 4468 | $0.001225 | `www.api522.pro` |
-| [gpt-5.6-luna](gpt-5.6-luna.md) | 4413 | $0.0002 | `www.dddai.dev` |
-| [gpt-6-luna](gpt-6-luna.md) | 3279 | $0.0001 | `www.dddai.dev` |
-| [gpt-image-1.5](gpt-image-1.5.md) | 2005 | $0.07 | `bluefuture.studio` |
-| [gpt-5.4](gpt-5.4.md) | 1930 | $0.025685 | `api.aiyxgaw.com` |
-| [gpt-oss-120b](gpt-oss-120b.md) | 1926 | $0.009 | `yunwu.live` |
-| [gpt-sovits-v4](gpt-sovits-v4.md) | 1850 | $4 | `api.2api.shenlanqaq.com` |
-| [gpt-5.4-mini](gpt-5.4-mini.md) | 1625 | $0.009247 | `www.synthapi.asia` |
-| [gpt-5.6](gpt-5.6.md) | 1145 | $0.033 | `ai.goodfly.space` |
-| [gpt-5.3-codex-spark](gpt-5.3-codex-spark.md) | 865 | $0.07 | `www.deponia.me` |
-| [gpt-5.2](gpt-5.2.md) | 776 | $0.0375 | `ai.wxdbbs.cn` |
-| [gpt-5.5-pro](gpt-5.5-pro.md) | 767 | $1.95 | `vip.tyasai.com` |
-| [gpt-5.3-codex](gpt-5.3-codex.md) | 760 | $0.0875 | `super.aresaicode.cn` |
-| [gpt-5.2-2025-12-11](gpt-5.2-2025-12-11.md) | 655 | $0.11375 | `vip.tyasai.com` |
-| [gpt-image-2](gpt-image-2.md) | 617 | $0.06 | `nb.deepsb.com` |
-| [gpt-image-1](gpt-image-1.md) | 579 | $0.22 | `relayrouter.ai` |
-| [gpt-5.1](gpt-5.1.md) | 572 | $0.055 | `relayrouter.ai` |
-| [gpt-5.4-nano](gpt-5.4-nano.md) | 569 | $0.0088 | `relayrouter.ai` |
-| [gpt-5.4-pro](gpt-5.4-pro.md) | 556 | $0.1625 | `vip.tyasai.com` |
-| [gpt-5.2-chat-latest](gpt-5.2-chat-latest.md) | 550 | $0.077 | `relayrouter.ai` |
-| [gpt-5.2-pro](gpt-5.2-pro.md) | 545 | $0.4 | `gagapianyi.com` |
-| [gpt-4o-audio-preview](gpt-4o-audio-preview.md) | 521 | $0.2 | `www.freegiand.com` |
-| [gpt-5.4-2026-03-05](gpt-5.4-2026-03-05.md) | 519 | $0.1625 | `vip.tyasai.com` |
-| [gpt-4o-realtime-preview](gpt-4o-realtime-preview.md) | 509 | $0.1575 | `www.zhangsan.yun` |
-| [gpt-6](gpt-6.md) | 507 | $0.287916 | `corealgos.com` |
-| [gpt-5.2-pro-2025-12-11](gpt-5.2-pro-2025-12-11.md) | 498 | $0.7 | `api.onefaka.com` |
-| [gpt-5.5-openai-compact](gpt-5.5-openai-compact.md) | 472 | $0.054795 | `www.synthapi.asia` |
-| [gpt-5.5-x](gpt-5.5-x.md) | 464 | $0.498525 | `aiapi.world` |
-| [gpt-5.4-x](gpt-5.4-x.md) | 455 | $0.30345 | `aiapi.world` |
-| [gpt-5.2-codex](gpt-5.2-codex.md) | 425 | $0.175 | `api.socode.cc` |
-| [gpt-image-2.5-sunburst](gpt-image-2.5-sunburst.md) | 369 | $0.06 | `nb.deepsb.com` |
-| [gpt-image-2.5-flare](gpt-image-2.5-flare.md) | 367 | $0.06 | `nb.deepsb.com` |
-| [o1](o1.md) | 274 | $0.66 | `relayrouter.ai` |
-| [gpt-3.5-turbo](gpt-3.5-turbo.md) | 262 | $0.04 | `cn.ai-api.loft.games` |
-| [gpt-5.4-openai-compact](gpt-5.4-openai-compact.md) | 219 | $0.027397 | `www.synthapi.asia` |
-| [gpt-5.3-codex-openai-compact](gpt-5.3-codex-openai-compact.md) | 149 | $0.21 | `www.largechestnut.com` |
-| [gpt-4o](gpt-4o.md) | 144 | $0.11 | `relayrouter.ai` |
-| [gpt-5.4-mini-openai-compact](gpt-5.4-mini-openai-compact.md) | 139 | $0.225 | `api.bawanglong.xyz` |
-| [gpt-5](gpt-5.md) | 138 | $0.055 | `relayrouter.ai` |
-| [gpt-4.1](gpt-4.1.md) | 129 | $0.088 | `relayrouter.ai` |
-| [gpt-4o-mini](gpt-4o-mini.md) | 129 | $0.0066 | `relayrouter.ai` |
-| [gpt-5-mini](gpt-5-mini.md) | 127 | $0.011 | `relayrouter.ai` |
-| [gpt-4.1-mini](gpt-4.1-mini.md) | 124 | $0.0176 | `relayrouter.ai` |
-| [gpt-5-nano](gpt-5-nano.md) | 117 | $0.0022 | `relayrouter.ai` |
-| [gpt-4.1-nano](gpt-4.1-nano.md) | 112 | $0.0044 | `relayrouter.ai` |
-| [o3](o3.md) | 94 | $0.088 | `relayrouter.ai` |
-| [o4-mini](o4-mini.md) | 92 | $0.0484 | `relayrouter.ai` |
-| [o3-mini](o3-mini.md) | 91 | $0.0484 | `relayrouter.ai` |
-| [gpt-5-codex](gpt-5-codex.md) | 89 | $0.0107 | `mie233.cc` |
-| [gpt-5-pro](gpt-5-pro.md) | 89 | $0.66 | `relayrouter.ai` |
-| [gpt-4o-2024-11-20](gpt-4o-2024-11-20.md) | 88 | $0.11 | `relayrouter.ai` |
-| [gpt-4o-2024-08-06](gpt-4o-2024-08-06.md) | 87 | $0.11 | `relayrouter.ai` |
-| [gpt-5.1-codex](gpt-5.1-codex.md) | 86 | $0.015 | `www.zhangsan.yun` |
-| [gpt-4o-2024-05-13](gpt-4o-2024-05-13.md) | 86 | $0.2 | `agent.tokensea.ai` |
-| [gpt-5-mini-2025-08-07](gpt-5-mini-2025-08-07.md) | 85 | $0.011 | `relayrouter.ai` |
-| [gpt-4o-mini-2024-07-18](gpt-4o-mini-2024-07-18.md) | 85 | $0.0066 | `relayrouter.ai` |
-| [gpt-5-nano-2025-08-07](gpt-5-nano-2025-08-07.md) | 83 | $0.0022 | `relayrouter.ai` |
-| [gpt-4.1-mini-2025-04-14](gpt-4.1-mini-2025-04-14.md) | 83 | $0.0176 | `relayrouter.ai` |
-| [gpt-4.1-nano-2025-04-14](gpt-4.1-nano-2025-04-14.md) | 82 | $0.0044 | `relayrouter.ai` |
-| [gpt-4.1-2025-04-14](gpt-4.1-2025-04-14.md) | 82 | $0.088 | `relayrouter.ai` |
-| [gpt-5-2025-08-07](gpt-5-2025-08-07.md) | 82 | $0.055 | `relayrouter.ai` |
-| [gpt-5.1-codex-mini](gpt-5.1-codex-mini.md) | 82 | $0.025 | `api.socode.cc` |
-| [gpt-4-turbo](gpt-4-turbo.md) | 77 | $0.44 | `relayrouter.ai` |
-| [o1-2024-12-17](o1-2024-12-17.md) | 77 | $0.66 | `relayrouter.ai` |
-| [o3-2025-04-16](o3-2025-04-16.md) | 76 | $0.088 | `relayrouter.ai` |
-| [gpt-5.1-2025-11-13](gpt-5.1-2025-11-13.md) | 75 | $0.055 | `relayrouter.ai` |
-| [gpt-5.1-chat-latest](gpt-5.1-chat-latest.md) | 74 | $0.055 | `relayrouter.ai` |
-| [o3-mini-2025-01-31](o3-mini-2025-01-31.md) | 74 | $0.0484 | `relayrouter.ai` |
-| [o4-mini-2025-04-16](o4-mini-2025-04-16.md) | 74 | $0.0484 | `relayrouter.ai` |
-| [gpt-4-turbo-2024-04-09](gpt-4-turbo-2024-04-09.md) | 73 | $0.44 | `relayrouter.ai` |
-| [gpt-5-chat-latest](gpt-5-chat-latest.md) | 73 | $0.055 | `relayrouter.ai` |
-| [gpt-3.5-turbo-1106](gpt-3.5-turbo-1106.md) | 71 | $0.1 | `api.socode.cc` |
-| [gpt-image-2.5](gpt-image-2.5.md) | 69 | $0.35 | `llm-coding.space` |
-| [gpt-5.4-mini-2026-03-17](gpt-5.4-mini-2026-03-17.md) | 69 | $0.033 | `relayrouter.ai` |
-| [gpt-4o-transcribe](gpt-4o-transcribe.md) | 67 | $0.11 | `relayrouter.ai` |
-| [gpt-4](gpt-4.md) | 67 | $1.32 | `relayrouter.ai` |
-| [gpt-image-1-mini](gpt-image-1-mini.md) | 66 | $0.088 | `relayrouter.ai` |
-| [gpt-5.4-nano-2026-03-17](gpt-5.4-nano-2026-03-17.md) | 66 | $0.0088 | `relayrouter.ai` |
-| [gpt-5.4-pro-2026-03-05](gpt-5.4-pro-2026-03-05.md) | 65 | $3 | `api.socode.cc` |
-| [gpt-5.1-codex-max](gpt-5.1-codex-max.md) | 63 | $0.125 | `api.socode.cc` |
-| [o3-pro](o3-pro.md) | 63 | $0.88 | `relayrouter.ai` |
-| [gpt-4o-audio-preview-2024-12-17](gpt-4o-audio-preview-2024-12-17.md) | 62 | $0.10912 | `relayrouter.ai` |
-| [gpt-3.5-turbo-16k](gpt-3.5-turbo-16k.md) | 61 | $0.3 | `api.socode.cc` |
-| [gpt-4-1106-preview](gpt-4-1106-preview.md) | 61 | $0.44 | `relayrouter.ai` |
-| [gpt-5.6-sol-openai-compact](gpt-5.6-sol-openai-compact.md) | 60 | $0.24 | `aigw.store` |
-| [gpt-4o-mini-transcribe](gpt-4o-mini-transcribe.md) | 60 | $0.066 | `relayrouter.ai` |
-| [gpt-audio-2025-08-28](gpt-audio-2025-08-28.md) | 58 | $0.11 | `relayrouter.ai` |
-| [o3-pro-2025-06-10](o3-pro-2025-06-10.md) | 58 | $0.88 | `relayrouter.ai` |
-| [gpt-3.5-turbo-0125](gpt-3.5-turbo-0125.md) | 56 | $0.05 | `api.socode.cc` |
-| [gpt-5.3-chat-latest](gpt-5.3-chat-latest.md) | 52 | $0.175 | `api.socode.cc` |
-| [gpt-chat-latest](gpt-chat-latest.md) | 49 | $0.22 | `relayrouter.ai` |
-| [gpt-3.5-turbo-0613](gpt-3.5-turbo-0613.md) | 48 | $0.225 | `www.zhangsan.yun` |
-| [gpt-5-search-api](gpt-5-search-api.md) | 48 | $0.125 | `api.socode.cc` |
-| [gpt-5-search-api-2025-10-14](gpt-5-search-api-2025-10-14.md) | 48 | $0.125 | `api.socode.cc` |
-| [gpt-4-0613](gpt-4-0613.md) | 44 | $3 | `api.socode.cc` |
-| [gpt-realtime-2025-08-28](gpt-realtime-2025-08-28.md) | 42 | $0.4 | `api.socode.cc` |
-| [gpt-5-pro-2025-10-06](gpt-5-pro-2025-10-06.md) | 42 | $1.5 | `api.socode.cc` |
-| [gpt-reserve](gpt-reserve.md) | 41 | $0.033333 | `cdn.api.inxk.com` |
-| [gpt-4-turbo-preview](gpt-4-turbo-preview.md) | 40 | $1 | `api.socode.cc` |
-| [gpt-4o-mini-search-preview](gpt-4o-mini-search-preview.md) | 40 | $0.015 | `api.socode.cc` |
-| [gpt-4o-search-preview](gpt-4o-search-preview.md) | 39 | $0.25 | `api.socode.cc` |
-| [gpt-4o-search-preview-2025-03-11](gpt-4o-search-preview-2025-03-11.md) | 39 | $0.25 | `api.socode.cc` |
-| [gpt-4o-mini-search-preview-2025-03-11](gpt-4o-mini-search-preview-2025-03-11.md) | 39 | $0.015 | `api.socode.cc` |
-| [gpt-4o-mini-audio-preview](gpt-4o-mini-audio-preview.md) | 38 | $0.015 | `api.socode.cc` |
-| [gpt-5-chat](gpt-5-chat.md) | 38 | $0.125 | `api.socode.cc` |
-| [o1-mini](o1-mini.md) | 37 | $0.5 | `cn.api.zyai.online` |
-| [gpt-5.2-chat](gpt-5.2-chat.md) | 37 | $0.525 | `www.koalaapi.com` |
-| [gpt-4o-mini-audio-preview-2024-12-17](gpt-4o-mini-audio-preview-2024-12-17.md) | 36 | $0.015 | `api.socode.cc` |
-| [o1-pro](o1-pro.md) | 36 | $15 | `api.socode.cc` |
-| [o1-pro-2025-03-19](o1-pro-2025-03-19.md) | 36 | $15 | `api.socode.cc` |
-| [gpt-5.6-terra-openai-compact](gpt-5.6-terra-openai-compact.md) | 35 | $0.2 | `momoapi.shop` |
-| [gpt-image-2-4k](gpt-image-2-4k.md) | 35 | $0.9 | `api.zhehentiaohe.cn` |
-| [gpt-4-0125-preview](gpt-4-0125-preview.md) | 34 | $1 | `api.socode.cc` |
-| [gpt-4o-mini-realtime-preview](gpt-4o-mini-realtime-preview.md) | 34 | $0.06 | `api.socode.cc` |
-| [gpt-realtime](gpt-realtime.md) | 34 | $0.4 | `api.socode.cc` |
-| [gpt-4o-realtime-preview-2024-12-17](gpt-4o-realtime-preview-2024-12-17.md) | 33 | $0.5 | `api.socode.cc` |
-| [o1-mini-2024-09-12](o1-mini-2024-09-12.md) | 33 | $0.5 | `cn.api.zyai.online` |
-| [gpt-3.5-turbo-16k-0613](gpt-3.5-turbo-16k-0613.md) | 32 | $0.45 | `www.zhangsan.yun` |
-| [gpt-4o-mini-realtime-preview-2024-12-17](gpt-4o-mini-realtime-preview-2024-12-17.md) | 32 | $0.06 | `api.socode.cc` |
-| [o1-preview-2024-09-12](o1-preview-2024-09-12.md) | 32 | $7.2 | `go.sbgpt.site` |
-| [o1-preview](o1-preview.md) | 32 | $7.2 | `go.sbgpt.site` |
-| [gpt-4o-mini-tts](gpt-4o-mini-tts.md) | 31 | $0.25 | `api.socode.cc` |
-| [gpt-audio](gpt-audio.md) | 30 | $0.25 | `api.socode.cc` |
-| [gpt-audio-1.5](gpt-audio-1.5.md) | 29 | $0.25 | `api.socode.cc` |
-| [gpt-realtime-1.5](gpt-realtime-1.5.md) | 29 | $0.4 | `api.socode.cc` |
-| [gpt-5.5-2026-04-23](gpt-5.5-2026-04-23.md) | 29 | $0.5 | `api.socode.cc` |
-| [gpt-5.1-chat](gpt-5.1-chat.md) | 29 | $0.625 | `cn.api.zyai.online` |
-| [gpt-image-2.5-sunburst-4k](gpt-image-2.5-sunburst-4k.md) | 29 | $0.9 | `api.zhehentiaohe.cn` |
-| [gpt-5.3-chat](gpt-5.3-chat.md) | 28 | $0.875 | `kfcv50.link` |
-| [gpt-image-2.5-flare-4k](gpt-image-2.5-flare-4k.md) | 28 | $0.9 | `api.zhehentiaohe.cn` |
-| [gpt-oss-20b](gpt-oss-20b.md) | 27 | $0.006 | `yunwu.live` |
-| [gpt-4-vision-preview](gpt-4-vision-preview.md) | 26 | $1.5 | `www.zhangsan.yun` |
-| [gpt-4o-realtime-preview-2024-10-01](gpt-4o-realtime-preview-2024-10-01.md) | 26 | $0.75 | `www.zhangsan.yun` |
-| [gpt-5.5-2026-04-24](gpt-5.5-2026-04-24.md) | 26 | $4 | `kfcv50.link` |
-| [gpt-3.5-turbo-instruct](gpt-3.5-turbo-instruct.md) | 25 | $0.225 | `www.zhangsan.yun` |
-| [gpt-4o-mini-tts-2025-12-15](gpt-4o-mini-tts-2025-12-15.md) | 25 | $0.25 | `api.socode.cc` |
-| [gpt-4o-transcribe-diarize](gpt-4o-transcribe-diarize.md) | 25 | $0.25 | `api.socode.cc` |
-| [gpt-4-32k](gpt-4-32k.md) | 24 | $9 | `www.zhangsan.yun` |
-| [gpt-4o-mini-transcribe-2025-12-15](gpt-4o-mini-transcribe-2025-12-15.md) | 24 | $0.125 | `api.socode.cc` |
-| [gpt-4-32k-0613](gpt-4-32k-0613.md) | 22 | $9 | `www.zhangsan.yun` |
-| [gpt-5-minimal](gpt-5-minimal.md) | 22 | $0.25 | `api.bltcy.ai` |
-| [gpt-5-chat-2025-08-07](gpt-5-chat-2025-08-07.md) | 22 | $0.6 | `go.sbgpt.site` |
-| [gpt-audio-mini](gpt-audio-mini.md) | 21 | $0.06 | `api.socode.cc` |
-| [gpt-4o-audio-preview-2025-06-03](gpt-4o-audio-preview-2025-06-03.md) | 21 | $0.25 | `api.socode.cc` |
-| [gpt-5.3-codex-x](gpt-5.3-codex-x.md) | 21 | $0.1794 | `api.aiberm.com` |
-| [gpt-4.5-preview-2025-02-27](gpt-4.5-preview-2025-02-27.md) | 20 | $11.25 | `www.zhangsan.yun` |
-| [gpt-4o-realtime-preview-2025-06-03](gpt-4o-realtime-preview-2025-06-03.md) | 20 | $0.5 | `api.socode.cc` |
-| [gpt-4.5-preview](gpt-4.5-preview.md) | 19 | $16.875 | `www.zhangsan.yun` |
-| [gpt-audio-mini-2025-10-06](gpt-audio-mini-2025-10-06.md) | 19 | $0.06 | `api.socode.cc` |
-| [gpt-realtime-mini](gpt-realtime-mini.md) | 19 | $0.06 | `api.socode.cc` |
-| [gpt-5.6-sol-2026-07-09](gpt-5.6-sol-2026-07-09.md) | 19 | $2 | `api.openai-labs.com` |
-| [gpt-realtime-mini-2025-12-15](gpt-realtime-mini-2025-12-15.md) | 18 | $0.06 | `api.socode.cc` |
-| [gpt-audio-mini-2025-12-15](gpt-audio-mini-2025-12-15.md) | 18 | $0.06 | `api.socode.cc` |
-| [gpt-4o-mini-tts-2025-03-20](gpt-4o-mini-tts-2025-03-20.md) | 18 | $0.25 | `api.socode.cc` |
-| [gpt-4o-mini-transcribe-2025-03-20](gpt-4o-mini-transcribe-2025-03-20.md) | 18 | $0.125 | `api.socode.cc` |
-| [gpt-5.3-chat-2026-03-03](gpt-5.3-chat-2026-03-03.md) | 18 | $0.875 | `kfcv50.link` |
-| [gpt-4o-all](gpt-4o-all.md) | 18 | $1.25 | `newapi.link` |
-| [gpt-realtime-mini-2025-10-06](gpt-realtime-mini-2025-10-06.md) | 17 | $0.06 | `api.socode.cc` |
-| [gpt-3.5-turbo-instruct-0914](gpt-3.5-turbo-instruct-0914.md) | 17 | $3.75 | `kaiycb.com` |
-| [gpt-4o-audio-preview-2024-10-01](gpt-4o-audio-preview-2024-10-01.md) | 17 | $0.375 | `www.zhangsan.yun` |
-| [o3-deep-research](o3-deep-research.md) | 17 | $1 | `api.socode.cc` |
-| [o3-deep-research-2025-06-26](o3-deep-research-2025-06-26.md) | 17 | $1 | `api.socode.cc` |
-| [gpt-realtime-2](gpt-realtime-2.md) | 16 | $0.4 | `api.socode.cc` |
-| [o4-mini-deep-research](o4-mini-deep-research.md) | 16 | $0.2 | `api.socode.cc` |
-| [o3-mini-all](o3-mini-all.md) | 16 | $1.1 | `api.hopeai.cc` |
-| [gpt-5.1-codex-mini-2025-11-13](gpt-5.1-codex-mini-2025-11-13.md) | 16 | $0.25 | `codechn.com` |
-| [gpt-4-0314](gpt-4-0314.md) | 15 | $3 | `api.socode.cc` |
-| [o4-mini-deep-research-2025-06-26](o4-mini-deep-research-2025-06-26.md) | 15 | $0.2 | `api.socode.cc` |
-| [gpt-5.6-terra-2026-07-09](gpt-5.6-terra-2026-07-09.md) | 15 | $1 | `api.openai-labs.com` |
-| [gpt-5.6-luna-2026-07-09](gpt-5.6-luna-2026-07-09.md) | 15 | $0.18 | `api.openai-labs.com` |
-| [gpt-5-thinking-all](gpt-5-thinking-all.md) | 15 | $0.625 | `newapi.link` |
-| [gpt-5-all](gpt-5-all.md) | 15 | $0.625 | `newapi.link` |
-| [gpt-4-all](gpt-4-all.md) | 15 | $15 | `newapi.link` |
-| [gpt-5.5-pro-2026-04-23](gpt-5.5-pro-2026-04-23.md) | 14 | $3 | `api.socode.cc` |
-| [gpt-realtime-2.1](gpt-realtime-2.1.md) | 14 | $0.4 | `api.socode.cc` |
-| [gpt-5.5-instant](gpt-5.5-instant.md) | 14 | $2.5 | `api.openai-labs.com` |
-| [gpt-5.2-x](gpt-5.2-x.md) | 14 | $0.875 | `oapi.vip` |
-| [gpt-5-chat-2025-10-03](gpt-5-chat-2025-10-03.md) | 14 | $0.625 | `kfcv50.link` |
-| [gpt-5.2-chat-2025-12-11](gpt-5.2-chat-2025-12-11.md) | 14 | $0.875 | `kfcv50.link` |
-| [gpt-5.1-codex-max-2025-12-04](gpt-5.1-codex-max-2025-12-04.md) | 14 | $0.625 | `kfcv50.link` |
-| [gpt-5.1-all](gpt-5.1-all.md) | 13 | $0.625 | `newapi.link` |
-| [gpt-5.1-thinking-all](gpt-5.1-thinking-all.md) | 13 | $0.625 | `newapi.link` |
-| [gpt-image-2-2026-04-21](gpt-image-2-2026-04-21.md) | 12 | $0.5 | `api.socode.cc` |
-| [gpt-realtime-2.1-mini](gpt-realtime-2.1-mini.md) | 12 | $0.06 | `api.socode.cc` |
-| [gpt-4o-transcribe-2025-03-20](gpt-4o-transcribe-2025-03-20.md) | 12 | $1.25 | `kfcv50.link` |
-| [o1-pro-all](o1-pro-all.md) | 11 | $37.5 | `newapi.link` |
-| [o1-mini-all](o1-mini-all.md) | 11 | $1.1 | `kfcv50.link` |
-| [o3-mini-high-all](o3-mini-high-all.md) | 11 | $1.1 | `deepkey.top` |
-| [gpt-5.2-codex-x](gpt-5.2-codex-x.md) | 11 | $0.875 | `oapi.vip` |
-| [gpt-5.1-chat-2025-11-13](gpt-5.1-chat-2025-11-13.md) | 11 | $0.625 | `kfcv50.link` |
-| [gpt-5.1-codex-2025-11-13](gpt-5.1-codex-2025-11-13.md) | 11 | $0.625 | `kfcv50.link` |
-| [gpt-5-codex-mini](gpt-5-codex-mini.md) | 10 | $0.125 | `49.51.196.114` |
-| [gpt-realtime-1.5-2026-02-23](gpt-realtime-1.5-2026-02-23.md) | 10 | $2 | `kfcv50.link` |
-| [gpt-image](gpt-image.md) | 10 | $5 | `llm-coding.space` |
-| [gpt-5.2-openai-compact](gpt-5.2-openai-compact.md) | 9 | $0.875 | `49.51.196.114` |
-| [gpt-image-1.5-2025-12-16](gpt-image-1.5-2025-12-16.md) | 9 | $0.5 | `api.socode.cc` |
-| [gpt-5.3-codex-2026-02-24](gpt-5.3-codex-2026-02-24.md) | 9 | $0.875 | `api.openai-labs.com` |
-| [gpt-audio-1.5-2026-02-23](gpt-audio-1.5-2026-02-23.md) | 9 | $1.25 | `kfcv50.link` |
-| [o3-pro-all](o3-pro-all.md) | 9 | $20 | `deepkey.top` |
-| [gpt-6-astra-2026-09-03](gpt-6-astra-2026-09-03.md) | 9 | $7.5 | `cn.api.zyai.online` |
-| [gpt-daybreak-blue-latest](gpt-daybreak-blue-latest.md) | 8 | $0.24 | `codexpert.top` |
-| [gpt-image-2.5-flare-2026-09-08](gpt-image-2.5-flare-2026-09-08.md) | 8 | $0.5 | `api.socode.cc` |
-| [gpt-6-astra-openai-compact](gpt-6-astra-openai-compact.md) | 8 | $1.6 | `vip.brioi.com` |
-| [gpt-image-1-2025-04-15](gpt-image-1-2025-04-15.md) | 8 | $5 | `kfcv50.link` |
+<a id="mimo"></a>
+## MiMo（10）
 
-## 其他
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [mimo-v2.5-pro](mimo-v2.5-pro.md) | 344 | $1.0315 |
+| [mimo-v2.5](mimo-v2.5.md) | 337 | $0.335 |
+| [mimo-v2.6-flash](mimo-v2.6-flash.md) | 236 | $0.2 |
+| [mimo-v2.6-pro](mimo-v2.6-pro.md) | 199 | $0.6525 |
+| [mimo-v2-pro](mimo-v2-pro.md) | 81 | $3 |
+| [mimo-v2.5-tts-voicedesign](mimo-v2.5-tts-voicedesign.md) | 29 | $0.4 |
+| [mimo-v2.5-tts](mimo-v2.5-tts.md) | 28 | $0.4 |
+| [mimo-v2.5-tts-voiceclone](mimo-v2.5-tts-voiceclone.md) | 25 | $0.4 |
+| [mimo-v2.6-pro-ultraspeed](mimo-v2.6-pro-ultraspeed.md) | 23 | $30 |
+| [mimo-v2-omni](mimo-v2-omni.md) | 22 | $1.06 |
 
-| 模型 | 家数 | 最低价 | 最低站 |
-|---|---|---|---|
-| [glm-5.2](glm-5.2.md) | 4027 | $0.076923 | `api.tacklekey.com` |
-| [kimi-k3](kimi-k3.md) | 3948 | $0.045355 | `api.robinsonai.shop` |
-| [codex-auto-review](codex-auto-review.md) | 3894 | $0.008 | `us.xigong.cloud` |
-| [deepseek-v4.1-flash](deepseek-v4.1-flash.md) | 3889 | $0.001 | `www.unassigned.top` |
-| [glm-5.3](glm-5.3.md) | 3857 | $0.005 | `api.xeduapi.com` |
-| [kimi-k2.6](kimi-k2.6.md) | 3444 | $0.0929 | `agentapi.xyz` |
-| [deepseek-v4-pro](deepseek-v4-pro.md) | 2723 | $0.0015 | `www.nmoon.cc` |
-| [glm-5.3-flash](glm-5.3-flash.md) | 2580 | $0.004 | `moyuu.ai` |
-| [deepseek-v4-flash](deepseek-v4-flash.md) | 2467 | $0.003 | `codexpert.top` |
-| [qwen3.8-max](qwen3.8-max.md) | 1984 | $0.13 | `www.jingtool.xyz` |
-| [hy4-preview](hy4-preview.md) | 1974 | $0.06672 | `www.lingxiapi.com` |
-| [hy3](hy3.md) | 1969 | $0.01 | `api.1rr.top` |
-| [tts-1](tts-1.md) | 1912 | $0.022 | `relayrouter.ai` |
-| [tts-1-hd](tts-1-hd.md) | 1911 | $0.022 | `relayrouter.ai` |
-| [swe-2](swe-2.md) | 1855 | $0.1 | `newapi-guangzhou.qianye.host` |
-| [hy4-preview-f](hy4-preview-f.md) | 1854 | $0.06 | `cortexlane.cloud` |
-| [qwen-image-2.1-edit](qwen-image-2.1-edit.md) | 1850 | $75 | `api.2api.shenlanqaq.com` |
-| [qwen-image-2.1-turbo](qwen-image-2.1-turbo.md) | 1850 | $75 | `api.2api.shenlanqaq.com` |
-| [gemma-4](gemma-4.md) | 1850 | $0.1 | `api.2api.shenlanqaq.com` |
-| [qwen-3.8-27b](qwen-3.8-27b.md) | 1850 | $0.04 | `api.2api.shenlanqaq.com` |
-| [stheno-3.4](stheno-3.4.md) | 1850 | $0.05 | `api.2api.shenlanqaq.com` |
-| [glm-5.1](glm-5.1.md) | 1647 | $0.045 | `api.zeekai-cn.cc` |
-| [kimi-k2.8-preview](kimi-k2.8-preview.md) | 1620 | $0.14 | `sub.rkshadow.com` |
-| [kimi-k2.5](kimi-k2.5.md) | 1573 | $0.0574 | `agentapi.xyz` |
-| [qwen3.7-max](qwen3.7-max.md) | 1470 | $0.2 | `nb.deepsb.com` |
-| [minimax-m2.7](minimax-m2.7.md) | 1463 | $0.002 | `api.tallius.ai` |
-| [minimax-m3](minimax-m3.md) | 1375 | $0.002 | `api.tallius.ai` |
-| [glm-5](glm-5.md) | 1354 | $0.058961 | `api.socode.cc` |
-| [deepseek-v4-flash-0731](deepseek-v4-flash-0731.md) | 1332 | $0.024615 | `api.tacklekey.com` |
-| [deepseek-v4-pro-0813](deepseek-v4-pro-0813.md) | 1290 | $0.0273 | `api.qiuming-ai.com` |
-| [minimax-m2.5](minimax-m2.5.md) | 1155 | $0.003 | `ai-key.top` |
-| [minimax-m2.7-highspeed](minimax-m2.7-highspeed.md) | 1154 | $0.004 | `api.tallius.ai` |
-| [qwen3.7-plus](qwen3.7-plus.md) | 949 | $0.04 | `pianyitoken.com` |
-| [qwen3.5-plus](qwen3.5-plus.md) | 929 | $0.0573 | `agentapi.xyz` |
-| [kimi-k2.7-code](kimi-k2.7-code.md) | 924 | $0.0075 | `api.aibridgea.com` |
-| [glm-4.7](glm-4.7.md) | 908 | $0.07 | `www.laysoai.com` |
-| [qwen-plus](qwen-plus.md) | 903 | $0.06 | `crazyrouter.com` |
-| [glm-4.6](glm-4.6.md) | 900 | $0.12 | `api.tameac.com` |
-| [qwen-max](qwen-max.md) | 895 | $0.328767 | `ai-model.chinaz.net` |
-| [qwen-flash](qwen-flash.md) | 892 | $0.01218 | `api.ipest.ai` |
-| [qwen3-max](qwen3-max.md) | 886 | $0.285714 | `runapi.co` |
-| [doubao-seedance-2-0-260128](doubao-seedance-2-0-260128.md) | 865 | $1 | `agent.tokensea.ai` |
-| [doubao-seedance-2-0-fast-260128](doubao-seedance-2-0-fast-260128.md) | 814 | $3.3 | `apishop.ai` |
-| [qwen3.6-plus](qwen3.6-plus.md) | 704 | $0.05 | `agentapi.xyz` |
-| [minimax-m2.5-highspeed](minimax-m2.5-highspeed.md) | 653 | $0.6 | `open.cherryin.net` |
-| [qwen3.6-flash](qwen3.6-flash.md) | 644 | $0.13125 | `rockapi.ai` |
-| [deepseek-v4-flash-vision-exp](deepseek-v4-flash-vision-exp.md) | 605 | $0.015 | `api.socode.cc` |
-| [qwen3.5-flash](qwen3.5-flash.md) | 506 | $0.01682 | `api.ipest.ai` |
-| [qwen-turbo](qwen-turbo.md) | 480 | $0.03 | `pianyitoken.com` |
-| [qwen-plus-latest](qwen-plus-latest.md) | 477 | $0.4 | `cn.api.zyai.online` |
-| [qwen3-max-preview](qwen3-max-preview.md) | 475 | $2 | `supertoken.pro` |
-| [qwen-max-latest](qwen-max-latest.md) | 471 | $1.2 | `cn.api.zyai.online` |
-| [qwen2.5-72b-instruct](qwen2.5-72b-instruct.md) | 465 | $0.55 | `api.mountainsea.ai` |
-| [deepseek-flash](deepseek-flash.md) | 463 | $0.001 | `66ai.ai` |
-| [qwen-plus-2025-04-28](qwen-plus-2025-04-28.md) | 459 | $0.109589 | `ai-model.chinaz.net` |
-| [qwen-max-longcontext](qwen-max-longcontext.md) | 459 | $0.4 | `crazyrouter.com` |
-| [qwen-plus-2025-01-25](qwen-plus-2025-01-25.md) | 457 | $0.109589 | `ai-model.chinaz.net` |
-| [qwen-coder-plus](qwen-coder-plus.md) | 456 | $0.35 | `rockapi.ai` |
-| [qwen-math-plus](qwen-math-plus.md) | 456 | $0.4018 | `rockapi.ai` |
-| [qwen-math-turbo](qwen-math-turbo.md) | 456 | $0.2009 | `rockapi.ai` |
-| [qwen-coder-turbo](qwen-coder-turbo.md) | 456 | $1 | `cn.api.zyai.online` |
-| [qwen3-max-2025-09-23](qwen3-max-2025-09-23.md) | 456 | $2 | `supertoken.pro` |
-| [qwen-max-2025-01-25](qwen-max-2025-01-25.md) | 455 | $1.2 | `cn.api.zyai.online` |
-| [qwen-turbo-latest](qwen-turbo-latest.md) | 454 | $0.15 | `cn.api.zyai.online` |
-| [qwen3.8-27b](qwen3.8-27b.md) | 452 | $2e-06 | `tiktoken.top` |
-| [qwen-turbo-2025-04-28](qwen-turbo-2025-04-28.md) | 452 | $0.15 | `cn.api.zyai.online` |
-| [qwen-coder-turbo-latest](qwen-coder-turbo-latest.md) | 452 | $1.4 | `api.bltcy.ai` |
-| [qwen-coder-plus-latest](qwen-coder-plus-latest.md) | 452 | $1.4286 | `cn.api.zyai.online` |
-| [qwen3.8-flash](qwen3.8-flash.md) | 450 | $0.0225 | `hiapi.top` |
-| [kimi-for-coding](kimi-for-coding.md) | 449 | $0.400685 | `www.synthapi.asia` |
-| [m2-her](m2-her.md) | 445 | $0.575342 | `ai-model.chinaz.net` |
-| [mj_relax_video](mj_relax_video.md) | 444 | $1.35 | `api.2api.magic666.top` |
-| [sv-1.0-lite-720p](sv-1.0-lite-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-480p](pixverse-c1-480p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-2.0](kling-2.0.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [vidu-q3-turbo](vidu-q3-turbo.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mingmou-1.0-720p](mingmou-1.0-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v5.6-768p](pixverse-v5.6-768p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [gv-3.1](gv-3.1.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-o1](kling-o1.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v5.6-720p](pixverse-v5.6-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro-1080p](sv-1.0-pro-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [minimax-h3-pro-768p](minimax-h3-pro-768p.md) | 444 | $75 | `api.2api.magic666.top` |
-| [sv-1.0-pro-fast](sv-1.0-pro-fast.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mj_fast_video](mj_fast_video.md) | 444 | $75 | `api.2api.magic666.top` |
-| [pixverse-v6-480p](pixverse-v6-480p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-768p](pixverse-v6-768p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [hailuo-02](hailuo-02.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro](sv-1.5-pro.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-2.5](kling-2.5.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-1080p](pixverse-c1-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1](pixverse-c1.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [vidu-q2](vidu-q2.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro-720p-mute](sv-1.5-pro-720p-mute.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-540p-audio](pixverse-c1-540p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [vidu-q2-turbo](vidu-q2-turbo.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [vidu-template](vidu-template.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro-fast-480p](sv-1.0-pro-fast-480p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-1.6](kling-1.6.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-3.0](kling-3.0.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-768p](pixverse-c1-768p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6](pixverse-v6.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro-fast-1080p](sv-1.0-pro-fast-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-lite](sv-1.0-lite.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro](sv-1.0-pro.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [asset_create](asset_create.md) | 444 | $8 | `api.2api.magic666.top` |
-| [hunyuan-1.5-720p](hunyuan-1.5-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro-720p](sv-1.0-pro-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-720p](pixverse-v6-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro-fast-720p](sv-1.0-pro-fast-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v5.6](pixverse-v5.6.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mj_fast_edits](mj_fast_edits.md) | 444 | $75 | `api.2api.magic666.top` |
-| [minimax-h3-pro-2k](minimax-h3-pro-2k.md) | 444 | $75 | `api.2api.magic666.top` |
-| [pixverse-c1-540p](pixverse-c1-540p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [jv-3.0-pro](jv-3.0-pro.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v5.6-1080p](pixverse-v5.6-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [vidu-q2-pro](vidu-q2-pro.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v5.6-480p](pixverse-v5.6-480p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-lite-1080p](sv-1.0-lite-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [aicc-doubao-seedance-2-0](aicc-doubao-seedance-2-0.md) | 444 | $46 | `api.2api.magic666.top` |
-| [mj_relax_edits](mj_relax_edits.md) | 444 | $75 | `api.2api.magic666.top` |
-| [kling-3.0-omni](kling-3.0-omni.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [os-2.0](os-2.0.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-768p-audio](pixverse-v6-768p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro-1080p-audio](sv-1.5-pro-1080p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mingmou-1.0](mingmou-1.0.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro-720p-audio](sv-1.5-pro-720p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-1080p-audio](pixverse-c1-1080p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-720p-audio](pixverse-c1-720p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v5.6-540p](pixverse-v5.6-540p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-480p-audio](pixverse-c1-480p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [gv-3.1-fast](gv-3.1-fast.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-2.1](kling-2.1.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mj_turbo_edits](mj_turbo_edits.md) | 444 | $75 | `api.2api.magic666.top` |
-| [pixverse-v6-1080p-audio](pixverse-v6-1080p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [visual_validate](visual_validate.md) | 444 | $75 | `api.2api.magic666.top` |
-| [hunyuan-1.5-1080p](hunyuan-1.5-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-pro-480p](sv-1.0-pro-480p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [hailuo-2.3-fast](hailuo-2.3-fast.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [kling-2.6](kling-2.6.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [vidu-q3-pro](vidu-q3-pro.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-480p-audio](pixverse-v6-480p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-1080p](pixverse-v6-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro-1080p-mute](sv-1.5-pro-1080p-mute.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro-480p-audio](sv-1.5-pro-480p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-540p](pixverse-v6-540p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-720p-audio](pixverse-v6-720p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mingmou-1.0-1080p](mingmou-1.0-1080p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-v6-540p-audio](pixverse-v6-540p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [mj_turbo_video](mj_turbo_video.md) | 444 | $75 | `api.2api.magic666.top` |
-| [pixverse-c1-720p](pixverse-c1-720p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.0-lite-480p](sv-1.0-lite-480p.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [sv-1.5-pro-480p-mute](sv-1.5-pro-480p-mute.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [chat_fast_imagine](chat_fast_imagine.md) | 444 | $1.75 | `api.2api.magic666.top` |
-| [chat_fast_video](chat_fast_video.md) | 444 | $1.75 | `api.2api.magic666.top` |
-| [hunyuan-1.5](hunyuan-1.5.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [pixverse-c1-768p-audio](pixverse-c1-768p-audio.md) | 444 | $56.25 | `api.2api.magic666.top` |
-| [seedance-nsfw-720p](seedance-nsfw-720p.md) | 400 | $57.21 | `api.api.linksapi.cn` |
-| [seedance-1-5-pro-no-audio](seedance-1-5-pro-no-audio.md) | 400 | $9.81 | `api.api.linksapi.cn` |
-| [seedance-nsfw-1080p](seedance-nsfw-1080p.md) | 400 | $62.93 | `api.api.linksapi.cn` |
-| [doubao-seedance-2-0-720p](doubao-seedance-2-0-720p.md) | 400 | $57.21 | `api.api.linksapi.cn` |
-| [seedance-1-5-pro-with-audio](seedance-1-5-pro-with-audio.md) | 400 | $19.62 | `api.api.linksapi.cn` |
-| [doubao-seedance-2-0-1080p](doubao-seedance-2-0-1080p.md) | 400 | $62.93 | `api.api.linksapi.cn` |
-| [seedance-nsfw](seedance-nsfw.md) | 400 | $57.21 | `api.api.linksapi.cn` |
-| [seedance-fast-nsfw](seedance-fast-nsfw.md) | 400 | $45.77 | `api.api.linksapi.cn` |
-| [deepseek-v3.2](deepseek-v3.2.md) | 299 | $0.0464 | `cn.ai-api.loft.games` |
-| [minimax-m2.1](minimax-m2.1.md) | 248 | $0.195 | `xiaomuai.cn` |
-| [qwen3.7-flash](qwen3.7-flash.md) | 237 | $0.02373 | `runapi.co` |
-| [kimi-k2.7-code-highspeed](kimi-k2.7-code-highspeed.md) | 227 | $0.38 | `easyrouter.io` |
-| [minimax-m2](minimax-m2.md) | 226 | $0.13 | `xiaomuai.cn` |
-| [doubao-seedance-2-5-260628](doubao-seedance-2-5-260628.md) | 219 | $5.75343 | `ai-model.chinaz.net` |
-| [doubao-seedance-2-0-mini-260615](doubao-seedance-2-0-mini-260615.md) | 218 | $2.95714 | `www.aiide.com` |
-| [deepseek-v4-pro:cloud-按量](deepseek-v4-pro:cloud-按量.md) | 211 | $3 | `api.nbgpt.eu.cc` |
-| [glm-5.2-fast-preview](glm-5.2-fast-preview.md) | 204 | $2.19178 | `ai-model.chinaz.net` |
-| [deepseek-v4.1-flash-0910](deepseek-v4.1-flash-0910.md) | 203 | $0.0273 | `api.qiuming-ai.com` |
-| [minimax-m2.1-highspeed](minimax-m2.1-highspeed.md) | 203 | $1.8 | `www.baosiapi.com` |
-| [seedance-2.0-fast](seedance-2.0-fast.md) | 201 | $3.0525 | `dreamrouter.ai` |
-| [seedance-2.0](seedance-2.0.md) | 201 | $5.865 | `dreamrouter.ai` |
-| [doubao-seedance-1-0-pro-fast-251015](doubao-seedance-1-0-pro-fast-251015.md) | 199 | $0.6 | `easyrouter.io` |
-| [c1](c1.md) | 197 | $75 | `api.tokenworldapi.com` |
-| [v5.6](v5.6.md) | 197 | $75 | `api.tokenworldapi.com` |
-| [3.1-lite](3.1-lite.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [1.0](1.0.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [1.1](1.1.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [02](02.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [2.3](2.3.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [2.3-fast](2.3-fast.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [1.5](1.5.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [3.0](3.0.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [3.0-pro](3.0-pro.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [4.0](4.0.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [1.6](1.6.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [1.6-multi-elements](1.6-multi-elements.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [2.0](2.0.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [2.1](2.1.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [2.5-turbo](2.5-turbo.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [2.6](2.6.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [3.0-omni](3.0-omni.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [3.0-turbo](3.0-turbo.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [scene](scene.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [v7](v7.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [v8.1](v8.1.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [v8.2](v8.2.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [v6.0](v6.0.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [0925](0925.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [4.5](4.5.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [5.0-lite](5.0-lite.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [5.0-pro](5.0-pro.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q2](q2.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q2-pro](q2-pro.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q2-turbo](q2-turbo.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q3](q3.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q3-drama](q3-drama.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q3-mix](q3-mix.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q3-pro](q3-pro.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [q3-turbo](q3-turbo.md) | 195 | $75 | `api.tokenworldapi.com` |
-| [k3](k3.md) | 168 | $0.6 | `api.tameac.com` |
-| [cladue-haiku-4-5](cladue-haiku-4-5.md) | 134 | $112.5 | `codeyy.top` |
-| [text-embedding-3-small](text-embedding-3-small.md) | 115 | $0.00088 | `relayrouter.ai` |
-| [codex auto review](codex auto review.md) | 108 | $0.04 | `kktyh.com` |
-| [text-embedding-3-large](text-embedding-3-large.md) | 107 | $0.00572 | `relayrouter.ai` |
-| [text-embedding-ada-002](text-embedding-ada-002.md) | 101 | $0.0044 | `relayrouter.ai` |
-| [minimax-m3.1-flash-preview](minimax-m3.1-flash-preview.md) | 96 | $6 | `www.baosiapi.com` |
-| [glm-5.3-flashx](glm-5.3-flashx.md) | 85 | $0.03 | `corealgos.com` |
-| [qwen3.5-397b-a17b](qwen3.5-397b-a17b.md) | 66 | $0.164384 | `ai-model.chinaz.net` |
-| [qwen3.6-35b-a3b](qwen3.6-35b-a3b.md) | 62 | $0.0992 | `api.kelaiapi.cc` |
-| [deepseek-r1](deepseek-r1.md) | 60 | $0.004 | `vip.yinli.one` |
-| [qwen3.5-122b-a10b](qwen3.5-122b-a10b.md) | 60 | $0.114 | `open.cherryin.net` |
-| [qwen3.5-27b](qwen3.5-27b.md) | 59 | $0.085714 | `open.cherryin.net` |
-| [qwen3.5-35b-a3b](qwen3.5-35b-a3b.md) | 59 | $0.057142 | `open.cherryin.net` |
-| [whisper-1](whisper-1.md) | 59 | $0.006 | `crazyrouter.com` |
-| [seedance-2.5（yx）](seedance-2.5（yx）.md) | 58 | $75 | `proxy.cn.api.baorongxs.top` |
-| [seedance-2.0（yx）](seedance-2.0（yx）.md) | 58 | $75 | `proxy.cn.api.baorongxs.top` |
-| [seedance-2.5（yx）-按次](seedance-2.5（yx）-按次.md) | 58 | $75 | `proxy.cn.api.baorongxs.top` |
-| [seedance-2.0（官渠）](seedance-2.0（官渠）.md) | 58 | $75 | `proxy.cn.api.baorongxs.top` |
-| [seedance2.5-yx-count](seedance2.5-yx-count.md) | 58 | $75 | `proxy.cn.api.baorongxs.top` |
-| [kimi-k2](kimi-k2.md) | 57 | $0.24 | `api.shqbb.com` |
-| [tts-1-hd-1106](tts-1-hd-1106.md) | 57 | $0.022 | `relayrouter.ai` |
-| [tts-1-1106](tts-1-1106.md) | 57 | $0.022 | `relayrouter.ai` |
-| [deepseek-v3](deepseek-v3.md) | 55 | $0.1148 | `api.kelaiapi.cc` |
-| [qwen3-vl-plus](qwen3-vl-plus.md) | 55 | $0.06 | `relayrouter.ai` |
-| [deepseek-v3.1](deepseek-v3.1.md) | 52 | $0.2 | `pianyitoken.com` |
-| [qwen3.6-27b](qwen3.6-27b.md) | 51 | $0.24 | `api.kelaiapi.cc` |
-| [glm-4.5-air](glm-4.5-air.md) | 51 | $0.04 | `api.tameac.com` |
-| [deepseek-r1-0528](deepseek-r1-0528.md) | 50 | $0.108 | `cn.ai-api.loft.games` |
-| [doubao-seed-2-0-pro-260215](doubao-seed-2-0-pro-260215.md) | 48 | $0.36 | `relayrouter.ai` |
-| [glm-4.5](glm-4.5.md) | 48 | $0.12 | `api.tameac.com` |
-| [qwen3-235b-a22b](qwen3-235b-a22b.md) | 46 | $0.0014 | `go.sbgpt.site` |
-| [deepseek-v3.2-exp](deepseek-v3.2-exp.md) | 46 | $0.207 | `api.aiberm.com` |
-| [qwen3-32b](qwen3-32b.md) | 46 | $0.0014 | `go.sbgpt.site` |
-| [qwen3.5-plus-2026-02-15](qwen3.5-plus-2026-02-15.md) | 45 | $0.114 | `api.apiyi.com` |
-| [qwen3.6-max-preview](qwen3.6-max-preview.md) | 45 | $0.889 | `rockapi.ai` |
-| [qwen-plus-2025-12-01](qwen-plus-2025-12-01.md) | 44 | $0.2 | `relayrouter.ai` |
-| [doubao-seed-2-1-pro-260628](doubao-seed-2-1-pro-260628.md) | 41 | $0.675 | `relayrouter.ai` |
-| [qwen3-next-80b-a3b-instruct](qwen3-next-80b-a3b-instruct.md) | 41 | $0.015 | `www.laysoai.com` |
-| [qwen3-235b-a22b-instruct-2507](qwen3-235b-a22b-instruct-2507.md) | 41 | $0.09 | `ai.191800.xyz` |
-| [llama-3.2-11b-vision-instruct](llama-3.2-11b-vision-instruct.md) | 41 | $0.055 | `api.joeychen.xyz` |
-| [doubao-seed-2-0-code-preview-260215](doubao-seed-2-0-code-preview-260215.md) | 40 | $0.36 | `relayrouter.ai` |
-| [qwen3-8b](qwen3-8b.md) | 39 | $0.04913 | `aiapi.world` |
-| [qwq-32b](qwq-32b.md) | 39 | $0.2583 | `www.claudecn.top` |
-| [qwen3-30b-a3b](qwen3-30b-a3b.md) | 39 | $0.184615 | `api.tacklekey.com` |
-| [qwen3-coder-plus](qwen3-coder-plus.md) | 39 | $0.3248 | `runapi.co` |
-| [doubao-seed-2-0-lite-260215](doubao-seed-2-0-lite-260215.md) | 38 | $0.0675 | `relayrouter.ai` |
-| [deepseek-chat](deepseek-chat.md) | 38 | $0.0112 | `cn.ai-api.loft.games` |
-| [llama-3.2-3b-instruct](llama-3.2-3b-instruct.md) | 38 | $0.03 | `officesai.top` |
-| [doubao-seed-2-0-mini-260215](doubao-seed-2-0-mini-260215.md) | 37 | $0.0225 | `relayrouter.ai` |
-| [bge-reranker-v2-m3](bge-reranker-v2-m3.md) | 37 | $0.001102 | `relayrouter.ai` |
-| [llama-3.2-1b-instruct](llama-3.2-1b-instruct.md) | 37 | $0.015 | `officesai.top` |
-| [doubao-seed-1-8-251228](doubao-seed-1-8-251228.md) | 37 | $0.09 | `relayrouter.ai` |
-| [doubao-seed-2-0-lite-260428](doubao-seed-2-0-lite-260428.md) | 36 | $0.0675 | `relayrouter.ai` |
-| [qwen3-rerank](qwen3-rerank.md) | 36 | $0.05 | `relayrouter.ai` |
-| [qwen3.8-max-0902](qwen3.8-max-0902.md) | 35 | $0.6 | `relayrouter.ai` |
-| [qwen3.6-plus-2026-04-02](qwen3.6-plus-2026-04-02.md) | 35 | $0.375 | `relayrouter.ai` |
-| [qwen3-14b](qwen3-14b.md) | 35 | $0.07 | `ai.191800.xyz` |
-| [qwen3-vl-235b-a22b-instruct](qwen3-vl-235b-a22b-instruct.md) | 35 | $0.1624 | `runapi.co` |
-| [doubao-seed-2-0-mini-260428](doubao-seed-2-0-mini-260428.md) | 35 | $0.0225 | `relayrouter.ai` |
-| [glm-4-airx](glm-4-airx.md) | 35 | $0.0159 | `relayrouter.ai` |
-| [llama-3.2-90b-vision-instruct](llama-3.2-90b-vision-instruct.md) | 35 | $0.4 | `runapi.co` |
-| [glm-5-turbo](glm-5-turbo.md) | 35 | $0.073702 | `api.socode.cc` |
-| [qwen3-reranker-0.6b](qwen3-reranker-0.6b.md) | 34 | $0.00962 | `open.cherryin.net` |
-| [qwen3-coder-480b-a35b-instruct](qwen3-coder-480b-a35b-instruct.md) | 34 | $1 | `pianyitoken.com` |
-| [glm-4-flash](glm-4-flash.md) | 34 | $0.0159 | `relayrouter.ai` |
-| [deepseek-reasoner](deepseek-reasoner.md) | 34 | $0.015 | `api.socode.cc` |
-| [kimi-k2-0711-preview](kimi-k2-0711-preview.md) | 33 | $0.18 | `relayrouter.ai` |
-| [llama-3-70b](llama-3-70b.md) | 33 | $2 | `relayrouter.ai` |
-| [llama-3.1-8b](llama-3.1-8b.md) | 33 | $1 | `relayrouter.ai` |
-| [llama-3.1-70b](llama-3.1-70b.md) | 33 | $2 | `relayrouter.ai` |
-| [llama-2-70b](llama-2-70b.md) | 33 | $1 | `relayrouter.ai` |
-| [llama-3.1-405b](llama-3.1-405b.md) | 33 | $3 | `relayrouter.ai` |
-| [glm-4-long](glm-4-long.md) | 33 | $0.0159 | `relayrouter.ai` |
-| [llama-3-8b](llama-3-8b.md) | 32 | $1 | `relayrouter.ai` |
-| [llama-2-7b](llama-2-7b.md) | 32 | $1 | `relayrouter.ai` |
-| [llama-3.3-70b-instruct](llama-3.3-70b-instruct.md) | 32 | $0.1 | `pianyitoken.com` |
-| [deepseek-v3-1](deepseek-v3-1.md) | 32 | $0.17394 | `relayrouter.ai` |
-| [doubao-seed-1-6-251015](doubao-seed-1-6-251015.md) | 32 | $0.09 | `relayrouter.ai` |
-| [doubao-seed-1-6-250615](doubao-seed-1-6-250615.md) | 32 | $0.09 | `relayrouter.ai` |
-| [deepseek-v3-0324](deepseek-v3-0324.md) | 32 | $0.19941 | `aiapi.world` |
-| [qwq-72b-preview](qwq-72b-preview.md) | 32 | $22.5 | `relayrouter.ai` |
-| [baai/bge-reranker-v2-m3](baai_bge-reranker-v2-m3.md) | 31 | $0.015 | `relayrouter.ai` |
-| [qwen3-vl-30b-a3b-instruct](qwen3-vl-30b-a3b-instruct.md) | 31 | $0.06 | `api.kelaiapi.cc` |
-| [qwen3-30b-a3b-instruct-2507](qwen3-30b-a3b-instruct-2507.md) | 31 | $0.0396 | `api.kelaiapi.cc` |
-| [doubao-seed-1-6-vision-250815](doubao-seed-1-6-vision-250815.md) | 31 | $0.094118 | `us.hboom.ai` |
-| [deepseek-r1-distill-qwen-32b](deepseek-r1-distill-qwen-32b.md) | 31 | $0.075 | `cn.api.zyai.online` |
-| [doubao-seed-2-1-turbo-260628](doubao-seed-2-1-turbo-260628.md) | 30 | $0.3375 | `relayrouter.ai` |
-| [qwen3-coder-flash](qwen3-coder-flash.md) | 30 | $0.39 | `myapi.creitingameplays.com` |
-| [qwen3-next-80b-a3b](qwen3-next-80b-a3b.md) | 30 | $0.1148 | `rockapi.ai` |
-| [davinci-002](davinci-002.md) | 30 | $1.6 | `kfcv50.link` |
-| [doubao-seed-1-6-flash-250828](doubao-seed-1-6-flash-250828.md) | 30 | $0.0328 | `runapi.co` |
-| [qwen-vl-max](qwen-vl-max.md) | 30 | $0.72 | `www.claudecn.top` |
-| [qwen3-vl-flash](qwen3-vl-flash.md) | 30 | $0.017142 | `runapi.co` |
-| [wan3.0-video](wan3.0-video.md) | 29 | $0.0672 | `api.apiyi.com` |
-| [sparkdesk-v3.5](sparkdesk-v3.5.md) | 29 | $1.2858 | `cn.api.zyai.online` |
-| [doubao-seed-1-6-thinking-250715](doubao-seed-1-6-thinking-250715.md) | 29 | $0.09 | `relayrouter.ai` |
-| [doubao-seed-1-6-thinking-250615](doubao-seed-1-6-thinking-250615.md) | 29 | $0.09 | `relayrouter.ai` |
-| [bce-reranker-base_v1](bce-reranker-base_v1.md) | 29 | $0.001102 | `relayrouter.ai` |
-| [qwen3-vl-235b-a22b](qwen3-vl-235b-a22b.md) | 28 | $0.1624 | `runapi.co` |
-| [qwen-plus-character](qwen-plus-character.md) | 28 | $0.1495 | `myapi.creitingameplays.com` |
-| [qwen3-30b-a3b-thinking-2507](qwen3-30b-a3b-thinking-2507.md) | 28 | $0.07 | `rockapi.ai` |
-| [deepseek-v4.1-flash-expires-on-0910](deepseek-v4.1-flash-expires-on-0910.md) | 27 | $0.033 | `aigw.store` |
-| [deepseek-r1-distill-qwen-7b](deepseek-r1-distill-qwen-7b.md) | 27 | $0.0504 | `rockapi.ai` |
-| [sparkdesk-v1.1](sparkdesk-v1.1.md) | 27 | $3.2362 | `relayrouter.ai` |
-| [sparkdesk-v2.1](sparkdesk-v2.1.md) | 27 | $6.4713 | `relayrouter.ai` |
-| [sparkdesk-v3.1](sparkdesk-v3.1.md) | 27 | $9.7064 | `relayrouter.ai` |
-| [qwen3-vl-8b-instruct](qwen3-vl-8b-instruct.md) | 26 | $0.18 | `ai.191800.xyz` |
-| [minimax-h3](minimax-h3.md) | 26 | $0.06 | `api.apiyi.com` |
-| [qwen3-vl-32b-instruct](qwen3-vl-32b-instruct.md) | 26 | $0.274 | `api.mountainsea.ai` |
-| [jev-1.13.0](jev-1.13.0.md) | 25 | $0.0168 | `relayrouter.ai` |
-| [kimi-k2-instruct](kimi-k2-instruct.md) | 25 | $0.9 | `officesai.top` |
-| [deepseek-r1-250528](deepseek-r1-250528.md) | 25 | $0.205881 | `us.hboom.ai` |
-| [qwen-turbo-2025-07-15](qwen-turbo-2025-07-15.md) | 25 | $0.15 | `cn.api.zyai.online` |
-| [qwen3-max-2026-01-23](qwen3-max-2026-01-23.md) | 25 | $1.75 | `api.bltcy.ai` |
-| [qwen3-coder-30b-a3b-instruct](qwen3-coder-30b-a3b-instruct.md) | 24 | $0.045 | `www.laysoai.com` |
-| [qwen3-4b](qwen3-4b.md) | 24 | $0.15 | `cn.api.zyai.online` |
-| [glm-4](glm-4.md) | 24 | $0.18 | `www.vectorengine.ai` |
-| [qwen3-coder](qwen3-coder.md) | 24 | $0.022 | `www.laysoai.com` |
-| [qwen3-vl-30b-a3b](qwen3-vl-30b-a3b.md) | 24 | $0.446154 | `api.tacklekey.com` |
-| [doubao-seed-evolving](doubao-seed-evolving.md) | 24 | $0.70805 | `mytok.vip` |
-| [qwen3-vl-32b](qwen3-vl-32b.md) | 24 | $1 | `cn.api.zyai.online` |
-| [deepseek-v3-250324](deepseek-v3-250324.md) | 23 | $0.199997 | `us.hboom.ai` |
-| [qwen2-vl-72b-instruct](qwen2-vl-72b-instruct.md) | 23 | $2.8 | `api.bltcy.ai` |
-| [qwq-plus](qwq-plus.md) | 23 | $0.8 | `cn.api.zyai.online` |
-| [qwen-vl-max-latest](qwen-vl-max-latest.md) | 22 | $0.41 | `crazyrouter.com` |
-| [qwen3-vl-8b](qwen3-vl-8b.md) | 22 | $0.35 | `api.bltcy.ai` |
-| [deepseek-ocr](deepseek-ocr.md) | 21 | $0.04913 | `aiapi.world` |
-| [qwq-plus-2025-03-05](qwq-plus-2025-03-05.md) | 21 | $0.7 | `cn.api.zyai.online` |
-| [qwen3-0.6b](qwen3-0.6b.md) | 21 | $0.05 | `cn.api.zyai.online` |
-| [qwen3-1.7b](qwen3-1.7b.md) | 21 | $0.1 | `cn.api.zyai.online` |
-| [moonshot-v1-32k](moonshot-v1-32k.md) | 20 | $3.408 | `api.hopeai.cc` |
-| [moonshot-v1-8k](moonshot-v1-8k.md) | 20 | $1.4 | `go.sbgpt.site` |
-| [qwq-32b-preview](qwq-32b-preview.md) | 20 | $1.4 | `api.bltcy.ai` |
-| [moonshot-v1-128k](moonshot-v1-128k.md) | 20 | $7 | `go.sbgpt.site` |
-| [glm-5v-turbo](glm-5v-turbo.md) | 20 | $0.21 | `cortexlane.cloud` |
-| [qvq-max](qvq-max.md) | 20 | $4 | `cn.api.zyai.online` |
-| [nano-banana-pro](nano-banana-pro.md) | 19 | $0.2 | `api.xistree.hk` |
-| [chatgpt-4o-latest](chatgpt-4o-latest.md) | 19 | $2.5 | `api.nekoapi.com` |
-| [babbage-002](babbage-002.md) | 19 | $0.32 | `kfcv50.link` |
-| [qwen3.7-max-2026-05-20](qwen3.7-max-2026-05-20.md) | 19 | $1.6438 | `supertoken.pro` |
-| [qwen-vl-max-2025-08-13](qwen-vl-max-2025-08-13.md) | 19 | $0.8 | `cn.api.zyai.online` |
-| [kimi-k2-250905](kimi-k2-250905.md) | 19 | $2.8 | `api.bltcy.ai` |
-| [deepseek-r1-250120](deepseek-r1-250120.md) | 19 | $2.4 | `www.vectorengine.ai` |
-| [qwen3.7-max-preview](qwen3.7-max-preview.md) | 19 | $1.23529 | `us.hboom.ai` |
-| [doubao-seed-2.0-lite](doubao-seed-2.0-lite.md) | 18 | $0.05 | `feiniu-ai.cn` |
-| [qwen3-235b-a22b-thinking-2507](qwen3-235b-a22b-thinking-2507.md) | 18 | $0.11 | `ai.191800.xyz` |
-| [gemma-7b-it](gemma-7b-it.md) | 18 | $2 | `api.hopeai.cc` |
-| [llama-2-13b](llama-2-13b.md) | 18 | $1.8 | `www.claudecn.top` |
-| [qwen3-30b-a3b-think](qwen3-30b-a3b-think.md) | 18 | $0.42 | `www.vectorengine.ai` |
-| [deepseek-v3-1-250821](deepseek-v3-1-250821.md) | 18 | $2.4 | `www.vectorengine.ai` |
-| [deepseek-r1-2025-01-20](deepseek-r1-2025-01-20.md) | 18 | $2.4 | `www.vectorengine.ai` |
-| [llama-3.1-405b-instruct](llama-3.1-405b-instruct.md) | 18 | $6 | `runapi.co` |
-| [kimi-k3-1](kimi-k3-1.md) | 17 | $0.36 | `qwer069.com` |
-| [deepseek-v3-1-think-250821](deepseek-v3-1-think-250821.md) | 17 | $3.6 | `www.claudecn.top` |
-| [llama-3.3-70b](llama-3.3-70b.md) | 17 | $0.06 | `www.vectorengine.ai` |
-| [qwen3-max-preview-n](qwen3-max-preview-n.md) | 17 | $45 | `www.vectorengine.ai` |
-| [doubao-seed-2-1-pro-260915](doubao-seed-2-1-pro-260915.md) | 17 | $0.675 | `relayrouter.ai` |
-| [mai-ds-r1](mai-ds-r1.md) | 17 | $1.314 | `nbapi.net` |
-| [doubao-seed-2.0-pro](doubao-seed-2.0-pro.md) | 16 | $0.05 | `feiniu-ai.cn` |
-| [step-5-preview](step-5-preview.md) | 16 | $0.005 | `api.xeduapi.com` |
-| [deepseek-v3.1-terminus](deepseek-v3.1-terminus.md) | 16 | $0.108 | `api.kelaiapi.cc` |
-| [qvq-max-latest](qvq-max-latest.md) | 16 | $5.6 | `api.bltcy.ai` |
-| [text-moderation-latest](text-moderation-latest.md) | 15 | $0.03 | `www.zhangsan.yun` |
-| [jev-latest](jev-latest.md) | 15 | $0.0042 | `codexpert.top` |
-| [qwen-mt-plus](qwen-mt-plus.md) | 15 | $0.185294 | `us.hboom.ai` |
-| [bge-m3](bge-m3.md) | 15 | $0.00867 | `aiapi.world` |
-| [nano-banana-2](nano-banana-2.md) | 15 | $0.14 | `api.apiyi.com` |
-| [qwen-plus-2025-07-14](qwen-plus-2025-07-14.md) | 14 | $0.109589 | `ai-model.chinaz.net` |
-| [wan3.0-video-prime](wan3.0-video-prime.md) | 14 | $0.0672 | `api.apiyi.com` |
-| [seedance-2.5](seedance-2.5.md) | 14 | $8.925 | `dreamrouter.ai` |
-| [glm-4.5-x](glm-4.5-x.md) | 14 | $0.44 | `api.tameac.com` |
-| [kimi-k2.8](kimi-k2.8.md) | 14 | $0.35 | `www.tokenus.net` |
-| [qwen2.5-vl-72b-instruct](qwen2.5-vl-72b-instruct.md) | 14 | $1.23077 | `api.tacklekey.com` |
-| [qwen-turbo-2024-11-01](qwen-turbo-2024-11-01.md) | 14 | $0.2 | `cn.api.zyai.online` |
-| [qwen-plus-2025-09-11](qwen-plus-2025-09-11.md) | 14 | $0.4 | `cn.api.zyai.online` |
-| [text-moderation-stable](text-moderation-stable.md) | 13 | $0.03 | `www.zhangsan.yun` |
-| [doubao-seed-2.0-mini](doubao-seed-2.0-mini.md) | 13 | $0.02411 | `api.everyapi.ai` |
-| [qwen-long](qwen-long.md) | 13 | $0.068493 | `ai-model.chinaz.net` |
-| [qwen3.5-flash-2026-02-23](qwen3.5-flash-2026-02-23.md) | 13 | $0.03 | `api.apiyi.com` |
-| [qwen-mt-flash](qwen-mt-flash.md) | 13 | $0.07203 | `us.hboom.ai` |
-| [step-3.7-flash](step-3.7-flash.md) | 13 | $0.1849 | `supertoken.pro` |
-| [qwen3-reranker-8b](qwen3-reranker-8b.md) | 13 | $0.00154 | `api.bltcy.ai` |
-| [qwen3-coder-next](qwen3-coder-next.md) | 13 | $0.1 | `www.laysoai.com` |
-| [glm-4.6v](glm-4.6v.md) | 13 | $0.461538 | `api.tacklekey.com` |
-| [qwen2.5-vl-32b-instruct](qwen2.5-vl-32b-instruct.md) | 13 | $1.26 | `poloai.top` |
-| [text-babbage-001](text-babbage-001.md) | 12 | $0.075 | `www.zhangsan.yun` |
-| [text-curie-001](text-curie-001.md) | 12 | $0.3 | `www.zhangsan.yun` |
-| [text-davinci-edit-001](text-davinci-edit-001.md) | 12 | $3 | `www.zhangsan.yun` |
-| [text-ada-001](text-ada-001.md) | 12 | $0.06 | `www.zhangsan.yun` |
-| [doubao-seed-2.0-code](doubao-seed-2.0-code.md) | 12 | $0.05 | `feiniu-ai.cn` |
-| [wan2.7-i2v](wan2.7-i2v.md) | 12 | $0.023996 | `api.apiyi.com` |
-| [gemma-4-31b-it](gemma-4-31b-it.md) | 12 | $0.06 | `2api.me` |
-| [qwen3-embedding-8b](qwen3-embedding-8b.md) | 12 | $0.03468 | `aiapi.world` |
-| [kimi-k2.7](kimi-k2.7.md) | 12 | $0.325 | `ai.mggoo.com` |
-| [qwen3.7-text-embedding](qwen3.7-text-embedding.md) | 12 | $0.05208 | `rockapi.ai` |
-| [glm-4.5-airx](glm-4.5-airx.md) | 12 | $2 | `api.bltcy.ai` |
-| [qwen3-tts-flash](qwen3-tts-flash.md) | 12 | $2 | `supertoken.pro` |
-| [wan2.7-t2v](wan2.7-t2v.md) | 11 | $0.023996 | `api.apiyi.com` |
-| [qwen3.8-omni-flash](qwen3.8-omni-flash.md) | 11 | $0.109589 | `ai-model.chinaz.net` |
-| [qwen-vl-plus](qwen-vl-plus.md) | 11 | $0.56 | `api.bltcy.ai` |
-| [glm-3-turbo](glm-3-turbo.md) | 11 | $0.07 | `crazyrouter.com` |
-| [qwen3-coder-plus-2025-07-22](qwen3-coder-plus-2025-07-22.md) | 11 | $2 | `api.open.xiaojingai.com` |
-| [glm-4-air](glm-4-air.md) | 11 | $0.066175 | `us.hboom.ai` |
-| [text-embedding-v1](text-embedding-v1.md) | 10 | $0.015 | `www.zhangsan.yun` |
-| [wan2.7-r2v](wan2.7-r2v.md) | 10 | $1 | `agent.tokensea.ai` |
-| [step-3.5-flash](step-3.5-flash.md) | 10 | $0.1 | `ai.191800.xyz` |
-| [chatgpt-image-latest](chatgpt-image-latest.md) | 10 | $4 | `kfcv50.link` |
-| [composer-2.5](composer-2.5.md) | 10 | $0.0825 | `www.huablog.xyz` |
-| [omni-moderation-2024-09-26](omni-moderation-2024-09-26.md) | 10 | $0.2 | `api.apiyi.com` |
-| [omni-moderation-latest](omni-moderation-latest.md) | 10 | $0.2 | `api.apiyi.com` |
-| [qwen2.5-32b-instruct](qwen2.5-32b-instruct.md) | 10 | $1 | `cn.api.zyai.online` |
-| [qwen-plus-2025-11-05](qwen-plus-2025-11-05.md) | 10 | $0.56 | `api.bltcy.ai` |
-| [qwen2.5-7b-instruct](qwen2.5-7b-instruct.md) | 10 | $0.04 | `runapi.co` |
-| [deepseek-r1-distill-qwen-14b](deepseek-r1-distill-qwen-14b.md) | 10 | $0.1008 | `rockapi.ai` |
-| [qwen-mt-turbo](qwen-mt-turbo.md) | 10 | $0.35 | `cn.api.zyai.online` |
-| [qwen-omni-turbo](qwen-omni-turbo.md) | 10 | $0.4 | `ai.codeyy.top` |
-| [qwen-vl-ocr](qwen-vl-ocr.md) | 10 | $0.21 | `api.bltcy.ai` |
-| [qwen-vl-ocr-2025-11-20](qwen-vl-ocr-2025-11-20.md) | 10 | $0.044 | `api.apiyi.com` |
-| [qwen3-omni-flash](qwen3-omni-flash.md) | 10 | $0.6 | `api.apiyi.com` |
-| [gemma-3-12b-it](gemma-3-12b-it.md) | 9 | $0.04 | `sg.mux.la` |
-| [doubao-seedance-2.0](doubao-seedance-2.0.md) | 9 | $5.75 | `llmhub.net` |
-| [qwen3.5-omni-flash](qwen3.5-omni-flash.md) | 9 | $0.30137 | `ai-model.chinaz.net` |
-| [nano-banana](nano-banana.md) | 9 | $0.1 | `api.xistree.hk` |
-| [whisper](whisper.md) | 9 | $9 | `www.koalaapi.com` |
-| [muse-spark-1.3-contributor](muse-spark-1.3-contributor.md) | 9 | $0.04 | `deepkey.top` |
-| [deepseek-v4-1-flash](deepseek-v4-1-flash.md) | 9 | $0.2431 | `mytok.vip` |
-| [qwen3.8-2.4t-a95b](qwen3.8-2.4t-a95b.md) | 9 | $1.72 | `api.apiyi.com` |
-| [deepseek-v3.2-speciale](deepseek-v3.2-speciale.md) | 9 | $0.287 | `x.one-origin.ai` |
-| [qwen-turbo-0919](qwen-turbo-0919.md) | 9 | $0.15 | `cn.api.zyai.online` |
-| [qwen-coder-plus-1106](qwen-coder-plus-1106.md) | 9 | $2 | `supertoken.pro` |
-| [qwen-image-2.0-pro](qwen-image-2.0-pro.md) | 9 | $2 | `supertoken.pro` |
-| [qwen-image-2.0](qwen-image-2.0.md) | 9 | $2 | `supertoken.pro` |
-| [qwen-image-max](qwen-image-max.md) | 9 | $1 | `cn.api.zyai.online` |
-| [qwen-image-edit-plus](qwen-image-edit-plus.md) | 9 | $1 | `cn.api.zyai.online` |
-| [text-embedding-v4](text-embedding-v4.md) | 9 | $0.0005 | `cn.api.zyai.online` |
-| [deepseek-v4.1-flash-hc](deepseek-v4.1-flash-hc.md) | 9 | $0.45 | `www.baitumax.com` |
-| [qwen2.5-coder-32b-instruct](qwen2.5-coder-32b-instruct.md) | 9 | $0.33 | `windhub.cc` |
-| [qwen-max-1201](qwen-max-1201.md) | 9 | $2 | `supertoken.pro` |
-| [qwen1.5-110b-chat](qwen1.5-110b-chat.md) | 9 | $2 | `supertoken.pro` |
-| [qwen1.5-14b-chat](qwen1.5-14b-chat.md) | 9 | $1 | `cn.api.zyai.online` |
-| [qwen1.5-32b-chat](qwen1.5-32b-chat.md) | 9 | $1.75 | `cn.api.zyai.online` |
-| [qwen1.5-7b-chat](qwen1.5-7b-chat.md) | 9 | $0.5 | `cn.api.zyai.online` |
-| [qwen2-1.5b-instruct](qwen2-1.5b-instruct.md) | 9 | $0.1 | `cn.api.zyai.online` |
-| [qwen2-57b-a14b-instruct](qwen2-57b-a14b-instruct.md) | 9 | $1.75 | `cn.api.zyai.online` |
-| [qwen2-7b-instruct](qwen2-7b-instruct.md) | 9 | $0.5 | `cn.api.zyai.online` |
-| [qwen3-vl-flash-2025-10-15](qwen3-vl-flash-2025-10-15.md) | 9 | $0.07 | `cn.api.zyai.online` |
-| [gemma-3-27b-it](gemma-3-27b-it.md) | 8 | $0.064 | `sg.mux.la` |
-| [dreamina-seedance-2-0-fast-260128](dreamina-seedance-2-0-fast-260128.md) | 8 | $5.6 | `agent.tokensea.ai` |
-| [nano-banana-2.1](nano-banana-2.1.md) | 8 | $0.016154 | `api.robinsonai.shop` |
-| [wan2.7-image-pro](wan2.7-image-pro.md) | 8 | $0.24 | `cn.api.zyai.online` |
-| [doubao-seed-2.1-turbo](doubao-seed-2.1-turbo.md) | 8 | $0.3 | `llmhub.net` |
-| [qwen3.6-flash-2026-04-16](qwen3.6-flash-2026-04-16.md) | 8 | $1.2 | `ai.codeyy.top` |
-| [muse-spark-1.3](muse-spark-1.3.md) | 8 | $0.5 | `deepkey.top` |
-| [nemotron-3-super-120b-a12b](nemotron-3-super-120b-a12b.md) | 8 | $0.05 | `newapi.gancmcs.top` |
-| [seedance-2.0-mini](seedance-2.0-mini.md) | 8 | $1.70857 | `modelflare.dev` |
-| [hy4](hy4.md) | 8 | $0.48 | `api.tcvps.cn` |
-| [dall-e-2](dall-e-2.md) | 8 | $16 | `api.hopeai.cc` |
-| [text-embedding-004](text-embedding-004.md) | 8 | $0.002 | `easyrouter.io` |
-| [glm-4.5-flash](glm-4.5-flash.md) | 8 | $0.016 | `kfcv50.link` |
-| [doubao-seed-2-1-pro](doubao-seed-2-1-pro.md) | 8 | $1.5 | `gwlink.cc` |
-| [doubao-seedance-1-5-pro-251215](doubao-seedance-1-5-pro-251215.md) | 8 | $2.4 | `easyrouter.io` |
-| [gemma-4-26b-a4b-it](gemma-4-26b-a4b-it.md) | 8 | $0.05 | `windhub.cc` |
-| [qwen2.5-14b-instruct](qwen2.5-14b-instruct.md) | 8 | $0.5 | `cn.api.zyai.online` |
-| [qwen-max-0428](qwen-max-0428.md) | 8 | $1.44 | `poloai.top` |
-| [doubao-seedance-2.0-mini](doubao-seedance-2.0-mini.md) | 8 | $1.69118 | `www.dddai.dev` |
-| [deepseek-r1-distill-qwen-1.5b](deepseek-r1-distill-qwen-1.5b.md) | 8 | $1.6 | `poloai.top` |
-| [qwen-math-plus-latest](qwen-math-plus-latest.md) | 8 | $1.4286 | `cn.api.zyai.online` |
-| [qwen-mt-lite](qwen-mt-lite.md) | 8 | $0.42 | `api.bltcy.ai` |
-| [qwen-vl-ocr-latest](qwen-vl-ocr-latest.md) | 8 | $0.21 | `api.bltcy.ai` |
-| [qwen3-asr-flash-realtime](qwen3-asr-flash-realtime.md) | 8 | $2 | `supertoken.pro` |
-| [qwen3-coder-plus-2025-09-23](qwen3-coder-plus-2025-09-23.md) | 8 | $2 | `supertoken.pro` |
-| [qwen3-livetranslate-flash-realtime](qwen3-livetranslate-flash-realtime.md) | 8 | $2 | `supertoken.pro` |
-| [qwen3-livetranslate-flash-realtime-2025-09-22](qwen3-livetranslate-flash-realtime-2025-09-22.md) | 8 | $2 | `supertoken.pro` |
-| [qwen3-omni-flash-2025-09-15](qwen3-omni-flash-2025-09-15.md) | 8 | $0.9 | `cn.api.zyai.online` |
-| [qwen3-tts-flash-realtime](qwen3-tts-flash-realtime.md) | 8 | $2 | `supertoken.pro` |
-| [qwen3-vl-flash-2026-01-22](qwen3-vl-flash-2026-01-22.md) | 8 | $0.098 | `api.bltcy.ai` |
-| [qwen3-vl-plus-2025-09-23](qwen3-vl-plus-2025-09-23.md) | 8 | $0.7 | `api.bltcy.ai` |
-| [qwen3-tts-flash-2025-11-27](qwen3-tts-flash-2025-11-27.md) | 8 | $0.72 | `www.claudecn.top` |
+<a id="deepseek"></a>
+## DeepSeek（24）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [deepseek-v4-pro](deepseek-v4-pro.md) | 1099 | $1.8 |
+| [deepseek-v4-flash](deepseek-v4-flash.md) | 1017 | $0.5 |
+| [deepseek-v4.1-flash](deepseek-v4.1-flash.md) | 971 | $0.32 |
+| [deepseek-v4-flash-vision-exp](deepseek-v4-flash-vision-exp.md) | 293 | $0.462 |
+| [deepseek-v3.2](deepseek-v3.2.md) | 223 | $1.6 |
+| [deepseek-flash](deepseek-flash.md) | 202 | $0.5 |
+| [deepseek-r1](deepseek-r1.md) | 167 | $2.4 |
+| [deepseek-v3](deepseek-v3.md) | 157 | $2 |
+| [deepseek-v3.1](deepseek-v3.1.md) | 136 | $2.4 |
+| [deepseek-chat](deepseek-chat.md) | 114 | $2 |
+| [deepseek-v3.2-exp](deepseek-v3.2-exp.md) | 107 | $2 |
+| [deepseek-v3-1](deepseek-v3-1.md) | 97 | $4 |
+| [deepseek-reasoner](deepseek-reasoner.md) | 97 | $3.825 |
+| [deepseek-v4.1-flash-expires-on](deepseek-v4.1-flash-expires-on.md) | 89 | $0.24 |
+| [deepseek-r1-distill-qwen-32b](deepseek-r1-distill-qwen-32b.md) | 72 | $2 |
+| [deepseek-r1-distill-qwen-7b](deepseek-r1-distill-qwen-7b.md) | 71 | $0.5 |
+| [deepseek-v3.1-terminus](deepseek-v3.1-terminus.md) | 43 | $1.08 |
+| [deepseek-ocr](deepseek-ocr.md) | 35 | $0.3204 |
+| [deepseek-v4-1-flash](deepseek-v4-1-flash.md) | 31 | $1 |
+| [deepseek-v4.1-flash-hc](deepseek-v4.1-flash-hc.md) | 28 | $0.75 |
+| [deepseek-r1-distill-llama-70b](deepseek-r1-distill-llama-70b.md) | 22 | $1.26 |
+| [deepseek-v3.2-speciale](deepseek-v3.2-speciale.md) | 22 | $1.2 |
+| [deepseek-r1-distill-qwen-14b](deepseek-r1-distill-qwen-14b.md) | 20 | $0.478 |
+| [deepseek-v3-1-terminus](deepseek-v3-1-terminus.md) | 20 | $4 |
+
+<a id="qwen"></a>
+## Qwen（123）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [qwen3.8-max](qwen3.8-max.md) | 589 | $4.8 |
+| [qwen3.7-max](qwen3.7-max.md) | 463 | $3.48 |
+| [qwen3.8-flash](qwen3.8-flash.md) | 399 | $0.28 |
+| [qwen3.7-plus](qwen3.7-plus.md) | 345 | $1 |
+| [qwen3.6-plus](qwen3.6-plus.md) | 272 | $1.4 |
+| [qwen3.5-plus](qwen3.5-plus.md) | 223 | $0.8 |
+| [qwen-plus](qwen-plus.md) | 152 | $0.8 |
+| [qwen3.5-397b-a17b](qwen3.5-397b-a17b.md) | 148 | $1.2 |
+| [qwen3-vl-plus](qwen3-vl-plus.md) | 143 | $0.26 |
+| [qwen3.5-flash](qwen3.5-flash.md) | 140 | $0.2 |
+| [qwen3.8-27b](qwen3.8-27b.md) | 138 | $0.8 |
+| [qwen3-235b-a22b](qwen3-235b-a22b.md) | 138 | $0.7 |
+| [qwen3.5-122b-a10b](qwen3.5-122b-a10b.md) | 138 | $0.68 |
+| [qwen-max](qwen-max.md) | 137 | $2.4 |
+| [qwen3.6-35b-a3b](qwen3.6-35b-a3b.md) | 133 | $1.44 |
+| [qwen3.5-27b](qwen3.5-27b.md) | 133 | $0.6 |
+| [qwen3.5-35b-a3b](qwen3.5-35b-a3b.md) | 133 | $0.38 |
+| [qwen3.6-27b](qwen3.6-27b.md) | 130 | $3 |
+| [qwen3-max](qwen3-max.md) | 127 | $2.5 |
+| [qwen-image-2.0](qwen-image-2.0.md) | 126 | $0.2/次 |
+| [wan2.7-image-pro](wan2.7-image-pro.md) | 125 | $0.575/次 |
+| [qwen-flash](qwen-flash.md) | 121 | $0.15 |
+| [qwen-image-max](qwen-image-max.md) | 113 | $0.5/次 |
+| [qwen3-30b-a3b](qwen3-30b-a3b.md) | 111 | $0.75 |
+| [qwq-32b](qwq-32b.md) | 110 | $1.2 |
+| [qwen-image-edit](qwen-image-edit.md) | 109 | $0.12/次 |
+| [qwen3-32b](qwen3-32b.md) | 108 | $1 |
+| [qwen3-coder-plus](qwen3-coder-plus.md) | 106 | $4 |
+| [wan2.6-i2v](wan2.6-i2v.md) | 104 | $1/次 |
+| [qwen3.6-flash](qwen3.6-flash.md) | 104 | $0.6 |
+| [qwen-turbo](qwen-turbo.md) | 103 | $0.3 |
+| [qwen3-8b](qwen3-8b.md) | 102 | $0.5 |
+| [qwen3.6-max-preview](qwen3.6-max-preview.md) | 100 | $9 |
+| [qwen3-reranker-0.6b](qwen3-reranker-0.6b.md) | 99 | $0.14 |
+| [qwen3-next-80b-a3b-instruct](qwen3-next-80b-a3b-instruct.md) | 99 | $0.392 |
+| [qwen3-14b](qwen3-14b.md) | 97 | $1 |
+| [wan3.0-video](wan3.0-video.md) | 95 | $0.014/次 |
+| [qwen3-235b-a22b-instruct](qwen3-235b-a22b-instruct.md) | 93 | $2 |
+| [qwen3-coder-flash](qwen3-coder-flash.md) | 91 | $1 |
+| [qwen3-rerank](qwen3-rerank.md) | 90 | $0.7 |
+| [wan2.5-i2v-preview](wan2.5-i2v-preview.md) | 90 | $1/次 |
+| [qwen3-next-80b-a3b](qwen3-next-80b-a3b.md) | 89 | $1 |
+| [qwen3-vl-235b-a22b-instruct](qwen3-vl-235b-a22b-instruct.md) | 89 | $2 |
+| [qwen3-30b-a3b-instruct](qwen3-30b-a3b-instruct.md) | 89 | $0.75 |
+| [qwen-plus-character](qwen-plus-character.md) | 86 | $0.8 |
+| [qwen3-coder-480b-a35b-instruct](qwen3-coder-480b-a35b-instruct.md) | 86 | $6 |
+| [qwq-72b-preview](qwq-72b-preview.md) | 85 | $1.4572 |
+| [qwen-vl-max](qwen-vl-max.md) | 85 | $1.6 |
+| [qwen3-max-preview](qwen3-max-preview.md) | 84 | $6 |
+| [qwen3.7-flash](qwen3.7-flash.md) | 82 | $0.1 |
+| [qwen3-vl-8b-instruct](qwen3-vl-8b-instruct.md) | 81 | $0.5 |
+| [qwen3-vl-30b-a3b-instruct](qwen3-vl-30b-a3b-instruct.md) | 81 | $0.75 |
+| [qwen3-vl-32b-instruct](qwen3-vl-32b-instruct.md) | 77 | $2 |
+| [qwen3-vl-8b](qwen3-vl-8b.md) | 76 | $0.5 |
+| [qwen3-vl-235b-a22b](qwen3-vl-235b-a22b.md) | 76 | $2 |
+| [qwen3-vl-30b-a3b](qwen3-vl-30b-a3b.md) | 74 | $0.75 |
+| [qwen3-vl-flash](qwen3-vl-flash.md) | 74 | $0.15 |
+| [qwen3-coder-30b-a3b-instruct](qwen3-coder-30b-a3b-instruct.md) | 71 | $1.5 |
+| [qwq-plus](qwq-plus.md) | 71 | $1.6 |
+| [qwen3-coder](qwen3-coder.md) | 70 | $6 |
+| [qwen3-4b](qwen3-4b.md) | 70 | $0.3 |
+| [qvq-max](qvq-max.md) | 65 | $8 |
+| [qwen3-0.6b](qwen3-0.6b.md) | 61 | $0.3 |
+| [qwen3-1.7b](qwen3-1.7b.md) | 61 | $0.3 |
+| [qwen3-vl-32b](qwen3-vl-32b.md) | 61 | $2 |
+| [qwq-32b-preview](qwq-32b-preview.md) | 60 | $2 |
+| [qwen2-vl-72b-instruct](qwen2-vl-72b-instruct.md) | 58 | $4.5 |
+| [qwen-image-2.0-pro](qwen-image-2.0-pro.md) | 55 | $0.275/次 |
+| [qwen-image-3.0-pro](qwen-image-3.0-pro.md) | 53 | $0.00235296/次 |
+| [qwen2.5-72b-instruct](qwen2.5-72b-instruct.md) | 50 | $4 |
+| [qwen-image-3.0](qwen-image-3.0.md) | 49 | $0.00235296/次 |
+| [wan3.0-video-prime](wan3.0-video-prime.md) | 48 | $0.15426 |
+| [qwen2.5-vl-72b-instruct](qwen2.5-vl-72b-instruct.md) | 48 | $14.4 |
+| [wan2.7-image](wan2.7-image.md) | 46 | $0.158/次 |
+| [qwen3-embedding-8b](qwen3-embedding-8b.md) | 45 | $0.28 |
+| [qwen-mt-plus](qwen-mt-plus.md) | 36 | $1.8 |
+| [qwen2.5-7b-instruct](qwen2.5-7b-instruct.md) | 36 | $0.5 |
+| [qwen3-coder-next](qwen3-coder-next.md) | 36 | $0.198 |
+| [qwen-vl-plus](qwen-vl-plus.md) | 33 | $1.5 |
+| [qwen-long](qwen-long.md) | 32 | $0.4875 |
+| [qwen3-reranker-8b](qwen3-reranker-8b.md) | 32 | $0.28 |
+| [qwen-max-longcontext](qwen-max-longcontext.md) | 31 | $1.84 |
+| [qwen2.5-32b-instruct](qwen2.5-32b-instruct.md) | 31 | $2 |
+| [qwen2.5-vl-32b-instruct](qwen2.5-vl-32b-instruct.md) | 31 | $8 |
+| [qwen-image-plus](qwen-image-plus.md) | 30 | $0.052/次 |
+| [qwen3.8-omni-flash](qwen3.8-omni-flash.md) | 29 | $0.15 |
+| [qwen2.5-coder-32b-instruct](qwen2.5-coder-32b-instruct.md) | 29 | $2 |
+| [qwen-mt-turbo](qwen-mt-turbo.md) | 29 | $0.7 |
+| [qwen3.8-max-preview](qwen3.8-max-preview.md) | 27 | $4 |
+| [wan2.7-i2v](wan2.7-i2v.md) | 27 | $1.2 |
+| [qwen2-7b-instruct](qwen2-7b-instruct.md) | 27 | $0.575 |
+| [qwen2.5-14b-instruct](qwen2.5-14b-instruct.md) | 27 | $1 |
+| [wan2.7-t2v](wan2.7-t2v.md) | 26 | $0.2/次 |
+| [qwen3.5-omni-plus](qwen3.5-omni-plus.md) | 26 | $1.6 |
+| [qwen-image-edit-plus](qwen-image-edit-plus.md) | 26 | $0.076/次 |
+| [qwen1.5-110b-chat](qwen1.5-110b-chat.md) | 26 | $3.57 |
+| [wan2.7-r2v](wan2.7-r2v.md) | 25 | $0.0823565/次 |
+| [qwen3.7-max-preview](qwen3.7-max-preview.md) | 25 | $12 |
+| [qwen3-embedding-0.6b](qwen3-embedding-0.6b.md) | 25 | $0.05 |
+| [qwen-image](qwen-image.md) | 25 | $0.1125/次 |
+| [qwen-omni-turbo](qwen-omni-turbo.md) | 25 | $1.6 |
+| [wan2.6-i2v-flash](wan2.6-i2v-flash.md) | 24 | $0.5/次 |
+| [qwen3-embedding-4b](qwen3-embedding-4b.md) | 24 | $0.104 |
+| [qwen-vl-ocr](qwen-vl-ocr.md) | 24 | $0.3 |
+| [qwen3-tts-flash](qwen3-tts-flash.md) | 23 | $52.5 |
+| [qwen1.5-14b-chat](qwen1.5-14b-chat.md) | 23 | $2 |
+| [qwen1.5-32b-chat](qwen1.5-32b-chat.md) | 23 | $3.325 |
+| [qwen1.5-7b-chat](qwen1.5-7b-chat.md) | 23 | $1 |
+| [qwen2-57b-a14b-instruct](qwen2-57b-a14b-instruct.md) | 23 | $2 |
+| [qwen-mt-flash](qwen-mt-flash.md) | 22 | $0.102 |
+| [qwen-coder-plus](qwen-coder-plus.md) | 22 | $2.75717 |
+| [qwen-math-plus](qwen-math-plus.md) | 22 | $2.78577 |
+| [qwen-math-turbo](qwen-math-turbo.md) | 22 | $1.95 |
+| [qwen2-1.5b-instruct](qwen2-1.5b-instruct.md) | 22 | $0.2 |
+| [qwen2.5-coder-7b-instruct](qwen2.5-coder-7b-instruct.md) | 22 | $1 |
+| [qwen2.5-vl-7b-instruct](qwen2.5-vl-7b-instruct.md) | 22 | $2 |
+| [qwen3-omni-flash](qwen3-omni-flash.md) | 22 | $2 |
+| [qwen3.5-omni-flash](qwen3.5-omni-flash.md) | 21 | $0.935 |
+| [qwen3.8-flash-next](qwen3.8-flash-next.md) | 21 | $0.43 |
+| [qwen-coder-turbo](qwen-coder-turbo.md) | 21 | $2 |
+| [wan2.6-t2v](wan2.6-t2v.md) | 21 | $0.555/次 |
+| [qwen3.5-9b](qwen3.5-9b.md) | 21 | $0.13 |
+| [qwen-image-edit-max](qwen-image-edit-max.md) | 20 | $0.0714286/次 |
+
+<a id="glm"></a>
+## GLM（26）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [glm-5.3](glm-5.3.md) | 921 | $2 |
+| [glm-5.2](glm-5.2.md) | 881 | $2.4 |
+| [glm-5.3-flash](glm-5.3-flash.md) | 864 | $0.238 |
+| [glm-5.1](glm-5.1.md) | 570 | $2.1 |
+| [glm-5](glm-5.md) | 289 | $2.8 |
+| [glm-5.3-flashx](glm-5.3-flashx.md) | 197 | $0.4 |
+| [glm-4.7](glm-4.7.md) | 170 | $3 |
+| [glm-4.5-air](glm-4.5-air.md) | 151 | $0.1221 |
+| [glm-4.6](glm-4.6.md) | 143 | $1.5 |
+| [glm-4.5](glm-4.5.md) | 140 | $0.36315 |
+| [glm-4-flash](glm-4-flash.md) | 110 | $0.0318 |
+| [glm-4-airx](glm-4-airx.md) | 98 | $0.0318 |
+| [glm-4-long](glm-4-long.md) | 95 | $0.0318 |
+| [glm-4](glm-4.md) | 76 | $14.492 |
+| [glm-5-turbo](glm-5-turbo.md) | 71 | $1.2 |
+| [glm-5v-turbo](glm-5v-turbo.md) | 45 | $0.730994 |
+| [glm-4.7-flash](glm-4.7-flash.md) | 44 | $0.166375 |
+| [glm-4.5-flash](glm-4.5-flash.md) | 41 | $0.02 |
+| [glm-4.6v](glm-4.6v.md) | 39 | $1 |
+| [glm-4.5-x](glm-4.5-x.md) | 37 | $1.6 |
+| [glm-3-turbo](glm-3-turbo.md) | 35 | $1.5 |
+| [glm-4.5-airx](glm-4.5-airx.md) | 34 | $4 |
+| [glm-5.2-fast-preview](glm-5.2-fast-preview.md) | 33 | $6.4 |
+| [glm-4-air](glm-4-air.md) | 32 | $0.3 |
+| [glm-5.3-prime](glm-5.3-prime.md) | 22 | $0.882 |
+| [glm-4.5v](glm-4.5v.md) | 22 | $1.04 |
+
+<a id="kimi"></a>
+## Kimi（13）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [kimi-k3](kimi-k3.md) | 983 | $6 |
+| [kimi-k2.6](kimi-k2.6.md) | 578 | $2.275 |
+| [kimi-k2.7-code](kimi-k2.7-code.md) | 549 | $2.275 |
+| [kimi-k2.5](kimi-k2.5.md) | 316 | $2 |
+| [kimi-k2](kimi-k2.md) | 134 | $4 |
+| [kimi-k2.7-code-highspeed](kimi-k2.7-code-highspeed.md) | 103 | $19.5 |
+| [kimi-k2-0711-preview](kimi-k2-0711-preview.md) | 102 | $0.36 |
+| [kimi-k2-instruct](kimi-k2-instruct.md) | 85 | $4 |
+| [moonshot-v1](moonshot-v1.md) | 64 | $3.6 |
+| [kimi-k2.8](kimi-k2.8.md) | 46 | $1.04 |
+| [kimi-k2.7](kimi-k2.7.md) | 45 | $1.4 |
+| [kimi-k2.8-preview](kimi-k2.8-preview.md) | 44 | $1.05 |
+| [kimi-k3-1](kimi-k3-1.md) | 29 | $2 |
+
+<a id="doubao"></a>
+## 豆包（35）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [doubao-seed-2-1-pro](doubao-seed-2-1-pro.md) | 150 | $6 |
+| [doubao-seedream-5-0](doubao-seedream-5-0.md) | 143 | $0.22/次 |
+| [doubao-seed-2-0-pro](doubao-seed-2-0-pro.md) | 138 | $3.2 |
+| [doubao-seed-2-0-lite](doubao-seed-2-0-lite.md) | 130 | $0.6 |
+| [doubao-seedream-4-5](doubao-seedream-4-5.md) | 130 | $0.25/次 |
+| [doubao-seedance-2-0](doubao-seedance-2-0.md) | 126 | $46 |
+| [doubao-seed-2-0-mini](doubao-seed-2-0-mini.md) | 126 | $0.2 |
+| [doubao-seedream-4-0](doubao-seedream-4-0.md) | 126 | $0.2/次 |
+| [doubao-seed-1-8](doubao-seed-1-8.md) | 117 | $0.8 |
+| [doubao-seed-2-0-code-preview](doubao-seed-2-0-code-preview.md) | 117 | $3.2 |
+| [doubao-seedance-2-0-fast](doubao-seedance-2-0-fast.md) | 113 | $37 |
+| [doubao-seedream-5-0-pro](doubao-seedream-5-0-pro.md) | 112 | $0.0186/次 |
+| [doubao-seed-1-6](doubao-seed-1-6.md) | 103 | $1.2 |
+| [doubao-seedance-1-0-pro](doubao-seedance-1-0-pro.md) | 100 | $22.5/次 |
+| [doubao-seedream-3-0-t2i](doubao-seedream-3-0-t2i.md) | 99 | $0.1/次 |
+| [doubao-seedance-1-0-pro-fast](doubao-seedance-1-0-pro-fast.md) | 96 | $6.3/次 |
+| [doubao-seed-1-6-flash](doubao-seed-1-6-flash.md) | 95 | $0.3 |
+| [doubao-seed-1-6-vision](doubao-seed-1-6-vision.md) | 95 | $1.6 |
+| [doubao-seedance-2-0-mini](doubao-seedance-2-0-mini.md) | 94 | $19.55 |
+| [doubao-seedance-2-5](doubao-seedance-2-5.md) | 89 | $70 |
+| [doubao-seed-2-1-turbo](doubao-seed-2-1-turbo.md) | 88 | $0.675 |
+| [doubao-seedance-1-5-pro](doubao-seedance-1-5-pro.md) | 76 | $24/次 |
+| [doubao-seed-evolving](doubao-seed-evolving.md) | 76 | $9 |
+| [seedance-2.0](seedance-2.0.md) | 57 | $0.56/次 |
+| [seedance-2.5](seedance-2.5.md) | 56 | $0.7/次 |
+| [seedance-2.0-fast](seedance-2.0-fast.md) | 41 | $0.2418/次 |
+| [seedance-2.0-mini](seedance-2.0-mini.md) | 39 | $0.175/次 |
+| [doubao-seed-2.0-lite](doubao-seed-2.0-lite.md) | 38 | $0.258 |
+| [doubao-seed-2.0-pro](doubao-seed-2.0-pro.md) | 32 | $1.28 |
+| [doubao-seedance-2.0](doubao-seedance-2.0.md) | 29 | $15 |
+| [doubao-seed-2.0-code](doubao-seed-2.0-code.md) | 26 | $1.646 |
+| [doubao-seedance-2.0-mini](doubao-seedance-2.0-mini.md) | 24 | $3.2857 |
+| [doubao-seedance-2.5](doubao-seedance-2.5.md) | 23 | $63 |
+| [doubao-seed-2.0-mini](doubao-seed-2.0-mini.md) | 22 | $0.05 |
+| [doubao-seed-2.1-turbo](doubao-seed-2.1-turbo.md) | 21 | $1.05 |
+
+<a id="minimax"></a>
+## MiniMax（20）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [minimax-m3](minimax-m3.md) | 576 | $0.693 |
+| [minimax-m2.7](minimax-m2.7.md) | 421 | $0.798 |
+| [minimax-m2.5](minimax-m2.5.md) | 290 | $1.075 |
+| [minimax-m2.7-highspeed](minimax-m2.7-highspeed.md) | 175 | $1.05 |
+| [minimax-h3](minimax-h3.md) | 171 | $0.3125/次 |
+| [minimax-m2.1](minimax-m2.1.md) | 143 | $2.1 |
+| [minimax-m2](minimax-m2.md) | 104 | $2.1 |
+| [speech-02-hd](speech-02-hd.md) | 99 | $0.016/次 |
+| [speech-2.8-hd](speech-2.8-hd.md) | 99 | $0.016/次 |
+| [speech-2.8-turbo](speech-2.8-turbo.md) | 99 | $0.016/次 |
+| [speech-02-turbo](speech-02-turbo.md) | 97 | $0.016/次 |
+| [speech-2.6-turbo](speech-2.6-turbo.md) | 89 | $0.016/次 |
+| [speech-2.6-hd](speech-2.6-hd.md) | 88 | $0.016/次 |
+| [minimax-voice-design](minimax-voice-design.md) | 83 | $0.016/次 |
+| [minimax-hailuo-2.3](minimax-hailuo-2.3.md) | 72 | $0.016/次 |
+| [minimax-hailuo-02](minimax-hailuo-02.md) | 66 | $0.016/次 |
+| [minimax-m2.5-highspeed](minimax-m2.5-highspeed.md) | 58 | $1.47 |
+| [minimax-m2.1-highspeed](minimax-m2.1-highspeed.md) | 29 | $2 |
+| [minimax-m1](minimax-m1.md) | 23 | $1.6 |
+| [minimax-h3-768p](minimax-h3-768p.md) | 21 | $0.13/次 |
+
+<a id="hunyuan"></a>
+## 混元（4）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [hy3](hy3.md) | 203 | $0.22 |
+| [hy4-preview](hy4-preview.md) | 196 | $1.19422 |
+| [hy4](hy4.md) | 51 | $1.2 |
+| [hy3-preview](hy3-preview.md) | 31 | $0.29 |
+
+<a id="llama"></a>
+## Llama（19）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [llama-3.2-11b-vision-instruct](llama-3.2-11b-vision-instruct.md) | 122 | $2 |
+| [llama-3.2-90b-vision-instruct](llama-3.2-90b-vision-instruct.md) | 114 | $6 |
+| [llama-3.2-1b-instruct](llama-3.2-1b-instruct.md) | 109 | $0.5 |
+| [llama-3.2-3b-instruct](llama-3.2-3b-instruct.md) | 108 | $1 |
+| [llama-3.3-70b-instruct](llama-3.3-70b-instruct.md) | 108 | $1.08 |
+| [llama-3.1-405b](llama-3.1-405b.md) | 106 | $6 |
+| [llama-3.1-70b](llama-3.1-70b.md) | 104 | $4 |
+| [llama-3.1-8b](llama-3.1-8b.md) | 103 | $2 |
+| [llama-2-70b](llama-2-70b.md) | 95 | $2 |
+| [llama-3-8b](llama-3-8b.md) | 95 | $2 |
+| [llama-3-70b](llama-3-70b.md) | 94 | $4 |
+| [llama-2-7b](llama-2-7b.md) | 90 | $2 |
+| [llama-3.1-405b-instruct](llama-3.1-405b-instruct.md) | 60 | $9 |
+| [llama-2-13b](llama-2-13b.md) | 58 | $2 |
+| [llama-3.3-70b](llama-3.3-70b.md) | 51 | $0.1 |
+| [llama-3.1-70b-instruct](llama-3.1-70b-instruct.md) | 28 | $1.4 |
+| [llama-3.1-8b-instruct](llama-3.1-8b-instruct.md) | 28 | $0.1 |
+| [llama-guard-4-12b](llama-guard-4-12b.md) | 27 | $0.45 |
+| [llama-4-scout](llama-4-scout.md) | 22 | $0.35 |
+
+<a id="media"></a>
+## 图像/视频/音频（77）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [z-image-turbo](z-image-turbo.md) | 120 | $0.1/次 |
+| [viduq3-turbo](viduq3-turbo.md) | 107 | $0.016/次 |
+| [happyhorse-1.1-t2v](happyhorse-1.1-t2v.md) | 106 | $0.013/次 |
+| [viduq3-pro](viduq3-pro.md) | 105 | $0.016/次 |
+| [happyhorse-1.1-r2v](happyhorse-1.1-r2v.md) | 105 | $0.013/次 |
+| [happyhorse-1.1-i2v](happyhorse-1.1-i2v.md) | 104 | $0.013/次 |
+| [happyhorse-1.0-video-edit](happyhorse-1.0-video-edit.md) | 102 | $0.014/次 |
+| [happyhorse-1.0-t2v](happyhorse-1.0-t2v.md) | 100 | $0.014/次 |
+| [happyhorse-1.0-i2v](happyhorse-1.0-i2v.md) | 98 | $0.014/次 |
+| [kling-3.0-turbo](kling-3.0-turbo.md) | 97 | $0.017/次 |
+| [happyhorse-1.0-r2v](happyhorse-1.0-r2v.md) | 96 | $0.014/次 |
+| [viduq2-pro](viduq2-pro.md) | 93 | $0.016/次 |
+| [viduq2](viduq2.md) | 92 | $0.016/次 |
+| [viduq2-turbo](viduq2-turbo.md) | 92 | $0.016/次 |
+| [flux-1.1-pro](flux-1.1-pro.md) | 86 | $0.45/次 |
+| [flux.1-kontext-pro](flux.1-kontext-pro.md) | 84 | $0.18/次 |
+| [suno-uploads](suno-uploads.md) | 83 | $0.01/次 |
+| [pixverse-video](pixverse-video.md) | 80 | $0.014/次 |
+| [suno-music-open](suno-music-open.md) | 79 | $0.026667/次 |
+| [pixverse-image-template](pixverse-image-template.md) | 78 | $0.014/次 |
+| [pixverse-mask-selection](pixverse-mask-selection.md) | 78 | $0.014/次 |
+| [pixverse-mimic](pixverse-mimic.md) | 78 | $0.014/次 |
+| [pixverse-multi-transition](pixverse-multi-transition.md) | 78 | $0.014/次 |
+| [pixverse-restyle](pixverse-restyle.md) | 78 | $0.014/次 |
+| [pixverse-sound-effect](pixverse-sound-effect.md) | 78 | $0.014/次 |
+| [pixverse-swap](pixverse-swap.md) | 78 | $0.014/次 |
+| [pixverse-lipsync](pixverse-lipsync.md) | 77 | $0.014/次 |
+| [pixverse-modify](pixverse-modify.md) | 77 | $0.014/次 |
+| [viduq3](viduq3.md) | 66 | $0.016/次 |
+| [viduq3-mix](viduq3-mix.md) | 65 | $0.016/次 |
+| [viduq1](viduq1.md) | 62 | $0.016/次 |
+| [vidu2.0](vidu2.0.md) | 61 | $0.016/次 |
+| [viduq1-classic](viduq1-classic.md) | 59 | $0.016/次 |
+| [mj-imagine](mj-imagine.md) | 58 | $0.0882/次 |
+| [mj-variation](mj-variation.md) | 55 | $0.0882/次 |
+| [mj-upscale](mj-upscale.md) | 55 | $0.0441/次 |
+| [mj-reroll](mj-reroll.md) | 53 | $0.0882/次 |
+| [vidu-tts](vidu-tts.md) | 52 | $0.016/次 |
+| [mj-modal](mj-modal.md) | 51 | $0.0882/次 |
+| [mj-pan](mj-pan.md) | 51 | $0.0882/次 |
+| [mj-blend](mj-blend.md) | 50 | $0.0882/次 |
+| [mj-describe](mj-describe.md) | 50 | $0.0441/次 |
+| [mj-high-variation](mj-high-variation.md) | 50 | $0.0882/次 |
+| [mj-low-variation](mj-low-variation.md) | 50 | $0.0882/次 |
+| [mj-zoom](mj-zoom.md) | 50 | $0.0882/次 |
+| [mj-inpaint](mj-inpaint.md) | 50 | $0.1/次 |
+| [mj-custom-zoom](mj-custom-zoom.md) | 47 | $0.1/次 |
+| [kling-video](kling-video.md) | 45 | $0.00250002/次 |
+| [suno-music](suno-music.md) | 42 | $0.2/次 |
+| [kling-video-extend](kling-video-extend.md) | 41 | $0.00211252/次 |
+| [mj-upload](mj-upload.md) | 39 | $0.000882/次 |
+| [kling-effects](kling-effects.md) | 38 | $0.00199377/次 |
+| [kling-omni-image](kling-omni-image.md) | 38 | $0.00211252/次 |
+| [kling-custom-elements](kling-custom-elements.md) | 37 | $0.00230627/次 |
+| [kling-advanced-lip-sync](kling-advanced-lip-sync.md) | 36 | $0.00211252/次 |
+| [kling-custom-voices](kling-custom-voices.md) | 36 | $0.00211252/次 |
+| [kling-omni-video](kling-omni-video.md) | 36 | $0.00230627/次 |
+| [suno-lyrics](suno-lyrics.md) | 36 | $0.0400005/次 |
+| [kling-audio](kling-audio.md) | 34 | $0.00230627/次 |
+| [kling-advanced-custom-elements](kling-advanced-custom-elements.md) | 33 | $0.00199377/次 |
+| [kling-avatar-image2video](kling-avatar-image2video.md) | 33 | $0.00211252/次 |
+| [kling-image-recognize](kling-image-recognize.md) | 33 | $0.00211252/次 |
+| [kling-multi-elements](kling-multi-elements.md) | 33 | $0.00211252/次 |
+| [kling-motion-control](kling-motion-control.md) | 32 | $0.00187553/次 |
+| [kling-v3](kling-v3.md) | 31 | $1.6 |
+| [vidu-image-q2](vidu-image-q2.md) | 31 | $0.00164707/次 |
+| [flux-2-pro](flux-2-pro.md) | 27 | $0.0475/次 |
+| [midjourney](midjourney.md) | 27 | $0.25/次 |
+| [kling-3.0](kling-3.0.md) | 27 | $0.45/次 |
+| [flux-kontext-pro](flux-kontext-pro.md) | 26 | $0.04/次 |
+| [flux-kontext-max](flux-kontext-max.md) | 25 | $0.08/次 |
+| [kling-v2-6](kling-v2-6.md) | 22 | $0.3736/次 |
+| [flux-2-max](flux-2-max.md) | 21 | $0.1/次 |
+| [kling-video-o1](kling-video-o1.md) | 21 | $0.4136/次 |
+| [flux-2-flex](flux-2-flex.md) | 20 | $0.106/次 |
+| [suno-v3](suno-v3.md) | 20 | $0.45/次 |
+| [suno-v3.5](suno-v3.5.md) | 20 | $0.45/次 |
+
+<a id="other"></a>
+## 其他（73）
+
+| 模型 | 站点数 | 中位价 |
+|---|---|---|
+| [bge-reranker-v2-m3](bge-reranker-v2-m3.md) | 114 | $0.01 |
+| [bce-reranker-base-v1](bce-reranker-base-v1.md) | 89 | $0.01 |
+| [sparkdesk-v1.1](sparkdesk-v1.1.md) | 87 | $20 |
+| [sparkdesk-v3.1](sparkdesk-v3.1.md) | 87 | $60 |
+| [sparkdesk-v3.5](sparkdesk-v3.5.md) | 86 | $60 |
+| [sparkdesk-v2.1](sparkdesk-v2.1.md) | 85 | $40 |
+| [step-5-preview](step-5-preview.md) | 58 | $1.13 |
+| [mai-ds-r1](mai-ds-r1.md) | 58 | $3.942 |
+| [gemma-7b-it](gemma-7b-it.md) | 58 | $2 |
+| [k3](k3.md) | 57 | $4 |
+| [jev-1.13.0](jev-1.13.0.md) | 57 | $0.0336 |
+| [step-3.7-flash](step-3.7-flash.md) | 53 | $0.45 |
+| [bge-m3](bge-m3.md) | 53 | $0.04 |
+| [gemma-4-31b-it](gemma-4-31b-it.md) | 52 | $0.138462 |
+| [jev](jev.md) | 51 | $0.0441 |
+| [audio1.0](audio1.0.md) | 51 | $0.016/次 |
+| [muse-spark-1.3-contributor](muse-spark-1.3-contributor.md) | 47 | $0.1225 |
+| [step-3.5-flash](step-3.5-flash.md) | 38 | $0.2 |
+| [composer-2.5](composer-2.5.md) | 38 | $0.25 |
+| [text-moderation](text-moderation.md) | 37 | $0.2 |
+| [nemotron-3-super-120b-a12b](nemotron-3-super-120b-a12b.md) | 37 | $0.21 |
+| [nemotron-3-ultra-550b-a55b](nemotron-3-ultra-550b-a55b.md) | 36 | $1.06154 |
+| [mistral-large](mistral-large.md) | 34 | $1.75 |
+| [muse-spark-1.2-contributor](muse-spark-1.2-contributor.md) | 34 | $0.126923 |
+| [muse-spark-1.3](muse-spark-1.3.md) | 32 | $1.25 |
+| [agnes-2.0-flash](agnes-2.0-flash.md) | 32 | $0.55 |
+| [aigc-image-kling](aigc-image-kling.md) | 31 | $0.00175001/次 |
+| [omni-fast](omni-fast.md) | 30 | $0.9936/次 |
+| [text-babbage-001](text-babbage-001.md) | 30 | $0.5 |
+| [text-curie-001](text-curie-001.md) | 30 | $2 |
+| [longcat-2.0](longcat-2.0.md) | 30 | $1.36 |
+| [aigc-video-hailuo](aigc-video-hailuo.md) | 30 | $0.0126/次 |
+| [agnes-2.5-flash](agnes-2.5-flash.md) | 30 | $0.75 |
+| [gemma-3-12b-it](gemma-3-12b-it.md) | 29 | $0.0769231 |
+| [text-ada-001](text-ada-001.md) | 29 | $0.4 |
+| [text-moderation-stable](text-moderation-stable.md) | 29 | $0.2 |
+| [gemma-4-26b-a4b-it](gemma-4-26b-a4b-it.md) | 29 | $0.0855 |
+| [text-davinci-edit-001](text-davinci-edit-001.md) | 27 | $20 |
+| [auto](auto.md) | 27 | $0.85 |
+| [agnes-image-2.1-flash](agnes-image-2.1-flash.md) | 27 | $0.021/次 |
+| [gemma-3-4b-it](gemma-3-4b-it.md) | 26 | $0.072 |
+| [mistral-small](mistral-small.md) | 26 | $0.525 |
+| [free](free.md) | 26 | $0.045 |
+| [laguna-xs-2.1](laguna-xs-2.1.md) | 26 | $0.0761538 |
+| [space-bunny](space-bunny.md) | 26 | $0.5 |
+| [gemma-26b-a4b-it](gemma-26b-a4b-it.md) | 25 | $1.25 |
+| [muse-glimmer-30b](muse-glimmer-30b.md) | 25 | $0.430769 |
+| [nemotron-3.5-content-safety](nemotron-3.5-content-safety.md) | 24 | $0.353846 |
+| [ernie-3.5](ernie-3.5.md) | 24 | $3.7144 |
+| [dreamina-seedance-2-0](dreamina-seedance-2-0.md) | 23 | $7.7 |
+| [dreamina-seedance-2-0-fast](dreamina-seedance-2-0-fast.md) | 23 | $18.984 |
+| [nemotron-3-super-120b-a12b:free](nemotron-3-super-120b-a12b_free.md) | 23 | $0.32 |
+| [gemma-3-27b-it](gemma-3-27b-it.md) | 22 | $0.25 |
+| [longcat-2.5-preview](longcat-2.5-preview.md) | 22 | $0.75 |
+| [nemotron-3-ultra](nemotron-3-ultra.md) | 22 | $2.005 |
+| [nemotron-3.5-lightning](nemotron-3.5-lightning.md) | 22 | $0.107692 |
+| [nemotron-3-nano-30b-a3b](nemotron-3-nano-30b-a3b.md) | 21 | $0.0923077 |
+| [nemotron-3-nano-omni-30b-a3b](nemotron-3-nano-omni-30b-a3b.md) | 21 | $0.33125 |
+| [bge-large-en-v1.5](bge-large-en-v1.5.md) | 21 | $0.2 |
+| [yi-large](yi-large.md) | 21 | $2 |
+| [mistral](mistral.md) | 21 | $1.5 |
+| [nai-diffusion-4-5-full](nai-diffusion-4-5-full.md) | 21 | $0.05/次 |
+| [nai-diffusion-5-full](nai-diffusion-5-full.md) | 21 | $0.1/次 |
+| [codestral](codestral.md) | 21 | $0.461538 |
+| [omni-fast-no-water](omni-fast-no-water.md) | 20 | $1.2075/次 |
+| [agnes-3.0-flash](agnes-3.0-flash.md) | 20 | $0.1 |
+| [nemotron-3-ultra-550b-a55b:free](nemotron-3-ultra-550b-a55b_free.md) | 20 | $1.75 |
+| [ernie-4.0](ernie-4.0.md) | 20 | $33.144 |
+| [ernie-speed](ernie-speed.md) | 20 | $0.9716 |
+| [laguna-s-2.1](laguna-s-2.1.md) | 20 | $0.159231 |
+| [ministral-14b](ministral-14b.md) | 20 | $0.36 |
+| [ministral-8b](ministral-8b.md) | 20 | $0.250385 |
+| [embedding-v1](embedding-v1.md) | 20 | $0.5 |
 

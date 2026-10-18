@@ -1,152 +1,60 @@
 # gpt-4o
 
-> 144 家 · 最低 **$0.11** @ `relayrouter.ai` · 推算价（USD/1M 输入），未对账
+> 326 站提供 · 正常价 251 站 · 中位价 **$2.5**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `relayrouter.ai` | $0.11 | $0.44 | Azure-Gpt-1 | 0.044 | gpt-4o |
-| 2 | `gptapi.top` | $0.1375 | $0.55 | Azure-Gpt-1 | 0.05499999999999999 | gpt-4o |
-| 3 | `moliapi.com` | $0.1386 | $0.5544 | Azure-Gpt-1 | 0.055439999999999996 | gpt-4o |
-| 4 | `ai-api.cc` | $0.143 | $0.572 | Azure-Gpt-1 | 0.0572 | gpt-4o |
-| 5 | `nodapi.com` | $0.1452 | $0.5808 | Azure-Gpt-1 | 0.05808 | gpt-4o |
-| 6 | `anyaigc.ai` | $0.1485 | $0.594 | Azure-Gpt-1 | 0.0594 | gpt-4o |
-| 7 | `xiguapi.cc` | $0.154 | $0.616 | Azure-Gpt-1 | 0.061599999999999995 | gpt-4o |
-| 8 | `cn.ai-api.loft.games` | $0.2 | $0.8 | test | 0.08 | gpt-4o |
-| 9 | `api.n1n.ai` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
-| 10 | `jeniya.cc` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
-| 11 | `llm-api.dev` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
-| 12 | `quanzil.cn` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
-| 13 | `quanzil.net` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
-| 14 | `api.socode.cc` | $0.25 | $1.0 | GPT[Main] | 0.1 | gpt-4o |
-| 15 | `ai.mggoo.com` | $0.3 | $1.2 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-4o |
-| 16 | `api.aiberm.com` | $0.414 | $1.656 | default | 0.23 | openai/gpt-4o |
-| 17 | `aiberm.dev` | $0.414 | $1.656 | default | 0.23 | openai/gpt-4o |
-| 18 | `us.xigong.cloud` | $0.45 | $1.8 | GPT-野官Key | 0.18 | gpt-4o |
-| 19 | `ai.8888.name` | $0.5 | $2.0 | GPT—官key | 0.2 | gpt-4o |
-| 20 | `sub2api.hyl2api.com` | $0.5 | $2.0 | GPT  | 0.2 | gpt-4o |
-| 21 | `www.zhangsan.yun` | $0.5625 | $2.25 | image-2分组 | 0.15 | gpt-4o |
-| 22 | `aipixapi.art` | $0.625 | $2.5 | GPT-官key | 0.25 | gpt-4o |
-| 23 | `api.geniuscoder.net` | $0.625 | $2.5 | gpt优惠 | 0.25 | gpt-4o |
-| 24 | `www.koalaapi.com` | $0.75 | $0.375 | default | 0.3 | gpt-4o |
-| 25 | `koalaapi.com` | $0.75 | $0.375 | default | 0.3 | gpt-4o |
-| 26 | `koalaapi.ai` | $0.75 | $0.375 | default | 0.3 | gpt-4o |
-| 27 | `us.hboom.ai` | $0.75 | $3.0 | Azure-Mid | 0.3 | gpt-4o |
-| 28 | `www.191u.cn` | $0.875 | $3.5 | A4-gpt官key | 0.35 | gpt-4o |
-| 29 | `llmhub.me` | $0.95 | $4.75 | default | 0.95 | gpt-4o |
-| 30 | `www.daleai.shop` | $1 | $4.0 | default | 0.4 | gpt-4o |
-| 31 | `runapi.co` | $1 | $4.0 | default | 1 | gpt-4o |
-| 32 | `go.sbgpt.site` | $1.2 | $4.8 | 无审核az-0.38 | 0.48 | gpt-4o |
-| 33 | `49.51.196.114` | $1.25 | $5.0 | gpt | 0.5 | gpt-4o |
-| 34 | `cn.api.zyai.online` | $1.25 | $3.75 | mini | 0.5 | gpt-4o |
-| 35 | `api.xiaoma.best` | $1.25 | $5.0 | gpt | 0.5 | gpt-4o |
-| 36 | `www.xiaoma.best` | $1.25 | $5.0 | gpt | 0.5 | gpt-4o |
-| 37 | `api.openai-labs.com` | $1.25 | $5.0 | g1 | 0.5 | gpt-4o |
-| 38 | `api.zyai.online` | $1.25 | $3.75 | mini | 0.5 | gpt-4o |
-| 39 | `kfcv50.link` | $1.25 | $5.0 | az_act05 | 0.5 | gpt-4o |
-| 40 | `api2.linkapi.ai` | $1.25 | $5.0 | azureopenai | 0.5 | gpt-4o |
-| 41 | `linkapi.cc` | $1.25 | $5.0 | azureopenai | 0.5 | gpt-4o |
-| 42 | `www.vectorengine.ai` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 43 | `sub.xingjiabiapi.org` | $1.5 | $6.0 | 逆向按量 | 0.6 | gpt-4o |
-| 44 | `www.xingjiabiapi.org` | $1.5 | $6.0 | 逆向按量 | 0.6 | gpt-4o |
-| 45 | `www.yunwu.ai` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 46 | `api.yunwu.ai` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 47 | `apipro.maynor1024.live` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 48 | `yunwu.ai` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 49 | `aiapihub.cloud` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 50 | `api-hub.vip` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 51 | `apixin.cn` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 52 | `fluxapi.top` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 53 | `qianfufu.top` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 54 | `sg.mux.la` | $1.5 | $6.0 | GPT-AZ-Pro | 0.6 | gpt-4o |
-| 55 | `sparkapi.cn` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 56 | `uouo.fun` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 57 | `vectorengine.top` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 58 | `yunshu.hk` | $1.5 | $6.0 | 限时特价 | 0.6 | gpt-4o |
-| 59 | `api02.ananops.com` | $1.625 | $6.5 | svip_az | 0.65 | gpt-4o |
-| 60 | `rockapi.ai` | $1.75 | $7.0 | 0.7x | 0.7 | gpt-4o |
-| 61 | `rockapi.com` | $1.75 | $7.0 | 0.7x | 0.7 | gpt-4o |
-| 62 | `api.bltcy.ai` | $2 | $8.0 | vip | 0.8 | gpt-4o |
-| 63 | `poloai.top` | $2 | $8.0 | 低价福利 \| 波动临时资源 | 0.8 | gpt-4o |
-| 64 | `api2.poloai.top` | $2 | $8.0 | 低价福利 \| 波动临时资源 | 0.8 | gpt-4o |
-| 65 | `apiflux.ai` | $2.125 | $8.5 | default | 0.85 | gpt-4o |
-| 66 | `www.laysoai.com` | $2.4375 | $9.75 | Azure-Gpt-1 | 0.975 | gpt-4o |
-| 67 | `aiapi.world` | $2.49118 | $9.96472 | default | 0.1445 | gpt-4o |
-| 68 | `123api.co` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 69 | `ai-api.sliveridc1.cn` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 70 | `ai.prism.uno` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 71 | `api.bita-api.com` | $2.5 | $10.0 | gpt-origin | 1 | gpt-4o |
-| 72 | `api.hopeai.cc` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 73 | `api.mountainsea.ai` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 74 | `api.nuwarouter.com` | $2.5 | $10.0 | Openai-AZ | 1 | gpt-4o |
-| 75 | `api.tenzen.ai` | $2.5 | $10.0 | ze | 1 | gpt-4o |
-| 76 | `api.xistree.hk` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 77 | `api.yuboar.com` | $2.5 | $10.0 | AzureOpenAI | 1 | gpt-4o |
-| 78 | `bita-api-production.up.railway.app` | $2.5 | $10.0 | gpt-origin | 1 | gpt-4o |
-| 79 | `codechn.com` | $2.5 | $10.0 | gpt/grok | 1 | gpt-4o |
-| 80 | `infistar.cc` | $2.5 | $10.0 | supply-1b958f3a88eaa13dd48399f9 | 1 | gpt-4o |
-| 81 | `open.cherryin.net` | $2.5 | $10.0 | default | 1 | openai/gpt-4o |
-| 82 | `www.infistar.cc` | $2.5 | $10.0 | supply-1b958f3a88eaa13dd48399f9 | 1 | gpt-4o |
-| 83 | `hk.tenzen.ai` | $2.5 | $10.0 | 追书 | 1 | gpt-4o |
-| 84 | `api.wochirou.com` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 85 | `api.apiyi.com` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 86 | `api.laozhang.ai` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 87 | `api.nekoapi.com` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 88 | `crazyrouter.com` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 89 | `easyrouter.io` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 90 | `easyrouter.im` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 91 | `llmhub.net` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 92 | `nekoapi.com` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 93 | `openai.mux.la` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 94 | `apishop.ai` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 95 | `tokenflux.io` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 96 | `yundu.io` | $2.5 | $10.0 | default | 1 | gpt-4o |
-| 97 | `proaiapi.com` | $2.6 | $10.4 | default | 1 | gpt-4o |
-| 98 | `api.vakv.cn` | $3.125 | $12.5 | 1848 | 1.25 | gpt-4o |
-| 99 | `vakv.cn` | $3.125 | $12.5 | 1848 | 1.25 | gpt-4o |
-| 100 | `nexaxis.io` | $3.25 | $13.0 | ChatGPT_AZ | 1.3 | gpt-4o |
-| 101 | `name1.ai` | $3.5 | $14.0 | az gpt 特价 | 1.4 | gpt-4o |
-| 102 | `www.name1.ai` | $3.5 | $14.0 | az gpt 特价 | 1.4 | gpt-4o |
-| 103 | `api.open.xiaojingai.com` | $3.5 | $10.5 | azure2 | 1.4 | gpt-4o |
-| 104 | `hiapi.online` | $3.5 | $14.0 | default | 1 | gpt-4o |
-| 105 | `ai.ydcloud.org` | $3.75 | $15.0 | az gpt | 1.5 | gpt-4o |
-| 106 | `xrok.dev` | $3.75 | $15.0 | AZ-GPT-1.3 | 1.5 | gpt-4o |
-| 107 | `api.xrok.dev` | $3.75 | $15.0 | AZ-GPT-1.3 | 1.5 | gpt-4o |
-| 108 | `vip.yinli.one` | $3.75 | $15.0 | GPT-Azure-低价-90%稳定性 | 1.5 | gpt-4o |
-| 109 | `api.tacklekey.com` | $3.84615 | $15.384616 | default | 1 | openai/gpt-4o |
-| 110 | `api.zhimigy.cn` | $4 | $16.0 | pro | 1.6 | gpt-4o |
-| 111 | `dapicloud.com` | $4.5 | $18.0 | gpt-azure | 1.8 | gpt-4o |
-| 112 | `www.dapicloud.com` | $4.5 | $18.0 | gpt-azure | 1.8 | gpt-4o |
-| 113 | `kaiycb.com` | $5 | $20.0 | gpt高速分组 | 2 | gpt-4o |
-| 114 | `paw.v1chat.cc` | $5 | $20.0 | default | 1 | gpt-4o |
-| 115 | `www.kaiycb.com` | $5 | $20.0 | gpt高速分组 | 2 | gpt-4o |
-| 116 | `4sapi.com` | $5 | $2.5 | 一key官方中转全模型 | 2 | gpt-4o |
-| 117 | `deepkey.top` | $5 | $15.0 | gpt-azure | 1 | gpt-4o |
-| 118 | `4sapi.ai` | $5 | $2.5 | default | 2 | gpt-4o |
-| 119 | `4sapi.dev` | $5 | $2.5 | default | 2 | gpt-4o |
-| 120 | `4sapi.net` | $5 | $2.5 | default | 2 | gpt-4o |
-| 121 | `4sapi.top` | $5 | $2.5 | default | 2 | gpt-4o |
-| 122 | `4sapi.club` | $5 | $2.5 | default | 2 | gpt-4o |
-| 123 | `ai.ufoai.online` | $6 | $24.0 | default | 2.4 | gpt-4o |
-| 124 | `1024token.xyz` | $6.5 | $26.0 | azure-gpt | 2.6 | gpt-4o |
-| 125 | `cn.liantongapi.com` | $7.5 | $30.0 | gpt | 3 | gpt-4o |
-| 126 | `nbapi.net` | $7.5 | $37.5 | vip | 3 | gpt-4o |
-| 127 | `api.kelaiapi.cc` | $8.75 | $35.0 | vip_2_official | 3.5 | gpt-4o |
-| 128 | `www.kelaiapi.cc` | $8.75 | $35.0 | vip_2_official | 3.5 | gpt-4o |
-| 129 | `api2.4xapi.com` | $10 | $40.0 | GPT-OpenAI | 4 | gpt-4o |
-| 130 | `tokenwenwen.com` | $15 | $60.0 | OpenAI Gpt官方直连 | 6 | gpt-4o |
-| 131 | `www.tokenwenwen.com` | $15 | $60.0 | OpenAI Gpt官方直连 | 6 | gpt-4o |
-| 132 | `www.claudecn.top` | $17.5 | $70.0 | 正价Openai | 7 | gpt-4o |
-| 133 | `claudecn.top` | $17.5 | $70.0 | 正价Openai | 7 | gpt-4o |
-| 134 | `freegpt.tech` | $17.5 | $70.0 | default | 7 | gpt-4o |
-| 135 | `jp.claudecn.top` | $17.5 | $70.0 | 正价Openai | 7 | gpt-4o |
-| 136 | `llm-hub.top` | $18.2 | $77.0 | default | 1 | gpt-4o |
-| 137 | `api.onefaka.com` | $30 | $120.0 | codex | 0.4 | gpt-4o |
-| 138 | `nova.vcrauo.com` | $30 | $120.0 | GPT·官key渠道 | 0.4 | gpt-4o |
-| 139 | `www.wolfai.top` | $30 | $120.0 | user | 0.4 | gpt-4o |
-| 140 | `liangjiewis.com` | $70.312 | $281.25 | default | 1 | gpt-4o |
-| 141 | `liangjiewis.ai` | $70.312 | $281.25 | default | 1 | gpt-4o |
-| 142 | `api.dzzi.ai` | $150 | $600.0 | 按量 | 2 | gpt-4o |
-| 143 | `llm.forapi.cloud` | $180 | $720.0 | az_gpt | 2.4 | gpt-4o |
-| 144 | `viptokens.net` | $202.5 | $810.0 | OAI官转 | 2.7 | gpt-4o |
+| 1 | `api.vibe-subsapi.com` | $0.125 | $0.5 | ChatGPT 混池 | 0.05 | gpt-4o |
+| 2 | `v2.cloudmist.cloud` | $0.1265 | $0.506 | Azure-Gpt-1 | 0.0506 | gpt-4o |
+| 3 | `www.vectronode.com` | $0.132 | $0.528 | Azure-Gpt-1 | 0.0528 | gpt-4o |
+| 4 | `ciyuan.today` | $0.1375 | $0.55 | Azure-Gpt-1 | 0.055 | gpt-4o |
+| 5 | `gptapi.top` | $0.1375 | $0.55 | Azure-Gpt-1 | 0.055 | gpt-4o |
+| 6 | `makerend.com` | $0.1375 | $0.55 | Azure-Gpt-1 | 0.055 | gpt-4o |
+| 7 | `moliapi.com` | $0.1386 | $0.5544 | Azure-Gpt-1 | 0.05544 | gpt-4o |
+| 8 | `ai-api.cc` | $0.143 | $0.572 | Azure-Gpt-1 | 0.0572 | gpt-4o |
+| 9 | `nodapi.com` | $0.1452 | $0.5808 | Azure-Gpt-1 | 0.05808 | gpt-4o |
+| 10 | `anyaigc.ai` | $0.1485 | $0.594 | Azure-Gpt-1 | 0.0594 | gpt-4o |
+| 11 | `sheepaiplus.top` | $0.154 | $0.616 | Azure-Gpt-1 | 0.0616 | gpt-4o |
+| 12 | `xiguapi.icu` | $0.154 | $0.616 | Azure-Gpt-1 | 0.0616 | gpt-4o |
+| 13 | `api.videocaptioner.cn` | $0.165 | $0.66 | Azure-Gpt-1 | 0.066 | gpt-4o |
+| 14 | `aiapibank.com` | $0.175 | $0.7 | GPT低价分组 | 0.07 | gpt-4o |
+| 15 | `api.nixapi.com` | $0.1859 | $0.7436 | Azure-Gpt-1 | 0.07436 | gpt-4o |
+| 16 | `agent.tokensea.ai` | $0.2 | $0.6 | gpt-0.2 | 0.2 | gpt-4o-2024-05-13 |
+| 17 | `xckjj.com` | $0.2 | $0.8 | 国模 | 0.08 | gpt-4o |
+| 18 | `xinyue.mom` | $0.2 | $0.8 | 不降智焚决【只有astra】 | 0.08 | gpt-4o |
+| 19 | `aiwuje.com` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 20 | `api.echoflowai.cc` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 21 | `api.n1n.ai` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 22 | `api.openlux.ai` | $0.22 | $0.66 | Azure-Gpt-1 | 0.044 | gpt-4o-2024-05-13 |
+| 23 | `api.quickrouter.ai` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 24 | `api.relayrouter.ai` | $0.22 | $0.66 | Azure-Gpt-1 | 0.044 | gpt-4o-2024-05-13 |
+| 25 | `jeniya.cn` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 26 | `linoapi.com` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 27 | `llm-api.net` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 28 | `quanzil.cn` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 29 | `quanzil.com` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 30 | `token173.net` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 31 | `tryallapi.com` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 32 | `wellapi.ai` | $0.22 | $0.88 | Azure-Gpt-1 | 0.088 | gpt-4o |
+| 33 | `thousandengine.com` | $0.22385 | $0.8954 | Azure-Gpt-1 | 0.08954 | gpt-4o |
+| 34 | `api.tidewhisper-ai.xyz` | $0.242 | $0.726 | Azure-Gpt-1 | 0.0484 | gpt-4o-2024-05-13 |
+| 35 | `gzxbykj.com` | $0.242 | $0.726 | Azure-Gpt-1 | 0.0484 | gpt-4o-2024-05-13 |
+| 36 | `api.socode.cc` | $0.25 | $1 | GPT[Main] | 0.1 | gpt-4o |
+| 37 | `ai.mggoo.com` | $0.3 | $1.2 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-4o |
+| 38 | `daoxe.com` | $0.375 | $1.5 | codex | 0.15 | gpt-4o |
+| 39 | `aiberm.com` | $0.414 | $1.656 | default | 0.23 | openai/gpt-4o |
+| 40 | `xigong.cloud` | $0.45 | $1.8 | GPT-野官Key | 0.18 | gpt-4o |
+| 41 | `8888.name` | $0.5 | $2 | GPT—官key | 0.2 | gpt-4o |
+| 42 | `api.qlhazycoder.top` | $0.5 | $2 | default | 0.2 | gpt-4o |
+| 43 | `coderapi.vip` | $0.5 | $2 | default | 0.2 | gpt-4o |
+| 44 | `saletoken.org` | $0.5 | $2 | CODEX-pro | 0.2 | gpt-4o |
+| 45 | `sub2api.hyl2api.com` | $0.5 | $2 | GPT  | 0.2 | gpt-4o |
+| 46 | `sub2api.simplaj.top` | $0.5 | $2 | GPT 纯血Pro 余额分组 | 0.2 | gpt-4o |
+| 47 | `yinziapi.top` | $0.5 | $2 | codex-全模型官key-支持fast | 0.2 | gpt-4o |
+| 48 | `apibasis.com` | $0.55 | $2.2 | GPT 纯血PRO | 0.22 | gpt-4o |
+| 49 | `zhangsan.yun` | $0.5625 | $2.25 | image-2分组 | 0.15 | gpt-4o |
+| 50 | `aipixapi.art` | $0.625 | $2.5 | GPT-官key | 0.25 | gpt-4o |
 
-[← 返回索引](index.md)
+> 另有 201 站未列出；75 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

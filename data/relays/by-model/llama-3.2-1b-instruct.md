@@ -1,45 +1,60 @@
 # llama-3.2-1b-instruct
 
-> 37 家 · 最低 **$0.015** @ `officesai.top` · 推算价（USD/1M 输入），未对账
+> 109 站提供 · 正常价 91 站 · 中位价 **$0.5**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `officesai.top` | $0.015 | $0.015 | 基础普及通道 | 0.15 | meta/llama-3.2-1b-instruct |
-| 2 | `chat-api4.087654.xyz` | $0.02 | $0.02 | default | 2 | meta/llama-3.2-1b-instruct |
-| 3 | `runapi.co` | $0.03 | $0.225 | default | 1 | meta-llama/llama-3.2-1b-instruct |
-| 4 | `api.tacklekey.com` | $0.041538 | $0.309227 | default | 1 | meta-llama/llama-3.2-1b-instruct |
-| 5 | `relayrouter.ai` | $0.25 | $0.0625 | Self-Deployed-2 | 0.5 | llama-3.2-1b-instruct |
-| 6 | `gptapi.top` | $0.3125 | $0.078125 | Self-Deployed-2 | 0.625 | llama-3.2-1b-instruct |
-| 7 | `moliapi.com` | $0.315 | $0.07875 | Self-Deployed-2 | 0.63 | llama-3.2-1b-instruct |
-| 8 | `ai-api.cc` | $0.325 | $0.08125 | Self-Deployed-2 | 0.65 | llama-3.2-1b-instruct |
-| 9 | `nodapi.com` | $0.33 | $0.0825 | Self-Deployed-2 | 0.66 | llama-3.2-1b-instruct |
-| 10 | `anyaigc.ai` | $0.3375 | $0.084375 | Self-Deployed-2 | 0.675 | llama-3.2-1b-instruct |
-| 11 | `xiguapi.cc` | $0.35 | $0.0875 | Self-Deployed-2 | 0.7 | llama-3.2-1b-instruct |
-| 12 | `www.claudecn.top` | $0.45 | $0.1125 | 国产模型 | 0.9 | llama-3.2-1b-instruct |
-| 13 | `claudecn.top` | $0.45 | $0.1125 | 国产模型 | 0.9 | llama-3.2-1b-instruct |
-| 14 | `jp.claudecn.top` | $0.45 | $0.1125 | 国产模型 | 0.9 | llama-3.2-1b-instruct |
-| 15 | `api.hopeai.cc` | $0.5 | $0.5 | default | 1 | llama-3.2-1b-instruct |
-| 16 | `www.vectorengine.ai` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 17 | `www.yunwu.ai` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 18 | `api.n1n.ai` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
-| 19 | `api.yunwu.ai` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 20 | `apipro.maynor1024.live` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 21 | `yunwu.ai` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 22 | `aiapihub.cloud` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 23 | `api-hub.vip` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 24 | `apixin.cn` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 25 | `fluxapi.top` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 26 | `jeniya.cc` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
-| 27 | `llm-api.dev` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
-| 28 | `nbapi.net` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 29 | `qianfufu.top` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 30 | `quanzil.cn` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
-| 31 | `quanzil.net` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
-| 32 | `sparkapi.cn` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 33 | `uouo.fun` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 34 | `vectorengine.top` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 35 | `yunshu.hk` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
-| 36 | `go.sbgpt.site` | $52.5 | $52.5 | openai逆向 | 0.7 | llama-3.2-1b-instruct |
-| 37 | `newapi.link` | $75 | $75.0 | 备用 | 1 | llama-3.2-1b-instruct |
+| 1 | `runapi.co` | $0.03 | $0.225 | default | 1 | meta-llama/llama-3.2-1b-instruct |
+| 2 | `api.tacklekey.com` | $0.0415385 | $0.309231 | default | 1 | meta-llama/llama-3.2-1b-instruct |
+| 3 | `ai2.qiqiai.top` | $0.0486 | $0.36 | 官方合作渠道 | 1.8 | meta-llama/llama-3.2-1b-instruct |
+| 4 | `shell-api.qinzhiai.com` | $0.0945 | $0.7035 | openrouter | 3.5 | meta-llama/llama-3.2-1b-instruct |
+| 5 | `botcf.com` | $0.10854 | $0.80802 | 🧺otheropenweight-mix | 0.6 | llama-3.2-1b-instruct |
+| 6 | `api.qinzhiai.com` | $0.1215 | $0.9045 | openrouter | 4.5 | meta-llama/llama-3.2-1b-instruct |
+| 7 | `api.camel-hub.com` | $0.14 | $0.14 | default | 1 | llama-3.2-1b-instruct |
+| 8 | `api.openlux.ai` | $0.25 | $0.0625 | Self-Deployed-2 | 0.5 | llama-3.2-1b-instruct |
+| 9 | `api.relayrouter.ai` | $0.25 | $0.0625 | Self-Deployed-2 | 0.5 | llama-3.2-1b-instruct |
+| 10 | `api.tidewhisper-ai.xyz` | $0.275 | $0.06875 | Self-Deployed-2 | 0.55 | llama-3.2-1b-instruct |
+| 11 | `gzxbykj.com` | $0.275 | $0.06875 | Self-Deployed-2 | 0.55 | llama-3.2-1b-instruct |
+| 12 | `v2.cloudmist.cloud` | $0.2875 | $0.071875 | Self-Deployed-2 | 0.575 | llama-3.2-1b-instruct |
+| 13 | `www.vectronode.com` | $0.3 | $0.075 | Self-Deployed-2 | 0.6 | llama-3.2-1b-instruct |
+| 14 | `ciyuan.today` | $0.3125 | $0.078125 | Self-Deployed-2 | 0.625 | llama-3.2-1b-instruct |
+| 15 | `gptapi.top` | $0.3125 | $0.078125 | Self-Deployed-2 | 0.625 | llama-3.2-1b-instruct |
+| 16 | `makerend.com` | $0.3125 | $0.078125 | Self-Deployed-2 | 0.625 | llama-3.2-1b-instruct |
+| 17 | `moliapi.com` | $0.315 | $0.07875 | Self-Deployed-2 | 0.63 | llama-3.2-1b-instruct |
+| 18 | `ai-api.cc` | $0.325 | $0.08125 | Self-Deployed-2 | 0.65 | llama-3.2-1b-instruct |
+| 19 | `nodapi.com` | $0.33 | $0.0825 | Self-Deployed-2 | 0.66 | llama-3.2-1b-instruct |
+| 20 | `anyaigc.ai` | $0.3375 | $0.084375 | Self-Deployed-2 | 0.675 | llama-3.2-1b-instruct |
+| 21 | `sheepaiplus.top` | $0.35 | $0.0875 | Self-Deployed-2 | 0.7 | llama-3.2-1b-instruct |
+| 22 | `xiguapi.icu` | $0.35 | $0.0875 | Self-Deployed-2 | 0.7 | llama-3.2-1b-instruct |
+| 23 | `api.videocaptioner.cn` | $0.375 | $0.09375 | Self-Deployed-2 | 0.75 | llama-3.2-1b-instruct |
+| 24 | `api.nixapi.com` | $0.4225 | $0.105625 | Self-Deployed-2 | 0.845 | llama-3.2-1b-instruct |
+| 25 | `claudecn.ai` | $0.45 | $0.1125 | 国产模型 | 0.9 | llama-3.2-1b-instruct |
+| 26 | `ai.soruxgpt.com` | $0.5 | $0.5 | default | 1 | llama-3.2-1b-instruct |
+| 27 | `aiapihub.cloud` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 28 | `aiwuje.com` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
+| 29 | `aiyiwei.vip` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 30 | `anyaigc.com` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 31 | `api-hub.vip` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 32 | `api.aibh.site` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 33 | `api.aicso.top` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 34 | `api.anthropicricardo.club` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 35 | `api.antmoo.com` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 36 | `api.apiplus.org` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 37 | `api.bitidea.cn` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 38 | `api.clai.click` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 39 | `api.cloudmist.cloud` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 40 | `api.echoflowai.cc` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
+| 41 | `api.hopeai.cc` | $0.5 | $0.5 | default | 1 | llama-3.2-1b-instruct |
+| 42 | `api.mumuverse.space` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 43 | `api.n1n.ai` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
+| 44 | `api.qingyuntop.top` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 45 | `api.quickrouter.ai` | $0.5 | $0.125 | Self-Deployed-2 | 1 | llama-3.2-1b-instruct |
+| 46 | `api.vectorengine.ai` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 47 | `api.winfull.cloud-ip.cc` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 48 | `api.wlai.vip` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 49 | `api.xueai.me` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
+| 50 | `api.zhiyikeji.cn` | $0.5 | $0.125 | default | 1 | llama-3.2-1b-instruct |
 
-[← 返回索引](index.md)
+> 另有 41 站未列出；18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

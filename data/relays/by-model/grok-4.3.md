@@ -1,208 +1,60 @@
 # grok-4.3
 
-> 846 家 · 最低 **$0.05** @ `www.apiqd.com` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 399 站提供 · 正常价 298 站 · 中位价 **$0.75**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.apiqd.com` | $0.05 | $0.1 | grok | 0.04 | grok-4.3 |
-| 2 | `www.newtonrouter.com` | $0.05 | $0.1 | Grok Heavy | 0.04 | grok-4.3 |
-| 3 | `www.codexplus.shop` | $0.0625 | $0.125 | Grok | 0.05 | grok-4.3-high |
-| 4 | `runapi.co` | $0.0875 | $0.175 | grok | 0.233333 | grok-4.3 |
-| 5 | `relayrouter.ai` | $0.091912 | $0.183824 | Azure-Grok-1 | 0.07353 | grok-4.3 |
-| 6 | `api.lingzhouai.com` | $0.1 | $0.2 | grok | 0.08 | grok-4.3 |
-| 7 | `api.socode.cc` | $0.1 | $0.2 | Grok-[Havry]  | 0.08 | grok-4.3 |
-| 8 | `gptapi.top` | $0.114891 | $0.229782 | Azure-Grok-1 | 0.0919125 | grok-4.3 |
-| 9 | `moliapi.com` | $0.11581 | $0.23162 | Azure-Grok-1 | 0.0926478 | grok-4.3 |
-| 10 | `ai-api.cc` | $0.119486 | $0.238972 | Azure-Grok-1 | 0.09558900000000001 | grok-4.3 |
-| 11 | `api.988665.xyz` | $0.12 | $0.25 | grok heavy | 0.1 | grok-4.3 |
-| 12 | `nodapi.com` | $0.121325 | $0.24265 | Azure-Grok-1 | 0.0970596 | grok-4.3 |
-| 13 | `anyaigc.ai` | $0.124082 | $0.248164 | Azure-Grok-1 | 0.0992655 | grok-4.3 |
-| 14 | `www.fushengyunsuan.cn` | $0.125 | $0.25 | grok | 0.1 | grok-4.3 |
-| 15 | `www.fushengyunsuan.com` | $0.125 | $0.25 | grok | 0.1 | grok-4.3 |
-| 16 | `www.mv88.cn` | $0.125 | $0.25 | Grok | 0.1 | grok-4.3 |
-| 17 | `api2.fushengyunsuan.com` | $0.125 | $0.25 | grok | 0.1 | grok-4.3 |
-| 18 | `xiguapi.cc` | $0.128678 | $0.257356 | Azure-Grok-1 | 0.10294199999999999 | grok-4.3 |
-| 19 | `api.n1n.ai` | $0.183825 | $0.36765 | Azure-Grok-1 | 0.14706 | grok-4.3 |
-| 20 | `jeniya.cc` | $0.183825 | $0.36765 | Azure-Grok-1 | 0.14706 | grok-4.3 |
-| 21 | `llm-api.dev` | $0.183825 | $0.36765 | Azure-Grok-1 | 0.14706 | grok-4.3 |
-| 22 | `quanzil.cn` | $0.183825 | $0.36765 | Azure-Grok-1 | 0.14706 | grok-4.3 |
-| 23 | `quanzil.net` | $0.183825 | $0.36765 | Azure-Grok-1 | 0.14706 | grok-4.3 |
-| 24 | `cn.rivoapi.com` | $0.1875 | $0.375 | Grok Heavy | 0.15 | grok-4.3 |
-| 25 | `ai.mggoo.com` | $0.25 | $0.5 | grok(自建号池) | 0.2 | grok-4.3 |
-| 26 | `api.kkrich.ltd` | $0.25 | $0.5 | Grok Heavy | 0.2 | grok-4.3 |
-| 27 | `api.tameac.com` | $0.25 | $0.5 | grok heavy | 0.2 | grok-4.3 |
-| 28 | `www.tameac.com` | $0.25 | $0.5 | grok heavy | 0.2 | grok-4.3 |
-| 29 | `api.chuangyuan.org` | $0.3125 | $0.625 | grok-heavy | 0.25 | grok-4.3 |
-| 30 | `api.qiuqiutoken.com` | $0.3125 | $0.625 | Grok专用-SuperGrok | 0.25 | grok-4.3 |
-| 31 | `qiuqiutoken.net` | $0.3125 | $0.625 | Grok专用-SuperGrok | 0.25 | grok-4.3 |
-| 32 | `new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 33 | `sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 34 | `vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 35 | `ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 36 | `cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 37 | `hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 38 | `gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 39 | `2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 40 | `api.e-flowcode.cc` | $0.375 | $0.75 | 1_vip_grok | 0.3 | grok-4.3 |
-| 41 | `e-flowcode.cc` | $0.375 | $0.75 | 1_vip_grok | 0.3 | grok-4.3 |
-| 42 | `ai2.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 43 | `ai2.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 44 | `ai2.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 45 | `ai2.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 46 | `ai2.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 47 | `ai2.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 48 | `ai2.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 49 | `api2.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 50 | `api2.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 51 | `api2.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 52 | `api2.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 53 | `api2.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 54 | `api2.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 55 | `api3.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 56 | `api3.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 57 | `api3.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 58 | `api3.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 59 | `api3.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 60 | `api3.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 61 | `api3.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 62 | `api3.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 63 | `claude.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 64 | `claude.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 65 | `claude.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 66 | `claude.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 67 | `claude.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 68 | `claude.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 69 | `claude.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 70 | `gemini.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 71 | `gemini.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 72 | `gemini.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 73 | `gemini.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 74 | `gemini.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 75 | `gpt.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 76 | `gpt.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 77 | `gpt.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 78 | `gpt.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 79 | `gpt.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 80 | `gpt.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 81 | `gpt.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 82 | `gpt.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 83 | `gpt.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 84 | `grok.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 85 | `grok.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 86 | `grok.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 87 | `grok.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 88 | `grok.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 89 | `grok.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 90 | `grok.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 91 | `grok.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 92 | `gw2.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 93 | `gw2.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 94 | `gw2.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 95 | `gw2.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 96 | `gw2.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 97 | `gw2.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 98 | `gw2.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 99 | `hk2.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 100 | `hk2.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 101 | `hk2.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 102 | `hk2.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 103 | `hk2.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 104 | `hk2.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 105 | `jp.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 106 | `jp.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 107 | `jp.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 108 | `jp.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 109 | `jp.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 110 | `jp.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 111 | `jp.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 112 | `jp.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 113 | `llm.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 114 | `llm.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 115 | `llm.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 116 | `llm.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 117 | `llm.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 118 | `llm.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 119 | `llm.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 120 | `llm.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 121 | `mirror.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 122 | `mirror.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 123 | `mirror.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 124 | `mirror.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 125 | `mirror.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 126 | `mirror.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 127 | `openai.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 128 | `openai.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 129 | `openai.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 130 | `openai.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 131 | `openai.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 132 | `openai.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 133 | `openai.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 134 | `openai.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 135 | `openai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 136 | `ai2.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 137 | `ai2.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 138 | `api2.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 139 | `api2.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 140 | `api3.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 141 | `claude.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 142 | `claude.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 143 | `gemini.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 144 | `gemini.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 145 | `grok.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 146 | `gw2.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 147 | `gw2.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 148 | `hk2.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 149 | `hk2.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 150 | `hk2.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 151 | `mirror.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 152 | `mirror.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 153 | `mirror.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 154 | `proxy.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 155 | `proxy.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 156 | `proxy.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 157 | `proxy.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 158 | `proxy.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 159 | `proxy.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 160 | `relay.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 161 | `relay.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 162 | `relay.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 163 | `relay.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 164 | `relay.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 165 | `relay.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 166 | `sg.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 167 | `sg.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 168 | `sg.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 169 | `sg.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 170 | `sg.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 171 | `sg.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 172 | `sg.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 173 | `tw.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 174 | `tw.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 175 | `tw.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 176 | `tw.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 177 | `tw.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 178 | `tw.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 179 | `tw.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 180 | `tw.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 181 | `tw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 182 | `us.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 183 | `us.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 184 | `us.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 185 | `us.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 186 | `us.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 187 | `us.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 188 | `us.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 189 | `us.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 190 | `v2.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 191 | `v2.ai.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 192 | `v2.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 193 | `v2.hk.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 194 | `v2.new.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 195 | `v2.sub.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 196 | `v2.vip.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 197 | `v2.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 198 | `v3.2api.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 199 | `v3.cn.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
-| 200 | `v3.gw.www.apilink.cc` | $0.375 | $0.75 | GrokSuper | 0.3 | grok-4.3 |
+| 1 | `api.kcne.top` | $0.05 | $0.1 | Grok | 0.04 | grok-4.3 |
+| 2 | `newtonrouter.com` | $0.05 | $0.1 | Grok Heavy | 0.04 | grok-4.3 |
+| 3 | `www.apiqd.com` | $0.05 | $0.1 | grok | 0.04 | grok-4.3 |
+| 4 | `bbapi.ainivox.cn` | $0.0625 | $0.125 | Grok分组0.05 | 0.05 | grok-4.3 |
+| 5 | `codexplus.shop` | $0.0625 | $0.125 | Grok | 0.05 | grok-4.3-high |
+| 6 | `ai.lt4net.org` | $0.075 | $0.15 | default | 0.001 | grok-4.3 |
+| 7 | `runapi.co` | $0.0874999 | $0.175 | grok | 0.233333 | grok-4.3 |
+| 8 | `api.text168.com` | $0.0875 | $0.175 | Grok-heavy | 0.07 | grok-4.3 |
+| 9 | `api.openlux.ai` | $0.0919125 | $0.183825 | Azure-Grok-1 | 0.07353 | grok-4.3 |
+| 10 | `api.relayrouter.ai` | $0.0919125 | $0.183825 | Azure-Grok-1 | 0.07353 | grok-4.3 |
+| 11 | `abinapi.com` | $0.09375 | $0.1875 | Grok纯血 | 0.075 | grok-4.3 |
+| 12 | `api.2slk.com` | $0.1 | $0.1 | 官转 | 1 | grok-4.3-high |
+| 13 | `api.apikl.ai` | $0.1 | $0.2 | Grok-Heavy | 0.08 | grok-4.3 |
+| 14 | `api.lingzhouai.com` | $0.1 | $0.2 | grok | 0.08 | grok-4.3 |
+| 15 | `api.socode.cc` | $0.1 | $0.2 | Grok-[Havry]  | 0.08 | grok-4.3 |
+| 16 | `sub.vcnovb.cn` | $0.1 | $0.3 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.3-high |
+| 17 | `www.xmapi.cc` | $0.1 | $0.2 | grok | 0.08 | grok-4.3 |
+| 18 | `api.tidewhisper-ai.xyz` | $0.101104 | $0.202208 | Azure-Grok-1 | 0.080883 | grok-4.3 |
+| 19 | `gzxbykj.com` | $0.101104 | $0.202208 | Azure-Grok-1 | 0.080883 | grok-4.3 |
+| 20 | `v2.cloudmist.cloud` | $0.105699 | $0.211399 | Azure-Grok-1 | 0.0845595 | grok-4.3 |
+| 21 | `www.vectronode.com` | $0.110295 | $0.22059 | Azure-Grok-1 | 0.088236 | grok-4.3 |
+| 22 | `ciyuan.today` | $0.114891 | $0.229781 | Azure-Grok-1 | 0.0919125 | grok-4.3 |
+| 23 | `gptapi.top` | $0.114891 | $0.229781 | Azure-Grok-1 | 0.0919125 | grok-4.3 |
+| 24 | `makerend.com` | $0.114891 | $0.229781 | Azure-Grok-1 | 0.0919125 | grok-4.3 |
+| 25 | `moliapi.com` | $0.11581 | $0.23162 | Azure-Grok-1 | 0.0926478 | grok-4.3 |
+| 26 | `ai-api.cc` | $0.119486 | $0.238973 | Azure-Grok-1 | 0.095589 | grok-4.3 |
+| 27 | `nodapi.com` | $0.121325 | $0.242649 | Azure-Grok-1 | 0.0970596 | grok-4.3 |
+| 28 | `anyaigc.ai` | $0.124082 | $0.248164 | Azure-Grok-1 | 0.0992655 | grok-4.3 |
+| 29 | `ai.bayunzi.shop` | $0.125 | $0.25 | Grok Heavy | 0.1 | grok-4.3 |
+| 30 | `ai.blue1.top` | $0.125 | $0.25 | Grok Super Heavy（最强套餐、可生图） | 0.1 | grok-4.3 |
+| 31 | `api.9m8m.com` | $0.125 | $0.25 | Grok heavy 分组 | 0.1 | grok-4.3 |
+| 32 | `api.ciyuanshen.top` | $0.125 | $0.25 | Grok heavy | 0.1 | grok-4.3 |
+| 33 | `api.lukyface.com` | $0.125 | $0.25 | grok heavy | 0.1 | grok-4.3 |
+| 34 | `api.qfgapi.com` | $0.125 | $0.25 | Grok-Search | 0.1 | grok-4.3 |
+| 35 | `api.yunnet.top` | $0.125 | $0.25 | Grok | 0.1 | grok-4.3 |
+| 36 | `fushengyunsuan.cn` | $0.125 | $0.25 | grok | 0.1 | grok-4.3 |
+| 37 | `lanxiu.cc` | $0.125 | $0.25 | default | 0.1 | grok-4.3 |
+| 38 | `mv88.cn` | $0.125 | $0.25 | Grok | 0.1 | grok-4.3 |
+| 39 | `mzhcloud.com` | $0.125 | $0.25 | Grok | 0.1 | grok-4.3 |
+| 40 | `sub2api.closeapi.top` | $0.125 | $0.25 | grok | 0.1 | grok-4.3 |
+| 41 | `www.yysc.top` | $0.125 | $0.25 | Grok | 0.1 | grok-4.3 |
+| 42 | `yunshuapi.wiki` | $0.125 | $0.25 | 稳定分组 Grok | 0.1 | grok-4.3 |
+| 43 | `sheepaiplus.top` | $0.128678 | $0.257355 | Azure-Grok-1 | 0.102942 | grok-4.3 |
+| 44 | `xiguapi.icu` | $0.128678 | $0.257355 | Azure-Grok-1 | 0.102942 | grok-4.3 |
+| 45 | `b.kr777.top` | $0.1375 | $0.275 | grok | 0.11 | grok-4.3 |
+| 46 | `salcara.top` | $0.1375 | $0.275 | grok | 0.11 | grok-4.3 |
+| 47 | `api.videocaptioner.cn` | $0.137869 | $0.275738 | Azure-Grok-1 | 0.110295 | grok-4.3 |
+| 48 | `ican-gpt.com` | $0.15 | $0.3 | Super Grok Heavy Grok 4.7 | 0.12 | grok-4.3 |
+| 49 | `api.nixapi.com` | $0.155332 | $0.310664 | Azure-Grok-1 | 0.124266 | grok-4.3 |
+| 50 | `fengchao-api.com` | $0.1625 | $0.325 | Super Grok | 0.13 | grok-4.3 |
 
-[← 返回索引](index.md)
+> 另有 248 站未列出；101 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

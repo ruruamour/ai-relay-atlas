@@ -1,208 +1,60 @@
 # claude-opus-4-5
 
-> 1189 家 · 最低 **$0.2** @ `apicangku.icu` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 883 站提供 · 正常价 743 站 · 中位价 **$4**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `apicangku.icu` | $0.2 | $1.0 | claude特惠 | 0.04 | claude-opus-4-5 |
-| 2 | `www.apicangku.icu` | $0.2 | $1.0 | claude特惠 | 0.04 | claude-opus-4-5 |
-| 3 | `claude.llmhub.ltd` | $0.2 | $1.0 | Claude-Kiro-Pro | 0.04 | claude-opus-4-5 |
-| 4 | `pianyitoken.top` | $0.239726 | $1.19863 | 特价Claude-禾维满分 | 0.35 | claude-opus-4-5 |
-| 5 | `www.bb-api.com` | $0.25 | $1.25 | cc-kiro-90%缓存-005x | 0.05 | claude-opus-4-5 |
-| 6 | `ai.easysu.cn` | $0.4 | $2.0 | Claude Max | 1 | claude-opus-4-5 |
-| 7 | `api.socode.cc` | $0.4 | $2.0 | Claude[Kiro] | 0.08 | claude-opus-4-5 |
-| 8 | `www.civilian.asia` | $0.4 | $2.0 | claude-kiro | 0.08 | claude-opus-4-5 |
-| 9 | `api-sub.ip233.com` | $0.5 | $2.5 | kiro-纯纯的稳 | 0.1 | claude-opus-4-5 |
-| 10 | `llm-coding.space` | $0.5 | $2.5 | kiro | 0.1 | claude-opus-4-5 |
-| 11 | `www.shendun.vip` | $0.5 | $2.5 | Kiro-Claude-分组 | 0.1 | claude-opus-4-5 |
-| 12 | `us.hboom.ai` | $0.5 | $2.5 | Claude-Kiro | 0.1 | claude-opus-4-5 |
-| 13 | `api.toknex.ai` | $0.52 | $2.6 | claude | 0.13 | claude-opus-4-5 |
-| 14 | `toknex.ai` | $0.52 | $2.6 | claude | 0.13 | claude-opus-4-5 |
-| 15 | `kktyh.com` | $0.55 | $2.75 | Kiro Claude | 0.11 | claude-opus-4-5 |
-| 16 | `api.988665.xyz` | $0.6 | $3.0 | claude kiro | 0.12 | claude-opus-4-5 |
-| 17 | `all-api.ccode.dev` | $0.65 | $3.25 | Claude-Lite | 0.13 | claude-opus-4-5 |
-| 18 | `cc.midlight.top` | $0.75 | $3.75 | Claude | 0.15 | claude-opus-4-5 |
-| 19 | `claudeagent.com.cn` | $0.75 | $3.75 | test-kiro | 0.15 | claude-opus-4-5 |
-| 20 | `www.claudeagent.com.cn` | $0.75 | $3.75 | test-kiro | 0.15 | claude-opus-4-5 |
-| 21 | `ai-gate.zeabur.app` | $0.85 | $4.25 | claude-0.17x | 0.17 | claude-opus-4-5 |
-| 22 | `api.xingshu.site` | $0.9 | $4.5 | claude-kiro 无缓速刷 | 0.18 | claude-opus-4-5 |
-| 23 | `www.aiagentcode.top` | $0.9 | $4.5 | x-claude-kiro | 0.18 | claude-opus-4-5 |
-| 24 | `ai.8888.name` | $1.1 | $5.5 | 【claude】正价kiro渠道 | 0.22 | claude-opus-4-5 |
-| 25 | `sub2api.hyl2api.com` | $1.1 | $5.5 | 应急中，非自营 AWS kiro | 0.22 | claude-opus-4-5 |
-| 26 | `us.oojj.top` | $1.3 | $6.5 | aws0 | 0.26 | claude-opus-4-5 |
-| 27 | `modelgate.app` | $1.4 | $7.0 | Claude-Trial | 0.28 | claude-opus-4-5 |
-| 28 | `api.modelgate.app` | $1.4 | $7.0 | Claude-Trial | 0.28 | claude-opus-4-5 |
-| 29 | `www.modelgate.app` | $1.4 | $7.0 | Claude-Trial | 0.28 | claude-opus-4-5 |
-| 30 | `llmhub.me` | $1.4 | $7.0 | Claude-Trial | 0.28 | claude-opus-4-5 |
-| 31 | `api.labapi.work` | $1.5 | $7.5 | 特价claude | 1 | claude-opus-4-5 |
-| 32 | `api.lingzhouai.com` | $1.5 | $7.5 | CCMAX「特价蒸馏」 | 0.3 | claude-opus-4-5 |
-| 33 | `api.xudiansuanli.com` | $1.5 | $7.5 | Claude kiro 号池 | 0.3 | claude-opus-4-5 |
-| 34 | `moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 35 | `sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 36 | `cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 37 | `hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 38 | `gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 39 | `ai2.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 40 | `ai2.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 41 | `ai2.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 42 | `ai2.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 43 | `ai2.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 44 | `api2.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 45 | `api2.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 46 | `api2.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 47 | `api2.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 48 | `api3.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 49 | `api3.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 50 | `api3.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 51 | `api3.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 52 | `api3.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 53 | `claude.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 54 | `claude.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 55 | `claude.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 56 | `claude.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 57 | `claude.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 58 | `gemini.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 59 | `gemini.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 60 | `gemini.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 61 | `gemini.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 62 | `gemini.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 63 | `gpt.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 64 | `gpt.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 65 | `gpt.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 66 | `gpt.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 67 | `grok.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 68 | `grok.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 69 | `grok.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 70 | `grok.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 71 | `grok.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 72 | `gw2.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 73 | `gw2.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 74 | `gw2.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 75 | `gw2.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 76 | `hk2.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 77 | `hk2.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 78 | `hk2.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 79 | `hk2.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 80 | `jp.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 81 | `jp.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 82 | `jp.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 83 | `jp.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 84 | `jp.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 85 | `llm.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 86 | `llm.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 87 | `llm.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 88 | `llm.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 89 | `mirror.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 90 | `mirror.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 91 | `mirror.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 92 | `mirror.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 93 | `openai.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 94 | `openai.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 95 | `openai.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 96 | `openai.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 97 | `gpt.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 98 | `gw2.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 99 | `hk2.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 100 | `llm.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 101 | `mirror.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 102 | `proxy.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 103 | `proxy.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 104 | `proxy.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 105 | `proxy.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 106 | `proxy.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 107 | `relay.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 108 | `relay.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 109 | `relay.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 110 | `relay.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 111 | `relay.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 112 | `sg.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 113 | `sg.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 114 | `sg.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 115 | `sg.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 116 | `sg.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 117 | `tw.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 118 | `tw.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 119 | `tw.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 120 | `tw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 121 | `tw.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 122 | `us.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 123 | `us.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 124 | `us.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 125 | `us.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 126 | `us.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 127 | `v2.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 128 | `v2.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 129 | `v2.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 130 | `v2.sub.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 131 | `v3.cn.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 132 | `v3.gw.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 133 | `v3.hk.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 134 | `v3.moligate.com` | $1.5 | $7.5 | 正价Kiro | 0.3 | claude-opus-4-5 |
-| 135 | `8yes.cc` | $1.75 | $8.75 | kiro-cctest100分 | 0.35 | claude-opus-4-5 |
-| 136 | `aigw.store` | $1.75 | $8.75 | Claude Kiro【企业号】 | 0.35 | claude-opus-4-5 |
-| 137 | `www.8yes.cc` | $1.75 | $8.75 | kiro-cctest100分 | 0.35 | claude-opus-4-5 |
-| 138 | `deepkey.top` | $1.75 | $8.75 | claude-anti2 | 0.35 | claude-opus-4-5-thinking |
-| 139 | `api.gettoken.cn` | $1.95 | $9.75 | Claude | 1.3 | claude-opus-4-5 |
-| 140 | `super.aresaicode.cn` | $2 | $10.0 | claude kiro正价power | 0.4 | claude-opus-4-5 |
-| 141 | `www.tokensflux.net` | $2 | $10.0 | Claude kiro 正价 | 0.4 | claude-opus-4-5 |
-| 142 | `sub.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 143 | `vip.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 144 | `cn.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 145 | `hk.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 146 | `gw.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 147 | `2api.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 148 | `ai2.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 149 | `api3.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 150 | `ccapi.ai` | $2.25 | $11.25 | claude-A | 0.45 | claude-opus-4-5 |
-| 151 | `ccapi.pro` | $2.25 | $11.25 | claude-A | 0.45 | claude-opus-4-5 |
-| 152 | `gemini.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 153 | `gpt.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 154 | `gw2.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 155 | `hk2.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 156 | `jp.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 157 | `openai.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 158 | `api2.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 159 | `mirror.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 160 | `proxy.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 161 | `tw.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 162 | `us.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 163 | `v2.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 164 | `v3.dragon3api.com` | $2.25 | $11.25 | claude-kiro正价 | 0.45 | claude-opus-4-5 |
-| 165 | `huanyuf.top` | $2.5 | $12.5 | 「Kiro 正价」Claude | 0.5 | claude-opus-4-5 |
-| 166 | `www.weason.cn` | $2.5 | $12.5 | Claude Krio 正价 | 0.5 | claude-opus-4-5 |
-| 167 | `ai2api.cn` | $2.5 | $12.5 | Claude-aws | 0.5 | claude-opus-4-5 |
-| 168 | `emtf.aipm9527.online` | $2.86875 | $14.34375 | kiro【正价·兜底3】 | 0.255 | claude-opus-4-5 |
-| 169 | `dreamrouter.ai` | $3 | $15.0 | claude-uc | 0.6 | claude-opus-4-5 |
-| 170 | `www.nodexapi.it.com` | $3 | $15.0 | KiroClaude按量 | 0.6 | claude-opus-4-5-thinking |
-| 171 | `tokenclub.top` | $3 | $15.0 | default | 1 | claude-opus-4-5 |
-| 172 | `kfcv50.link` | $3.25 | $16.25 | claude_kiro_065_0321_cache | 0.65 | claude-opus-4-5 |
-| 173 | `new.micapi.xyz` | $3.5 | $17.5 | Claude Max | 0.7 | claude-opus-4-5 |
-| 174 | `new.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 175 | `sub.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 176 | `vip.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 177 | `ai.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 178 | `cn.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 179 | `hk.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 180 | `gw.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 181 | `2api.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 182 | `ai2.2api.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 183 | `ai2.ai.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 184 | `ai2.gw.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 185 | `ai2.hk.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 186 | `ai2.new.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 187 | `ai2.vip.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 188 | `ai2.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 189 | `api2.2api.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 190 | `api2.ai.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 191 | `api2.cn.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 192 | `api2.new.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 193 | `api2.sub.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 194 | `api2.vip.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 195 | `api3.2api.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 196 | `api3.ai.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 197 | `api3.cn.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 198 | `api3.gw.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 199 | `api3.hk.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
-| 200 | `api3.sub.www.apilink.cc` | $3.5 | $17.5 | Claude企业 | 0.7 | claude-opus-4-5 |
+| 1 | `llmhub.ltd` | $0.2 | $1 | Claude-Kiro-Pro | 0.04 | claude-opus-4-5 |
+| 2 | `api.247kan.com` | $0.25 | $1.25 | Claude Kiro | 0.05 | claude-opus-4-5 |
+| 3 | `api.beibeiai.top` | $0.25 | $1.25 | kiro90缓存 | 0.05 | claude-opus-4-5 |
+| 4 | `api.kkrich.ltd` | $0.25 | $1.25 | claudecode-kiro  企业正价号 | 0.35 | claude-opus-4-5-20251101 |
+| 5 | `apijing.com` | $0.25 | $1.25 | claudecode带缓存 | 0.05 | claude-opus-4-5-20251101 |
+| 6 | `llm.twinight.co` | $0.25 | $1.25 | Claude Kiro（余额 0.05x） | 0.05 | claude-opus-4-5 |
+| 7 | `mhapi.net` | $0.25 | $1.25 | Claude Kiro 有缓90 | 0.05 | claude-opus-4-5 |
+| 8 | `newapi.ailyyzdk.xyz` | $0.25 | $1.25 | 0.05claude | 0.05 | claude-opus-4-5-20251101 |
+| 9 | `oojj.top` | $0.25 | $1.25 | aws0-ex | 0.05 | claude-opus-4-5-20251101 |
+| 10 | `vip.kkone.vip` | $0.25 | $1.25 | Claude-Kiro | 0.05 | claude-opus-4-5 |
+| 11 | `www.bb-api.com` | $0.25 | $1.25 | cc-kiro-90%缓存-005x | 0.05 | claude-opus-4-5 |
+| 12 | `api.apikl.ai` | $0.3 | $1.5 | Krio | 0.06 | claude-opus-4-5 |
+| 13 | `api.suanniao.shop` | $0.3 | $1.5 | Kiro Claude  超高缓存 | 0.06 | claude-opus-4-5-20251101 |
+| 14 | `itkk.cc` | $0.3195 | $1.5975 | kiro-顶配 | 0.45 | claude-opus-4-5-20251101 |
+| 15 | `tk.8t.chat` | $0.325 | $1.625 | claude-kiro | 0.065 | claude-opus-4-5 |
+| 16 | `api.ai-pixel.online` | $0.35 | $1.75 | room-687 | 0.07 | claude-opus-4-5-20251101 |
+| 17 | `api.llmgw.xyz` | $0.35 | $1.75 | kiro-0缓存 | 0.07 | claude-opus-4-5 |
+| 18 | `api.mcapple.top` | $0.35 | $1.75 | kiro高缓 | 0.07 | claude-opus-4-5-20251101 |
+| 19 | `sub.vcnovb.cn` | $0.35 | $1.75 | 纯kiro | 0.07 | claude-opus-4-5-20251101 |
+| 20 | `ai2api.cn` | $0.355 | $1.775 | Claude-aws | 0.5 | claude-opus-4-5-20251101 |
+| 21 | `b.kr777.top` | $0.375 | $1.875 | kiro低缓 | 0.1 | claude-opus-4-5-20251101 |
+| 22 | `vaelo.8t.chat` | $0.39 | $1.95 | claude-kiro | 0.078 | claude-opus-4-5 |
+| 23 | `ai.easysu.cn` | $0.4 | $2 | Claude Max | 1 | claude-opus-4-5 |
+| 24 | `api.routeeasy.ai` | $0.4 | $2 | kiro-0.08-1011 | 0.08 | claude-opus-4-5-20251101 |
+| 25 | `api.socode.cc` | $0.4 | $2 | Claude[Kiro] | 0.08 | claude-opus-4-5 |
+| 26 | `hhw1231.com` | $0.4 | $2 | Kiro | 0.08 | claude-opus-4-5-20251101 |
+| 27 | `kedaya.ai` | $0.4 | $2 | kiro | 0.08 | claude-opus-4-5-20251101 |
+| 28 | `moyuu.cc` | $0.4 | $2 | claude_kiro | 0.2 | claude-opus-4-5-20251101 |
+| 29 | `www.civilian.asia` | $0.4 | $2 | claude-kiro | 0.08 | claude-opus-4-5 |
+| 30 | `www.yuanshen.net.eu.org` | $0.4 | $2 | Kiro | 0.08 | claude-opus-4-5 |
+| 31 | `xckjj.com` | $0.4 | $2 | 国模 | 0.08 | claude-opus-4-5 |
+| 32 | `xinyue.mom` | $0.4 | $2 | Claude-Kiro | 0.08 | claude-opus-4-5 |
+| 33 | `api.openlux.ai` | $0.4412 | $2.206 | Kiro-Claude-1 | 0.08824 | claude-opus-4-5-20251101 |
+| 34 | `api.relayrouter.ai` | $0.4412 | $2.206 | Kiro-Claude-1 | 0.08824 | claude-opus-4-5-20251101 |
+| 35 | `api.xiaoyaoxx.cn` | $0.45 | $2.25 | EA  kiro claude | 0.09 | claude-opus-4-5-20251101 |
+| 36 | `dmit.yyrouter.cc` | $0.45 | $2.25 | Claude Kiro 95缓 | 0.09 | claude-opus-4-5-20251101 |
+| 37 | `new.984275579.xyz` | $0.45 | $2.25 | claude kiro 99缓 | 0.09 | claude-opus-4-5 |
+| 38 | `pianyitoken.gay` | $0.479452 | $2.39726 | CCmax-0.7-禁止蒸馏（蒸馏封号余额不退） | 0.7 | claude-opus-4-5-20251101 |
+| 39 | `apipaths.com` | $0.48 | $2.4 | Claude-kiro-高缓 | 0.08 | claude-opus-4-5-20251101 |
+| 40 | `api.tidewhisper-ai.xyz` | $0.48532 | $2.4266 | Kiro-Claude-1 | 0.097064 | claude-opus-4-5-20251101 |
+| 41 | `gzxbykj.com` | $0.48532 | $2.4266 | Kiro-Claude-1 | 0.097064 | claude-opus-4-5-20251101 |
+| 42 | `api.aihub8.top` | $0.495 | $2.475 | 【Claude】低价组_0.09倍率 | 0.099 | claude-opus-4-5-20251101 |
+| 43 | `api.tokenfty.net` | $0.497 | $2.485 | 满血CC | 0.7 | claude-opus-4-5-20251101 |
+| 44 | `autorouter.net` | $0.497 | $2.485 | 满血CC | 0.7 | claude-opus-4-5-20251101 |
+| 45 | `ahao.online` | $0.5 | $2.5 | Claude-kiro[高井发-高缓存】 | 0.1 | claude-opus-4-5 |
+| 46 | `ai-key.cc` | $0.5 | $2.5 | KIRO | 0.2 | claude-opus-4-5-20251101 |
+| 47 | `aigw.store` | $0.5 | $2.5 | Claude Kiro | 0.1 | claude-opus-4-5-20251101 |
+| 48 | `aircola.top` | $0.5 | $2.5 | kiro | 0.1 | claude-opus-4-5-20251101 |
+| 49 | `api-sub.ip233.com` | $0.5 | $2.5 | kiro-纯纯的稳 | 0.1 | claude-opus-4-5 |
+| 50 | `api.celestiai.dev` | $0.5 | $2.5 | claude-kiro-缓 | 0.1 | claude-opus-4-5 |
 
-[← 返回索引](index.md)
+> 另有 693 站未列出；140 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

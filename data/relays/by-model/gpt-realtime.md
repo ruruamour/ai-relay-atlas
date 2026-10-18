@@ -1,42 +1,53 @@
 # gpt-realtime
 
-> 34 家 · 最低 **$0.4** @ `api.socode.cc` · 推算价（USD/1M 输入），未对账
+> 117 站提供 · 正常价 43 站 · 中位价 **$4**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.socode.cc` | $0.4 | $1.6 | GPT[Main] | 0.1 | gpt-realtime |
-| 2 | `ai.mggoo.com` | $0.48 | $1.92 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-realtime |
-| 3 | `sub2api.hyl2api.com` | $0.8 | $3.2 | GPT  | 0.2 | gpt-realtime |
-| 4 | `api.geniuscoder.net` | $1 | $4.0 | gpt优惠 | 0.25 | gpt-realtime |
-| 5 | `spacetimeai.cc` | $1.2 | $4.8 | Codex Pro | 0.3 | gpt-realtime |
-| 6 | `api.openai-labs.com` | $2 | $8.0 | g1 | 0.5 | gpt-realtime |
-| 7 | `kfcv50.link` | $2 | $8.0 | az_act05 | 0.5 | gpt-realtime |
-| 8 | `poloai.top` | $3.2 | $12.8 | 低价福利 \| 波动临时资源 | 0.8 | gpt-realtime |
-| 9 | `api2.poloai.top` | $3.2 | $12.8 | 低价福利 \| 波动临时资源 | 0.8 | gpt-realtime |
-| 10 | `api.yuboar.com` | $4 | $16.0 | AzureOpenAI | 1 | gpt-realtime |
-| 11 | `name1.ai` | $5.6 | $22.4 | az gpt 特价 | 1.4 | gpt-realtime |
-| 12 | `www.name1.ai` | $5.6 | $22.4 | az gpt 特价 | 1.4 | gpt-realtime |
-| 13 | `ai.ydcloud.org` | $6 | $24.0 | az gpt | 1.5 | gpt-realtime |
-| 14 | `cn.api.zyai.online` | $6 | $90.0 | AZSVIP | 1.5 | gpt-realtime |
-| 15 | `api.zyai.online` | $6 | $90.0 | AZSVIP | 1.5 | gpt-realtime |
-| 16 | `api.zhimigy.cn` | $6.4 | $25.6 | pro | 1.6 | gpt-realtime |
-| 17 | `www.zhangsan.yun` | $11.25 | $22.5 | image-2分组 | 0.15 | gpt-realtime |
-| 18 | `www.koalaapi.com` | $22.5 | $45.0 | 一key官方中转全模型 | 0.3 | gpt-realtime |
-| 19 | `koalaapi.com` | $22.5 | $45.0 | default | 0.3 | gpt-realtime |
-| 20 | `koalaapi.ai` | $22.5 | $45.0 | default | 0.3 | gpt-realtime |
-| 21 | `newapi.link` | $37.5 | $75.0 | default | 0.5 | gpt-realtime |
-| 22 | `123api.co` | $75 | $150.0 | default | 1 | gpt-realtime |
-| 23 | `api.bita-api.com` | $75 | $150.0 | gpt-origin | 1 | gpt-realtime |
-| 24 | `api.tenzen.ai` | $75 | $150.0 | default | 1 | gpt-realtime |
-| 25 | `bita-api-production.up.railway.app` | $75 | $150.0 | gpt-origin | 1 | gpt-realtime |
-| 26 | `hk.tenzen.ai` | $75 | $150.0 | default | 1 | gpt-realtime |
-| 27 | `rockapi.ai` | $75 | $150.0 | default | 1 | gpt-realtime |
-| 28 | `rockapi.com` | $75 | $150.0 | default | 1 | gpt-realtime |
-| 29 | `api.bltcy.ai` | $112.5 | $225.0 | AZ-优质 | 1.5 | gpt-realtime |
-| 30 | `api.dzzi.ai` | $150 | $300.0 | 按量 | 2 | gpt-realtime |
-| 31 | `vip.yinli.one` | $187.5 | $375.0 | 聚合分组稳定性95% | 2.5 | gpt-realtime |
-| 32 | `www.claudecn.top` | $525 | $1050.0 | 正价Openai | 7 | gpt-realtime |
-| 33 | `claudecn.top` | $525 | $1050.0 | 正价Openai | 7 | gpt-realtime |
-| 34 | `jp.claudecn.top` | $525 | $1050.0 | 正价Openai | 7 | gpt-realtime |
+| 1 | `api.vibe-subsapi.com` | $0.2 | $0.8 | ChatGPT 混池 | 0.05 | gpt-realtime |
+| 2 | `xinyue.mom` | $0.32 | $1.28 | 不降智焚决【只有astra】 | 0.08 | gpt-realtime |
+| 3 | `api.socode.cc` | $0.4 | $1.6 | GPT[Main] | 0.1 | gpt-realtime |
+| 4 | `ai.mggoo.com` | $0.48 | $1.92 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-realtime |
+| 5 | `saletoken.org` | $0.8 | $3.2 | CODEX-pro | 0.2 | gpt-realtime |
+| 6 | `sub2api.hyl2api.com` | $0.8 | $3.2 | GPT  | 0.2 | gpt-realtime |
+| 7 | `sub2api.simplaj.top` | $0.8 | $3.2 | GPT 纯血Pro 余额分组 | 0.2 | gpt-realtime |
+| 8 | `api.geniuscoder.net` | $1 | $4 | gpt优惠 | 0.25 | gpt-realtime |
+| 9 | `spacetimeai.cc` | $1.2 | $4.8 | Codex Pro | 0.3 | gpt-realtime |
+| 10 | `test-api.apiqik.online` | $1.2 | $2.4 | openai | 0.3 | gpt-realtime |
+| 11 | `api.openai-labs.com` | $2 | $8 | g1 | 0.5 | gpt-realtime |
+| 12 | `kfcv50.link` | $2 | $8 | az_act05 | 0.5 | gpt-realtime |
+| 13 | `supersubscribe689.com` | $2 | $8 | chatgpt美区版 | 0.5 | gpt-realtime |
+| 14 | `cn.gptapi.asia` | $3.2 | $12.8 | default | 0.8 | gpt-realtime |
+| 15 | `yutoapi.com` | $3.2 | $12.8 | default | 0.8 | gpt-realtime |
+| 16 | `api.bianxie.ai` | $4 | $16 | default | 1 | gpt-realtime |
+| 17 | `api.new.bi` | $4 | $16 | default | 1 | gpt-realtime-2025-08-28 |
+| 18 | `api.routeeasy.ai` | $4 | $16 | default | 1 | gpt-realtime |
+| 19 | `api.xhuoai.com` | $4 | $16 | default | 1 | gpt-realtime-2025-08-28 |
+| 20 | `api.xistree.hk` | $4 | $16 | default | 1 | gpt-realtime-2025-08-28 |
+| 21 | `api.yuboar.com` | $4 | $16 | AzureOpenAI | 1 | gpt-realtime |
+| 22 | `api.zhiyikeji.cn` | $4 | $16 | default | 1 | gpt-realtime-2025-08-28 |
+| 23 | `api2.aigcbest.top` | $4 | $16 | default | 1 | gpt-realtime |
+| 24 | `apicdn.xyc.ai` | $4 | $16 | gpt-flow | 1 | gpt-realtime |
+| 25 | `apicdn.xycai.us` | $4 | $16 | gpt-flow | 1 | gpt-realtime |
+| 26 | `apius.shubiaobiao.cn` | $4 | $16 | Evan | 1 | gpt-realtime |
+| 27 | `hk.moleapi.com` | $4 | $16 | default | 1 | gpt-realtime |
+| 28 | `keypool.space` | $4 | $16 | vip | 1 | gpt-realtime-2025-08-28 |
+| 29 | `shell-api.qinzhiai.com` | $4 | $16 | az | 1 | gpt-realtime |
+| 30 | `api.34ku.com` | $5.2 | $20.8 | default | 1.3 | gpt-realtime-2025-08-28 |
+| 31 | `ai.ydcloud.org` | $6 | $24 | az gpt | 1.5 | gpt-realtime |
+| 32 | `api.ocoolai.com` | $6 | $24 | default | 1.5 | gpt-realtime-2025-08-28 |
+| 33 | `api.zyai.online` | $6 | $90 | AZSVIP | 1.5 | gpt-realtime |
+| 34 | `api.zhimigy.cn` | $6.4 | $25.6 | pro | 1.6 | gpt-realtime |
+| 35 | `www.cybersol.net` | $7.2 | $28.8 | GPT Advance | 1.8 | gpt-realtime |
+| 36 | `api.akko.space` | $10 | $40 | Codex Azure | 2.5 | gpt-realtime |
+| 37 | `zhangsan.yun` | $11.25 | $22.5 | image-2分组 | 0.15 | gpt-realtime |
+| 38 | `aws.baby` | $12.8 | $25.6 | OpenAI 官转 | 3.2 | gpt-realtime-2025-08-28 |
+| 39 | `i.v1api.cc` | $16 | $64 | gpt官 | 4 | gpt-realtime-2025-08-28 |
+| 40 | `api.qinzhiai.com` | $18 | $72 | openai | 4.5 | gpt-realtime |
+| 41 | `api.camel-hub.com` | $18.75 | $37.5 | default | 1 | gpt-realtime-2025-08-28 |
+| 42 | `wrduai.com` | $28 | $56 | 官转 | 1 | gpt-realtime |
+| 43 | `us1.tonbirds.com` | $40 | $240 | default | 10 | gpt-realtime |
 
-[← 返回索引](index.md)
+> 74 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

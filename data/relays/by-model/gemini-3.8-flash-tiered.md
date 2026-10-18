@@ -1,208 +1,60 @@
 # gemini-3.8-flash-tiered
 
-> 255 家 · 最低 **$0.008077** @ `api.robinsonai.shop` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 90 站提供 · 正常价 52 站 · 中位价 **$0.225**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.robinsonai.shop` | $0.008077 | $0.040385 | gemeni | 0.07 | gemini-3.8-flash-tiered |
-| 2 | `pianyitoken.top` | $0.019521 | $0.097605 | gemini 0.19x（工具调用正常） | 0.19 | gemini-3.8-flash-tiered |
-| 3 | `api.lingzhouai.com` | $0.1125 | $0.5625 | gemini专用分组 | 0.15 | gemini-3.8-flash-tiered |
-| 4 | `us.xigong.cloud` | $0.1125 | $0.5625 | 反重力Gemini | 0.15 | gemini-3.8-flash-tiered |
-| 5 | `api.qfgapi.com` | $0.15 | $0.75 | Gemini-Anti | 0.2 | gemini-3.8-flash-tiered |
-| 6 | `api.liangrekui.com` | $0.2175 | $1.0875 | JC gemini特价 | 0.29 | gemini-3.8-flash-tiered |
-| 7 | `deepkey.top` | $0.225 | $1.125 | gemini-anti | 0.3 | gemini-3.8-flash-tiered |
-| 8 | `aiapi.cc` | $0.2625 | $1.3125 | 反重力 | 0.35 | gemini-3.8-flash-tiered |
-| 9 | `zivv.pro` | $0.3 | $1.5 | - | 0.4 | gemini-3.8-flash-tiered |
-| 10 | `api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 11 | `api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 12 | `new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 13 | `sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 14 | `vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 15 | `ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 16 | `www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 17 | `cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 18 | `hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 19 | `gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 20 | `2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 21 | `ai2.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 22 | `ai2.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 23 | `ai2.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 24 | `ai2.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 25 | `ai2.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 26 | `ai2.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 27 | `ai2.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 28 | `ai2.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 29 | `ai2.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 30 | `ai2.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 31 | `api2.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 32 | `api2.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 33 | `api2.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 34 | `api2.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 35 | `api2.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 36 | `api2.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 37 | `api2.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 38 | `api3.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 39 | `api3.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 40 | `api3.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 41 | `api3.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 42 | `api3.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 43 | `api3.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 44 | `api3.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 45 | `api3.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 46 | `claude.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 47 | `claude.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 48 | `claude.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 49 | `claude.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 50 | `claude.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 51 | `claude.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 52 | `claude.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 53 | `claude.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 54 | `gemini.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 55 | `gemini.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 56 | `gemini.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 57 | `gemini.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 58 | `gemini.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 59 | `gemini.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 60 | `gemini.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 61 | `gemini.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 62 | `gemini.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 63 | `gpt.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 64 | `gpt.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 65 | `gpt.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 66 | `gpt.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 67 | `gpt.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 68 | `gpt.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 69 | `gpt.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 70 | `gpt.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 71 | `gpt.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 72 | `gpt.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 73 | `gpt.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 74 | `grok.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 75 | `grok.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 76 | `grok.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 77 | `grok.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 78 | `grok.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 79 | `grok.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 80 | `grok.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 81 | `grok.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 82 | `grok.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 83 | `grok.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 84 | `gw2.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 85 | `gw2.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 86 | `gw2.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 87 | `gw2.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 88 | `gw2.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 89 | `gw2.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 90 | `gw2.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 91 | `gw2.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 92 | `gw2.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 93 | `hk2.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 94 | `hk2.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 95 | `hk2.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 96 | `hk2.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 97 | `hk2.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 98 | `hk2.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 99 | `hk2.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 100 | `hk2.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 101 | `jp.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 102 | `jp.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 103 | `jp.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 104 | `jp.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 105 | `jp.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 106 | `jp.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 107 | `jp.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 108 | `jp.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 109 | `llm.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 110 | `llm.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 111 | `llm.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 112 | `llm.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 113 | `llm.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 114 | `llm.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 115 | `llm.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 116 | `llm.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 117 | `llm.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 118 | `llm.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 119 | `llm.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 120 | `mirror.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 121 | `mirror.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 122 | `mirror.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 123 | `mirror.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 124 | `mirror.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 125 | `mirror.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 126 | `mirror.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 127 | `mirror.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 128 | `mirror.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 129 | `mirror.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 130 | `openai.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 131 | `openai.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 132 | `openai.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 133 | `openai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 134 | `openai.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 135 | `openai.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 136 | `openai.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 137 | `openai.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 138 | `openai.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 139 | `ai2.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 140 | `api2.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 141 | `api2.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 142 | `api2.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 143 | `api2.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 144 | `api3.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 145 | `api3.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 146 | `claude.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 147 | `gemini.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 148 | `grok.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 149 | `gw2.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 150 | `gw2.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 151 | `hk2.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 152 | `hk2.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 153 | `jp.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 154 | `jp.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 155 | `mirror.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 156 | `openai.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 157 | `openai.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 158 | `proxy.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 159 | `proxy.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 160 | `proxy.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 161 | `proxy.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 162 | `proxy.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 163 | `proxy.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 164 | `proxy.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 165 | `proxy.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 166 | `proxy.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 167 | `relay.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 168 | `relay.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 169 | `relay.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 170 | `relay.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 171 | `relay.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 172 | `relay.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 173 | `relay.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 174 | `relay.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 175 | `relay.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 176 | `sg.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 177 | `sg.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 178 | `sg.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 179 | `sg.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 180 | `sg.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 181 | `sg.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 182 | `sg.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 183 | `sg.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 184 | `sg.www.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 185 | `tw.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 186 | `tw.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 187 | `tw.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 188 | `tw.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 189 | `tw.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 190 | `tw.hk.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 191 | `tw.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 192 | `tw.sub.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 193 | `tw.vip.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-3 | 0.42 | gemini-3.8-flash-tiered |
-| 194 | `us.2api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 195 | `us.ai.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 196 | `us.api.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 197 | `us.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 198 | `us.cn.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 199 | `us.gw.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
-| 200 | `us.new.api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
+| 1 | `pianyitoken.gay` | $0.0195205 | $0.0976027 | gemini 0.19x（工具调用正常） | 0.19 | gemini-3.8-flash-tiered |
+| 2 | `api.banban.plus` | $0.0267123 | $0.133562 | C gemini-antigravity（反重力） | 0.26 | gemini-3.8-flash-tiered |
+| 3 | `azemm.cc` | $0.0975 | $0.4875 | Gemini-anti | 0.13 | gemini-3.8-flash-tiered |
+| 4 | `api.lingzhouai.com` | $0.1125 | $0.5625 | gemini专用分组 | 0.15 | gemini-3.8-flash-tiered |
+| 5 | `catapi.catcard.uk` | $0.1125 | $0.5625 | 【自营】Gemini-无缓存 | 0.15 | gemini-3.8-flash-tiered |
+| 6 | `monetwl.com` | $0.1125 | $0.5625 | gemini | 0.15 | gemini-3.8-flash-tiered |
+| 7 | `xigong.cloud` | $0.1125 | $0.5625 | 反重力Gemini | 0.15 | gemini-3.8-flash-tiered |
+| 8 | `api.text168.com` | $0.135 | $0.675 | 反重力Gemini | 0.18 | gemini-3.8-flash-tiered |
+| 9 | `api.xiaoyaoxx.cn` | $0.135 | $0.675 | JB geminni | 0.18 | gemini-3.8-flash-tiered |
+| 10 | `dmit.yyrouter.cc` | $0.135 | $0.675 | Gemini | 0.18 | gemini-3.8-flash-tiered |
+| 11 | `api.9m8m.com` | $0.15 | $0.75 | Gemini分组 | 0.2 | gemini-3.8-flash-tiered |
+| 12 | `api.shuaiapi.com` | $0.15 | $0.75 | 【gemini】【非自营】 | 0.2 | gemini-3.8-flash-tiered |
+| 13 | `byteclaude.io` | $0.15 | $0.75 | gemeni | 0.2 | gemini-3.8-flash-tiered |
+| 14 | `claude.bestswifter.com` | $0.15 | $0.75 | gemini-native | 0.2 | gemini-3.8-flash-tiered |
+| 15 | `oai.sb` | $0.15 | $0.75 | 【gemini】【非自营】 | 0.2 | gemini-3.8-flash-tiered |
+| 16 | `www.xpivot.top` | $0.15 | $0.75 | Gemini 反重力 | 0.2 | gemini-3.8-flash-tiered |
+| 17 | `www.youzi11.com` | $0.15 | $0.75 | gemini | 0.2 | gemini-3.8-flash-tiered |
+| 18 | `api.liangrekui.com` | $0.1875 | $0.9375 | C gemeni-antigravity（反重力） | 0.25 | gemini-3.8-flash-tiered |
+| 19 | `loveapi.top` | $0.1875 | $0.9375 | Gemini 0.25x 反重力 | 0.25 | gemini-3.8-flash-tiered |
+| 20 | `moeapi.cloud` | $0.1875 | $0.9375 | Gemini自营号池 | 0.25 | gemini-3.8-flash-tiered |
+| 21 | `worldcodes.online` | $0.1875 | $0.9375 | Gemini 反重力 | 0.25 | gemini-3.8-flash-tiered |
+| 22 | `ai.711ev.com` | $0.195 | $0.975 | 【Gemini】Ultra号池 | 0.26 | gemini-3.8-flash-tiered |
+| 23 | `botcf.com` | $0.21 | $1.05 | 🪐gemini-antigravity | 0.28 | gemini-3.8-flash-tiered |
+| 24 | `deepkey.top` | $0.225 | $1.125 | gemini | 0.3 | gemini-3.8-flash-tiered |
+| 25 | `ovo1.vip` | $0.225 | $1.125 | Google Antigravity | 0.3 | gemini-3.8-flash-tiered |
+| 26 | `www.kk-vibe.top` | $0.225 | $1.125 | Gemini | 0.3 | gemini-3.8-flash-tiered |
+| 27 | `xxapi.info` | $0.225 | $1.125 | Gemini稳定 | 0.3 | gemini-3.8-flash-tiered |
+| 28 | `momoapi.xin` | $0.24 | $1.2 | gemini反重力 | 0.32 | gemini-3.8-flash-tiered |
+| 29 | `aiapi.cc` | $0.2625 | $1.3125 | 反重力 | 0.35 | gemini-3.8-flash-tiered |
+| 30 | `aiapibank.com` | $0.2625 | $1.3125 | Gemini Ultra分组 | 0.35 | gemini-3.8-flash-tiered |
+| 31 | `api.cloudpass.space` | $0.2625 | $1.3125 | Gemini | 0.35 | gemini-3.8-flash-tiered |
+| 32 | `api.khala.online` | $0.2625 | $1.3125 | Gemini | 0.35 | gemini-3.8-flash-tiered |
+| 33 | `new.tianluo.ccwu.cc` | $0.285 | $1.425 | Genmi | 0.38 | gemini-3.8-flash-tiered |
+| 34 | `api.manbeihu.top` | $0.3 | $1.5 | gemini | 0.4 | gemini-3.8-flash-tiered |
+| 35 | `us.pomoai.xyz` | $0.3 | $1.5 | gemini-normal | 0.4 | gemini-3.8-flash-tiered |
+| 36 | `www.cheapi.cc` | $0.3 | $1.5 | gemini | 0.4 | gemini-3.8-flash-tiered |
+| 37 | `zivv.pro` | $0.3 | $1.5 | - | 0.4 | gemini-3.8-flash-tiered |
+| 38 | `api.baorongxs.top` | $0.315 | $1.575 | E丨Gemini-2 | 0.42 | gemini-3.8-flash-tiered |
+| 39 | `api.tyasai.com` | $0.3375 | $1.6875 | Gemini 已破甲 0.45每刀 | 0.45 | gemini-3.8-flash-tiered |
+| 40 | `api.boluomiapi.cc` | $0.375 | $1.875 | AG01-Gemini全模型 | 0.5 | gemini-3.8-flash-tiered |
+| 41 | `pincc.flowapi.fun` | $0.375 | $1.875 | Gemini 原生专线 | 0.5 | gemini-3.8-flash-tiered |
+| 42 | `www.aiapikey.net` | $0.375 | $1.875 | Gemini | 0.5 | gemini-3.8-flash-tiered |
+| 43 | `api.ycapi.xyz` | $0.5 | $2.5 | gemini | 0.25 | gemini-3.8-flash-tiered |
+| 44 | `api.openai-labs.com` | $0.525 | $2.625 | ge07 | 0.7 | gemini-3.8-flash-tiered |
+| 45 | `newapi.prorisehub.com` | $0.525 | $2.625 | Ant-Gemini | 0.35 | gemini-3.8-flash-tiered |
+| 46 | `ai.hebox.net` | $0.675 | $0.675 | Gemini | 0.09 | gemini-3.8-flash-tiered |
+| 47 | `70.33.249.114` | $0.75 | $3.75 | google反重力渠道 | 1 | gemini-3.8-flash-tiered |
+| 48 | `cc.anyroute.io` | $0.75 | $3.75 | Gemini 企业渠道 | 1 | gemini-3.8-flash-tiered |
+| 49 | `quanter.cloud` | $0.75 | $3.75 | Gemini 反重力 | 1 | gemini-3.8-flash-tiered |
+| 50 | `openclawroot.com` | $1.125 | $5.625 | gemini按量 | 0.12 | gemini-3.8-flash-tiered |
 
-[← 返回索引](index.md)
+> 另有 2 站未列出；38 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

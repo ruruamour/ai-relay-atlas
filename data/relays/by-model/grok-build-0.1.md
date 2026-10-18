@@ -1,208 +1,60 @@
 # grok-build-0.1
 
-> 263 家 · 最低 **$0.04** @ `www.apiqd.com` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 304 站提供 · 正常价 229 站 · 中位价 **$0.5**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.apiqd.com` | $0.04 | $0.08 | grok | 0.04 | grok-build-0.1 |
-| 2 | `us.xigong.cloud` | $0.065 | $0.13 | Grok-全模型 | 0.065 | grok-build-0.1 |
-| 3 | `relayrouter.ai` | $0.07353 | $0.14706 | Cli-Grok-1 | 0.07353 | grok-build-0.1 |
-| 4 | `api.socode.cc` | $0.08 | $0.16 | Grok-[Havry]  | 0.08 | grok-build-0.1 |
-| 5 | `gptapi.top` | $0.091912 | $0.183824 | Cli-Grok-1 | 0.0919125 | grok-build-0.1 |
-| 6 | `moliapi.com` | $0.092648 | $0.185296 | Cli-Grok-1 | 0.0926478 | grok-build-0.1 |
-| 7 | `ai-api.cc` | $0.095589 | $0.191178 | Cli-Grok-1 | 0.09558900000000001 | grok-build-0.1 |
-| 8 | `api.qiuming-ai.com` | $0.096 | $0.192 | Grok-Heavy | 0.096 | grok-build-0.1 |
-| 9 | `api.qiuming-web.com` | $0.096 | $0.192 | Grok-Heavy | 0.096 | grok-build-0.1 |
-| 10 | `nodapi.com` | $0.09706 | $0.19412 | Cli-Grok-1 | 0.0970596 | grok-build-0.1 |
-| 11 | `anyaigc.ai` | $0.099266 | $0.198532 | Cli-Grok-1 | 0.0992655 | grok-build-0.1 |
-| 12 | `aigw.store` | $0.1 | $0.2 | Grok Heavy | 0.1 | grok-build-0.1 |
-| 13 | `api.robinsonai.shop` | $0.1 | $0.2 | Grok | 0.1 | grok-build-0.1 |
-| 14 | `xiguapi.cc` | $0.102942 | $0.205884 | Cli-Grok-1 | 0.10294199999999999 | grok-build-0.1 |
-| 15 | `api.n1n.ai` | $0.14706 | $0.29412 | Cli-Grok-1 | 0.14706 | grok-build-0.1 |
-| 16 | `jeniya.cc` | $0.14706 | $0.29412 | Cli-Grok-1 | 0.14706 | grok-build-0.1 |
-| 17 | `llm-api.dev` | $0.14706 | $0.29412 | Cli-Grok-1 | 0.14706 | grok-build-0.1 |
-| 18 | `quanzil.cn` | $0.14706 | $0.29412 | Cli-Grok-1 | 0.14706 | grok-build-0.1 |
-| 19 | `quanzil.net` | $0.14706 | $0.29412 | Cli-Grok-1 | 0.14706 | grok-build-0.1 |
-| 20 | `huanyuf.top` | $0.15 | $0.3 | 「Grok」Heavy | 0.15 | grok-build-0.1 |
-| 21 | `sub.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 22 | `vip.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 23 | `cn.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 24 | `hk.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 25 | `gw.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 26 | `2api.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 27 | `cn.rivoapi.com` | $0.15 | $0.3 | Grok Heavy | 0.15 | grok-build-0.1 |
-| 28 | `ai2.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 29 | `api3.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 30 | `gemini.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 31 | `gpt.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 32 | `gw2.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 33 | `hk2.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 34 | `jp.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 35 | `openai.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 36 | `api2.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 37 | `mirror.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 38 | `proxy.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 39 | `tw.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 40 | `us.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 41 | `v2.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 42 | `v3.dragon3api.com` | $0.15 | $0.3 | grok | 0.15 | grok-build-0.1 |
-| 43 | `ai.mggoo.com` | $0.2 | $0.4 | grok(自建号池) | 0.2 | grok-build-0.1 |
-| 44 | `api.kkrich.ltd` | $0.2 | $0.4 | Grok Heavy | 0.2 | grok-build-0.1 |
-| 45 | `api.tameac.com` | $0.2 | $0.4 | grok heavy | 0.2 | grok-build-0.1 |
-| 46 | `www.tameac.com` | $0.2 | $0.4 | grok heavy | 0.2 | grok-build-0.1 |
-| 47 | `api.chuangyuan.org` | $0.25 | $0.5 | grok-heavy | 0.25 | grok-build-0.1 |
-| 48 | `api.qiuqiutoken.com` | $0.25 | $0.5 | Grok专用-SuperGrok | 0.25 | grok-build-0.1 |
-| 49 | `qiuqiutoken.net` | $0.25 | $0.5 | Grok专用-SuperGrok | 0.25 | grok-build-0.1 |
-| 50 | `api.e-flowcode.cc` | $0.3 | $0.6 | 1_vip_grok | 0.3 | grok-build-0.1 |
-| 51 | `e-flowcode.cc` | $0.3 | $0.6 | 1_vip_grok | 0.3 | grok-build-0.1 |
-| 52 | `windapi.ai` | $0.4 | $0.8 | grok | 0.4 | grok-build-0.1 |
-| 53 | `api.tokenflux.cloud` | $0.5 | $1.0 | Gork | 0.5 | grok-build-0.1 |
-| 54 | `apinebula.com` | $0.5 | $1.0 | Grok | 0.5 | grok-build-0.1 |
-| 55 | `apinebula.cn` | $0.5 | $1.0 | Grok | 0.5 | grok-build-0.1 |
-| 56 | `u-ai.me` | $0.55 | $1.1 | grok-官转 | 0.55 | grok-build-0.1 |
-| 57 | `www.u-ai.me` | $0.55 | $1.1 | grok-官转 | 0.55 | grok-build-0.1 |
-| 58 | `www.suanlitaikong.com` | $0.8 | $4.0 | grok-官转 | 0.8 | grok-build-0.1 |
-| 59 | `api2.linkapi.ai` | $0.8 | $1.6 | Grok | 0.8 | grok-build-0.1 |
-| 60 | `linkapi.cc` | $0.8 | $1.6 | Grok | 0.8 | grok-build-0.1 |
-| 61 | `www.easymax.ai` | $1 | $2.0 | grok | 1 | grok-build-0.1 |
-| 62 | `api.apiyi.com` | $1 | $2.0 | CodexResponses | 1 | grok-build-0.1 |
-| 63 | `api.laozhang.ai` | $1 | $2.0 | default | 1 | grok-build-0.1 |
-| 64 | `proaiapi.com` | $1 | $2.0 | default | 1 | grok-build-0.1 |
-| 65 | `us.easymax.ai` | $1 | $2.0 | grok | 1 | grok-build-0.1 |
-| 66 | `api.987xyz.com` | $1.5 | $3.0 | grok | 1.5 | grok-build-0.1 |
-| 67 | `aiapi.world` | $1.7918 | $3.5836 | default | 0.1445 | grok-build-0.1 |
-| 68 | `www.laysoai.com` | $2.6 | $5.2 | Azure-Grok-2 | 2.6 | grok-build-0.1 |
-| 69 | `www.codeworksta.com` | $3.3 | $6.6 | grok-订阅计费 | 3.3 | grok-build-0.1 |
-| 70 | `www.shendun.vip` | $3.5 | $7.0 | GROK官key | 3.5 | grok-build-0.1 |
-| 71 | `ideastead.com` | $3.75 | $3.75 | Grok | 0.05 | grok-build-0.1 |
-| 72 | `www.vectorengine.ai` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 73 | `www.yunwu.ai` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 74 | `api.yunwu.ai` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 75 | `apipro.maynor1024.live` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 76 | `yunwu.ai` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 77 | `aiapihub.cloud` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 78 | `api-hub.vip` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 79 | `apixin.cn` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 80 | `fluxapi.top` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 81 | `qianfufu.top` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 82 | `sparkapi.cn` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 83 | `uouo.fun` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 84 | `vectorengine.top` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 85 | `yunshu.hk` | $6 | $12.0 | 优质grok | 6 | grok-build-0.1 |
-| 86 | `ai.hongyun.chat` | $7 | $14.0 | Grok-纯血号池 | 7.0 | grok-build-0.1 |
-| 87 | `www.mv88.cn` | $7.5 | $7.5 | Grok | 0.1 | grok-build-0.1 |
-| 88 | `www.baosiapi.com` | $10 | $20.0 | grok | 10 | grok-build-0.1 |
-| 89 | `sg.baosiapi.com` | $10 | $20.0 | grok | 10 | grok-build-0.1 |
-| 90 | `gwlink.cc` | $11.25 | $11.25 | grok | 0.15 | grok-build-0.1 |
-| 91 | `api.gwlink.cc` | $11.25 | $11.25 | grok | 0.15 | grok-build-0.1 |
-| 92 | `www.synthapi.asia` | $11.25 | $11.25 | Grok_标准组 | 0.15 | grok-build-0.1 |
-| 93 | `www.wolfai.top` | $11.25 | $11.25 | Mini | 0.15 | grok-build-0.1 |
-| 94 | `1024token.xyz` | $15 | $15.0 | grok | 0.2 | grok-build-0.1 |
-| 95 | `www.unassigned.top` | $16.5 | $16.5 | grok-super | 0.22 | grok-build-0.1 |
-| 96 | `api.synai996.space` | $22.5 | $22.5 | Grok | 0.3 | grok-build-0.1 |
-| 97 | `claudegpt.cc` | $22.5 | $45.0 | Grok | 0.3 | grok-build-0.1 |
-| 98 | `us.synai996.space` | $22.5 | $22.5 | Grok | 0.3 | grok-build-0.1 |
-| 99 | `us.clauddy.com` | $37.5 | $37.5 | Grok | 0.5 | grok-build-0.1 |
-| 100 | `api.nyxos.shop` | $75 | $75.0 | AUTO-V2 | 1 | grok-build-0.1 |
-| 101 | `api.tacklekey.com` | $75 | $75.0 | default | 1 | x-ai/grok-build-0.1 |
-| 102 | `api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 103 | `new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 104 | `sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 105 | `vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 106 | `ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 107 | `www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 108 | `hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 109 | `api.newapi.zone` | $75 | $75.0 | grok | 1 | grok-build-0.1 |
-| 110 | `ai-key.top` | $75 | $75.0 | Grok | 1 | grok-build-0.1 |
-| 111 | `ai2.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 112 | `ai2.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 113 | `ai2.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 114 | `ai2.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 115 | `ai2.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 116 | `ai2.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 117 | `ai2.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 118 | `api2.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 119 | `api2.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 120 | `api2.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 121 | `api2.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 122 | `api2.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 123 | `api2.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 124 | `api2.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 125 | `api3.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 126 | `api3.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 127 | `api3.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 128 | `api3.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 129 | `api3.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 130 | `claude.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 131 | `claude.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 132 | `claude.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 133 | `claude.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 134 | `claude.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 135 | `gemini.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 136 | `gemini.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 137 | `gemini.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 138 | `gemini.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 139 | `gemini.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 140 | `gemini.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 141 | `gpt.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 142 | `gpt.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 143 | `gpt.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 144 | `gpt.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 145 | `gpt.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 146 | `gpt.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 147 | `gpt.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 148 | `grok.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 149 | `grok.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 150 | `grok.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 151 | `grok.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 152 | `grok.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 153 | `grok.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 154 | `grok.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 155 | `gw2.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 156 | `gw2.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 157 | `gw2.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 158 | `gw2.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 159 | `gw2.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 160 | `gw2.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 161 | `gw2.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 162 | `hk2.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 163 | `hk2.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 164 | `hk2.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 165 | `hk2.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 166 | `hk2.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 167 | `jp.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 168 | `jp.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 169 | `jp.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 170 | `jp.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 171 | `jp.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 172 | `jp.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 173 | `jp.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 174 | `llm.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 175 | `llm.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 176 | `llm.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 177 | `llm.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 178 | `llm.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 179 | `llm.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 180 | `llm.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 181 | `mirror.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 182 | `mirror.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 183 | `mirror.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 184 | `mirror.sub.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 185 | `mirror.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 186 | `openai.ai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 187 | `openai.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 188 | `openai.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 189 | `openai.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 190 | `openai.www.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 191 | `ai2.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 192 | `api2.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 193 | `api3.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 194 | `api3.new.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 195 | `claude.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 196 | `gemini.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 197 | `gpt.hk.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 198 | `grok.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 199 | `gw2.vip.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
-| 200 | `hk2.api.juhe.zfb.la` | $75 | $75.0 | 龙虾专用 | 1 | grok-build-0.1 |
+| 1 | `ovo1.vip` | $0.03 | $0.06 | Grok Lite | 0.03 | grok-build-0.1 |
+| 2 | `api.kcne.top` | $0.04 | $0.08 | Grok | 0.04 | grok-build-0.1 |
+| 3 | `www.apiqd.com` | $0.04 | $0.08 | grok | 0.04 | grok-build-0.1 |
+| 4 | `anticode.cn` | $0.05 | $0.1 | Grok | 0.05 | grok-build-0.1 |
+| 5 | `bbapi.ainivox.cn` | $0.05 | $0.1 | Grok分组0.05 | 0.05 | grok-build-0.1 |
+| 6 | `api.bjhuiqu.net` | $0.06 | $0.12 | grok-Super | 0.06 | grok-build-0.1 |
+| 7 | `api.openlux.ai` | $0.07353 | $0.14706 | Cli-Grok-1 | 0.07353 | grok-build-0.1 |
+| 8 | `api.relayrouter.ai` | $0.07353 | $0.14706 | Cli-Grok-1 | 0.07353 | grok-build-0.1 |
+| 9 | `ai.lt4net.org` | $0.075 | $0.15 | default | 0.001 | grok-build-0.1 |
+| 10 | `api.apikl.ai` | $0.08 | $0.16 | Grok-Heavy | 0.08 | grok-build-0.1 |
+| 11 | `api.socode.cc` | $0.08 | $0.16 | Grok-[Havry]  | 0.08 | grok-build-0.1 |
+| 12 | `www.xmapi.cc` | $0.08 | $0.16 | grok | 0.08 | grok-build-0.1 |
+| 13 | `api.tidewhisper-ai.xyz` | $0.080883 | $0.161766 | Cli-Grok-1 | 0.080883 | grok-build-0.1 |
+| 14 | `gzxbykj.com` | $0.080883 | $0.161766 | Cli-Grok-1 | 0.080883 | grok-build-0.1 |
+| 15 | `v2.cloudmist.cloud` | $0.0845595 | $0.169119 | Cli-Grok-1 | 0.0845595 | grok-build-0.1 |
+| 16 | `xigong.cloud` | $0.085 | $0.17 | Grok-全模型 | 0.085 | grok-build-0.1 |
+| 17 | `www.vectronode.com` | $0.088236 | $0.176472 | Cli-Grok-1 | 0.088236 | grok-build-0.1 |
+| 18 | `kimera.cc` | $0.09 | $0.18 | Grok heavy | 0.09 | grok-build-0.1 |
+| 19 | `ciyuan.today` | $0.0919125 | $0.183825 | Cli-Grok-1 | 0.0919125 | grok-build-0.1 |
+| 20 | `gptapi.top` | $0.0919125 | $0.183825 | Cli-Grok-1 | 0.0919125 | grok-build-0.1 |
+| 21 | `makerend.com` | $0.0919125 | $0.183825 | Cli-Grok-1 | 0.0919125 | grok-build-0.1 |
+| 22 | `moliapi.com` | $0.0926478 | $0.185296 | Cli-Grok-1 | 0.0926478 | grok-build-0.1 |
+| 23 | `ai-api.cc` | $0.095589 | $0.191178 | Cli-Grok-1 | 0.095589 | grok-build-0.1 |
+| 24 | `api.qiuming-ai.com` | $0.096 | $0.192 | Grok-Heavy | 0.096 | grok-build-0.1 |
+| 25 | `api.qiuming-web.com` | $0.096 | $0.192 | Grok-Heavy | 0.096 | grok-build-0.1 |
+| 26 | `nodapi.com` | $0.0970596 | $0.194119 | Cli-Grok-1 | 0.0970596 | grok-build-0.1 |
+| 27 | `anyaigc.ai` | $0.0992655 | $0.198531 | Cli-Grok-1 | 0.0992655 | grok-build-0.1 |
+| 28 | `ai.bayunzi.shop` | $0.1 | $0.2 | Grok Heavy | 0.1 | grok-build-0.1 |
+| 29 | `aigw.store` | $0.1 | $0.2 | Grok Heavy | 0.1 | grok-build-0.1 |
+| 30 | `api.9m8m.com` | $0.1 | $0.2 | Grok heavy 分组 | 0.1 | grok-build-0.1 |
+| 31 | `api.ciyuanshen.top` | $0.1 | $0.2 | Grok heavy | 0.1 | grok-build-0.1 |
+| 32 | `api.lukyface.com` | $0.1 | $0.2 | grok heavy | 0.1 | grok-build-0.1 |
+| 33 | `api.qfgapi.com` | $0.1 | $0.2 | Grok-Heavy | 0.1 | grok-build-0.1 |
+| 34 | `api.robinsonai.shop` | $0.1 | $0.2 | Grok | 0.1 | grok-build-0.1 |
+| 35 | `api3.kscsnkli.site` | $0.1 | $0.2 | grok | 0.1 | grok-build-0.1 |
+| 36 | `kedaya.ai` | $0.1 | $0.2 | 甩GPT无数条街的Grok 吊打GPT | 0.1 | grok-build-0.1 |
+| 37 | `lanxiu.cc` | $0.1 | $0.2 | default | 0.1 | grok-build-0.1 |
+| 38 | `mzhcloud.com` | $0.1 | $0.2 | Grok | 0.1 | grok-build-0.1 |
+| 39 | `sub2api.closeapi.top` | $0.1 | $0.2 | grok | 0.1 | grok-build-0.1 |
+| 40 | `www.yysc.top` | $0.1 | $0.2 | Grok | 0.1 | grok-build-0.1 |
+| 41 | `yunshuapi.wiki` | $0.1 | $0.2 | 稳定分组 Grok | 0.1 | grok-build-0.1 |
+| 42 | `sheepaiplus.top` | $0.102942 | $0.205884 | Cli-Grok-1 | 0.102942 | grok-build-0.1 |
+| 43 | `xiguapi.icu` | $0.102942 | $0.205884 | Cli-Grok-1 | 0.102942 | grok-build-0.1 |
+| 44 | `b.kr777.top` | $0.11 | $0.22 | grok | 0.11 | grok-build-0.1 |
+| 45 | `salcara.top` | $0.11 | $0.22 | grok | 0.11 | grok-build-0.1 |
+| 46 | `api.videocaptioner.cn` | $0.110295 | $0.22059 | Cli-Grok-1 | 0.110295 | grok-build-0.1 |
+| 47 | `api.lingxiaihub.com` | $0.12 | $0.24 | Grok heavy 满血 | 0.12 | grok-build-0.1 |
+| 48 | `api.yanai.it.com` | $0.12 | $0.24 | grok | 0.12 | grok-build-0.1 |
+| 49 | `api.nixapi.com` | $0.124266 | $0.248531 | Cli-Grok-1 | 0.124266 | grok-build-0.1 |
+| 50 | `fengchao-api.com` | $0.13 | $0.26 | Super Grok | 0.13 | grok-build-0.1 |
 
-[← 返回索引](index.md)
+> 另有 179 站未列出；75 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

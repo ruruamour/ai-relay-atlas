@@ -1,208 +1,60 @@
 # claude-sonnet-4-5
 
-> 1329 家 · 最低 **$0.12** @ `apicangku.icu` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 890 站提供 · 正常价 736 站 · 中位价 **$2.4**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `apicangku.icu` | $0.12 | $0.6 | claude特惠 | 0.04 | claude-sonnet-4-5 |
-| 2 | `www.apicangku.icu` | $0.12 | $0.6 | claude特惠 | 0.04 | claude-sonnet-4-5 |
-| 3 | `claude.llmhub.ltd` | $0.12 | $0.6 | Claude-Kiro-Pro | 0.04 | claude-sonnet-4-5 |
+| 1 | `llmhub.ltd` | $0.12 | $0.6 | Claude-Kiro-Pro | 0.04 | claude-sonnet-4-5 |
+| 2 | `api.247kan.com` | $0.15 | $0.75 | Claude Kiro | 0.05 | claude-sonnet-4-5 |
+| 3 | `api.beibeiai.top` | $0.15 | $0.75 | kiro90缓存 | 0.05 | claude-sonnet-4-5 |
 | 4 | `api.lingzhouai.com` | $0.15 | $0.75 | claude kiro专用分组 | 0.05 | claude-sonnet-4-5 |
-| 5 | `www.bb-api.com` | $0.15 | $0.75 | cc-kiro-90%缓存-005x | 0.05 | claude-sonnet-4-5 |
-| 6 | `newaicxy.xyz` | $0.18 | $0.9 | kiro高缓 | 0.06 | claude-sonnet-4-5 |
-| 7 | `www.newaicxy.xyz` | $0.18 | $0.9 | kiro高缓 | 0.06 | claude-sonnet-4-5 |
-| 8 | `api.socode.cc` | $0.24 | $1.2 | Claude[Kiro] | 0.08 | claude-sonnet-4-5 |
-| 9 | `api.tcvps.cn` | $0.24 | $1.2 | Claude组【Kiro定制专线】低价线路★★★ | 0.08 | claude-sonnet-4-5 |
-| 10 | `www.civilian.asia` | $0.24 | $1.2 | claude-kiro | 0.08 | claude-sonnet-4-5 |
-| 11 | `aigw.store` | $0.3 | $1.5 | Claude Kiro | 0.1 | claude-sonnet-4-5 |
-| 12 | `llm-coding.space` | $0.3 | $1.5 | kiro | 0.1 | claude-sonnet-4-5 |
-| 13 | `sub.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 14 | `vip.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 15 | `cn.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 16 | `hk.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 17 | `gw.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 18 | `2api.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 19 | `ai2.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 20 | `api3.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 21 | `gemini.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 22 | `gpt.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 23 | `gw2.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 24 | `hk2.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 25 | `jp.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 26 | `openai.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 27 | `api2.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 28 | `mirror.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 29 | `proxy.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 30 | `tw.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 31 | `us.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 32 | `us.hboom.ai` | $0.3 | $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4-5 |
-| 33 | `v2.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 34 | `v3.dragon3api.com` | $0.3 | $1.5 | claude-kiro | 0.1 | claude-sonnet-4-5 |
-| 35 | `kktyh.com` | $0.33 | $1.65 | Kiro Claude | 0.11 | claude-sonnet-4-5 |
-| 36 | `api.988665.xyz` | $0.36 | $1.8 | claude kiro | 0.12 | claude-sonnet-4-5 |
-| 37 | `www.nbaiapi.com` | $0.36 | $1.8 | claude二号 | 0.12 | claude-sonnet-4-5 |
-| 38 | `www.weason.cn` | $0.36 | $1.8 | Claude | 0.12 | claude-sonnet-4-5 |
-| 39 | `all-api.ccode.dev` | $0.39 | $1.95 | Claude-Lite | 0.13 | claude-sonnet-4-5 |
-| 40 | `cc.midlight.top` | $0.45 | $2.25 | Claude | 0.15 | claude-sonnet-4-5 |
-| 41 | `claudeagent.com.cn` | $0.45 | $2.25 | test-kiro | 0.15 | claude-sonnet-4-5 |
-| 42 | `www.claudeagent.com.cn` | $0.45 | $2.25 | test-kiro | 0.15 | claude-sonnet-4-5 |
-| 43 | `ai-gate.zeabur.app` | $0.51 | $2.55 | claude-0.17x | 0.17 | claude-sonnet-4-5 |
-| 44 | `api.xingshu.site` | $0.54 | $2.7 | claude-kiro 无缓速刷 | 0.18 | claude-sonnet-4-5 |
-| 45 | `www.aiagentcode.top` | $0.54 | $2.7 | x-claude-kiro | 0.18 | claude-sonnet-4-5 |
-| 46 | `api.tameac.com` | $0.6 | $3.0 | Kiro | 0.2 | claude-sonnet-4-5 |
-| 47 | `www.tameac.com` | $0.6 | $3.0 | Kiro | 0.2 | claude-sonnet-4-5 |
-| 48 | `sub2api.hyl2api.com` | $0.66 | $3.3 | 应急中，非自营 AWS kiro | 0.22 | claude-sonnet-4-5 |
-| 49 | `www.huablog.xyz` | $0.66 | $3.3 | kiro | 0.22 | claude-sonnet-4-5 |
-| 50 | `jp.huablog.org` | $0.66 | $3.3 | kiro | 0.22 | claude-sonnet-4-5 |
-| 51 | `ssnaicloud.com` | $0.75 | $3.75 | CC krio | 0.25 | claude-sonnet-4-5 |
-| 52 | `ssnaiyun.com` | $0.75 | $3.75 | CC krio | 0.25 | claude-sonnet-4-5 |
-| 53 | `kfcv50.link` | $0.75 | $3.75 | claude_kiro_025 | 0.25 | claude-sonnet-4-5 |
-| 54 | `linapi.net` | $0.8 | $4.0 | default | 1 | claude-sonnet-4-5 |
-| 55 | `modelgate.app` | $0.84 | $4.2 | Claude-Trial | 0.28 | claude-sonnet-4-5 |
-| 56 | `api.modelgate.app` | $0.84 | $4.2 | Claude-Trial | 0.28 | claude-sonnet-4-5 |
-| 57 | `www.modelgate.app` | $0.84 | $4.2 | Claude-Trial | 0.28 | claude-sonnet-4-5 |
-| 58 | `llmhub.me` | $0.84 | $4.2 | Claude-Trial | 0.28 | claude-sonnet-4-5 |
-| 59 | `api.xudiansuanli.com` | $0.9 | $4.5 | Claude kiro 号池 | 0.3 | claude-sonnet-4-5 |
-| 60 | `api.labapi.work` | $1 | $5.0 | 特价claude | 1 | claude-sonnet-4-5 |
-| 61 | `api.newapi.zone` | $1 | $1.0 | default | 1 | claude-sonnet-4-5 |
-| 62 | `api.gettoken.cn` | $1.17 | $5.85 | Claude | 1.3 | claude-sonnet-4-5 |
-| 63 | `2api.cloud` | $1.2 | $6.0 | claude-kiro | 0.4 | claude-sonnet-4-5 |
-| 64 | `super.aresaicode.cn` | $1.2 | $6.0 | claude kiro正价power | 0.4 | claude-sonnet-4-5 |
-| 65 | `www.2api.cloud` | $1.2 | $6.0 | claude-kiro | 0.4 | claude-sonnet-4-5 |
-| 66 | `www.aixoras.com` | $1.2 | $6.0 | 特价Claude | 0.4 | claude-sonnet-4-5 |
-| 67 | `hk.aixoras.com` | $1.2 | $6.0 | 特价Claude | 0.4 | claude-sonnet-4-5 |
-| 68 | `deepkey.top` | $1.2 | $6.0 | claude-kiro | 0.4 | claude-sonnet-4-5 |
-| 69 | `aiapi.hk` | $1.2 | $6.0 | Claude 中转渠道 | 0.4 | claude-sonnet-4-5 |
-| 70 | `xiaomuai.cn` | $1.3 | $6.5 | default | 0.65 | claude-sonnet-4-5 |
-| 71 | `ccapi.ai` | $1.35 | $6.75 | claude-A | 0.45 | claude-sonnet-4-5 |
-| 72 | `ccapi.pro` | $1.35 | $6.75 | claude-A | 0.45 | claude-sonnet-4-5 |
-| 73 | `iagent.dev` | $1.44 | $7.2 | kiro | 0.48 | claude-sonnet-4-5 |
-| 74 | `huanyuf.top` | $1.5 | $7.5 | 「Kiro 正价」Claude | 0.5 | claude-sonnet-4-5 |
-| 75 | `api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 76 | `sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 77 | `vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 78 | `ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 79 | `www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 80 | `cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 81 | `hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 82 | `gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 83 | `2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 84 | `ai2.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 85 | `ai2.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 86 | `ai2.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 87 | `ai2.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 88 | `ai2.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 89 | `ai2.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 90 | `ai2.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 91 | `ai2.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 92 | `ai2.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 93 | `ai2api.cn` | $1.5 | $7.5 | Claude-aws | 0.5 | claude-sonnet-4-5 |
-| 94 | `api2.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 95 | `api2.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 96 | `api2.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 97 | `api2.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 98 | `api2.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 99 | `api2.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 100 | `api3.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 101 | `api3.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 102 | `api3.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 103 | `api3.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 104 | `api3.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 105 | `api3.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 106 | `api3.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 107 | `claude.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 108 | `claude.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 109 | `claude.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 110 | `claude.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 111 | `claude.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 112 | `claude.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 113 | `claude.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 114 | `claude.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 115 | `gemini.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 116 | `gemini.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 117 | `gemini.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 118 | `gemini.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 119 | `gemini.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 120 | `gemini.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 121 | `gemini.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 122 | `gemini.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 123 | `gpt.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 124 | `gpt.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 125 | `gpt.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 126 | `gpt.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 127 | `gpt.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 128 | `gpt.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 129 | `gpt.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 130 | `gpt.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 131 | `gpt.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 132 | `gpt.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 133 | `grok.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 134 | `grok.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 135 | `grok.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 136 | `grok.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 137 | `grok.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 138 | `grok.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 139 | `grok.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 140 | `grok.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 141 | `grok.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 142 | `gw2.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 143 | `gw2.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 144 | `gw2.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 145 | `gw2.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 146 | `gw2.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 147 | `gw2.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 148 | `gw2.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 149 | `hk2.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 150 | `hk2.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 151 | `hk2.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 152 | `hk2.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 153 | `hk2.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 154 | `hk2.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 155 | `hk2.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 156 | `hk2.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 157 | `jp.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 158 | `jp.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 159 | `jp.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 160 | `jp.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 161 | `jp.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 162 | `jp.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 163 | `jp.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 164 | `llm.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 165 | `llm.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 166 | `llm.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 167 | `llm.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 168 | `llm.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 169 | `llm.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 170 | `llm.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 171 | `llm.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 172 | `llm.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 173 | `llm.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 174 | `mirror.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 175 | `mirror.ai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 176 | `mirror.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 177 | `mirror.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 178 | `mirror.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 179 | `mirror.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 180 | `mirror.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 181 | `mirror.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 182 | `mirror.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 183 | `mirror.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 184 | `openai.2api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 185 | `openai.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 186 | `openai.api.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 187 | `openai.cn.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 188 | `openai.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 189 | `openai.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 190 | `openai.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 191 | `openai.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 192 | `ai2.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 193 | `api2.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 194 | `api2.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 195 | `api2.vip.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 196 | `api2.www.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 197 | `api3.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 198 | `api3.sub.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 199 | `claude.hk.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
-| 200 | `gemini.gw.api-x.top` | $1.5 | $7.5 | default | 0.5 | claude-sonnet-4-5 |
+| 5 | `llm.twinight.co` | $0.15 | $0.75 | Claude Kiro（余额 0.05x） | 0.05 | claude-sonnet-4-5 |
+| 6 | `mhapi.net` | $0.15 | $0.75 | Claude Kiro 有缓90 | 0.05 | claude-sonnet-4-5 |
+| 7 | `newapi.ailyyzdk.xyz` | $0.15 | $0.75 | 0.05claude | 0.05 | claude-sonnet-4-5-20250929 |
+| 8 | `oojj.top` | $0.15 | $0.75 | aws0-ex | 0.05 | claude-sonnet-4-5-20250929 |
+| 9 | `vip.kkone.vip` | $0.15 | $0.75 | Claude-Kiro | 0.05 | claude-sonnet-4-5 |
+| 10 | `www.bb-api.com` | $0.15 | $0.75 | cc-kiro-90%缓存-005x | 0.05 | claude-sonnet-4-5 |
+| 11 | `codelypixverse.com` | $0.153846 | $0.769231 | default | 1 | claude-sonnet-4-5 |
+| 12 | `api.zcloudapi.com` | $0.164384 | $0.821918 | CC-kiro | 0.4 | claude-sonnet-4-5-20250929 |
+| 13 | `api.apikl.ai` | $0.18 | $0.9 | Krio | 0.06 | claude-sonnet-4-5 |
+| 14 | `api.suanniao.shop` | $0.18 | $0.9 | Kiro Claude  超高缓存 | 0.06 | claude-sonnet-4-5-20250929 |
+| 15 | `newaicxy.xyz` | $0.18 | $0.9 | kiro高缓 | 0.06 | claude-sonnet-4-5 |
+| 16 | `tk.8t.chat` | $0.195 | $0.975 | claude-kiro | 0.065 | claude-sonnet-4-5 |
+| 17 | `sub.vcnovb.cn` | $0.21 | $1.05 | 纯kiro | 0.07 | claude-sonnet-4-5-20250929 |
+| 18 | `worldcodes.online` | $0.21 | $1.05 | Claude Kiro 低缓存 | 0.07 | claude-sonnet-4-5 |
+| 19 | `ai2api.cn` | $0.215 | $1.075 | Claude-aws | 0.5 | claude-sonnet-4-5-20250929 |
+| 20 | `xigong.cloud` | $0.216 | $1.08 | Kiro高缓存 | 0.072 | claude-sonnet-4-5 |
+| 21 | `b.kr777.top` | $0.225 | $1.125 | kiro低缓 | 0.1 | claude-sonnet-4-5-20250929 |
+| 22 | `vaelo.8t.chat` | $0.234 | $1.17 | claude-kiro | 0.078 | claude-sonnet-4-5 |
+| 23 | `api.feng.cx` | $0.24 | $1.2 | kiro claude（华强北） | 0.08 | claude-sonnet-4-5 |
+| 24 | `api.routeeasy.ai` | $0.24 | $1.2 | kiro-0.08-1011 | 0.08 | claude-sonnet-4-5-20250929 |
+| 25 | `api.socode.cc` | $0.24 | $1.2 | Claude[Kiro] | 0.08 | claude-sonnet-4-5 |
+| 26 | `api.tcvps.cn` | $0.24 | $1.2 | Claude组【Kiro定制专线】低价线路★★★ | 0.08 | claude-sonnet-4-5 |
+| 27 | `cf.sheapi.cc` | $0.24 | $1.2 | kiro-高缓 | 0.08 | claude-sonnet-4-5 |
+| 28 | `hhw1231.com` | $0.24 | $1.2 | Kiro | 0.08 | claude-sonnet-4-5-20250929 |
+| 29 | `kedaya.ai` | $0.24 | $1.2 | kiro | 0.08 | claude-sonnet-4-5 |
+| 30 | `www.civilian.asia` | $0.24 | $1.2 | claude-kiro | 0.08 | claude-sonnet-4-5 |
+| 31 | `www.yuanshen.net.eu.org` | $0.24 | $1.2 | Kiro | 0.08 | claude-sonnet-4-5 |
+| 32 | `xckjj.com` | $0.24 | $1.2 | 国模 | 0.08 | claude-sonnet-4-5 |
+| 33 | `xinyue.mom` | $0.24 | $1.2 | Claude-Kiro | 0.08 | claude-sonnet-4-5 |
+| 34 | `x.ailzd.com` | $0.252 | $1.26 | 高缓kiro | 0.084 | claude-sonnet-4-5 |
+| 35 | `apibasis.com` | $0.255 | $1.275 | Kiro 90%缓存 | 0.085 | claude-sonnet-4.5 |
+| 36 | `codeworksta.com` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 37 | `codex101.cf-cdn.site` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 38 | `grok101.site` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 39 | `llm-all.pro` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 40 | `model101.site` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 41 | `new-cdn.dg8.site` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 42 | `o-ai.me` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 43 | `token101.site` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 44 | `u-ai.me` | $0.258 | $1.29 | claude-额度计费 | 0.6 | claude-sonnet-4-5-20250929 |
+| 45 | `api.openlux.ai` | $0.26472 | $1.3236 | Kiro-Claude-1 | 0.08824 | claude-sonnet-4-5-20250929 |
+| 46 | `api.relayrouter.ai` | $0.26472 | $1.3236 | Kiro-Claude-1 | 0.08824 | claude-sonnet-4-5-20250929 |
+| 47 | `api.xiaoyaoxx.cn` | $0.27 | $1.35 | EA  kiro claude | 0.09 | claude-sonnet-4-5 |
+| 48 | `dmit.yyrouter.cc` | $0.27 | $1.35 | Claude Kiro 95缓 | 0.09 | claude-sonnet-4-5-20250929 |
+| 49 | `new.984275579.xyz` | $0.27 | $1.35 | claude kiro 99缓 | 0.09 | claude-sonnet-4-5 |
+| 50 | `pianyitoken.gay` | $0.287671 | $1.43836 | CCmax-0.7-禁止蒸馏（蒸馏封号余额不退） | 0.7 | claude-sonnet-4-5-20250929 |
 
-[← 返回索引](index.md)
+> 另有 686 站未列出；154 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

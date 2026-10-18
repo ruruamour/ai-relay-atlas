@@ -22,3 +22,10 @@
 | `ultra-and-vertex.md` | Ultra + Vertex/Aistudio 渠道 | 2026-10-16 |
 
 > 价格为公开页面推算值，未对账；版权归各来源站，见根目录 `DATA-LICENSE.md`。
+
+## sources/
+| 文件 | 说明 |
+|---|---|
+| `veridrop-domains.json` | Veridrop 目录收录的域名（浏览器翻页抓取，取并集） |
+| `github-list-domains.json` | GitHub 公开名单仓库里提取的域名 |
+| `wildcard-dns.json` | 泛解析检测缓存：父域 → 随机子域能否解析 |

@@ -1,208 +1,31 @@
 # kling-3.0
 
-> 444 家 · 最低 **$56.25** @ `api.2api.magic666.top` · 推算价（USD/1M 输入），未对账（仅列前 200）
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 2 | `new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 3 | `sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 4 | `vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 5 | `www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 6 | `hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 7 | `gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 8 | `2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 9 | `api.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 10 | `ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 11 | `www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 12 | `sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 13 | `vip.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 14 | `new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 15 | `sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 16 | `vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 17 | `ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 18 | `www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 19 | `cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 20 | `2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 21 | `ai2.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 22 | `ai2.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 23 | `ai2.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 24 | `ai2.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 25 | `ai2.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 26 | `ai2.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 27 | `ai2.api.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 28 | `ai2.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 29 | `ai2.gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 30 | `ai2.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 31 | `ai2.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 32 | `ai2.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 33 | `ai2.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 34 | `ai2.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 35 | `ai2.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 36 | `ai2.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 37 | `ai2.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 38 | `ai2.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 39 | `ai2.vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 40 | `ai2.vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 41 | `ai2.www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 42 | `ai2.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 43 | `ai2.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 44 | `api2.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 45 | `api2.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 46 | `api2.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 47 | `api2.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 48 | `api2.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 49 | `api2.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 50 | `api2.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 51 | `api2.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 52 | `api2.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 53 | `api2.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 54 | `api2.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 55 | `api2.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 56 | `api2.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 57 | `api2.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 58 | `api2.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 59 | `api3.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 60 | `api3.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 61 | `api3.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 62 | `api3.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 63 | `api3.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 64 | `api3.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 65 | `api3.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 66 | `api3.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 67 | `api3.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 68 | `api3.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 69 | `api3.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 70 | `api3.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 71 | `api3.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 72 | `api3.vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 73 | `api3.vip.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 74 | `api3.vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 75 | `api3.www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 76 | `api3.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 77 | `claude.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 78 | `claude.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 79 | `claude.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 80 | `claude.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 81 | `claude.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 82 | `claude.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 83 | `claude.api.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 84 | `claude.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 85 | `claude.gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 86 | `claude.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 87 | `claude.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 88 | `claude.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 89 | `claude.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 90 | `claude.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 91 | `claude.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 92 | `claude.www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 93 | `claude.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 94 | `claude.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 95 | `gemini.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 96 | `gemini.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 97 | `gemini.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 98 | `gemini.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 99 | `gemini.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 100 | `gemini.api.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 101 | `gemini.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 102 | `gemini.gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 103 | `gemini.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 104 | `gemini.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 105 | `gemini.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 106 | `gemini.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 107 | `gemini.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 108 | `gemini.vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 109 | `gemini.vip.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 110 | `gemini.vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 111 | `gemini.www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 112 | `gemini.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 113 | `gemini.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 114 | `gpt.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 115 | `gpt.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 116 | `gpt.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 117 | `gpt.gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 118 | `gpt.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 119 | `gpt.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 120 | `gpt.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 121 | `gpt.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 122 | `gpt.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 123 | `gpt.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 124 | `gpt.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 125 | `gpt.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 126 | `gpt.vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 127 | `gpt.vip.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 128 | `gpt.vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 129 | `gpt.www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 130 | `gpt.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 131 | `gpt.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 132 | `grok.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 133 | `grok.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 134 | `grok.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 135 | `grok.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 136 | `grok.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 137 | `grok.api.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 138 | `grok.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 139 | `grok.gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 140 | `grok.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 141 | `grok.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 142 | `grok.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 143 | `grok.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 144 | `grok.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 145 | `grok.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 146 | `grok.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 147 | `grok.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 148 | `grok.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 149 | `grok.vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 150 | `grok.vip.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 151 | `grok.vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 152 | `grok.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 153 | `grok.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 154 | `gw2.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 155 | `gw2.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 156 | `gw2.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 157 | `gw2.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 158 | `gw2.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 159 | `gw2.api.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 160 | `gw2.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 161 | `gw2.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 162 | `gw2.hk.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 163 | `gw2.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 164 | `gw2.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 165 | `gw2.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 166 | `gw2.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 167 | `gw2.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 168 | `gw2.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 169 | `gw2.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 170 | `gw2.www.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 171 | `gw2.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 172 | `gw2.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 173 | `hk2.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 174 | `hk2.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 175 | `hk2.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 176 | `hk2.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 177 | `hk2.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 178 | `hk2.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 179 | `hk2.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 180 | `hk2.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 181 | `hk2.new.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 182 | `hk2.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 183 | `hk2.new.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 184 | `hk2.sub.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 185 | `hk2.sub.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 186 | `hk2.sub.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 187 | `hk2.vip.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 188 | `hk2.vip.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 189 | `hk2.vip.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 190 | `hk2.www.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 191 | `hk2.www.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 192 | `jp.2api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 193 | `jp.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 194 | `jp.2api.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 195 | `jp.ai.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 196 | `jp.ai.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 197 | `jp.api.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 198 | `jp.cn.new.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 199 | `jp.gw.2api.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
-| 200 | `jp.gw.magic666.top` | $56.25 | $56.25 | 国产视频模型 | 0.75 | Kling-3.0 |
+> 27 站提供 · 正常价 21 站 · 中位价 **$0.45**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `a6api.com` | $0.084 | default | 1 | kling-3.0 |
+| 2 | `api.uiuihao.com` | $0.126 | s-video | 0.9 | kling-3.0 |
+| 3 | `sg.uiuiapi.com` | $0.126 | s-video | 0.9 | kling-3.0 |
+| 4 | `newapi.prorisehub.com` | $0.14 | default | 1 | kling-3.0 |
+| 5 | `api.zcloudapi.com` | $0.147945 | rg_806af6a320644bff8b1ef7a2ac5b6735 | 1.8 | kling-3.0 |
+| 6 | `ergouzi.life` | $0.230137 | cande-video | 1 | kling-3.0 |
+| 7 | `api.nycatai.com` | $0.29 | video | 1 | kling-3.0-4k |
+| 8 | `relay.fast` | $0.38 | default | 1 | kling-3.0 |
+| 9 | `router.cheap` | $0.38 | default | 1 | kling-3.0 |
+| 10 | `magic666.top` | $0.42 | 国产视频 | 0.7 | Kling-3.0 |
+| 11 | `gw.magic666.top` | $0.45 | 国产视频模型 | 0.75 | Kling-3.0 |
+| 12 | `clodex.xyz` | $0.495833 | CLODEX_VIDEO | 1 | clodex-video/kling-3.0 |
+| 13 | `api.3365api.cn` | $0.5 | 图片视频模型综合分组 | 1 | kling-3.0 |
+| 14 | `ai.cangyuansuanli.cn` | $2.5 | 全模型-无claude/gpt | 1 | kling-3.0 |
+| 15 | `pcore.ai` | $3 | video | 0.4 | kling-3.0 |
+| 16 | `api.ciyuanshen.top` | $3.7 | 视频生成 | 1 | kling-3.0 |
+| 17 | `hetune.top` | $4.78 | 视频统一分组 | 1 | kling-3.0 |
+| 18 | `cf.a-piko.top` | $5.736 | 视频统一分组 | 1.2 | kling-3.0 |
+| 19 | `vapi.chuangxiangai.asia` | $29.5 | 视频 | 1 | kling-3.0 |
+| 20 | `aiapi.market` | $30 | video | 12 | kling-3.0 |
+| 21 | `api.bblabu.ai` | $74 | 视频模型分组 | 1 | kling-3.0 |
+
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

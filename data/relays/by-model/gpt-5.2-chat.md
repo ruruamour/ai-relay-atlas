@@ -1,45 +1,60 @@
 # gpt-5.2-chat
 
-> 37 家 · 最低 **$0.525** @ `www.koalaapi.com` · 推算价（USD/1M 输入），未对账
+> 228 站提供 · 正常价 140 站 · 中位价 **$1.4915**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.koalaapi.com` | $0.525 | $4.2 | default | 0.3 | gpt-5.2-chat |
-| 2 | `koalaapi.com` | $0.525 | $4.2 | 一key官方中转全模型 | 0.3 | gpt-5.2-chat |
-| 3 | `koalaapi.ai` | $0.525 | $4.2 | default | 0.3 | gpt-5.2-chat |
-| 4 | `api.aiberm.com` | $0.69 | $5.52 | default | 0.23 | openai/gpt-5.2-chat |
-| 5 | `aiberm.dev` | $0.69 | $5.52 | default | 0.23 | openai/gpt-5.2-chat |
-| 6 | `kfcv50.link` | $0.875 | $7.0 | az_act05 | 0.5 | gpt-5.2-chat |
-| 7 | `www.vectorengine.ai` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 8 | `www.yunwu.ai` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 9 | `api.yunwu.ai` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 10 | `apipro.maynor1024.live` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 11 | `yunwu.ai` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 12 | `aiapihub.cloud` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 13 | `api-hub.vip` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 14 | `apixin.cn` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 15 | `fluxapi.top` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 16 | `qianfufu.top` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 17 | `sparkapi.cn` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 18 | `uouo.fun` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 19 | `vectorengine.top` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 20 | `yunshu.hk` | $1.05 | $8.4 | 限时特价 | 0.6 | gpt-5.2-chat |
-| 21 | `x.one-origin.ai` | $1.225 | $9.8 | Whale-ALL-7折 | 0.7 | gpt-5.2-chat |
-| 22 | `poloai.top` | $1.4 | $11.2 | 低价福利 \| 波动临时资源 | 0.8 | gpt-5.2-chat |
-| 23 | `api2.poloai.top` | $1.4 | $11.2 | 低价福利 \| 波动临时资源 | 0.8 | gpt-5.2-chat |
-| 24 | `sg.mux.la` | $1.4 | $11.2 | Openrouter-Anthropic | 0.8 | openai/gpt-5.2-chat |
-| 25 | `api.bita-api.com` | $1.75 | $14.0 | gpt-origin | 1 | gpt-5.2-chat |
-| 26 | `api.yuboar.com` | $1.75 | $14.0 | AzureOpenAI | 1 | gpt-5.2-chat |
-| 27 | `bita-api-production.up.railway.app` | $1.75 | $14.0 | gpt-origin | 1 | gpt-5.2-chat |
-| 28 | `codechn.com` | $1.75 | $14.0 | gpt/grok | 1 | gpt-5.2-chat |
-| 29 | `open.cherryin.net` | $1.75 | $14.0 | default | 1 | openai/gpt-5.2-chat |
-| 30 | `cn.api.zyai.online` | $1.75 | $14.0 | AZvip | 1 | gpt-5.2-chat |
-| 31 | `api.zyai.online` | $1.75 | $14.0 | AZvip | 1 | gpt-5.2-chat |
-| 32 | `xrok.dev` | $1.925 | $15.4 | AZ-GPT | 1.1 | gpt-5.2-chat |
-| 33 | `api.xrok.dev` | $1.925 | $15.4 | AZ-GPT | 1.1 | gpt-5.2-chat |
-| 34 | `api.tacklekey.com` | $2.69231 | $21.538464 | default | 1 | openai/gpt-5.2-chat |
-| 35 | `nexaxis.io` | $2.8 | $22.4 | ChatGPT_AZ 5.5专用 | 1.6 | gpt-5.2-chat |
-| 36 | `api.bltcy.ai` | $112.5 | $675.0 | AZ-优质 | 1.5 | gpt-5.2-chat |
-| 37 | `llm.forapi.cloud` | $180 | $1080.0 | az_gpt | 2.4 | gpt-5.2-chat |
+| 1 | `api.openlux.ai` | $0.077 | $0.616 | Azure-Gpt-1 | 0.044 | gpt-5.2-chat-latest |
+| 2 | `api.relayrouter.ai` | $0.077 | $0.616 | Azure-Gpt-1 | 0.044 | gpt-5.2-chat-latest |
+| 3 | `api.tidewhisper-ai.xyz` | $0.0847 | $0.6776 | Azure-Gpt-1 | 0.0484 | gpt-5.2-chat-latest |
+| 4 | `gzxbykj.com` | $0.0847 | $0.6776 | Azure-Gpt-1 | 0.0484 | gpt-5.2-chat-latest |
+| 5 | `api.vibe-subsapi.com` | $0.0875 | $0.7 | ChatGPT 混池 | 0.05 | gpt-5.2-chat-latest |
+| 6 | `v2.cloudmist.cloud` | $0.08855 | $0.7084 | Azure-Gpt-1 | 0.0506 | gpt-5.2-chat-latest |
+| 7 | `www.vectronode.com` | $0.0924 | $0.7392 | Azure-Gpt-1 | 0.0528 | gpt-5.2-chat-latest |
+| 8 | `ciyuan.today` | $0.09625 | $0.77 | Azure-Gpt-1 | 0.055 | gpt-5.2-chat-latest |
+| 9 | `gptapi.top` | $0.09625 | $0.77 | Azure-Gpt-1 | 0.055 | gpt-5.2-chat-latest |
+| 10 | `makerend.com` | $0.09625 | $0.77 | Azure-Gpt-1 | 0.055 | gpt-5.2-chat-latest |
+| 11 | `moliapi.com` | $0.09702 | $0.77616 | Azure-Gpt-1 | 0.05544 | gpt-5.2-chat-latest |
+| 12 | `ai-api.cc` | $0.1001 | $0.8008 | Azure-Gpt-1 | 0.0572 | gpt-5.2-chat-latest |
+| 13 | `nodapi.com` | $0.10164 | $0.81312 | Azure-Gpt-1 | 0.05808 | gpt-5.2-chat-latest |
+| 14 | `anyaigc.ai` | $0.10395 | $0.8316 | Azure-Gpt-1 | 0.0594 | gpt-5.2-chat-latest |
+| 15 | `sheepaiplus.top` | $0.1078 | $0.8624 | Azure-Gpt-1 | 0.0616 | gpt-5.2-chat-latest |
+| 16 | `xiguapi.icu` | $0.1078 | $0.8624 | Azure-Gpt-1 | 0.0616 | gpt-5.2-chat-latest |
+| 17 | `api.tyasai.com` | $0.11375 | $0.91 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-5.2-chat-latest |
+| 18 | `api.videocaptioner.cn` | $0.1155 | $0.924 | Azure-Gpt-1 | 0.066 | gpt-5.2-chat-latest |
+| 19 | `api.nixapi.com` | $0.13013 | $1.04104 | Azure-Gpt-1 | 0.07436 | gpt-5.2-chat-latest |
+| 20 | `xinyue.mom` | $0.14 | $1.12 | 不降智焚决【只有astra】 | 0.08 | gpt-5.2-chat-latest |
+| 21 | `aiwuje.com` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 22 | `api.echoflowai.cc` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 23 | `api.n1n.ai` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 24 | `api.quickrouter.ai` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 25 | `jeniya.cn` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 26 | `linoapi.com` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 27 | `llm-api.net` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 28 | `quanzil.cn` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 29 | `quanzil.com` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 30 | `token173.net` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 31 | `tryallapi.com` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 32 | `wellapi.ai` | $0.154 | $1.232 | Azure-Gpt-1 | 0.088 | gpt-5.2-chat-latest |
+| 33 | `thousandengine.com` | $0.156695 | $1.25356 | Azure-Gpt-1 | 0.08954 | gpt-5.2-chat-latest |
+| 34 | `agentapi.xyz` | $0.175 | $1.4 | vip | 0.1 | gpt-5.2-chat-latest |
+| 35 | `api.socode.cc` | $0.175 | $1.4 | GPT[Main] | 0.1 | gpt-5.2-chat-latest |
+| 36 | `ai.mggoo.com` | $0.21 | $1.68 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-5.2-chat-latest |
+| 37 | `kaiycb.com` | $0.21 | $1.68 | gpt低价分组 | 0.12 | gpt-5.2-chat-latest |
+| 38 | `daoxe.com` | $0.2625 | $2.1 | codex | 0.15 | gpt-5.2-chat |
+| 39 | `freegiand.com` | $0.2625 | $2.1 | GPTPro | 0.15 | gpt-5.2-chat-latest |
+| 40 | `api.tccxy.top` | $0.35 | $2.8 | Pro | 0.2 | gpt-5.2-chat-latest |
+| 41 | `saletoken.org` | $0.35 | $2.8 | CODEX-pro | 0.2 | gpt-5.2-chat-latest |
+| 42 | `sub2api.hyl2api.com` | $0.35 | $2.8 | GPT  | 0.2 | gpt-5.2-chat-latest |
+| 43 | `sub2api.simplaj.top` | $0.35 | $2.8 | GPT 纯血Pro 余额分组 | 0.2 | gpt-5.2-chat-latest |
+| 44 | `23.140.244.145` | $0.4375 | $3.5 | pro | 0.25 | gpt-5.2-chat-latest |
+| 45 | `api.geniuscoder.net` | $0.4375 | $3.5 | gpt优惠 | 0.25 | gpt-5.2-chat-latest |
+| 46 | `api.bingoapi.top` | $0.525 | $4.2 | gpt pro 20x正价号（最稳定） | 0.3 | gpt-5.2-chat-latest |
+| 47 | `apijing.com` | $0.525 | $4.2 | codexpro | 0.3 | gpt-5.2-chat-latest |
+| 48 | `koalaapi.com` | $0.525 | $4.2 | default | 0.3 | gpt-5.2-chat |
+| 49 | `test-api.apiqik.online` | $0.525 | $4.2 | openai | 0.3 | gpt-5.2-chat-latest |
+| 50 | `zhangsan.yun` | $0.5625 | $4.5 | image-2分组 | 0.15 | gpt-5.2-chat-latest |
 
-[← 返回索引](index.md)
+> 另有 90 站未列出；88 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

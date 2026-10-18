@@ -34,12 +34,10 @@ shop,hosting,platform,system,system_type,domain,categories,price_range,source,la
 - 未公开的私有数据或账号凭据
 
 ## 关于 README
-`README.md` 由 `tools/build_readme.py` 从 `data/` 自动生成，**请勿直接编辑**。改数据后运行：
+`README.md`、`data/stats.md`、`data/relays/by-model/` 都由脚本从数据生成，**请勿直接编辑**。改数据后运行：
 
 ```bash
-python3 tools/normalize.py && python3 tools/normalize_shops.py \
-  && python3 tools/generate_by_model.py && python3 tools/build_readme.py
+bash tools/build.sh
 ```
 
-页面结构（锚点）：`#toc` `#stats` `#quickstart` `#relays` `#model-*` `#shops` `#shop-*` `#files` `#docs` `#sources` `#license` `#contributing`。
-新增模型榜单时，在 `build_readme.py` 的 `MODELS` 列表加一项即可。
+流程与脚本说明见 [tools/README.md](tools/README.md)。

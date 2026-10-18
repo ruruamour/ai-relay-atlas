@@ -1,174 +1,60 @@
 # grok-imagine-image-quality
 
-> 166 家 · 最低 **$0.3** @ `123api.co` · 推算价（USD/1M 输入），未对账
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `123api.co` | $0.3 | $0.3 | default | 1 | grok-imagine-image-quality |
-| 2 | `api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 3 | `new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 4 | `sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 5 | `vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 6 | `ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 7 | `www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 8 | `hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 9 | `ai2.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 10 | `ai2.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 11 | `ai2.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 12 | `ai2.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 13 | `ai2.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 14 | `ai2.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 15 | `ai2.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 16 | `api2.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 17 | `api2.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 18 | `api2.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 19 | `api2.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 20 | `api2.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 21 | `api2.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 22 | `api2.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 23 | `api3.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 24 | `api3.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 25 | `api3.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 26 | `api3.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 27 | `api3.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 28 | `claude.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 29 | `claude.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 30 | `claude.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 31 | `claude.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 32 | `claude.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 33 | `gemini.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 34 | `gemini.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 35 | `gemini.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 36 | `gemini.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 37 | `gemini.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 38 | `gemini.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 39 | `gpt.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 40 | `gpt.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 41 | `gpt.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 42 | `gpt.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 43 | `gpt.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 44 | `gpt.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 45 | `gpt.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 46 | `grok.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 47 | `grok.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 48 | `grok.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 49 | `grok.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 50 | `grok.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 51 | `grok.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 52 | `grok.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 53 | `gw2.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 54 | `gw2.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 55 | `gw2.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 56 | `gw2.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 57 | `gw2.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 58 | `gw2.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 59 | `gw2.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 60 | `hk2.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 61 | `hk2.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 62 | `hk2.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 63 | `hk2.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 64 | `hk2.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 65 | `jp.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 66 | `jp.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 67 | `jp.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 68 | `jp.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 69 | `jp.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 70 | `jp.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 71 | `jp.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 72 | `llm.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 73 | `llm.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 74 | `llm.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 75 | `llm.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 76 | `llm.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 77 | `llm.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 78 | `llm.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 79 | `mirror.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 80 | `mirror.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 81 | `mirror.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 82 | `mirror.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 83 | `mirror.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 84 | `openai.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 85 | `openai.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 86 | `openai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 87 | `openai.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 88 | `openai.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 89 | `ai2.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 90 | `api2.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 91 | `api3.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 92 | `api3.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 93 | `claude.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 94 | `gemini.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 95 | `gpt.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 96 | `grok.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 97 | `gw2.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 98 | `hk2.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 99 | `hk2.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 100 | `hk2.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 101 | `jp.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 102 | `llm.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 103 | `mirror.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 104 | `mirror.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 105 | `mirror.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 106 | `openai.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 107 | `openai.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 108 | `openai.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 109 | `proxy.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 110 | `proxy.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 111 | `proxy.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 112 | `proxy.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 113 | `proxy.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 114 | `proxy.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 115 | `proxy.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 116 | `relay.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 117 | `relay.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 118 | `relay.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 119 | `relay.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 120 | `relay.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 121 | `relay.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 122 | `sg.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 123 | `sg.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 124 | `sg.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 125 | `sg.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 126 | `sg.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 127 | `sg.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 128 | `sg.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 129 | `tw.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 130 | `tw.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 131 | `tw.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 132 | `tw.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 133 | `tw.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 134 | `tw.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 135 | `tw.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 136 | `tw.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 137 | `us.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 138 | `us.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 139 | `us.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 140 | `us.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 141 | `us.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 142 | `us.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 143 | `v2.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 144 | `v2.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 145 | `v2.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 146 | `v2.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 147 | `v2.sub.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 148 | `v2.www.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 149 | `v3.ai.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 150 | `v3.api.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 151 | `v3.hk.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 152 | `v3.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 153 | `v3.new.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 154 | `v3.vip.juhe.zfb.la` | $1 | $1.0 | 龙虾专用 | 1 | grok-imagine-image-quality |
-| 155 | `ai.goodfly.space` | $7.5 | $7.5 | Grok-4.6（Heavy） | 0.1 | grok-imagine-image-quality |
-| 156 | `api.chuangyuan.org` | $9 | $9.0 | grok-image2 | 0.12 | grok-imagine-image-quality |
-| 157 | `www.tokensflux.net` | $11.25 | $11.25 | Grok Heavy | 0.15 | grok-imagine-image-quality |
-| 158 | `www.luyishiliu.com` | $11.25 | $11.25 | grok | 0.15 | grok-imagine-image-quality |
-| 159 | `www.unassigned.top` | $22.5 | $22.5 | grok-heavy | 0.3 | grok-imagine-image-quality |
-| 160 | `api.tokenflux.cloud` | $37.5 | $37.5 | Gork | 0.5 | grok-imagine-image-quality |
-| 161 | `ideastead.com` | $75 | $75.0 | 生图 | 1 | grok-imagine-image-quality |
-| 162 | `www.191u.cn` | $75 | $75.0 | image生图模型 | 1 | grok-imagine-image-quality |
-| 163 | `sg.mux.la` | $75 | $75.0 | Grok | 1 | grok-imagine-image-quality |
-| 164 | `kfcv50.link` | $285 | $285.0 | grok_official_Mzg= | 3.8 | grok-imagine-image-quality |
-| 165 | `kaiycb.com` | $750 | $750.0 | gpt imga2生图 | 10 | grok-imagine-image-quality |
-| 166 | `www.kaiycb.com` | $750 | $750.0 | gpt imga2生图 | 10 | grok-imagine-image-quality |
+> 233 站提供 · 正常价 184 站 · 中位价 **$0.0597**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `sudobug.top` | $0.0032 | Grok Heavy | 0.16 | grok-imagine-image-quality |
+| 2 | `api.openlux.ai` | $0.00330885 | Xai-Grok-1 | 0.44118 | grok-imagine-image-quality |
+| 3 | `api.relayrouter.ai` | $0.00330885 | Xai-Grok-1 | 0.44118 | grok-imagine-image-quality |
+| 4 | `api.kcne.top` | $0.0036 | Grok | 0.04 | grok-imagine-image-quality |
+| 5 | `api.tidewhisper-ai.xyz` | $0.00363974 | Xai-Grok-1 | 0.485298 | grok-imagine-image-quality |
+| 6 | `gzxbykj.com` | $0.00363974 | Xai-Grok-1 | 0.485298 | grok-imagine-image-quality |
+| 7 | `v2.cloudmist.cloud` | $0.00380518 | Xai-Grok-1 | 0.507357 | grok-imagine-image-quality |
+| 8 | `www.vectronode.com` | $0.00397062 | Xai-Grok-1 | 0.529416 | grok-imagine-image-quality |
+| 9 | `primerouter.ai` | $0.00397065 | grok | 0.15 | grok-imagine-image-quality |
+| 10 | `api.123uq.com` | $0.004 | grok  heavy | 0.08 | grok-imagine-image-quality |
+| 11 | `windapi.cc` | $0.004 | grok | 0.4 | grok-imagine-image-quality |
+| 12 | `ciyuan.today` | $0.00413606 | Xai-Grok-1 | 0.551475 | grok-imagine-image-quality |
+| 13 | `gptapi.top` | $0.00413606 | Xai-Grok-1 | 0.551475 | grok-imagine-image-quality |
+| 14 | `makerend.com` | $0.00413606 | Xai-Grok-1 | 0.551475 | grok-imagine-image-quality |
+| 15 | `moliapi.com` | $0.00416915 | Xai-Grok-1 | 0.555887 | grok-imagine-image-quality |
+| 16 | `ai-api.cc` | $0.0043015 | Xai-Grok-1 | 0.573534 | grok-imagine-image-quality |
+| 17 | `nodapi.com` | $0.00436768 | Xai-Grok-1 | 0.582358 | grok-imagine-image-quality |
+| 18 | `anyaigc.ai` | $0.00446695 | Xai-Grok-1 | 0.595593 | grok-imagine-image-quality |
+| 19 | `sheepaiplus.top` | $0.00463239 | Xai-Grok-1 | 0.617652 | grok-imagine-image-quality |
+| 20 | `xiguapi.icu` | $0.00463239 | Xai-Grok-1 | 0.617652 | grok-imagine-image-quality |
+| 21 | `api.videocaptioner.cn` | $0.00496327 | Xai-Grok-1 | 0.66177 | grok-imagine-image-quality |
+| 22 | `api.yunnet.top` | $0.005 | Grok | 0.1 | grok-imagine-image-quality |
+| 23 | `api.nixapi.com` | $0.00559196 | Xai-Grok-1 | 0.745594 | grok-imagine-image-quality |
+| 24 | `api.lingxiaihub.com` | $0.006 | Grok heavy 满血 | 0.12 | grok-imagine-image-quality |
+| 25 | `new.984275579.xyz` | $0.006 | grok heavy | 0.15 | grok-imagine-image-quality |
+| 26 | `codexauv.com` | $0.0065 | Grok-Heavy | 0.13 | grok-imagine-image-quality |
+| 27 | `aiwuje.com` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 28 | `api.echoflowai.cc` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 29 | `api.n1n.ai` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 30 | `api.quickrouter.ai` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 31 | `jeniya.cn` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 32 | `linoapi.com` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 33 | `llm-api.net` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 34 | `quanzil.com` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 35 | `token173.net` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 36 | `tryallapi.com` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 37 | `wellapi.ai` | $0.0066177 | Xai-Grok-1 | 0.88236 | grok-imagine-image-quality |
+| 38 | `thousandengine.com` | $0.00673351 | Xai-Grok-1 | 0.897801 | grok-imagine-image-quality |
+| 39 | `api.qfgapi.com` | $0.007 | Grok-Heavy | 0.1 | grok-imagine-image-quality |
+| 40 | `ai.nodeloc.com` | $0.0075 | default | 1 | grok-imagine-image-quality |
+| 41 | `yinziapi.top` | $0.0075 | grok稳定备用分组4 | 0.15 | grok-imagine-image-quality |
+| 42 | `sub.skypoem.top` | $0.0091 | grok-heavy | 0.13 | grok-imagine-image-quality |
+| 43 | `api.1route.dev` | $0.01 | GPT Image 🎨 | 1 | grok-imagine-image-quality |
+| 44 | `momoapi.xin` | $0.012 | grok_heavy | 0.12 | grok-imagine-image-quality |
+| 45 | `sub2api.closeapi.top` | $0.014 | grok | 0.1 | grok-imagine-image-quality |
+| 46 | `apipaths.com` | $0.015 | grok-super/heavy | 0.15 | grok-imagine-image-quality |
+| 47 | `hboom.ai` | $0.015 | Grok-Mid | 0.6 | grok-imagine-image-quality |
+| 48 | `hk.hbapis.com` | $0.015 | Grok-Mid | 0.6 | grok-imagine-image-quality |
+| 49 | `newapi.ailyyzdk.xyz` | $0.015 | grok | 0.25 | grok-imagine-image-quality |
+| 50 | `wolfai.top` | $0.015 | Mini | 0.15 | grok-imagine-image-quality |
+
+> 另有 134 站未列出；49 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

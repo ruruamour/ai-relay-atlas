@@ -1,208 +1,42 @@
 # seedance-2.0
 
-> 201 家 · 最低 **$5.865** @ `dreamrouter.ai` · 推算价（USD/1M 输入），未对账（仅列前 200）
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `dreamrouter.ai` | $5.865 | $5.865 | vd-seedance | 0.85 | seedance-2.0 |
-| 2 | `modelflare.dev` | $9.5095 | $9.5095 | Media | 1 | seedance-2.0 |
-| 3 | `api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 4 | `sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 5 | `vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 6 | `ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 7 | `www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 8 | `cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 9 | `hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 10 | `gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 11 | `2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 12 | `ai2.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 13 | `ai2.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 14 | `ai2.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 15 | `ai2.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 16 | `ai2.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 17 | `ai2.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 18 | `ai2.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 19 | `ai2.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 20 | `ai2.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 21 | `api2.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 22 | `api2.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 23 | `api2.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 24 | `api2.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 25 | `api2.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 26 | `api2.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 27 | `api3.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 28 | `api3.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 29 | `api3.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 30 | `api3.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 31 | `api3.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 32 | `api3.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 33 | `api3.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 34 | `claude.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 35 | `claude.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 36 | `claude.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 37 | `claude.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 38 | `claude.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 39 | `claude.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 40 | `claude.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 41 | `claude.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 42 | `gemini.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 43 | `gemini.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 44 | `gemini.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 45 | `gemini.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 46 | `gemini.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 47 | `gemini.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 48 | `gemini.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 49 | `gemini.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 50 | `gpt.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 51 | `gpt.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 52 | `gpt.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 53 | `gpt.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 54 | `gpt.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 55 | `gpt.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 56 | `gpt.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 57 | `gpt.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 58 | `gpt.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 59 | `gpt.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 60 | `grok.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 61 | `grok.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 62 | `grok.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 63 | `grok.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 64 | `grok.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 65 | `grok.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 66 | `grok.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 67 | `grok.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 68 | `grok.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 69 | `gw2.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 70 | `gw2.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 71 | `gw2.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 72 | `gw2.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 73 | `gw2.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 74 | `gw2.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 75 | `gw2.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 76 | `hk2.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 77 | `hk2.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 78 | `hk2.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 79 | `hk2.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 80 | `hk2.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 81 | `hk2.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 82 | `hk2.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 83 | `hk2.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 84 | `jp.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 85 | `jp.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 86 | `jp.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 87 | `jp.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 88 | `jp.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 89 | `jp.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 90 | `jp.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 91 | `llm.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 92 | `llm.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 93 | `llm.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 94 | `llm.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 95 | `llm.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 96 | `llm.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 97 | `llm.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 98 | `llm.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 99 | `llm.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 100 | `llm.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 101 | `mirror.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 102 | `mirror.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 103 | `mirror.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 104 | `mirror.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 105 | `mirror.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 106 | `mirror.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 107 | `mirror.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 108 | `mirror.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 109 | `mirror.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 110 | `mirror.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 111 | `openai.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 112 | `openai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 113 | `openai.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 114 | `openai.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 115 | `openai.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 116 | `openai.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 117 | `openai.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 118 | `openai.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 119 | `ai2.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 120 | `api2.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 121 | `api2.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 122 | `api2.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 123 | `api2.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 124 | `api3.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 125 | `api3.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 126 | `claude.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 127 | `gemini.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 128 | `grok.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 129 | `gw2.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 130 | `hk2.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 131 | `jp.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 132 | `jp.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 133 | `openai.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 134 | `openai.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 135 | `proxy.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 136 | `proxy.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 137 | `proxy.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 138 | `proxy.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 139 | `proxy.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 140 | `proxy.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 141 | `proxy.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 142 | `proxy.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 143 | `relay.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 144 | `relay.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 145 | `relay.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 146 | `relay.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 147 | `relay.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 148 | `relay.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 149 | `relay.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 150 | `relay.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 151 | `relay.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 152 | `sg.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 153 | `sg.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 154 | `sg.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 155 | `sg.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 156 | `sg.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 157 | `sg.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 158 | `sg.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 159 | `sg.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 160 | `sg.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 161 | `tw.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 162 | `tw.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 163 | `tw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 164 | `tw.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 165 | `tw.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 166 | `tw.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 167 | `tw.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 168 | `tw.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 169 | `us.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 170 | `us.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 171 | `us.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 172 | `us.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 173 | `us.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 174 | `us.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 175 | `us.hk.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 176 | `us.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 177 | `us.vip.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 178 | `us.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 179 | `v2.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 180 | `v2.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 181 | `v2.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 182 | `v2.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 183 | `v2.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 184 | `v2.sub.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 185 | `v2.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 186 | `v3.2api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 187 | `v3.ai.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 188 | `v3.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 189 | `v3.api.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 190 | `v3.cn.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 191 | `v3.gw.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 192 | `v3.www.api-x.top` | $42 | $42.0 | doubao | 0.75 | seedance-2.0 |
-| 193 | `api.anbalu.top` | $43.68 | $43.68 | video-性价比-plus | 1 | seedance-2.0 |
-| 194 | `monetwl.com` | $75 | $75.0 | media | 1 | seedance-2.0 |
-| 195 | `www.aixoras.com` | $75 | $75.0 | Seedance满血 | 1 | seedance-2.0 |
-| 196 | `hk.aixoras.com` | $75 | $75.0 | Seedance满血 | 1 | seedance-2.0 |
-| 197 | `www.beefapi.com` | $75 | $75.0 | seedance | 1 | seedance-2.0 |
-| 198 | `api-x.vip` | $75 | $75.0 | default | 1 | seedance-2.0 |
-| 199 | `tokendash.pro` | $97.5 | $97.5 | seedance | 1.3 | seedance-2.0 |
-| 200 | `www.tokendash.pro` | $97.5 | $97.5 | seedance | 1.3 | seedance-2.0 |
+> 57 站提供 · 正常价 32 站 · 中位价 **$0.56**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `www.jiguang.me` | $0.05 | grok-image-video | 1 | seedance-2.0 |
+| 2 | `direct.mianyouyou.xyz` | $0.12 | 视频模型 | 1 | seedance-2.0 |
+| 3 | `hiapi.ai` | $0.136 | default | 1 | seedance-2.0 |
+| 4 | `mikucode.com` | $0.1375 | 视频分组 | 0.55 | seedance-2.0 |
+| 5 | `apimaster.ai` | $0.15876 | default | 1.05 | seedance-2.0 |
+| 6 | `116.62.113.242` | $0.1633 | 视频模型聚合 | 0.07 | seedance-2.0 |
+| 7 | `synthapi.asia` | $0.1633 | 图像模型聚合(可自定义图像参数) | 0.07 | seedance-2.0 |
+| 8 | `api.uiuihao.com` | $0.2043 | s-video | 0.9 | seedance-2.0 |
+| 9 | `sg.uiuiapi.com` | $0.2043 | s-video | 0.9 | seedance-2.0 |
+| 10 | `ai.yusflow.com` | $0.4 | seedance | 1 | seedance-2.0 |
+| 11 | `api.ciyuanshen.top` | $0.401625 | 视频生成 | 1 | Seedance-2.0 |
+| 12 | `api.ethancode.xyz` | $0.45 | sd | 1 | seedance-2.0 |
+| 13 | `codeyy.top` | $0.46 | sd-sec | 1 | seedance-2.0 |
+| 14 | `clodex.xyz` | $0.495833 | CLODEX_VIDEO | 1 | clodex-video/seedance-2.0 |
+| 15 | `api.wanapis.com` | $0.5082 | default | 1 | seedance-2.0 |
+| 16 | `hetune.top` | $0.52 | 视频统一分组 | 1 | Seedance-2.0 |
+| 17 | `api.zayuapi.com` | $0.6 | Media① | 1 | seedance-2.0 |
+| 18 | `cf.a-piko.top` | $0.6 | 视频统一分组 | 1.2 | Seedance-2.0 |
+| 19 | `www.puluai.com` | $0.7 | Image | 1 | seedance-2.0 |
+| 20 | `api.yescale.io` | $1.25 | video | 1.25 | seedance-2.0 |
+| 21 | `www.apiqd.com` | $1.324 | 图片视频分组 | 1 | seedance-2.0-4k |
+| 22 | `apiqd.com` | $1.427 | 图片视频分组 | 1 | seedance-2.0 |
+| 23 | `gpt.qinnaonao.com` | $1.5 | 视频模型 | 1 | seedance-2.0 |
+| 24 | `api.nycatai.com` | $2.85 | video | 1 | seedance-2.0 |
+| 25 | `154.40.47.125` | $4 | default | 1 | seedance-2.0 |
+| 26 | `api.zq4i.com` | $4.9 | 视频渠道 | 0.1 | seedance-2.0 |
+| 27 | `routerapi.net` | $4.99 | seedance | 1 | seedance-2.0 |
+| 28 | `tokenworldapi.com` | $5.47 | seedance-官链 | 1 | seedance-2.0-4k |
+| 29 | `cdn.12ai.org` | $7 | default | 1 | seedance-2.0 |
+| 30 | `api.bblabu.ai` | $8.0325 | 视频模型分组 | 1 | Seedance-2.0 |
+| 31 | `tokendash.pro` | $9.36 | seedance | 1.3 | seedance-2.0 |
+| 32 | `api.clawsocket.com` | $10 | default | 1 | seedance-2.0 |
+
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

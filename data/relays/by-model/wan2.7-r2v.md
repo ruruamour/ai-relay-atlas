@@ -1,18 +1,18 @@
 # wan2.7-r2v
 
-> 10 家 · 最低 **$1** @ `agent.tokensea.ai` · 推算价（USD/1M 输入），未对账
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `agent.tokensea.ai` | $1 | $1.0 | svip | 1 | wan2.7-r2v |
-| 2 | `api.apiyi.com` | $10.5 | $10.5 | Wan | 0.14 | wan2.7-r2v |
-| 3 | `api.laozhang.ai` | $12.855 | $12.855 | Wan | 0.1714 | wan2.7-r2v |
-| 4 | `ai.hwdrama.com` | $75 | $75.0 | default | 1 | wan2.7-r2v |
-| 5 | `cn.api.zyai.online` | $75 | $75.0 | default | 1 | wan2.7-r2v |
-| 6 | `api.zyai.online` | $75 | $75.0 | default | 1 | wan2.7-r2v |
-| 7 | `easyrouter.io` | $75 | $75.0 | default | 1 | wan2.7-r2v |
-| 8 | `kfcv50.link` | $75 | $75.0 | default | 1 | wan2.7-r2v |
-| 9 | `easyrouter.im` | $75 | $75.0 | default | 1 | wan2.7-r2v |
-| 10 | `apishop.ai` | $75 | $75.0 | default | 1 | wan2.7-r2v |
+> 25 站提供 · 正常价 8 站 · 中位价 **$0.0823565**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `test-api.apiqik.online` | $0.05418 | aliyun/official | 0.63 | wan2.7-r2v |
+| 2 | `116.62.113.242` | $0.07636 | 视频模型聚合 | 0.07 | wan2.7-r2v |
+| 3 | `synthapi.asia` | $0.07636 | 图像模型聚合(可自定义图像参数) | 0.07 | wan2.7-r2v |
+| 4 | `supertoken.pro` | $0.0822 | 万象 | 1 | wan2.7-r2v |
+| 5 | `ai.zan.top` | $0.082513 | default | 1 | wan2.7-r2v-2026-06-12 |
+| 6 | `api.lingyaai.cn` | $0.45 | default | 1 | wan2.7-r2v |
+| 7 | `beeroute.ai` | $0.45 | default | 1 | wan2.7-r2v |
+| 8 | `ai.amaxsmp.com` | $0.6 | 原厂直供 | 1 | wan2.7-r2v |
+
+> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

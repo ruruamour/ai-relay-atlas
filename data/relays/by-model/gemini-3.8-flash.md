@@ -1,208 +1,60 @@
 # gemini-3.8-flash
 
-> 3562 家 · 最低 **$0.0075** @ `apiroute.top` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 980 站提供 · 正常价 759 站 · 中位价 **$0.375**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `apiroute.top` | $0.0075 | $0.0375 | gemini-anti-特惠 | 0.01 | gemini-3.8-flash |
-| 2 | `sub.apiroute.top` | $0.0075 | $0.0375 | gemini-anti-特惠 | 0.01 | gemini-3.8-flash |
-| 3 | `api.robinsonai.shop` | $0.008077 | $0.040385 | gemeni | 0.07 | gemini-3.8-flash-high |
-| 4 | `www.nexotoken.net` | $0.0128983 | $0.0644914 | Gemini·CLI特价版 | 0.09273 | gemini-3.8-flash |
-| 5 | `pianyitoken.top` | $0.016438 | $0.08219 | gemini-MZ | 0.16 | gemini-3.8-flash |
-| 6 | `fishai.yanyumeta.cn` | $0.044 | $0.187 | - | - | gemini-3.8-flash |
-| 7 | `openkun.xyz` | $0.045 | $0.45 | Gemini 反重力 | 0.015 | gemini-3.8-flash-high |
-| 8 | `modelsell.com` | $0.05 | $0.3 | Gemini Cli | 0.1 | gemini-3.8-flash |
-| 9 | `api.openlux.ai` | $0.0551475 | $0.2757375 | Anti-Gemini-1 | 0.07353 | gemini-3.8-flash |
-| 10 | `api.relayrouter.ai` | $0.0551475 | $0.2757375 | Anti-Gemini-1 | 0.07353 | gemini-3.8-flash |
-| 11 | `api.buzzai.cc` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
-| 12 | `api.buzzgw.com` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
-| 13 | `buzzai.cc` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
-| 14 | `claude.buzz7.top` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
-| 15 | `www.puppyrouter.com` | $0.06 | $0.3 | gemini | 0.08 | gemini-3.8-flash |
-| 16 | `buzzai.top` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
-| 17 | `v2.cloudmist.cloud` | $0.0634196 | $0.317098 | Anti-Gemini-1 | 0.0845595 | gemini-3.8-flash |
-| 18 | `crowllm.com` | $0.065 | $0.34 | pro | 0.5 | gemini-3.8-flash |
-| 19 | `api-top.com` | $0.075 | $0.375 | Gemini满血 | 0.1 | gemini-3.8-flash-high |
-| 20 | `topapi.io` | $0.075 | $0.375 | Gemini满血 | 0.1 | gemini-3.8-flash-high |
-| 21 | `api.luccc.uk` | $0.075 | $0.375 | Gemini | 0.1 | gemini-3.8-flash-high |
-| 22 | `www.api-top.com` | $0.075 | $0.375 | Gemini满血 | 0.1 | gemini-3.8-flash |
-| 23 | `api.topapi.io` | $0.075 | $0.375 | Gemini满血 | 0.1 | gemini-3.8-flash |
-| 24 | `www.topapi.io` | $0.075 | $0.375 | Gemini满血 | 0.1 | gemini-3.8-flash |
-| 25 | `newapi.youkies.cloud` | $0.09 | $0.45 | a/gemini | 0.12 | gemini-3.8-flash-medium |
-| 26 | `yzstudio.vip` | $0.09 | $0.4488 | gemini 维护中 | 0.12 | gemini-3.8-flash |
-| 27 | `api.biuapi.com` | $0.0975 | $0.4875 | 反重力gemini | 0.13 | gemini-3.8-flash |
-| 28 | `api.sunday23.dpdns.org` | $0.0975 | $0.4875 | gemini | 0.13 | gemini-3.8-flash |
-| 29 | `api.cheapai.io` | $0.108 | $0.63 | vip | 0.45 | gemini-3.8-flash |
-| 30 | `www.cheapai.io` | $0.108 | $0.63 | vip | 0.45 | gemini-3.8-flash |
-| 31 | `api.liangrekui.com` | $0.10875 | $0.54375 | JA gemini自制 | 0.145 | gemini-3.8-flash-low |
-| 32 | `quanzil.com` | $0.110295 | $0.551475 | Anti-Gemini-1 | 0.14706 | gemini-3.8-flash |
-| 33 | `tryallapi.com` | $0.110295 | $0.551475 | Anti-Gemini-1 | 0.14706 | gemini-3.8-flash |
-| 34 | `jeniya.cn` | $0.110295 | $0.551475 | Anti-Gemini-1 | 0.14706 | gemini-3.8-flash |
-| 35 | `itkk.lol` | $0.1125 | $0.5625 | gemini_满血 | 0.15 | gemini-3.8-flash |
-| 36 | `yujianwudi.top` | $0.1125 | $0.5625 | Gemini-pro | 0.3 | google/gemini-3.8-flash |
-| 37 | `moyuu.cc` | $0.1125 | $0.5625 | gemini | 0.15 | gemini-3.8-flash |
-| 38 | `api.lingzhouai.com` | $0.1125 | $0.5625 | gemini专用分组 | 0.15 | gemini-3.8-flash-high |
-| 39 | `qa.dashun9527.com` | $0.1125 | $0.5625 | 反重力gemini | 0.15 | gemini-3.8-flash |
-| 40 | `qacn.dashun9527.com` | $0.1125 | $0.5625 | 反重力gemini | 0.15 | gemini-3.8-flash |
-| 41 | `us.xigong.cloud` | $0.1125 | $0.5625 | 反重力Gemini | 0.15 | gemini-3.8-flash |
-| 42 | `www.bb-api.com` | $0.1125 | $0.5625 | gemini-无缓存+生图 | 0.15 | gemini-3.8-flash |
-| 43 | `moyuu.ai` | $0.1125 | $0.5625 | gemini | 0.15 | gemini-3.8-flash |
-| 44 | `yomiapi.com` | $0.12 | $0.6 | Gemini线路 | 0.16 | gemini-3.8-flash |
-| 45 | `thousandengine.com` | $0.121325 | $0.6066225 | Anti-Gemini-1 | 0.16176600000000002 | gemini-3.8-flash |
-| 46 | `relayrouter.ai` | $0.132352 | $0.66176 | Aistudio-Gemini-1 | 0.17647 | gemini-3.8-flash |
-| 47 | `api.xiaoyaoxx.cn` | $0.135 | $0.675 | JB geminni | 0.18 | gemini-3.8-flash |
-| 48 | `ai.lazymo.qzz.io` | $0.135 | $0.675 | Gemini-反重力 | 0.18 | gemini-3.8-flash-high |
-| 49 | `nb.deepsb.com` | $0.135 | $0.675 | 自营Gemini | 0.18 | gemini-3.8-flash-high |
-| 50 | `newapi.yuzuojian.top` | $0.135 | $0.675 | gemini | 0.18 | gemini-3.8-flash-high |
-| 51 | `2api.powerapi.cc` | $0.15 | $0.9 | gemini ant | 0.3 | gemini-3.8-flash |
-| 52 | `koalaapi.com` | $0.15 | $0.9 | default | 0.3 | gemini-3.8-flash |
-| 53 | `api.qfgapi.com` | $0.15 | $0.75 | Gemini-Anti | 0.2 | gemini-3.8-flash |
-| 54 | `cccapi.top` | $0.15 | $0.75 | 反重力分组gemini | 0.2 | gemini-3.8-flash |
-| 55 | `ai.zyyun.xyz` | $0.15 | $0.75 | Gemini-特价-反重力 | 0.2 | gemini-3.8-flash |
-| 56 | `qilinapi.nervers.com` | $0.15 | $0.75 | s4:google-gemini | 0.2 | gemini-3.8-flash-medium |
-| 57 | `ai.kdysite.cloud` | $0.15 | $0.75 | Gemini-2 | 0.2 | gemini-3.8-flash |
-| 58 | `gccapi.top` | $0.15 | $0.75 | 反重力分组gemini | 0.2 | gemini-3.8-flash-high |
-| 59 | `api.apikl.ai` | $0.15 | $0.75 | Gemini 企业版 | 0.2 | gemini-3.8-flash |
-| 60 | `aipixapi.art` | $0.15 | $0.75 | gemini openai接口 | 0.2 | gemini-3.8-flash |
-| 61 | `monetwl.com` | $0.15 | $0.75 | gemini | 0.2 | gemini-3.8-flash |
-| 62 | `www.jubaopeng.vip` | $0.15 | $0.75 | Gemini | 0.2 | gemini-3.8-flash |
-| 63 | `www.largechestnut.com` | $0.15 | $0.75 | gemini | 0.2 | gemini-3.8-flash-high |
-| 64 | `zero.cat` | $0.15 | $0.75 | 【Gemini】反重力分组 | 0.2 | gemini-3.8-flash |
-| 65 | `api.1yapi.com` | $0.15 | $0.75 | gemini | 0.2 | gemini-3.8-flash |
-| 66 | `www.1yapi.com` | $0.15 | $0.75 | gemini | 0.2 | gemini-3.8-flash |
-| 67 | `www.luyishiliu.com` | $0.15 | $0.75 | Gemini | 0.2 | gemini-3.8-flash |
-| 68 | `www.nodexapi.it.com` | $0.15 | $0.75 | Gemini反重力 | 0.2 | gemini-3.8-flash-high |
-| 69 | `api.sudobug.top` | $0.15 | $0.75 | 反重力gemini | 0.2 | gemini-3.8-flash |
-| 70 | `api.zero.cat` | $0.15 | $0.75 | 【Gemini】反重力分组 | 0.2 | gemini-3.8-flash |
-| 71 | `36niu.cn` | $0.15 | $0.75 | Gemini优质 | 0.2 | gemini-3.8-flash |
-| 72 | `cjms.cc` | $0.15 | $0.75 | Gemini | 0.2 | gemini-3.8-flash |
-| 73 | `runapi.co` | $0.1575 | $0.7875 | discounts | 0.5 | gemini-3.8-flash |
-| 74 | `gptapi.top` | $0.165441 | $0.827205 | Aistudio-Gemini-1 | 0.2205875 | gemini-3.8-flash |
-| 75 | `moliapi.com` | $0.166764 | $0.83382 | Aistudio-Gemini-1 | 0.2223522 | gemini-3.8-flash |
-| 76 | `ai-api.cc` | $0.172058 | $0.86029 | Aistudio-Gemini-1 | 0.229411 | gemini-3.8-flash |
-| 77 | `nodapi.com` | $0.174705 | $0.873525 | Aistudio-Gemini-1 | 0.2329404 | gemini-3.8-flash |
-| 78 | `anyaigc.ai` | $0.178676 | $0.89338 | Aistudio-Gemini-1 | 0.2382345 | gemini-3.8-flash |
-| 79 | `xiguapi.cc` | $0.185293 | $0.926465 | Aistudio-Gemini-1 | 0.24705799999999997 | gemini-3.8-flash |
-| 80 | `wawazz.xyz` | $0.1875 | $0.9375 | Gemini | 0.25 | gemini-3.8-flash-high |
-| 81 | `jizhiapi.site` | $0.1875 | $0.9375 | gemini 全模型线路 | 0.25 | gemini-3.8-flash |
-| 82 | `api.routeeasy.ai` | $0.1875 | $0.9375 | anti_gemini_0706_025_qing | 0.25 | gemini-3.8-flash |
-| 83 | `nikoapi.xyz` | $0.1875 | $0.9375 | Gemini | 0.25 | gemini-3.8-flash-low |
-| 84 | `api.squarefaceicon.org` | $0.1875 | $0.9375 | gemini | 0.25 | gemini-3.8-flash |
-| 85 | `apipaths.com` | $0.1875 | $0.9375 | gemini-官转 | 0.25 | gemini-3.8-flash |
-| 86 | `www.hejuapi.com` | $0.1875 | $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
-| 87 | `api.x5m5x.com` | $0.1875 | $0.9375 | - | 0.25 | gemini-3.8-flash |
-| 88 | `aijinmi.cn` | $0.1875 | $0.9375 | Gemini反重力 | 0.25 | gemini-3.8-flash |
-| 89 | `api.kkrich.ltd` | $0.1875 | $0.9375 | 哈基米 | 0.25 | gemini-3.8-flash |
-| 90 | `apicangku.icu` | $0.1875 | $0.9375 | gemini | 0.25 | gemini-3.8-flash |
-| 91 | `api.988665.xyz` | $0.1875 | $0.9375 | gemini | 0.25 | gemini-3.8-flash |
-| 92 | `www.apicangku.icu` | $0.1875 | $0.9375 | gemini | 0.25 | gemini-3.8-flash |
-| 93 | `aijinmi.cc` | $0.1875 | $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
-| 94 | `jp.nikoapi.xyz` | $0.1875 | $0.9375 | Gemini | 0.25 | gemini-3.8-flash-low |
-| 95 | `us.aixcks.com` | $0.1875 | $0.9375 | gemini | 0.25 | gemini-3.8-flash |
-| 96 | `api.qiuming-ai.com` | $0.18975 | $0.94875 | Gemini | 0.253 | gemini-3.8-flash-high |
-| 97 | `api.qiuming-web.com` | $0.18975 | $0.94875 | Gemini | 0.253 | gemini-3.8-flash-high |
-| 98 | `faroapi.com` | $0.2 | $1.0 | default | 1 | gemini-3.8-flash |
-| 99 | `botcf.com` | $0.21 | $1.05 | 🪐gemini-antigravity | 0.28 | gemini-3.8-flash-low |
-| 100 | `www.lingxiapi.com` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 101 | `api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 102 | `new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 103 | `sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 104 | `ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 105 | `cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 106 | `hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 107 | `2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 108 | `ai2.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 109 | `ai2.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 110 | `ai2.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 111 | `ai2.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 112 | `ai2.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 113 | `ai2.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 114 | `ai2.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 115 | `ai2.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 116 | `api2.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 117 | `api2.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 118 | `api2.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 119 | `api2.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 120 | `api2.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 121 | `api2.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 122 | `api3.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 123 | `api3.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 124 | `api3.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 125 | `api3.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 126 | `api3.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 127 | `api3.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 128 | `claude.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 129 | `claude.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 130 | `claude.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 131 | `claude.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 132 | `gemini.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 133 | `gemini.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 134 | `gemini.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 135 | `gemini.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 136 | `gemini.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 137 | `gemini.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 138 | `gemini.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 139 | `gpt.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 140 | `gpt.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 141 | `gpt.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 142 | `gpt.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 143 | `gpt.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 144 | `gpt.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 145 | `gpt.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 146 | `grok.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 147 | `grok.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 148 | `grok.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 149 | `grok.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 150 | `grok.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 151 | `grok.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 152 | `grok.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 153 | `gw2.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 154 | `gw2.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 155 | `gw2.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 156 | `gw2.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 157 | `gw2.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 158 | `gw2.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 159 | `gw2.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 160 | `hk2.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 161 | `hk2.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 162 | `hk2.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 163 | `hk2.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 164 | `hk2.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 165 | `hk2.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 166 | `hk2.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 167 | `jp.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 168 | `jp.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 169 | `jp.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 170 | `jp.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 171 | `jp.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 172 | `jp.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 173 | `jp.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 174 | `llm.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 175 | `llm.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 176 | `llm.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 177 | `llm.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 178 | `llm.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 179 | `llm.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 180 | `llm.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 181 | `llm.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 182 | `mirror.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 183 | `mirror.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 184 | `mirror.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 185 | `mirror.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 186 | `mirror.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 187 | `mirror.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 188 | `openai.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 189 | `openai.ai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 190 | `openai.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 191 | `openai.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 192 | `openai.cn.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 193 | `openai.new.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 194 | `openai.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 195 | `api2.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 196 | `api2.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 197 | `api3.2api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 198 | `api3.sub.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 199 | `claude.api.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
-| 200 | `claude.hk.api.xwsz.top` | $0.21 | $1.05 | Gemini | 0.28 | gemini-3.8-flash |
+| 1 | `yinziapi.top` | $0.0225 | $0.1125 | gemini-反重力 | 0.03 | gemini-3.8-flash |
+| 2 | `api.unorouter.com` | $0.02625 | $0.13125 | ih-ag-gemini-3.8-flash | 0.035 | gemini-3.8-flash |
+| 3 | `api.banban.plus` | $0.0267123 | $0.133562 | C gemini-antigravity（反重力） | 0.26 | gemini-3.8-flash |
+| 4 | `ai.hebox.net` | $0.03 | $0.15 | 香蕉nano-banana | 0.02 | gemini-3.8-flash |
+| 5 | `us.pomoai.xyz` | $0.03 | $1.5 | gemini-normal | 0.4 | gemini-3.8-flash-low |
+| 6 | `ai.bayunzi.shop` | $0.0375 | $0.1875 | Gemini3.8 | 0.05 | gemini-3.8-flash |
+| 7 | `fishai.yanyumeta.cn` | $0.044 | $0.187 | - | - | gemini-3.8-flash |
+| 8 | `api.huiliu.one` | $0.045 | $0.225 | gemini | 0.06 | gemini-3.8-flash-high |
+| 9 | `openkun.xyz` | $0.045 | $0.45 | Gemini 反重力 | 0.015 | gemini-3.8-flash-high |
+| 10 | `api.openlux.ai` | $0.0551475 | $0.275738 | Anti-Gemini-1 | 0.07353 | gemini-3.8-flash |
+| 11 | `api.relayrouter.ai` | $0.0551475 | $0.275738 | Anti-Gemini-1 | 0.07353 | gemini-3.8-flash |
+| 12 | `www.apiloop.top` | $0.05625 | $0.28125 | Gemini | 0.15 | gemini-3.8-flash-low |
+| 13 | `api.buzzgw.com` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
+| 14 | `buzzai.cc` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
+| 15 | `claude.buzz7.top` | $0.06 | $0.3 | Gemini-Antigravity | 0.08 | gemini-3.8-flash |
+| 16 | `easy88ai.com` | $0.06 | $0.3 | GG反重力-¥0.54/刀 | 0.08 | gemini-3.8-flash |
+| 17 | `puppyrouter.com` | $0.06 | $0.3 | gemini | 0.08 | gemini-3.8-flash |
+| 18 | `www.zhuanyuncang.top` | $0.06 | $0.3 | Gemini | 0.08 | gemini-3.8-flash |
+| 19 | `api.tidewhisper-ai.xyz` | $0.0606623 | $0.303311 | Anti-Gemini-1 | 0.080883 | gemini-3.8-flash |
+| 20 | `gzxbykj.com` | $0.0606623 | $0.303311 | Anti-Gemini-1 | 0.080883 | gemini-3.8-flash |
+| 21 | `v2.cloudmist.cloud` | $0.0634196 | $0.317098 | Anti-Gemini-1 | 0.0845595 | gemini-3.8-flash |
+| 22 | `www.vectronode.com` | $0.066177 | $0.330885 | Anti-Gemini-1 | 0.088236 | gemini-3.8-flash |
+| 23 | `ciyuan.today` | $0.0689344 | $0.344672 | Anti-Gemini-1 | 0.0919125 | gemini-3.8-flash |
+| 24 | `gptapi.top` | $0.0689344 | $0.344672 | Anti-Gemini-1 | 0.0919125 | gemini-3.8-flash |
+| 25 | `makerend.com` | $0.0689344 | $0.344672 | Anti-Gemini-1 | 0.0919125 | gemini-3.8-flash |
+| 26 | `codelypixverse.com` | $0.0692308 | $0.0692308 | default | 1 | gemini-3.8-flash |
+| 27 | `moliapi.com` | $0.0694859 | $0.347429 | Anti-Gemini-1 | 0.0926478 | gemini-3.8-flash |
+| 28 | `ai-api.cc` | $0.0716917 | $0.358459 | Anti-Gemini-1 | 0.095589 | gemini-3.8-flash |
+| 29 | `nodapi.com` | $0.0727947 | $0.363973 | Anti-Gemini-1 | 0.0970596 | gemini-3.8-flash |
+| 30 | `anyaigc.ai` | $0.0744491 | $0.372246 | Anti-Gemini-1 | 0.0992655 | gemini-3.8-flash |
+| 31 | `api.hyhawang.com` | $0.075 | $0.375 | Gemini | 0.1 | gemini-3.8-flash |
+| 32 | `api.luccc.uk` | $0.075 | $0.375 | Gemini | 0.1 | gemini-3.8-flash-high |
+| 33 | `apibest.ai` | $0.075 | $0.375 | Gemini | 0.1 | gemini-3.8-flash |
+| 34 | `codex-relay.codes` | $0.075 | $0.375 | default | 1 | gemini-3.8-flash |
+| 35 | `modelsell.com` | $0.075 | $0.375 | Gemini Cli | 0.1 | gemini-3.8-flash |
+| 36 | `sheepaiplus.top` | $0.0772065 | $0.386033 | Anti-Gemini-1 | 0.102942 | gemini-3.8-flash |
+| 37 | `xiguapi.icu` | $0.0772065 | $0.386033 | Anti-Gemini-1 | 0.102942 | gemini-3.8-flash |
+| 38 | `api.videocaptioner.cn` | $0.0827212 | $0.413606 | Anti-Gemini-1 | 0.110295 | gemini-3.8-flash |
+| 39 | `www.cybersol.net` | $0.09 | $0.45 | Gemini Anti | 0.12 | gemini-3.8-flash |
+| 40 | `yzstudio.vip` | $0.09 | $0.4488 | gemini 维护中 | 0.12 | gemini-3.8-flash |
+| 41 | `api.nixapi.com` | $0.0931993 | $0.465996 | Anti-Gemini-1 | 0.124266 | gemini-3.8-flash |
+| 42 | `api.biuapi.com` | $0.0975 | $0.4875 | 反重力gemini | 0.13 | gemini-3.8-flash |
+| 43 | `api.sunday23.dpdns.org` | $0.0975 | $0.4875 | gemini | 0.13 | gemini-3.8-flash |
+| 44 | `llmhub.ltd` | $0.0975 | $0.4875 | Gemini-Pro | 0.13 | gemini-3.8-flash-high |
+| 45 | `api.zcloudapi.com` | $0.10274 | $0.513699 | Gemini 蒸馏分组 | 0.75 | gemini-3.8-flash |
+| 46 | `dahlo.live` | $0.105 | $0.875 | Gemini | 0.35 | gemini-3.8-flash |
+| 47 | `cheapai.io` | $0.108 | $0.63 | vip | 0.45 | gemini-3.8-flash |
+| 48 | `aiwuje.com` | $0.110295 | $0.551475 | Anti-Gemini-1 | 0.14706 | gemini-3.8-flash |
+| 49 | `api.echoflowai.cc` | $0.110295 | $0.551475 | Anti-Gemini-1 | 0.14706 | gemini-3.8-flash |
+| 50 | `api.n1n.ai` | $0.110295 | $0.551475 | Anti-Gemini-1 | 0.14706 | gemini-3.8-flash |
 
-[← 返回索引](index.md)
+> 另有 709 站未列出；221 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

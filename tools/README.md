@@ -1,18 +1,54 @@
-# 抓取脚本（手动运行）
+# tools/ · 脚本
 
-这些脚本用于**手动**发现与抓取公开数据，不接 CI。运行前请自行确认目标站条款。
+全部手动运行，无 CI。Python 3.10+；`dedupe.py` 需要 `pip install tldextract`。
 
-## 中转站
-- `scan_argon.py` / `scan_grok.py` — 批量探测站点是否含某模型
-- `extract_argon.py` / `extract_grok.py` — 从 `/api/pricing`、`/api/v1/model-plaza` 提取价格
-- `scan_prefix.py` — 子域名扩展发现更多站
-- `rebuild.py` — 重建域名清单
-- `agg.py` — 汇总
+## 日常更新
 
-## 归一化
-- `normalize.py` — 生成 `data/relays/*.csv`
-- `normalize_shops.py` — 生成 `data/shops/*.csv`
-- `generate_by_model.py` — 生成 `data/relays/by-model/*.md`
+```bash
+# 1. 找候选（任选，见 discover/README.md）
+python3 tools/gen_candidates.py > /tmp/cands.txt
 
-## 说明
-脚本内的域名清单、路径为一次性抓取时所用；换环境需自行调整。价格为推算值，未对账。
+# 2. 扫价格（断点续跑，可中断）
+python3 tools/scan.py /tmp/cands.txt /tmp/new.json
+
+# 3. 并入主表（已有站点整体替换报价，新站点追加）
+python3 tools/merge.py /tmp/new.json --via scan
+
+# 4. 探活 + 重建
+python3 tools/probe.py
+bash tools/build.sh
+```
+
+刷新已收录站点的价格：把 `relays.csv` 的 `domain`（或 `api_host`）导出成清单，走 2–4 步。
+
+## 脚本
+
+| 脚本 | 作用 |
+|---|---|
+| `build.sh` | 一键重建：dedupe → 店铺归一 → 模型榜单 → 统计 → README |
+| `scan.py` | 扫 New-API `/api/pricing` 与 Sub2API `/api/v1/model-plaza`，取最低付费分组价，区分按量/按次 |
+| `merge.py` | 扫描结果并入 `relays.csv` / `relay-models.csv`，别名自动映射主域名 |
+| `dedupe.py` | 合并别名与镜像、剔除泛解析子域、归一模型名、打价格标记、识别疑似同后端 |
+| `probe.py` | 首页探活（状态码、延迟、网页标题） |
+| `gen_candidates.py` | 前缀/换后缀生成候选，跳过已收录、已扫描、泛解析父域 |
+| `generate_by_model.py` | 生成 `data/relays/by-model/` |
+| `build_stats.py` | 生成 `data/stats.md` |
+| `build_readme.py` | 生成 `README.md` |
+| `query.py` | 命令行查询：`model` / `site` / `find` |
+| `normalize_shops.py` | 卡网数据归一（`data/raw/` → `data/shops/`） |
+| `common.py` | 共享：CSV、模型名归一、模型家族、域名归一 |
+| `discover/` | 找新站的方法（Veridrop、GitHub 名单、证书日志） |
+| `legacy/` | 早期一次性脚本，已停用 |
+| `prompts/` | 让 AI 代理执行扫描任务的提示词 |
+
+## 去重规则（dedupe.py）
+
+| 规则 | 合并条件 |
+|---|---|
+| 同主机 | 去掉 `api.` `www.` 等通用前缀后主机名相同，且价格表相同（或模型集合相同/Jaccard≥0.95） |
+| 同可注册域 | 同一 `example.com` 下的子域价格表完全相同（共享托管域如 `*.ccwu.cc` 除外） |
+| 同品牌 | `foo.com` / `foo.ai` 这类换后缀，价格表完全相同且 ≥5 个模型 |
+| 泛解析 | 扫描生成的 `前缀.父域`，若 `随机串.父域` 也能解析，则视为同一目标，只留一个 |
+
+主域名优先级：Veridrop 收录 > GitHub 名单 > 扫描；同级取 Veridrop 分高、非泛解析产物、上次已是主域名、层级少、名字短的。
+跨品牌价格表完全相同（≥5 个模型）的站只标 `backend_group`，不合并。

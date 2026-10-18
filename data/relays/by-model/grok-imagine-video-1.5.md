@@ -1,208 +1,60 @@
 # grok-imagine-video-1.5
 
-> 218 家 · 最低 **$0.75** @ `api.api-x.top` · 推算价（USD/1M 输入），未对账（仅列前 200）
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 2 | `sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 3 | `vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 4 | `ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 5 | `www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 6 | `cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 7 | `hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 8 | `gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 9 | `2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 10 | `ai2.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 11 | `ai2.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 12 | `ai2.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 13 | `ai2.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 14 | `ai2.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 15 | `ai2.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 16 | `ai2.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 17 | `ai2.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 18 | `ai2.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 19 | `api2.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 20 | `api2.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 21 | `api2.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 22 | `api2.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 23 | `api2.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 24 | `api2.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 25 | `api3.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 26 | `api3.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 27 | `api3.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 28 | `api3.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 29 | `api3.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 30 | `api3.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 31 | `api3.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 32 | `claude.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 33 | `claude.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 34 | `claude.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 35 | `claude.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 36 | `claude.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 37 | `claude.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 38 | `claude.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 39 | `claude.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 40 | `gemini.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 41 | `gemini.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 42 | `gemini.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 43 | `gemini.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 44 | `gemini.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 45 | `gemini.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 46 | `gemini.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 47 | `gemini.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 48 | `gpt.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 49 | `gpt.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 50 | `gpt.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 51 | `gpt.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 52 | `gpt.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 53 | `gpt.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 54 | `gpt.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 55 | `gpt.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 56 | `gpt.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 57 | `gpt.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 58 | `grok.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 59 | `grok.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 60 | `grok.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 61 | `grok.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 62 | `grok.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 63 | `grok.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 64 | `grok.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 65 | `grok.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 66 | `grok.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 67 | `gw2.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 68 | `gw2.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 69 | `gw2.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 70 | `gw2.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 71 | `gw2.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 72 | `gw2.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 73 | `gw2.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 74 | `hk2.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 75 | `hk2.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 76 | `hk2.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 77 | `hk2.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 78 | `hk2.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 79 | `hk2.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 80 | `hk2.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 81 | `hk2.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 82 | `jp.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 83 | `jp.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 84 | `jp.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 85 | `jp.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 86 | `jp.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 87 | `jp.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 88 | `jp.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 89 | `llm.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 90 | `llm.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 91 | `llm.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 92 | `llm.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 93 | `llm.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 94 | `llm.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 95 | `llm.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 96 | `llm.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 97 | `llm.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 98 | `llm.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 99 | `mirror.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 100 | `mirror.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 101 | `mirror.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 102 | `mirror.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 103 | `mirror.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 104 | `mirror.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 105 | `mirror.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 106 | `mirror.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 107 | `mirror.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 108 | `mirror.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 109 | `openai.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 110 | `openai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 111 | `openai.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 112 | `openai.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 113 | `openai.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 114 | `openai.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 115 | `openai.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 116 | `openai.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 117 | `ai2.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 118 | `api2.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 119 | `api2.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 120 | `api2.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 121 | `api2.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 122 | `api3.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 123 | `api3.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 124 | `claude.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 125 | `gemini.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 126 | `grok.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 127 | `gw2.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 128 | `hk2.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 129 | `jp.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 130 | `jp.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 131 | `openai.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 132 | `openai.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 133 | `proxy.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 134 | `proxy.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 135 | `proxy.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 136 | `proxy.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 137 | `proxy.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 138 | `proxy.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 139 | `proxy.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 140 | `proxy.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 141 | `relay.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 142 | `relay.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 143 | `relay.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 144 | `relay.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 145 | `relay.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 146 | `relay.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 147 | `relay.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 148 | `relay.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 149 | `relay.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 150 | `sg.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 151 | `sg.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 152 | `sg.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 153 | `sg.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 154 | `sg.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 155 | `sg.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 156 | `sg.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 157 | `sg.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 158 | `sg.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 159 | `tw.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 160 | `tw.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 161 | `tw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 162 | `tw.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 163 | `tw.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 164 | `tw.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 165 | `tw.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 166 | `tw.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 167 | `us.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 168 | `us.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 169 | `us.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 170 | `us.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 171 | `us.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 172 | `us.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 173 | `us.hk.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 174 | `us.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 175 | `us.vip.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 176 | `us.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 177 | `v2.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 178 | `v2.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 179 | `v2.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 180 | `v2.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 181 | `v2.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 182 | `v2.sub.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 183 | `v2.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 184 | `v3.2api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 185 | `v3.ai.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 186 | `v3.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 187 | `v3.api.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 188 | `v3.cn.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 189 | `v3.gw.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 190 | `v3.www.api-x.top` | $0.75 | $0.75 | doubao | 0.75 | grok-imagine-video-1.5 |
-| 191 | `api.visnext.ai` | $1 | $1.0 | grok | 1 | grok-imagine-video-1.5 |
-| 192 | `visnext.ai` | $1 | $1.0 | grok | 1 | grok-imagine-video-1.5 |
-| 193 | `uo.mentoe.com` | $4.5 | $4.5 | grok-free | 0.06 | grok-imagine-video-1.5 |
-| 194 | `us.uocode.com` | $4.5 | $4.5 | grok-free | 0.06 | grok-imagine-video-1.5 |
-| 195 | `www.uocode.com` | $4.5 | $4.5 | grok-free | 0.06 | grok-imagine-video-1.5 |
-| 196 | `kucodeapi.com` | $7.5 | $7.5 | SuperGrok | 0.1 | grok-imagine-video-1.5 |
-| 197 | `www.678api.ai` | $11 | $11.0 | 图与视频 | 1 | grok-imagine-video-1.5 |
-| 198 | `www.tokensflux.net` | $11.25 | $11.25 | Grok Heavy | 0.15 | grok-imagine-video-1.5 |
-| 199 | `www.luyishiliu.com` | $11.25 | $11.25 | grok | 0.15 | grok-imagine-video-1.5 |
-| 200 | `api.sudobug.top` | $12 | $12.0 | Grok Heavy | 0.16 | grok-imagine-video-1.5 |
+> 180 站提供 · 正常价 101 站 · 中位价 **$0.14**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `api.anthropicricardo.club` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 2 | `api.vectorengine.ai` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 3 | `api.zhiyikeji.cn` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 4 | `api.zhongzhuan.vip` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 5 | `apistudio.vip` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 6 | `dawnnode.com` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 7 | `one.chatshare.one` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 8 | `ruishiglobal.com` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 9 | `www.xiaoruiera.top` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 10 | `yuli.host` | $0.01 | default | 1 | grok-imagine-video-1.5 |
+| 11 | `api.maixun.icu` | $0.0128 | Grok-heavy | 0.16 | grok-imagine-video-1.5 |
+| 12 | `api.hyhawang.com` | $0.014 | grok heavy | 0.14 | grok-imagine-video-1.5 |
+| 13 | `reverix.ai` | $0.0144 | default | 1 | grok-imagine-video-1.5 |
+| 14 | `wolfai.top` | $0.015 | Mini | 0.15 | grok-imagine-video-1.5 |
+| 15 | `api.ciyuanshen.top` | $0.02 | Grok heavy | 0.1 | grok-imagine-video-1.5 |
+| 16 | `yomiapi.com` | $0.02 | 生图专用分组 | 1 | grok-imagine-video-1.5 |
+| 17 | `aicat.api.sumnece.com` | $0.024 | Heavy | 0.12 | grok-imagine-video-1.5 |
+| 18 | `hboom.ai` | $0.024 | Grok-Mid | 0.6 | grok-imagine-video-1.5 |
+| 19 | `hk.hbapis.com` | $0.024 | Grok-Mid | 0.6 | grok-imagine-video-1.5 |
+| 20 | `apicdn.xyc.ai` | $0.0246377 | grok-ent | 1 | grok-imagine-video-1.5 |
+| 21 | `apicdn.xycai.us` | $0.0246377 | grok-ent | 1 | grok-imagine-video-1.5 |
+| 22 | `pureai.ink` | $0.04 | A-Grok-Heavy | 0.2 | grok-imagine-video-1.5 |
+| 23 | `www.bigmodel.ltd` | $0.04 | gpt-pro | 0.2 | grok-imagine-video-1.5 |
+| 24 | `new.984275579.xyz` | $0.045 | grok heavy | 0.15 | grok-imagine-video-1.5 |
+| 25 | `hapiopen.cc` | $0.06 | Grok heavy | 0.3 | grok-imagine-video-1.5 |
+| 26 | `116.62.113.242` | $0.0736 | 视频模型聚合 | 0.07 | grok-imagine-video-1.5 |
+| 27 | `synthapi.asia` | $0.0736 | 视频模型聚合 | 0.07 | grok-imagine-video-1.5 |
+| 28 | `shendun.vip` | $0.0784 | 视频官价1.4折 | 0.14 | grok-imagine-video-1.5 |
+| 29 | `api.okinto.com` | $0.08 | default | 1 | grok-imagine-video-1.5 |
+| 30 | `api.xi-xu.me` | $0.08 | default | 1 | grok-imagine-video-1.5 |
+| 31 | `api2.aigcbest.top` | $0.08 | default | 1 | grok-imagine-video-1.5 |
+| 32 | `newapi.prorisehub.com` | $0.08 | default | 1 | grok-imagine-video-1.5 |
+| 33 | `windapi.cc` | $0.08 | grok | 0.4 | grok-imagine-video-1.5 |
+| 34 | `apimaster.ai` | $0.084 | default | 1.05 | grok-imagine-video-1.5 |
+| 35 | `relay.fast` | $0.09 | default | 1 | grok-imagine-video-1.5 |
+| 36 | `router.cheap` | $0.09 | default | 1 | grok-imagine-video-1.5 |
+| 37 | `newapi.ailyyzdk.xyz` | $0.096 | grok | 0.25 | grok-imagine-video-1.5 |
+| 38 | `newapi.aiopus.org` | $0.1 | default | 1 | grok-imagine-video-1.5 |
+| 39 | `newapi.aisonnet.org` | $0.1 | default | 1 | grok-imagine-video-1.5 |
+| 40 | `tokencount.aigemini.org` | $0.1 | default | 1 | grok-imagine-video-1.5 |
+| 41 | `xingwan.store` | $0.1 | gpt生图专用-绘画 | 0.1 | grok-imagine-video-1.5 |
+| 42 | `ai.cangyuansuanli.cn` | $0.116 | VIDEO | 1 | grok-imagine-video-1.5 |
+| 43 | `api.fxisv.com` | $0.12 | Grok-Heavy-多模态模型 | 1 | grok-imagine-video-1.5 |
+| 44 | `api.lingxiaihub.com` | $0.12 | Grok heavy 满血 | 0.12 | grok-imagine-video-1.5 |
+| 45 | `api.wanapis.com` | $0.12 | default | 1 | grok-imagine-video-1.5 |
+| 46 | `api.wukong.support` | $0.12 | gork | 0.15 | grok-imagine-video-1.5 |
+| 47 | `fanrenapi.com` | $0.12 | 生图 | 1 | grok-imagine-video-1.5 |
+| 48 | `www.openmindapi.com` | $0.12 | default | 1 | grok-imagine-video-1.5 |
+| 49 | `yinziapi.top` | $0.12 | grok稳定备用分组4 | 0.15 | grok-imagine-video-1.5 |
+| 50 | `a6api.com` | $0.14 | default | 1 | grok-imagine-video-1.5 |
+
+> 另有 51 站未列出；79 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

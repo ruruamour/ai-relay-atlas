@@ -1,56 +1,98 @@
 #!/usr/bin/env python3
-"""生成 data/relays/by-model/*.md 与 index.md（按模型榜单）。"""
-import csv,os,re,glob
+"""生成 data/relays/by-model/：每个基础模型一页 + index.md。
+排名只用正常价格（排除 promo/zero/default/low），被排除的站点数写在页尾。"""
+import glob
+import os
+import statistics
+import sys
 from collections import defaultdict
-ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT=os.path.join(ROOT,'data','relays','by-model'); os.makedirs(OUT,exist_ok=True)
-MIN=8
-TOP=200
-rows=list(csv.DictReader(open(os.path.join(ROOT,'data','relays','relay-models.csv'),encoding='utf-8')))
-def norm(m):
-    s=(m or '').lower()
-    s=re.sub(r'^[\[\(][^\]\)]*[\]\)]','',s); s=re.sub(r'^[a-z0-9_\-]+/','',s)
-    s=re.sub(r'[-_]?(free|thinking|opencode.*|cline.*|high|low|medium)$','',s)
-    return s.strip('-')
-def fname(k): return k.replace('/','_').replace('*','star')
-def fam(k):
-    if k.startswith('gemini'): return 'Gemini 系列'
-    if k.startswith('grok'): return 'Grok'
-    if k.startswith('mimo'): return 'MiMo'
-    if k.startswith('claude'): return 'Claude'
-    if k.startswith('gpt') or re.match(r'o[134]',k): return 'OpenAI / GPT'
-    return '其他'
-by=defaultdict(dict)
-for r in rows:
-    key=norm(r['model']); d=r['domain']
-    try: p=float(r['input_usd_m'])
-    except: continue
-    if p<=0: continue
-    prev=by[key].get(d)
-    if prev is None or p<prev[0]: by[key][d]=(p,r['output_usd_m'],r['group'],r['group_ratio'],r['model'],r['promo'])
-targets=sorted([k for k,v in by.items() if len(v)>=MIN], key=lambda k:-len(by[k]))
-# clean stale
-for old in glob.glob(os.path.join(OUT,'*.md')):
-    os.remove(old)
-entries=[]
-for key in targets:
-    it=sorted(by[key].items(),key=lambda kv:kv[1][0])
-    L=['# %s'%key,'','> %d 家 · 最低 **$%g** @ `%s` · 推算价（USD/1M 输入），未对账%s'%(len(it),it[0][1][0],it[0][0],('（仅列前 %d）'%TOP if len(it)>TOP else '')),'',
-       '| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |','|---|---|---|---|---|---|---|']
-    for i,(d,v) in enumerate(it[:TOP],1):
-        p,out,grp,gr,raw,promo=v
-        L.append('| %d | `%s` | $%g | %s | %s | %s | %s |'%(i,d,p,('$'+str(out)) if out not in ('',None) else '-',(grp or '-').replace('|','\\|'),gr or '-',raw))
-    L+=['','[← 返回索引](index.md)']
-    open(os.path.join(OUT,fname(key)+'.md'),'w',encoding='utf-8').write('\n'.join(L)+'\n')
-    entries.append((key,len(it),it[0][1][0],it[0][0]))
-g=defaultdict(list)
-for e in entries: g[fam(e[0])].append(e)
-L=['# 按模型榜单','','> 推算价（USD/1M 输入），未对账；已排除 0 价。仅列 ≥%d 家的模型，共 %d 个。'%(MIN,len(entries)),'']
-for f in ['Gemini 系列','Grok','MiMo','Claude','OpenAI / GPT','其他']:
-    if not g.get(f): continue
-    L+=['## %s'%f,'','| 模型 | 家数 | 最低价 | 最低站 |','|---|---|---|---|']
-    for key,n,p,d in sorted(g[f],key=lambda x:-x[1]):
-        L.append('| [%s](%s.md) | %d | $%g | `%s` |'%(key,fname(key),n,p,d))
-    L.append('')
-open(os.path.join(OUT,'index.md'),'w',encoding='utf-8').write('\n'.join(L)+'\n')
-print('models written',len(entries))
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import *  # noqa
+
+OUT = path('data', 'relays', 'by-model')
+MIN_SITES = 20
+TOP = 50
+BAD = {'promo', 'zero', 'default', 'low'}
+
+
+def fname(b):
+    return re.sub(r'[^a-z0-9.\-]+', '_', b).strip('_') or 'model'
+
+
+def esc(x):
+    return str(x or '').replace('|', '\\|')
+
+
+def main():
+    rows = read_csv(MODELS)
+    by = defaultdict(lambda: defaultdict(list))
+    for r in rows:
+        by[r['model_base']][r['domain']].append(r)
+    os.makedirs(OUT, exist_ok=True)
+    for f in glob.glob(os.path.join(OUT, '*.md')):
+        os.remove(f)
+    index = defaultdict(list)
+    for base, sites in by.items():
+        if len(sites) < MIN_SITES:
+            continue
+        good, bad = {}, 0
+        call = sum(1 for rs in sites.values() if any(r['billing'] == 'call' for r in rs)) > len(sites) / 2
+        for d, rs in sites.items():
+            cand = []
+            for r in rs:
+                if BAD & set((r['flag'] or '').split('+')):
+                    continue
+                p = num(r['call_usd'] if call else r['input_usd_m'])
+                if p is not None and p > 0 and (r['billing'] == 'call') == call:
+                    cand.append((p, r))
+            if cand:
+                good[d] = min(cand, key=lambda x: x[0])
+            else:
+                bad += 1
+        if not good:
+            continue
+        it = sorted(good.items(), key=lambda kv: kv[1][0])
+        med = statistics.median(p for p, _ in good.values())
+        unit = '$/次' if call else '$/1M 输入'
+        L = ['# %s' % base, '',
+             '> %d 站提供 · 正常价 %d 站 · 中位价 **$%s**（%s）· 推算，未对账' % (len(sites), len(good), fmt(med), unit), '',
+             '[← 返回索引](index.md)', '']
+        if call:
+            L += ['| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |', '|---|---|---|---|---|---|']
+        else:
+            L += ['| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |', '|---|---|---|---|---|---|---|']
+        for i, (d, (p, r)) in enumerate(it[:TOP], 1):
+            if call:
+                L.append('| %d | `%s` | $%s | %s | %s | %s |' % (i, d, fmt(p), esc(r['group']) or '-', r['group_ratio'] or '-', esc(r['model'])))
+            else:
+                o = num(r['output_usd_m'])
+                L.append('| %d | `%s` | $%s | %s | %s | %s | %s |' % (i, d, fmt(p), ('$' + fmt(o)) if o is not None else '-',
+                                                                     esc(r['group']) or '-', r['group_ratio'] or '-', esc(r['model'])))
+        tail = []
+        if len(it) > TOP:
+            tail.append('另有 %d 站未列出' % (len(it) - TOP))
+        if bad:
+            tail.append('%d 站只有福利/占位/异常价，未参与排名' % bad)
+        if tail:
+            L += ['', '> ' + '；'.join(tail) + '。完整数据见 `relay-models.csv`。']
+        open(os.path.join(OUT, fname(base) + '.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+        index[family(base)].append((base, len(sites), med, unit))
+    total = sum(len(v) for v in index.values())
+    L = ['# 按模型榜单', '', '> 共 %d 个模型（≥%d 站提供）。中位价只统计正常价格，推算，未对账。' % (total, MIN_SITES), '']
+    toc = [('[%s](#%s)' % (FAMILY_NAME[c], c)) for c in FAMILY_ORDER if index.get(c)]
+    L += [' · '.join(toc), '']
+    for c in FAMILY_ORDER:
+        if not index.get(c):
+            continue
+        L += ['<a id="%s"></a>' % c, '## %s（%d）' % (FAMILY_NAME[c], len(index[c])), '',
+              '| 模型 | 站点数 | 中位价 |', '|---|---|---|']
+        for base, n, med, unit in sorted(index[c], key=lambda x: -x[1]):
+            L.append('| [%s](%s.md) | %d | $%s%s |' % (base, fname(base), n, fmt(med), '/次' if unit == '$/次' else ''))
+        L.append('')
+    open(os.path.join(OUT, 'index.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+    print('by-model pages', total)
+
+
+if __name__ == '__main__':
+    main()

@@ -1,208 +1,60 @@
 # gpt-image-2
 
-> 617 家 · 最低 **$0.06** @ `nb.deepsb.com` · 推算价（USD/1M 输入），未对账（仅列前 200）
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `nb.deepsb.com` | $0.06 | $0.12 | gpt-image生图-1-2K | 0.012 | gpt-image-2 |
-| 2 | `ai.ruikon.com` | $0.1 | $0.2 | GPT Image | 0.02 | gpt-image-2 |
-| 3 | `aigw.store` | $0.1 | $0.2 | GPT【生图】 | 0.02 | gpt-image-2 |
-| 4 | `api.ruikon.com` | $0.1 | $0.2 | GPT Image | 0.02 | gpt-image-2 |
-| 5 | `all-api.ccode.dev` | $0.175 | $1.05 | Codex-Lite | 0.035 | gpt-image-2 |
-| 6 | `relayrouter.ai` | $0.29415 | $1.7649 | Codex-Gpt-2 | 0.05883 | gpt-image-2 |
-| 7 | `vip.tyasai.com` | $0.325 | $0.65 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-image-2 |
-| 8 | `llm-coding.space` | $0.35 | $0.7 | codex福利分组 | 0.07 | gpt-image-2 |
-| 9 | `ai2api.cn` | $0.35 | $0.7 | OpenAI-Codex | 0.35 | gpt-image-2 |
-| 10 | `gptapi.top` | $0.367688 | $2.206128 | Codex-Gpt-2 | 0.0735375 | gpt-image-2 |
-| 11 | `moliapi.com` | $0.370629 | $2.223774 | Codex-Gpt-2 | 0.0741258 | gpt-image-2 |
-| 12 | `ai-api.cc` | $0.382395 | $2.29437 | Codex-Gpt-2 | 0.076479 | gpt-image-2 |
-| 13 | `nodapi.com` | $0.388278 | $2.329668 | Codex-Gpt-2 | 0.0776556 | gpt-image-2 |
-| 14 | `anyaigc.ai` | $0.397103 | $2.382618 | Codex-Gpt-2 | 0.0794205 | gpt-image-2 |
-| 15 | `api.toknex.ai` | $0.4 | $0.8 | codex | 0.08 | gpt-image-2 |
-| 16 | `toknex.ai` | $0.4 | $0.8 | codex | 0.08 | gpt-image-2 |
-| 17 | `xhyapi.com` | $0.4 | $0.8 | 生图专用 | 0.08 | gpt-image-2 |
-| 18 | `yzstudio.vip` | $0.4 | $0.8 | 优惠分组plus | 0.08 | gpt-image-2 |
-| 19 | `zero.cat` | $0.4 | $2.4 | 【生图】Adobe逆向分组 | 0.08 | gpt-image-2 |
-| 20 | `api.zero.cat` | $0.4 | $2.4 | 【生图】Adobe逆向分组 | 0.08 | gpt-image-2 |
-| 21 | `deepkey.top` | $0.4 | $2.4 | gpt-image | 0.08 | gpt-image-2 |
-| 22 | `xiguapi.cc` | $0.41181 | $2.47086 | Codex-Gpt-2 | 0.08236199999999999 | gpt-image-2 |
-| 23 | `www.daleai.shop` | $0.45 | $2.7 | gpt(满血不降智） | 0.18 | gpt-image-2 |
-| 24 | `api.socode.cc` | $0.5 | $1.0 | GPT[Main] | 0.1 | gpt-image-2 |
-| 25 | `api.weilai.chat` | $0.5 | $1.0 | GPT生图-生图请选择这个分组 | 0.1 | gpt-image-2 |
-| 26 | `api340.com` | $0.5 | $1.0 | plus  team  pro混池 | 0.1 | gpt-image-2 |
-| 27 | `sub2.molytea.ccwu.cc` | $0.5 | $0.0 | Codex Plus 号池 | 0.1 | gpt-image-2 |
-| 28 | `agentapi.xyz` | $0.5 | $3.0 | vip | 0.1 | gpt-image-2 |
-| 29 | `us.hboom.ai` | $0.5 | $3.0 | GPT-Eco | 0.1 | gpt-image-2 |
-| 30 | `api.n1n.ai` | $0.5883 | $3.5298 | Codex-Gpt-2 | 0.11766 | gpt-image-2 |
-| 31 | `jeniya.cc` | $0.5883 | $3.5298 | Codex-Gpt-2 | 0.11766 | gpt-image-2 |
-| 32 | `llm-api.dev` | $0.5883 | $3.5298 | Codex-Gpt-2 | 0.11766 | gpt-image-2 |
-| 33 | `quanzil.cn` | $0.5883 | $3.5298 | Codex-Gpt-2 | 0.11766 | gpt-image-2 |
-| 34 | `quanzil.net` | $0.5883 | $3.5298 | Codex-Gpt-2 | 0.11766 | gpt-image-2 |
-| 35 | `ai.mggoo.com` | $0.6 | $1.2 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-image-2 |
-| 36 | `wanfaai.com` | $0.6 | $1.2 | 速刷分组(0售后） | 0.12 | gpt-image-2 |
-| 37 | `www.largechestnut.com` | $0.6 | $1.2 | gpt-plus | 0.12 | gpt-image-2 |
-| 38 | `www.xunsuan.top` | $0.6 | $1.2 | Codex-plus | 0.12 | gpt-image-2 |
-| 39 | `ai.dyc.im` | $0.75 | $1.5 | ChatGPT | 0.15 | gpt-image-2 |
-| 40 | `ai.websee.top` | $0.75 | $1.5 | ChatGPT | 0.15 | gpt-image-2 |
-| 41 | `api.robinsonai.shop` | $0.769231 | $1.538462 | image2.0/2.5 | 1.0 | gpt-image-2 |
-| 42 | `api.lansekafei.cn` | $0.8 | $4.8 | 国外模型 | 0.16 | gpt-image-2 |
-| 43 | `api.xckjj.com` | $0.8 | $4.8 | gptplus | 0.16 | gpt-image-2 |
-| 44 | `us.xigong.cloud` | $0.825 | $1.65 | 「焚决」纯号池不降智 | 0.165 | gpt-image-2 |
-| 45 | `cdn.api.inxk.com` | $0.833333 | $1.666667 | ChatGPT 普通池 | 0.025 | gpt-image-2 |
-| 46 | `dashboard.inxk.com` | $0.833333 | $1.666667 | ChatGPT 普通池 | 0.025 | gpt-image-2 |
-| 47 | `worldcdn.api.inxk.com` | $0.833333 | $1.666667 | ChatGPT 普通池 | 0.025 | gpt-image-2 |
-| 48 | `api.tcvps.cn` | $0.9 | $1.8 | GPT【Pro池大客户组】几乎1人1号/稳定性最优★★★★★ | 0.18 | gpt-image-2 |
-| 49 | `corealgos.com` | $0.959721 | $1.919442 | GPT-特价 | 0.025 | gpt-image-2 |
-| 50 | `ai.8888.name` | $1 | $2.0 | GPT—官key | 0.2 | gpt-image-2 |
-| 51 | `ai.ppaet.top` | $1 | $6.0 | gpt生图 | 0.2 | gpt-image-2 |
-| 52 | `sub2api.hyl2api.com` | $1 | $2.0 | GPT  | 0.2 | gpt-image-2 |
-| 53 | `xapi-token.xyz` | $1 | $6.0 | gpt | 0.2 | gpt-image-2 |
-| 54 | `nexaxis.io` | $1 | $6.0 | ChatGPT_plus | 0.2 | gpt-image-2 |
-| 55 | `23.140.244.145` | $1.25 | $2.5 | pro | 0.25 | gpt-image-2 |
-| 56 | `api.geniuscoder.net` | $1.25 | $2.5 | gpt优惠 | 0.25 | gpt-image-2 |
-| 57 | `api.num.cc` | $1.25 | $7.5 | Codex | 0.25 | gpt-image-2 |
-| 58 | `cn.api.zyai.online` | $1.25 | $7.5 | CodeX | 0.25 | gpt-image-2 |
-| 59 | `api.zyai.online` | $1.25 | $7.5 | CodeX | 0.25 | gpt-image-2 |
-| 60 | `autorouter.top` | $1.25 | $0.0 | gpt-pro | 0.25 | gpt-image-2 |
-| 61 | `new-api.wxai.shop` | $1.5 | $9.0 | default | 0.3 | gpt-image-2 |
-| 62 | `spacetimeai.cc` | $1.5 | $3.0 | Codex Pro | 0.3 | gpt-image-2 |
-| 63 | `tokit.cc` | $1.5 | $9.0 | default | 0.3 | gpt-image-2 |
-| 64 | `www.koalaapi.com` | $1.5 | $9.0 | default | 0.3 | gpt-image-2 |
-| 65 | `www.tokit.cc` | $1.5 | $9.0 | default | 0.3 | gpt-image-2 |
-| 66 | `koalaapi.com` | $1.5 | $9.0 | default | 0.3 | gpt-image-2 |
-| 67 | `koalaapi.ai` | $1.5 | $9.0 | default | 0.3 | gpt-image-2 |
-| 68 | `api.wochirou.com` | $1.75 | $10.5 | codex | 0.35 | gpt-image-2 |
-| 69 | `api.kakouai.com` | $2 | $4.0 | GPT -标准版 官方 0.5 折 | 0.4 | gpt-image-2 |
-| 70 | `kakouai.com` | $2 | $4.0 | GPT -标准版 官方 0.5 折 | 0.4 | gpt-image-2 |
-| 71 | `www.kakouai.com` | $2 | $4.0 | GPT -标准版 官方 0.5 折 | 0.4 | gpt-image-2 |
-| 72 | `api.aixingialaire.shop` | $2.3 | $4.6 | ChatGPT | 0.46 | gpt-image-2 |
-| 73 | `agent.tokensea.ai` | $2.5 | $15.0 | image-AZ | 0.5 | gpt-image-2 |
-| 74 | `api.aimasterkey.net` | $2.5 | $15.0 | images | 0.5 | gpt-image-2 |
-| 75 | `bridge.pulseneko.com` | $2.5 | $15.0 | codex | 0.5 | gpt-image-2 |
-| 76 | `api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 77 | `sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 78 | `vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 79 | `ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 80 | `www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 81 | `cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 82 | `hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 83 | `gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 84 | `2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 85 | `api.openai-labs.com` | $2.5 | $15.0 | g1 | 0.5 | gpt-image-2 |
-| 86 | `ai2.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 87 | `ai2.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 88 | `ai2.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 89 | `ai2.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 90 | `ai2.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 91 | `ai2.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 92 | `ai2.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 93 | `ai2.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 94 | `ai2.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 95 | `api2.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 96 | `api2.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 97 | `api2.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 98 | `api2.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 99 | `api2.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 100 | `api2.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 101 | `api3.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 102 | `api3.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 103 | `api3.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 104 | `api3.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 105 | `api3.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 106 | `api3.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 107 | `api3.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 108 | `claude.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 109 | `claude.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 110 | `claude.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 111 | `claude.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 112 | `claude.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 113 | `claude.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 114 | `claude.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 115 | `claude.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 116 | `gemini.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 117 | `gemini.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 118 | `gemini.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 119 | `gemini.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 120 | `gemini.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 121 | `gemini.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 122 | `gemini.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 123 | `gemini.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 124 | `gpt.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 125 | `gpt.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 126 | `gpt.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 127 | `gpt.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 128 | `gpt.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 129 | `gpt.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 130 | `gpt.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 131 | `gpt.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 132 | `gpt.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 133 | `gpt.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 134 | `grok.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 135 | `grok.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 136 | `grok.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 137 | `grok.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 138 | `grok.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 139 | `grok.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 140 | `grok.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 141 | `grok.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 142 | `grok.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 143 | `gw2.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 144 | `gw2.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 145 | `gw2.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 146 | `gw2.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 147 | `gw2.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 148 | `gw2.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 149 | `gw2.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 150 | `hk2.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 151 | `hk2.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 152 | `hk2.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 153 | `hk2.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 154 | `hk2.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 155 | `hk2.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 156 | `hk2.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 157 | `hk2.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 158 | `jp.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 159 | `jp.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 160 | `jp.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 161 | `jp.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 162 | `jp.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 163 | `jp.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 164 | `jp.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 165 | `llm.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 166 | `llm.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 167 | `llm.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 168 | `llm.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 169 | `llm.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 170 | `llm.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 171 | `llm.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 172 | `llm.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 173 | `llm.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 174 | `llm.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 175 | `mirror.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 176 | `mirror.ai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 177 | `mirror.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 178 | `mirror.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 179 | `mirror.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 180 | `mirror.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 181 | `mirror.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 182 | `mirror.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 183 | `mirror.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 184 | `mirror.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 185 | `openai.2api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 186 | `openai.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 187 | `openai.api.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 188 | `openai.cn.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 189 | `openai.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 190 | `openai.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 191 | `openai.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 192 | `openai.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 193 | `ai2.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 194 | `api2.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 195 | `api2.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 196 | `api2.vip.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 197 | `api2.www.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 198 | `api3.gw.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 199 | `api3.sub.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
-| 200 | `claude.hk.api-x.top` | $2.5 | $15.0 | default | 0.5 | gpt-image-2 |
+> 1334 站提供 · 正常价 901 站 · 中位价 **$0.08**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `api.ikhdev.xyz` | $0.004 | paid | 1 | gpt-image-2 |
+| 2 | `pianyitoken.gay` | $0.00410959 | 生图分组 | 0.1 | 1k-gpt-image-2 |
+| 3 | `api.aipipe.io` | $0.0045 | GPT图片 | 1 | gpt-image-2 |
+| 4 | `new.984275579.xyz` | $0.0045 | GPT 纯Pro20x | 0.09 | gpt-image-2 |
+| 5 | `kaiycb.com` | $0.0048 | gpt低价分组 | 0.12 | gpt-image-2 |
+| 6 | `api.999555999.com` | $0.005 | gpt-绘画 | 1 | gpt-image-2 |
+| 7 | `tokenflux.io` | $0.005 | default | 1 | gpt-image-2 |
+| 8 | `apibest.ai` | $0.0053 | default | 0.1 | gpt-image-2 |
+| 9 | `116.62.113.242` | $0.0055108 | 视频模型聚合 | 0.07 | gpt-image-2-official |
+| 10 | `synthapi.asia` | $0.0055108 | 视频模型聚合 | 0.07 | gpt-image-2-official |
+| 11 | `api.aicatstudios.com` | $0.006 | GPT 混合分组 | 0.12 | gpt-image-2 |
+| 12 | `hk.moleapi.com` | $0.006 | relay | 0.3 | gpt-image-2 |
+| 13 | `yzstudio.vip` | $0.0064 | 优惠分组plus | 0.08 | gpt-image-2 |
+| 14 | `sub.pikaqiu.shop` | $0.0068 | team | 0.085 | gpt-image-2 |
+| 15 | `api.aiyxgaw.com` | $0.00684932 | 批量 | 1 | gpt-image-2 |
+| 16 | `www.largechestnut.com` | $0.0072 | gpt-plus | 0.12 | gpt-image-2 |
+| 17 | `ddd666api.com` | $0.00735 | gpt-image-2 | 1 | gpt-image-2 |
+| 18 | `www.yiyuantoken.com` | $0.00735 | 🎨画图模型 | 1 | gpt-image-2-2k |
+| 19 | `airouter.vip` | $0.0075 | GPT-25折 | 0.25 | gpt-image-2 |
+| 20 | `codexplus.shop` | $0.0075 | image 0.005 | 0.015 | gpt-image-2 |
+| 21 | `apiroute.top` | $0.008 | gpt-image2-生图 | 1 | gpt-image-2 |
+| 22 | `vip.brioi.com` | $0.008 | GPT 专线 | 0.16 | gpt-image-2 |
+| 23 | `api.e6t.cn` | $0.00821918 | Image | 1 | gpt-image-2-1k |
+| 24 | `z-code.eu.cc` | $0.009 | 1k生图GPT | 0.3 | gpt-image-2 |
+| 25 | `huablog.org` | $0.0091 | 超绝拼好池 | 0.065 | gpt-image-2 |
+| 26 | `api.asdfas.party` | $0.0096 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-image-2 |
+| 27 | `cheapai.io` | $0.0099 | vip | 0.45 | gpt-image-2 |
+| 28 | `new.ahei.asia` | $0.0099 | plus | 0.15 | gpt-image-2 |
+| 29 | `ai.490079.xyz` | $0.01 | codex | 0.2 | gpt-image-2 |
+| 30 | `api-top.com` | $0.01 | 夯爆了【图】 | 0.1 | gpt-image-2 |
+| 31 | `api.hud.im` | $0.01 | 【生图】gpt-image-0.02 | 1 | gpt-image-2 |
+| 32 | `api.julongkj.top` | $0.01 | image | 1 | gpt-image-2 |
+| 33 | `api.klong.lat` | $0.01 | gpt-image | 0.01 | gpt-image-2 |
+| 34 | `api.liangrekui.com` | $0.01 | gpt-image-2 | 0.01 | gpt-image-2 |
+| 35 | `ergouzi.life` | $0.01 | 生图专用 | 0.01 | gpt-image-2 |
+| 36 | `modelsell.com` | $0.01 | 标准按次 | 1 | gpt-image-2-count |
+| 37 | `momoapi.xin` | $0.01 | img | 1 | gpt-image-2 |
+| 38 | `openkun.xyz` | $0.01 | Image生图 | 1 | gpt-image-2 |
+| 39 | `topapi.io` | $0.01 | 夯爆了【图】 | 0.1 | gpt-image-2 |
+| 40 | `weilai.chat` | $0.01 | GPT生图-生图请选择这个分组 | 0.1 | gpt-image-2 |
+| 41 | `www.yuanshen.net.eu.org` | $0.01 | Codex-Image | 1 | gpt-image-2 |
+| 42 | `www.zhuanyuncang.top` | $0.01 | ChatGPT | 0.04 | gpt-image-2 |
+| 43 | `yyds.chybenzun.top` | $0.01 | 【Y】image​ 1k 对接专用  | 1 | gpt-image-2 |
+| 44 | `zhangyuapi.com` | $0.01 | default | 0.04 | gpt-image-2 |
+| 45 | `xhyapi.com` | $0.01072 | 生图专用 | 0.08 | gpt-image-2 |
+| 46 | `api.flymux.com` | $0.011 | image | 0.1375 | gpt-image-2 |
+| 47 | `api.lingzhouai.com` | $0.0114286 | gpt image 分组 | 1 | gpt-image-2 |
+| 48 | `ai-key.cc` | $0.012 | codex | 0.12 | gpt-image-2 |
+| 49 | `api.linktoagi.com` | $0.012 | default | 0.15 | gpt-image-2-2k |
+| 50 | `api.qinzhiai.com` | $0.012 | codex | 0.3 | gpt-image-2 |
+
+> 另有 851 站未列出；433 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

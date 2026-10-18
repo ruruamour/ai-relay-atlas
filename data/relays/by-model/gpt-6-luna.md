@@ -1,208 +1,60 @@
 # gpt-6-luna
 
-> 3279 家 · 最低 **$0.0001** @ `www.dddai.dev` · 推算价（USD/1M 输入），未对账（仅列前 200）
+> 853 站提供 · 正常价 423 站 · 中位价 **$0.0625**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.dddai.dev` | $0.0001 | $0.0005 | free | 0.001 | gpt-6-luna |
-| 2 | `api.robinsonai.shop` | $0.001077 | $0.005385 | gemeni | 0.07 | gpt-6-luna |
-| 3 | `api.aiyxgaw.com` | $0.001233 | $0.006165 | gpt-稳定 | 0.09 | gpt-6-luna |
-| 4 | `www.synthapi.asia` | $0.002137 | $0.010685 | Pro常规 | 0.078 | gpt-6-luna |
-| 5 | `tokeness.ai` | $0.003 | $0.015 | GPT-Entry | 0.03 | gpt-6-luna |
-| 6 | `www.newtonrouter.com` | $0.0045 | $0.0225 | Gpt Pro 20x | 0.045 | gpt-6-luna |
-| 7 | `corealgos.com` | $0.0048 | $0.024 | gpt-max（满血） | 0.048 | gpt-6-luna |
+| 1 | `tokeness.io` | $0.003 | $0.015 | GPT-Entry | 0.03 | gpt-6-luna |
+| 2 | `codex-relay.codes` | $0.0032 | $0.016 | default | 1 | gpt-6-luna |
+| 3 | `mhapi.net` | $0.0035 | $0.0175 | 激励gpt | 0.035 | gpt-6-luna |
+| 4 | `cf.rule91.wtf` | $0.0045 | $0.0225 | GPT-仅限6luna | 0.045 | gpt-6-luna |
+| 5 | `newtonrouter.com` | $0.0045 | $0.0225 | Gpt Pro 20x | 0.045 | gpt-6-luna |
+| 6 | `api.cnvip.com.cn` | $0.005 | $0.025 | GPT  team | 0.05 | gpt-6-luna |
+| 7 | `api.nfffff.dpdns.org` | $0.005 | $0.025 | gpt-cheap | 0.05 | gpt-6-luna |
 | 8 | `api.nitrorouter.com` | $0.005 | $0.025 | gpt-cheap | 0.25 | gpt-6-luna |
-| 9 | `super.aresaicode.cn` | $0.005 | $0.025 | gpt （降智不保证） | 0.05 | gpt-6-luna |
-| 10 | `www.nmoon.cc` | $0.005 | $0.025 | OpenAI 福利分组  | 0.05 | gpt-6-luna |
-| 11 | `ai.lazymo.qzz.io` | $0.0059 | $0.0295 | 【GPT】特惠006-70%缓 | 0.059 | gpt-6-luna |
-| 12 | `cn.fluxtoken.ai` | $0.006 | $0.03 | 【Codex】反代 · 福利 | 0.06 | gpt-6-luna |
-| 13 | `yunmian.site` | $0.006 | $0.03 | codex-限时 | 0.06 | gpt-6-luna |
-| 14 | `api.xiaojue.cloud` | $0.007 | $0.035 | gpt福利 | 0.07 | gpt-6-luna |
-| 15 | `llm-coding.space` | $0.007 | $0.035 | codex福利分组 | 0.07 | gpt-6-luna |
-| 16 | `pianyitoken.top` | $0.007534 | $0.03767 | 0.055x-gpt | 0.055 | gpt-6-luna |
-| 17 | `ai-api.cc` | $0.007648 | $0.03824 | Codex-Gpt-2 | 0.076479 | gpt-6-luna |
-| 18 | `api.toknex.ai` | $0.008 | $0.04 | codex | 0.08 | gpt-6-luna |
-| 19 | `cortexlane.cloud` | $0.008 | $0.04 | GPT Free | 0.08 | gpt-6-luna |
-| 20 | `toknex.ai` | $0.008 | $0.04 | codex | 0.08 | gpt-6-luna |
-| 21 | `www.bb-api.com` | $0.008 | $0.04 | gpt-008x-（毫秒级首字） | 0.08 | gpt-6-luna |
-| 22 | `xinghubai.top` | $0.008 | $0.04 | Luna | 0.08 | gpt-6-luna |
-| 23 | `yzstudio.vip` | $0.008 | $0.04 | 优惠分组plus | 0.08 | gpt-6-luna |
-| 24 | `api.cortexlane.cloud` | $0.008 | $0.04 | GPT Free | 0.08 | gpt-6-luna |
-| 25 | `api.tcvps.cn` | $0.009 | $0.045 | GPT【Plus组】速度中等/稳定性一般★★ | 0.09 | gpt-6-luna |
-| 26 | `ccapi.ai` | $0.009 | $0.045 | openai-E | 0.09 | gpt-6-luna |
-| 27 | `ccapi.pro` | $0.009 | $0.045 | openai-E | 0.09 | gpt-6-luna |
-| 28 | `api.socode.cc` | $0.01 | $0.05 | GPT[Main] | 0.1 | gpt-6-luna |
-| 29 | `api.xuyizuo.top` | $0.01 | $0.01 | 多平台聚合 | 1.0 | gpt-6-luna |
-| 30 | `apicangku.icu` | $0.01 | $0.05 | gpt急速 | 0.1 | gpt-6-luna |
-| 31 | `sub2.molytea.ccwu.cc` | $0.01 | $0.12 | Codex Plus 号池 | 0.1 | gpt-6-luna |
-| 32 | `tuokeapi.com` | $0.01 | $0.05 | GPT-proMax | 0.1 | gpt-6-luna |
-| 33 | `www.apicangku.icu` | $0.01 | $0.05 | gpt急速 | 0.1 | gpt-6-luna |
-| 34 | `relayrouter.ai` | $0.01 | $0.05 | Azure-Gpt-2 | 0.1 | gpt-6-luna |
-| 35 | `ai.mggoo.com` | $0.012 | $0.06 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-6-luna |
-| 36 | `kaiycb.com` | $0.012 | $0.06 | gpt低价分组 | 0.12 | gpt-6-luna |
-| 37 | `tokhubs.com` | $0.012 | $0.06 | route-openai-plus | 0.12 | gpt-6-luna |
-| 38 | `wanfaai.com` | $0.012 | $0.06 | 速刷分组(0售后） | 0.12 | gpt-6-luna |
-| 39 | `www.largechestnut.com` | $0.012 | $0.06 | gpt-plus | 0.12 | gpt-6-luna |
-| 40 | `www.tokhubs.com` | $0.012 | $0.06 | route-openai-plus | 0.12 | gpt-6-luna |
-| 41 | `www.aimgen.tech` | $0.012 | $0.06 | GPT不稳定分组 | 0.12 | gpt-6-luna |
-| 42 | `www.kaiycb.com` | $0.012 | $0.06 | gpt低价分组 | 0.12 | gpt-6-luna |
-| 43 | `www.mv88.cn` | $0.012 | $0.003 | Codex-Plus | 0.12 | gpt-6-luna |
-| 44 | `gptapi.top` | $0.0125 | $0.0625 | Azure-Gpt-2 | 0.125 | gpt-6-luna |
-| 45 | `moliapi.com` | $0.0126 | $0.063 | Azure-Gpt-2 | 0.126 | gpt-6-luna |
-| 46 | `api.nbgpt.eu.cc` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 47 | `api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 48 | `new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 49 | `sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 50 | `vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 51 | `ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 52 | `www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 53 | `cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 54 | `hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 55 | `gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 56 | `2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 57 | `cn.rivoapi.com` | $0.013 | $0.065 | OpenAI 官方 | 0.13 | gpt-6-luna |
-| 58 | `ai2.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 59 | `ai2.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 60 | `ai2.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 61 | `ai2.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 62 | `ai2.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 63 | `ai2.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 64 | `ai2.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 65 | `ai2.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 66 | `ai2.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 67 | `api2.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 68 | `api2.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 69 | `api2.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 70 | `api2.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 71 | `api2.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 72 | `api2.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 73 | `api2.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 74 | `api3.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 75 | `api3.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 76 | `api3.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 77 | `api3.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 78 | `api3.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 79 | `api3.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 80 | `api3.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 81 | `api3.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 82 | `api3.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 83 | `claude.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 84 | `claude.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 85 | `claude.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 86 | `claude.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 87 | `claude.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 88 | `claude.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 89 | `claude.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 90 | `claude.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 91 | `gemini.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 92 | `gemini.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 93 | `gemini.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 94 | `gemini.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 95 | `gemini.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 96 | `gemini.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 97 | `gemini.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 98 | `gemini.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 99 | `gemini.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 100 | `gemini.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 101 | `gpt.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 102 | `gpt.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 103 | `gpt.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 104 | `gpt.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 105 | `gpt.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 106 | `gpt.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 107 | `gpt.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 108 | `gpt.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 109 | `gpt.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 110 | `grok.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 111 | `grok.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 112 | `grok.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 113 | `grok.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 114 | `grok.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 115 | `grok.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 116 | `grok.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 117 | `grok.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 118 | `grok.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 119 | `grok.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 120 | `gw2.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 121 | `gw2.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 122 | `gw2.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 123 | `gw2.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 124 | `gw2.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 125 | `gw2.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 126 | `gw2.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 127 | `gw2.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 128 | `gw2.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 129 | `gw2.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 130 | `hk2.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 131 | `hk2.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 132 | `hk2.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 133 | `hk2.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 134 | `hk2.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 135 | `hk2.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 136 | `hk2.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 137 | `hk2.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 138 | `hk2.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 139 | `hk2.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 140 | `jp.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 141 | `jp.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 142 | `jp.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 143 | `jp.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 144 | `jp.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 145 | `jp.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 146 | `jp.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 147 | `jp.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 148 | `jp.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 149 | `jp.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 150 | `llm.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 151 | `llm.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 152 | `llm.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 153 | `llm.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 154 | `llm.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 155 | `llm.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 156 | `llm.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 157 | `llm.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 158 | `llm.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 159 | `mirror.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 160 | `mirror.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 161 | `mirror.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 162 | `mirror.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 163 | `mirror.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 164 | `mirror.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 165 | `mirror.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 166 | `mirror.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 167 | `openai.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 168 | `openai.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 169 | `openai.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 170 | `openai.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 171 | `openai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 172 | `openai.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 173 | `openai.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 174 | `openai.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 175 | `openai.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 176 | `ai2.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 177 | `ai2.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 178 | `api2.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 179 | `api2.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 180 | `api2.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 181 | `api3.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 182 | `api3.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 183 | `gemini.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 184 | `gpt.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 185 | `gpt.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 186 | `grok.hk.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 187 | `gw2.vip.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 188 | `hk2.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 189 | `jp.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 190 | `llm.sub.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 191 | `llm.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 192 | `mirror.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 193 | `mirror.new.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 194 | `mirror.www.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 195 | `openai.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 196 | `proxy.2api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 197 | `proxy.ai.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 198 | `proxy.api.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 199 | `proxy.cn.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
-| 200 | `proxy.gw.nbgpt.xyz` | $0.013 | $0.065 | gpt-plus分组 | 0.13 | gpt-6-luna |
+| 9 | `api.vibe-subsapi.com` | $0.005 | $0.025 | ChatGPT 混池 | 0.05 | gpt-6-luna |
+| 10 | `super.aresaicode.cn` | $0.005 | $0.025 | gpt （降智不保证） | 0.05 | gpt-6-luna |
+| 11 | `ai.blue1.top` | $0.006 | $0.03 | Plus 优惠组（不能用就切） | 0.06 | gpt-6-luna |
+| 12 | `api.123uq.com` | $0.006 | $0.03 | plus狂欢 | 0.06 | gpt-6-luna |
+| 13 | `api.ikhdev.xyz` | $0.0064 | $0.024 | default | 1 | gpt-6-luna |
+| 14 | `pureai.ink` | $0.0065 | $0.0325 | Z-GPT-Team | 0.065 | gpt-6-luna |
+| 15 | `pianyitoken.gay` | $0.00657535 | $0.0328767 | GPT-0.048 | 0.048 | gpt-6-luna |
+| 16 | `aiapibank.com` | $0.007 | $0.035 | GPT低价分组 | 0.07 | gpt-6-luna |
+| 17 | `api.hyhawang.com` | $0.007 | $0.035 | gpt低倍率 | 0.07 | gpt-6-luna |
+| 18 | `www.zhuanyuncang.top` | $0.007 | $0.035 | ChatGPT luna | 0.07 | gpt-6-luna |
+| 19 | `api.boluomiapi.cc` | $0.0075 | $0.0375 | A02-GPTteam混池 | 0.075 | gpt-6-luna |
+| 20 | `api.asdfas.party` | $0.008 | $0.04 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-6-luna |
+| 21 | `api.hud.im` | $0.008 | $0.04 | 【稳定】gpt-plus-混合号池 | 0.08 | gpt-6-luna |
+| 22 | `api.uniprep.world` | $0.008 | $0.04 | GPT Plus池 | 0.08 | gpt-6-luna |
+| 23 | `toknex.ai` | $0.008 | $0.04 | codex | 0.08 | gpt-6-luna |
+| 24 | `www.bb-api.com` | $0.008 | $0.04 | gpt-008x-（毫秒级首字） | 0.08 | gpt-6-luna |
+| 25 | `xinghubai.top` | $0.008 | $0.04 | Luna | 0.08 | gpt-6-luna |
+| 26 | `xinyue.mom` | $0.008 | $0.04 | 不降智焚决【只有astra】 | 0.08 | gpt-6-luna |
+| 27 | `yzstudio.vip` | $0.008 | $0.04 | 优惠分组plus | 0.08 | gpt-6-luna |
+| 28 | `sub.pikaqiu.shop` | $0.0085 | $0.0425 | team | 0.085 | gpt-6-luna |
+| 29 | `api.tcvps.cn` | $0.009 | $0.045 | GPT【Plus组】速度中等/稳定性一般★★ | 0.09 | gpt-6-luna |
+| 30 | `ccapi.ai` | $0.009 | $0.045 | openai-E | 0.09 | gpt-6-luna |
+| 31 | `ai.bayunzi.shop` | $0.01 | $0.035 | ChatGPT-Plus | 0.05 | gpt-6-luna |
+| 32 | `api.gguuai.com` | $0.01 | $0.05 | GPT-普通 | 0.1 | gpt-6-luna |
+| 33 | `api.openlux.ai` | $0.01 | $0.05 | Azure-Gpt-2 | 0.1 | gpt-6-luna |
+| 34 | `api.relayrouter.ai` | $0.01 | $0.05 | Azure-Gpt-2 | 0.1 | gpt-6-luna |
+| 35 | `api.socode.cc` | $0.01 | $0.05 | GPT[Main] | 0.1 | gpt-6-luna |
+| 36 | `api.xuyizuo.top` | $0.01 | $0.01 | 多平台聚合 | 1 | gpt-6-luna |
+| 37 | `api.yanai.it.com` | $0.01 | $0.05 | codex-plus | 0.1 | gpt-6-luna |
+| 38 | `api.zayuapi.com` | $0.01 | $0.05 | Codex-稳定分组 | 0.1 | gpt-6-luna |
+| 39 | `api.zzswitch.com` | $0.01 | $0.05 | 纯plus | 0.1 | gpt-6-luna |
+| 40 | `apicangku.icu` | $0.01 | $0.05 | gpt急速 | 0.1 | gpt-6-luna |
+| 41 | `app.yylx.io` | $0.01 | $0.05 | GPT Codex - 标准 | 0.1 | gpt-6-luna |
+| 42 | `gpt.qinnaonao.com` | $0.01 | $0.05 | GPT分组 | 0.1 | gpt-6-luna |
+| 43 | `gptzzz.ai` | $0.01 | $0.05 | 混合号池pro兜底 | 0.1 | gpt-6-luna |
+| 44 | `liliapi.siphot.com` | $0.01 | $0.05 | gpt包周分组（按次计费） | 0.1 | gpt-6-luna |
+| 45 | `sub2.molytea.ccwu.cc` | $0.01 | $0.12 | Codex Plus 号池 | 0.1 | gpt-6-luna |
+| 46 | `tuokeapi.com` | $0.01 | $0.05 | GPT-proMax | 0.1 | gpt-6-luna |
+| 47 | `weilai.chat` | $0.01 | $0.05 | GPT生图-生图请选择这个分组 | 0.1 | gpt-6-luna |
+| 48 | `api.tidewhisper-ai.xyz` | $0.011 | $0.055 | Azure-Gpt-2 | 0.11 | gpt-6-luna |
+| 49 | `gzxbykj.com` | $0.011 | $0.055 | Azure-Gpt-2 | 0.11 | gpt-6-luna |
+| 50 | `v2.cloudmist.cloud` | $0.0115 | $0.0575 | Azure-Gpt-2 | 0.115 | gpt-6-luna |
 
-[← 返回索引](index.md)
+> 另有 373 站未列出；430 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

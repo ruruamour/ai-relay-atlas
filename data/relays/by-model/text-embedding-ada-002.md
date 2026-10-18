@@ -1,109 +1,60 @@
 # text-embedding-ada-002
 
-> 101 家 · 最低 **$0.0044** @ `relayrouter.ai` · 推算价（USD/1M 输入），未对账
+> 213 站提供 · 正常价 148 站 · 中位价 **$0.1**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `relayrouter.ai` | $0.0044 | $0.0044 | Azure-Gpt-1 | 0.044 | text-embedding-ada-002 |
-| 2 | `gptapi.top` | $0.0055 | $0.0055 | Azure-Gpt-1 | 0.05499999999999999 | text-embedding-ada-002 |
-| 3 | `moliapi.com` | $0.005544 | $0.005544 | Azure-Gpt-1 | 0.055439999999999996 | text-embedding-ada-002 |
-| 4 | `ai-api.cc` | $0.00572 | $0.00572 | Azure-Gpt-1 | 0.0572 | text-embedding-ada-002 |
-| 5 | `nodapi.com` | $0.005808 | $0.005808 | Azure-Gpt-1 | 0.05808 | text-embedding-ada-002 |
-| 6 | `anyaigc.ai` | $0.00594 | $0.00594 | Azure-Gpt-1 | 0.0594 | text-embedding-ada-002 |
-| 7 | `xiguapi.cc` | $0.00616 | $0.00616 | Azure-Gpt-1 | 0.061599999999999995 | text-embedding-ada-002 |
-| 8 | `cn.ai-api.loft.games` | $0.008 | $0.016 | test | 0.08 | text-embedding-ada-002 |
-| 9 | `api.n1n.ai` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
-| 10 | `jeniya.cc` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
-| 11 | `llm-api.dev` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
-| 12 | `quanzil.cn` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
-| 13 | `quanzil.net` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
-| 14 | `www.zhangsan.yun` | $0.015 | $0.015 | image-2分组 | 0.15 | text-embedding-ada-002 |
-| 15 | `cn.api.zyai.online` | $0.02 | $0.02 | mini | 0.5 | text-embedding-ada-002 |
-| 16 | `api.zyai.online` | $0.02 | $0.02 | mini | 0.5 | text-embedding-ada-002 |
-| 17 | `api.aiberm.com` | $0.023 | $0.023 | default | 0.23 | openai/text-embedding-ada-002 |
-| 18 | `api.ifapi.org` | $0.023 | $0.023 | 智能熔断 | 1 | text-embedding-ada-002 |
-| 19 | `aiberm.dev` | $0.023 | $0.023 | default | 0.23 | openai/text-embedding-ada-002 |
-| 20 | `ifapi.dev` | $0.023 | $0.023 | 智能熔断 | 1 | text-embedding-ada-002 |
-| 21 | `us.hboom.ai` | $0.03 | $0.03 | Azure-Mid | 0.3 | text-embedding-ada-002 |
-| 22 | `www.wolfai.top` | $0.04 | $0.04 | user | 0.4 | text-embedding-ada-002 |
-| 23 | `runapi.co` | $0.04 | $0.04 | default | 1 | text-embedding-ada-002 |
-| 24 | `go.sbgpt.site` | $0.048 | $0.048 | 无审核az-0.38 | 0.48 | text-embedding-ada-002 |
-| 25 | `api.openai-labs.com` | $0.05 | $0.1 | g1 | 0.5 | text-embedding-ada-002 |
-| 26 | `kfcv50.link` | $0.05 | $0.05 | az_act05 | 0.5 | text-embedding-ada-002 |
-| 27 | `api2.linkapi.ai` | $0.05 | $0.0 | azureopenai | 0.5 | text-embedding-ada-002 |
-| 28 | `linkapi.cc` | $0.05 | $0.0 | azureopenai | 0.5 | text-embedding-ada-002 |
-| 29 | `proaiapi.com` | $0.052 | $0.052 | default | 1 | text-embedding-ada-002 |
-| 30 | `www.vectorengine.ai` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 31 | `www.yunwu.ai` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 32 | `api.yunwu.ai` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 33 | `apipro.maynor1024.live` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 34 | `yunwu.ai` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 35 | `aiapihub.cloud` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 36 | `api-hub.vip` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 37 | `apixin.cn` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 38 | `fluxapi.top` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 39 | `qianfufu.top` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 40 | `sg.mux.la` | $0.06 | $0.12 | GPT-AZ-Pro | 0.6 | text-embedding-ada-002 |
-| 41 | `sparkapi.cn` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 42 | `uouo.fun` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 43 | `vectorengine.top` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 44 | `yunshu.hk` | $0.06 | $0.06 | 限时特价 | 0.6 | text-embedding-ada-002 |
-| 45 | `poloai.top` | $0.08 | $0.08 | 低价福利 \| 波动临时资源 | 0.8 | text-embedding-ada-002 |
-| 46 | `aiapi.hk` | $0.08 | $0.08 | 向量官方渠道 | 0.8 | text-embedding-ada-002 |
-| 47 | `api2.poloai.top` | $0.08 | $0.08 | 低价福利 \| 波动临时资源 | 0.8 | text-embedding-ada-002 |
-| 48 | `www.koalaapi.com` | $0.085 | $0.085 | 企业推荐全模型分组 | 0.85 | text-embedding-ada-002 |
-| 49 | `koalaapi.com` | $0.085 | $0.085 | 企业推荐全模型分组 | 0.85 | text-embedding-ada-002 |
-| 50 | `koalaapi.ai` | $0.085 | $0.085 | 企业推荐全模型分组 | 0.85 | text-embedding-ada-002 |
-| 51 | `aiapi.world` | $0.09826 | $0.0 | default | 0.1445 | text-embedding-ada-002 |
-| 52 | `123api.co` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 53 | `ai.vstecscloud.com` | $0.1 | $0.1 | 三游宝-新 | 1 | text-embedding-ada-002 |
-| 54 | `api.hopeai.cc` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 55 | `api.mountainsea.ai` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 56 | `api.tenzen.ai` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 57 | `api.xistree.hk` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 58 | `api.yuboar.com` | $0.1 | $0.2 | AzureOpenAI | 1 | text-embedding-ada-002 |
-| 59 | `codechn.com` | $0.1 | $0.2 | gpt/grok | 1 | text-embedding-ada-002 |
-| 60 | `hk.tenzen.ai` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 61 | `api.apiyi.com` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 62 | `api.bltcy.ai` | $0.1 | $0.1 | svip | 1 | text-embedding-ada-002 |
-| 63 | `api.laozhang.ai` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 64 | `api.nekoapi.com` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 65 | `crazyrouter.com` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 66 | `api-x.vip` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 67 | `nbapi.net` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 68 | `nekoapi.com` | $0.1 | $0.1 | default | 1 | text-embedding-ada-002 |
-| 69 | `newapi.link` | $0.1 | $0.1 | 备用 | 1 | text-embedding-ada-002 |
-| 70 | `rockapi.ai` | $0.1 | $1e-06 | default | 1 | text-embedding-ada-002 |
-| 71 | `rockapi.com` | $0.1 | $1e-06 | default | 1 | text-embedding-ada-002 |
-| 72 | `api.vakv.cn` | $0.125 | $0.25 | 1848 | 1.25 | text-embedding-ada-002 |
-| 73 | `vakv.cn` | $0.125 | $0.25 | 1848 | 1.25 | text-embedding-ada-002 |
-| 74 | `api.open.xiaojingai.com` | $0.14 | $0.14 | azure2 | 1.4 | text-embedding-ada-002 |
-| 75 | `ai.ydcloud.org` | $0.15 | $0.3 | az gpt | 1.5 | text-embedding-ada-002 |
-| 76 | `xrok.dev` | $0.15 | $0.15 | AZ-GPT-1.3 | 1.5 | text-embedding-ada-002 |
-| 77 | `api.xrok.dev` | $0.15 | $0.15 | AZ-GPT-1.3 | 1.5 | text-embedding-ada-002 |
-| 78 | `deepkey.top` | $0.16 | $0.16 | gpt-azure4 | 1.6 | text-embedding-ada-002 |
-| 79 | `dapicloud.com` | $0.18 | $0.18 | gpt-azure | 1.8 | text-embedding-ada-002 |
-| 80 | `www.dapicloud.com` | $0.18 | $0.18 | gpt-azure | 1.8 | text-embedding-ada-002 |
-| 81 | `infistar.cc` | $0.18352 | $0.18352 | chatgpt-azure | 1.835196 | text-embedding-ada-002 |
-| 82 | `www.infistar.cc` | $0.18352 | $0.18352 | chatgpt-azure | 1.835196 | text-embedding-ada-002 |
-| 83 | `4sapi.com` | $0.2 | $0.2 | default | 2 | text-embedding-ada-002 |
-| 84 | `4sapi.ai` | $0.2 | $0.2 | default | 2 | text-embedding-ada-002 |
-| 85 | `4sapi.dev` | $0.2 | $0.2 | default | 2 | text-embedding-ada-002 |
-| 86 | `4sapi.net` | $0.2 | $0.2 | default | 2 | text-embedding-ada-002 |
-| 87 | `4sapi.top` | $0.2 | $0.2 | default | 2 | text-embedding-ada-002 |
-| 88 | `4sapi.club` | $0.2 | $0.2 | default | 2 | text-embedding-ada-002 |
-| 89 | `bikip.pro` | $0.22 | $0.22 | default | 1 | text-embedding-ada-002 |
-| 90 | `www.laysoai.com` | $0.2275 | $0.2275 | Azure-Gpt-2 | 2.275 | text-embedding-ada-002 |
-| 91 | `vip.yinli.one` | $0.25 | $0.25 | 聚合分组稳定性95% | 2.5 | text-embedding-ada-002 |
-| 92 | `1024token.xyz` | $0.26 | $0.26 | azure-gpt | 2.6 | text-embedding-ada-002 |
-| 93 | `api.wochirou.com` | $0.4 | $0.0 | openai_direct_mini | 4 | text-embedding-ada-002 |
-| 94 | `www.claudecn.top` | $0.7 | $0.0 | 正价Openai | 7 | text-embedding-ada-002 |
-| 95 | `claudecn.top` | $0.7 | $0.0 | 正价Openai | 7 | text-embedding-ada-002 |
-| 96 | `freegpt.tech` | $0.7 | $0.7 | default | 7 | text-embedding-ada-002 |
-| 97 | `jp.claudecn.top` | $0.7 | $0.0 | 正价Openai | 7 | text-embedding-ada-002 |
-| 98 | `www.huablog.xyz` | $0.75 | $0.0 | embedding | 1 | text-embedding-ada-002 |
-| 99 | `jp.huablog.org` | $0.75 | $0.0 | embedding | 1 | text-embedding-ada-002 |
-| 100 | `paw.v1chat.cc` | $1 | $1.0 | default | 1 | text-embedding-ada-002 |
-| 101 | `api.dzzi.ai` | $150 | $150.0 | 按量 | 2 | text-embedding-ada-002 |
+| 1 | `v2.cloudmist.cloud` | $0.00506 | $0.00506 | Azure-Gpt-1 | 0.0506 | text-embedding-ada-002 |
+| 2 | `www.vectronode.com` | $0.00528 | $0.00528 | Azure-Gpt-1 | 0.0528 | text-embedding-ada-002 |
+| 3 | `ciyuan.today` | $0.0055 | $0.0055 | Azure-Gpt-1 | 0.055 | text-embedding-ada-002 |
+| 4 | `gptapi.top` | $0.0055 | $0.0055 | Azure-Gpt-1 | 0.055 | text-embedding-ada-002 |
+| 5 | `makerend.com` | $0.0055 | $0.0055 | Azure-Gpt-1 | 0.055 | text-embedding-ada-002 |
+| 6 | `moliapi.com` | $0.005544 | $0.005544 | Azure-Gpt-1 | 0.05544 | text-embedding-ada-002 |
+| 7 | `ai-api.cc` | $0.00572 | $0.00572 | Azure-Gpt-1 | 0.0572 | text-embedding-ada-002 |
+| 8 | `nodapi.com` | $0.005808 | $0.005808 | Azure-Gpt-1 | 0.05808 | text-embedding-ada-002 |
+| 9 | `anyaigc.ai` | $0.00594 | $0.00594 | Azure-Gpt-1 | 0.0594 | text-embedding-ada-002 |
+| 10 | `sheepaiplus.top` | $0.00616 | $0.00616 | Azure-Gpt-1 | 0.0616 | text-embedding-ada-002 |
+| 11 | `xiguapi.icu` | $0.00616 | $0.00616 | Azure-Gpt-1 | 0.0616 | text-embedding-ada-002 |
+| 12 | `api.videocaptioner.cn` | $0.0066 | $0.0066 | Azure-Gpt-1 | 0.066 | text-embedding-ada-002 |
+| 13 | `api.nixapi.com` | $0.007436 | $0.007436 | Azure-Gpt-1 | 0.07436 | text-embedding-ada-002 |
+| 14 | `aiwuje.com` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 15 | `api.echoflowai.cc` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 16 | `api.n1n.ai` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 17 | `api.quickrouter.ai` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 18 | `jeniya.cn` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 19 | `linoapi.com` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 20 | `llm-api.net` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 21 | `quanzil.cn` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 22 | `quanzil.com` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 23 | `token173.net` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 24 | `tryallapi.com` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 25 | `wellapi.ai` | $0.0088 | $0.0088 | Azure-Gpt-1 | 0.088 | text-embedding-ada-002 |
+| 26 | `thousandengine.com` | $0.008954 | $0.008954 | Azure-Gpt-1 | 0.08954 | text-embedding-ada-002 |
+| 27 | `zhangsan.yun` | $0.015 | $0.015 | image-2分组 | 0.15 | text-embedding-ada-002 |
+| 28 | `api.zyai.online` | $0.02 | $0.02 | mini | 0.5 | text-embedding-ada-002 |
+| 29 | `aiberm.com` | $0.023 | $0.023 | default | 0.23 | openai/text-embedding-ada-002 |
+| 30 | `ifapi.org` | $0.023 | $0.023 | 智能熔断 | 1 | text-embedding-ada-002 |
+| 31 | `hboom.ai` | $0.03 | $0.03 | Azure-Mid | 0.3 | text-embedding-ada-002 |
+| 32 | `hk.hbapis.com` | $0.03 | $0.03 | Azure-Mid | 0.3 | text-embedding-ada-002 |
+| 33 | `test-api.apiqik.online` | $0.03 | $0.03 | openai | 0.3 | text-embedding-ada-002 |
+| 34 | `runapi.co` | $0.04 | $0.04 | default | 1 | text-embedding-ada-002 |
+| 35 | `wolfai.top` | $0.04 | $0.04 | user | 0.4 | text-embedding-ada-002 |
+| 36 | `go.sbgpt.site` | $0.048 | $0.048 | 无审核az-0.4倍率 | 0.48 | text-embedding-ada-002 |
+| 37 | `api.aliyunfuwu.top` | $0.05 | $0 | relay | 0.5 | text-embedding-ada-002 |
+| 38 | `api.openai-labs.com` | $0.05 | $0.1 | g1 | 0.5 | text-embedding-ada-002 |
+| 39 | `kfcv50.link` | $0.05 | $0.05 | az_act05 | 0.5 | text-embedding-ada-002 |
+| 40 | `linkapi.ai` | $0.05 | $0 | azureopenai | 0.5 | text-embedding-ada-002 |
+| 41 | `newapi.prorisehub.com` | $0.05 | $0 | Embedding & Reranker | 0.5 | text-embedding-ada-002 |
+| 42 | `proaiapi.tech` | $0.052 | $0.052 | default | 1 | text-embedding-ada-002 |
+| 43 | `daoxe.com` | $0.06 | $0.12 | Embedding & Reranker | 0.6 | text-embedding-ada-002 |
+| 44 | `mux.la` | $0.06 | $0.12 | GPT-AZ-Pro | 0.6 | text-embedding-ada-002 |
+| 45 | `www.msuicode.com` | $0.06 | $0.06 | gpt | 0.6 | text-embedding-ada-002 |
+| 46 | `ai2.qiqiai.top` | $0.08 | $0 | azure | 0.8 | text-embedding-ada-002 |
+| 47 | `aiapi.hk` | $0.08 | $0.08 | 向量官方渠道 | 0.8 | text-embedding-ada-002 |
+| 48 | `api.nbility.ai` | $0.08 | $0.08 | embedding | 0.8 | text-embedding-ada-002 |
+| 49 | `cn.gptapi.asia` | $0.08 | $0 | default | 0.8 | text-embedding-ada-002 |
+| 50 | `hk.moleapi.com` | $0.08 | $0.16 | discount | 0.8 | text-embedding-ada-002 |
 
-[← 返回索引](index.md)
+> 另有 98 站未列出；65 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

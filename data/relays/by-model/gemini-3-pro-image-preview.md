@@ -1,208 +1,60 @@
 # gemini-3-pro-image-preview
 
-> 495 家 · 最低 **$1.44e-05** @ `zz.xcwang.cn` · 推算价（USD/1M 输入），未对账（仅列前 200）
-
-| # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|---|
-| 1 | `zz.xcwang.cn` | $1.44e-05 | $0.0 | vip | 1 | gemini-3-pro-image-preview |
-| 2 | `www.nexotoken.net` | $0.0345879 | $0.0 | AI图片 | 0.532851 | gemini-3-pro-image-preview |
-| 3 | `deepkey.top` | $0.24 | $14.4 | gemini-image | 0.12 | gemini-3-pro-image-preview |
-| 4 | `beeapi.top` | $0.3 | $120.0 | default | 1 | gemini-3-pro-image-preview |
-| 5 | `api.apiyi.com` | $0.44 | $26.4 | Gemini_Reverse | 0.5 | gemini-3-pro-image-preview |
-| 6 | `api.routeeasy.ai` | $0.5 | $30.0 | anti_gemini_0706_025_qing | 0.25 | gemini-3-pro-image-preview |
-| 7 | `runapi.co` | $0.58997 | $35.3982 | default | 1 | gemini-3-pro-image-preview |
-| 8 | `www.ddtnew.com` | $0.6 | $3.6 | Gemini(Antigravity) | 0.3 | google/gemini-3-pro-image-preview |
-| 9 | `koalaapi.com` | $0.6 | $36.0 | default | 0.3 | gemini-3-pro-image-preview |
-| 10 | `yujianwudi.top` | $0.6 | $3.6 | Gemini-pro | 0.3 | gemini-3-pro-image-preview |
-| 11 | `api.openai-labs.com` | $0.6 | $36.0 | geminicli | 0.3 | gemini-3-pro-image-preview |
-| 12 | `cf-api.o1key.com` | $0.6 | - | - | - | gemini-3-pro-image-preview |
-| 13 | `codexpert.top` | $0.6 | $3.6 | Gemini-Ultra分组（支持Gemini4！） | 0.3 | gemini-3-pro-image-preview |
-| 14 | `panel.hanhegufei.online` | $0.6 | $3.6 | gemini | 0.3 | gemini-3-pro-image-preview |
-| 15 | `www.koalaapi.com` | $0.6 | $36.0 | 一key官方中转全模型 | 0.3 | gemini-3-pro-image-preview |
-| 16 | `koalaapi.ai` | $0.6 | $36.0 | default | 0.3 | gemini-3-pro-image-preview |
-| 17 | `www.aiapikey.net` | $0.625 | - | Gemini | 0.5 | gemini-3-pro-image-preview |
-| 18 | `hk.hbapis.com` | $0.8 | $48.0 | Gemini-Mid | 0.4 | gemini-3-pro-image-preview |
-| 19 | `gw.hbapis.com` | $0.8 | $48.0 | Gemini-Mid | 0.4 | gemini-3-pro-image-preview |
-| 20 | `us.hboom.ai` | $0.8 | $48.0 | Gemini-Mid | 0.4 | gemini-3-pro-image-preview |
-| 21 | `api.bita-api.com` | $0.96 | $57.6 | gemini-high | 0.48 | gemini-3-pro-image-preview |
-| 22 | `bita-api-production.up.railway.app` | $0.96 | $57.6 | gemini-high | 0.48 | gemini-3-pro-image-preview |
-| 23 | `modelsell.com` | $1 | $60.0 | Google AI Studio | 0.5 | gemini-3-pro-image-preview |
-| 24 | `uuapi.net` | $1 | $6.0 | Gemini 3.8 | 0.5 | gemini-3-pro-image-preview |
-| 25 | `uuapi.io` | $1 | $6.0 | Gemini 3.8 | 0.5 | gemini-3-pro-image-preview |
-| 26 | `api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 27 | `sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 28 | `vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 29 | `ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 30 | `www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 31 | `cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 32 | `hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 33 | `gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 34 | `2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 35 | `91token.ai` | $1 | $60.0 | 个人用户组 | 0.5 | gemini-3-pro-image-preview |
-| 36 | `ai2.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 37 | `ai2.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 38 | `ai2.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 39 | `ai2.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 40 | `ai2.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 41 | `ai2.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 42 | `ai2.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 43 | `ai2.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 44 | `ai2.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 45 | `api2.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 46 | `api2.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 47 | `api2.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 48 | `api2.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 49 | `api2.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 50 | `api2.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 51 | `api3.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 52 | `api3.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 53 | `api3.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 54 | `api3.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 55 | `api3.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 56 | `api3.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 57 | `api3.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 58 | `claude.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 59 | `claude.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 60 | `claude.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 61 | `claude.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 62 | `claude.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 63 | `claude.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 64 | `claude.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 65 | `claude.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 66 | `gemini.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 67 | `gemini.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 68 | `gemini.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 69 | `gemini.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 70 | `gemini.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 71 | `gemini.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 72 | `gemini.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 73 | `gemini.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 74 | `gpt.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 75 | `gpt.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 76 | `gpt.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 77 | `gpt.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 78 | `gpt.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 79 | `gpt.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 80 | `gpt.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 81 | `gpt.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 82 | `gpt.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 83 | `gpt.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 84 | `grok.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 85 | `grok.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 86 | `grok.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 87 | `grok.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 88 | `grok.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 89 | `grok.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 90 | `grok.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 91 | `grok.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 92 | `grok.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 93 | `gw2.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 94 | `gw2.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 95 | `gw2.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 96 | `gw2.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 97 | `gw2.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 98 | `gw2.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 99 | `gw2.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 100 | `hk2.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 101 | `hk2.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 102 | `hk2.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 103 | `hk2.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 104 | `hk2.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 105 | `hk2.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 106 | `hk2.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 107 | `hk2.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 108 | `jp.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 109 | `jp.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 110 | `jp.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 111 | `jp.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 112 | `jp.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 113 | `jp.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 114 | `jp.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 115 | `llm.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 116 | `llm.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 117 | `llm.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 118 | `llm.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 119 | `llm.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 120 | `llm.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 121 | `llm.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 122 | `llm.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 123 | `llm.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 124 | `llm.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 125 | `mirror.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 126 | `mirror.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 127 | `mirror.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 128 | `mirror.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 129 | `mirror.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 130 | `mirror.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 131 | `mirror.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 132 | `mirror.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 133 | `mirror.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 134 | `mirror.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 135 | `openai.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 136 | `openai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 137 | `openai.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 138 | `openai.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 139 | `openai.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 140 | `openai.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 141 | `openai.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 142 | `openai.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 143 | `ai2.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 144 | `api2.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 145 | `api2.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 146 | `api2.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 147 | `api2.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 148 | `api3.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 149 | `api3.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 150 | `claude.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 151 | `gemini.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 152 | `grok.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 153 | `gw2.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 154 | `hk2.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 155 | `jp.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 156 | `jp.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 157 | `openai.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 158 | `openai.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 159 | `proxy.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 160 | `proxy.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 161 | `proxy.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 162 | `proxy.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 163 | `proxy.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 164 | `proxy.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 165 | `proxy.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 166 | `proxy.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 167 | `relay.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 168 | `relay.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 169 | `relay.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 170 | `relay.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 171 | `relay.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 172 | `relay.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 173 | `relay.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 174 | `relay.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 175 | `relay.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 176 | `sg.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 177 | `sg.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 178 | `sg.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 179 | `sg.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 180 | `sg.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 181 | `sg.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 182 | `sg.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 183 | `sg.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 184 | `sg.www.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 185 | `tw.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 186 | `tw.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 187 | `tw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 188 | `tw.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 189 | `tw.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 190 | `tw.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 191 | `tw.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 192 | `tw.vip.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 193 | `us.2api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 194 | `us.ai.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 195 | `us.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 196 | `us.api.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 197 | `us.cn.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 198 | `us.gw.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 199 | `us.hk.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
-| 200 | `us.sub.api-x.top` | $1 | $6.0 | default | 0.5 | gemini-3-pro-image-preview |
+> 544 站提供 · 正常价 328 站 · 中位价 **$0.2**（$/次）· 推算，未对账
 
 [← 返回索引](index.md)
+
+| # | 站点 | 每次 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `api.banban.plus` | $0.0116438 | KB banana-稳定生图 | 0.085 | gemini-3-pro-image-preview |
+| 2 | `api.apikl.ai` | $0.02 | Gemini | 0.2 | gemini-3-pro-image-preview |
+| 3 | `app.yylx.io` | $0.02 | Gemini Nano Banana | 1 | gemini-3-pro-image-preview |
+| 4 | `api.openlux.ai` | $0.0242649 | Discounted-Banana-1 | 0.07353 | gemini-3-pro-image-preview |
+| 5 | `api.relayrouter.ai` | $0.0242649 | Discounted-Banana-1 | 0.07353 | gemini-3-pro-image-preview |
+| 6 | `api.tidewhisper-ai.xyz` | $0.0266914 | Discounted-Banana-1 | 0.080883 | gemini-3-pro-image-preview |
+| 7 | `gzxbykj.com` | $0.0266914 | Discounted-Banana-1 | 0.080883 | gemini-3-pro-image-preview |
+| 8 | `ai.hebox.net` | $0.0273973 | 香蕉nano-banana | 0.02 | gemini-3-pro-image-preview |
+| 9 | `v2.cloudmist.cloud` | $0.0279046 | Discounted-Banana-1 | 0.0845595 | gemini-3-pro-image-preview |
+| 10 | `api.lingzhouai.com` | $0.0285714 | gemini image分组 | 1 | gemini-3-pro-image-preview |
+| 11 | `www.vectronode.com` | $0.0291179 | Discounted-Banana-1 | 0.088236 | gemini-3-pro-image-preview |
+| 12 | `sub.vcnovb.cn` | $0.03 | Anit Gemini | 0.2 | gemini-3-pro-image-preview |
+| 13 | `ciyuan.today` | $0.0303311 | Discounted-Banana-1 | 0.0919125 | gemini-3-pro-image-preview |
+| 14 | `gptapi.top` | $0.0303311 | Discounted-Banana-1 | 0.0919125 | gemini-3-pro-image-preview |
+| 15 | `makerend.com` | $0.0303311 | Discounted-Banana-1 | 0.0919125 | gemini-3-pro-image-preview |
+| 16 | `moliapi.com` | $0.0305738 | Discounted-Banana-1 | 0.0926478 | gemini-3-pro-image-preview |
+| 17 | `ai-api.cc` | $0.0315444 | Discounted-Banana-1 | 0.095589 | gemini-3-pro-image-preview |
+| 18 | `nodapi.com` | $0.0320297 | Discounted-Banana-1 | 0.0970596 | gemini-3-pro-image-preview |
+| 19 | `anyaigc.ai` | $0.0327576 | Discounted-Banana-1 | 0.0992655 | gemini-3-pro-image-preview |
+| 20 | `sheepaiplus.top` | $0.0339709 | Discounted-Banana-1 | 0.102942 | gemini-3-pro-image-preview |
+| 21 | `xiguapi.icu` | $0.0339709 | Discounted-Banana-1 | 0.102942 | gemini-3-pro-image-preview |
+| 22 | `116.62.113.242` | $0.0345 | 视频模型聚合 | 0.07 | gemini-3-pro-image-preview |
+| 23 | `synthapi.asia` | $0.0345 | 视频模型聚合 | 0.07 | gemini-3-pro-image-preview |
+| 24 | `api.videocaptioner.cn` | $0.0363974 | Discounted-Banana-1 | 0.110295 | gemini-3-pro-image-preview |
+| 25 | `heilovehei.com` | $0.0375 | 反重力 gemini | 0.25 | gemini-3-pro-image-preview |
+| 26 | `api.nixapi.com` | $0.0410077 | Discounted-Banana-1 | 0.124266 | gemini-3-pro-image-preview |
+| 27 | `sub2api.luchikey.com` | $0.0469 | Gemini-Pro | 0.35 | gemini-3-pro-image-preview |
+| 28 | `nbapi.pro` | $0.048 | default | 1 | gemini-3-pro-image-preview |
+| 29 | `aiwuje.com` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 30 | `api.echoflowai.cc` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 31 | `api.n1n.ai` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 32 | `api.quickrouter.ai` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 33 | `jeniya.cn` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 34 | `linoapi.com` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 35 | `llm-api.net` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 36 | `quanzil.com` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 37 | `token173.net` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 38 | `tryallapi.com` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 39 | `wellapi.ai` | $0.0485298 | Discounted-Banana-1 | 0.14706 | gemini-3-pro-image-preview |
+| 40 | `thousandengine.com` | $0.0493791 | Discounted-Banana-1 | 0.149634 | gemini-3-pro-image-preview |
+| 41 | `aceoai.com` | $0.05 | google-img专用 | 1 | gemini-3-pro-image-preview |
+| 42 | `api.klong.lat` | $0.05 | 香蕉分组 | 0.05 | gemini-3-pro-image-preview |
+| 43 | `api.rua.chat` | $0.05 | 生图 | 1 | gemini-3-pro-image-preview |
+| 44 | `api2.aigcbest.top` | $0.05 | default | 1 | gemini-3-pro-image-preview-all |
+| 45 | `toapis.com` | $0.05 | default | 1 | gemini-3-pro-image-preview |
+| 46 | `ifapi.org` | $0.0536 | 智能熔断 | 1 | gemini-3-pro-image-preview |
+| 47 | `aiberm.com` | $0.054625 | default | 0.23 | gemini-3-pro-image-preview |
+| 48 | `yyds.chybenzun.top` | $0.055 | 【X】香蕉 adobe (过夜，10-18点限流)  | 1 | gemini-3-pro-image-preview |
+| 49 | `tu.988236.xyz` | $0.057144 | 低价gemni生图 | 0.7143 | gemini-3-pro-image-preview |
+| 50 | `ai.cangyuansuanli.cn` | $0.06 | 全模型-无claude/gpt | 1 | gemini-3-pro-image-preview |
+
+> 另有 278 站未列出；216 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

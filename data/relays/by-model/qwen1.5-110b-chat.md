@@ -1,17 +1,20 @@
 # qwen1.5-110b-chat
 
-> 9 家 · 最低 **$2** @ `supertoken.pro` · 推算价（USD/1M 输入），未对账
+> 26 站提供 · 正常价 10 站 · 中位价 **$3.57**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `supertoken.pro` | $2 | $2.0 | 千问 | 1 | qwen1.5-110b-chat |
-| 2 | `cn.api.zyai.online` | $3.5 | $7.0 | mini | 0.5 | qwen1.5-110b-chat |
-| 3 | `api.zyai.online` | $3.5 | $7.0 | mini | 0.5 | qwen1.5-110b-chat |
-| 4 | `api.bltcy.ai` | $4.9 | $9.8 | 国产特价 | 0.7 | qwen1.5-110b-chat |
-| 5 | `kfcv50.link` | $7 | $14.0 | Domestic | 1 | qwen1.5-110b-chat |
-| 6 | `rockapi.ai` | $52.5 | $52.5 | 0.7x | 0.7 | qwen1.5-110b-chat |
-| 7 | `rockapi.com` | $52.5 | $52.5 | 0.7x | 0.7 | qwen1.5-110b-chat |
-| 8 | `www.vectorengine.ai` | $75 | $75.0 | default | 1 | qwen1.5-110b-chat |
-| 9 | `vectorengine.top` | $75 | $75.0 | default | 1 | qwen1.5-110b-chat |
+| 1 | `ai.nodeloc.com` | $1.75 | $3.5 | default | 1 | Qwen/Qwen1.5-110B-Chat |
+| 2 | `gpt-api.cc` | $1.75 | $3.5 | default | 1 | Qwen/Qwen1.5-110B-Chat |
+| 3 | `happyapi.org` | $1.75 | $3.5 | vip | 1 | Qwen/Qwen1.5-110B-Chat |
+| 4 | `supertoken.pro` | $2 | $2 | 千问 | 1 | qwen1.5-110b-chat |
+| 5 | `api.zyai.online` | $3.5 | $7 | mini | 0.5 | qwen1.5-110b-chat |
+| 6 | `api2.aigcbest.top` | $3.64 | $7.28 | 通用大模型 | 0.26 | qwen1.5-110b-chat |
+| 7 | `aws.baby` | $5.71429 | $5.71429 | 阿里云百炼大客户 | 1 | qwen1.5-110b-chat |
+| 8 | `api.ocoolai.com` | $6.65 | $13.3 | cn | 0.95 | qwen1.5-110b-chat |
+| 9 | `kfcv50.link` | $7 | $14 | Domestic | 1 | qwen1.5-110b-chat |
+| 10 | `wrduai.com` | $7 | $14 | 官转 | 1 | qwen1.5-110b-chat |
 
-[← 返回索引](index.md)
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

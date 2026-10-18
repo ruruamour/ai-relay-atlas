@@ -1,103 +1,60 @@
 # gemini-2.5-flash-preview-tts
 
-> 95 家 · 最低 **$0.04** @ `cn.ai-api.loft.games` · 推算价（USD/1M 输入），未对账
+> 145 站提供 · 正常价 128 站 · 中位价 **$1.2**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `cn.ai-api.loft.games` | $0.04 | $0.8 | test | 0.08 | gemini-2.5-flash-preview-tts |
-| 2 | `mux.la` | $0.1 | $2.0 | Gemini-Lite | 0.2 | gemini-2.5-flash-preview-tts |
-| 3 | `www.ddtnew.com` | $0.15 | $3.0 | Gemini(Antigravity) | 0.3 | gemini-2.5-flash-preview-tts |
-| 4 | `yujianwudi.top` | $0.15 | $3.0 | Gemini-pro | 0.3 | gemini-2.5-flash-preview-tts |
-| 5 | `www.aiapikey.net` | $0.15 | - | Gemini | 0.5 | gemini-2.5-flash-preview-tts |
-| 6 | `hk.hbapis.com` | $0.2 | $4.0 | Gemini-Mid | 0.4 | gemini-2.5-flash-preview-tts |
-| 7 | `gw.hbapis.com` | $0.2 | $4.0 | Gemini-Mid | 0.4 | gemini-2.5-flash-preview-tts |
-| 8 | `us.hboom.ai` | $0.2 | $4.0 | Gemini-Mid | 0.4 | gemini-2.5-flash-preview-tts |
-| 9 | `api.openlux.ai` | $0.22059 | $4.4118 | Aistudio-Gemini-3 | 0.44118 | gemini-2.5-flash-preview-tts |
-| 10 | `api.relayrouter.ai` | $0.22059 | $4.4118 | Aistudio-Gemini-3 | 0.44118 | gemini-2.5-flash-preview-tts |
-| 11 | `relayrouter.ai` | $0.22059 | $4.4118 | Aistudio-Gemini-3 | 0.44118 | gemini-2.5-flash-preview-tts |
-| 12 | `api.apiyi.com` | $0.25 | - | Gemini_Reverse | 0.5 | gemini-2.5-flash-preview-tts |
-| 13 | `91token.ai` | $0.25 | $5.0 | 个人用户组 | 0.5 | gemini-2.5-flash-preview-tts |
-| 14 | `v2.cloudmist.cloud` | $0.253678 | $5.07357 | Aistudio-Gemini-3 | 0.507357 | gemini-2.5-flash-preview-tts |
-| 15 | `gptapi.top` | $0.275738 | $5.51476 | Aistudio-Gemini-3 | 0.551475 | gemini-2.5-flash-preview-tts |
-| 16 | `moliapi.com` | $0.277943 | $5.55886 | Aistudio-Gemini-3 | 0.5558868 | gemini-2.5-flash-preview-tts |
-| 17 | `ai-api.cc` | $0.286767 | $5.73534 | Aistudio-Gemini-3 | 0.573534 | gemini-2.5-flash-preview-tts |
-| 18 | `nodapi.com` | $0.291179 | $5.82358 | Aistudio-Gemini-3 | 0.5823576 | gemini-2.5-flash-preview-tts |
-| 19 | `anyaigc.ai` | $0.297797 | $5.95594 | Aistudio-Gemini-3 | 0.595593 | gemini-2.5-flash-preview-tts |
-| 20 | `xiguapi.cc` | $0.308826 | $6.17652 | Aistudio-Gemini-3 | 0.617652 | gemini-2.5-flash-preview-tts |
-| 21 | `rockapi.ai` | $0.35 | $7.0 | 0.7x | 0.7 | gemini-2.5-flash-preview-tts |
-| 22 | `rockapi.com` | $0.35 | $7.0 | 0.7x | 0.7 | gemini-2.5-flash-preview-tts |
-| 23 | `quanzil.com` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 24 | `tryallapi.com` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 25 | `jeniya.cn` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 26 | `api.n1n.ai` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 27 | `jeniya.cc` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 28 | `llm-api.dev` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 29 | `quanzil.cn` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 30 | `quanzil.net` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
-| 31 | `api.routeeasy.ai` | $0.45 | $0.45 | gemini_studio_09 | 0.9 | gemini-2.5-flash-preview-tts |
-| 32 | `thousandengine.com` | $0.485298 | $9.70596 | Aistudio-Gemini-3 | 0.9705960000000001 | gemini-2.5-flash-preview-tts |
-| 33 | `us-1.rcouyi.com` | $0.5 | $10.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 34 | `www.micuapi.ai` | $0.5 | $10.0 | - | - | gemini-2.5-flash-preview-tts |
-| 35 | `api.rcouyi.com` | $0.5 | $10.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 36 | `console.qqqrouter.ai` | $0.5 | $10.0 | Gemini_Vertex直连 | 1 | gemini-2.5-flash-preview-tts |
-| 37 | `api.openai-labs.com` | $0.5 | $10.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 38 | `123api.co` | $0.5 | $10.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 39 | `api.yuboar.com` | $0.5 | $10.0 | Gemini | 1 | gemini-2.5-flash-preview-tts |
-| 40 | `api.vveai.com` | $0.75 | $15.0 | gemini | 1.5 | gemini-2.5-flash-preview-tts |
-| 41 | `api.hoxkai.top` | $0.85 | $17.0 | gemini | 1.7 | gemini-2.5-flash-preview-tts |
-| 42 | `botcf.com` | $0.99 | $19.8 | 📐gemini-vertex | 1.98 | gemini-2.5-flash-preview-tts |
-| 43 | `ai.ydcloud.org` | $1 | $20.0 | aistudio | 2 | gemini-2.5-flash-preview-tts |
-| 44 | `kfcv50.link` | $1 | $1.0 | gemini_mix_0329_20 | 2 | gemini-2.5-flash-preview-tts |
-| 45 | `api.vectorengine.ai` | $1.2 | $24.0 | 优质gemini | 2.4 | gemini-2.5-flash-preview-tts |
-| 46 | `api.vectorengine.cn` | $1.2 | $24.0 | 优质gemini | 2.4 | gemini-2.5-flash-preview-tts |
-| 47 | `www.xiaoruiera.top` | $1.2 | $24.0 | 优质gemini | 2.4 | gemini-2.5-flash-preview-tts |
-| 48 | `www.vectorengine.ai` | $1.2 | $24.0 | 优质gemini | 2.4 | gemini-2.5-flash-preview-tts |
-| 49 | `vectorengine.top` | $1.2 | $24.0 | 优质gemini | 2.4 | gemini-2.5-flash-preview-tts |
-| 50 | `pro.gemai.cc` | $1.25 | $25.0 | Gemini Vertex | 2.5 | gemini-2.5-flash-preview-tts |
-| 51 | `api2.4xapi.com` | $1.25 | $25.0 | Gemini-vertex | 2.5 | gemini-2.5-flash-preview-tts |
-| 52 | `poloai.top` | $1.5 | $30.0 | gemini-号池 | 3 | gemini-2.5-flash-preview-tts |
-| 53 | `poloapi.top` | $1.5 | $30.0 | gemini-号池 | 3 | gemini-2.5-flash-preview-tts |
-| 54 | `api.zyai.online` | $1.5 | $1.5 | Banana2_VIP | 3 | gemini-2.5-flash-preview-tts |
-| 55 | `cn.api.zyai.online` | $1.5 | $1.5 | Banana2_VIP | 3 | gemini-2.5-flash-preview-tts |
-| 56 | `api2.poloai.top` | $1.5 | $30.0 | gemini-号池 | 3 | gemini-2.5-flash-preview-tts |
-| 57 | `4sapi.org` | $1.75 | $35.0 | Gemini优质分组 | 3.5 | gemini-2.5-flash-preview-tts |
-| 58 | `4sapi.com` | $1.75 | $35.0 | Gemini优质分组 | 3.5 | gemini-2.5-flash-preview-tts |
-| 59 | `claude.4sapi.com` | $1.75 | $35.0 | gemini-优质分组 | 3.5 | gemini-2.5-flash-preview-tts |
-| 60 | `yunwu.ai` | $1.8 | $36.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
-| 61 | `anyaigc.com` | $1.8 | $36.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
-| 62 | `api.zhongzhuan.chat` | $1.8 | $36.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
-| 63 | `vipapi.online` | $1.8 | $36.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
-| 64 | `api.qingyuntop.top` | $1.8 | $36.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
-| 65 | `api.winfull.cloud-ip.cc` | $1.8 | $36.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
-| 66 | `api.147ai.cn` | $2 | $40.0 | gemini | 4 | gemini-2.5-flash-preview-tts |
-| 67 | `proaiapi.com` | $2 | $40.0 | 官转 | 8 | gemini-2.5-flash-preview-tts |
-| 68 | `4sapi.ai` | $2.5 | $50.0 | Gemini-官方 | 5 | gemini-2.5-flash-preview-tts |
-| 69 | `4sapi.dev` | $2.5 | $50.0 | Gemini-官方 | 5 | gemini-2.5-flash-preview-tts |
-| 70 | `4sapi.net` | $2.5 | $50.0 | Gemini-官方 | 5 | gemini-2.5-flash-preview-tts |
-| 71 | `4sapi.top` | $2.5 | $50.0 | Gemini-官方 | 5 | gemini-2.5-flash-preview-tts |
-| 72 | `4sapi.club` | $2.5 | $50.0 | Gemini-官方 | 5 | gemini-2.5-flash-preview-tts |
-| 73 | `www.yunwu.ai` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 74 | `api.yunwu.ai` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 75 | `apipro.maynor1024.live` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 76 | `aiapihub.cloud` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 77 | `api-hub.vip` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 78 | `apixin.cn` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 79 | `fluxapi.top` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 80 | `qianfufu.top` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 81 | `sparkapi.cn` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 82 | `uouo.fun` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 83 | `yunshu.hk` | $3 | $60.0 | 优质官转gemini | 6 | gemini-2.5-flash-preview-tts |
-| 84 | `www.laysoai.com` | $3.575 | $71.5 | Vertex-Gemini-3 | 7.15 | gemini-2.5-flash-preview-tts |
-| 85 | `magic666.top` | $5.25 | $5.25 | gemini-nx | 0.35 | gemini-2.5-flash-preview-tts |
-| 86 | `officesai.top` | $14 | $280.0 | Image绘图 4K | 1 | gemini-2.5-flash-preview-tts |
-| 87 | `api.apib.ai` | $15 | $15.0 | - | - | gemini-2.5-flash-preview-tts |
-| 88 | `api.xistree.hk` | $15 | $15.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 89 | `128api.cn` | $75 | $437.5 | default | 1 | gemini-2.5-flash-preview-tts |
-| 90 | `dollar.ruiyumaas.com` | $75 | $1750.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 91 | `api.hopeai.cc` | $75 | $1750.0 | default | 1 | gemini-2.5-flash-preview-tts |
-| 92 | `2api.powerapi.cc` | $112.5 | $2250.0 | gemini官转 | 1.5 | gemini-2.5-flash-preview-tts |
-| 93 | `api.kelaiapi.cc` | $187.5 | $4375.0 | Gemini | 2.5 | gemini-2.5-flash-preview-tts |
-| 94 | `www.kelaiapi.cc` | $187.5 | $4375.0 | Gemini | 2.5 | gemini-2.5-flash-preview-tts |
-| 95 | `tidewhisper-ai.xyz` | $270 | $6300.0 | 官转gemini | 3.6 | gemini-2.5-flash-preview-tts |
+| 1 | `xinyue.mom` | $0.065 | $1.3 | Gemini | 0.13 | gemini-2.5-flash-preview-tts |
+| 2 | `sub2api.simplaj.top` | $0.1 | $2 | Gemini | 0.2 | gemini-2.5-flash-preview-tts |
+| 3 | `ahao.online` | $0.125 | $2.5 | Gemini 反重力 | 0.25 | gemini-2.5-flash-preview-tts |
+| 4 | `ai.blue1.top` | $0.155 | $3.1 | Genimi Ultra | 0.31 | gemini-2.5-flash-preview-tts |
+| 5 | `test-api.apiqik.online` | $0.17 | $3.96667 | vertex/sp/gemini | 0.34 | gemini-2.5-flash-preview-tts |
+| 6 | `aiapibank.com` | $0.175 | $3.5 | Gemini Ultra分组 | 0.35 | gemini-2.5-flash-preview-tts |
+| 7 | `saletoken.org` | $0.175 | $3.5 | gemini-反重力 | 0.35 | gemini-2.5-flash-preview-tts |
+| 8 | `www.cybersol.net` | $0.175 | $3.5 | Gemini Lite | 0.35 | gemini-2.5-flash-preview-tts |
+| 9 | `hboom.ai` | $0.2 | $4 | Gemini-Mid | 0.4 | gemini-2.5-flash-preview-tts |
+| 10 | `hk.hbapis.com` | $0.2 | $4 | Gemini-Mid | 0.4 | gemini-2.5-flash-preview-tts |
+| 11 | `api.openlux.ai` | $0.22059 | $4.4118 | Aistudio-Gemini-3 | 0.44118 | gemini-2.5-flash-preview-tts |
+| 12 | `api.relayrouter.ai` | $0.22059 | $4.4118 | Aistudio-Gemini-3 | 0.44118 | gemini-2.5-flash-preview-tts |
+| 13 | `api.tidewhisper-ai.xyz` | $0.242649 | $4.85298 | Aistudio-Gemini-3 | 0.485298 | gemini-2.5-flash-preview-tts |
+| 14 | `gzxbykj.com` | $0.242649 | $4.85298 | Aistudio-Gemini-3 | 0.485298 | gemini-2.5-flash-preview-tts |
+| 15 | `91token.ai` | $0.25 | $5 | 个人用户组 | 0.5 | gemini-2.5-flash-preview-tts |
+| 16 | `v2.cloudmist.cloud` | $0.253678 | $5.07357 | Aistudio-Gemini-3 | 0.507357 | gemini-2.5-flash-preview-tts |
+| 17 | `www.vectronode.com` | $0.264708 | $5.29416 | Aistudio-Gemini-3 | 0.529416 | gemini-2.5-flash-preview-tts |
+| 18 | `ciyuan.today` | $0.275738 | $5.51475 | Aistudio-Gemini-3 | 0.551475 | gemini-2.5-flash-preview-tts |
+| 19 | `gptapi.top` | $0.275738 | $5.51475 | Aistudio-Gemini-3 | 0.551475 | gemini-2.5-flash-preview-tts |
+| 20 | `makerend.com` | $0.275738 | $5.51475 | Aistudio-Gemini-3 | 0.551475 | gemini-2.5-flash-preview-tts |
+| 21 | `moliapi.com` | $0.277943 | $5.55887 | Aistudio-Gemini-3 | 0.555887 | gemini-2.5-flash-preview-tts |
+| 22 | `ai-api.cc` | $0.286767 | $5.73534 | Aistudio-Gemini-3 | 0.573534 | gemini-2.5-flash-preview-tts |
+| 23 | `nodapi.com` | $0.291179 | $5.82358 | Aistudio-Gemini-3 | 0.582358 | gemini-2.5-flash-preview-tts |
+| 24 | `anyaigc.ai` | $0.297797 | $5.95593 | Aistudio-Gemini-3 | 0.595593 | gemini-2.5-flash-preview-tts |
+| 25 | `sheepaiplus.top` | $0.308826 | $6.17652 | Aistudio-Gemini-3 | 0.617652 | gemini-2.5-flash-preview-tts |
+| 26 | `xiguapi.icu` | $0.308826 | $6.17652 | Aistudio-Gemini-3 | 0.617652 | gemini-2.5-flash-preview-tts |
+| 27 | `api.videocaptioner.cn` | $0.330885 | $6.6177 | Aistudio-Gemini-3 | 0.66177 | gemini-2.5-flash-preview-tts |
+| 28 | `rockapi.ai` | $0.35 | $7 | 0.7x | 0.7 | gemini-2.5-flash-preview-tts |
+| 29 | `api.nixapi.com` | $0.372797 | $7.45594 | Aistudio-Gemini-3 | 0.745594 | gemini-2.5-flash-preview-tts |
+| 30 | `ai2.qiqiai.top` | $0.375 | $7.5 | gemini画图 | 0.75 | gemini-2.5-flash-preview-tts |
+| 31 | `aiwuje.com` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 32 | `api.echoflowai.cc` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 33 | `api.n1n.ai` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 34 | `api.quickrouter.ai` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 35 | `jeniya.cn` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 36 | `linoapi.com` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 37 | `llm-api.net` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 38 | `quanzil.cn` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 39 | `quanzil.com` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 40 | `token173.net` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 41 | `tryallapi.com` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 42 | `wellapi.ai` | $0.44118 | $8.8236 | Aistudio-Gemini-3 | 0.88236 | gemini-2.5-flash-preview-tts |
+| 43 | `thousandengine.com` | $0.448901 | $8.97801 | Aistudio-Gemini-3 | 0.897801 | gemini-2.5-flash-preview-tts |
+| 44 | `123api.co` | $0.5 | $10 | default | 1 | gemini-2.5-flash-preview-tts |
+| 45 | `api.bianxie.ai` | $0.5 | $10 | default | 1 | gemini-2.5-flash-preview-tts |
+| 46 | `api.openai-labs.com` | $0.5 | $10 | default | 1 | gemini-2.5-flash-preview-tts |
+| 47 | `api.orcarouter.ai` | $0.5 | $10 | default | 1 | google/gemini-2.5-flash-preview-tts |
+| 48 | `api.rcouyi.com` | $0.5 | $10 | default | 1 | gemini-2.5-flash-preview-tts |
+| 49 | `api.yuboar.com` | $0.5 | $10 | Gemini | 1 | gemini-2.5-flash-preview-tts |
+| 50 | `api2.aigcbest.top` | $0.5 | $10 | default | 1 | gemini-2.5-flash-preview-tts |
 
-[← 返回索引](index.md)
+> 另有 78 站未列出；17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

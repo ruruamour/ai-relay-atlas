@@ -1,22 +1,25 @@
 # kimi-k2.8
 
-> 14 家 · 最低 **$0.35** @ `www.tokenus.net` · 推算价（USD/1M 输入），未对账
+> 46 站提供 · 正常价 15 站 · 中位价 **$1.04**（$/1M 输入）· 推算，未对账
+
+[← 返回索引](index.md)
 
 | # | 站点 | 输入 | 输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.tokenus.net` | $0.35 | $1.4 | default | 1 | kimi-k2.8 |
-| 2 | `tokenus.cc` | $0.35 | $1.4 | default | 1 | kimi-k2.8 |
-| 3 | `zero.cat` | $0.65 | $2.7 | 【国模】特惠分组 | 0.1 | kimi-k2.8 |
-| 4 | `api.zero.cat` | $0.65 | $2.7 | 【国模】特惠分组 | 0.1 | kimi-k2.8 |
-| 5 | `hiapi.top` | $11.25 | $11.25 | 国模主力 | 0.15 | kimi-k2.8 |
-| 6 | `api.openai.fans` | $15 | $15.0 | Kimi-sale | 0.2 | kimi-k2.8 |
-| 7 | `api.tuftech.org` | $15 | $15.0 | Kimi-sale | 0.2 | kimi-k2.8 |
-| 8 | `api.988665.xyz` | $15 | $15.0 | Kimi | 0.2 | kimi-k2.8 |
-| 9 | `api.shqbb.com` | $45 | $45.0 | kimi | 0.6 | kimi-k2.8 |
-| 10 | `hk.gpt-agent.cc` | $60 | $300.0 | 国产模型 | 5 | kimi-k2.8 |
-| 11 | `new.fluapi.com` | $65 | $270.0 | default | 1 | kimi-k2.8 |
-| 12 | `svip.fluapi.com` | $65 | $270.0 | default | 1 | kimi-k2.8 |
-| 13 | `www.fluapi.com` | $65 | $270.0 | default | 1 | kimi-k2.8 |
-| 14 | `api.nyxos.shop` | $75 | $75.0 | AUTO-V2 | 1 | kimi-k2.8 |
+| 1 | `codelypixverse.com` | $0.0576923 | $0.0576923 | default | 1 | kimi-k2.8 |
+| 2 | `api.886365.xyz` | $0.3185 | $1.323 | 国模C3 | 0.049 | kimi-k2.8 |
+| 3 | `tokenus.net` | $0.35 | $1.4 | default | 1 | kimi-k2.8 |
+| 4 | `z30.top` | $0.39 | $1.62 | Kimi | 0.06 | kimi-k2.8 |
+| 5 | `big-model.smart-agi.com` | $0.56 | $2.24 | 1折国模（deepseek、glm、kimi） | 1 | kimi-k2.8 |
+| 6 | `a6api.com` | $1 | $1 | default | 1 | kimi-k2.8 |
+| 7 | `crowllm.com` | $1 | $3.99 | pro | 1 | kimi-k2.8 |
+| 8 | `heilovehei.com` | $1.04 | $4.32 | kimi | 0.16 | kimi-k2.8 |
+| 9 | `api.morecode.top` | $1.3 | $6.5 | default | 1 | kimi-k2.8 |
+| 10 | `aiapibank.com` | $1.95 | $8.1 | 月之暗面Kimi分组 | 0.3 | kimi-k2.8 |
+| 11 | `api.lcapi.online` | $6 | $30 | neuro-evil | 2 | kimi-k2.8 |
+| 12 | `api.llm-token.cn` | $12 | $60 | default | 1 | kimi-k2.8 |
+| 13 | `gpt-agent.cc` | $12 | $60 | default | 1 | kimi-k2.8 |
+| 14 | `new.passionapi.com` | $13 | $54 | 按量【国模渠道】 | 1 | kimi-k2.8 |
+| 15 | `new.fluapi.com` | $65 | $270 | default | 1 | kimi-k2.8 |
 
-[← 返回索引](index.md)
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
