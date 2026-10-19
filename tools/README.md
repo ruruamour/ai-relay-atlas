@@ -36,11 +36,24 @@ bash tools/build.sh
 | `build_stats.py` | 生成 `data/stats.md` |
 | `build_readme.py` | 生成 `README.md` |
 | `query.py` | 命令行查询：`model` / `site` / `find` |
+| `monitor.py` | 站点监控：存活、延迟、某模型是否在售、最低价，历史落盘；`report` / `drift` 出报告；`--probe` 需 `data/monitor/keys.txt` |
 | `normalize_shops.py` | 卡网数据归一（`data/raw/` → `data/shops/`） |
 | `common.py` | 共享：CSV、模型名归一、模型家族、域名归一 |
 | `discover/` | 找新站的方法（Veridrop、GitHub 名单、证书日志） |
 | `legacy/` | 早期一次性脚本，已停用 |
 | `prompts/` | 让 AI 代理执行扫描任务的提示词 |
+
+## 监控（monitor.py）
+
+```bash
+python3 tools/monitor.py add api.openlux.ai ccoo.ai     # 加进名单 data/monitor/targets.txt
+python3 tools/monitor.py run                            # 跑一轮，追加 data/monitor/history.csv
+python3 tools/monitor.py report --label argon           # 出报告（含上架/下架/变价）
+python3 tools/monitor.py drift --days 7                 # 变动汇总
+```
+
+只访问 `/api/status` 和 `/api/pricing`，不调用推理接口。`--probe` 会做一次 `max_tokens=1` 的真实请求，
+需要 `data/monitor/keys.txt`（每行 `域名,sk-xxx`，已在 `.gitignore`，不会入库）。
 
 ## 安全
 
