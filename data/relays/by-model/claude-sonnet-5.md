@@ -29,7 +29,7 @@
 | 17 | `sikarouter.com` | ¥0.14 | $0.14 / $0.7 | 1 | Claude/CC-代接AWS1 | claude-sonnet-5 |
 | 18 | `tokenking.cc.cd` | ¥0.14 | $0.14 / $0.7 | 1 | Z-酒馆Kiro-按量计费 | claude-sonnet-5 |
 | 19 | `closedai.kylenqaq.com` | ¥0.144 | $0.144 / $0.72 | 1 | Claude-Kiro | claude-sonnet-5 |
-| 20 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-sonnet-5 |
+| 20 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-sonnet-5 |
 | 21 | `vaelo.8t.chat` | ¥0.156 | $0.156 / $0.78 | 1 | claude-kiro | claude-sonnet-5 |
 | 22 | `xl.8t.chat` | ¥0.156 | $0.156 / $0.78 | 1 | claude-kiro | claude-sonnet-5 |
 | 23 | `api.feng.cx` | ¥0.16 | $0.16 / $0.8 | 1 | kiro claude（华强北） | claude-sonnet-5 |

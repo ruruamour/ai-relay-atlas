@@ -18,7 +18,7 @@
 | 6 | `api.buzzgw.com` | ¥0.06 | $0.06 / $0.3 | 1 | Gemini-Antigravity | gemini-3.8-flash |
 | 7 | `buzzai.cc` | ¥0.06 | $0.06 / $0.3 | 1 | Gemini-Antigravity | gemini-3.8-flash |
 | 8 | `claude.buzz7.top` | ¥0.06 | $0.06 / $0.3 | 1 | Gemini-Antigravity | gemini-3.8-flash |
-| 9 | `codelypixverse.com` | ¥0.06923 | $0.0692308 / $0.0692308 | 1 | default | gemini-3.8-flash |
+| 9 | `⚠️codelypixverse.com` | ¥0.06923 | $0.0692308 / $0.0692308 | 1 | default | gemini-3.8-flash |
 | 10 | `api.luccc.uk` | ¥0.075 | $0.075 / $0.375 | 1 | Gemini | gemini-3.8-flash-high |
 | 11 | `codex-relay.codes` | ¥0.075 | $0.075 / $0.375 | 1 | default | gemini-3.8-flash |
 | 12 | `hk.apixhm.com` | ¥0.07875 | $0.2625 / $1.3125 | 0.3 | Gemini | gemini-3.8-flash |

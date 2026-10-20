@@ -18,7 +18,7 @@
 | 6 | `api.beibeiai.top` | ¥0.15 | $0.15 / $0.75 | 1 | kiro90缓存 | claude-sonnet-4-6 |
 | 7 | `apijing.com` | ¥0.15 | $0.15 / $0.75 | 1 | claudecode带缓存 | claude-sonnet-4-6 |
 | 8 | `newapi.ailyyzdk.xyz` | ¥0.15 | $0.15 / $0.75 | 1 | 0.05claude | claude-sonnet-4-6 |
-| 9 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | vip | claude-sonnet-4-6 |
+| 9 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | vip | claude-sonnet-4-6 |
 | 10 | `frugalrelay.me` | ¥0.165 | $0.165 / $0.825 | 1 | claude_sale | claude-sonnet-4-6 |
 | 11 | `api.suanniao.shop` | ¥0.18 | $0.18 / $0.9 | 1 | Kiro Claude  超高缓存 | claude-sonnet-4-6 |
 | 12 | `liliapi.siphot.com` | ¥0.18 | $0.18 / $0.9 | 1 | kiro 高缓 | claude-sonnet-4-6 |

@@ -14,7 +14,7 @@
 | 2 | `llmhub.ltd` | ¥0.08 | $0.08 / $0.4 | 1 | Claude-Kiro-Pro | claude-sonnet-5-5 |
 | 3 | `cf.modelflare.dev` | ¥0.12 | $0.12 / $0.6 | 1 | claude-tmp-cheap | claude-sonnet-5-5 |
 | 4 | `liliapi.siphot.com` | ¥0.12 | $0.12 / $0.6 | 1 | kiro 高缓 | claude-sonnet-5-5 |
-| 5 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-sonnet-5-5 |
+| 5 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-sonnet-5-5 |
 | 6 | `api.tokenbits.net` | ¥0.16 | $0.16 / $0.8 | 1 | claude-kiro | claude-sonnet-5-5 |
 | 7 | `new.tianluo.ccwu.cc` | ¥0.17 | $0.17 / $0.85 | 1 | 等我搞货 | claude-sonnet-5-5 |
 | 8 | `api.routeeasy.ai` | ¥0.2 | $0.2 / $1 | 1 | anti-cc-0.1 | claude-sonnet-5-5-high |

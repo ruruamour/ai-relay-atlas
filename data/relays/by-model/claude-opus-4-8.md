@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aimasterkey.net` | ¥0.1275 | $0.1275 / $0.6375 | 1 | kiro-pro-cc | claude-opus-4-8 |
 | 2 | `gpt.mzlone.top` | ¥0.15 | $0.15 / $0.75 | 1 | gpt 0.03 | claude-opus-4-8 |
-| 3 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-opus-4-8 |
+| 3 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-opus-4-8 |
 | 4 | `tokenbox.cloud` | ¥0.1875 | $0.1875 / $0.9375 | 1 | default | claude-opus-4-8 |
 | 5 | `llmhub.ltd` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-Pro | claude-opus-4-8 |
 | 6 | `yetoken.vip` | ¥0.2 | $0.2 / $1 | 1 | F0-Kiro | claude-opus-4-8 |

@@ -21,7 +21,7 @@
 | 9 | `api.hk.toumingx.fun` | ¥0.11 | $0.11 / $0.55 | 1 | GPT-P3 | gpt-6-sol |
 | 10 | `faojzoo.cn` | ¥0.11 | $0.22 / $1.1 | 0.5 | gpt速刷 | gpt-6-sol |
 | 11 | `tm-token.com` | ¥0.11 | $0.11 / $0.55 | 1 | GPT-P3 | gpt-6-sol |
-| 12 | `codelypixverse.com` | ¥0.1154 | $0.115385 / $0.692308 | 1 | vip | gpt-6-sol |
+| 12 | `⚠️codelypixverse.com` | ¥0.1154 | $0.115385 / $0.692308 | 1 | vip | gpt-6-sol |
 | 13 | `555codex.xyz` | ¥0.12 | $0.12 / $0.6 | 1 | gpt-plus | gpt-6-sol |
 | 14 | `8yes.cc` | ¥0.12 | $0.12 / $0.6 | 1 | gpt-默认降智 | gpt-6-sol |
 | 15 | `hetune.top` | ¥0.12 | $0.12 / $0.6 | 1 | Codex-team | gpt-6-sol |

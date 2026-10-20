@@ -23,7 +23,7 @@
 | 11 | `new.tianluo.ccwu.cc` | ¥0.85 | $0.85 / $4.25 | 1 | 等我搞货 | claude-fable-5-1 |
 | 12 | `hiapi.top` | ¥0.9 | $0.9 / $4.5 | 1 | Claude Kiro高缓 | claude-fable-5-1 |
 | 13 | `nova.vcrauo.com` | ¥0.9 | $0.9 / $4.5 | 1 | Claude--kiro·稳定高缓渠道 | claude-fable-5.1 |
-| 14 | `codelypixverse.com` | ¥0.9615 | $0.961538 / $1.34615 | 1 | vip | claude-fable-5.1-official |
+| 14 | `⚠️codelypixverse.com` | ¥0.9615 | $0.961538 / $1.34615 | 1 | vip | claude-fable-5.1-official |
 | 15 | `api.ciyuanshen.top` | ¥1 | $1 / $5 | 1 | Claude Kiro 90缓 | claude-fable-5-1 |
 | 16 | `api.duckcoding.ai` | ¥1 | $1 / $5 | 1 | CodeX转Claude Code | claude-fable-5-1 |
 | 17 | `api.lukyface.com` | ¥1 | $1 / $5 | 1 | kiro | claude-fable-5-1 |

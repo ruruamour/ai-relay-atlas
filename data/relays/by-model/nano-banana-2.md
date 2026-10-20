@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `wyh.apijing.com` | ¥0.0117 | $0.0117 | 1 | gptimage稳定 | img特惠/nano-banana-2 |
-| 2 | `codelypixverse.com` | ¥0.025 | $0.025 | 1 | default | nano-banana-2 |
+| 2 | `⚠️codelypixverse.com` | ¥0.025 | $0.025 | 1 | default | nano-banana-2 |
 | 3 | `api.dogrouter.ai` | ¥0.03 | $0.03 | 1 | default | nano-banana-2 |
 | 4 | `code.ciyuanapi.xyz` | ¥0.04 | $0.04 | 1 | 谷歌生图视频 | adobe/nano-banana-2-1k |
 | 5 | `www.3amtoken.com` | ¥0.045 | $0.045 | 1 | image生图 | nano-banana-2 |

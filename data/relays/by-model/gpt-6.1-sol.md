@@ -15,7 +15,7 @@
 | 3 | `redumbrellacloudlink.himscp.top` | ¥0.075 | $0.075 / $0.15 | 1 | Codex 超级狂欢 | gpt-6.1-sol |
 | 4 | `boai.iisbo.com` | ¥0.0786 | $0.0786 / $0.393 | 1 | default | [Pro20x]gpt-6.1-sol |
 | 5 | `frugalrelay.me` | ¥0.09 | $0.09 / $0.45 | 1 | plus_account | gpt-6.1-sol |
-| 6 | `codelypixverse.com` | ¥0.09615 | $0.0961538 / $0.461538 | 1 | vip | gpt-6.1-sol |
+| 6 | `⚠️codelypixverse.com` | ¥0.09615 | $0.0961538 / $0.461538 | 1 | vip | gpt-6.1-sol |
 | 7 | `tk.8t.chat` | ¥0.1 | $0.1 / $0.5 | 1 | openai-plus | gpt-6.1-sol |
 | 8 | `tokenbox.cloud` | ¥0.1 | $0.1 / $0.5 | 1 | default | gpt-6.1-sol |
 | 9 | `www.token.me.uk` | ¥0.1 | $0.1 / $0.5 | 1 | GPT-Pro-新用户专享 | gpt-6.1-sol |

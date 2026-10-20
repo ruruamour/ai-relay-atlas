@@ -17,7 +17,7 @@
 | 5 | `api.qlhazycoder.top` | ¥0.1 | $0.1 / $0.6 | 1 | default | gemini-3-flash-preview |
 | 6 | `byteclaude.io` | ¥0.1 | $0.1 / $0.6 | 1 | gemeni | gemini-3-flash-preview |
 | 7 | `claude.bestswifter.com` | ¥0.1 | $0.1 / $0.6 | 1 | gemini-native | gemini-3-flash-preview |
-| 8 | `codelypixverse.com` | ¥0.1 | $0.1 / $0.32 | 1 | default | gemini-3-flash-preview |
+| 8 | `⚠️codelypixverse.com` | ¥0.1 | $0.1 / $0.32 | 1 | default | gemini-3-flash-preview |
 | 9 | `coderapi.vip` | ¥0.1 | $0.1 / $0.6 | 1 | default | gemini-3-flash-preview |
 | 10 | `new.gateway.icu` | ¥0.1 | $0.1 / $0.6 | 1 | gemini-cli | gemini-3-flash-preview |
 | 11 | `status.xcode.best` | ¥0.1 | $0.1 / $0.6 | 1 | gemini | gemini-3-flash-preview |

@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.06154 | $0.0615385 / $0.0615385 | 1 | default | gemini-3.1-pro |
+| 1 | `⚠️codelypixverse.com` | ¥0.06154 | $0.0615385 / $0.0615385 | 1 | default | gemini-3.1-pro |
 | 2 | `api.banban.plus` | ¥0.07123 | $0.0712329 / $0.427397 | 1 | C gemini-antigravity（反重力） | gemini-3.1-pro-high |
 | 3 | `gpt.mzlone.top` | ¥0.072 | $0.072 / $0.288 | 1 | gpt 0.03 | gemini-3.1-pro-high |
 | 4 | `api.erasebg.xin` | ¥0.2 | $0.2 / $1.2 | 1 | gemini | gemini-3.1-pro-high |

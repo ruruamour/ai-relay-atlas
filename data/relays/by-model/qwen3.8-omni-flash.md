@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | qwen3.8-omni-flash |
+| 1 | `⚠️codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | qwen3.8-omni-flash |
 | 2 | `coneverse.com` | ¥0.1191 | $0.119057 / $0.401816 | 1 | supply-c8b615a9916b720126c045d3 | qwen3.8-omni-flash |
 | 3 | `infistar.ai` | ¥0.1191 | $0.119057 / $0.401816 | 1 | supply-c8b615a9916b720126c045d3 | qwen3.8-omni-flash |
 | 4 | `crowllm.com` | ¥0.15 | $0.15 / $0.32 | 1 | pro | qwen3.8-omni-flash |

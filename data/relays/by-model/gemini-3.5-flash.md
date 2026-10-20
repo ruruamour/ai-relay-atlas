@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `daidaididi.top` | ¥0.07428 | $0.07428 / $0.44568 | 1 | Gemini \| Anti | gemini-3.5-flash |
 | 2 | `hk.apixhm.com` | ¥0.07875 | $0.2625 / $1.3125 | 0.3 | Gemini | gemini-3.5-flash |
-| 3 | `codelypixverse.com` | ¥0.1 | $0.1 / $0.32 | 1 | vip | gemini-3.5-flash |
+| 3 | `⚠️codelypixverse.com` | ¥0.1 | $0.1 / $0.32 | 1 | vip | gemini-3.5-flash |
 | 4 | `api.unorouter.com` | ¥0.105 | $0.105 / $0.63 | 1 | si-gemini-3.5-flash | gemini-3.5-flash |
 | 5 | `catapi.catcard.uk` | ¥0.1125 | $0.1125 / $0.5625 | 1 | 【自营按量】Gemini | gemini-3.5-flash-low |
 | 6 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $1.2495 | 1 | relay | build-gemini-3.5-flash |

@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `ai.hebox.net` | ¥0.2 | $0.0273973 | 7.3 | 香蕉nano-banana | veo-3.1 |
-| 2 | `codelypixverse.com` | ¥0.25 | $0.25 | 1 | vip | veo-3.1 |
+| 2 | `⚠️codelypixverse.com` | ¥0.25 | $0.25 | 1 | vip | veo-3.1 |
 | 3 | `newapi.prorisehub.com` | ¥0.28 | $0.28 | 1 | 视频-低 | veo-3.1 |
 | 4 | `new.ddpapi.top` | ¥0.35 | $0.35 | 1 | default | veo-3.1 |
 | 5 | `newapi.zone` | ¥0.4 | $0.4 | 1 | gemini API | veo-3.1 |

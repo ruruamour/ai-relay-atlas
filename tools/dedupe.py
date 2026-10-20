@@ -44,6 +44,7 @@ def main():
     vd = set(json.load(open(os.path.join(SOURCES, 'veridrop-domains.json'))))
     gh = set(json.load(open(os.path.join(SOURCES, 'github-list-domains.json'))))
     info = {r['domain']: r for r in relays}
+    annot = annotations()
     alias_of = {r['alias']: r['canonical'] for r in old_alias}
     alias_via = {r['alias']: r.get('discovered_via') or r.get('known') or '' for r in old_alias}
 
@@ -301,7 +302,15 @@ def main():
         elif any(s.startswith('sub2api') for s in srcs):
             system = 'Sub2API'
         api_host = donor if (donor and donor != can) else (ci.get('api_host') or '')
+        tags, marks = [], []
+        for d in ms:
+            for tag, note, src in annot.get(d, []):
+                if tag and tag not in tags:
+                    tags.append(tag)
+                if note:
+                    marks.append('%s（%s）' % (note, src or '人工'))
         notes = [x for x in (ci.get('notes') or '').split('；') if x and not x.startswith('泛解析')]
+        notes += marks
         if junk:
             notes.append('泛解析，已去掉 %d 个扫描生成的子域' % len(junk))
         elif any(x.startswith('泛解析') for x in (ci.get('notes') or '').split('；')):
@@ -319,7 +328,7 @@ def main():
             discovered_via=min((via(d) for d in ms), key=lambda v: RANK[v]),
             veridrop_score=ci.get('veridrop_score', ''), n_models=len(drows),
             families='/'.join(c for c in FAMILY_ORDER if c in fams), aliases=len(keep), backend_group='',
-            http_status=ci.get('http_status', ''), latency_ms=ci.get('latency_ms', ''),
+            http_status=ci.get('http_status', ''), latency_ms=ci.get('latency_ms', ''), tags=','.join(tags),
             last_checked=max([r.get('last_checked') or '' for r in drows] + [ci.get('last_checked') or '']),
             notes='；'.join(notes)))
         for d in keep:

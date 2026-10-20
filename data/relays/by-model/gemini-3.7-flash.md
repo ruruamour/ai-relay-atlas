@@ -15,7 +15,7 @@
 | 3 | `api.buzzgw.com` | ¥0.06 | $0.06 / $0.3 | 1 | Gemini-Antigravity | gemini-3.7-flash |
 | 4 | `buzzai.cc` | ¥0.06 | $0.06 / $0.3 | 1 | Gemini-Antigravity | gemini-3.7-flash |
 | 5 | `claude.buzz7.top` | ¥0.06 | $0.06 / $0.3 | 1 | Gemini-Antigravity | gemini-3.7-flash |
-| 6 | `codelypixverse.com` | ¥0.06154 | $0.0615385 / $0.0615385 | 1 | vip | gemini-3.7-flash-high |
+| 6 | `⚠️codelypixverse.com` | ¥0.06154 | $0.0615385 / $0.0615385 | 1 | vip | gemini-3.7-flash-high |
 | 7 | `ainzy.net` | ¥0.075 | $0.075 / $0.375 | 1 | gemini | gemini-3.7-flash |
 | 8 | `api.erasebg.xin` | ¥0.075 | $0.075 / $0.375 | 1 | gemini | gemini-3.7-flash-high |
 | 9 | `codex-relay.codes` | ¥0.075 | $0.075 / $0.375 | 1 | default | gemini-3.7-flash |

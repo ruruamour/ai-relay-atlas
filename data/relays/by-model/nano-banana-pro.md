@@ -13,7 +13,7 @@
 | 1 | `wyh.apijing.com` | ¥0.0156 | $0.0156 | 1 | gptimage稳定 | img特惠/nano-banana-pro |
 | 2 | `www.apiqd.com` | ¥0.024 | $0.024 | 1 | 图片视频分组 | nano-banana-pro-1k |
 | 3 | `apiqd.com` | ¥0.04 | $0.04 | 1 | 图片视频分组 | nano-banana-pro-1k |
-| 4 | `codelypixverse.com` | ¥0.04 | $0.04 | 1 | default | nano-banana-pro |
+| 4 | `⚠️codelypixverse.com` | ¥0.04 | $0.04 | 1 | default | nano-banana-pro |
 | 5 | `api.dogrouter.ai` | ¥0.05 | $0.05 | 1 | default | nano-banana-pro |
 | 6 | `api.klong.lat` | ¥0.05 | $0.05 | 1 | 画图分组 | nano-banana-pro |
 | 7 | `starapi.fun` | ¥0.053 | $0.053 | 1 | default | nano-banana-pro |

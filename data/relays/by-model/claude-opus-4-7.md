@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `gpt.mzlone.top` | ¥0.15 | $0.15 / $0.75 | 1 | gpt 0.03 | claude-opus-4-7 |
 | 2 | `ikun.love` | ¥0.15 | $0.15 / $0.75 | 1 | Claude便宜 | claude-opus-4-7 |
-| 3 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | vip | claude-opus-4-7 |
+| 3 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | vip | claude-opus-4-7 |
 | 4 | `tokenbox.cloud` | ¥0.1875 | $0.1875 / $0.9375 | 1 | default | claude-opus-4-7 |
 | 5 | `llmhub.ltd` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-Pro | claude-opus-4-7 |
 | 6 | `yetoken.vip` | ¥0.2 | $0.2 / $1 | 1 | F0-Kiro | claude-opus-4-7 |

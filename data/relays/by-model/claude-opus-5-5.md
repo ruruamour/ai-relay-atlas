@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `tokenbox.cloud` | ¥0.1495 | $0.1495 / $0.75 | 1 | default | claude-opus-5-5 |
 | 2 | `llmhub.ltd` | ¥0.16 | $0.16 / $0.8 | 1 | Claude-Kiro-Pro | claude-opus-5-5 |
-| 3 | `codelypixverse.com` | ¥0.1731 | $0.173077 / $0.173077 | 1 | default | claude-opus-5-5 |
+| 3 | `⚠️codelypixverse.com` | ¥0.1731 | $0.173077 / $0.173077 | 1 | default | claude-opus-5-5 |
 | 4 | `api.beibeiai.top` | ¥0.2 | $0.2 / $1 | 1 | kiro90缓存 | claude-opus-5-5 |
 | 5 | `apijing.com` | ¥0.2 | $0.2 / $1 | 1 | claudecode带缓存 | claude-opus-5-5 |
 | 6 | `frugalrelay.me` | ¥0.22 | $0.22 / $1.1 | 1 | claude_sale | claude-opus-5-5 |

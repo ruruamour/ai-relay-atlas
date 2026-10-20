@@ -28,6 +28,7 @@ def esc(x):
 def main():
     rows = read_csv(MODELS)
     tp = topup_map()
+    warn = {r['domain'] for r in read_csv(RELAYS) if (r.get('tags') or '')}
     by = defaultdict(lambda: defaultdict(list))
     for r in rows:
         by[r['model_base']][r['domain']].append(r)
@@ -77,7 +78,7 @@ def main():
                   '| # | 站点 | 实付 ¥ | 名义 $%s | 充值 ¥/$ | 分组 | 原始模型名 |' % ('' if call else ' 输入/输出'),
                   '|---|---|---|---|---|---|---|']
             for i, (d, p, r, rp) in enumerate(real[:TOP], 1):
-                L.append('| %d | `%s` | ¥%s | %s | %s | %s | %s |' % (i, d, '%.4g' % rp, price_cell(r, p), fmt(tp[d]),
+                L.append('| %d | `%s` | ¥%s | %s | %s | %s | %s |' % (i, ('⚠️' if d in warn else '') + d, '%.4g' % rp, price_cell(r, p), fmt(tp[d]),
                                                                     esc(r['group']) or '-', esc(r['model'])))
             if len(real) > TOP:
                 L.append('')
@@ -88,7 +89,7 @@ def main():
                   '| # | 站点 | 名义 $%s | 分组 | 倍率 | 原始模型名 |' % ('' if call else ' 输入/输出'),
                   '|---|---|---|---|---|---|']
             for i, (d, p, r) in enumerate(nom[:TOP], 1):
-                L.append('| %d | `%s` | %s | %s | %s | %s |' % (i, d, price_cell(r, p), esc(r['group']) or '-',
+                L.append('| %d | `%s` | %s | %s | %s | %s |' % (i, ('⚠️' if d in warn else '') + d, price_cell(r, p), esc(r['group']) or '-',
                                                               r['group_ratio'] or '-', esc(r['model'])))
             if len(nom) > TOP:
                 L.append('')

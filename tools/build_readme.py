@@ -85,11 +85,14 @@ def main():
         fams = set((r['families'] or '').split('/'))
         cov = ''.join(l for c, l in LETTER if c in fams) or '-'
         nm = (r['name'] or '').strip()
+        warn = '⚠️ ' if (r.get('tags') or '') else ''
         A('| %d | `%s` | %s | %s | %s | %s | %s | %s | %s | %s |' % (
-            i, esc(r['domain']), esc(nm[:18] + ('…' if len(nm) > 18 else '')) or '-', esc(r['system']) or '-',
+            i, warn + esc(r['domain']), esc(nm[:18] + ('…' if len(nm) > 18 else '')) or '-', esc(r['system']) or '-',
             r['n_models'] or 0, cov, fmt(valid_topup(r['topup_cny_per_usd'])) or '-',
             esc(r['veridrop_score']) or '-', esc(r['http_status']) or '-',
             (r['latency_ms'] + 'ms') if r['latency_ms'] else '-'))
+    A('')
+    A('⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 %d 个。' % sum(1 for r in rl if r.get('tags')))
     A('')
     A('覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。'
       '充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。')

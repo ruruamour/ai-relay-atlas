@@ -5,7 +5,7 @@
 | 站点 | 存活 | 延迟 | 在售 | 实测 | 最低标价 $/1M | 实付 ¥/1M | 充值 ¥/$ | 分组 | 变化 |
 |---|---|---|---|---|---|---|---|---|---|
 | `pianyitoken.gay` | 200 | 1380ms | ✅ | - | 0.0684932 | ¥0.5 | 7.3 | Gemini 4|Gemini Vertex-官转|gemeni反重力-Ultr |  |
-| `codelypixverse.com` | 200 | 1327ms | ✅ | - | 0.0692308 | ¥0.06923 | 1 | admin|api6|default|leehuydev|qrar|sellgp |  |
+| `⚠️codelypixverse.com` | 200 | 1327ms | ✅ | - | 0.0692308 | ¥0.06923 | 1 | admin|api6|default|leehuydev|qrar|sellgp |  |
 | `api.banban.plus` | 200 | 4880ms | ✅ | - | 0.106849 | ¥0.1068 | 1 | C gemini-antigravity（反重力）-utrl-4-专用 |  |
 | `openkun.xyz` | 200 | 1243ms | ✅ | - | 0.135 | ¥0.135 | 1 | Gemini 反重力 |  |
 | `api.aliyunfuwu.top` | 200 | 823ms | ✅ | - | 0.15 | ¥0.15 | 1 | default|relay |  |

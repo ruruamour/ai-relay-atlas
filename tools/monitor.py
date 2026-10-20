@@ -200,6 +200,7 @@ def cmd_report(a):
     prev_ts = sorted({r['ts'] for r in rows if r['ts'] < last_ts})
     prev = {r['domain']: r for r in rows if prev_ts and r['ts'] == prev_ts[-1]}
     tp = topup_map()
+    warns = {d for d, t in ((r['domain'], r.get('tags') or '') for r in read_csv(RELAYS)) if t}
     L = ['# 监控：%s' % a.label, '',
          '> 最近一次检查 %s（共 %d 站）。只访问公开接口，未做推理调用。' % (last_ts, len(latest)), '',
          '| 站点 | 存活 | 延迟 | 在售 | 实测 | 最低标价 $/1M | 实付 ¥/1M | 充值 ¥/$ | 分组 | 变化 |',
@@ -218,7 +219,7 @@ def cmd_report(a):
                 if abs(p - num(o['min_usd_m'])) > 1e-9:
                     chg = '%+.3g' % (p - num(o['min_usd_m']))
         L.append('| `%s` | %s | %s | %s | %s | %s | %s | %s | %s | %s |' % (
-            d, r['http_status'] or r['note'], (r['latency_ms'] + 'ms') if r['latency_ms'] else '-',
+            ('⚠️' if d in warns else '') + d, r['http_status'] or r['note'], (r['latency_ms'] + 'ms') if r['latency_ms'] else '-',
             '✅' if r['has_model'] == 'Y' else '❌', (r.get('probe') or '-'),
             fmt(p) or '-', real, r['topup_cny_per_usd'] or '-', (r['groups'] or '-')[:40], chg))
     out = os.path.join(MON, 'report-%s.md' % a.label)

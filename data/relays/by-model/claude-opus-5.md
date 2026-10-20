@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `ikun.love` | ¥0.15 | $0.15 / $0.75 | 1 | Claude便宜 | claude-opus-5 |
-| 2 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-opus-5 |
+| 2 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-opus-5 |
 | 3 | `tokenbox.cloud` | ¥0.1875 | $0.1875 / $0.9375 | 1 | default | claude-opus-5 |
 | 4 | `hk.getelucid.com` | ¥0.2 | $0.2 / $0.2 | 1 | 【A】Kiro-低价-羊毛版 | claude-opus-5 |
 | 5 | `llmhub.ltd` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-Pro | claude-opus-5 |

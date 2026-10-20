@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.06 | $0.06 | 1 | default | veo-3.1-fast |
+| 1 | `⚠️codelypixverse.com` | ¥0.06 | $0.06 | 1 | default | veo-3.1-fast |
 | 2 | `newapi.prorisehub.com` | ¥0.06 | $0.06 | 1 | default | veo-3.1-fast |
 | 3 | `newapi.zone` | ¥0.2 | $0.2 | 1 | gemini API | veo-3.1-fast |
 | 4 | `ai.hebox.net` | ¥0.2 | $0.0273973 | 7.3 | 香蕉nano-banana | veo-3.1-fast |

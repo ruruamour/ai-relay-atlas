@@ -17,7 +17,7 @@
 | 5 | `code.aigcpro.org` | ¥0.45 | $0.45 / $2.25 | 1 | gpt混池 | gpt-6-astra |
 | 6 | `llmhub.ltd` | ¥0.45 | $0.45 / $2.25 | 1 | GPT-TEAM | gpt-6-astra |
 | 7 | `yyapis.com` | ¥0.45 | $0.45 / $0.9 | 1 | gptplus | gpt-6-astra |
-| 8 | `codelypixverse.com` | ¥0.4615 | $0.461538 / $1.53846 | 1 | vip | gpt-6-astra |
+| 8 | `⚠️codelypixverse.com` | ¥0.4615 | $0.461538 / $1.53846 | 1 | vip | gpt-6-astra |
 | 9 | `ikun.love` | ¥0.5 | $0.5 / $2.5 | 1 | ChatGPT Pro | gpt-6-astra |
 | 10 | `sikarouter.com` | ¥0.5 | $0.5 / $2.5 | 1 | GPT/Codex-1 | gpt-6-astra |
 | 11 | `tuokeapi.com` | ¥0.5 | $0.5 / $2.5 | 1 | gpt-plus | gpt-6-astra |

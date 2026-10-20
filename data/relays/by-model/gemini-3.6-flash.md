@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.05769 | $0.0576923 / $0.0576923 | 1 | default | gemini-3.6-flash-high |
+| 1 | `⚠️codelypixverse.com` | ¥0.05769 | $0.0576923 / $0.0576923 | 1 | default | gemini-3.6-flash-high |
 | 2 | `codex-relay.codes` | ¥0.075 | $0.075 / $0.375 | 1 | default | gemini-3.6-flash |
 | 3 | `hk.apixhm.com` | ¥0.07875 | $0.2625 / $1.3125 | 0.3 | Gemini | gemini-3.6-flash |
 | 4 | `jiapi.top` | ¥0.105 | $0.105 / $0.525 | 1 | 反重力Gemini | gemini-3.6-flash-high |

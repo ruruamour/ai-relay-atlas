@@ -55,7 +55,7 @@
 | 43 | `gptapi.top` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
 | 44 | `makerend.com` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
 | 45 | `moliapi.com` | ¥0.07469 | $0.0111182 / $0.0555912 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 46 | `codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | claude-haiku-5-5 |
+| 46 | `⚠️codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | claude-haiku-5-5 |
 | 47 | `ai-api.cc` | ¥0.07706 | $0.0114712 / $0.057356 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
 | 48 | `nodapi.com` | ¥0.07825 | $0.0116477 / $0.0582384 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
 | 49 | `runapi.co` | ¥0.07875 | $0.0116666 / $0.0583332 | 6.75 | claude_lite | claude-haiku-5-5 |

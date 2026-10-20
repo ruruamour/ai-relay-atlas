@@ -19,7 +19,7 @@
 | 7 | `tuokeapi.com` | ¥0.14 | $0.14 / $0.7 | 1 | gpt | gpt-5.6-sol |
 | 8 | `api.lukyface.com` | ¥0.15 | $0.15 / $0.9 | 1 | prim反代gpt | gpt-5.6-sol |
 | 9 | `new.mhapi.net` | ¥0.175 | $0.175 / $1.05 | 1 | gpt-激励 | gpt-5.6-sol |
-| 10 | `codelypixverse.com` | ¥0.1923 | $0.192308 / $0.961538 | 1 | default | gpt-5.6-sol |
+| 10 | `⚠️codelypixverse.com` | ¥0.1923 | $0.192308 / $0.961538 | 1 | default | gpt-5.6-sol |
 | 11 | `cf.sheapi.cc` | ¥0.2 | $0.2 / $1.2 | 1 | plus_0720 | gpt-5.6-sol |
 | 12 | `new.97api.com` | ¥0.2 | $0.2 / $1.2 | 1 | defalut | gpt-5.6-sol |
 | 13 | `nikoapi.xyz` | ¥0.2 | $0.2 / $1.2 | 1 | codex-混池 | gpt-5.6-sol |

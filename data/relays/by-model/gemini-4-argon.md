@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.06923 | $0.0692308 / $0.115385 | 1 | vip | Gemini 4 Argon |
+| 1 | `⚠️codelypixverse.com` | ¥0.06923 | $0.0692308 / $0.115385 | 1 | vip | Gemini 4 Argon |
 | 2 | `api.banban.plus` | ¥0.1068 | $0.106849 / $0.534247 | 1 | C gemini-antigravity（反重力）-utrl-4-专用 | gemini-4-argon |
 | 3 | `openkun.xyz` | ¥0.135 | $0.135 / $1.35 | 1 | Gemini 反重力 | gemini-4-argon |
 | 4 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $1.2495 | 1 | relay | build-gemini-4-argon |

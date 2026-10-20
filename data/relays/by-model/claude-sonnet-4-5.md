@@ -13,7 +13,7 @@
 | 1 | `llmhub.ltd` | ¥0.12 | $0.12 / $0.6 | 1 | Claude-Kiro-Pro | claude-sonnet-4-5 |
 | 2 | `api.beibeiai.top` | ¥0.15 | $0.15 / $0.75 | 1 | kiro90缓存 | claude-sonnet-4-5 |
 | 3 | `newapi.ailyyzdk.xyz` | ¥0.15 | $0.15 / $0.75 | 1 | 0.05claude | claude-sonnet-4-5-20250929 |
-| 4 | `codelypixverse.com` | ¥0.1538 | $0.153846 / $0.769231 | 1 | default | claude-sonnet-4-5 |
+| 4 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.769231 | 1 | default | claude-sonnet-4-5 |
 | 5 | `api.suanniao.shop` | ¥0.18 | $0.18 / $0.9 | 1 | Kiro Claude  超高缓存 | claude-sonnet-4-5-20250929 |
 | 6 | `wyh.apijing.com` | ¥0.18 | $0.18 / $0.9 | 1 | claude带缓存专属 | claude-sonnet-4-5-20250929 |
 | 7 | `tk.8t.chat` | ¥0.195 | $0.195 / $0.975 | 1 | claude-kiro | claude-sonnet-4-5 |

@@ -42,7 +42,7 @@
 | 30 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2 |
 | 31 | `api.zzswitch.com` | ¥0.015 | $0.015 | 1 | gpt生图 | gpt-image-2 |
 | 32 | `code.ciyuanapi.xyz` | ¥0.015 | $0.015 | 1 | Image逆向1K | gpt-image-2 |
-| 33 | `codelypixverse.com` | ¥0.015 | $0.015 | 1 | vip | gpt-image-2 |
+| 33 | `⚠️codelypixverse.com` | ¥0.015 | $0.015 | 1 | vip | gpt-image-2 |
 | 34 | `newapi.13791888.xyz` | ¥0.015 | $0.015 | 1 | gpt-pro | gpt-image-2 |
 | 35 | `newapi.schyler.top` | ¥0.016 | $0.016 | 1 | CodexPro混池 | gpt-image-2 |
 | 36 | `api.200t.cn` | ¥0.0168 | $0.0168 | 1 | gpt pro号池 | gpt-image-2 |

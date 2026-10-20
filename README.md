@@ -154,6 +154,8 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | 99 | `api.clai.click` | CLAI API | New-API | 378 | OCGXMD | - | - | 200 | 2771ms |
 | 100 | `api.cloudmist.cloud` | 云岚API | New-API | 378 | OCGXMD | - | - | 200 | 4363ms |
 
+⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 1 个。
+
 覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。
 
 完整名单（4801 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)

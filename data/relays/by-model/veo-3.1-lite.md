@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.uiuihao.com` | ¥0.1062 | $0.0333 | 3.19 | s-video | veo-3.1-lite |
 | 2 | `sg.uiuiapi.com` | ¥0.1062 | $0.0333 | 3.19 | s-video | veo-3.1-lite |
-| 3 | `codelypixverse.com` | ¥0.12 | $0.12 | 1 | default | veo-3.1-lite |
+| 3 | `⚠️codelypixverse.com` | ¥0.12 | $0.12 | 1 | default | veo-3.1-lite |
 | 4 | `relay.fast` | ¥0.2 | $0.2 | 1 | default | veo-3.1-lite |
 | 5 | `router.cheap` | ¥0.2 | $0.2 | 1 | default | veo-3.1-lite |
 | 6 | `ai.hebox.net` | ¥0.2 | $0.0273973 | 7.3 | 香蕉nano-banana | veo-3.1-lite |

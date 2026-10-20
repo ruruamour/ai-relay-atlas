@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.02 | $0.02 | 1 | default | nano-banana-2-lite |
+| 1 | `⚠️codelypixverse.com` | ¥0.02 | $0.02 | 1 | default | nano-banana-2-lite |
 | 2 | `api.jui87.com` | ¥0.05 | $0.05 | 1 | 生图分组 | nano-banana-2-lite |
 | 3 | `newapi.prorisehub.com` | ¥0.11 | $0.11 | 1 | default | nano-banana-2-lite |
 | 4 | `tokenmarket.cheap` | ¥0.121 | $0.121 | 1 | 图像(聚合渠道) | nano-banana-2-lite |

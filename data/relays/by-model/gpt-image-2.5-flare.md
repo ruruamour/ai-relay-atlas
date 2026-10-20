@@ -32,7 +32,7 @@
 | 20 | `topapi.link` | ¥0.012 | $0.012 | 1 | gpt | gpt-image-2.5-flare |
 | 21 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2.5-flare-1k |
 | 22 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2.5-flare |
-| 23 | `codelypixverse.com` | ¥0.015 | $0.015 | 1 | default | gpt-image-2.5-flare |
+| 23 | `⚠️codelypixverse.com` | ¥0.015 | $0.015 | 1 | default | gpt-image-2.5-flare |
 | 24 | `bearlab.ai` | ¥0.018 | $0.018 | 1 | 【生图】image | gpt-image-2.5-flare |
 | 25 | `code.ciyuanapi.xyz` | ¥0.01875 | $0.01875 | 1 | Image逆向1K | gpt-image-2.5-flare |
 | 26 | `aceoai.com` | ¥0.019 | $0.019 | 1 | gpt-img专用 | gpt-image-2.5-flare |

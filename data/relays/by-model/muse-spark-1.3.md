@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.230769 | 1 | default | muse-spark-1.3 |
+| 1 | `⚠️codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.230769 | 1 | default | muse-spark-1.3 |
 | 2 | `api.yanai.it.com` | ¥0.375 | $0.375 / $1.275 | 1 | muse | muse-spark-1.3 |
 | 3 | `deepkey.top` | ¥0.5 | $0.5 / $1.7 | 1 | muse | muse-spark-1.3 |
 | 4 | `api.ethancode.xyz` | ¥0.75 | $0.75 / $0.75 | 1 | muse | muse-spark-1.3 |

@@ -15,7 +15,7 @@
 | 3 | `hiapi.top` | ¥0.0225 | $0.0225 / $0.0705 | 1 | 国模主力 | qwen3.8-flash |
 | 4 | `api.everygpt.site` | ¥0.03 | $0.03 / $0.094 | 1 | Opencode官方套餐 | qwen3.8-flash |
 | 5 | `yunwu.live` | ¥0.03562 | $0.035625 / $0.120219 | 1 | gemini-only-schema | qwen3.8-flash |
-| 6 | `codelypixverse.com` | ¥0.03846 | $0.0384615 / $0.0384615 | 1 | vip | qwen3.8-flash |
+| 6 | `⚠️codelypixverse.com` | ¥0.03846 | $0.0384615 / $0.0384615 | 1 | vip | qwen3.8-flash |
 | 7 | `ikun.love` | ¥0.0475 | $0.0475 / $0.160292 | 1 | 国模 | qwen3.8-flash |
 | 8 | `tokencount.aigemini.org` | ¥0.06 | $0.06 / $0.188 | 1 | 孙割国模官方 | qwen3.8-flash |
 | 9 | `ainzy.net` | ¥0.06933 | $0.0693334 / $0.24 | 1 | aliyun-chinese-model | qwen3.8-flash |

@@ -20,10 +20,22 @@ ALIASES = path('data', 'relays', 'aliases.csv')
 SOURCES = path('data', 'raw', 'sources')
 
 RELAY_COLS = ['domain', 'api_host', 'name', 'system', 'version', 'topup_cny_per_usd', 'discovered_via', 'veridrop_score', 'n_models', 'families',
-              'aliases', 'backend_group', 'http_status', 'latency_ms', 'last_checked', 'notes']
+              'aliases', 'backend_group', 'http_status', 'latency_ms', 'last_checked', 'tags', 'notes']
 MODEL_COLS = ['domain', 'model', 'model_base', 'billing', 'input_usd_m', 'output_usd_m', 'call_usd',
               'group', 'group_ratio', 'model_ratio', 'source', 'flag', 'last_checked']
 ALIAS_COLS = ['alias', 'canonical', 'reason', 'discovered_via']
+ANNOTATIONS = path('data', 'relays', 'annotations.csv')
+ANNOT_COLS = ['domain', 'tag', 'note', 'source', 'date']
+
+
+def annotations():
+    """人工标注：域名 → [(tag, note, source)]。掺水/假模型等判断写在这里，重建不会丢。"""
+    out = {}
+    for r in read_csv(ANNOTATIONS):
+        d = (r.get('domain') or '').strip()
+        if d:
+            out.setdefault(d, []).append((r.get('tag', '').strip(), r.get('note', '').strip(), r.get('source', '').strip()))
+    return out
 
 
 def read_csv(p):

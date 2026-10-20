@@ -26,7 +26,7 @@
 | 14 | `tonkicapi.xyz` | ¥0.1 | $0.1 / $0.6 | 1 | 0.05羊毛 | gpt-5.6-terra |
 | 15 | `code.aigcpro.org` | ¥0.1125 | $0.1125 / $0.675 | 1 | gpt混池 | gpt-5.6-terra |
 | 16 | `llmhub.ltd` | ¥0.1125 | $0.1125 / $0.675 | 1 | GPT-TEAM | gpt-5.6-terra |
-| 17 | `codelypixverse.com` | ¥0.1154 | $0.115385 / $0.576923 | 1 | default | gpt-5.6-terra |
+| 17 | `⚠️codelypixverse.com` | ¥0.1154 | $0.115385 / $0.576923 | 1 | default | gpt-5.6-terra |
 | 18 | `8yes.cc` | ¥0.12 | $0.12 / $0.72 | 1 | gpt-默认降智 | gpt-5.6-terra |
 | 19 | `closedai.kylenqaq.com` | ¥0.12 | $0.12 / $0.72 | 1 | GPT-Plus | gpt-5.6-terra |
 | 20 | `hetune.top` | ¥0.12 | $0.12 / $0.72 | 1 | Codex-team | gpt-5.6-terra |
