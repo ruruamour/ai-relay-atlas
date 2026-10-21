@@ -10,6 +10,7 @@
 | `summary.json` | 去重统计（README 用） |
 | `relay-systems.csv` | 中转站软件名录（New-API/One-API/Sub2API…） |
 | `split.txt` | 人工拆分名单：列出的域名永不合并 |
+| `suspicious.csv` | 掺水嫌疑站（自动检测，未标注，需人工复核） |
 | `by-model/*.md` | 按基础模型的榜单（≥20 站提供的模型） |
 
 ### relays.csv
