@@ -15,11 +15,26 @@ SYSTEM_BY_HOST={'ultra.makelove.cloud':'独角数卡','gpthub.ciyuanapi.ai':'独
  'google7676.top':'异次元发卡','nikoers.com':'异次元发卡','store.codesky.qzz.io':'异次元发卡','tehuio.com':'异次元发卡',
  'www.ai-member.icu':'异次元发卡','aichongz.cc':'异次元发卡','buy.uy':'独角数卡',
  '17fakawang.cn':'其他发卡','faka.getmodel.net':'其他发卡','kkfaka.xyz':'其他发卡','www.aixiamo.com':'其他发卡'}
+PLATFORMS={  # 宿主 → SaaS 平台
+ 'pay.ldxp.cn':'链动小铺','ldxp.cn':'链动小铺','wzyp.cn':'链动小铺',
+ 'catfk.com':'云猫寄售','shuka.cc':'数卡寄售','www.16688.com.cn':'16688','16688.com.cn':'16688',
+ 'aceyun.cn':'ACE云寄售','www.kufaka.com':'酷发卡','kufaka.com':'酷发卡',
+ '5188.faka.com.cn':'数卡5188','mcy.im':'萌次元','yunfakaw.com':'云发卡','efaka.top':'易发卡','onecdk.com':'卡付',
+}
+# 指纹结果（tools 里跑的探测，见 data/raw/shop-fingerprints.json）
+FP={}
+_p=os.path.join(RAW,'shop-fingerprints.json')
+if os.path.exists(_p):
+    for h,v in json.load(open(_p,encoding='utf-8')).items():
+        if '购物 - ' in v: FP[h]='购物模板（同源）'
+        elif v.startswith('未识别') or v=='不可达': continue
+        else: FP[h]=v
+
+
 def classify(host):
-    if host in ('pay.ldxp.cn','ldxp.cn','wzyp.cn'): return ('SaaS','链动小铺','','')
-    if host=='catfk.com': return ('SaaS','云猫寄售','','')
-    if host=='shuka.cc': return ('SaaS','数卡寄售','','')
+    if host in PLATFORMS: return ('SaaS',PLATFORMS[host],'','')
     if host in SYSTEM_BY_HOST: return ('自建','',SYSTEM_BY_HOST[host],'开源软件')
+    if host in FP: return ('自建','',FP[host],'指纹识别')
     return ('自建','','未知','未知')
 def cat(t):
     t=(t or '').lower()
@@ -52,6 +67,14 @@ if os.path.exists(p):
         u=x.get('url') or ''
         prod.append(dict(shop=x.get('shopName'),host=urlparse(u).netloc,category=cat(x.get('title')),item=x.get('title'),
             price_cny=x.get('price'),status=x.get('status',''),warranty='',stock='',source='OpenPrice',source_url=u,last_checked=DATE))
+# 水獭比价：店铺目录（补自建/独立站线索）
+p=os.path.join(RAW,'shuita-shops.json')
+if os.path.exists(p):
+    for x in json.load(open(p,encoding='utf-8')):
+        doms=[d for d in (x.get('doms') or []) if d not in ('outlook.com','gmx.com','mail.com','vfemail.net','shuita.xyz')]
+        if not doms: continue
+        prod.append(dict(shop=x.get('name'),host=doms[0],category='其它',item='（水獭收录店铺，品类见店铺页）',
+            price_cny='',status='',warranty='',stock='',source='水獭比价',source_url='https://shuita.xyz'+x['slug'],last_checked=DATE))
 # dedupe products by (shop,item,price)
 seen=set(); ded=[]
 for x in prod:
