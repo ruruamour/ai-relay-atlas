@@ -309,7 +309,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | 90 | 007的小铺 | 链动小铺 | GPT/Gemini/邮箱 | 7.36-275.32 | AI号探/OpenPrice |
 | 91 | AI猪的店铺 | 自建/未知 | GPT/Claude/Gemini/Grok/邮箱 | 6-3280 | OpenPrice |
 | 92 | Tcc谷歌邮箱批发 | 16688 | GPT/Claude/Cursor/Gemini/邮箱 | 0.02-1100.99 | OpenPrice |
-| 93 | TxyxT小店 | 自建/未知 | GPT/Claude/Gemini/Grok | 2.5-3600 | OpenPrice |
+| 93 | TxyxT小店 | 自建/独角数卡 | GPT/Claude/Gemini/Grok | 2.5-3600 | OpenPrice |
 | 94 | AI gogo渠道 （招代理） | 链动小铺 | GPT/Claude/Gemini/Ultra/邮箱 | 0.01-3316.6 | OpenPrice |
 | 95 | AI供应 | 链动小铺 | GPT/Claude/Gemini/Grok/邮箱 | 0.14-3347.5 | OpenPrice |
 | 96 | Esa的Ai小铺 | 链动小铺 | GPT/Claude/Gemini/邮箱 | 1.85-1182.44 | OpenPrice |
@@ -334,9 +334,9 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | 115 | YUJAN宇见Ai-Plus Pro-源头直供 | 链动小铺 | GPT/Claude/Gemini/邮箱 | 16.48-3469.04 | OpenPrice |
 | 116 | lulu-Ai | 链动小铺 | GPT/Claude/Ultra/邮箱 | 0.08-695.25 | OpenPrice |
 | 117 | 52AI店铺 | 链动小铺 | GPT/Claude/Gemini/邮箱 | 0.52-3244.5 | OpenPrice |
-| 118 | Esfine科技小店 | 自建/未知 | GPT/邮箱 | 0.5-1150 | OpenPrice |
+| 118 | Esfine科技小店 | 自建/易支付 | GPT/邮箱 | 0.5-1150 | OpenPrice |
 | 119 | 猫猫豆 | 链动小铺 | Gemini/Grok | 0.09-216.3 | OpenPrice |
-| 120 | LLID.ME｜老霖出海账号商城 | 自建/未知 | GPT/邮箱 | 1.9-49.99 | OpenPrice |
+| 120 | LLID.ME｜老霖出海账号商城 | 自建/独角数卡 | GPT/邮箱 | 1.9-49.99 | OpenPrice |
 
 共 430 家，上表按商品数取前 120。完整：[shops.csv](data/shops/shops.csv) · [products.csv](data/shops/products.csv)
 

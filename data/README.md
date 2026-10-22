@@ -64,6 +64,7 @@
 | `systems.csv` | **发卡系统**（开源软件，自建）：独角数卡/异次元发卡等 |
 | `shops.csv` | 店铺主表，`hosting` 区分 SaaS / 自建 |
 | `products.csv` | 店 × 商品 × 价格 × 来源 |
+| `sources.md` | 卡网来源与覆盖：每个来源能给什么、局限、还没试过的渠道 |
 
 ## 标注（annotations.csv）
 人工判断写在 `data/relays/annotations.csv`，重建不会丢，会写进 `relays.csv` 的 `tags` / `notes`，
