@@ -9,6 +9,7 @@
 | 前缀 / 换后缀 | `../gen_candidates.py` | 基于已收录站点生成，自动跳过泛解析父域 |
 | 证书透明日志 | `crtsh.py` | 直连 crt.sh 公共 PostgreSQL（需 `psql`），批量查询、断点续跑、只走 IPv4；默认 3 并发，请勿调大 |
 | 证书透明日志（备用） | `certspotter.py` | HTTP 接口，免费额度很低 |
+| 测绘引擎（FOFA/ZoomEye/Shodan） | `faka_fofa.py` | 按源码指纹全网搜自建卡网，**唯一能突破聚合站上限的路**，详见 [docs/find-faka-shops.md](../../docs/find-faka-shops.md) |
 
 ## Veridrop（浏览器控制台）
 
