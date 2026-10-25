@@ -1,6 +1,6 @@
 # longcat-2.0
 
-> 37 站提供 · 正常价 20 站 · 名义中位价 **$0.805**/1M 输入 · 实付中位价 **¥3.685**/1M 输入（14 站公开充值价） · 推算，未对账
+> 40 站提供 · 正常价 19 站 · 名义中位价 **$0.86**/1M 输入 · 实付中位价 **¥3.369**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,12 +18,11 @@
 | 6 | `elysiver.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | longcat-2.0(fingerprint≈k53) |
 | 7 | `api.tacklekey.com` | ¥3.369 | $0.461538 / $1.84615 | 7.3 | default | meituan/longcat-2.0 |
 | 8 | `api.paasai.cc` | ¥4 | $4 / $16 | 1 | 八折 国模 | longcat-2.0 |
-| 9 | `hk.moleapi.com` | ¥5.1 | $0.75 / $2.95 | 6.8 | default | longcat-2.0 |
-| 10 | `yibuapi.com` | ¥6 | $4 / $16 | 1.5 | default | LongCat-2.0 |
-| 11 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | LongCat-2.0 |
-| 12 | `api.llm-token.cn` | ¥14.6 | $2 / $8 | 7.3 | default | LongCat-2.0 |
-| 13 | `gpt-agent.cc` | ¥14.6 | $2 / $8 | 7.3 | default | LongCat-2.0 |
-| 14 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | longcat-2.0 |
+| 9 | `yibuapi.com` | ¥6 | $4 / $16 | 1.5 | default | LongCat-2.0 |
+| 10 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | LongCat-2.0 |
+| 11 | `api.llm-token.cn` | ¥14.6 | $2 / $8 | 7.3 | default | LongCat-2.0 |
+| 12 | `gpt-agent.cc` | ¥14.6 | $2 / $8 | 7.3 | default | LongCat-2.0 |
+| 13 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | longcat-2.0 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -36,4 +35,4 @@
 | 5 | `ai.luogu.me` | $4.2 / $16.8 | cn-model | 14 | longcat-2.0 |
 | 6 | `openclawroot.com` | $8 / $32 | default | 1 | LongCat-2.0 |
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

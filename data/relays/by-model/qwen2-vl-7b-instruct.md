@@ -1,6 +1,6 @@
 # qwen2-vl-7b-instruct
 
-> 27 站提供 · 正常价 23 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.08**/1M 输入（5 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 27 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.08**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,9 +12,13 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.15 | 1 | relay | Qwen2-VL-7B-Instruct |
 | 2 | `keypool.space` | ¥0.5 | $0.5 / $0.5 | 1 | default | qwen2-vl-7b-instruct |
-| 3 | `api.zyai.online` | ¥1.08 | $1.08 / $2.7 | 1 | Guochan6 | qwen2-vl-7b-instruct |
-| 4 | `platform.anyrouter.ai` | ¥1.08 | $1.08 / $2.7 | 1 | official_cn | qwen2-vl-7b-instruct |
-| 5 | `kfcv50.link` | ¥1.35 | $1.35 / $3.375 | 1 | cn_discount_0407_075 | qwen2-vl-7b-instruct |
+| 3 | `xinsuanai.com` | ¥0.5 | $0.5 / $0.5 | 1 | default | qwen2-vl-7b-instruct |
+| 4 | `api.eido.top` | ¥1 | $1 / $5 | 1 | default | qwen2-vl-7b-instruct |
+| 5 | `api.zyai.online` | ¥1.08 | $1.08 / $2.7 | 1 | Guochan6 | qwen2-vl-7b-instruct |
+| 6 | `platform.anyrouter.ai` | ¥1.08 | $1.08 / $2.7 | 1 | official_cn | qwen2-vl-7b-instruct |
+| 7 | `kfcv50.link` | ¥1.35 | $1.35 / $3.375 | 1 | cn_discount_0407_075 | qwen2-vl-7b-instruct |
+| 8 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2-vl-7b-instruct |
+| 9 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen2-vl-7b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -39,4 +43,4 @@
 | 17 | `www.xiaoruiera.top` | $0.5 / $0.5 | default | 1 | qwen2-vl-7b-instruct |
 | 18 | `yuli.host` | $0.5 / $0.5 | default | 1 | qwen2-vl-7b-instruct |
 
-> 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

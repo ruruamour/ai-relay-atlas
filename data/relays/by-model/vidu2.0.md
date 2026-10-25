@@ -1,6 +1,6 @@
 # vidu2.0
 
-> 82 站提供 · 正常价 74 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.12**/次（10 站公开充值价） · 推算，未对账
+> 85 站提供 · 正常价 75 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.12**/次（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,13 +13,14 @@
 | 1 | `api.new.bi` | ¥0.016 | $0.016 | 1 | 企业级高可用大模型 | vidu2.0 |
 | 2 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | vidu2.0 |
 | 3 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | vidu2.0 |
-| 4 | `api.camel-hub.cn` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |
-| 5 | `api.camel-hub.com` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |
-| 6 | `api.kr777.top` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |
-| 7 | `ccapi.ai` | ¥1.15 | $0.166667 | 6.9 | vidu-A | vidu2.0 |
-| 8 | `kfcv50.link` | ¥3.125 | $3.125 | 1 | default | vidu2.0 |
-| 9 | `api.klxey.com` | ¥3.65 | $0.5 | 7.3 | default | vidu2.0 |
-| 10 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | vidu2.0 |
+| 4 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | vidu2.0 |
+| 5 | `api.camel-hub.cn` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |
+| 6 | `api.camel-hub.com` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |
+| 7 | `api.kr777.top` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |
+| 8 | `ccapi.ai` | ¥1.15 | $0.166667 | 6.9 | vidu-A | vidu2.0 |
+| 9 | `kfcv50.link` | ¥3.125 | $3.125 | 1 | default | vidu2.0 |
+| 10 | `api.klxey.com` | ¥3.65 | $0.5 | 7.3 | default | vidu2.0 |
+| 11 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | vidu2.0 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -78,4 +79,4 @@
 
 > 另有 14 站未列出。
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

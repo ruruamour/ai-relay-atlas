@@ -1,6 +1,6 @@
 # doubao-seedance-1-0-pro-fast
 
-> 128 站提供 · 正常价 106 站 · 名义中位价 **$6.3**/次 · 实付中位价 **¥4.761**/次（41 站公开充值价） · 推算，未对账
+> 131 站提供 · 正常价 104 站 · 名义中位价 **$6.3**/次 · 实付中位价 **¥4.444**/次（39 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -34,23 +34,21 @@
 | 22 | `api.videocaptioner.cn` | ¥4.761 | $0.70875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
 | 23 | `new.aigc2d.com` | ¥4.761 | $0.70875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
 | 24 | `oyy-ai.xyz` | ¥4.761 | $0.70875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 25 | `layso.ai` | ¥5.324 | $5.3235 | 1 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 26 | `laysoai.com` | ¥5.324 | $5.3235 | 1 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 27 | `api.nixapi.com` | ¥5.364 | $0.798525 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 28 | `new.foxi-api.cn` | ¥6.3 | $6.3 | 1 | 纯AZ | doubao-seedance-1-0-pro-fast-251015 |
-| 29 | `aiwuje.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 30 | `api.echoflowai.cc` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 31 | `api.n1n.ai` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 32 | `api.quickrouter.ai` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 33 | `jeniya.cn` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 34 | `linoapi.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 35 | `llm-api.net` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 36 | `quanzil.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 37 | `token173.net` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 38 | `tryallapi.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 39 | `wellapi.ai` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 40 | `thousandengine.com` | ¥6.46 | $0.961538 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 41 | `plusx.nyxos.shop` | ¥34.49 | $4.725 | 7.3 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 25 | `laysoai.com` | ¥5.324 | $5.3235 | 1 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 26 | `api.nixapi.com` | ¥5.364 | $0.798525 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 27 | `new.foxi-api.cn` | ¥6.3 | $6.3 | 1 | 纯AZ | doubao-seedance-1-0-pro-fast-251015 |
+| 28 | `aiwuje.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 29 | `api.echoflowai.cc` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 30 | `api.n1n.ai` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 31 | `api.quickrouter.ai` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 32 | `linoapi.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 33 | `llm-api.net` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 34 | `quanzil.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 35 | `token173.net` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 36 | `tryallapi.com` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 37 | `wellapi.ai` | ¥6.349 | $0.945 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 38 | `thousandengine.com` | ¥6.46 | $0.961538 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
+| 39 | `plusx.nyxos.shop` | ¥34.49 | $4.725 | 7.3 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -109,4 +107,4 @@
 
 > 另有 15 站未列出。
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

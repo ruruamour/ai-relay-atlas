@@ -1,6 +1,6 @@
 # qwen1.5-14b-chat
 
-> 38 站提供 · 正常价 10 站 · 名义中位价 **$1.9**/1M 输入 · 实付中位价 **¥5.171**/1M 输入（10 站公开充值价） · 推算，未对账
+> 46 站提供 · 正常价 13 站 · 名义中位价 **$1.9**/1M 输入 · 实付中位价 **¥8.343**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,13 +12,16 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.zyai.online` | ¥1 | $1 / $2 | 1 | mini | qwen1.5-14b-chat |
 | 2 | `aws.baby` | ¥1.143 | $1.14286 / $1.14286 | 1 | 阿里云百炼大客户 | qwen1.5-14b-chat |
-| 3 | `api.ocoolai.com` | ¥1.9 | $1.9 / $3.8 | 1 | cn | qwen1.5-14b-chat |
-| 4 | `ocool.cn` | ¥1.9 | $1.9 / $3.8 | 1 | cn | qwen1.5-14b-chat |
-| 5 | `kfcv50.link` | ¥2 | $2 / $4 | 1 | Domestic | qwen1.5-14b-chat |
-| 6 | `unorouter.net` | ¥8.343 | $1.14286 / $1.14286 | 7.3 | default | qwen1.5-14b-chat |
-| 7 | `hy88.my` | ¥8.76 | $1.2 / $2.4 | 7.3 | qwen | qwen1.5-14b-chat |
-| 8 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen1.5-14b-chat |
-| 9 | `wrduai.com` | ¥14.6 | $2 / $4 | 7.3 | 官转 | qwen1.5-14b-chat |
-| 10 | `api2.aigcbest.top` | ¥54.6 | $15.6 / $15.6 | 3.5 | 通用大模型 | qwen1.5-14b-chat |
+| 3 | `biezou.com` | ¥1.143 | $1.14286 / $1.14286 | 1 | 阿里云百炼大客户 | qwen1.5-14b-chat |
+| 4 | `api.ocoolai.com` | ¥1.9 | $1.9 / $3.8 | 1 | cn | qwen1.5-14b-chat |
+| 5 | `ocool.cn` | ¥1.9 | $1.9 / $3.8 | 1 | cn | qwen1.5-14b-chat |
+| 6 | `kfcv50.link` | ¥2 | $2 / $4 | 1 | Domestic | qwen1.5-14b-chat |
+| 7 | `unorouter.net` | ¥8.343 | $1.14286 / $1.14286 | 7.3 | default | qwen1.5-14b-chat |
+| 8 | `hy88.my` | ¥8.76 | $1.2 / $2.4 | 7.3 | qwen | qwen1.5-14b-chat |
+| 9 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen1.5-14b-chat |
+| 10 | `wrduai.com` | ¥14.6 | $2 / $4 | 7.3 | 官转 | qwen1.5-14b-chat |
+| 11 | `gpt777.top` | ¥48 | $48 / $48 | 1 | opensource | qwen1.5-14b-chat |
+| 12 | `api.ifopen.ai` | ¥54.6 | $15.6 / $15.6 | 3.5 | 通用大模型 | qwen1.5-14b-chat |
+| 13 | `api2.aigcbest.top` | ¥54.6 | $15.6 / $15.6 | 3.5 | 通用大模型 | qwen1.5-14b-chat |
 
-> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 33 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

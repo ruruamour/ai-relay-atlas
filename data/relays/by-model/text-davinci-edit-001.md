@@ -1,6 +1,6 @@
 # text-davinci-edit-001
 
-> 45 站提供 · 正常价 31 站 · 名义中位价 **$20**/1M 输入 · 实付中位价 **¥31**/1M 输入（28 站公开充值价） · 推算，未对账
+> 52 站提供 · 正常价 38 站 · 名义中位价 **$20**/1M 输入 · 实付中位价 **¥38**/1M 输入（35 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,22 +22,29 @@
 | 10 | `api.new.bi` | ¥20 | $20 / $20 | 1 | default | text-davinci-edit-001 |
 | 11 | `api.zyai.online` | ¥20 | $20 / $20 | 1 | AZvip | text-davinci-edit-001 |
 | 12 | `newapi.link` | ¥20 | $20 / $20 | 1 | 备用 | text-davinci-edit-001 |
-| 13 | `api.ocoolai.com` | ¥30 | $30 / $30 | 1 | default | text-davinci-edit-001 |
-| 14 | `ocool.cn` | ¥30 | $30 / $30 | 1 | default | text-davinci-edit-001 |
-| 15 | `147ai.online` | ¥32 | $40 / $40 | 0.8 | default | text-davinci-edit-001 |
-| 16 | `gpt-api.soruxgpt.com` | ¥38 | $19 / $19 | 2 | vip | text-davinci-edit-001 |
-| 17 | `webapi.xjai.cc` | ¥60 | $20 / $20 | 3 | default | text-davinci-edit-001 |
-| 18 | `cnapi.kksj.org` | ¥76 | $76 / $76 | 1 | guan | text-davinci-edit-001 |
-| 19 | `api.bltcy.ai` | ¥80 | $80 / $80 | 1 | openai官-优质 | text-davinci-edit-001 |
-| 20 | `www.ggwk1.online` | ¥80 | $80 / $80 | 1 | 官转无审高智商 | text-davinci-edit-001 |
-| 21 | `tk.dmxapi.cn` | ¥100 | $20 / $20 | 5 | default | text-davinci-edit-001 |
-| 22 | `ai.t8star.org` | ¥108 | $80 / $80 | 1.35 | openai官-优质 | text-davinci-edit-001 |
-| 23 | `apiplus.online` | ¥131.4 | $18 / $18 | 7.3 | default | text-davinci-edit-001 |
-| 24 | `ai2.qiqiai.top` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
-| 25 | `kubernetes-test-api.apiqik.online` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
-| 26 | `tenzen.ai` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
-| 27 | `yinli.pro` | ¥438 | $60 / $60 | 7.3 | GPT-Azure-低价-90%稳定性 | text-davinci-edit-001 |
-| 28 | `ai.ydcloud.org` | ¥525.6 | $72 / $72 | 7.3 | openai 官转 | text-davinci-edit-001 |
+| 13 | `api.annyun.cn` | ¥30 | $30 / $30 | 1 | default | text-davinci-edit-001 |
+| 14 | `api.ocoolai.com` | ¥30 | $30 / $30 | 1 | default | text-davinci-edit-001 |
+| 15 | `api.vakv.cn` | ¥30 | $30 / $30 | 1 | az-gpt-新渠道 | text-davinci-edit-001 |
+| 16 | `ocool.cn` | ¥30 | $30 / $30 | 1 | default | text-davinci-edit-001 |
+| 17 | `147ai.online` | ¥32 | $40 / $40 | 0.8 | default | text-davinci-edit-001 |
+| 18 | `gpt-api.soruxgpt.com` | ¥38 | $19 / $19 | 2 | vip | text-davinci-edit-001 |
+| 19 | `webapi.xjai.cc` | ¥60 | $20 / $20 | 3 | default | text-davinci-edit-001 |
+| 20 | `zen-ai.top` | ¥70 | $70 / $70 | 1 | openai | text-davinci-edit-001 |
+| 21 | `cnapi.kksj.org` | ¥76 | $76 / $76 | 1 | guan | text-davinci-edit-001 |
+| 22 | `api.bltcy.ai` | ¥80 | $80 / $80 | 1 | openai官-优质 | text-davinci-edit-001 |
+| 23 | `apilio.ai` | ¥80 | $80 / $80 | 1 | openai官-优质 | text-davinci-edit-001 |
+| 24 | `test-ssl.bltcy.ai` | ¥80 | $80 / $80 | 1 | openai官-优质 | text-davinci-edit-001 |
+| 25 | `www.ggwk1.online` | ¥80 | $80 / $80 | 1 | 官转无审高智商 | text-davinci-edit-001 |
+| 26 | `tk.dmxapi.cn` | ¥100 | $20 / $20 | 5 | default | text-davinci-edit-001 |
+| 27 | `ai.t8star.org` | ¥108 | $80 / $80 | 1.35 | openai官-优质 | text-davinci-edit-001 |
+| 28 | `apiplus.online` | ¥131.4 | $18 / $18 | 7.3 | default | text-davinci-edit-001 |
+| 29 | `ai2.qiqiai.top` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
+| 30 | `freeapi.club` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
+| 31 | `kubernetes-test-api.apiqik.online` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
+| 32 | `newapi.ailingnan.top` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
+| 33 | `tenzen.ai` | ¥146 | $20 / $20 | 7.3 | default | text-davinci-edit-001 |
+| 34 | `yinli.pro` | ¥438 | $60 / $60 | 7.3 | GPT-Azure-低价-90%稳定性 | text-davinci-edit-001 |
+| 35 | `ai.ydcloud.org` | ¥525.6 | $72 / $72 | 7.3 | openai 官转 | text-davinci-edit-001 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

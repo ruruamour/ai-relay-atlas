@@ -25,7 +25,7 @@ SRC_MAP = {
     'scan:pricing': 'newapi:/api/pricing', '/api/pricing': 'newapi:/api/pricing',
     'scan': 'newapi:/api/pricing',
 }
-RANK = {'veridrop': 0, 'github-list': 1, 'scan': 2}
+RANK = {'veridrop': 0, 'github-list': 1, 'scan': 2, 'urlscan': 3, 'gitlab': 4, 'npm': 5, 'huggingface': 6, 'bing': 7, 'crtsh': 8}
 
 
 def nkey(v):
@@ -38,9 +38,11 @@ def main():
     ap.add_argument('--recheck-wildcard', action='store_true')
     a = ap.parse_args()
 
-    relays = read_csv(RELAYS)
-    rows = read_csv(MODELS)
-    old_alias = read_csv(ALIASES)
+    relays = [r for r in read_csv(RELAYS)
+              if not IP_RE.match(r.get('domain', '')) and not IP_RE.match(r.get('api_host', ''))]
+    rows = [r for r in read_csv(MODELS) if not IP_RE.match(r.get('domain', ''))]
+    old_alias = [r for r in read_csv(ALIASES)
+                 if not IP_RE.match(r.get('alias', '')) and not IP_RE.match(r.get('canonical', ''))]
     vd = set(json.load(open(os.path.join(SOURCES, 'veridrop-domains.json'))))
     gh = set(json.load(open(os.path.join(SOURCES, 'github-list-domains.json'))))
     info = {r['domain']: r for r in relays}
@@ -315,6 +317,7 @@ def main():
             notes.append('泛解析，已去掉 %d 个扫描生成的子域' % len(junk))
         elif any(x.startswith('泛解析') for x in (ci.get('notes') or '').split('；')):
             notes.append([x for x in ci['notes'].split('；') if x.startswith('泛解析')][0])
+        notes = list(dict.fromkeys(notes))
         fams = set()
         for r in drows:
             r['domain'] = can

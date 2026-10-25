@@ -1,6 +1,6 @@
 # nemotron-3-nano-omni-30b-a3b-reasoning:free
 
-> 20 站提供 · 正常价 1 站 · 名义中位价 **$0.09**/1M 输入 · 实付中位价 **¥0.09**/1M 输入（1 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 1 站 · 名义中位价 **$0.07**/1M 输入 · 实付中位价 **¥0.07**/1M 输入（1 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,6 +10,6 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.qinzhiai.com` | ¥0.09 | $0.09 / $0.09 | 1 | openrouter | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free |
+| 1 | `api.qinzhiai.com` | ¥0.07 | $0.07 / $0.07 | 1 | openrouter | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

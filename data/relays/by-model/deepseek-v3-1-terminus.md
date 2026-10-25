@@ -1,6 +1,6 @@
 # deepseek-v3-1-terminus
 
-> 32 站提供 · 正常价 27 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥29.2**/1M 输入（8 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 29 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥29.2**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,13 +11,15 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | deepseek-v3-1-terminus |
-| 2 | `apiai.shop` | ¥4.8 | $4 / $6 | 1.2 | default | deepseek-v3-1-terminus |
-| 3 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | deepseek-v3-1-terminus |
-| 4 | `api.chatshare.one` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
-| 5 | `api.tiantoken.com` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
-| 6 | `apius.shubiaobiao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
-| 7 | `tidewhisper-ai.xyz` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
-| 8 | `token.34ku.com` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
+| 2 | `api.eido.top` | ¥4 | $4 / $6 | 1 | default | deepseek-v3-1-terminus |
+| 3 | `apiai.shop` | ¥4.8 | $4 / $6 | 1.2 | default | deepseek-v3-1-terminus |
+| 4 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | deepseek-v3-1-terminus |
+| 5 | `api.ai-gaochao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
+| 6 | `api.chatshare.one` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
+| 7 | `api.tiantoken.com` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
+| 8 | `apius.shubiaobiao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
+| 9 | `tidewhisper-ai.xyz` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
+| 10 | `token.34ku.com` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # claude-mythos-preview
 
-> 25 站提供 · 正常价 22 站 · 名义中位价 **$3**/1M 输入 · 推算，未对账
+> 26 站提供 · 正常价 23 站 · 名义中位价 **$3**/1M 输入 · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,14 +21,15 @@
 | 11 | `api-hub.asia` | $3 / $15 | Claude-kiro正价 | 0.3 | claude-mythos-preview |
 | 12 | `api.xudiansuanli.com` | $3 / $15 | Claude kiro 号池 | 0.3 | claude-mythos-preview |
 | 13 | `pureai.ink` | $3.5 / $17.5 | Z-Claude-破限专享 | 0.35 | claude-mythos-preview |
-| 14 | `gpt.juhecode.cn` | $10 / $50 | default | 1 | claude-mythos-preview |
-| 15 | `ikuncode.top` | $11 / $55 | cc-max | 1.1 | claude-mythos-preview |
-| 16 | `ai.mggoo.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-preview |
-| 17 | `mgoole.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-preview |
-| 18 | `ai.aiaimark.com` | $15 / $75 | claude-优惠分组 | 1.5 | claude-mythos-preview |
-| 19 | `ai.bayunzi.shop` | $15 / $75 | Claude-官转可外接 | 1.5 | claude-mythos-preview |
-| 20 | `www.jiguang.me` | $15 / $75 | CCMAX蒸馏 | 1.5 | claude-mythos-preview |
-| 21 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-preview |
-| 22 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-preview |
+| 14 | `api.clawhud.com` | $10 / $50 | Anthropic | 1 | claude-mythos-preview |
+| 15 | `gpt.juhecode.cn` | $10 / $50 | default | 1 | claude-mythos-preview |
+| 16 | `ikuncode.top` | $11 / $55 | cc-max | 1.1 | claude-mythos-preview |
+| 17 | `ai.mggoo.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-preview |
+| 18 | `mgoole.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-preview |
+| 19 | `ai.aiaimark.com` | $15 / $75 | claude-优惠分组 | 1.5 | claude-mythos-preview |
+| 20 | `ai.bayunzi.shop` | $15 / $75 | Claude-官转可外接 | 1.5 | claude-mythos-preview |
+| 21 | `www.jiguang.me` | $15 / $75 | CCMAX蒸馏 | 1.5 | claude-mythos-preview |
+| 22 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-preview |
+| 23 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-preview |
 
 > 3 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3-reranker-0.6b
 
-> 128 站提供 · 正常价 117 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.14**/1M 输入（51 站公开充值价） · 推算，未对账
+> 140 站提供 · 正常价 125 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.14**/1M 输入（59 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,53 +15,53 @@
 | 3 | `open.cherryin.ai` | ¥0.06522 | $0.00962 / $0.00962 | 6.78 | default | qwen/qwen3-reranker-0.6b |
 | 4 | `express-ent-admin.cherryin.net` | ¥0.06926 | $0.00962 / $0.00962 | 7.2 | default | qwen/qwen3-reranker-0.6b |
 | 5 | `api.lingyaai.cn` | ¥0.07 | $0.07 / $0 | 1 | default | qwen3-reranker-0.6b |
-| 6 | `api.relayrouter.ai` | ¥0.1058 | $0.01575 / $0.01575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 7 | `openlux.zhongzhuan.chat` | ¥0.1058 | $0.01575 / $0.01575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 8 | `api.camel-hub.cn` | ¥0.112 | $0.14 / $0.14 | 0.8 | default | Qwen/Qwen3-Reranker-0.6B |
-| 9 | `api.camel-hub.com` | ¥0.112 | $0.14 / $0.14 | 0.8 | default | Qwen/Qwen3-Reranker-0.6B |
-| 10 | `api.kr777.top` | ¥0.112 | $0.14 / $0.14 | 0.8 | default | Qwen/Qwen3-Reranker-0.6B |
-| 11 | `api.tidewhisper-ai.xyz` | ¥0.1164 | $0.017325 / $0.017325 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 12 | `gzxbykj.com` | ¥0.1164 | $0.017325 / $0.017325 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 13 | `yunwu.org` | ¥0.1164 | $0.017325 / $0.017325 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 14 | `v2.cloudmist.cloud` | ¥0.1217 | $0.0181125 / $0.0181125 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 15 | `claudecn.ai` | ¥0.126 | $0.126 / $0.126 | 1 | 国产模型 | Qwen/Qwen3-Reranker-0.6B |
-| 16 | `www.vectronode.com` | ¥0.127 | $0.0189 / $0.0189 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 17 | `apiclaw.cn` | ¥0.128 | $0.0190575 / $0.0190575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 18 | `newapi.xueai.me` | ¥0.128 | $0.0190575 / $0.0190575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 19 | `ciyuan.today` | ¥0.1323 | $0.0196875 / $0.0196875 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 20 | `gptapi.top` | ¥0.1323 | $0.0196875 / $0.0196875 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 21 | `makerend.com` | ¥0.1323 | $0.0196875 / $0.0196875 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 22 | `moliapi.com` | ¥0.1333 | $0.019845 / $0.019845 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 23 | `ai-api.cc` | ¥0.1376 | $0.020475 / $0.020475 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 24 | `nodapi.com` | ¥0.1397 | $0.02079 / $0.02079 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 25 | `api.new.bi` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
-| 26 | `keypool.space` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
-| 27 | `new.foxi-api.cn` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
-| 28 | `anyaigc.ai` | ¥0.1428 | $0.0212625 / $0.0212625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 29 | `sheepaiplus.top` | ¥0.1481 | $0.02205 / $0.02205 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 30 | `xiguapi.icu` | ¥0.1481 | $0.02205 / $0.02205 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 31 | `api.88api.chat` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 32 | `api.videocaptioner.cn` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 33 | `new.aigc2d.com` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 34 | `oyy-ai.xyz` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 35 | `api.nixapi.com` | ¥0.1788 | $0.0266175 / $0.0266175 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 36 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Reranker-0.6B |
-| 37 | `aiwuje.com` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 38 | `api.echoflowai.cc` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 39 | `api.n1n.ai` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 40 | `api.quickrouter.ai` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 41 | `jeniya.cn` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 42 | `linoapi.com` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 43 | `llm-api.net` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 44 | `quanzil.com` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 45 | `token173.net` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 46 | `tryallapi.com` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 47 | `wellapi.ai` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 48 | `thousandengine.com` | ¥0.2153 | $0.0320513 / $0.0320513 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
-| 49 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen/Qwen3-Reranker-0.6B |
-| 50 | `plusx.nyxos.shop` | ¥1.15 | $0.1575 / $0.1575 | 7.3 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 6 | `api.openlux.ai` | ¥0.1058 | $0.01575 / $0.01575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 7 | `api.relayrouter.ai` | ¥0.1058 | $0.01575 / $0.01575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 8 | `openlux.zhongzhuan.chat` | ¥0.1058 | $0.01575 / $0.01575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 9 | `api.camel-hub.cn` | ¥0.112 | $0.14 / $0.14 | 0.8 | default | Qwen/Qwen3-Reranker-0.6B |
+| 10 | `api.camel-hub.com` | ¥0.112 | $0.14 / $0.14 | 0.8 | default | Qwen/Qwen3-Reranker-0.6B |
+| 11 | `api.kr777.top` | ¥0.112 | $0.14 / $0.14 | 0.8 | default | Qwen/Qwen3-Reranker-0.6B |
+| 12 | `api.tidewhisper-ai.xyz` | ¥0.1164 | $0.017325 / $0.017325 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 13 | `gzxbykj.com` | ¥0.1164 | $0.017325 / $0.017325 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 14 | `yunwu.org` | ¥0.1164 | $0.017325 / $0.017325 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 15 | `v2.cloudmist.cloud` | ¥0.1217 | $0.0181125 / $0.0181125 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 16 | `claudecn.ai` | ¥0.126 | $0.126 / $0.126 | 1 | 国产模型 | Qwen/Qwen3-Reranker-0.6B |
+| 17 | `www.vectronode.com` | ¥0.127 | $0.0189 / $0.0189 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 18 | `apiclaw.cn` | ¥0.128 | $0.0190575 / $0.0190575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 19 | `newapi.xueai.me` | ¥0.128 | $0.0190575 / $0.0190575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 20 | `wodapis.com` | ¥0.128 | $0.0190575 / $0.0190575 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 21 | `ciyuan.today` | ¥0.1323 | $0.0196875 / $0.0196875 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 22 | `gptapi.top` | ¥0.1323 | $0.0196875 / $0.0196875 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 23 | `makerend.com` | ¥0.1323 | $0.0196875 / $0.0196875 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 24 | `moliapi.com` | ¥0.1333 | $0.019845 / $0.019845 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 25 | `ai-api.cc` | ¥0.1376 | $0.020475 / $0.020475 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 26 | `infai.cc` | ¥0.1376 | $0.020475 / $0.020475 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 27 | `nodapi.com` | ¥0.1397 | $0.02079 / $0.02079 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 28 | `api.new.bi` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
+| 29 | `keypool.space` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
+| 30 | `new.foxi-api.cn` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
+| 31 | `xinsuanai.com` | ¥0.14 | $0.14 / $0.14 | 1 | default | Qwen/Qwen3-Reranker-0.6B |
+| 32 | `anyaigc.ai` | ¥0.1428 | $0.0212625 / $0.0212625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 33 | `sheepaiplus.top` | ¥0.1481 | $0.02205 / $0.02205 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 34 | `xiguapi.icu` | ¥0.1481 | $0.02205 / $0.02205 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 35 | `api.88api.chat` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 36 | `api.88api.shop` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 37 | `api.videocaptioner.cn` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 38 | `new.aigc2d.com` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 39 | `oyy-ai.xyz` | ¥0.1587 | $0.023625 / $0.023625 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 40 | `gpt777.top` | ¥0.16 | $0.16 / $0.16 | 1 | opensource | Qwen/Qwen3-Reranker-0.6B |
+| 41 | `api.nixapi.com` | ¥0.1788 | $0.0266175 / $0.0266175 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 42 | `api.ifopen.ai` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Reranker-0.6B |
+| 43 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Reranker-0.6B |
+| 44 | `aiwuje.com` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 45 | `api.cursorai.art` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 46 | `api.echoflowai.cc` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 47 | `api.n1n.ai` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 48 | `api.quickrouter.ai` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 49 | `jeniya.cn` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
+| 50 | `linoapi.com` | ¥0.2116 | $0.0315 / $0.0315 | 6.718 | SiliconFlow-1 | Qwen/Qwen3-Reranker-0.6B |
 
-> 另有 1 站未列出。
+> 另有 9 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 16 站未列出。
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

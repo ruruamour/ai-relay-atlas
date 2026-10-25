@@ -1,6 +1,6 @@
 # gemini-2.0-flash-lite-preview
 
-> 29 站提供 · 正常价 22 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.15**/1M 输入（18 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 23 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.15**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,17 +17,18 @@
 | 5 | `api.ocoolai.com` | ¥0.1125 | $0.1125 / $0.45 | 1 | default | gemini-2.0-flash-lite-preview |
 | 6 | `ocool.cn` | ¥0.1125 | $0.1125 / $0.45 | 1 | default | gemini-2.0-flash-lite-preview |
 | 7 | `yun.v1api.cc` | ¥0.12 | $0.08 / $0.32 | 1.5 | default | gemini-2.0-flash-lite-preview-02-05 |
-| 8 | `ai.soruxgpt.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
-| 9 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $0.6 | 1 | relay | gemini-2.0-flash-lite-preview-02-05 |
-| 10 | `api.hopeai.cc` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
-| 11 | `www.micuapi.ai` | ¥0.15 | $0.15 / $0.6 | 1 | - | gemini-2.0-flash-lite-preview-02-05 |
-| 12 | `webapi.xjai.cc` | ¥0.225 | $0.075 / $0.3 | 3 | default | gemini-2.0-flash-lite-preview-02-05 |
-| 13 | `api.apib.ai` | ¥0.525 | $0.075 / $0.3 | 7 | - | gemini-2.0-flash-lite-preview |
-| 14 | `gemini.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite-preview |
-| 15 | `n.lconai.com` | ¥1.2 | $1.2 / $4.8 | 1 | B1 | gemini-2.0-flash-lite-preview |
-| 16 | `apiai.shop` | ¥1.8 | $1.5 / $6 | 1.2 | default | gemini-2.0-flash-lite-preview-02-05 |
-| 17 | `apiplus.online` | ¥8.213 | $1.125 / $4.5 | 7.3 | default | gemini-2.0-flash-lite-preview-02-05 |
-| 18 | `ai.nodeloc.com` | ¥8.76 | $1.2 / $4.8 | 7.3 | default | gemini-2.0-flash-lite-preview |
+| 8 | `8s.hk` | ¥0.15 | $0.15 / $0.6 | 1 | 全模型自动 | gemini-2.0-flash-lite-preview |
+| 9 | `ai.soruxgpt.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
+| 10 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $0.6 | 1 | relay | gemini-2.0-flash-lite-preview-02-05 |
+| 11 | `api.eido.top` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
+| 12 | `api.hopeai.cc` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
+| 13 | `www.micuapi.ai` | ¥0.15 | $0.15 / $0.6 | 1 | - | gemini-2.0-flash-lite-preview-02-05 |
+| 14 | `webapi.xjai.cc` | ¥0.225 | $0.075 / $0.3 | 3 | default | gemini-2.0-flash-lite-preview-02-05 |
+| 15 | `api.apib.ai` | ¥0.525 | $0.075 / $0.3 | 7 | - | gemini-2.0-flash-lite-preview |
+| 16 | `gemini.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite-preview |
+| 17 | `n.lconai.com` | ¥1.2 | $1.2 / $4.8 | 1 | B1 | gemini-2.0-flash-lite-preview |
+| 18 | `apiai.shop` | ¥1.8 | $1.5 / $6 | 1.2 | default | gemini-2.0-flash-lite-preview-02-05 |
+| 19 | `ai.nodeloc.com` | ¥8.76 | $1.2 / $4.8 | 7.3 | default | gemini-2.0-flash-lite-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -38,4 +39,4 @@
 | 3 | `g.openai365.top` | $1.26 / $5.04 | default | 1 | gemini-2.0-flash-lite-preview |
 | 4 | `chat-api4.087654.xyz` | $2.8 / $11.2 | default | 2 | gemini-2.0-flash-lite-preview |
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # davinci-002
 
-> 127 站提供 · 正常价 116 站 · 名义中位价 **$40**/1M 输入 · 实付中位价 **¥13.8**/1M 输入（47 站公开充值价） · 推算，未对账
+> 141 站提供 · 正常价 129 站 · 名义中位价 **$40**/1M 输入 · 实付中位价 **¥13.1**/1M 输入（60 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,53 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.wanapis.com` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
-| 2 | `api.zyai.online` | ¥2 | $2 / $2 | 1 | AZvip | davinci-002 |
-| 3 | `go.sbgpt.site` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
-| 4 | `rockapi.ai` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
-| 5 | `api.34ku.com` | ¥2.6 | $2.6 / $2.6 | 1 | default | davinci-002 |
-| 6 | `35.aigcbest.top` | ¥3 | $2 / $2 | 1.5 | default | davinci-002 |
-| 7 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | default | davinci-002 |
-| 8 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | davinci-002 |
-| 9 | `new.gateway.icu` | ¥7 | $7 / $7 | 1 | openai | davinci-002 |
-| 10 | `poloai.top` | ¥7 | $7 / $7 | 1 | gpt-vip | davinci-002 |
-| 11 | `api.wukong.support` | ¥7.5 | $7.5 / $7.5 | 1 | gemini官渠 | davinci-002 |
-| 12 | `cnapi.kksj.org` | ¥7.6 | $7.6 / $7.6 | 1 | guan | davinci-002 |
-| 13 | `api.bltcy.ai` | ¥8 | $8 / $8 | 1 | openai官-优质 | davinci-002 |
-| 14 | `deepkey.top` | ¥8 | $8 / $8 | 1 | gpt-openai2 | davinci-002 |
-| 15 | `api.qinzhiai.com` | ¥9 | $9 / $9 | 1 | openai | davinci-002 |
-| 16 | `www.cybersol.net` | ¥9.6 | $4.8 / $4.8 | 2 | GPT Premium | davinci-002 |
-| 17 | `newapi.link` | ¥10 | $10 / $10 | 1 | Openai模型 | davinci-002 |
-| 18 | `tk.dmxapi.cn` | ¥10 | $2 / $2 | 5 | default | davinci-002 |
-| 19 | `ai.t8star.org` | ¥10.8 | $8 / $8 | 1.35 | openai官-优质 | davinci-002 |
-| 20 | `api.ycapi.xyz` | ¥12.17 | $12.1739 / $12.1739 | 1 | gpt-openai2 | davinci-002 |
-| 21 | `api.ocoolai.com` | ¥12.6 | $12.6 / $12.6 | 1 | claude_official | davinci-002 |
-| 22 | `ocool.cn` | ¥12.6 | $12.6 / $12.6 | 1 | claude_official | davinci-002 |
-| 23 | `hk.moleapi.com` | ¥13.6 | $2 / $2 | 6.8 | default | davinci-002 |
-| 24 | `apicdn.xyc.ai` | ¥13.8 | $2 / $2 | 6.9 | gpt-flow | davinci-002 |
-| 25 | `apicdn.xycai.us` | ¥13.8 | $2 / $2 | 6.9 | gpt-flow | davinci-002 |
-| 26 | `cn.gptapi.asia` | ¥14 | $14 / $14 | 1 | enterprise | davinci-002 |
-| 27 | `yutoapi.com` | ¥14 | $14 / $14 | 1 | enterprise | davinci-002 |
-| 28 | `kubernetes-test-api.apiqik.online` | ¥14.6 | $2 / $2 | 7.3 | default | davinci-002 |
-| 29 | `tenzen.ai` | ¥14.6 | $2 / $2 | 7.3 | default | davinci-002 |
-| 30 | `ai2.qiqiai.top` | ¥26.28 | $3.6 / $3.6 | 7.3 | 官方合作渠道 | davinci-002 |
-| 31 | `test.thinkai.tv` | ¥33.75 | $67.5 / $67.5 | 0.5 | default | davinci-002 |
-| 32 | `api.new.bi` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
-| 33 | `keypool.space` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
-| 34 | `new.foxi-api.cn` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
-| 35 | `api.ysaikeji.cn` | ¥43.8 | $6 / $6 | 7.3 | Gpt官转(3倍消耗) | davinci-002 |
-| 36 | `147ai.online` | ¥64 | $80 / $80 | 0.8 | default | davinci-002 |
-| 37 | `vip.yinli.one` | ¥73 | $10 / $10 | 7.3 | GPT-Azure-高价-99%稳定性 | davinci-002 |
-| 38 | `yinli.one` | ¥73 | $10 / $10 | 7.3 | GPT-Azure-高价-99%稳定性 | davinci-002 |
-| 39 | `api.2slk.com` | ¥75 | $75 / $75 | 1 | default | davinci-002 |
-| 40 | `new.yihubang.top` | ¥75 | $75 / $75 | 1 | gpt plus | davinci-002 |
-| 41 | `newapi.hebin123.com` | ¥116.8 | $16 / $16 | 7.3 | default | davinci-002 |
-| 42 | `i-sh.v1api.cc` | ¥160 | $160 / $160 | 1 | gpt官 | davinci-002 |
-| 43 | `i.v1api.cc` | ¥160 | $160 / $160 | 1 | gpt官 | davinci-002 |
-| 44 | `api1.147ai.com` | ¥200 | $200 / $200 | 1 | openai | davinci-002 |
-| 45 | `api1.uiuiapi.com` | ¥252.8 | $75 / $75 | 3.37 | default | davinci-002 |
-| 46 | `nbapi.net` | ¥292 | $40 / $40 | 7.3 | default | davinci-002 |
-| 47 | `wrduai.com` | ¥547.5 | $75 / $75 | 7.3 | 优质官转 | davinci-002 |
+| 1 | `api.eido.top` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
+| 2 | `api.wanapis.com` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
+| 3 | `api.zyai.online` | ¥2 | $2 / $2 | 1 | AZvip | davinci-002 |
+| 4 | `go.sbgpt.site` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
+| 5 | `rockapi.ai` | ¥2 | $2 / $2 | 1 | default | davinci-002 |
+| 6 | `api.34ku.com` | ¥2.6 | $2.6 / $2.6 | 1 | default | davinci-002 |
+| 7 | `35.aigcbest.top` | ¥3 | $2 / $2 | 1.5 | default | davinci-002 |
+| 8 | `api.annyun.cn` | ¥4 | $4 / $4 | 1 | default | davinci-002 |
+| 9 | `gpt777.top` | ¥4 | $4 / $4 | 1 | Azure | davinci-002 |
+| 10 | `api.qinzhiai.com` | ¥5 | $5 / $5 | 1 | openai | davinci-002 |
+| 11 | `api.vakv.cn` | ¥5.2 | $5.2 / $5.2 | 1 | 9999 | davinci-002 |
+| 12 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | default | davinci-002 |
+| 13 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | davinci-002 |
+| 14 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | davinci-002 |
+| 15 | `new.gateway.icu` | ¥7 | $7 / $7 | 1 | openai | davinci-002 |
+| 16 | `poloai.top` | ¥7 | $7 / $7 | 1 | gpt-vip | davinci-002 |
+| 17 | `zen-ai.top` | ¥7 | $7 / $7 | 1 | openai | davinci-002 |
+| 18 | `api.wukong.support` | ¥7.5 | $7.5 / $7.5 | 1 | gemini官渠 | davinci-002 |
+| 19 | `cnapi.kksj.org` | ¥7.6 | $7.6 / $7.6 | 1 | guan | davinci-002 |
+| 20 | `api.bltcy.ai` | ¥8 | $8 / $8 | 1 | openai官-优质 | davinci-002 |
+| 21 | `apilio.ai` | ¥8 | $8 / $8 | 1 | openai官-优质 | davinci-002 |
+| 22 | `deepkey.top` | ¥8 | $8 / $8 | 1 | gpt-openai2 | davinci-002 |
+| 23 | `test-ssl.bltcy.ai` | ¥8 | $8 / $8 | 1 | openai官-优质 | davinci-002 |
+| 24 | `www.cybersol.net` | ¥9.6 | $4.8 / $4.8 | 2 | GPT Premium | davinci-002 |
+| 25 | `newapi.link` | ¥10 | $10 / $10 | 1 | Openai模型 | davinci-002 |
+| 26 | `tk.dmxapi.cn` | ¥10 | $2 / $2 | 5 | default | davinci-002 |
+| 27 | `ai.t8star.org` | ¥10.8 | $8 / $8 | 1.35 | openai官-优质 | davinci-002 |
+| 28 | `api.ycapi.xyz` | ¥12.17 | $12.1739 / $12.1739 | 1 | gpt-openai2 | davinci-002 |
+| 29 | `api.ocoolai.com` | ¥12.6 | $12.6 / $12.6 | 1 | claude_official | davinci-002 |
+| 30 | `ocool.cn` | ¥12.6 | $12.6 / $12.6 | 1 | claude_official | davinci-002 |
+| 31 | `hk.moleapi.com` | ¥13.6 | $2 / $2 | 6.8 | default | davinci-002 |
+| 32 | `apicdn.xyc.ai` | ¥13.8 | $2 / $2 | 6.9 | gpt-flow | davinci-002 |
+| 33 | `apicdn.xycai.us` | ¥13.8 | $2 / $2 | 6.9 | gpt-flow | davinci-002 |
+| 34 | `cn.gptapi.asia` | ¥14 | $14 / $14 | 1 | enterprise | davinci-002 |
+| 35 | `yutoapi.com` | ¥14 | $14 / $14 | 1 | enterprise | davinci-002 |
+| 36 | `kubernetes-test-api.apiqik.online` | ¥14.6 | $2 / $2 | 7.3 | default | davinci-002 |
+| 37 | `newapi.ailingnan.top` | ¥14.6 | $2 / $2 | 7.3 | default | davinci-002 |
+| 38 | `tenzen.ai` | ¥14.6 | $2 / $2 | 7.3 | default | davinci-002 |
+| 39 | `gptnb.ai` | ¥17 | $17 / $17 | 1 | official | davinci-002 |
+| 40 | `oneapi.gptnb.ai` | ¥23 | $23 / $23 | 1 | official | davinci-002 |
+| 41 | `ai2.qiqiai.top` | ¥26.28 | $3.6 / $3.6 | 7.3 | 官方合作渠道 | davinci-002 |
+| 42 | `test.thinkai.tv` | ¥33.75 | $67.5 / $67.5 | 0.5 | default | davinci-002 |
+| 43 | `api.new.bi` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
+| 44 | `keypool.space` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
+| 45 | `new.foxi-api.cn` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
+| 46 | `xinsuanai.com` | ¥40 | $40 / $40 | 1 | default | davinci-002 |
+| 47 | `api.ysaikeji.cn` | ¥43.8 | $6 / $6 | 7.3 | Gpt官转(3倍消耗) | davinci-002 |
+| 48 | `us.pomoai.xyz` | ¥58.4 | $8 / $8 | 7.3 | gpt-官转-40 | davinci-002 |
+| 49 | `147ai.online` | ¥64 | $80 / $80 | 0.8 | default | davinci-002 |
+| 50 | `vip.yinli.one` | ¥73 | $10 / $10 | 7.3 | GPT-Azure-高价-99%稳定性 | davinci-002 |
+
+> 另有 10 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -115,4 +120,4 @@
 
 > 另有 19 站未列出。
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

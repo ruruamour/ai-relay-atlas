@@ -1,6 +1,6 @@
 # qwen2.5-7b-instruct-1m
 
-> 27 站提供 · 正常价 21 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（3 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 22 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,7 +12,8 @@
 |---|---|---|---|---|---|---|
 | 1 | `keypool.space` | ¥0.5 | $0.5 / $1 | 1 | default | qwen2.5-7b-instruct-1m |
 | 2 | `kfcv50.link` | ¥0.5 | $0.5 / $1 | 1 | Domestic | qwen2.5-7b-instruct-1m |
-| 3 | `hy88.my` | ¥2.19 | $0.3 / $0.6 | 7.3 | qwen | qwen2.5-7b-instruct-1m |
+| 3 | `xinsuanai.com` | ¥0.5 | $0.5 / $1 | 1 | default | qwen2.5-7b-instruct-1m |
+| 4 | `hy88.my` | ¥2.19 | $0.3 / $0.6 | 7.3 | qwen | qwen2.5-7b-instruct-1m |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -37,4 +38,4 @@
 | 17 | `www.xiaoruiera.top` | $0.5 / $1 | default | 1 | qwen2.5-7b-instruct-1m |
 | 18 | `yuli.host` | $0.5 / $1 | default | 1 | qwen2.5-7b-instruct-1m |
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

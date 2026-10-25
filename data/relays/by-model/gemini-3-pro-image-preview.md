@@ -1,6 +1,6 @@
 # gemini-3-pro-image-preview
 
-> 721 站提供 · 正常价 426 站 · 名义中位价 **$0.2**/次 · 实付中位价 **¥0.315**/次（353 站公开充值价） · 推算，未对账
+> 772 站提供 · 正常价 453 站 · 名义中位价 **$0.2**/次 · 实付中位价 **¥0.3**/次（378 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,59 +20,59 @@
 | 8 | `api.satuo66.online` | ¥0.06 | $0.06 | 1 | 生图专用 | gemini-3-pro-image-preview |
 | 9 | `api.wanapis.com` | ¥0.06 | $0.06 | 1 | default | gemini-3-pro-image-preview |
 | 10 | `buliangrenai.com` | ¥0.06 | $0.06 | 1 | banana-image | gemini-3-pro-image-preview |
-| 11 | `meinianda.top` | ¥0.06 | $0.06 | 1 | 画图分组 | gemini-3-pro-image-preview |
-| 12 | `newapi.ishuhang.top` | ¥0.06 | $0.06 | 1 | default | gemini-3-pro-image-preview |
-| 13 | `origin.novai.su` | ¥0.06 | $0.06 | 1 | Vertex | gemini-3-pro-image-preview |
-| 14 | `bearlab.ai` | ¥0.065 | $0.065 | 1 | 【生图】image | gemini-3-pro-image-preview |
-| 15 | `momoapi.xin` | ¥0.065 | $0.065 | 1 | img | gemini-3-pro-image-preview |
-| 16 | `api.manxiaobai.online` | ¥0.07 | $0.07 | 1 | 香蕉谷歌分组 | gemini-3-pro-image-preview |
-| 17 | `apiddt.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3-pro-image-preview |
-| 18 | `www.ddtnew.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3-pro-image-preview |
-| 19 | `api.monkey-tools.cn` | ¥0.075 | $0.075 | 1 | 99_线路6_banana生图 | gemini-3-pro-image-preview |
-| 20 | `api.zyai.online` | ¥0.075 | $0.075 | 1 | mini | gemini-3-pro-image-preview |
-| 21 | `video.liangrekui.com` | ¥0.075 | $0.075 | 1 | gemini生图 | gemini-3-pro-image-preview |
-| 22 | `apibasis.com` | ¥0.08 | $0.08 | 1 | 香蕉生图4K | gemini-3-pro-image-preview |
-| 23 | `miaochuang.setbug.cn` | ¥0.08 | $0.08 | 1 | 【香蕉】1-4k | gemini-3-pro-image-preview |
-| 24 | `aruhub.com` | ¥0.09 | $0.09 | 1 | Gemini-nano-bunana2/2Pro/2.1，1-4K同价 | gemini-3-pro-image-preview |
-| 25 | `code.aigcpro.org` | ¥0.09 | $0.09 | 1 | 画图分组 | gemini-3-pro-image-preview |
-| 26 | `fast.aifast.top` | ¥0.09 | $0.09 | 1 | Gemini画图 | gemini-3-pro-image-preview |
-| 27 | `new.omniakey.com` | ¥0.09 | $0.09 | 1 | default | gemini-3-pro-image-preview |
-| 28 | `newapi.aiopus.org` | ¥0.09 | $0.09 | 1 | default | gemini-3-pro-image-preview |
-| 29 | `newapi.aisonnet.org` | ¥0.09 | $0.09 | 1 | default | gemini-3-pro-image-preview |
-| 30 | `api.lingxiaihub.com` | ¥0.1 | $0.1 | 1 | 香蕉生图按次 | gemini-3-pro-image-preview |
-| 31 | `api.strong-api.top` | ¥0.1 | $0.1 | 1 | gemini香蕉生图 | gemini-3-pro-image-preview |
-| 32 | `api2.yoshub.com` | ¥0.1 | $0.1 | 1 | 生图/视频专用 | gemini-3-pro-image-preview |
-| 33 | `gwlink.cc` | ¥0.1 | $0.1 | 1 | image-video | gemini-3-pro-image-preview |
-| 34 | `linapi.net` | ¥0.1 | $0.1 | 1 | default | gemini-3-pro-image-preview |
-| 35 | `moyuu.cc` | ¥0.1 | $0.1 | 1 | image | gemini-3-pro-image-preview |
-| 36 | `new.ddpapi.top` | ¥0.1 | $0.1 | 1 | gemini | gemini-3-pro-image-preview |
-| 37 | `new.vbcoding.cc` | ¥0.1 | $0.1 | 1 | Gemini-反重力（Banana2） | gemini-3-pro-image-preview |
-| 38 | `nikoapi.xyz` | ¥0.1 | $0.1 | 1 | 生图专用 | gemini-3-pro-image-preview |
-| 39 | `routerapi.net` | ¥0.1 | $0.1 | 1 | gemini-image | gemini-3-pro-image-preview |
-| 40 | `tokencount.aigemini.org` | ¥0.1 | $0.1 | 1 | default | gemini-3-pro-image-preview |
-| 41 | `vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | gemini-3-pro-image-preview |
-| 42 | `chunxiao.pro` | ¥0.11 | $0.11 | 1 | gemini_绘图 | gemini-3-pro-image-preview |
-| 43 | `api.amux.ai` | ¥0.12 | $0.12 | 1 | special/google | gemini-3-pro-image-preview |
-| 44 | `api.gettoken.cn` | ¥0.12 | $0.12 | 1 | nano_banana | gemini-3-pro-image-preview |
-| 45 | `api.juaihub.cn` | ¥0.12 | $0.12 | 1 | default | gemini-3-pro-image-preview |
-| 46 | `api.novaeworld.top` | ¥0.12 | $0.12 | 1 | vip | gemini-3-pro-image-preview |
-| 47 | `hk.chenmoai.cn` | ¥0.12 | $0.12 | 1 | default | gemini-3-pro-image-preview |
-| 48 | `new.gateway.icu` | ¥0.12 | $0.12 | 1 | gemini-cli | gemini-3-pro-image-preview |
-| 49 | `nova.vcrauo.com` | ¥0.12 | $0.12 | 1 | Gemini·image Adobe节点 | gemini-3-pro-image-preview |
-| 50 | `www.hfsyapi.cn` | ¥0.12 | $0.12 | 1 | default | gemini-3-pro-image-preview |
+| 11 | `direct-api.cangyuansuanli.cn` | ¥0.06 | $0.06 | 1 | 全模型-无claude/gpt | gemini-3-pro-image-preview |
+| 12 | `meinianda.top` | ¥0.06 | $0.06 | 1 | 画图分组 | gemini-3-pro-image-preview |
+| 13 | `newapi.ishuhang.top` | ¥0.06 | $0.06 | 1 | default | gemini-3-pro-image-preview |
+| 14 | `origin.novai.su` | ¥0.06 | $0.06 | 1 | Vertex | gemini-3-pro-image-preview |
+| 15 | `bearlab.ai` | ¥0.065 | $0.065 | 1 | 【生图】image | gemini-3-pro-image-preview |
+| 16 | `momoapi.xin` | ¥0.065 | $0.065 | 1 | img | gemini-3-pro-image-preview |
+| 17 | `api.manxiaobai.online` | ¥0.07 | $0.07 | 1 | 香蕉谷歌分组 | gemini-3-pro-image-preview |
+| 18 | `apiddt.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3-pro-image-preview |
+| 19 | `www.ddtnew.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3-pro-image-preview |
+| 20 | `api.monkey-tools.cn` | ¥0.075 | $0.075 | 1 | 99_线路6_banana生图 | gemini-3-pro-image-preview |
+| 21 | `api.zyai.online` | ¥0.075 | $0.075 | 1 | mini | gemini-3-pro-image-preview |
+| 22 | `video.liangrekui.com` | ¥0.075 | $0.075 | 1 | gemini生图 | gemini-3-pro-image-preview |
+| 23 | `apibasis.com` | ¥0.08 | $0.08 | 1 | 香蕉生图4K | gemini-3-pro-image-preview |
+| 24 | `miaochuang.setbug.cn` | ¥0.08 | $0.08 | 1 | 【香蕉】1-4k | gemini-3-pro-image-preview |
+| 25 | `aruhub.com` | ¥0.09 | $0.09 | 1 | Gemini-nano-bunana2/2Pro/2.1，1-4K同价 | gemini-3-pro-image-preview |
+| 26 | `code.aigcpro.org` | ¥0.09 | $0.09 | 1 | 画图分组 | gemini-3-pro-image-preview |
+| 27 | `fast.aifast.top` | ¥0.09 | $0.09 | 1 | Gemini画图 | gemini-3-pro-image-preview |
+| 28 | `new.omniakey.com` | ¥0.09 | $0.09 | 1 | default | gemini-3-pro-image-preview |
+| 29 | `newapi.aiopus.org` | ¥0.09 | $0.09 | 1 | default | gemini-3-pro-image-preview |
+| 30 | `newapi.aisonnet.org` | ¥0.09 | $0.09 | 1 | default | gemini-3-pro-image-preview |
+| 31 | `api.lingxiaihub.com` | ¥0.1 | $0.1 | 1 | 香蕉生图按次 | gemini-3-pro-image-preview |
+| 32 | `api.strong-api.top` | ¥0.1 | $0.1 | 1 | gemini香蕉生图 | gemini-3-pro-image-preview |
+| 33 | `api.vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | gemini-3-pro-image-preview |
+| 34 | `api2.yoshub.com` | ¥0.1 | $0.1 | 1 | 生图/视频专用 | gemini-3-pro-image-preview |
+| 35 | `gwlink.cc` | ¥0.1 | $0.1 | 1 | image-video | gemini-3-pro-image-preview |
+| 36 | `linapi.net` | ¥0.1 | $0.1 | 1 | default | gemini-3-pro-image-preview |
+| 37 | `moyuu.cc` | ¥0.1 | $0.1 | 1 | image | gemini-3-pro-image-preview |
+| 38 | `new.ddpapi.top` | ¥0.1 | $0.1 | 1 | gemini | gemini-3-pro-image-preview |
+| 39 | `new.vbcoding.cc` | ¥0.1 | $0.1 | 1 | Gemini-反重力（Banana2） | gemini-3-pro-image-preview |
+| 40 | `nikoapi.xyz` | ¥0.1 | $0.1 | 1 | 生图专用 | gemini-3-pro-image-preview |
+| 41 | `routerapi.net` | ¥0.1 | $0.1 | 1 | gemini-image | gemini-3-pro-image-preview |
+| 42 | `tokencount.aigemini.org` | ¥0.1 | $0.1 | 1 | default | gemini-3-pro-image-preview |
+| 43 | `vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | gemini-3-pro-image-preview |
+| 44 | `chunxiao.pro` | ¥0.11 | $0.11 | 1 | gemini_绘图 | gemini-3-pro-image-preview |
+| 45 | `api.amux.ai` | ¥0.12 | $0.12 | 1 | special/google | gemini-3-pro-image-preview |
+| 46 | `api.gettoken.cn` | ¥0.12 | $0.12 | 1 | nano_banana | gemini-3-pro-image-preview |
+| 47 | `api.juaihub.cn` | ¥0.12 | $0.12 | 1 | default | gemini-3-pro-image-preview |
+| 48 | `api.novaeworld.top` | ¥0.12 | $0.12 | 1 | vip | gemini-3-pro-image-preview |
+| 49 | `dragon3api.com` | ¥0.12 | $0.12 | 1 | image | gemini-3-pro-image-preview |
+| 50 | `hk.chenmoai.cn` | ¥0.12 | $0.12 | 1 | default | gemini-3-pro-image-preview |
 
-> 另有 303 站未列出。
+> 另有 328 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `subapi.muxueai.pro` | $0.01139 | 香蕉生图-原生124K | 0.085 | gemini-3-pro-image-preview |
-| 2 | `api.apikl.ai` | $0.02 | Gemini | 0.2 | gemini-3-pro-image-preview |
-| 3 | `app.yylx.io` | $0.02 | Gemini Nano Banana | 1 | gemini-3-pro-image-preview |
+| 1 | `api.apikl.ai` | $0.02 | Gemini | 0.2 | gemini-3-pro-image-preview |
+| 2 | `app.yylx.io` | $0.02 | Gemini Nano Banana | 1 | gemini-3-pro-image-preview |
+| 3 | `apiai.fun` | $0.024 | Gemini（反重力） | 0.3 | gemini-3-pro-image-preview |
 | 4 | `canana.vcnovb.cn` | $0.03 | Anit Gemini | 0.2 | gemini-3-pro-image-preview |
 | 5 | `sub.vcnovb.cn` | $0.03 | Anit Gemini | 0.2 | gemini-3-pro-image-preview |
-| 6 | `heilovehei.com` | $0.0375 | 反重力 gemini | 0.25 | gemini-3-pro-image-preview |
+| 6 | `heilovehei.com` | $0.0375 | gemini ultra | 0.25 | gemini-3-pro-image-preview |
 | 7 | `momoapi.cn` | $0.0375 | Gemini | 0.25 | gemini-3-pro-image-preview |
 | 8 | `sub2api.luchikey.com` | $0.0469 | Gemini-Pro | 0.35 | gemini-3-pro-image-preview |
 | 9 | `yyds.chybenzun.top` | $0.055 | 【X】香蕉 adobe (过夜，10-18点限流)  | 1 | gemini-3-pro-image-preview |
@@ -81,27 +81,27 @@
 | 12 | `hanhegufei.online` | $0.08 | gemini生图 | 1 | gemini-3-pro-image-preview |
 | 13 | `b.ainano.cloud` | $0.08375 | 香蕉pro | 0.067 | gemini-3-pro-image-preview |
 | 14 | `www.yydsapi.uno` | $0.085 | 香蕉生图 | 1 | gemini-3-pro-image-preview |
-| 15 | `qa.dashun9527.com` | $0.09 | Gemini生图 | 1 | gemini-3-pro-image-preview |
-| 16 | `tokenshengsheng.com` | $0.09 | Nanobanana画图独享 | 1 | gemini-3-pro-image-preview-1k |
-| 17 | `api.123uq.com` | $0.1 | 香蕉2生图 | 1 | gemini-3-pro-image-preview |
-| 18 | `api.hyhawang.com` | $0.1 | 香蕉生图 | 1 | gemini-3-pro-image-preview |
-| 19 | `api.ylai.xyz` | $0.1 | 图片模型 | 1 | gemini-3-pro-image-preview |
-| 20 | `us.vbcoding.cc` | $0.1 | gemin逆向 | 1 | gemini-3-pro-image-preview |
-| 21 | `www.qilinapi.com` | $0.1 | default | 1 | gemini-3-pro-image-preview |
-| 22 | `ai.beimo.cc` | $0.105 | 【按量】【支持生图】Gemini | 0.3 | gemini-3-pro-image-preview |
-| 23 | `www.yzcld.com` | $0.105 | 【按量】【支持生图】Gemini | 0.3 | gemini-3-pro-image-preview |
-| 24 | `xinyue.mom` | $0.1125 | Banana 2/Pro 混组【Gemini】 | 1 | gemini-3-pro-image-preview |
-| 25 | `api.lumenai.cc` | $0.12 | 香蕉生图 (Nano Banana 2.1) | 0.12 | gemini-3-pro-image-preview |
-| 26 | `llm-coding.space` | $0.12 | image综合分组 | 1 | gemini-3-pro-image-preview |
-| 27 | `www.kk-vibe.top` | $0.12 | 无限画布 -- nano-banana 模型 | 1 | gemini-3-pro-image-preview |
-| 28 | `us.ej2075.com` | $0.13 | default | 1 | img特惠/gemini-3-pro-image-preview |
-| 29 | `api-sub.ip233.com` | $0.15 | default | 1 | gemini-3-pro-image-preview |
-| 30 | `cn.fluxtoken.ai` | $0.15 | 【Gemini】banana生图模型 | 0.6 | gemini-3-pro-image-preview |
-| 31 | `goforai.top` | $0.15 | Gemini 香蕉生图 | 1 | gemini-3-pro-image-preview |
-| 32 | `ican-gpt.com` | $0.15 | 【生图】Nano Banana -  4k | 1 | gemini-3-pro-image-preview |
-| 33 | `nextpro.top` | $0.15 | 香蕉生图（官转） | 1 | gemini-3-pro-image-preview |
-| 34 | `ovo1.vip` | $0.15 | Nano Banana 2.1 | 1 | gemini-3-pro-image-preview |
-| 35 | `sub.aigege.one` | $0.15 | 生图专用分组 | 1 | gemini-3-pro-image-preview |
+| 15 | `change2pro.com` | $0.09 | Nano Banana-Leo组 | 1 | gemini-3-pro-image-preview |
+| 16 | `qa.dashun9527.com` | $0.09 | Gemini生图 | 1 | gemini-3-pro-image-preview |
+| 17 | `tokenshengsheng.com` | $0.09 | Nanobanana画图独享 | 1 | gemini-3-pro-image-preview-1k |
+| 18 | `api.123uq.com` | $0.1 | 香蕉2生图 | 1 | gemini-3-pro-image-preview |
+| 19 | `api.hyhawang.com` | $0.1 | 香蕉生图 | 1 | gemini-3-pro-image-preview |
+| 20 | `api.ylai.xyz` | $0.1 | 图片模型 | 1 | gemini-3-pro-image-preview |
+| 21 | `us.vbcoding.cc` | $0.1 | gemin逆向 | 1 | gemini-3-pro-image-preview |
+| 22 | `www.qilinapi.com` | $0.1 | default | 1 | gemini-3-pro-image-preview |
+| 23 | `ai.beimo.cc` | $0.105 | 【按量】【支持生图】Gemini | 0.3 | gemini-3-pro-image-preview |
+| 24 | `www.yzcld.com` | $0.105 | 【按量】【支持生图】Gemini | 0.3 | gemini-3-pro-image-preview |
+| 25 | `xinyue.mom` | $0.1125 | Banana 2/Pro 混组【Gemini】 | 1 | gemini-3-pro-image-preview |
+| 26 | `api.lumenai.cc` | $0.12 | 香蕉生图 (Nano Banana 2.1) | 0.12 | gemini-3-pro-image-preview |
+| 27 | `jizhiapi.site` | $0.12 | nano banana | 1 | gemini-3-pro-image-preview |
+| 28 | `llm-coding.space` | $0.12 | image综合分组 | 1 | gemini-3-pro-image-preview |
+| 29 | `www.kk-vibe.top` | $0.12 | 无限画布 -- nano-banana 模型 | 1 | gemini-3-pro-image-preview |
+| 30 | `us.ej2075.com` | $0.13 | default | 1 | img特惠/gemini-3-pro-image-preview |
+| 31 | `api-sub.ip233.com` | $0.15 | default | 1 | gemini-3-pro-image-preview |
+| 32 | `goforai.top` | $0.15 | Gemini 香蕉生图 | 1 | gemini-3-pro-image-preview |
+| 33 | `ican-gpt.com` | $0.15 | 【生图】Nano Banana -  4k | 1 | gemini-3-pro-image-preview |
+| 34 | `nextpro.top` | $0.15 | 香蕉生图（官转） | 1 | gemini-3-pro-image-preview |
+| 35 | `ovo1.vip` | $0.15 | Nano Banana 2.1 | 1 | gemini-3-pro-image-preview |
 | 36 | `worldcodes.online` | $0.15 | 生图专用 | 1 | gemini-3-pro-image-preview |
 | 37 | `sub-lax.autorouter.io` | $0.16 | Gemini | 0.4 | gemini-3-pro-image-preview |
 | 38 | `128api.cn` | $0.2 | pro付费全模型 | 2 | gemini-3-pro-image-preview |
@@ -118,6 +118,6 @@
 | 49 | `tokenwenwen.com` | $0.45 | NanoBanana独享 | 1 | gemini-3-pro-image-preview-1k |
 | 50 | `api.okinto.com` | $0.6 | 图像-低 | 1 | gemini-3-pro-image-preview |
 
-> 另有 23 站未列出。
+> 另有 25 站未列出。
 
-> 295 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 319 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

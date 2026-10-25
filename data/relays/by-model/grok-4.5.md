@@ -1,6 +1,6 @@
 # grok-4.5
 
-> 1252 站提供 · 正常价 901 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（585 站公开充值价） · 推算，未对账
+> 1317 站提供 · 正常价 944 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（620 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,12 +14,12 @@
 | 2 | `momoapi.xin` | ¥0.04 | $0.04 / $0.12 | 1 | grok | grok-4.5 |
 | 3 | `ainzy.net` | ¥0.06 | $0.06 / $0.18 | 1 | grok | grok-4.5 |
 | 4 | `allaitoken.com` | ¥0.06 | $0.06 / $0.18 | 1 | Grok | grok-4.5 |
-| 5 | `api.zzswitch.com` | ¥0.06 | $0.06 / $0.18 | 1 | grok | grok-4.5 |
-| 6 | `grok101.site` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
-| 7 | `llm-all.pro` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
-| 8 | `model101.site` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
-| 9 | `token101.site` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
-| 10 | `u-ai.me` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
+| 5 | `grok101.site` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
+| 6 | `llm-all.pro` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
+| 7 | `model101.site` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
+| 8 | `token101.site` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
+| 9 | `u-ai.me` | ¥0.06 | $0.06 / $0.18 | 1 | grok-001 | grok-4.5 |
+| 10 | `www.ainzy.net` | ¥0.06 | $0.06 / $0.3 | 1 | grok | grok-4.5 |
 | 11 | `yetoken.vip` | ¥0.07 | $0.07 / $0.21 | 1 | G-Grok | grok-4.5 |
 | 12 | `console.lqapi.xyz` | ¥0.08 | $0.08 / $0.24 | 1 | Grok | grok-4.5 |
 | 13 | `www.apiqd.com` | ¥0.08 | $0.08 / $0.24 | 1 | grok | grok-4.5 |
@@ -51,17 +51,17 @@
 | 39 | `xlapis.com` | ¥0.16 | $0.16 / $0.48 | 1 | grok-缓存分组 | grok-4.5 |
 | 40 | `aipaiai.cn` | ¥0.18 | $0.18 / $0.54 | 1 | Grok | grok-4.5 |
 | 41 | `api.paasai.cc` | ¥0.18 | $0.18 / $0.36 | 1 | Grok | grok-4.5 |
-| 42 | `faojzoo.cn` | ¥0.18 | $0.36 / $1.08 | 0.5 | grok-heavy专线 | grok-4.5 |
-| 43 | `api.duckcoding.ai` | ¥0.2 | $0.2 / $0.6 | 1 | Grok Build | grok-4.5 |
-| 44 | `api.hk.toumingx.fun` | ¥0.2 | $0.2 / $0.6 | 1 | XAI-P1 | grok-4.5 |
-| 45 | `api.lukyface.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok heavy | grok-4.5 |
-| 46 | `api.qfgapi.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Heavy | grok-4.5 |
-| 47 | `api.right.codes` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
-| 48 | `api.rightapi.ai` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
-| 49 | `api.yunnet.top` | ¥0.2 | $0.2 / $0.6 | 1 | Grok | grok-4.5 |
-| 50 | `api.zq4i.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok-0.1倍率-官接号池 | grok-4.5 |
+| 42 | `api.zzswitch.com` | ¥0.18 | $0.18 / $0.54 | 1 | grok-heavy | grok-4.5 |
+| 43 | `faojzoo.cn` | ¥0.18 | $0.36 / $1.08 | 0.5 | grok-heavy专线 | grok-4.5 |
+| 44 | `api.996444.cn` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Search | grok-4.5 |
+| 45 | `api.duckcoding.ai` | ¥0.2 | $0.2 / $0.6 | 1 | Grok Build | grok-4.5 |
+| 46 | `api.hk.toumingx.fun` | ¥0.2 | $0.2 / $0.6 | 1 | XAI-P1 | grok-4.5 |
+| 47 | `api.lukyface.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok heavy | grok-4.5 |
+| 48 | `api.qfgapi.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Heavy | grok-4.5 |
+| 49 | `api.right.codes` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
+| 50 | `api.rightapi.ai` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
 
-> 另有 535 站未列出。
+> 另有 570 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,15 +80,15 @@
 | 11 | `bbapi.ainivox.cn` | $0.1 / $0.3 | Grok分组0.05 | 0.05 | grok-4.5 |
 | 12 | `canana.vcnovb.cn` | $0.1 / $0.3 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.5 |
 | 13 | `sub.vcnovb.cn` | $0.1 / $0.3 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.5 |
-| 14 | `subapi.muxueai.pro` | $0.1 / $0.3 | Grok | 0.05 | grok-4.5 |
-| 15 | `8888.name` | $0.12 / $0.36 | Grok | 0.06 | grok-4.5 |
+| 14 | `8888.name` | $0.12 / $0.36 | Grok | 0.06 | grok-4.5 |
+| 15 | `ai.8888.name` | $0.12 / $0.36 | Grok | 0.06 | grok-4.5 |
 | 16 | `ai.mzlone.top` | $0.12 / $0.36 | Grok - 基础 | 0.06 | grok-4.5 |
-| 17 | `api.api2cn.com` | $0.12 / $0.36 | Grok-Heavy号池组 | 0.06 | grok-4.5 |
-| 18 | `api.text168.com` | $0.14 / $0.42 | Grok-heavy | 0.07 | grok-4.5 |
-| 19 | `nextpro.top` | $0.14 / $0.42 | SuperGrok Heavy（自营） | 0.07 | grok-4.5 |
-| 20 | `www.yydsapi.uno` | $0.14 / $0.42 | Grok Heavy 【自营】 | 0.07 | grok-4.5 |
-| 21 | `z30.top` | $0.14 / $0.42 | GROK heavy | 0.07 | grok-4.5 |
-| 22 | `abinapi.com` | $0.15 / $0.45 | Grok纯血 | 0.075 | grok-4.5 |
+| 17 | `api.8888.name` | $0.12 / $0.36 | Grok | 0.06 | grok-4.5 |
+| 18 | `api.api2cn.com` | $0.12 / $0.36 | Grok-Heavy号池组 | 0.06 | grok-4.5 |
+| 19 | `api.text168.com` | $0.14 / $0.42 | Grok-heavy | 0.07 | grok-4.5 |
+| 20 | `nextpro.top` | $0.14 / $0.42 | SuperGrok Heavy（自营） | 0.07 | grok-4.5 |
+| 21 | `www.yydsapi.uno` | $0.14 / $0.42 | Grok Heavy 【自营】 | 0.07 | grok-4.5 |
+| 22 | `z30.top` | $0.14 / $0.42 | GROK heavy | 0.07 | grok-4.5 |
 | 23 | `aiaizz.com` | $0.16 / $0.48 | Grok | 0.08 | grok-4.5 |
 | 24 | `api.123uq.com` | $0.16 / $0.48 | grok  heavy | 0.08 | grok-4.5 |
 | 25 | `api.apikl.ai` | $0.16 / $0.48 | Grok-Heavy | 0.08 | grok-4.5 |
@@ -115,9 +115,9 @@
 | 46 | `app.yylx.io` | $0.2 / $0.6 | X.AI Grok - 标准 | 0.1 | grok-4.5 |
 | 47 | `cccode.pro` | $0.2 / $0.6 | 【惠】grok-heavy支持4.7 | 0.1 | grok-4.5 |
 | 48 | `codexpert.top` | $0.2 / $0.6 | Gork-heavy | 0.1 | grok-4.5 |
-| 49 | `fluxapi.vip` | $0.2 / $0.6 | Grok-heavy 0.1x | 0.1 | grok-4.5 |
-| 50 | `godoftoken.eu.cc` | $0.2 / $1 | gpt | 0.1 | grok-4.5 |
+| 49 | `godoftoken.eu.cc` | $0.2 / $1 | gpt | 0.1 | grok-4.5 |
+| 50 | `kedaya.ai` | $0.2 / $0.6 | 甩GPT无数条街的Grok 吊打GPT | 0.1 | grok-4.5 |
 
-> 另有 266 站未列出。
+> 另有 274 站未列出。
 
-> 351 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 373 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

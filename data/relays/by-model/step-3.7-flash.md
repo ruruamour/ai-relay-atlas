@@ -1,6 +1,6 @@
 # step-3.7-flash
 
-> 66 站提供 · 正常价 40 站 · 名义中位价 **$0.333846**/1M 输入 · 实付中位价 **¥1.35**/1M 输入（34 站公开充值价） · 推算，未对账
+> 73 站提供 · 正常价 42 站 · 名义中位价 **$0.333846**/1M 输入 · 实付中位价 **¥1.35**/1M 输入（36 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,34 +16,36 @@
 | 4 | `coneverse.com` | ¥0.1849 | $0.184932 / $1.10959 | 1 | supply-c8b615a9916b720126c045d3 | step-3.7-flash |
 | 5 | `infistar.ai` | ¥0.1849 | $0.184932 / $1.10959 | 1 | supply-c8b615a9916b720126c045d3 | step-3.7-flash |
 | 6 | `aws.baby` | ¥0.1929 | $0.192857 / $1.15714 | 1 | 阿里云百炼大客户 | stepfun/step-3.7-flash |
-| 7 | `ai.38yun.cn` | ¥0.21 | $0.21 / $1.2075 | 1 | 官方全系稳定渠道 | stepfun/step-3.7-flash |
-| 8 | `ioll.pp.ua` | ¥0.3 | $0.1 / $0.575 | 3 | nvidia专区 | step-3.7-flash |
-| 9 | `api.aliyunfuwu.top` | ¥0.45 | $0.45 / $1.35 | 1 | StepFun | step-3.7-flash |
-| 10 | `botcf.com` | ¥0.804 | $0.804 / $4.623 | 1 | 🧺otheropenweight-mix | step-3.7-flash |
-| 11 | `api.qinzhiai.com` | ¥1 | $1 / $5.75 | 1 | fast_forward | stepfun/step-3.7-flash |
-| 12 | `api.flymeteor.xyz` | ¥1.314 | $0.18 / $1.035 | 7.3 | 🤖hcnsec | step-3.7-flash |
-| 13 | `supertoken.pro` | ¥1.35 | $0.1849 / $1.1094 | 7.3 | StepFun | stepfun/step-3.7-flash |
-| 14 | `ai.amaxsmp.com` | ¥1.35 | $1.35 / $8.1 | 1 | 原厂直供 | step-3.7-flash |
-| 15 | `ai.hwdrama.com` | ¥1.35 | $1.35 / $8.1 | 1 | default | stepfun/step-3.7-flash |
-| 16 | `api.lingyaai.cn` | ¥1.35 | $1.35 / $8.1 | 1 | default | step-3.7-flash |
-| 17 | `beeroute.ai` | ¥1.35 | $1.35 / $8.1 | 1 | default | step-3.7-flash |
-| 18 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥1.35 | $1.35 / $8.1 | 1 | default | step-3.7-flash |
-| 19 | `zhouyang168.top` | ¥1.35 | $1.35 / $8.1 | 1 | 官方原价 | step-3.7-flash |
-| 20 | `api.apipro.ai` | ¥1.35 | $0.192858 / $1.15714 | 7 | step | step-3.7-flash |
-| 21 | `hk.moleapi.com` | ¥1.36 | $0.2 / $1.15 | 6.8 | default | step-3.7-flash |
-| 22 | `api.tokenrouter.com` | ¥1.4 | $0.2 / $1.15 | 7 | default | stepfun/step-3.7-flash |
-| 23 | `ai.191800.xyz` | ¥1.46 | $0.2 / $1.15 | 7.3 | 魔搭 | stepfun-ai/Step-3.7-Flash |
-| 24 | `unorouter.net` | ¥1.46 | $0.2 / $1.15 | 7.3 | default | stepfun/step-3.7-flash |
-| 25 | `yibuapi.com` | ¥2.025 | $1.35 / $8.1 | 1.5 | default | step-3.7-flash |
-| 26 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $1.76923 | 7.3 | default | stepfun/step-3.7-flash |
-| 27 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $2.07 | 7.3 | 官方合作渠道 | stepfun/step-3.7-flash |
-| 28 | `api2.aigcbest.top` | ¥4.725 | $1.35 / $8.1 | 3.5 | default | step-3.7-flash |
-| 29 | `philia093.qzz.io` | ¥9.855 | $1.35 / $8.1 | 7.3 | default | step-3.7-flash |
-| 30 | `api.llm-token.cn` | ¥14.6 | $2 / $10 | 7.3 | default | step-3.7-flash |
-| 31 | `gpt-agent.cc` | ¥14.6 | $2 / $10 | 7.3 | default | step-3.7-flash |
-| 32 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | step-3.7-flash |
-| 33 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | 幻1 | step-3.7-flash |
-| 34 | `cn.meai.cloud` | ¥36.5 | $5 / $5 | 7.3 | default | step-3.7-flash |
+| 7 | `biezou.com` | ¥0.1929 | $0.192857 / $1.15714 | 1 | 阿里云百炼大客户 | stepfun/step-3.7-flash |
+| 8 | `api.2020111.xyz` | ¥0.2 | $0.2 / $1.15 | 1 | default | step-3.7-flash |
+| 9 | `ai.38yun.cn` | ¥0.21 | $0.21 / $1.2075 | 1 | 官方全系稳定渠道 | stepfun/step-3.7-flash |
+| 10 | `ioll.pp.ua` | ¥0.3 | $0.1 / $0.575 | 3 | nvidia专区 | step-3.7-flash |
+| 11 | `api.aliyunfuwu.top` | ¥0.45 | $0.45 / $1.35 | 1 | StepFun | step-3.7-flash |
+| 12 | `api.qinzhiai.com` | ¥0.7 | $0.7 / $4.025 | 1 | openrouter | stepfun/step-3.7-flash |
+| 13 | `botcf.com` | ¥0.804 | $0.804 / $4.623 | 1 | 🧺otheropenweight-mix | step-3.7-flash |
+| 14 | `api.flymeteor.xyz` | ¥1.314 | $0.18 / $1.035 | 7.3 | 🤖hcnsec | step-3.7-flash |
+| 15 | `supertoken.pro` | ¥1.35 | $0.1849 / $1.1094 | 7.3 | StepFun | stepfun/step-3.7-flash |
+| 16 | `ai.amaxsmp.com` | ¥1.35 | $1.35 / $8.1 | 1 | 原厂直供 | step-3.7-flash |
+| 17 | `ai.hwdrama.com` | ¥1.35 | $1.35 / $8.1 | 1 | default | stepfun/step-3.7-flash |
+| 18 | `api.lingyaai.cn` | ¥1.35 | $1.35 / $8.1 | 1 | default | step-3.7-flash |
+| 19 | `beeroute.ai` | ¥1.35 | $1.35 / $8.1 | 1 | default | step-3.7-flash |
+| 20 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥1.35 | $1.35 / $8.1 | 1 | default | step-3.7-flash |
+| 21 | `zhouyang168.top` | ¥1.35 | $1.35 / $8.1 | 1 | 官方原价 | step-3.7-flash |
+| 22 | `api.apipro.ai` | ¥1.35 | $0.192858 / $1.15714 | 7 | step | step-3.7-flash |
+| 23 | `api.tokenrouter.com` | ¥1.4 | $0.2 / $1.15 | 7 | default | stepfun/step-3.7-flash |
+| 24 | `ai.191800.xyz` | ¥1.46 | $0.2 / $1.15 | 7.3 | 魔搭 | stepfun-ai/Step-3.7-Flash |
+| 25 | `unorouter.net` | ¥1.46 | $0.2 / $1.15 | 7.3 | default | stepfun/step-3.7-flash |
+| 26 | `yibuapi.com` | ¥2.025 | $1.35 / $8.1 | 1.5 | default | step-3.7-flash |
+| 27 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $1.76923 | 7.3 | default | stepfun/step-3.7-flash |
+| 28 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $2.07 | 7.3 | 官方合作渠道 | stepfun/step-3.7-flash |
+| 29 | `api.ifopen.ai` | ¥4.725 | $1.35 / $8.1 | 3.5 | default | step-3.7-flash |
+| 30 | `api2.aigcbest.top` | ¥4.725 | $1.35 / $8.1 | 3.5 | default | step-3.7-flash |
+| 31 | `philia093.qzz.io` | ¥9.855 | $1.35 / $8.1 | 7.3 | default | step-3.7-flash |
+| 32 | `api.llm-token.cn` | ¥14.6 | $2 / $10 | 7.3 | default | step-3.7-flash |
+| 33 | `gpt-agent.cc` | ¥14.6 | $2 / $10 | 7.3 | default | step-3.7-flash |
+| 34 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | step-3.7-flash |
+| 35 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | 幻1 | step-3.7-flash |
+| 36 | `cn.meai.cloud` | ¥36.5 | $5 / $5 | 7.3 | default | step-3.7-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -56,4 +58,4 @@
 | 5 | `oapi.shop` | $0.54 / $3.24 | 国模/非GPT模型汇总 | 0.4 | stepfun/Step-3.7-Flash |
 | 6 | `api.luoqianyi.qzz.io` | $5 / $5 | default | 1 | stepfun-ai/step-3.7-flash |
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

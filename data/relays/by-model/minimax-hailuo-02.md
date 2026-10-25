@@ -1,6 +1,6 @@
 # minimax-hailuo-02
 
-> 90 站提供 · 正常价 81 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.6716**/次（16 站公开充值价） · 推算，未对账
+> 97 站提供 · 正常价 86 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥1.358**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,20 +12,25 @@
 |---|---|---|---|---|---|---|
 | 1 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | MiniMax-Hailuo-02 |
 | 2 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
-| 3 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | MiniMax-Hailuo-02 |
-| 4 | `api.camel-hub.cn` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
-| 5 | `api.camel-hub.com` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
-| 6 | `api.kr777.top` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
-| 7 | `kfcv50.link` | ¥0.49 | $0.49 | 1 | default | MiniMax-Hailuo-02 |
-| 8 | `116.62.113.242` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | minimax-hailuo-02 |
+| 3 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | MiniMax-Hailuo-02 |
+| 4 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | MiniMax-Hailuo-02 |
+| 5 | `api.camel-hub.cn` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
+| 6 | `api.camel-hub.com` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
+| 7 | `api.kr777.top` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-02 |
+| 8 | `kfcv50.link` | ¥0.49 | $0.49 | 1 | default | MiniMax-Hailuo-02 |
 | 9 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | minimax-hailuo-02 |
-| 10 | `toapis.com` | ¥1.358 | $0.194 | 7 | default | MiniMax-Hailuo-02 |
-| 11 | `www.hohoapi.com` | ¥1.746 | $0.582 | 3 | video | MiniMax-Hailuo-02 |
-| 12 | `api.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-02 |
-| 13 | `api.34ku.com` | ¥2.6 | $2.6 | 1 | default | MiniMax-Hailuo-02 |
-| 14 | `ai.t8star.org` | ¥2.7 | $2 | 1.35 | default | MiniMax-Hailuo-02 |
-| 15 | `api.ilaien.com` | ¥2.832 | $0.388 | 7.3 | default | MiniMax-Hailuo-02 |
-| 16 | `api2.aigcbest.top` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-02 |
+| 10 | `api.eido.top` | ¥1 | $1 | 1 | default | minimax-hailuo-02 |
+| 11 | `toapis.com` | ¥1.358 | $0.194 | 7 | default | MiniMax-Hailuo-02 |
+| 12 | `gpt777.top` | ¥1.6 | $1.6 | 1 | opensource | MiniMax-Hailuo-02 |
+| 13 | `www.hohoapi.com` | ¥1.746 | $0.582 | 3 | video | MiniMax-Hailuo-02 |
+| 14 | `api.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-02 |
+| 15 | `apilio.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-02 |
+| 16 | `test-ssl.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-02 |
+| 17 | `api.34ku.com` | ¥2.6 | $2.6 | 1 | default | MiniMax-Hailuo-02 |
+| 18 | `ai.t8star.org` | ¥2.7 | $2 | 1.35 | default | MiniMax-Hailuo-02 |
+| 19 | `api.ilaien.com` | ¥2.832 | $0.388 | 7.3 | default | MiniMax-Hailuo-02 |
+| 20 | `api.ifopen.ai` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-02 |
+| 21 | `api2.aigcbest.top` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-02 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -84,4 +89,4 @@
 
 > 另有 15 站未列出。
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

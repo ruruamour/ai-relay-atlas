@@ -1,6 +1,6 @@
 # grok-chat-fast
 
-> 32 站提供 · 正常价 11 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.46**/1M 输入（9 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 13 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.46**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,12 +13,14 @@
 | 1 | `llmai.freebird2913.tech` | ¥0.36 | $1.2 / $3.6 | 0.3 | Grok | grok-chat-fast |
 | 2 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | grok-chat-fast |
 | 3 | `www.qhaigc.net` | ¥0.8 | $0.8 / $2.4 | 1 | default | grok-chat-fast |
-| 4 | `ai.emoe.top` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-chat-fast |
-| 5 | `sub2api.closeapi.top` | ¥1.46 | $0.2 / $0.6 | 7.3 | grok | grok-chat-fast |
-| 6 | `api.pie-xian.com` | ¥2.19 | $0.3 / $0.9 | 7.3 | 无限制 | grok-chat-fast |
-| 7 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | grok | grok-chat-fast |
-| 8 | `jyqf.me` | ¥19.27 | $2.64 / $7.92 | 7.3 | supergrok | grok-chat-fast |
-| 9 | `api2.kscsnkli.site` | ¥182.5 | $25 / $25 | 7.3 | Jasper | grok-chat-fast |
+| 4 | `api.67.si` | ¥1 | $1 / $0.1 | 1 | default | grok-chat-fast |
+| 5 | `freeapi.dgbmc.top` | ¥1.168 | $0.16 / $0.24 | 7.3 | grok | grok-chat-fast |
+| 6 | `ai.emoe.top` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-chat-fast |
+| 7 | `sub2api.closeapi.top` | ¥1.46 | $0.2 / $0.6 | 7.3 | grok | grok-chat-fast |
+| 8 | `api.pie-xian.com` | ¥2.19 | $0.3 / $0.9 | 7.3 | 无限制 | grok-chat-fast |
+| 9 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | grok | grok-chat-fast |
+| 10 | `jyqf.me` | ¥19.27 | $2.64 / $7.92 | 7.3 | supergrok | grok-chat-fast |
+| 11 | `api2.kscsnkli.site` | ¥182.5 | $25 / $25 | 7.3 | Jasper | grok-chat-fast |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

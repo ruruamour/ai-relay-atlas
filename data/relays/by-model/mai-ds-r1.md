@@ -1,6 +1,6 @@
 # mai-ds-r1
 
-> 80 站提供 · 正常价 75 站 · 名义中位价 **$3.942**/1M 输入 · 实付中位价 **¥3.971**/1M 输入（10 站公开充值价） · 推算，未对账
+> 85 站提供 · 正常价 78 站 · 名义中位价 **$3.942**/1M 输入 · 实付中位价 **¥2.971**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,14 +12,16 @@
 |---|---|---|---|---|---|---|
 | 1 | `big.sbgpt.site` | ¥0.6307 | $0.63072 / $0.63072 | 1 | az-0.4 | MAI-DS-R1 |
 | 2 | `keypool.space` | ¥1.314 | $1.314 / $5.256 | 1 | default | MAI-DS-R1 |
-| 3 | `api.34ku.com` | ¥1.708 | $1.7082 / $6.8328 | 1 | default | MAI-DS-R1 |
-| 4 | `kfcv50.link` | ¥2 | $2 / $8 | 1 | az_act05 | MAI-DS-R1 |
-| 5 | `new.foxi-api.cn` | ¥3.942 | $3.942 / $15.768 | 1 | 官转 | MAI-DS-R1 |
-| 6 | `api.routeeasy.ai` | ¥4 | $4 / $16 | 1 | default | MAI-DS-R1 |
-| 7 | `www.cybersol.net` | ¥4.86 | $2.43 / $9.72 | 2 | GPT Advance | MAI-DS-R1 |
-| 8 | `api.camel-hub.com` | ¥5.6 | $7 / $7 | 0.8 | OFC | mai-ds-r1 |
-| 9 | `api.new.bi` | ¥7.884 | $7.884 / $31.536 | 1 | 官转OpenAI | MAI-DS-R1 |
-| 10 | `nbapi.net` | ¥9.592 | $1.314 / $5.256 | 7.3 | default | mai-ds-r1 |
+| 3 | `xinsuanai.com` | ¥1.314 | $1.314 / $5.256 | 1 | default | MAI-DS-R1 |
+| 4 | `zen-ai.top` | ¥1.314 | $1.314 / $5.256 | 1 | default | MAI-DS-R1 |
+| 5 | `api.34ku.com` | ¥1.708 | $1.7082 / $6.8328 | 1 | default | MAI-DS-R1 |
+| 6 | `kfcv50.link` | ¥2 | $2 / $8 | 1 | az_act05 | MAI-DS-R1 |
+| 7 | `new.foxi-api.cn` | ¥3.942 | $3.942 / $15.768 | 1 | 官转 | MAI-DS-R1 |
+| 8 | `api.routeeasy.ai` | ¥4 | $4 / $16 | 1 | default | MAI-DS-R1 |
+| 9 | `www.cybersol.net` | ¥4.86 | $2.43 / $9.72 | 2 | GPT Advance | MAI-DS-R1 |
+| 10 | `api.camel-hub.com` | ¥5.6 | $7 / $7 | 0.8 | OFC | mai-ds-r1 |
+| 11 | `api.new.bi` | ¥7.884 | $7.884 / $31.536 | 1 | 官转OpenAI | MAI-DS-R1 |
+| 12 | `nbapi.net` | ¥9.592 | $1.314 / $5.256 | 7.3 | default | mai-ds-r1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -76,6 +78,6 @@
 | 49 | `tiantoken.cn` | $3.942 / $15.768 | 官转 | 3 | MAI-DS-R1 |
 | 50 | `token.kkdmx.com` | $3.942 / $15.768 | 官转 | 3 | MAI-DS-R1 |
 
-> 另有 15 站未列出。
+> 另有 16 站未列出。
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

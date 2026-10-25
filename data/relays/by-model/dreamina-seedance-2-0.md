@@ -1,6 +1,6 @@
 # dreamina-seedance-2-0
 
-> 37 站提供 · 正常价 24 站 · 名义中位价 **$7.7**/1M 输入 · 实付中位价 **¥51.1**/1M 输入（23 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 23 站 · 名义中位价 **$7.7**/1M 输入 · 实付中位价 **¥51.1**/1M 输入（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -28,11 +28,10 @@
 | 16 | `beehears.com` | ¥56 | $56 / $56 | 1 | 🎥 视频生成 SeeDance-2 | dreamina-seedance-2-0-260128 |
 | 17 | `images.beehears.com` | ¥56 | $56 / $56 | 1 | 🎥 视频生成 SeeDance-2 | dreamina-seedance-2-0-260128 |
 | 18 | `ucenter.beehears.com` | ¥56 | $56 / $56 | 1 | 🎥 视频生成 SeeDance-2 | dreamina-seedance-2-0-260128 |
-| 19 | `api.qinzhiai.com` | ¥230 | $230 / $230 | 1 | fast_forward | dreamina-seedance-2-0-260128 |
-| 20 | `maisi-ai.com` | ¥357.7 | $49 / $49 | 7.3 | 视频分组 | dreamina-seedance-2-0-260128 |
-| 21 | `m78.newapi.botcf.com` | ¥607.1 | $83.16 / $83.16 | 7.3 | 🎥SeedDance-Pro-视频-BOTCF02(国外满血渠道可NSFW) | dreamina-seedance-2-0-260128 |
-| 22 | `api.weytoken.com` | ¥788.4 | $108 / $108 | 7.3 | 企业视频分组 | dreamina-seedance-2-0-260128 |
-| 23 | `inferhub.net` | ¥3642 | $498.96 / $498.96 | 7.3 | default | dreamina-seedance-2-0-260128 |
+| 19 | `maisi-ai.com` | ¥357.7 | $49 / $49 | 7.3 | 视频分组 | dreamina-seedance-2-0-260128 |
+| 20 | `m78.newapi.botcf.com` | ¥607.1 | $83.16 / $83.16 | 7.3 | 🎥SeedDance-Pro-视频-BOTCF02(国外满血渠道可NSFW) | dreamina-seedance-2-0-260128 |
+| 21 | `api.weytoken.com` | ¥788.4 | $108 / $108 | 7.3 | 企业视频分组 | dreamina-seedance-2-0-260128 |
+| 22 | `inferhub.net` | ¥3642 | $498.96 / $498.96 | 7.3 | default | dreamina-seedance-2-0-260128 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

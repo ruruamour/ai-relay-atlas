@@ -1,6 +1,6 @@
 # deepseek-v4-1-flash
 
-> 38 站提供 · 正常价 19 站 · 名义中位价 **$0.7**/1M 输入 · 实付中位价 **¥1.3**/1M 输入（12 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 23 站 · 名义中位价 **$0.7**/1M 输入 · 实付中位价 **¥1.4**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,27 +12,31 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.126 | $0.126 / $0.252 | 1 | 火山 | deepseek-v4-1-flash-260910 |
 | 2 | `taluna.ai` | ¥0.3 | $0.3 / $1.2 | 1 | openai | deepseek-v4-1-flash |
-| 3 | `ai.hwdrama.com` | ¥1 | $1 / $4 | 1 | default | deepseek-v4-1-flash-260910 |
-| 4 | `nexapi.tech` | ¥1 | $1 / $4 | 1 | 火山方舟 | deepseek-v4-1-flash-260910 |
-| 5 | `api.apiyi.com` | ¥1.05 | $0.15 / $0.6 | 7 | CodexResponses | deepseek-v4-1-flash-260910 |
-| 6 | `api.zyai.online` | ¥1.2 | $1.2 / $4.8 | 1 | Guochan6 | deepseek-v4-1-flash-260910 |
-| 7 | `api.torchai.ai` | ¥1.4 | $1.4 / $5.6 | 1 | 国模 | deepseek-v4-1-flash |
-| 8 | `mytok.vip` | ¥1.775 | $0.2431 / $0.97155 | 7.3 | Models-CN | deepseek-v4-1-flash |
-| 9 | `dreamrouter.ai` | ¥1.995 | $0.285 / $1.14 | 7 | v-deepseek-2 | deepseek-v4-1-flash-260910 |
-| 10 | `api.jiguang.online` | ¥4.015 | $0.55 / $2.2 | 7.3 | 官方deepseek v4.1 flash | deepseek-v4-1-flash-260910 |
-| 11 | `codeyy.top` | ¥9.49 | $1.3 / $5.2 | 7.3 | deepseek | deepseek-v4-1-flash-260910 |
-| 12 | `wrduai.com` | ¥14.6 | $2 / $8 | 7.3 | 官转正价 | deepseek-v4-1-flash-260910 |
+| 3 | `jbbtoken.cn` | ¥0.9 | $0.9 / $3.6 | 1 | 国产模型 | deepseek-v4-1-flash-1017 |
+| 4 | `ai.hwdrama.com` | ¥1 | $1 / $4 | 1 | default | deepseek-v4-1-flash-260910 |
+| 5 | `nexapi.tech` | ¥1 | $1 / $4 | 1 | 火山方舟 | deepseek-v4-1-flash-260910 |
+| 6 | `api.apiyi.com` | ¥1.05 | $0.15 / $0.6 | 7 | CodexResponses | deepseek-v4-1-flash-260910 |
+| 7 | `api.zyai.online` | ¥1.2 | $1.2 / $4.8 | 1 | Guochan6 | deepseek-v4-1-flash-260910 |
+| 8 | `aokapi.com` | ¥1.4 | $1.4 / $5.6 | 1 | CN-model-API | deepseek-v4-1-flash-1017 |
+| 9 | `api.torchai.ai` | ¥1.4 | $1.4 / $5.6 | 1 | 国模 | deepseek-v4-1-flash |
+| 10 | `mytok.vip` | ¥1.775 | $0.2431 / $0.97155 | 7.3 | Models-CN | deepseek-v4-1-flash |
+| 11 | `dreamrouter.ai` | ¥1.995 | $0.285 / $1.14 | 7 | v-deepseek-2 | deepseek-v4-1-flash-260910 |
+| 12 | `jiugx.com` | ¥2.2 | $2.2 / $8.8 | 1 | default | deepseek-v4-1-flash-260910 |
+| 13 | `api.jiguang.online` | ¥4.015 | $0.55 / $2.2 | 7.3 | 官方deepseek v4.1 flash | deepseek-v4-1-flash-260910 |
+| 14 | `codeyy.top` | ¥9.49 | $1.3 / $5.2 | 7.3 | deepseek | deepseek-v4-1-flash-260910 |
+| 15 | `wrduai.com` | ¥14.6 | $2 / $8 | 7.3 | 官转正价 | deepseek-v4-1-flash-260910 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.apikl.ai` | $0.075 / $0.3 | Deepseek（优质） | 0.5 | DeepSeek-V4-1-flash-0910 |
-| 2 | `api.akko.space` | $0.105 / $0.42 | 国产 DeepSeek 满血 | 0.7 | deepseek-v4-1-flash-260910 |
-| 3 | `goforai.top` | $0.6 / $2.4 | DeepSeek统一入口（推荐） | 0.6 | deepseek-v4-1-flash-260910 |
-| 4 | `api.jiguang.me` | $0.7 / $2.8 | 官转deepseek0.7x | 0.7 | deepseek-v4-1-flash-260910 |
-| 5 | `www.jiguang.me` | $0.7 / $2.8 | 官转deepseek0.7x | 0.7 | deepseek-v4-1-flash-260910 |
-| 6 | `relaybases.com` | $1.4 / $5.6 | open-models | 0.7 | deepseek-v4-1-flash |
-| 7 | `www.maitokens.top` | $6 / $24 | DeepSeek-原厂渠道 | 6 | deepseek-v4-1-flash-260910 |
+| 2 | `apiai.fun` | $0.075 / $0.3 | Deepseek（优质） | 0.5 | deepSeek-v4-1-flash-1017 |
+| 3 | `api.akko.space` | $0.105 / $0.42 | 国产 DeepSeek 满血 | 0.7 | deepseek-v4-1-flash-260910 |
+| 4 | `goforai.top` | $0.6 / $2.4 | DeepSeek统一入口（推荐） | 0.6 | deepseek-v4-1-flash-260910 |
+| 5 | `api.jiguang.me` | $0.7 / $2.8 | 官转deepseek0.7x | 0.7 | deepseek-v4-1-flash-260910 |
+| 6 | `www.jiguang.me` | $0.7 / $2.8 | 官转deepseek0.7x | 0.7 | deepseek-v4-1-flash-260910 |
+| 7 | `relaybases.com` | $1.4 / $5.6 | open-models | 0.7 | deepseek-v4-1-flash |
+| 8 | `www.maitokens.top` | $6 / $24 | DeepSeek-原厂渠道 | 6 | deepseek-v4-1-flash-260910 |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

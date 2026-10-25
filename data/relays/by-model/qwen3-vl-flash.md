@@ -1,6 +1,6 @@
 # qwen3-vl-flash
 
-> 105 站提供 · 正常价 92 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.1606**/1M 输入（25 站公开充值价） · 推算，未对账
+> 118 站提供 · 正常价 97 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.1859**/1M 输入（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,25 +16,30 @@
 | 4 | `www.packyapi.com` | ¥0.075 | $0.075 / $0.75 | 1 | bailian | qwen3-vl-flash |
 | 5 | `llm.kagu.one` | ¥0.0803 | $0.011 / $0.1075 | 7.3 | 大杂烩 | qwen/qwen3-vl-flash |
 | 6 | `deeptranx.apiqik.com` | ¥0.1037 | $0.10374 / $1.03115 | 1 | default | qwen3-vl-flash |
-| 7 | `runapi.co` | ¥0.1157 | $0.017142 / $0.17142 | 6.75 | default | qwen3-vl-flash |
-| 8 | `claudecn.ai` | ¥0.135 | $0.135 / $1.35 | 1 | 国产模型 | qwen3-vl-flash |
-| 9 | `yinziapi.top` | ¥0.1476 | $0.1476 / $0.2624 | 1 | 官方国模分组 | qwen3-vl-flash |
-| 10 | `keypool.space` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
-| 11 | `new.foxi-api.cn` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
-| 12 | `tokenone.net` | ¥0.1503 | $0.0221 / $0.0221 | 6.8 | default | qwen3-vl-flash |
-| 13 | `unorouter.net` | ¥0.1606 | $0.022 / $0.215 | 7.3 | default | qwen3-vl-flash |
-| 14 | `layso.ai` | ¥0.2112 | $0.21125 / $1.69 | 1 | Alibaba-1 | qwen3-vl-flash |
-| 15 | `laysoai.com` | ¥0.2112 | $0.21125 / $1.69 | 1 | Alibaba-1 | qwen3-vl-flash |
-| 16 | `www.hohoapi.com` | ¥0.234 | $0.078 / $0.78 | 3 | qwen | qwen3-vl-flash |
-| 17 | `api.ocoolai.com` | ¥0.57 | $0.57 / $5.7 | 1 | cn | qwen3-vl-flash |
-| 18 | `ocool.cn` | ¥0.57 | $0.57 / $5.7 | 1 | cn | qwen3-vl-flash |
-| 19 | `n.lconai.com` | ¥0.6 | $0.6 / $6 | 1 | A2 | qwen3-vl-flash |
-| 20 | `hy88.my` | ¥0.6132 | $0.084 / $0.84 | 7.3 | qwen | qwen3-vl-flash |
-| 21 | `ai.tiantoken.com` | ¥0.7117 | $0.0975 / $0.975 | 7.3 | 鹏宇国内模型1 | qwen3-vl-flash |
-| 22 | `cn.gptapi.asia` | ¥0.98 | $0.98 / $10.5056 | 1 | enterprise | qwen3-vl-flash |
-| 23 | `yutoapi.com` | ¥0.98 | $0.98 / $10.5056 | 1 | enterprise | qwen3-vl-flash |
-| 24 | `codeyy.top` | ¥1.095 | $0.15 / $1.5 | 7.3 | default | qwen3-vl-flash |
-| 25 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-vl-flash |
+| 7 | `xhaoo.com` | ¥0.105 | $0.105 / $1.05 | 1 | cn | qwen3-vl-flash |
+| 8 | `runapi.co` | ¥0.1157 | $0.017142 / $0.17142 | 6.75 | default | qwen3-vl-flash |
+| 9 | `claudecn.ai` | ¥0.135 | $0.135 / $1.35 | 1 | 国产模型 | qwen3-vl-flash |
+| 10 | `yinziapi.top` | ¥0.1476 | $0.1476 / $0.2624 | 1 | 官方国模分组 | qwen3-vl-flash |
+| 11 | `keypool.space` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
+| 12 | `new.foxi-api.cn` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
+| 13 | `xinsuanai.com` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
+| 14 | `tokenone.net` | ¥0.1503 | $0.0221 / $0.0221 | 6.8 | default | qwen3-vl-flash |
+| 15 | `unorouter.net` | ¥0.1606 | $0.022 / $0.215 | 7.3 | default | qwen3-vl-flash |
+| 16 | `layso.ai` | ¥0.2112 | $0.21125 / $1.69 | 1 | Alibaba-1 | qwen3-vl-flash |
+| 17 | `laysoai.com` | ¥0.2112 | $0.21125 / $1.69 | 1 | Alibaba-1 | qwen3-vl-flash |
+| 18 | `www.hohoapi.com` | ¥0.234 | $0.078 / $0.78 | 3 | qwen | qwen3-vl-flash |
+| 19 | `kuaipao.ai` | ¥0.432 | $1.08 / $10.8 | 0.4 | China | qwen3-vl-flash |
+| 20 | `gpt777.top` | ¥0.48 | $0.48 / $4.8 | 1 | opensource | qwen3-vl-flash |
+| 21 | `api.ocoolai.com` | ¥0.57 | $0.57 / $5.7 | 1 | cn | qwen3-vl-flash |
+| 22 | `ocool.cn` | ¥0.57 | $0.57 / $5.7 | 1 | cn | qwen3-vl-flash |
+| 23 | `aiapibase.top` | ¥0.6 | $0.6 / $6 | 1 | default | qwen3-vl-flash |
+| 24 | `n.lconai.com` | ¥0.6 | $0.6 / $6 | 1 | A2 | qwen3-vl-flash |
+| 25 | `hy88.my` | ¥0.6132 | $0.084 / $0.84 | 7.3 | qwen | qwen3-vl-flash |
+| 26 | `ai.tiantoken.com` | ¥0.7117 | $0.0975 / $0.975 | 7.3 | 鹏宇国内模型1 | qwen3-vl-flash |
+| 27 | `cn.gptapi.asia` | ¥0.98 | $0.98 / $10.5056 | 1 | enterprise | qwen3-vl-flash |
+| 28 | `yutoapi.com` | ¥0.98 | $0.98 / $10.5056 | 1 | enterprise | qwen3-vl-flash |
+| 29 | `codeyy.top` | ¥1.095 | $0.15 / $1.5 | 7.3 | default | qwen3-vl-flash |
+| 30 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-vl-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -93,4 +98,4 @@
 
 > 另有 17 站未列出。
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

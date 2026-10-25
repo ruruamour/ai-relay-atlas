@@ -1,6 +1,6 @@
 # nano-banana-pro
 
-> 217 站提供 · 正常价 159 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.2**/次（129 站公开充值价） · 推算，未对账
+> 241 站提供 · 正常价 178 站 · 名义中位价 **$0.16**/次 · 实付中位价 **¥0.2**/次（147 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,47 +21,47 @@
 | 9 | `api.bjhuiqu.net` | ¥0.07 | $0.07 | 1 | 0.无限画布专用 | nano-banana-pro |
 | 10 | `api9.bjhuiqu.net` | ¥0.07 | $0.07 | 1 | 1-图片+视频 | nano-banana-pro |
 | 11 | `cpa057.meta-api.vip` | ¥0.07 | $0.07 | 1 | 1-图片+视频全系 | nano-banana-pro |
-| 12 | `xixi.bjhuiqu.net` | ¥0.07 | $0.07 | 1 | site_34~4dc9fcbd26735987 | nano-banana-pro |
-| 13 | `nezhai.vip` | ¥0.07421 | $0.074214 | 1 | 【生图组】 | nano-banana-pro |
-| 14 | `apibasis.com` | ¥0.08 | $0.08 | 1 | 香蕉生图4K | nano-banana-pro |
-| 15 | `fast.aifast.top` | ¥0.09 | $0.09 | 1 | Gemini画图 | nano-banana-pro |
-| 16 | `video.xiaok.lol` | ¥0.09 | $0.09 | 1 | default | nano-banana-pro |
-| 17 | `xiaok.lol` | ¥0.09 | $0.09 | 1 | 生图模型 | nano-banana-pro |
-| 18 | `aicf.heigh.vip` | ¥0.09 | $0.1 | 0.9 | image-2-seedance | nano-banana-pro |
-| 19 | `xapi.bjhuiqu.net` | ¥0.091 | $0.091 | 1 | site_33~4dc9fcbd26735987 | nano-banana-pro |
-| 20 | `aipaiai.cn` | ¥0.1 | $0.1 | 1 | Nanobanana接口调用 | Nano Banana Pro |
-| 21 | `api.duya88.top` | ¥0.1 | $0.1 | 1 | gemini分组 | nano-banana-pro |
-| 22 | `api.hohai.eu.org` | ¥0.1 | $0.1 | 1 | default | nano-banana-pro |
-| 23 | `api3.kscsnkli.site` | ¥0.1 | $0.1 | 1 | 生图 | nano-banana-pro |
-| 24 | `newapi.prorisehub.com` | ¥0.1 | $0.1 | 1 | default | nano-banana-pro |
-| 25 | `synai996.space` | ¥0.1 | $0.1 | 1 | Image-生图专用 | nano-banana-pro |
-| 26 | `vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | nano-banana-pro |
-| 27 | `www.thinkai.tv` | ¥0.1 | $0.1 | 1 | Nano Banana Pro | nano-banana-pro |
-| 28 | `api.monkey-tools.cn` | ¥0.108 | $0.108 | 1 | 99_线路5_banana生图 | Nano Banana Pro |
-| 29 | `tokenmarket.cheap` | ¥0.11 | $0.11 | 1 | 图像(聚合渠道) | nano-banana-pro |
-| 30 | `deepkey.top` | ¥0.12 | $0.12 | 1 | gemini-image | nano-banana-pro |
-| 31 | `direct.mianyouyou.xyz` | ¥0.12 | $0.12 | 1 | 生图模型 | nano-banana-pro-1k |
-| 32 | `llmhub.ltd` | ¥0.12 | $0.12 | 1 | banana | nano-banana-pro |
-| 33 | `www.hfsyapi.cn` | ¥0.12 | $0.12 | 1 | default | nano-banana-pro |
-| 34 | `model-probe.jbbtoken.cn` | ¥0.125 | $0.125 | 1 | 香蕉4k生图 | nano-banana-pro |
-| 35 | `api.muxllm.com` | ¥0.13 | $0.13 | 1 | Gemini图片/视频模型 | nano-banana-pro |
-| 36 | `api1.link-ai.cc` | ¥0.13 | $0.13 | 1 | default | nano-banana-pro |
-| 37 | `apijing.com` | ¥0.13 | $0.13 | 1 | gptimage稳定 | img特惠/nano-banana-pro |
-| 38 | `api.xctokens.com` | ¥0.15 | $0.15 | 1 | 生图分组 | nano-banana-pro |
-| 39 | `code.ciyuanapi.xyz` | ¥0.15 | $0.15 | 1 | 谷歌生图视频 | adobe/nano-banana-pro |
-| 40 | `origin.novai.su` | ¥0.15 | $0.15 | 1 | Auto | nano-banana-pro |
-| 41 | `us.julianapi.com` | ¥0.15 | $0.15 | 1 | Flow 视频绘图 | nano-banana-pro |
-| 42 | `zl.wonderful.edu.kg` | ¥0.15 | $0.15 | 1 | Nano-Banana-2/Pro生图分组 | Nano-Banana-Pro |
-| 43 | `api.xhuoai.com` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
-| 44 | `yun.v1api.cc` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
-| 45 | `ent.yoct.cn` | ¥0.16 | $0.16 | 1 | 4k生图 | nano-banana-pro |
-| 46 | `kfcv50.link` | ¥0.168 | $0.168 | 1 | banana_2_mix_07_1220 | nano-banana-pro |
-| 47 | `modelsell.com` | ¥0.17 | $0.025 | 6.8 | 标准按次 | nano-banana-pro |
-| 48 | `ai.hwdrama.com` | ¥0.18 | $0.18 | 1 | default | nano-banana-pro |
-| 49 | `api.right.codes` | ¥0.18 | $0.18 | 1 | image | nano-banana-pro |
-| 50 | `api.rightapi.ai` | ¥0.18 | $0.18 | 1 | image | nano-banana-pro |
+| 12 | `direct-api.cangyuansuanli.cn` | ¥0.07 | $0.07 | 1 | 全模型-无claude/gpt | nano-banana-pro-1k |
+| 13 | `xixi.bjhuiqu.net` | ¥0.07 | $0.07 | 1 | site_34~4dc9fcbd26735987 | nano-banana-pro |
+| 14 | `nezhai.vip` | ¥0.07421 | $0.074214 | 1 | 【生图组】 | nano-banana-pro |
+| 15 | `apibasis.com` | ¥0.08 | $0.08 | 1 | 香蕉生图4K | nano-banana-pro |
+| 16 | `fast.aifast.top` | ¥0.09 | $0.09 | 1 | Gemini画图 | nano-banana-pro |
+| 17 | `video.xiaok.lol` | ¥0.09 | $0.09 | 1 | default | nano-banana-pro |
+| 18 | `xiaok.lol` | ¥0.09 | $0.09 | 1 | 生图模型 | nano-banana-pro |
+| 19 | `aicf.heigh.vip` | ¥0.09 | $0.1 | 0.9 | image-2-seedance | nano-banana-pro |
+| 20 | `xapi.bjhuiqu.net` | ¥0.091 | $0.091 | 1 | site_33~4dc9fcbd26735987 | nano-banana-pro |
+| 21 | `aipaiai.cn` | ¥0.1 | $0.1 | 1 | Nanobanana接口调用 | Nano Banana Pro |
+| 22 | `api.duya88.top` | ¥0.1 | $0.1 | 1 | gemini分组 | nano-banana-pro |
+| 23 | `api.hohai.eu.org` | ¥0.1 | $0.1 | 1 | default | nano-banana-pro |
+| 24 | `api.vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | nano-banana-pro |
+| 25 | `api3.kscsnkli.site` | ¥0.1 | $0.1 | 1 | 生图 | nano-banana-pro |
+| 26 | `newapi.prorisehub.com` | ¥0.1 | $0.1 | 1 | default | nano-banana-pro |
+| 27 | `synai996.space` | ¥0.1 | $0.1 | 1 | Image-生图专用 | nano-banana-pro |
+| 28 | `vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | nano-banana-pro |
+| 29 | `www.thinkai.tv` | ¥0.1 | $0.1 | 1 | Nano Banana Pro | nano-banana-pro |
+| 30 | `api.monkey-tools.cn` | ¥0.108 | $0.108 | 1 | 99_线路5_banana生图 | Nano Banana Pro |
+| 31 | `tokenmarket.cheap` | ¥0.11 | $0.11 | 1 | 图像(聚合渠道) | nano-banana-pro |
+| 32 | `deepkey.top` | ¥0.12 | $0.12 | 1 | gemini-image | nano-banana-pro |
+| 33 | `direct.mianyouyou.xyz` | ¥0.12 | $0.12 | 1 | 生图模型 | nano-banana-pro-1k |
+| 34 | `llmhub.ltd` | ¥0.12 | $0.12 | 1 | banana | nano-banana-pro |
+| 35 | `llmhub.uk` | ¥0.12 | $0.12 | 1 | banana | nano-banana-pro |
+| 36 | `www.hfsyapi.cn` | ¥0.12 | $0.12 | 1 | default | nano-banana-pro |
+| 37 | `model-probe.jbbtoken.cn` | ¥0.125 | $0.125 | 1 | 香蕉4k生图 | nano-banana-pro |
+| 38 | `api.muxllm.com` | ¥0.13 | $0.13 | 1 | Gemini图片/视频模型 | nano-banana-pro |
+| 39 | `api1.link-ai.cc` | ¥0.13 | $0.13 | 1 | default | nano-banana-pro |
+| 40 | `apijing.com` | ¥0.13 | $0.13 | 1 | gptimage稳定 | img特惠/nano-banana-pro |
+| 41 | `gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
+| 42 | `oneapi.gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
+| 43 | `api.xctokens.com` | ¥0.15 | $0.15 | 1 | 生图分组 | nano-banana-pro |
+| 44 | `code.ciyuanapi.xyz` | ¥0.15 | $0.15 | 1 | 谷歌生图视频 | adobe/nano-banana-pro |
+| 45 | `origin.novai.su` | ¥0.15 | $0.15 | 1 | Auto | nano-banana-pro |
+| 46 | `us.julianapi.com` | ¥0.15 | $0.15 | 1 | Flow 视频绘图 | nano-banana-pro |
+| 47 | `zl.wonderful.edu.kg` | ¥0.15 | $0.15 | 1 | Nano-Banana-2/Pro生图分组 | Nano-Banana-Pro |
+| 48 | `api.xhuoai.com` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
+| 49 | `yun.v1api.cc` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
+| 50 | `api.eido.top` | ¥0.16 | $0.16 | 1 | default | nano-banana-pro_2k |
 
-> 另有 79 站未列出。
+> 另有 97 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -79,23 +79,24 @@
 | 10 | `qa.dashun9527.com` | $0.1 | Gemini生图 | 1 | nano-banana-pro |
 | 11 | `axis.yoga` | $0.105 | 生图专业版 | 1 | nano-banana-pro-1k |
 | 12 | `sub.linkrun.org` | $0.117 | default | 1 | nano-banana-pro-1k |
-| 13 | `tzcode.top` | $0.13 | Image&Video | 1 | nano-banana-pro |
-| 14 | `us.ej2075.com` | $0.13 | default | 1 | img特惠/nano-banana-pro |
-| 15 | `api.hyhawang.com` | $0.14 | 香蕉生图 | 1 | nano-banana-pro |
-| 16 | `goforai.top` | $0.15 | Gemini 香蕉生图 | 1 | nano-banana-pro |
-| 17 | `sub-lax.autorouter.io` | $0.16 | Gemini | 0.4 | nano-banana-pro |
-| 18 | `ai.comfly.org` | $0.2 | default | 1 | nano-banana-pro |
-| 19 | `api.topapis.cn` | $0.22 | default | 1 | nano-banana-pro-1k |
-| 20 | `jbbtoken.cn` | $0.3 | 香蕉4k生图 | 1 | nano-banana-pro |
+| 13 | `jizhiapi.site` | $0.12 | nano banana | 1 | nano-banana-pro |
+| 14 | `tzcode.top` | $0.13 | Image&Video | 1 | nano-banana-pro |
+| 15 | `us.ej2075.com` | $0.13 | default | 1 | img特惠/nano-banana-pro |
+| 16 | `api.hyhawang.com` | $0.14 | 香蕉生图 | 1 | nano-banana-pro |
+| 17 | `goforai.top` | $0.15 | Gemini 香蕉生图 | 1 | nano-banana-pro |
+| 18 | `sub-lax.autorouter.io` | $0.16 | Gemini | 0.4 | nano-banana-pro |
+| 19 | `ai.comfly.org` | $0.2 | default | 1 | nano-banana-pro |
+| 20 | `api.topapis.cn` | $0.22 | default | 1 | nano-banana-pro-1k |
 | 21 | `aistudio.heigh.vip` | $0.48 | default | 1 | nano-banana-pro |
 | 22 | `api.kkone.vip` | $0.6 | default | 1 | Nano Banana Pro |
 | 23 | `aiapi.market` | $0.84 | img-2 | 12 | nano-banana-pro-1k |
 | 24 | `api.chuangxiangai.asia` | $0.875 | 生图 | 1 | nano-banana-pro-1k |
-| 25 | `api.solov.cc` | $1 | 图片模型 | 1 | nano-banana-pro |
-| 26 | `api.yescale.io` | $1.25 | drawing | 1.25 | nano-banana-pro |
-| 27 | `www.linkbus.net` | $3 | nanobanana生图 | 3 | nano-banana-pro |
-| 28 | `api.nionio2026.xyz` | $6 | image | 1 | [绘图R]nano-banana-pro |
-| 29 | `coloful-rose.com` | $25.2 | Gemini | 3.5 | nano-banana-pro |
-| 30 | `windhub.online` | $71 | Fenghe 桌面统一路由 | 1 | nano_banana_pro |
+| 25 | `vapi.chuangxiangai.asia` | $0.875 | 生图 | 1 | nano-banana-pro-1k |
+| 26 | `api.solov.cc` | $1 | 图片模型 | 1 | nano-banana-pro |
+| 27 | `api.yescale.io` | $1.25 | drawing | 1.25 | nano-banana-pro |
+| 28 | `www.linkbus.net` | $3 | nanobanana生图 | 3 | nano-banana-pro |
+| 29 | `api.nionio2026.xyz` | $6 | image | 1 | [绘图R]nano-banana-pro |
+| 30 | `coloful-rose.com` | $25.2 | Gemini | 3.5 | nano-banana-pro |
+| 31 | `windhub.online` | $71 | Fenghe 桌面统一路由 | 1 | nano_banana_pro |
 
-> 58 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 63 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # ernie-speed
 
-> 34 站提供 · 正常价 28 站 · 名义中位价 **$0.9716**/1M 输入 · 实付中位价 **¥0.9118**/1M 输入（8 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 30 站 · 名义中位价 **$0.9716**/1M 输入 · 实付中位价 **¥0.9716**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,7 +17,9 @@
 | 5 | `api.new.bi` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
 | 6 | `i-sh.v1api.cc` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
 | 7 | `i.v1api.cc` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
-| 8 | `kubernetes-test-api.apiqik.online` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
+| 8 | `api.vakv.cn` | ¥1.425 | $1.42466 / $2.84932 | 1 | 9999 | ERNIE-Speed-128K |
+| 9 | `kubernetes-test-api.apiqik.online` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
+| 10 | `newapi.ailingnan.top` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

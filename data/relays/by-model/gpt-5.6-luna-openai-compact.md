@@ -1,6 +1,6 @@
 # gpt-5.6-luna-openai-compact
 
-> 33 站提供 · 正常价 15 站 · 名义中位价 **$0.26**/1M 输入 · 实付中位价 **¥0.365**/1M 输入（15 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 14 站 · 名义中位价 **$0.28**/1M 输入 · 实付中位价 **¥0.337**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,11 +19,10 @@
 | 7 | `daoxe.com` | ¥0.309 | $0.3 / $1.8 | 1.03 | codex | gpt-5.6-luna-openai-compact |
 | 8 | `na2.whistlelads.com` | ¥0.365 | $0.05 / $0.3 | 7.3 | codex-pro | gpt-5.6-luna-openai-compact |
 | 9 | `vip.brioi.com` | ¥0.48 | $0.48 / $2.88 | 1 | GPT 专线 | gpt-5.6-luna-openai-compact |
-| 10 | `70.33.249.114` | ¥0.584 | $0.08 / $0.48 | 7.3 | gpt_pro | gpt-5.6-luna-openai-compact |
-| 11 | `api.78code.cc` | ¥0.8 | $0.8 / $6.4 | 1 | vip-1-codex-a | gpt-5.6-luna-openai-compact |
-| 12 | `ms.fanrenapi.com` | ¥1.898 | $0.26 / $1.56 | 7.3 | Codex-Pro | gpt-5.6-luna-openai-compact |
-| 13 | `jr.fanrenapi.com` | ¥2.336 | $0.32 / $1.92 | 7.3 | Codex-Pro | gpt-5.6-luna-openai-compact |
-| 14 | `1024token.cc` | ¥7.3 | $1 / $8 | 7.3 | 推荐的plus号池 | gpt-5.6-luna-openai-compact |
-| 15 | `aitokenyes.com` | ¥7.3 | $1 / $8 | 7.3 | 推荐的plus号池 | gpt-5.6-luna-openai-compact |
+| 10 | `api.78code.cc` | ¥0.8 | $0.8 / $6.4 | 1 | vip-1-codex-a | gpt-5.6-luna-openai-compact |
+| 11 | `ms.fanrenapi.com` | ¥1.898 | $0.26 / $1.56 | 7.3 | Codex-Pro | gpt-5.6-luna-openai-compact |
+| 12 | `jr.fanrenapi.com` | ¥2.336 | $0.32 / $1.92 | 7.3 | Codex-Pro | gpt-5.6-luna-openai-compact |
+| 13 | `1024token.cc` | ¥7.3 | $1 / $8 | 7.3 | 推荐的plus号池 | gpt-5.6-luna-openai-compact |
+| 14 | `aitokenyes.com` | ¥7.3 | $1 / $8 | 7.3 | 推荐的plus号池 | gpt-5.6-luna-openai-compact |
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

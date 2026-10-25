@@ -1,6 +1,6 @@
 # doubao-seed-evolving
 
-> 106 站提供 · 正常价 94 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥6.04**/1M 输入（26 站公开充值价） · 推算，未对账
+> 107 站提供 · 正常价 94 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥6.04**/1M 输入（26 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,14 +26,14 @@
 | 14 | `maas.afirstsoft.com` | ¥6.081 | $0.833 / $4.167 | 7.3 | default | doubao-seed-evolving |
 | 15 | `new.foxi-api.cn` | ¥9 | $9 / $45 | 1 | 纯AZ | doubao-seed-evolving |
 | 16 | `api.34ku.com` | ¥15.6 | $15.6 / $78 | 1 | default | doubao-seed-evolving |
-| 17 | `api2.aigcbest.top` | ¥21 | $6 / $30 | 3.5 | default | doubao-seed-evolving |
-| 18 | `ai.tiantoken.com` | ¥28.47 | $3.9 / $19.5 | 7.3 | 鹏宇国内模型1 | doubao-seed-evolving |
-| 19 | `dawnstudioai.com` | ¥30.66 | $4.2 / $21 | 7.3 | 豆包 | doubao-seed-evolving |
-| 20 | `api.chatshare.one` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
-| 21 | `api.tiantoken.com` | ¥43.8 | $6 / $30 | 7.3 | 特供02 | doubao-seed-evolving |
-| 22 | `tidewhisper-ai.xyz` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
-| 23 | `token.34ku.com` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-evolving |
-| 24 | `layso.ai` | ¥50.7 | $50.7 / $253.5 | 1 | Doubao-2 | doubao-seed-evolving |
+| 17 | `api.ifopen.ai` | ¥21 | $6 / $30 | 3.5 | default | doubao-seed-evolving |
+| 18 | `api2.aigcbest.top` | ¥21 | $6 / $30 | 3.5 | default | doubao-seed-evolving |
+| 19 | `ai.tiantoken.com` | ¥28.47 | $3.9 / $19.5 | 7.3 | 鹏宇国内模型1 | doubao-seed-evolving |
+| 20 | `dawnstudioai.com` | ¥30.66 | $4.2 / $21 | 7.3 | 豆包 | doubao-seed-evolving |
+| 21 | `api.chatshare.one` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
+| 22 | `api.tiantoken.com` | ¥43.8 | $6 / $30 | 7.3 | 特供02 | doubao-seed-evolving |
+| 23 | `tidewhisper-ai.xyz` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
+| 24 | `token.34ku.com` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-evolving |
 | 25 | `laysoai.com` | ¥50.7 | $50.7 / $253.5 | 1 | Doubao-2 | doubao-seed-evolving |
 | 26 | `apikey.tech` | ¥73 | $10 / $50 | 7.3 | image2-图片组 | doubao-seed-evolving |
 
@@ -94,4 +94,4 @@
 
 > 另有 18 站未列出。
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3-embedding-0.6b
 
-> 33 站提供 · 正常价 20 站 · 名义中位价 **$0.051**/1M 输入 · 实付中位价 **¥0.07**/1M 输入（18 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 23 站 · 名义中位价 **$0.052**/1M 输入 · 实付中位价 **¥0.07**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,13 +21,16 @@
 | 9 | `api.lingyaai.cn` | ¥0.07 | $0.07 / $0 | 1 | default | qwen3-embedding-0.6b |
 | 10 | `beeroute.ai` | ¥0.07 | $0.07 / $0 | 1 | default | qwen3-embedding-0.6b |
 | 11 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.07 | $0.07 / $0 | 1 | default | qwen3-embedding-0.6b |
-| 12 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-0.6B |
-| 13 | `elysia.h-e.top` | ¥0.2 | $0.04 / $0.04 | 5 | nonchat | qwen3-embedding-0.6b |
-| 14 | `elysiver.h-e.top` | ¥0.2 | $0.04 / $0.04 | 5 | nonchat | qwen3-embedding-0.6b |
-| 15 | `api.ocoolai.com` | ¥0.475 | $0.475 / $0.475 | 1 | cn | qwen3-embedding-0.6b |
-| 16 | `ocool.cn` | ¥0.475 | $0.475 / $0.475 | 1 | cn | qwen3-embedding-0.6b |
-| 17 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen/Qwen3-Embedding-0.6B |
-| 18 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🧬Embedding | Qwen/Qwen3-Embedding-0.6B |
+| 12 | `gpt777.top` | ¥0.16 | $0.16 / $0.16 | 1 | opensource | Qwen/Qwen3-Embedding-0.6B |
+| 13 | `api.ifopen.ai` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-0.6B |
+| 14 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-0.6B |
+| 15 | `api.eido.top` | ¥0.2 | $0.2 / $0.2 | 1 | default | qwen3-embedding-0.6b |
+| 16 | `elysia.h-e.top` | ¥0.2 | $0.04 / $0.04 | 5 | nonchat | qwen3-embedding-0.6b |
+| 17 | `elysiver.h-e.top` | ¥0.2 | $0.04 / $0.04 | 5 | nonchat | qwen3-embedding-0.6b |
+| 18 | `api.ocoolai.com` | ¥0.475 | $0.475 / $0.475 | 1 | cn | qwen3-embedding-0.6b |
+| 19 | `ocool.cn` | ¥0.475 | $0.475 / $0.475 | 1 | cn | qwen3-embedding-0.6b |
+| 20 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen/Qwen3-Embedding-0.6B |
+| 21 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🧬Embedding | Qwen/Qwen3-Embedding-0.6B |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -36,4 +39,4 @@
 | 1 | `api.akko.space` | $0.05 / - | Embedding | 1 | embed-Qwen/Qwen3-Embedding-0.6B |
 | 2 | `api.luoqianyi.qzz.io` | $1 / $1 | default | 1 | Qwen/Qwen3-Embedding-0.6B |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-flash-lite
 
-> 219 站提供 · 正常价 184 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥0.3557**/1M 输入（105 站公开充值价） · 推算，未对账
+> 241 站提供 · 正常价 198 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥0.3557**/1M 输入（115 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,51 +17,51 @@
 | 5 | `api.yuboar.com` | ¥0.1 | $0.1 / $0.4 | 1 | Gemini | gemini-flash-lite-latest |
 | 6 | `gptimgaz.aiearth.dev` | ¥0.1 | $0.1 / $0.4 | 1 | Gemini | gemini-flash-lite-latest |
 | 7 | `kfcv50.link` | ¥0.1 | $0.1 / $0.4 | 1 | Gemini_vip | gemini-flash-lite-latest |
-| 8 | `api.relayrouter.ai` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 9 | `openlux.zhongzhuan.chat` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 10 | `api.tidewhisper-ai.xyz` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 11 | `gzxbykj.com` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 12 | `yunwu.org` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 13 | `api.cloudpass.space` | ¥0.204 | $0.2 / $0.8 | 1.02 | gemini官转 | gemini-flash-lite-latest |
-| 14 | `v2.cloudmist.cloud` | ¥0.2045 | $0.0304417 / $0.121767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 15 | `www.vectronode.com` | ¥0.2134 | $0.0317652 / $0.127061 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 16 | `apiclaw.cn` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 17 | `newapi.xueai.me` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 18 | `ent.yzcld.com` | ¥0.2222 | $0.22 / $0.88 | 1.01 | Gemini-T3 | gemini-flash-lite-latest |
-| 19 | `ciyuan.today` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 20 | `gptapi.top` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 21 | `makerend.com` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 22 | `moliapi.com` | ¥0.2241 | $0.0333535 / $0.133414 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 23 | `ai-api.cc` | ¥0.2312 | $0.0344123 / $0.137649 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 24 | `nodapi.com` | ¥0.2347 | $0.0349417 / $0.139767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 25 | `test-api.apiqik.online` | ¥0.238 | $0.034 / $0.136 | 7 | vertex/sp/gemini | gemini-flash-lite-latest |
-| 26 | `anyaigc.ai` | ¥0.2401 | $0.0357359 / $0.142943 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 27 | `sheepaiplus.top` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 28 | `xiguapi.icu` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 29 | `www.micuapi.ai` | ¥0.25 | $0.25 / $1.5 | 1 | - | gemini-flash-lite-latest |
-| 30 | `api.88api.chat` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 31 | `api.videocaptioner.cn` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 32 | `new.aigc2d.com` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 33 | `oyy-ai.xyz` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 34 | `hboom.ai` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
-| 35 | `hk.hbapis.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
-| 36 | `mgrouter.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest |
-| 37 | `layso.ai` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 38 | `laysoai.com` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 39 | `api.xpluse.plus` | ¥0.29 | $0.29 / $1.16 | 1 | gemini-T3 | gemini-flash-lite-latest |
-| 40 | `coneverse.com` | ¥0.3 | $0.3 / $2.5 | 1 | supply-eb984d151ea1c80c1fc30d6b | gemini-flash-lite-latest |
-| 41 | `infistar.ai` | ¥0.3 | $0.3 / $2.5 | 1 | supply-eb984d151ea1c80c1fc30d6b | gemini-flash-lite-latest |
-| 42 | `api.nixapi.com` | ¥0.3005 | $0.044736 / $0.178944 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 43 | `modelsell.com` | ¥0.34 | $0.05 / $0.2 | 6.8 | Google AI Studio | gemini-flash-lite-latest |
-| 44 | `api2.aigcbest.top` | ¥0.35 | $0.1 / $0.4 | 3.5 | default | gemini-flash-lite-latest |
-| 45 | `aiwuje.com` | ¥0.3557 | $0.052942 / $0.211768 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 46 | `api.echoflowai.cc` | ¥0.3557 | $0.052942 / $0.211768 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 47 | `api.n1n.ai` | ¥0.3557 | $0.052942 / $0.211768 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 48 | `api.quickrouter.ai` | ¥0.3557 | $0.052942 / $0.211768 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 49 | `jeniya.cn` | ¥0.3557 | $0.052942 / $0.211768 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 50 | `linoapi.com` | ¥0.3557 | $0.052942 / $0.211768 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 8 | `xinsuanai.com` | ¥0.1 | $0.1 / $0.4 | 1 | default | gemini-flash-lite-latest |
+| 9 | `gpt777.top` | ¥0.15 | $0.15 / $0.6 | 1 | Gemini-VIP | gemini-flash-lite-latest |
+| 10 | `api.openlux.ai` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 11 | `api.relayrouter.ai` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 12 | `openlux.zhongzhuan.chat` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 13 | `api.tidewhisper-ai.xyz` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 14 | `gzxbykj.com` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 15 | `yunwu.org` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 16 | `8s.hk` | ¥0.2 | $0.2 / $0.8 | 1 | 全模型自动 | gemini-flash-lite-latest-nothinking |
+| 17 | `zen-ai.top` | ¥0.2 | $0.2 / $0.8 | 1 | 优质gemini | gemini-flash-lite-latest |
+| 18 | `api.cloudpass.space` | ¥0.204 | $0.2 / $0.8 | 1.02 | gemini官转 | gemini-flash-lite-latest |
+| 19 | `v2.cloudmist.cloud` | ¥0.2045 | $0.0304417 / $0.121767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 20 | `www.vectronode.com` | ¥0.2134 | $0.0317652 / $0.127061 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 21 | `apiclaw.cn` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 22 | `newapi.xueai.me` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 23 | `wodapis.com` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 24 | `ent.yzcld.com` | ¥0.2222 | $0.22 / $0.88 | 1.01 | Gemini-T3 | gemini-flash-lite-latest |
+| 25 | `ciyuan.today` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 26 | `gptapi.top` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 27 | `makerend.com` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 28 | `moliapi.com` | ¥0.2241 | $0.0333535 / $0.133414 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 29 | `ai-api.cc` | ¥0.2312 | $0.0344123 / $0.137649 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 30 | `nodapi.com` | ¥0.2347 | $0.0349417 / $0.139767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 31 | `test-api.apiqik.online` | ¥0.238 | $0.034 / $0.136 | 7 | vertex/sp/gemini | gemini-flash-lite-latest |
+| 32 | `anyaigc.ai` | ¥0.2401 | $0.0357359 / $0.142943 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 33 | `sheepaiplus.top` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 34 | `xiguapi.icu` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 35 | `www.micuapi.ai` | ¥0.25 | $0.25 / $1.5 | 1 | - | gemini-flash-lite-latest |
+| 36 | `api.88api.chat` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 37 | `api.88api.shop` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 38 | `api.videocaptioner.cn` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 39 | `new.aigc2d.com` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 40 | `oyy-ai.xyz` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 41 | `hboom.ai` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
+| 42 | `hk.hbapis.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
+| 43 | `mgrouter.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest |
+| 44 | `layso.ai` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 45 | `laysoai.com` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 46 | `infai.cc` | ¥0.281 | $0.0418242 / $0.167297 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 47 | `api.xpluse.plus` | ¥0.29 | $0.29 / $1.16 | 1 | gemini-T3 | gemini-flash-lite-latest |
+| 48 | `coneverse.com` | ¥0.3 | $0.3 / $2.5 | 1 | supply-8c15a26f548d079b26b2c1a7 | gemini-flash-lite-latest |
+| 49 | `infistar.ai` | ¥0.3 | $0.3 / $2.5 | 1 | supply-eb984d151ea1c80c1fc30d6b | gemini-flash-lite-latest |
+| 50 | `api.nixapi.com` | ¥0.3005 | $0.044736 / $0.178944 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
 
-> 另有 55 站未列出。
+> 另有 65 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -74,50 +74,50 @@
 | 5 | `aiapibank.com` | $0.035 / $0.14 | Gemini Ultra分组 | 0.35 | gemini-flash-lite-latest |
 | 6 | `saletoken.org` | $0.035 / $0.14 | gemini-反重力 | 0.35 | gemini-flash-lite-latest |
 | 7 | `api.hopeplay.online` | $0.04 / $0.16 | Gemini | 0.4 | gemini-flash-lite-latest |
-| 8 | `api.rcouyi.com` | $0.1 / $0.4 | default | 1 | gemini-flash-lite-latest |
-| 9 | `api.vveai.com` | $0.15 / $0.6 | gemini | 1.5 | gemini-flash-lite-latest |
-| 10 | `ai.kalehui.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 11 | `aiapihub.cloud` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 12 | `aiopus.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 13 | `aiyiwei.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 14 | `anyaigc.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 15 | `api-hub.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 16 | `api.aibh.site` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 17 | `api.aicso.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 18 | `api.anthropicricardo.club` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 19 | `api.antmoo.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 20 | `api.apiplus.org` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 21 | `api.bitidea.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 22 | `api.clai.click` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 23 | `api.cloudmist.cloud` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 24 | `api.gpt666claude.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 25 | `api.modelyard.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 26 | `api.mumuverse.space` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 27 | `api.qingyuntop.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 28 | `api.token173.net` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 29 | `api.vectorengine.ai` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 30 | `api.winfull.cloud-ip.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 31 | `api.wlai.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 32 | `api.xueai.me` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 33 | `api.zhiyikeji.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 34 | `api.zhongzhuan.chat` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 35 | `api.zhongzhuan.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 36 | `api123.eu.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 37 | `apilink.shop` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 38 | `apipro.maynor1024.live` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 39 | `apistudio.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 40 | `apixin.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 41 | `dawnnode.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 42 | `fluxapi.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 43 | `juapi.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 44 | `juhe.34ku.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 45 | `lemonapi.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 46 | `linxingran.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 47 | `minitoken.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 48 | `new.xhuoai.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 49 | `next.aigc2d.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
-| 50 | `one.chatshare.one` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 8 | `api.clawhud.com` | $0.1 / $0.4 | Gemini | 1 | gemini-flash-lite-latest |
+| 9 | `api.rcouyi.com` | $0.1 / $0.4 | default | 1 | gemini-flash-lite-latest |
+| 10 | `lobe.zen-ai.top` | $0.1 / $0.4 | qy | 1 | gemini-flash-lite-latest |
+| 11 | `api.vveai.com` | $0.15 / $0.6 | gemini | 1.5 | gemini-flash-lite-latest |
+| 12 | `new.yunai.link` | $0.15 / $0.6 | Gemini-T1 | 1.5 | gemini-flash-lite-latest |
+| 13 | `ai.kalehui.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 14 | `aiapihub.cloud` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 15 | `aiopus.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 16 | `aiyiwei.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 17 | `anyaigc.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 18 | `api-hub.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 19 | `api.aibh.site` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 20 | `api.aicso.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 21 | `api.anthropicricardo.club` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 22 | `api.antmoo.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 23 | `api.apiplus.org` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 24 | `api.bitidea.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 25 | `api.clai.click` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 26 | `api.cloudmist.cloud` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 27 | `api.gpt666claude.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 28 | `api.modelyard.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 29 | `api.mumuverse.space` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 30 | `api.qingyuntop.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 31 | `api.token173.net` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 32 | `api.vectorengine.ai` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 33 | `api.winfull.cloud-ip.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 34 | `api.wlai.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 35 | `api.xueai.me` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 36 | `api.zhiyikeji.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 37 | `api.zhongzhuan.chat` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 38 | `api.zhongzhuan.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 39 | `api123.eu.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 40 | `apilink.shop` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 41 | `apipro.maynor1024.live` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 42 | `apistudio.vip` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 43 | `apixin.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 44 | `dawnnode.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 45 | `fluxapi.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 46 | `juapi.cc` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 47 | `juhe.34ku.com` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 48 | `lemonapi.cn` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 49 | `linxingran.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
+| 50 | `minitoken.top` | $0.36 / $1.44 | 官转gemini | 3.6 | gemini-flash-lite-latest |
 
-> 另有 29 站未列出。
+> 另有 33 站未列出。
 
-> 35 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 43 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

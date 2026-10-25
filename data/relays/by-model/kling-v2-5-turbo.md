@@ -1,6 +1,6 @@
 # kling-v2-5-turbo
 
-> 24 站提供 · 正常价 11 站 · 名义中位价 **$1.3**/次 · 实付中位价 **¥2.361**/次（11 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 12 站 · 名义中位价 **$1.3**/次 · 实付中位价 **¥2.361**/次（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,9 +17,10 @@
 | 5 | `kfcv50.link` | ¥1.5 | $1.5 | 1 | default | kling-v2-5-turbo |
 | 6 | `hboom.ai` | ¥2.361 | $0.3472 | 6.8 | Kling-Top | kling-v2-5-turbo |
 | 7 | `hk.hbapis.com` | ¥2.361 | $0.3472 | 6.8 | Kling-Top | kling-v2-5-turbo |
-| 8 | `api2.aigcbest.top` | ¥3.5 | $1 | 3.5 | default | kling-v2-5-turbo |
-| 9 | `api.xhuoai.com` | ¥3.75 | $2.5 | 1.5 | default | kling-v2-5-turbo |
-| 10 | `yun.v1api.cc` | ¥3.75 | $2.5 | 1.5 | default | kling-v2-5-turbo |
-| 11 | `runapi.co` | ¥6.075 | $0.9 | 6.75 | default | kling-v2-5-turbo |
+| 8 | `api.ifopen.ai` | ¥3.5 | $1 | 3.5 | default | kling-v2-5-turbo |
+| 9 | `api2.aigcbest.top` | ¥3.5 | $1 | 3.5 | default | kling-v2-5-turbo |
+| 10 | `api.xhuoai.com` | ¥3.75 | $2.5 | 1.5 | default | kling-v2-5-turbo |
+| 11 | `yun.v1api.cc` | ¥3.75 | $2.5 | 1.5 | default | kling-v2-5-turbo |
+| 12 | `runapi.co` | ¥6.075 | $0.9 | 6.75 | default | kling-v2-5-turbo |
 
 > 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

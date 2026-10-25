@@ -1,6 +1,6 @@
 # doubao-1-5-pro
 
-> 22 站提供 · 正常价 20 站 · 名义中位价 **$0.66**/1M 输入 · 实付中位价 **¥0.8001**/1M 输入（19 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 25 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,19 +16,24 @@
 | 4 | `kfcv50.link` | ¥0.4 | $0.4 / $1 | 1 | Domestic | doubao-1-5-pro-32k-250115 |
 | 5 | `api.xhuoai.com` | ¥0.72 | $0.48 / $1.2 | 1.5 | deepseek | doubao-1-5-pro-32k-250115 |
 | 6 | `hk.moleapi.com` | ¥0.748 | $0.11 / $0.28 | 6.8 | default | doubao-1-5-pro-32k-250115 |
-| 7 | `dn.v1api.cc` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k |
-| 8 | `i-sh.v1api.cc` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
-| 9 | `i.v1api.cc` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
-| 10 | `ssvip.dmxapi.com` | ¥0.8001 | $0.1096 / $0.274 | 7.3 | default | doubao-1-5-pro-32k-250115 |
-| 11 | `api.34ku.com` | ¥1.04 | $1.04 / $2.6 | 1 | default | doubao-1-5-pro-32k-250115 |
-| 12 | `yun.v1api.cc` | ¥1.2 | $0.8 / $2 | 1.5 | default | doubao-1-5-pro-32k |
-| 13 | `www.hohoapi.com` | ¥2.496 | $0.832 / $2.08 | 3 | default | doubao-1-5-pro-32k |
-| 14 | `api2.aigcbest.top` | ¥2.8 | $0.8 / $2 | 3.5 | default | doubao-1-5-pro-32k-250115 |
-| 15 | `apius.shubiaobiao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
-| 16 | `hightpm.aiearth.dev` | ¥3.65 | $0.5 / $1.5 | 7.3 | 官方直连-Azure-Claude-Gemini | doubao-1-5-pro-32k-250115 |
-| 17 | `fs.dmxapi.cn` | ¥3.796 | $0.52 / $1.3 | 7.3 | default | doubao-1-5-pro-32k-250115 |
-| 18 | `opus.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
-| 19 | `xh.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
+| 7 | `api.eido.top` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
+| 8 | `dn.v1api.cc` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k |
+| 9 | `i-sh.v1api.cc` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
+| 10 | `i.v1api.cc` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
+| 11 | `pay.magic666.top` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
+| 12 | `zen-ai.top` | ¥0.8 | $0.8 / $2 | 1 | default | doubao-1-5-pro-32k-250115 |
+| 13 | `ssvip.dmxapi.com` | ¥0.8001 | $0.1096 / $0.274 | 7.3 | default | doubao-1-5-pro-32k-250115 |
+| 14 | `api.34ku.com` | ¥1.04 | $1.04 / $2.6 | 1 | default | doubao-1-5-pro-32k-250115 |
+| 15 | `yun.v1api.cc` | ¥1.2 | $0.8 / $2 | 1.5 | default | doubao-1-5-pro-32k |
+| 16 | `www.hohoapi.com` | ¥2.496 | $0.832 / $2.08 | 3 | default | doubao-1-5-pro-32k |
+| 17 | `api.ifopen.ai` | ¥2.8 | $0.8 / $2 | 3.5 | default | doubao-1-5-pro-32k-250115 |
+| 18 | `api2.aigcbest.top` | ¥2.8 | $0.8 / $2 | 3.5 | default | doubao-1-5-pro-32k-250115 |
+| 19 | `api.ai-gaochao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
+| 20 | `apius.shubiaobiao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
+| 21 | `hightpm.aiearth.dev` | ¥3.65 | $0.5 / $1.5 | 7.3 | 官方直连-Azure-Claude-Gemini | doubao-1-5-pro-32k-250115 |
+| 22 | `fs.dmxapi.cn` | ¥3.796 | $0.52 / $1.3 | 7.3 | default | doubao-1-5-pro-32k-250115 |
+| 23 | `opus.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
+| 24 | `xh.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

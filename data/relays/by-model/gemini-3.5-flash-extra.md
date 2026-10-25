@@ -1,6 +1,6 @@
 # gemini-3.5-flash-extra
 
-> 75 站提供 · 正常价 31 站 · 名义中位价 **$0.57**/1M 输入 · 实付中位价 **¥1.774**/1M 输入（17 站公开充值价） · 推算，未对账
+> 77 站提供 · 正常价 31 站 · 名义中位价 **$0.57**/1M 输入 · 实付中位价 **¥0.6**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,13 +17,13 @@
 | 5 | `daoxe.com` | ¥0.4635 | $0.45 / $2.7 | 1.03 | Ant-Gemini | gemini-3.5-flash-extra-low |
 | 6 | `new.tianluo.ccwu.cc` | ¥0.57 | $0.57 / $3.42 | 1 | Genmi | gemini-3.5-flash-extra-low |
 | 7 | `www.tokenbuy.shop` | ¥0.5775 | $0.5775 / $3.465 | 1 | Gemini哈基米 | gemini-3.5-flash-extra-low |
-| 8 | `relayrax.com` | ¥0.6 | $0.6 / $3.6 | 1 | gemini | gemini-3.5-flash-extra-low |
-| 9 | `ai.hebox.net` | ¥1.774 | $0.243 / $1.458 | 7.3 | Gemini | gemini-3.5-flash-extra-low |
-| 10 | `www.jubaopeng.vip` | ¥2.19 | $0.3 / $1.8 | 7.3 | Gemini | gemini-3.5-flash-extra-low |
-| 11 | `otoken.pro` | ¥3 | $3 / $12 | 1 | default | gemini-3.5-flash-extra-low |
-| 12 | `quanter.cloud` | ¥5.175 | $0.75 / $3.75 | 6.9 | Gemini 反重力 | gemini-3.5-flash-extra-low |
-| 13 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | gemini-3.5-flash-extra-low |
-| 14 | `107.167.18.218` | ¥10.95 | $1.5 / $9 | 7.3 | Gemini-逆-openai | gemini-3.5-flash-extra-low |
+| 8 | `deepkey.top` | ¥0.6 | $0.6 / $3.6 | 1 | gemini-ultra | gemini-3.5-flash-extra-low |
+| 9 | `relayrax.com` | ¥0.6 | $0.6 / $3.6 | 1 | gemini | gemini-3.5-flash-extra-low |
+| 10 | `ai.hebox.net` | ¥1.774 | $0.243 / $1.458 | 7.3 | Gemini | gemini-3.5-flash-extra-low |
+| 11 | `www.jubaopeng.vip` | ¥2.19 | $0.3 / $1.8 | 7.3 | Gemini | gemini-3.5-flash-extra-low |
+| 12 | `otoken.pro` | ¥3 | $3 / $12 | 1 | default | gemini-3.5-flash-extra-low |
+| 13 | `quanter.cloud` | ¥5.175 | $0.75 / $3.75 | 6.9 | Gemini 反重力 | gemini-3.5-flash-extra-low |
+| 14 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | gemini-3.5-flash-extra-low |
 | 15 | `api.zhengmi.org` | ¥10.95 | $1.5 / $9 | 7.3 | Gemini-逆-openai | gemini-3.5-flash-extra-low |
 | 16 | `zz.xcwang.cn` | ¥10.95 | $1.5 / $0.5 | 7.3 | Antigravity | gemini-3.5-flash-extra-low |
 | 17 | `aizhongzhuan.com` | ¥21.9 | $3 / $27 | 7.3 | 反重力Gemini | gemini-3.5-flash-extra-low |
@@ -47,4 +47,4 @@
 | 13 | `ai.xem8k5.top` | $8.1 / $48.6 | gemini | 18 | gemini-3.5-flash-extra-low |
 | 14 | `ovh.xem8k5.top` | $8.1 / $48.6 | gemini | 18 | gemini-3.5-flash-extra-low |
 
-> 44 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 46 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen-image-2.0
 
-> 159 站提供 · 正常价 143 站 · 名义中位价 **$0.26**/次 · 实付中位价 **¥0.1927**/次（77 站公开充值价） · 推算，未对账
+> 174 站提供 · 正常价 152 站 · 名义中位价 **$0.2**/次 · 实付中位价 **¥0.1927**/次（85 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,57 +11,57 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `aws.baby` | ¥0.02857 | $0.0285714 | 1 | 阿里云百炼大客户 | qwen-image-2.0 |
-| 2 | `tokenworldapi.com` | ¥0.02867 | $0.028671 | 1 | default | qwen-image-2.0 |
-| 3 | `api.camel-hub.cn` | ¥0.08 | $0.1 | 0.8 | default | qwen-image-2.0-2026-03-03 |
-| 4 | `api.camel-hub.com` | ¥0.08 | $0.1 | 0.8 | default | qwen-image-2.0-2026-03-03 |
-| 5 | `api.kr777.top` | ¥0.08 | $0.1 | 0.8 | default | qwen-image-2.0-2026-03-03 |
-| 6 | `www.ggwk1.online` | ¥0.1 | $0.1 | 1 | a全模型综合组-1倍率 | qwen-image-2.0 |
-| 7 | `test-api.apiqik.online` | ¥0.126 | $0.0179991 | 7 | aliyun/official | qwen-image-2.0 |
-| 8 | `api.relayrouter.ai` | ¥0.1284 | $0.0191178 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 9 | `openlux.zhongzhuan.chat` | ¥0.1284 | $0.0191178 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 10 | `llmhub.net` | ¥0.14 | $0.0175 | 8 | default | qwen-image-2.0 |
-| 11 | `api.tidewhisper-ai.xyz` | ¥0.1413 | $0.0210296 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 12 | `gzxbykj.com` | ¥0.1413 | $0.0210296 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 13 | `yunwu.org` | ¥0.1413 | $0.0210296 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 14 | `v2.cloudmist.cloud` | ¥0.1477 | $0.0219855 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 15 | `www.vectronode.com` | ¥0.1541 | $0.0229414 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 16 | `apiclaw.cn` | ¥0.1554 | $0.0231325 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 17 | `newapi.xueai.me` | ¥0.1554 | $0.0231325 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 18 | `ciyuan.today` | ¥0.1605 | $0.0238973 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 19 | `gptapi.top` | ¥0.1605 | $0.0238973 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 20 | `makerend.com` | ¥0.1605 | $0.0238973 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 21 | `moliapi.com` | ¥0.1618 | $0.0240884 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 22 | `ai-api.cc` | ¥0.167 | $0.0248531 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 23 | `116.62.113.242` | ¥0.1679 | $0.023 | 7.3 | 视频模型聚合 | qwen-image-2.0 |
-| 24 | `synthapi.asia` | ¥0.1679 | $0.023 | 7.3 | 视频模型聚合 | qwen-image-2.0 |
-| 25 | `nodapi.com` | ¥0.1695 | $0.0252355 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 26 | `layso.ai` | ¥0.1721 | $0.17206 | 1 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 27 | `laysoai.com` | ¥0.1721 | $0.17206 | 1 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 28 | `anyaigc.ai` | ¥0.1734 | $0.025809 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 29 | `sheepaiplus.top` | ¥0.1798 | $0.0267649 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 30 | `xiguapi.icu` | ¥0.1798 | $0.0267649 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 31 | `claudecn.ai` | ¥0.18 | $0.18 | 1 | 国产模型 | qwen-image-2.0-2026-03-03 |
-| 32 | `vsoui.com` | ¥0.18 | $0.18 | 1 | default | qwen-image-2.0 |
-| 33 | `api.wanapis.com` | ¥0.182 | $0.182 | 1 | default | qwen-image-2.0 |
-| 34 | `api2.aigcbest.top` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | qwen-image-2.0 |
-| 35 | `open.cherryin.ai` | ¥0.1858 | $0.0273973 | 6.78 | default | qwen/qwen-image-2.0 |
-| 36 | `api.88api.chat` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 37 | `api.videocaptioner.cn` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 38 | `new.aigc2d.com` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 39 | `oyy-ai.xyz` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
-| 40 | `express-ent-admin.cherryin.net` | ¥0.1973 | $0.0273973 | 7.2 | default | qwen/qwen-image-2.0 |
-| 41 | `ai.hwdrama.com` | ¥0.2 | $0.2 | 1 | default | qwen-image-2.0 |
-| 42 | `api.ccodezh.com` | ¥0.2 | $0.2 | 1 | default | qwen-image-2.0 |
-| 43 | `api.xbai.top` | ¥0.2 | $0.2 | 1 | default | qwen-image-2.0 |
-| 44 | `n.lconai.com` | ¥0.2 | $0.2 | 1 | B1 | qwen-image-2.0 |
-| 45 | `ai-model.chinaz.net` | ¥0.2 | $0.0273973 | 7.3 | default | qwen-image-2.0 |
-| 46 | `modelsell.com` | ¥0.204 | $0.03 | 6.8 | Alibaba | qwen-image-2.0 |
-| 47 | `unorouter.net` | ¥0.2086 | $0.0285714 | 7.3 | default | qwen-image-2.0 |
-| 48 | `ai.zan.top` | ¥0.2093 | $0.028671 | 7.3 | default | qwen-image-2.0 |
-| 49 | `router.zan.top` | ¥0.2093 | $0.028671 | 7.3 | default | qwen-image-2.0 |
-| 50 | `api.nixapi.com` | ¥0.2171 | $0.0323091 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 2 | `biezou.com` | ¥0.02857 | $0.0285714 | 1 | 阿里云百炼大客户 | qwen-image-2.0 |
+| 3 | `tokenworldapi.com` | ¥0.02867 | $0.028671 | 1 | default | qwen-image-2.0 |
+| 4 | `api.camel-hub.cn` | ¥0.08 | $0.1 | 0.8 | default | qwen-image-2.0-2026-03-03 |
+| 5 | `api.camel-hub.com` | ¥0.08 | $0.1 | 0.8 | default | qwen-image-2.0-2026-03-03 |
+| 6 | `api.kr777.top` | ¥0.08 | $0.1 | 0.8 | default | qwen-image-2.0-2026-03-03 |
+| 7 | `www.ggwk1.online` | ¥0.1 | $0.1 | 1 | a全模型综合组-1倍率 | qwen-image-2.0 |
+| 8 | `test-api.apiqik.online` | ¥0.126 | $0.0179991 | 7 | aliyun/official | qwen-image-2.0 |
+| 9 | `api.openlux.ai` | ¥0.1284 | $0.0191178 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 10 | `api.relayrouter.ai` | ¥0.1284 | $0.0191178 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 11 | `openlux.zhongzhuan.chat` | ¥0.1284 | $0.0191178 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 12 | `llmhub.net` | ¥0.14 | $0.0175 | 8 | default | qwen-image-2.0 |
+| 13 | `api.tidewhisper-ai.xyz` | ¥0.1413 | $0.0210296 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 14 | `gzxbykj.com` | ¥0.1413 | $0.0210296 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 15 | `yunwu.org` | ¥0.1413 | $0.0210296 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 16 | `v2.cloudmist.cloud` | ¥0.1477 | $0.0219855 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 17 | `www.vectronode.com` | ¥0.1541 | $0.0229414 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 18 | `apiclaw.cn` | ¥0.1554 | $0.0231325 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 19 | `newapi.xueai.me` | ¥0.1554 | $0.0231325 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 20 | `wodapis.com` | ¥0.1554 | $0.0231325 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 21 | `ciyuan.today` | ¥0.1605 | $0.0238973 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 22 | `gptapi.top` | ¥0.1605 | $0.0238973 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 23 | `makerend.com` | ¥0.1605 | $0.0238973 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 24 | `moliapi.com` | ¥0.1618 | $0.0240884 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 25 | `ai-api.cc` | ¥0.167 | $0.0248531 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 26 | `infai.cc` | ¥0.167 | $0.0248531 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 27 | `synthapi.asia` | ¥0.1679 | $0.023 | 7.3 | 视频模型聚合 | qwen-image-2.0 |
+| 28 | `nodapi.com` | ¥0.1695 | $0.0252355 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 29 | `layso.ai` | ¥0.1721 | $0.17206 | 1 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 30 | `laysoai.com` | ¥0.1721 | $0.17206 | 1 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 31 | `anyaigc.ai` | ¥0.1734 | $0.025809 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 32 | `sheepaiplus.top` | ¥0.1798 | $0.0267649 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 33 | `xiguapi.icu` | ¥0.1798 | $0.0267649 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 34 | `claudecn.ai` | ¥0.18 | $0.18 | 1 | 国产模型 | qwen-image-2.0-2026-03-03 |
+| 35 | `vsoui.com` | ¥0.18 | $0.18 | 1 | default | qwen-image-2.0 |
+| 36 | `api.ifopen.ai` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | qwen-image-2.0 |
+| 37 | `api.wanapis.com` | ¥0.182 | $0.182 | 1 | default | qwen-image-2.0 |
+| 38 | `api2.aigcbest.top` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | qwen-image-2.0 |
+| 39 | `open.cherryin.ai` | ¥0.1858 | $0.0273973 | 6.78 | default | qwen/qwen-image-2.0 |
+| 40 | `api.88api.chat` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 41 | `api.88api.shop` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 42 | `api.videocaptioner.cn` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 43 | `new.aigc2d.com` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 44 | `oyy-ai.xyz` | ¥0.1927 | $0.0286767 | 6.718 | Alibaba-image-1 | qwen-image-2.0-2026-03-03 |
+| 45 | `express-ent-admin.cherryin.net` | ¥0.1973 | $0.0273973 | 7.2 | default | qwen/qwen-image-2.0 |
+| 46 | `ai.hwdrama.com` | ¥0.2 | $0.2 | 1 | default | qwen-image-2.0 |
+| 47 | `api.ccodezh.com` | ¥0.2 | $0.2 | 1 | default | qwen-image-2.0 |
+| 48 | `api.xbai.top` | ¥0.2 | $0.2 | 1 | default | qwen-image-2.0 |
+| 49 | `n.lconai.com` | ¥0.2 | $0.2 | 1 | B1 | qwen-image-2.0 |
+| 50 | `ai-model.chinaz.net` | ¥0.2 | $0.0273973 | 7.3 | default | qwen-image-2.0 |
 
-> 另有 27 站未列出。
+> 另有 35 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `startapi.top` | $0.26 | default | 1 | qwen-image-2.0-2026-03-03 |
 | 50 | `tiantoken.cn` | $0.26 | default | 1 | qwen-image-2.0-2026-03-03 |
 
-> 另有 16 站未列出。
+> 另有 17 站未列出。
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

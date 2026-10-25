@@ -1,6 +1,6 @@
 # agnes-image-2.1-flash
 
-> 30 站提供 · 正常价 13 站 · 名义中位价 **$0.02**/次 · 实付中位价 **¥0.04**/次（11 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 14 站 · 名义中位价 **$0.02**/次 · 实付中位价 **¥0.045**/次（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,7 +20,8 @@
 | 8 | `ai.chuyel.top` | ¥0.073 | $0.01 | 7.3 | 小叶币 | agnes-image-2.1-flash |
 | 9 | `api.34ku.com` | ¥0.104 | $0.104 | 1 | default | agnes-image-2.1-flash |
 | 10 | `ku-ai.one` | ¥0.146 | $0.02 | 7.3 | agnes | agnes-image-2.1-flash |
-| 11 | `api.pie-xian.com` | ¥0.73 | $0.1 | 7.3 | user | agnes-image-2.1-flash |
+| 11 | `kuai-ai.vip` | ¥0.146 | $0.02 | 7.3 | agnes | agnes-image-2.1-flash |
+| 12 | `api.pie-xian.com` | ¥0.73 | $0.1 | 7.3 | user | agnes-image-2.1-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -29,4 +30,4 @@
 | 1 | `api.asdfas.party` | $0.009 | openai原生生图分组 | 0.3 | agnes-image-2.1-flash |
 | 2 | `3seeker.site` | $0.05 | 勿用调试 | 1 | agnes-image-2.1-flash |
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

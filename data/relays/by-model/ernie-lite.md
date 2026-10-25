@@ -1,6 +1,6 @@
 # ernie-lite
 
-> 28 站提供 · 正常价 27 站 · 名义中位价 **$0.8286**/1M 输入 · 实付中位价 **¥0.8286**/1M 输入（7 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 29 站 · 名义中位价 **$0.8286**/1M 输入 · 实付中位价 **¥0.8286**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,8 +15,10 @@
 | 3 | `api.new.bi` | ¥0.8286 | $0.8286 / $1.6572 | 1 | default | ERNIE-Lite-8K |
 | 4 | `i-sh.v1api.cc` | ¥0.8286 | $0.8286 / $1.6572 | 1 | default | ERNIE-Lite-8K |
 | 5 | `i.v1api.cc` | ¥0.8286 | $0.8286 / $1.6572 | 1 | default | ERNIE-Lite-8K |
-| 6 | `tk.dmxapi.cn` | ¥2.055 | $0.410959 / $0.821918 | 5 | default | ERNIE-Lite-8K-0308 |
-| 7 | `kubernetes-test-api.apiqik.online` | ¥3 | $0.410959 / $0.821918 | 7.3 | default | ERNIE-Lite-8K-0308 |
+| 6 | `api.vakv.cn` | ¥1.068 | $1.06849 / $2.13699 | 1 | 9999 | ERNIE-Lite-8K-0308 |
+| 7 | `tk.dmxapi.cn` | ¥2.055 | $0.410959 / $0.821918 | 5 | default | ERNIE-Lite-8K-0308 |
+| 8 | `kubernetes-test-api.apiqik.online` | ¥3 | $0.410959 / $0.821918 | 7.3 | default | ERNIE-Lite-8K-0308 |
+| 9 | `newapi.ailingnan.top` | ¥3 | $0.410959 / $0.821918 | 7.3 | default | ERNIE-Lite-8K-0308 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

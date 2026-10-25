@@ -1,6 +1,6 @@
 # qwen3-0.6b
 
-> 84 站提供 · 正常价 77 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（12 站公开充值价） · 推算，未对账
+> 91 站提供 · 正常价 81 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,15 +13,19 @@
 | 1 | `api.zyai.online` | ¥0.05 | $0.05 / $1.5 | 1 | mini | qwen3-0.6b |
 | 2 | `api.ocoolai.com` | ¥0.095 | $0.095 / $2.85 | 1 | cn | qwen3-0.6b |
 | 3 | `ocool.cn` | ¥0.095 | $0.095 / $2.85 | 1 | cn | qwen3-0.6b |
-| 4 | `kfcv50.link` | ¥0.1 | $0.1 / $3 | 1 | Domestic | qwen3-0.6b |
-| 5 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-0.6b |
-| 6 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
-| 7 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
-| 8 | `api.pie-xian.com` | ¥0.365 | $0.05 / $0.2 | 7.3 | 无限制 | qwen3-0.6b |
-| 9 | `api2.aigcbest.top` | ¥0.42 | $0.12 / $0.36 | 3.5 | default | qwen3-0.6b |
-| 10 | `hy88.my` | ¥0.438 | $0.06 / $1.8 | 7.3 | qwen | qwen3-0.6b |
-| 11 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-0.6b |
-| 12 | `yutoapi.com` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-0.6b |
+| 4 | `gpt777.top` | ¥0.096 | $0.096 / $0.288 | 1 | opensource | qwen3-0.6b |
+| 5 | `kfcv50.link` | ¥0.1 | $0.1 / $3 | 1 | Domestic | qwen3-0.6b |
+| 6 | `api.eido.top` | ¥0.2 | $0.2 / $0.8 | 1 | default | qwen3-0.6b |
+| 7 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-0.6b |
+| 8 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
+| 9 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
+| 10 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
+| 11 | `api.pie-xian.com` | ¥0.365 | $0.05 / $0.2 | 7.3 | 无限制 | qwen3-0.6b |
+| 12 | `api.ifopen.ai` | ¥0.42 | $0.12 / $0.36 | 3.5 | default | qwen3-0.6b |
+| 13 | `api2.aigcbest.top` | ¥0.42 | $0.12 / $0.36 | 3.5 | default | qwen3-0.6b |
+| 14 | `hy88.my` | ¥0.438 | $0.06 / $1.8 | 7.3 | qwen | qwen3-0.6b |
+| 15 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-0.6b |
+| 16 | `yutoapi.com` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-0.6b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,4 +84,4 @@
 
 > 另有 15 站未列出。
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

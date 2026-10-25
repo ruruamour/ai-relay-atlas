@@ -1,6 +1,6 @@
 # viduq1-classic
 
-> 78 站提供 · 正常价 73 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.064**/次（9 站公开充值价） · 推算，未对账
+> 81 站提供 · 正常价 74 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.064**/次（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,12 +13,13 @@
 | 1 | `api.new.bi` | ¥0.016 | $0.016 | 1 | 企业级高可用大模型 | viduq1-classic |
 | 2 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | viduq1-classic |
 | 3 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | viduq1-classic |
-| 4 | `api.camel-hub.cn` | ¥0.064 | $0.08 | 0.8 | default | viduq1-classic |
-| 5 | `api.camel-hub.com` | ¥0.064 | $0.08 | 0.8 | default | viduq1-classic |
-| 6 | `api.kr777.top` | ¥0.064 | $0.08 | 0.8 | default | viduq1-classic |
-| 7 | `kfcv50.link` | ¥2.5 | $2.5 | 1 | default | viduq1-classic |
-| 8 | `api.klxey.com` | ¥2.92 | $0.4 | 7.3 | default | viduq1-classic |
-| 9 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq1-classic |
+| 4 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | viduq1-classic |
+| 5 | `api.camel-hub.cn` | ¥0.064 | $0.08 | 0.8 | default | viduq1-classic |
+| 6 | `api.camel-hub.com` | ¥0.064 | $0.08 | 0.8 | default | viduq1-classic |
+| 7 | `api.kr777.top` | ¥0.064 | $0.08 | 0.8 | default | viduq1-classic |
+| 8 | `kfcv50.link` | ¥2.5 | $2.5 | 1 | default | viduq1-classic |
+| 9 | `api.klxey.com` | ¥2.92 | $0.4 | 7.3 | default | viduq1-classic |
+| 10 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq1-classic |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -77,4 +78,4 @@
 
 > 另有 14 站未列出。
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

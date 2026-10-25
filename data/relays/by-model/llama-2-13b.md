@@ -1,6 +1,6 @@
 # llama-2-13b
 
-> 81 站提供 · 正常价 72 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（7 站公开充值价） · 推算，未对账
+> 85 站提供 · 正常价 74 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,8 +15,10 @@
 | 3 | `keypool.space` | ¥2 | $2 / $2 | 1 | default | llama-2-13b |
 | 4 | `new.foxi-api.cn` | ¥2 | $2 / $2 | 1 | default | llama-2-13b |
 | 5 | `newapi.tu-zi.com` | ¥2 | $2 / $2 | 1 | default | llama-2-13b |
-| 6 | `api.34ku.com` | ¥2.6 | $2.6 / $2.6 | 1 | default | llama-2-13b |
-| 7 | `api2.aigcbest.top` | ¥10.5 | $3 / $4.02 | 3.5 | default | llama-2-13b |
+| 6 | `xinsuanai.com` | ¥2 | $2 / $2 | 1 | default | llama-2-13b |
+| 7 | `api.34ku.com` | ¥2.6 | $2.6 / $2.6 | 1 | default | llama-2-13b |
+| 8 | `api.ifopen.ai` | ¥10.5 | $3 / $4.02 | 3.5 | default | llama-2-13b |
+| 9 | `api2.aigcbest.top` | ¥10.5 | $3 / $4.02 | 3.5 | default | llama-2-13b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -75,4 +77,4 @@
 
 > 另有 15 站未列出。
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

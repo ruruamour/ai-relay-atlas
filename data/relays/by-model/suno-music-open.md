@@ -1,6 +1,6 @@
 # suno-music-open
 
-> 104 站提供 · 正常价 103 站 · 名义中位价 **$0.026667**/次 · 实付中位价 **¥0.01976**/次（39 站公开充值价） · 推算，未对账
+> 110 站提供 · 正常价 108 站 · 名义中位价 **$0.026667**/次 · 实付中位价 **¥0.01976**/次（44 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,45 +10,50 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.relayrouter.ai` | ¥0.01317 | $0.00196082 | 6.718 | Suno-1 | suno_music_open |
-| 2 | `openlux.zhongzhuan.chat` | ¥0.01317 | $0.00196082 | 6.718 | Suno-1 | suno_music_open |
-| 3 | `api.tidewhisper-ai.xyz` | ¥0.01449 | $0.00215691 | 6.718 | Suno-1 | suno_music_open |
-| 4 | `gzxbykj.com` | ¥0.01449 | $0.00215691 | 6.718 | Suno-1 | suno_music_open |
-| 5 | `yunwu.org` | ¥0.01449 | $0.00215691 | 6.718 | Suno-1 | suno_music_open |
-| 6 | `v2.cloudmist.cloud` | ¥0.01515 | $0.00225495 | 6.718 | Suno-1 | suno_music_open |
-| 7 | `www.vectronode.com` | ¥0.01581 | $0.00235299 | 6.718 | Suno-1 | suno_music_open |
-| 8 | `apiclaw.cn` | ¥0.01594 | $0.0023726 | 6.718 | Suno-1 | suno_music_open |
-| 9 | `newapi.xueai.me` | ¥0.01594 | $0.0023726 | 6.718 | Suno-1 | suno_music_open |
-| 10 | `ciyuan.today` | ¥0.01647 | $0.00245103 | 6.718 | Suno-1 | suno_music_open |
-| 11 | `gptapi.top` | ¥0.01647 | $0.00245103 | 6.718 | Suno-1 | suno_music_open |
-| 12 | `makerend.com` | ¥0.01647 | $0.00245103 | 6.718 | Suno-1 | suno_music_open |
-| 13 | `moliapi.com` | ¥0.0166 | $0.00247064 | 6.718 | Suno-1 | suno_music_open |
-| 14 | `ai-api.cc` | ¥0.01712 | $0.00254907 | 6.718 | Suno-1 | suno_music_open |
-| 15 | `nodapi.com` | ¥0.01739 | $0.00258829 | 6.718 | Suno-1 | suno_music_open |
-| 16 | `anyaigc.ai` | ¥0.01778 | $0.00264711 | 6.718 | Suno-1 | suno_music_open |
-| 17 | `sheepaiplus.top` | ¥0.01844 | $0.00274515 | 6.718 | Suno-1 | suno_music_open |
-| 18 | `xiguapi.icu` | ¥0.01844 | $0.00274515 | 6.718 | Suno-1 | suno_music_open |
-| 19 | `api.88api.chat` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
-| 20 | `api.videocaptioner.cn` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
-| 21 | `new.aigc2d.com` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
-| 22 | `oyy-ai.xyz` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
-| 23 | `api.nixapi.com` | ¥0.02226 | $0.00331379 | 6.718 | Suno-1 | suno_music_open |
-| 24 | `aiwuje.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 25 | `api.echoflowai.cc` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 26 | `api.n1n.ai` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 27 | `api.quickrouter.ai` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 28 | `jeniya.cn` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 29 | `linoapi.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 30 | `llm-api.net` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 31 | `quanzil.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 32 | `token173.net` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 33 | `tryallapi.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 34 | `wellapi.ai` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
-| 35 | `new.foxi-api.cn` | ¥0.02667 | $0.026667 | 1 | default | suno_music_open |
-| 36 | `thousandengine.com` | ¥0.02681 | $0.00399028 | 6.718 | Suno-1 | suno_music_open |
-| 37 | `plusx.nyxos.shop` | ¥0.1431 | $0.0196082 | 7.3 | Suno-1 | suno_music_open |
-| 38 | `api.new.bi` | ¥1.2 | $1.2 | 1 | 企业级高可用大模型 | suno_music_open |
-| 39 | `aeapi.cn` | ¥4.02 | $0.6 | 6.7 | default | suno_music_open |
+| 1 | `api.openlux.ai` | ¥0.01317 | $0.00196082 | 6.718 | Suno-1 | suno_music_open |
+| 2 | `api.relayrouter.ai` | ¥0.01317 | $0.00196082 | 6.718 | Suno-1 | suno_music_open |
+| 3 | `openlux.zhongzhuan.chat` | ¥0.01317 | $0.00196082 | 6.718 | Suno-1 | suno_music_open |
+| 4 | `api.tidewhisper-ai.xyz` | ¥0.01449 | $0.00215691 | 6.718 | Suno-1 | suno_music_open |
+| 5 | `gzxbykj.com` | ¥0.01449 | $0.00215691 | 6.718 | Suno-1 | suno_music_open |
+| 6 | `yunwu.org` | ¥0.01449 | $0.00215691 | 6.718 | Suno-1 | suno_music_open |
+| 7 | `v2.cloudmist.cloud` | ¥0.01515 | $0.00225495 | 6.718 | Suno-1 | suno_music_open |
+| 8 | `www.vectronode.com` | ¥0.01581 | $0.00235299 | 6.718 | Suno-1 | suno_music_open |
+| 9 | `apiclaw.cn` | ¥0.01594 | $0.0023726 | 6.718 | Suno-1 | suno_music_open |
+| 10 | `newapi.xueai.me` | ¥0.01594 | $0.0023726 | 6.718 | Suno-1 | suno_music_open |
+| 11 | `wodapis.com` | ¥0.01594 | $0.0023726 | 6.718 | Suno-1 | suno_music_open |
+| 12 | `ciyuan.today` | ¥0.01647 | $0.00245103 | 6.718 | Suno-1 | suno_music_open |
+| 13 | `gptapi.top` | ¥0.01647 | $0.00245103 | 6.718 | Suno-1 | suno_music_open |
+| 14 | `makerend.com` | ¥0.01647 | $0.00245103 | 6.718 | Suno-1 | suno_music_open |
+| 15 | `moliapi.com` | ¥0.0166 | $0.00247064 | 6.718 | Suno-1 | suno_music_open |
+| 16 | `ai-api.cc` | ¥0.01712 | $0.00254907 | 6.718 | Suno-1 | suno_music_open |
+| 17 | `infai.cc` | ¥0.01712 | $0.00254907 | 6.718 | Suno-1 | suno_music_open |
+| 18 | `nodapi.com` | ¥0.01739 | $0.00258829 | 6.718 | Suno-1 | suno_music_open |
+| 19 | `anyaigc.ai` | ¥0.01778 | $0.00264711 | 6.718 | Suno-1 | suno_music_open |
+| 20 | `sheepaiplus.top` | ¥0.01844 | $0.00274515 | 6.718 | Suno-1 | suno_music_open |
+| 21 | `xiguapi.icu` | ¥0.01844 | $0.00274515 | 6.718 | Suno-1 | suno_music_open |
+| 22 | `api.88api.chat` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
+| 23 | `api.88api.shop` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
+| 24 | `api.videocaptioner.cn` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
+| 25 | `new.aigc2d.com` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
+| 26 | `oyy-ai.xyz` | ¥0.01976 | $0.00294124 | 6.718 | Suno-1 | suno_music_open |
+| 27 | `api.nixapi.com` | ¥0.02226 | $0.00331379 | 6.718 | Suno-1 | suno_music_open |
+| 28 | `aiwuje.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 29 | `api.cursorai.art` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 30 | `api.echoflowai.cc` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 31 | `api.n1n.ai` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 32 | `api.quickrouter.ai` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 33 | `jeniya.cn` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 34 | `linoapi.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 35 | `llm-api.net` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 36 | `quanzil.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 37 | `token173.net` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 38 | `tryallapi.com` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 39 | `wellapi.ai` | ¥0.02635 | $0.00392165 | 6.718 | Suno-1 | suno_music_open |
+| 40 | `new.foxi-api.cn` | ¥0.02667 | $0.026667 | 1 | default | suno_music_open |
+| 41 | `thousandengine.com` | ¥0.02681 | $0.00399028 | 6.718 | Suno-1 | suno_music_open |
+| 42 | `plusx.nyxos.shop` | ¥0.1431 | $0.0196082 | 7.3 | Suno-1 | suno_music_open |
+| 43 | `api.new.bi` | ¥1.2 | $1.2 | 1 | 企业级高可用大模型 | suno_music_open |
+| 44 | `aeapi.cn` | ¥4.02 | $0.6 | 6.7 | default | suno_music_open |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -107,4 +112,4 @@
 
 > 另有 14 站未列出。
 
-> 1 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 2 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

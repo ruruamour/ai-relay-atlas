@@ -1,6 +1,6 @@
 # gpt-image-2-adobe
 
-> 53 站提供 · 正常价 45 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.15**/次（39 站公开充值价） · 推算，未对账
+> 56 站提供 · 正常价 48 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.15**/次（42 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,41 +14,44 @@
 | 2 | `nihao.dog` | ¥0.045 | $0.045 | 1 | 生图 | gpt-image-2-adobe |
 | 3 | `api.furryforum.com` | ¥0.05 | $0.05 | 1 | PRO | gpt-image-2-adobe |
 | 4 | `1.cnmz.de` | ¥0.06 | $0.06 | 1 | 图片视频分组 | gpt-image-2-adobe |
-| 5 | `vip.manai8.xyz` | ¥0.07 | $0.07 | 1 | 生图专用 | gpt-image-2-adobe |
-| 6 | `api.novaeworld.top` | ¥0.07999 | $0.079992 | 1 | vip | gpt-image-2-adobe |
-| 7 | `deepkey.top` | ¥0.08 | $0.08 | 1 | gpt-image | gpt-image-2-adobe |
-| 8 | `nezhai.vip` | ¥0.09575 | $0.0957504 | 1 | 【生图组】 | gpt-image-2-adobe |
-| 9 | `api.slomerex.xyz` | ¥0.1 | $0.1 | 1 | Gpt Image | gpt-image-2-adobe |
-| 10 | `api.xctokens.com` | ¥0.1 | $0.1 | 1 | 生图分组 | gpt-image-2-adobe |
-| 11 | `llm-routers.tokenfty.net` | ¥0.1 | $0.1 | 1 | 企业分组 | gpt-image-2-adobe |
-| 12 | `vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | gpt-image-2-adobe |
-| 13 | `api.vllmproxy.com` | ¥0.12 | $0.12 | 1 | 生图模型 | gpt-image-2-adobe |
-| 14 | `cf.a-piko.top` | ¥0.126 | $0.126 | 1 | image生图（adobe原生4k） | gpt-image-2-adobe |
-| 15 | `apijing.com` | ¥0.13 | $0.13 | 1 | gptimage稳定 | img特惠/gpt-image-2-adobe |
-| 16 | `ai.mashiro.tech` | ¥0.15 | $0.15 | 1 | gpt生图 | gpt-image-2-adobe |
-| 17 | `api.gapi.cc` | ¥0.15 | $0.15 | 1 | 绘图专用分组 | gpt-image-2-adobe |
-| 18 | `mzhcloud.com` | ¥0.15 | $0.15 | 1 | image | gpt-image-2-adobe |
-| 19 | `www.yysc.top` | ¥0.15 | $0.15 | 1 | image | gpt-image-2-adobe |
-| 20 | `yunshuapi.wiki` | ¥0.15 | $0.15 | 1 | 图片、视频 | gpt-image-2-adobe |
-| 21 | `api.nekoapi.com` | ¥0.16 | $0.08 | 2 | default | gpt-image-2-adobe |
-| 22 | `api.ycapi.xyz` | ¥0.1633 | $0.163265 | 1 | gpt-image | gpt-image-2-adobe |
-| 23 | `api.jui87.com` | ¥0.2 | $0.2 | 1 | image-2 | gpt-image-2-adobe |
-| 24 | `codeworksta.com` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 25 | `codex101.cf-cdn.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 26 | `grok101.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 27 | `llm-all.pro` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 28 | `model101.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 29 | `new-cdn.dg8.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 30 | `o-ai.me` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 31 | `token101.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 32 | `u-ai.me` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 33 | `apishop.ai` | ¥0.35 | $0.05 | 7 | default | gpt-image-2-adobe |
-| 34 | `api.camel-hub.com` | ¥0.4 | $0.5 | 0.8 | default | gpt-image-2-adobe |
-| 35 | `suanlitaikong.com` | ¥0.5 | $0.5 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 36 | `aispot.swj0227.icu` | ¥0.876 | $0.12 | 7.3 | 生图分组 | gpt-image-2-adobe |
-| 37 | `apimodel.aihubkit.com` | ¥1.168 | $0.16 | 7.3 | gpt_image_adobe | gpt-image-2-adobe |
-| 38 | `novaapi.com.cn` | ¥2.92 | $0.4 | 7.3 | gpt-image-稳定分组 | gpt-image-2-adobe |
-| 39 | `api.manai8.xyz` | ¥4 | $4 | 1 | 生图专用 | gpt-image-2-adobe |
+| 5 | `getezo.com` | ¥0.06 | $0.06 | 1 | 图片视频分组 | gpt-image-2-adobe |
+| 6 | `vip.manai8.xyz` | ¥0.07 | $0.07 | 1 | 生图专用 | gpt-image-2-adobe |
+| 7 | `api.novaeworld.top` | ¥0.07999 | $0.079992 | 1 | vip | gpt-image-2-adobe |
+| 8 | `deepkey.top` | ¥0.08 | $0.08 | 1 | gpt-image | gpt-image-2-adobe |
+| 9 | `nezhai.vip` | ¥0.09575 | $0.0957504 | 1 | 【生图组】 | gpt-image-2-adobe |
+| 10 | `api.slomerex.xyz` | ¥0.1 | $0.1 | 1 | Gpt Image | gpt-image-2-adobe |
+| 11 | `api.vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | gpt-image-2-adobe |
+| 12 | `api.xctokens.com` | ¥0.1 | $0.1 | 1 | 生图分组 | gpt-image-2-adobe |
+| 13 | `llm-routers.tokenfty.net` | ¥0.1 | $0.1 | 1 | 企业分组 | gpt-image-2-adobe |
+| 14 | `vakv.cn` | ¥0.1 | $0.1 | 1 | 生图专用 | gpt-image-2-adobe |
+| 15 | `api.vllmproxy.com` | ¥0.12 | $0.12 | 1 | 生图模型 | gpt-image-2-adobe |
+| 16 | `cf.a-piko.top` | ¥0.126 | $0.126 | 1 | image生图（adobe原生4k） | gpt-image-2-adobe |
+| 17 | `apijing.com` | ¥0.13 | $0.13 | 1 | gptimage稳定 | img特惠/gpt-image-2-adobe |
+| 18 | `www.api-route.com` | ¥0.1333 | $0.020002 | 6.6665 | gpt-image | gpt-image-2-adobe |
+| 19 | `ai.mashiro.tech` | ¥0.15 | $0.15 | 1 | gpt生图 | gpt-image-2-adobe |
+| 20 | `api.gapi.cc` | ¥0.15 | $0.15 | 1 | 绘图专用分组 | gpt-image-2-adobe |
+| 21 | `mzhcloud.com` | ¥0.15 | $0.15 | 1 | image | gpt-image-2-adobe |
+| 22 | `www.yysc.top` | ¥0.15 | $0.15 | 1 | image | gpt-image-2-adobe |
+| 23 | `yunshuapi.wiki` | ¥0.15 | $0.15 | 1 | 图片、视频 | gpt-image-2-adobe |
+| 24 | `api.nekoapi.com` | ¥0.16 | $0.08 | 2 | default | gpt-image-2-adobe |
+| 25 | `api.ycapi.xyz` | ¥0.1633 | $0.163265 | 1 | gpt-image | gpt-image-2-adobe |
+| 26 | `api.jui87.com` | ¥0.2 | $0.2 | 1 | image-2 | gpt-image-2-adobe |
+| 27 | `biz.anyroute.io` | ¥0.2 | $0.2 | 1 | 生图模型(计次) | gpt-image-2-adobe |
+| 28 | `codeworksta.com` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 29 | `codex101.cf-cdn.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 30 | `grok101.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 31 | `llm-all.pro` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 32 | `model101.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 33 | `new-cdn.dg8.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 34 | `o-ai.me` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 35 | `token101.site` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 36 | `u-ai.me` | ¥0.2 | $0.2 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 37 | `apishop.ai` | ¥0.35 | $0.05 | 7 | default | gpt-image-2-adobe |
+| 38 | `api.camel-hub.com` | ¥0.4 | $0.5 | 0.8 | default | gpt-image-2-adobe |
+| 39 | `suanlitaikong.com` | ¥0.5 | $0.5 | 1 | gpt-image-稳定分组 | gpt-image-2-adobe |
+| 40 | `aispot.swj0227.icu` | ¥0.876 | $0.12 | 7.3 | 生图分组 | gpt-image-2-adobe |
+| 41 | `apimodel.aihubkit.com` | ¥1.168 | $0.16 | 7.3 | gpt_image_adobe | gpt-image-2-adobe |
+| 42 | `api.manai8.xyz` | ¥4 | $4 | 1 | 生图专用 | gpt-image-2-adobe |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

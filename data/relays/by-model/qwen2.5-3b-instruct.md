@@ -1,6 +1,6 @@
 # qwen2.5-3b-instruct
 
-> 27 站提供 · 正常价 21 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（3 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 23 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（5 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,9 +10,11 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `keypool.space` | ¥0.3 | $0.3 / $0.9 | 1 | default | qwen2.5-3b-instruct |
-| 2 | `kfcv50.link` | ¥0.3 | $0.3 / $0.9 | 1 | Domestic | qwen2.5-3b-instruct |
-| 3 | `hy88.my` | ¥1.314 | $0.18 / $0.54 | 7.3 | qwen | qwen2.5-3b-instruct |
+| 1 | `gpt777.top` | ¥0.24 | $0.24 / $0.72 | 1 | opensource | qwen2.5-3b-instruct |
+| 2 | `keypool.space` | ¥0.3 | $0.3 / $0.9 | 1 | default | qwen2.5-3b-instruct |
+| 3 | `kfcv50.link` | ¥0.3 | $0.3 / $0.9 | 1 | Domestic | qwen2.5-3b-instruct |
+| 4 | `xinsuanai.com` | ¥0.3 | $0.3 / $0.9 | 1 | default | qwen2.5-3b-instruct |
+| 5 | `hy88.my` | ¥1.314 | $0.18 / $0.54 | 7.3 | qwen | qwen2.5-3b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -37,4 +39,4 @@
 | 17 | `www.xiaoruiera.top` | $0.3 / $0.9 | default | 1 | qwen2.5-3b-instruct |
 | 18 | `yuli.host` | $0.3 / $0.9 | default | 1 | qwen2.5-3b-instruct |
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

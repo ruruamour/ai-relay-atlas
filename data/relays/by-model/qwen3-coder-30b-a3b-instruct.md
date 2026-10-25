@@ -1,6 +1,6 @@
 # qwen3-coder-30b-a3b-instruct
 
-> 94 站提供 · 正常价 75 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥0.7862**/1M 输入（11 站公开充值价） · 推算，未对账
+> 100 站提供 · 正常价 78 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥0.855**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,15 +12,18 @@
 |---|---|---|---|---|---|---|
 | 1 | `kelaiapi.cc` | ¥0.18 | $0.18 / $0.9 | 1 | vip_ch | qwen3-coder-30b-a3b-instruct |
 | 2 | `www.ggwk1.online` | ¥0.196 | $0.196 / $0.72716 | 1 | 开源模型组 | Qwen/Qwen3-Coder-30B-A3B-Instruct |
-| 3 | `api.qinzhiai.com` | ¥0.315 | $0.315 / $1.26 | 1 | openrouter | qwen/qwen3-coder-30b-a3b-instruct |
+| 3 | `api.qinzhiai.com` | ¥0.245 | $0.245 / $0.98 | 1 | openrouter | qwen/qwen3-coder-30b-a3b-instruct |
 | 4 | `api.aliyunfuwu.top` | ¥0.36 | $0.36 / $1.08 | 1 | SiliconFlow | Qwen/Qwen3-Coder-30B-A3B-Instruct |
 | 5 | `claudecn.ai` | ¥0.405 | $0.405 / $2.025 | 1 | 国产模型 | qwen3-coder-30b-a3b-instruct |
 | 6 | `api.tacklekey.com` | ¥0.7862 | $0.107692 / $0.430769 | 7.3 | default | qwen/qwen3-coder-30b-a3b-instruct |
-| 7 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3-Coder-30B-A3B-Instruct |
-| 8 | `ai2.qiqiai.top` | ¥0.9198 | $0.126 / $0.486 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-30b-a3b-instruct |
-| 9 | `keypool.space` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
-| 10 | `new.foxi-api.cn` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
-| 11 | `daoxe.com` | ¥3.863 | $3.75 / $18.75 | 1.03 | 海外国产模型 | qwen3-coder-30b-a3b-instruct |
+| 7 | `gpt777.top` | ¥0.8 | $0.8 / $3.2 | 1 | opensource | Qwen/Qwen3-Coder-30B-A3B-Instruct |
+| 8 | `api.ifopen.ai` | ¥0.91 | $0.26 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3-Coder-30B-A3B-Instruct |
+| 9 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3-Coder-30B-A3B-Instruct |
+| 10 | `ai2.qiqiai.top` | ¥0.9198 | $0.126 / $0.486 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-30b-a3b-instruct |
+| 11 | `keypool.space` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
+| 12 | `new.foxi-api.cn` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
+| 13 | `xinsuanai.com` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
+| 14 | `daoxe.com` | ¥3.863 | $3.75 / $18.75 | 1.03 | 海外国产模型 | qwen3-coder-30b-a3b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -79,4 +82,4 @@
 
 > 另有 14 站未列出。
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

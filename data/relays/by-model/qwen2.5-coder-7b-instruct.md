@@ -1,6 +1,6 @@
 # qwen2.5-coder-7b-instruct
 
-> 36 站提供 · 正常价 27 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥0.95**/1M 输入（9 站公开充值价） · 推算，未对账
+> 44 站提供 · 正常价 31 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥0.95**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,15 +10,19 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.zyai.online` | ¥0.5 | $0.5 / $1 | 1 | mini | qwen2.5-coder-7b-instruct |
-| 2 | `mb.dmxapi.cn` | ¥0.5 | $0.1 / $0.1 | 5 | default | qwen2.5-coder-7b-instruct |
-| 3 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | Qwen2.5-Coder-7B-Instruct |
-| 4 | `api.ocoolai.com` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
-| 5 | `ocool.cn` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
-| 6 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
-| 7 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-coder-7b-instruct |
-| 8 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-coder-7b-instruct |
-| 9 | `api2.aigcbest.top` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
+| 1 | `api.eido.top` | ¥0.1 | $0.1 / $0.1 | 1 | default | qwen2.5-coder-7b-instruct |
+| 2 | `api.zyai.online` | ¥0.5 | $0.5 / $1 | 1 | mini | qwen2.5-coder-7b-instruct |
+| 3 | `mb.dmxapi.cn` | ¥0.5 | $0.1 / $0.1 | 5 | default | qwen2.5-coder-7b-instruct |
+| 4 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | Qwen2.5-Coder-7B-Instruct |
+| 5 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | qwen2.5-coder-7b-instruct |
+| 6 | `api.ocoolai.com` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
+| 7 | `ocool.cn` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
+| 8 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
+| 9 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-coder-7b-instruct |
+| 10 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
+| 11 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-coder-7b-instruct |
+| 12 | `api.ifopen.ai` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
+| 13 | `api2.aigcbest.top` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -43,4 +47,4 @@
 | 17 | `www.xiaoruiera.top` | $1 / $2 | default | 1 | qwen2.5-coder-7b-instruct |
 | 18 | `yuli.host` | $1 / $2 | default | 1 | qwen2.5-coder-7b-instruct |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

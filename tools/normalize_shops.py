@@ -82,7 +82,7 @@ for x in prod:
     if k in seen: continue
     seen.add(k); ded.append(x)
 with open(os.path.join(ROOT,'data','shops','products.csv'),'w',newline='',encoding='utf-8') as fh:
-    w=csv.DictWriter(fh,fieldnames=['shop','host','hosting','platform','system','category','item','price_cny','status','warranty','stock','source','source_url','last_checked'],extrasaction='ignore'); w.writeheader()
+    w=csv.DictWriter(fh,fieldnames=['shop','host','hosting','platform','system','category','item','price_cny','status','warranty','stock','source','source_url','last_checked'],extrasaction='ignore',lineterminator='\n'); w.writeheader()
     for x in ded:
         hosting,plat,sysn,stype=classify(x['host'])
         x.update(hosting=hosting,platform=plat,system=sysn,system_type=stype); w.writerow(x)
@@ -96,7 +96,9 @@ for x in ded:
 rows=[]
 for shop,a in agg.items():
     prio={'pay.ldxp.cn':0,'wzyp.cn':1,'ldxp.cn':2}
-    hs=sorted(a['hosts'],key=lambda x:prio.get(x,9))
+    # 先选已知 SaaS/系统宿主，再按稳定的优先级和字典序；避免 set 遍历顺序导致重建结果漂移。
+    hs=sorted(a['hosts'], key=lambda x: (0 if x in PLATFORMS or x in SYSTEM_BY_HOST or x in FP else 1,
+                                         prio.get(x, 9), x))
     h=next((classify(x) for x in hs),('','','',''))
     hosting,plat,sysn,stype=h
     rows.append(dict(shop=shop,hosting=hosting,platform=plat,system=sysn,system_type=stype,
@@ -106,6 +108,6 @@ for shop,a in agg.items():
         notes=('未识别发卡系统' if (hosting=='自建' and sysn=='未知') else '')))
 rows.sort(key=lambda r:r['shop'] or '')
 with open(os.path.join(ROOT,'data','shops','shops.csv'),'w',newline='',encoding='utf-8') as fh:
-    w=csv.DictWriter(fh,fieldnames=['shop','hosting','platform','system','system_type','domain','categories','price_range','source','last_checked','notes']); w.writeheader()
+    w=csv.DictWriter(fh,fieldnames=['shop','hosting','platform','system','system_type','domain','categories','price_range','source','last_checked','notes'],lineterminator='\n'); w.writeheader()
     for r in rows: w.writerow(r)
 print('shops',len(rows))

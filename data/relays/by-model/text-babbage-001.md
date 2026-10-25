@@ -1,6 +1,6 @@
 # text-babbage-001
 
-> 48 站提供 · 正常价 34 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（31 站公开充值价） · 推算，未对账
+> 56 站提供 · 正常价 42 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1**/1M 输入（39 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,29 +18,37 @@
 | 6 | `go.sbgpt.site` | ¥0.35 | $0.35 / $0.35 | 1 | openai逆向 | text-babbage-001 |
 | 7 | `123api.co` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
 | 8 | `ai.soruxgpt.com` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
-| 9 | `api.hopeai.cc` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
-| 10 | `api.new.bi` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
-| 11 | `api.zyai.online` | ¥0.5 | $0.5 / $0.5 | 1 | AZvip | text-babbage-001 |
-| 12 | `newapi.link` | ¥0.5 | $0.5 / $0.5 | 1 | 备用 | text-babbage-001 |
-| 13 | `api.34ku.com` | ¥0.65 | $0.65 / $0.65 | 1 | default | text-babbage-001 |
-| 14 | `api.ocoolai.com` | ¥0.75 | $0.75 / $0.75 | 1 | default | text-babbage-001 |
-| 15 | `ocool.cn` | ¥0.75 | $0.75 / $0.75 | 1 | default | text-babbage-001 |
-| 16 | `147ai.online` | ¥0.8 | $1 / $1 | 0.8 | default | text-babbage-001 |
-| 17 | `gpt-api.soruxgpt.com` | ¥0.95 | $0.475 / $0.475 | 2 | vip | text-babbage-001 |
-| 18 | `webapi.xjai.cc` | ¥1.5 | $0.5 / $0.5 | 3 | default | text-babbage-001 |
-| 19 | `cnapi.kksj.org` | ¥1.9 | $1.9 / $1.9 | 1 | guan | text-babbage-001 |
-| 20 | `api.bltcy.ai` | ¥2 | $2 / $2 | 1 | openai官-优质 | text-babbage-001 |
-| 21 | `www.ggwk1.online` | ¥2 | $2 / $2 | 1 | 官转无审高智商 | text-babbage-001 |
-| 22 | `tk.dmxapi.cn` | ¥2.5 | $0.5 / $0.5 | 5 | default | text-babbage-001 |
-| 23 | `ai.t8star.org` | ¥2.7 | $2 / $2 | 1.35 | openai官-优质 | text-babbage-001 |
-| 24 | `apiplus.online` | ¥3.285 | $0.45 / $0.45 | 7.3 | default | text-babbage-001 |
-| 25 | `cn.gptapi.asia` | ¥3.5 | $3.5 / $3.5 | 1 | enterprise | text-babbage-001 |
-| 26 | `yutoapi.com` | ¥3.5 | $3.5 / $3.5 | 1 | enterprise | text-babbage-001 |
-| 27 | `ai2.qiqiai.top` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
-| 28 | `kubernetes-test-api.apiqik.online` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
-| 29 | `tenzen.ai` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
-| 30 | `yinli.pro` | ¥10.95 | $1.5 / $1.5 | 7.3 | GPT-Azure-低价-90%稳定性 | text-babbage-001 |
-| 31 | `ai.ydcloud.org` | ¥13.14 | $1.8 / $1.8 | 7.3 | openai 官转 | text-babbage-001 |
+| 9 | `api.eido.top` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
+| 10 | `api.hopeai.cc` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
+| 11 | `api.new.bi` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-babbage-001 |
+| 12 | `api.zyai.online` | ¥0.5 | $0.5 / $0.5 | 1 | AZvip | text-babbage-001 |
+| 13 | `newapi.link` | ¥0.5 | $0.5 / $0.5 | 1 | 备用 | text-babbage-001 |
+| 14 | `api.34ku.com` | ¥0.65 | $0.65 / $0.65 | 1 | default | text-babbage-001 |
+| 15 | `api.ocoolai.com` | ¥0.75 | $0.75 / $0.75 | 1 | default | text-babbage-001 |
+| 16 | `api.vakv.cn` | ¥0.75 | $0.75 / $0.75 | 1 | az-gpt-新渠道 | text-babbage-001 |
+| 17 | `ocool.cn` | ¥0.75 | $0.75 / $0.75 | 1 | default | text-babbage-001 |
+| 18 | `147ai.online` | ¥0.8 | $1 / $1 | 0.8 | default | text-babbage-001 |
+| 19 | `gpt-api.soruxgpt.com` | ¥0.95 | $0.475 / $0.475 | 2 | vip | text-babbage-001 |
+| 20 | `api.annyun.cn` | ¥1 | $1 / $1 | 1 | default | text-babbage-001 |
+| 21 | `webapi.xjai.cc` | ¥1.5 | $0.5 / $0.5 | 3 | default | text-babbage-001 |
+| 22 | `zen-ai.top` | ¥1.75 | $1.75 / $1.75 | 1 | openai | text-babbage-001 |
+| 23 | `cnapi.kksj.org` | ¥1.9 | $1.9 / $1.9 | 1 | guan | text-babbage-001 |
+| 24 | `api.bltcy.ai` | ¥2 | $2 / $2 | 1 | openai官-优质 | text-babbage-001 |
+| 25 | `apilio.ai` | ¥2 | $2 / $2 | 1 | openai官-优质 | text-babbage-001 |
+| 26 | `test-ssl.bltcy.ai` | ¥2 | $2 / $2 | 1 | openai官-优质 | text-babbage-001 |
+| 27 | `www.ggwk1.online` | ¥2 | $2 / $2 | 1 | 官转无审高智商 | text-babbage-001 |
+| 28 | `tk.dmxapi.cn` | ¥2.5 | $0.5 / $0.5 | 5 | default | text-babbage-001 |
+| 29 | `ai.t8star.org` | ¥2.7 | $2 / $2 | 1.35 | openai官-优质 | text-babbage-001 |
+| 30 | `apiplus.online` | ¥3.285 | $0.45 / $0.45 | 7.3 | default | text-babbage-001 |
+| 31 | `cn.gptapi.asia` | ¥3.5 | $3.5 / $3.5 | 1 | enterprise | text-babbage-001 |
+| 32 | `yutoapi.com` | ¥3.5 | $3.5 / $3.5 | 1 | enterprise | text-babbage-001 |
+| 33 | `ai2.qiqiai.top` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
+| 34 | `freeapi.club` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
+| 35 | `kubernetes-test-api.apiqik.online` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
+| 36 | `newapi.ailingnan.top` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
+| 37 | `tenzen.ai` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | text-babbage-001 |
+| 38 | `yinli.pro` | ¥10.95 | $1.5 / $1.5 | 7.3 | GPT-Azure-低价-90%稳定性 | text-babbage-001 |
+| 39 | `ai.ydcloud.org` | ¥13.14 | $1.8 / $1.8 | 7.3 | openai 官转 | text-babbage-001 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

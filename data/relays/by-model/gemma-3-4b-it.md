@@ -1,6 +1,6 @@
 # gemma-3-4b-it
 
-> 34 站提供 · 正常价 14 站 · 名义中位价 **$0.066**/1M 输入 · 实付中位价 **¥0.292**/1M 输入（11 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 14 站 · 名义中位价 **$0.066**/1M 输入 · 实付中位价 **¥0.292**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,7 +13,7 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.025 | $0.025 / $0.05 | 1 | relay | google/gemma-3-4b-it |
 | 2 | `123api.co` | ¥0.08 | $0.08 / $0.08 | 1 | default | gemma-3-4b-it |
 | 3 | `llm.kagu.one` | ¥0.146 | $0.02 / $0.04 | 7.3 | 大杂烩 | gemma-3-4b-it |
-| 4 | `api.qinzhiai.com` | ¥0.225 | $0.225 / $0.45 | 1 | openrouter | google/gemma-3-4b-it |
+| 4 | `api.qinzhiai.com` | ¥0.175 | $0.175 / $0.35 | 1 | openrouter | google/gemma-3-4b-it |
 | 5 | `hk.moleapi.com` | ¥0.272 | $0.04 / $0.08 | 6.8 | default | gemma-3-4b-it |
 | 6 | `mux.la` | ¥0.292 | $0.04 / $0.08 | 7.3 | Openrouter-Anthropic | google/gemma-3-4b-it |
 | 7 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | google/gemma-3-4b-it |
@@ -30,4 +30,4 @@
 | 2 | `or.mux.la` | $0.05 / $0.1 | default | 1 | google/gemma-3-4b-it |
 | 3 | `officesai.top` | $0.06 / $0.12 | 基础普及通道 | 0.15 | google/gemma-3-4b-it |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

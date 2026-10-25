@@ -1,6 +1,6 @@
 # gemma-2b-it
 
-> 32 站提供 · 正常价 25 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（7 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 26 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,7 +16,8 @@
 | 4 | `api.new.bi` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
 | 5 | `keypool.space` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
 | 6 | `newapi.tu-zi.com` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
-| 7 | `nbapi.net` | ¥14.6 | $2 / $2 | 7.3 | default | gemma-2b-it |
+| 7 | `xinsuanai.com` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
+| 8 | `nbapi.net` | ¥14.6 | $2 / $2 | 7.3 | default | gemma-2b-it |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

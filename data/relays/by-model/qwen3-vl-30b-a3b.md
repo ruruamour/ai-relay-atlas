@@ -1,6 +1,6 @@
 # qwen3-vl-30b-a3b
 
-> 97 站提供 · 正常价 83 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥0.7875**/1M 输入（17 站公开充值价） · 推算，未对账
+> 104 站提供 · 正常价 87 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥0.75**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,19 +14,23 @@
 | 2 | `daoxe.com` | ¥0.103 | $0.1 / $0.5 | 1.03 | 海外国产模型 | qwen3-vl-30b-a3b-thinking |
 | 3 | `token101.site` | ¥0.29 | $0.29 / $1 | 1 | cn_model | Qwen/Qwen3-VL-30B-A3B-Thinking |
 | 4 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.45 | $0.45 / $4.5 | 1 | aliyun | qwen3-vl-30b-a3b-thinking |
-| 5 | `api2.aigcbest.top` | ¥0.637 | $0.182 / $0.728 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-30B-A3B-Thinking |
-| 6 | `claudecn.ai` | ¥0.675 | $0.675 / $6.75 | 1 | 国产模型 | qwen3-vl-30b-a3b-thinking |
-| 7 | `keypool.space` | ¥0.75 | $0.75 / $7.5 | 1 | default | qwen3-vl-30b-a3b-thinking |
-| 8 | `new.foxi-api.cn` | ¥0.75 | $0.75 / $7.5 | 1 | default | qwen3-vl-30b-a3b-thinking |
-| 9 | `ai.38yun.cn` | ¥0.7875 | $0.7875 / $7.875 | 1 | 官方全系稳定渠道 | qwen3-vl-30b-a3b-thinking |
-| 10 | `www.ggwk1.online` | ¥0.812 | $0.812 / $2.76892 | 1 | 开源模型组 | Qwen/Qwen3-VL-30B-A3B-Thinking |
-| 11 | `yibuapi.com` | ¥0.9 | $0.6 / $6 | 1.5 | claude-code | qwen3-vl-30b-a3b-thinking |
-| 12 | `www.hohoapi.com` | ¥1.17 | $0.39 / $3.9 | 3 | qwen | qwen3-vl-30b-a3b-thinking |
-| 13 | `api.qinzhiai.com` | ¥1.305 | $1.305 / $4.5 | 1 | openrouter | qwen/qwen3-vl-30b-a3b-thinking |
-| 14 | `ai2.qiqiai.top` | ¥1.708 | $0.234 / $2.808 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-30b-a3b-thinking |
-| 15 | `api.tacklekey.com` | ¥3.257 | $0.446154 / $1.53846 | 7.3 | default | qwen/qwen3-vl-30b-a3b-thinking |
-| 16 | `kaopuapi.com` | ¥5.475 | $0.75 / $3 | 7.3 | Local_自建 | qwen3-vl-30b-a3b |
-| 17 | `mrouter.cn` | ¥5.475 | $0.75 / $3 | 7.3 | Local_自建 | qwen3-vl-30b-a3b |
+| 5 | `gpt777.top` | ¥0.56 | $0.56 / $2.24 | 1 | opensource | Qwen/Qwen3-VL-30B-A3B-Thinking |
+| 6 | `api.ifopen.ai` | ¥0.637 | $0.182 / $0.728 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-30B-A3B-Thinking |
+| 7 | `api2.aigcbest.top` | ¥0.637 | $0.182 / $0.728 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-30B-A3B-Thinking |
+| 8 | `claudecn.ai` | ¥0.675 | $0.675 / $6.75 | 1 | 国产模型 | qwen3-vl-30b-a3b-thinking |
+| 9 | `keypool.space` | ¥0.75 | $0.75 / $7.5 | 1 | default | qwen3-vl-30b-a3b-thinking |
+| 10 | `new.foxi-api.cn` | ¥0.75 | $0.75 / $7.5 | 1 | default | qwen3-vl-30b-a3b-thinking |
+| 11 | `xinsuanai.com` | ¥0.75 | $0.75 / $7.5 | 1 | default | qwen3-vl-30b-a3b-thinking |
+| 12 | `ai.38yun.cn` | ¥0.7875 | $0.7875 / $7.875 | 1 | 官方全系稳定渠道 | qwen3-vl-30b-a3b-thinking |
+| 13 | `www.ggwk1.online` | ¥0.812 | $0.812 / $2.76892 | 1 | 开源模型组 | Qwen/Qwen3-VL-30B-A3B-Thinking |
+| 14 | `yibuapi.com` | ¥0.9 | $0.6 / $6 | 1.5 | claude-code | qwen3-vl-30b-a3b-thinking |
+| 15 | `api.eido.top` | ¥1 | $1 / $10 | 1 | default | qwen3-vl-30b-a3b-thinking |
+| 16 | `api.qinzhiai.com` | ¥1.015 | $1.015 / $3.5 | 1 | openrouter | qwen/qwen3-vl-30b-a3b-thinking |
+| 17 | `www.hohoapi.com` | ¥1.17 | $0.39 / $3.9 | 3 | qwen | qwen3-vl-30b-a3b-thinking |
+| 18 | `ai2.qiqiai.top` | ¥1.708 | $0.234 / $2.808 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-30b-a3b-thinking |
+| 19 | `api.tacklekey.com` | ¥3.257 | $0.446154 / $1.53846 | 7.3 | default | qwen/qwen3-vl-30b-a3b-thinking |
+| 20 | `kaopuapi.com` | ¥5.475 | $0.75 / $3 | 7.3 | Local_自建 | qwen3-vl-30b-a3b |
+| 21 | `mrouter.cn` | ¥5.475 | $0.75 / $3 | 7.3 | Local_自建 | qwen3-vl-30b-a3b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -85,4 +89,4 @@
 
 > 另有 16 站未列出。
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

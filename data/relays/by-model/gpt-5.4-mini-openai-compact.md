@@ -1,6 +1,6 @@
 # gpt-5.4-mini-openai-compact
 
-> 23 站提供 · 正常价 9 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥3.06**/1M 输入（6 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 9 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥3.06**/1M 输入（6 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,4 +25,4 @@
 | 2 | `new.fastaicode.top` | $0.75 / $4.5 | default | 1 | gpt-5.4-mini-openai-compact |
 | 3 | `zz1cc.cc.cd` | $2.1 / $12.6 | pro尊享顶级反应速度oen | 2.8 | gpt-5.4-mini-openai-compact |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gpt-realtime-2.1-mini
 
-> 44 站提供 · 正常价 30 站 · 名义中位价 **$0.51**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（14 站公开充值价） · 推算，未对账
+> 52 站提供 · 正常价 37 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.1**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,13 +17,18 @@
 | 5 | `kfcv50.link` | ¥0.6 | $0.6 / $2.4 | 1 | az_stable_high_22 | gpt-realtime-2.1-mini |
 | 6 | `rockapi.ai` | ¥0.6 | $0.6 / $2.4 | 1 | off | gpt-realtime-2.1-mini |
 | 7 | `35.aigcbest.top` | ¥0.9 | $0.6 / $2.4 | 1.5 | default | gpt-realtime-2.1-mini |
-| 8 | `api2.aigcbest.top` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-realtime-2.1-mini |
-| 9 | `api.apiyi.com` | ¥4.2 | $0.6 / $2.4 | 7 | default | gpt-realtime-2.1-mini |
-| 10 | `api.gravitex.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-realtime-2.1-mini |
-| 11 | `cn.sandbox.dogrouter.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-realtime-2.1-mini |
-| 12 | `sandbox.dogrouter.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-realtime-2.1-mini |
-| 13 | `ai.ydcloud.org` | ¥6.57 | $0.9 / $3.6 | 7.3 | az gpt | gpt-realtime-2.1-mini |
-| 14 | `us.pomoai.xyz` | ¥19.71 | $2.7 / $10.8 | 7.3 | gpt-官转-45 | gpt-realtime-2.1-mini |
+| 8 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | Azure | gpt-realtime-2.1-mini |
+| 9 | `api.ifopen.ai` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-realtime-2.1-mini |
+| 10 | `api2.aigcbest.top` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-realtime-2.1-mini |
+| 11 | `zen-ai.top` | ¥3.3 | $3.3 / $13.2 | 1 | AZ企业 | gpt-realtime-2.1-mini |
+| 12 | `unifiedapi.cloud` | ¥3.99 | $0.6 / $2.4 | 6.65 | acaz | gpt-realtime-2.1-mini |
+| 13 | `api.apiyi.com` | ¥4.2 | $0.6 / $2.4 | 7 | default | gpt-realtime-2.1-mini |
+| 14 | `api.gravitex.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-realtime-2.1-mini |
+| 15 | `cn.sandbox.dogrouter.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-realtime-2.1-mini |
+| 16 | `sandbox.dogrouter.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-realtime-2.1-mini |
+| 17 | `ai.ydcloud.org` | ¥6.57 | $0.9 / $3.6 | 7.3 | az gpt | gpt-realtime-2.1-mini |
+| 18 | `api.aabao.ai` | ¥9.6 | $4.8 / $19.2 | 2 | OpenAI直连 | gpt-realtime-2.1-mini |
+| 19 | `us.pomoai.xyz` | ¥17.52 | $2.4 / $9.6 | 7.3 | gpt-官转-40 | gpt-realtime-2.1-mini |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,18 +37,20 @@
 | 1 | `api.vibe-subsapi.com` | $0.03 / $0.12 | ChatGPT 混池 | 0.05 | gpt-realtime-2.1-mini |
 | 2 | `s169.bjhuiqu.net` | $0.036 / $0.144 | pro | 0.06 | gpt-realtime-2.1-mini |
 | 3 | `xinyue.mom` | $0.048 / $0.192 | 不降智焚决【只有astra】 | 0.08 | gpt-realtime-2.1-mini |
-| 4 | `api.socode.cc` | $0.06 / $0.24 | GPT[Main] | 0.1 | gpt-realtime-2.1-mini |
-| 5 | `ai.mggoo.com` | $0.072 / $0.288 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-realtime-2.1-mini |
-| 6 | `mgoole.com` | $0.072 / $0.288 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-realtime-2.1-mini |
-| 7 | `test-sub2.sjapi.top` | $0.09 / $0.36 | plus | 0.15 | gpt-realtime-2.1-mini |
-| 8 | `saletoken.org` | $0.12 / $0.48 | CODEX-pro | 0.2 | gpt-realtime-2.1-mini |
-| 9 | `sub2api.hyl2api.com` | $0.12 / $0.48 | GPT  | 0.2 | gpt-realtime-2.1-mini |
-| 10 | `sub2api.simplaj.top` | $0.12 / $0.48 | GPT 纯血Pro 余额分组 | 0.2 | gpt-realtime-2.1-mini |
-| 11 | `api.geniuscoder.net` | $0.15 / $0.6 | gpt优惠 | 0.25 | gpt-realtime-2.1-mini |
-| 12 | `spacetimeai.cc` | $0.18 / $0.72 | Codex Pro | 0.3 | gpt-realtime-2.1-mini |
-| 13 | `supersubscribe689.com` | $0.3 / $1.2 | chatgpt美区版 | 0.5 | gpt-realtime-2.1-mini |
-| 14 | `expapi.echoflowai.cc` | $0.6 / $2.4 | OpenAI-Pro渠道 | 1 | gpt-realtime-2.1-mini |
-| 15 | `api.akko.space` | $1.5 / $6 | Codex Azure | 2.5 | gpt-realtime-2.1-mini |
-| 16 | `sub.hongyun.chat` | $4.5 / $18 | gpt | 7.5 | gpt-realtime-2.1-mini |
+| 4 | `api.clawhud.com` | $0.06 / $0.24 | Nvidia | 0.1 | gpt-realtime-2.1-mini |
+| 5 | `api.socode.cc` | $0.06 / $0.24 | GPT[Main] | 0.1 | gpt-realtime-2.1-mini |
+| 6 | `ai.mggoo.com` | $0.072 / $0.288 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-realtime-2.1-mini |
+| 7 | `mgoole.com` | $0.072 / $0.288 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-realtime-2.1-mini |
+| 8 | `test-sub2.sjapi.top` | $0.09 / $0.36 | plus | 0.15 | gpt-realtime-2.1-mini |
+| 9 | `saletoken.org` | $0.12 / $0.48 | CODEX-pro | 0.2 | gpt-realtime-2.1-mini |
+| 10 | `sub2api.hyl2api.com` | $0.12 / $0.48 | GPT  | 0.2 | gpt-realtime-2.1-mini |
+| 11 | `sub2api.simplaj.top` | $0.12 / $0.48 | GPT 纯血Pro 余额分组 | 0.2 | gpt-realtime-2.1-mini |
+| 12 | `api.geniuscoder.net` | $0.15 / $0.6 | gpt优惠 | 0.25 | gpt-realtime-2.1-mini |
+| 13 | `spacetimeai.cc` | $0.18 / $0.72 | Codex Pro | 0.3 | gpt-realtime-2.1-mini |
+| 14 | `supersubscribe689.com` | $0.3 / $1.2 | chatgpt美区版 | 0.5 | gpt-realtime-2.1-mini |
+| 15 | `expapi.echoflowai.cc` | $0.6 / $2.4 | OpenAI-Pro渠道 | 1 | gpt-realtime-2.1-mini |
+| 16 | `api.akko.space` | $1.5 / $6 | Codex Azure | 2.5 | gpt-realtime-2.1-mini |
+| 17 | `sub.hongyun.chat` | $4.5 / $18 | gpt | 7.5 | gpt-realtime-2.1-mini |
+| 18 | `vip.zen-ai.top` | $33 / $132 | Azure正价 | 55 | gpt-realtime-2.1-mini |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

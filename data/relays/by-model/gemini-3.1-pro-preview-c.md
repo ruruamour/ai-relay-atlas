@@ -1,6 +1,6 @@
 # gemini-3.1-pro-preview-c
 
-> 21 站提供 · 正常价 13 站 · 名义中位价 **$0.04**/次 · 实付中位价 **¥0.05**/次（11 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 14 站 · 名义中位价 **$0.045**/次 · 实付中位价 **¥0.05**/次（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,10 +17,11 @@
 | 5 | `botcf.com` | ¥0.04 | $0.04 | 1 | 🤓gemini-antigravity-request | gemini-3.1-pro-preview-c |
 | 6 | `cdn.12ai.org` | ¥0.05 | $0.05 | 1 | default | gemini-3.1-pro-preview-c |
 | 7 | `xingjiabiapi.org` | ¥0.05 | $0.05 | 1 | 逆向按次 | gemini-3.1-pro-preview-c |
-| 8 | `open.selart.cc` | ¥0.1 | $0.1 | 1 | gemini系列 | [奈斯]cli-gemini-3.1-pro-preview-c |
-| 9 | `2api.powerapi.cc` | ¥0.1642 | $0.0225 | 7.3 | gemini-c | gemini-3.1-pro-preview-c |
-| 10 | `dashboard.powerapi.cc` | ¥0.1642 | $0.0225 | 7.3 | gemini-c | gemini-3.1-pro-preview-c |
-| 11 | `api.mttie.com` | ¥7 | $7 | 1 | wang | gemini-3.1-pro-preview-c |
+| 8 | `learn-ai.top` | ¥0.07 | $0.07 | 1 | gemini | gemini-3.1-pro-preview-c |
+| 9 | `open.selart.cc` | ¥0.1 | $0.1 | 1 | gemini系列 | [奈斯]cli-gemini-3.1-pro-preview-c |
+| 10 | `2api.powerapi.cc` | ¥0.1642 | $0.0225 | 7.3 | gemini-c | gemini-3.1-pro-preview-c |
+| 11 | `dashboard.powerapi.cc` | ¥0.1642 | $0.0225 | 7.3 | gemini-c | gemini-3.1-pro-preview-c |
+| 12 | `api.mttie.com` | ¥7 | $7 | 1 | wang | gemini-3.1-pro-preview-c |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -29,4 +30,4 @@
 | 1 | `wish.sillydream.top` | $1.25 | default | 1 | gemini-3.1-pro-preview-c |
 | 2 | `openai.sharkmagic.top` | $12.6 | tier_3 | 0.9 | [lq]q\|gemini-3.1-pro-preview-c |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

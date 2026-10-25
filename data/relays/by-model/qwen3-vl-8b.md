@@ -1,6 +1,6 @@
 # qwen3-vl-8b
 
-> 96 站提供 · 正常价 78 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（13 站公开充值价） · 推算，未对账
+> 104 站提供 · 正常价 82 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.455**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,17 +12,21 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.09 | $0.09 / $0.27 | 1 | SiliconFlow | Qwen/Qwen3-VL-8B-Thinking |
 | 2 | `token101.site` | ¥0.18 | $0.18 / $2 | 1 | cn_model | Qwen/Qwen3-VL-8B-Thinking |
-| 3 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 / $3 | 1 | aliyun | qwen3-vl-8b-thinking |
-| 4 | `claudecn.ai` | ¥0.45 | $0.45 / $4.5 | 1 | 国产模型 | qwen3-vl-8b-thinking |
-| 5 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
-| 6 | `keypool.space` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
-| 7 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
-| 8 | `www.ggwk1.online` | ¥0.504 | $0.504 / $5.85144 | 1 | 开源模型组 | Qwen/Qwen3-VL-8B-Thinking |
-| 9 | `api.qinzhiai.com` | ¥0.5265 | $0.5265 / $6.1425 | 1 | openrouter | qwen/qwen3-vl-8b-thinking |
-| 10 | `yibuapi.com` | ¥0.6 | $0.4 / $4 | 1.5 | claude-code | qwen3-vl-8b-thinking |
-| 11 | `www.hohoapi.com` | ¥0.78 | $0.26 / $2.6 | 3 | qwen | qwen3-vl-8b-thinking |
-| 12 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $2.1 | 7.3 | vip | qwen/qwen3-vl-8b-thinking |
-| 13 | `ai2.qiqiai.top` | ¥1.537 | $0.2106 / $2.457 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-thinking |
+| 3 | `api.eido.top` | ¥0.2 | $0.2 / $0.8 | 1 | default | qwen3-vl-8b-thinking |
+| 4 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 / $3 | 1 | aliyun | qwen3-vl-8b-thinking |
+| 5 | `gpt777.top` | ¥0.4 | $0.4 / $4 | 1 | opensource | Qwen/Qwen3-VL-8B-Thinking |
+| 6 | `api.qinzhiai.com` | ¥0.4095 | $0.4095 / $4.7775 | 1 | openrouter | qwen/qwen3-vl-8b-thinking |
+| 7 | `claudecn.ai` | ¥0.45 | $0.45 / $4.5 | 1 | 国产模型 | qwen3-vl-8b-thinking |
+| 8 | `api.ifopen.ai` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
+| 9 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
+| 10 | `keypool.space` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
+| 11 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
+| 12 | `xinsuanai.com` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
+| 13 | `www.ggwk1.online` | ¥0.504 | $0.504 / $5.85144 | 1 | 开源模型组 | Qwen/Qwen3-VL-8B-Thinking |
+| 14 | `yibuapi.com` | ¥0.6 | $0.4 / $4 | 1.5 | claude-code | qwen3-vl-8b-thinking |
+| 15 | `www.hohoapi.com` | ¥0.78 | $0.26 / $2.6 | 3 | qwen | qwen3-vl-8b-thinking |
+| 16 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $2.1 | 7.3 | vip | qwen/qwen3-vl-8b-thinking |
+| 17 | `ai2.qiqiai.top` | ¥1.537 | $0.2106 / $2.457 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -81,4 +85,4 @@
 
 > 另有 15 站未列出。
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

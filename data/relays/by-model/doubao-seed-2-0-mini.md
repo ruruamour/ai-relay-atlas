@@ -1,6 +1,6 @@
 # doubao-seed-2-0-mini
 
-> 166 站提供 · 正常价 135 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.2116**/1M 输入（69 站公开充值价） · 推算，未对账
+> 182 站提供 · 正常价 143 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.2267**/1M 输入（77 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,7 +13,7 @@
 | 1 | `api.arithcore.com` | ¥0.01627 | $0.016269 / $0.159885 | 1 | 国模分组全有 | doubao-seed-2-0-mini-260215 |
 | 2 | `uselink.cn` | ¥0.03 | $0.03 / $0.28 | 1 | default | doubao-seed-2-0-mini-260428 |
 | 3 | `platform.anyrouter.ai` | ¥0.08 | $0.08 / $0.16 | 1 | Doubao | doubao-seed-2-0-mini-260215 |
-| 4 | `hk.moleapi.com` | ¥0.1006 | $0.01479 / $0.14535 | 6.8 | relay | doubao-seed-2-0-mini-260215 |
+| 4 | `api.openlux.ai` | ¥0.1512 | $0.0225 / $0.225 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
 | 5 | `api.relayrouter.ai` | ¥0.1512 | $0.0225 / $0.225 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
 | 6 | `openlux.zhongzhuan.chat` | ¥0.1512 | $0.0225 / $0.225 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
 | 7 | `api.camel-hub.cn` | ¥0.16 | $0.2 / $2 | 0.8 | CN | doubao-seed-2-0-mini-260215 |
@@ -29,39 +29,39 @@
 | 17 | `www.vectronode.com` | ¥0.1814 | $0.027 / $0.27 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
 | 18 | `apiclaw.cn` | ¥0.1829 | $0.027225 / $0.27225 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
 | 19 | `newapi.xueai.me` | ¥0.1829 | $0.027225 / $0.27225 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 20 | `ciyuan.today` | ¥0.1889 | $0.028125 / $0.28125 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 21 | `gptapi.top` | ¥0.1889 | $0.028125 / $0.28125 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 22 | `makerend.com` | ¥0.1889 | $0.028125 / $0.28125 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 23 | `moliapi.com` | ¥0.1905 | $0.02835 / $0.2835 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 24 | `ai-api.cc` | ¥0.1965 | $0.02925 / $0.2925 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 25 | `nodapi.com` | ¥0.1995 | $0.0297 / $0.297 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 26 | `ai.hwdrama.com` | ¥0.2 | $0.2 / $2 | 1 | default | doubao-seed-2-0-mini-260428 |
-| 27 | `api.new.bi` | ¥0.2 | $0.2 / $2 | 1 | default | doubao-seed-2-0-mini-260215 |
-| 28 | `coneverse.com` | ¥0.2 | $0.2 / $1.9998 | 1 | doubao-official | doubao-seed-2-0-mini-260428 |
-| 29 | `infistar.ai` | ¥0.2 | $0.2 / $1.9998 | 1 | doubao-official | doubao-seed-2-0-mini-260428 |
-| 30 | `kfcv50.link` | ¥0.2 | $0.2 / $2 | 1 | Domestic | doubao-seed-2-0-mini-260215 |
-| 31 | `proaiapi.tech` | ¥0.2 | $0.2 / $2 | 1 | default | doubao-seed-2-0-mini-260215 |
-| 32 | `ssvip.dmxapi.com` | ¥0.2 | $0.0274 / $0.274 | 7.3 | default | doubao-seed-2-0-mini-260215 |
-| 33 | `anyaigc.ai` | ¥0.2041 | $0.030375 / $0.30375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 34 | `sheepaiplus.top` | ¥0.2116 | $0.0315 / $0.315 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 35 | `xiguapi.icu` | ¥0.2116 | $0.0315 / $0.315 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 36 | `api.88api.chat` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 37 | `api.videocaptioner.cn` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 38 | `new.aigc2d.com` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 39 | `oyy-ai.xyz` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 40 | `api.aliyunfuwu.top` | ¥0.252 | $0.252 / $1.008 | 1 | 火山 | doubao-seed-2-0-mini-260215 |
-| 41 | `layso.ai` | ¥0.2535 | $0.2535 / $2.535 | 1 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 42 | `laysoai.com` | ¥0.2535 | $0.2535 / $2.535 | 1 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 43 | `api.nixapi.com` | ¥0.2555 | $0.038025 / $0.38025 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 44 | `runapi.co` | ¥0.2889 | $0.0428 / $0.428 | 6.75 | default | doubao-seed-2-0-mini-260215 |
-| 45 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $3 | 1 | 纯AZ | doubao-seed-2-0-mini-260215 |
-| 46 | `test.yibuapi.com` | ¥0.3 | $0.2 / $2 | 1.5 | default | doubao-seed-2-0-mini-260215 |
-| 47 | `yibuapi.cn` | ¥0.3 | $0.2 / $2 | 1.5 | default | doubao-seed-2-0-mini-260428 |
-| 48 | `aiwuje.com` | ¥0.3023 | $0.045 / $0.45 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 49 | `api.echoflowai.cc` | ¥0.3023 | $0.045 / $0.45 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
-| 50 | `api.n1n.ai` | ¥0.3023 | $0.045 / $0.45 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 20 | `wodapis.com` | ¥0.1829 | $0.027225 / $0.27225 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 21 | `ciyuan.today` | ¥0.1889 | $0.028125 / $0.28125 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 22 | `gptapi.top` | ¥0.1889 | $0.028125 / $0.28125 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 23 | `makerend.com` | ¥0.1889 | $0.028125 / $0.28125 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 24 | `moliapi.com` | ¥0.1905 | $0.02835 / $0.2835 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 25 | `ai-api.cc` | ¥0.1965 | $0.02925 / $0.2925 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 26 | `infai.cc` | ¥0.1965 | $0.02925 / $0.2925 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 27 | `nodapi.com` | ¥0.1995 | $0.0297 / $0.297 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 28 | `ai.hwdrama.com` | ¥0.2 | $0.2 / $2 | 1 | default | doubao-seed-2-0-mini-260428 |
+| 29 | `api.new.bi` | ¥0.2 | $0.2 / $2 | 1 | default | doubao-seed-2-0-mini-260215 |
+| 30 | `coneverse.com` | ¥0.2 | $0.2 / $1.9998 | 1 | doubao-official | doubao-seed-2-0-mini-260428 |
+| 31 | `infistar.ai` | ¥0.2 | $0.2 / $1.9998 | 1 | doubao-official | doubao-seed-2-0-mini-260428 |
+| 32 | `kfcv50.link` | ¥0.2 | $0.2 / $2 | 1 | Domestic | doubao-seed-2-0-mini-260215 |
+| 33 | `proaiapi.tech` | ¥0.2 | $0.2 / $2 | 1 | default | doubao-seed-2-0-mini-260215 |
+| 34 | `ssvip.dmxapi.com` | ¥0.2 | $0.0274 / $0.274 | 7.3 | default | doubao-seed-2-0-mini-260215 |
+| 35 | `anyaigc.ai` | ¥0.2041 | $0.030375 / $0.30375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 36 | `sheepaiplus.top` | ¥0.2116 | $0.0315 / $0.315 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 37 | `xiguapi.icu` | ¥0.2116 | $0.0315 / $0.315 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 38 | `jiugx.com` | ¥0.22 | $0.22 / $2.2 | 1 | default | doubao-seed-2-0-mini-260428 |
+| 39 | `api.88api.chat` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 40 | `api.88api.shop` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 41 | `api.videocaptioner.cn` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 42 | `new.aigc2d.com` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 43 | `oyy-ai.xyz` | ¥0.2267 | $0.03375 / $0.3375 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 44 | `api.aliyunfuwu.top` | ¥0.252 | $0.252 / $1.008 | 1 | 火山 | doubao-seed-2-0-mini-260215 |
+| 45 | `laysoai.com` | ¥0.2535 | $0.2535 / $2.535 | 1 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 46 | `api.nixapi.com` | ¥0.2555 | $0.038025 / $0.38025 | 6.718 | Doubao-2 | doubao-seed-2-0-mini-260215 |
+| 47 | `runapi.co` | ¥0.2889 | $0.0428 / $0.428 | 6.75 | default | doubao-seed-2-0-mini-260215 |
+| 48 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $3 | 1 | 纯AZ | doubao-seed-2-0-mini-260215 |
+| 49 | `test.yibuapi.com` | ¥0.3 | $0.2 / $2 | 1.5 | default | doubao-seed-2-0-mini-260215 |
+| 50 | `www.yibuapi.cn` | ¥0.3 | $0.2 / $2 | 1.5 | default | doubao-seed-2-0-mini-260428 |
 
-> 另有 19 站未列出。
+> 另有 27 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 16 站未列出。
 
-> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

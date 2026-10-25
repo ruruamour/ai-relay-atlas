@@ -1,6 +1,6 @@
 # seedance-2.0-fast
 
-> 48 站提供 · 正常价 24 站 · 名义中位价 **$0.3142**/次 · 实付中位价 **¥0.7593**/次（22 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 24 站 · 名义中位价 **$0.35**/次 · 实付中位价 **¥0.7593**/次（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,11 +15,11 @@
 | 3 | `relay.fast` | ¥0.24 | $0.24 | 1 | default | seedance-2.0-fast |
 | 4 | `router.cheap` | ¥0.24 | $0.24 | 1 | default | seedance-2.0-fast |
 | 5 | `api.wanapis.com` | ¥0.2436 | $0.2436 | 1 | default | seedance-2.0-fast |
-| 6 | `api.tmlab.store` | ¥0.35 | $0.35 | 1 | seedance | seedance-2.0-fast |
-| 7 | `api.uiuihao.com` | ¥0.5197 | $0.1629 | 3.19 | s-video | seedance-2.0-fast |
-| 8 | `sg.uiuiapi.com` | ¥0.5197 | $0.1629 | 3.19 | s-video | seedance-2.0-fast |
-| 9 | `api.qiqiai.top` | ¥0.5568 | $0.2784 | 2 | default | seedance-2.0-fast |
-| 10 | `116.62.113.242` | ¥0.7186 | $0.09844 | 7.3 | 视频模型聚合 | seedance-2.0-fast |
+| 6 | `api-cn.tmlab.store` | ¥0.35 | $0.35 | 1 | 通用 · LL线路 | seedance-2.0-fast |
+| 7 | `api.tmlab.store` | ¥0.35 | $0.35 | 1 | seedance | seedance-2.0-fast |
+| 8 | `api.uiuihao.com` | ¥0.5197 | $0.1629 | 3.19 | s-video | seedance-2.0-fast |
+| 9 | `sg.uiuiapi.com` | ¥0.5197 | $0.1629 | 3.19 | s-video | seedance-2.0-fast |
+| 10 | `api.qiqiai.top` | ¥0.5568 | $0.2784 | 2 | default | seedance-2.0-fast |
 | 11 | `synthapi.asia` | ¥0.7186 | $0.09844 | 7.3 | 视频模型聚合 | seedance-2.0-fast |
 | 12 | `apiqd.com` | ¥0.8 | $0.8 | 1 | 图片视频分组 | seedance-2.0-fast |
 | 13 | `apimaster.ai` | ¥0.8891 | $0.127008 | 7 | default | seedance-2.0-fast |
@@ -40,4 +40,4 @@
 | 1 | `clodex.xyz` | $0.495833 | CLODEX_VIDEO | 1 | clodex-video/seedance-2.0-fast |
 | 2 | `sub.linkrun.org` | $3.77 | default | 1 | seedance-2.0-fast |
 
-> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # viduq1
 
-> 83 站提供 · 正常价 75 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.064**/次（11 站公开充值价） · 推算，未对账
+> 87 站提供 · 正常价 77 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.064**/次（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,14 +13,16 @@
 | 1 | `api.new.bi` | ¥0.016 | $0.016 | 1 | 企业级高可用大模型 | viduq1 |
 | 2 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | viduq1 |
 | 3 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | viduq1 |
-| 4 | `api.camel-hub.cn` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
-| 5 | `api.camel-hub.com` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
-| 6 | `api.kr777.top` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
-| 7 | `ccapi.ai` | ¥2.3 | $0.333333 | 6.9 | vidu-A | viduq1 |
-| 8 | `kfcv50.link` | ¥2.5 | $2.5 | 1 | default | viduq1 |
-| 9 | `api.klxey.com` | ¥2.92 | $0.4 | 7.3 | default | viduq1 |
-| 10 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq1 |
-| 11 | `api2.aigcbest.top` | ¥7 | $2 | 3.5 | default | viduq1 |
+| 4 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | viduq1 |
+| 5 | `api.camel-hub.cn` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
+| 6 | `api.camel-hub.com` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
+| 7 | `api.kr777.top` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
+| 8 | `ccapi.ai` | ¥2.3 | $0.333333 | 6.9 | vidu-A | viduq1 |
+| 9 | `kfcv50.link` | ¥2.5 | $2.5 | 1 | default | viduq1 |
+| 10 | `api.klxey.com` | ¥2.92 | $0.4 | 7.3 | default | viduq1 |
+| 11 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq1 |
+| 12 | `api.ifopen.ai` | ¥7 | $2 | 3.5 | default | viduq1 |
+| 13 | `api2.aigcbest.top` | ¥7 | $2 | 3.5 | default | viduq1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -79,4 +81,4 @@
 
 > 另有 14 站未列出。
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

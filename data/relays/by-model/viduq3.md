@@ -1,6 +1,6 @@
 # viduq3
 
-> 90 站提供 · 正常价 81 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.4095**/次（16 站公开充值价） · 推算，未对账
+> 93 站提供 · 正常价 80 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.4095**/次（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,11 +21,10 @@
 | 9 | `beeroute.ai` | ¥0.4095 | $0.4095 | 1 | default | viduq3 |
 | 10 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.4095 | $0.4095 | 1 | default | viduq3 |
 | 11 | `api.ilaien.com` | ¥0.6257 | $0.085714 | 7.3 | default | viduq3 |
-| 12 | `116.62.113.242` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | viduq3 |
-| 13 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | viduq3 |
-| 14 | `api-x.vip` | ¥2.8 | $2.8 | 1 | default | viduq3 |
-| 15 | `api.klxey.com` | ¥4.38 | $0.6 | 7.3 | default | viduq3 |
-| 16 | `api.baoyouhuyu.com` | ¥109.5 | $15 | 7.3 | vidu | viduq3 |
+| 12 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | viduq3 |
+| 13 | `api-x.vip` | ¥2.8 | $2.8 | 1 | default | viduq3 |
+| 14 | `api.klxey.com` | ¥4.38 | $0.6 | 7.3 | default | viduq3 |
+| 15 | `api.baoyouhuyu.com` | ¥109.5 | $15 | 7.3 | vidu | viduq3 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -84,4 +83,4 @@
 
 > 另有 15 站未列出。
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

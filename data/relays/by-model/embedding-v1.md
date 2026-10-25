@@ -1,6 +1,6 @@
 # embedding-v1
 
-> 33 站提供 · 正常价 30 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（11 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 33 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,10 +17,13 @@
 | 5 | `api.kr777.top` | ¥0.3 | $0.375 / $0.375 | 0.8 | default | Embedding-V1 |
 | 6 | `api.new.bi` | ¥0.5 | $0.5 / $0.5 | 1 | default | Embedding-V1 |
 | 7 | `keypool.space` | ¥0.5 | $0.5 / $0.5 | 1 | default | Embedding-V1 |
-| 8 | `chat.cloudapi.vip` | ¥0.5479 | $0.273973 / $0.273973 | 2 | default | Embedding-V1 |
-| 9 | `api.ytea.top` | ¥0.8 | $0.8 / $0.8 | 1 | default | Embedding-V1 |
-| 10 | `kubernetes-test-api.apiqik.online` | ¥2 | $0.273973 / $0.273973 | 7.3 | default | Embedding-V1 |
-| 11 | `nbapi.net` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | Embedding-V1 |
+| 8 | `xinsuanai.com` | ¥0.5 | $0.5 / $0.5 | 1 | default | Embedding-V1 |
+| 9 | `chat.cloudapi.vip` | ¥0.5479 | $0.273973 / $0.273973 | 2 | default | Embedding-V1 |
+| 10 | `api.vakv.cn` | ¥0.7123 | $0.712329 / $0.712329 | 1 | 9999 | Embedding-V1 |
+| 11 | `api.ytea.top` | ¥0.8 | $0.8 / $0.8 | 1 | default | Embedding-V1 |
+| 12 | `kubernetes-test-api.apiqik.online` | ¥2 | $0.273973 / $0.273973 | 7.3 | default | Embedding-V1 |
+| 13 | `newapi.ailingnan.top` | ¥2 | $0.273973 / $0.273973 | 7.3 | default | Embedding-V1 |
+| 14 | `nbapi.net` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | Embedding-V1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

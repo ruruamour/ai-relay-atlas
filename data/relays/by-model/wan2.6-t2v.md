@@ -1,6 +1,6 @@
 # wan2.6-t2v
 
-> 25 站提供 · 正常价 11 站 · 名义中位价 **$0.6**/次 · 实付中位价 **¥0.6001**/次（11 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 12 站 · 名义中位价 **$0.6**/次 · 实付中位价 **¥0.6128**/次（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,8 +18,9 @@
 | 6 | `supertoken.pro` | ¥0.6001 | $0.0822 | 7.3 | 万象 | wan2.6-t2v |
 | 7 | `kubernetes-test-api.apiqik.online` | ¥0.6256 | $0.0857 | 7.3 | default | wan2.6-t2v |
 | 8 | `yibuapi.com` | ¥0.765 | $0.51 | 1.5 | default | wan2.6-t2v |
-| 9 | `yibuapi.cn` | ¥0.9 | $0.6 | 1.5 | default | wan2.6-t2v |
-| 10 | `www.hohoapi.com` | ¥2.34 | $0.78 | 3 | default | wan2.6-t2v |
-| 11 | `api.34ku.com` | ¥6.5 | $6.5 | 1 | default | wan2.6-t2v |
+| 9 | `www.yibuapi.cn` | ¥0.9 | $0.6 | 1.5 | default | wan2.6-t2v |
+| 10 | `yibuapi.cn` | ¥0.9 | $0.6 | 1.5 | default | wan2.6-t2v |
+| 11 | `www.hohoapi.com` | ¥2.34 | $0.78 | 3 | default | wan2.6-t2v |
+| 12 | `api.34ku.com` | ¥6.5 | $6.5 | 1 | default | wan2.6-t2v |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

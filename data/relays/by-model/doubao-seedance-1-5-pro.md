@@ -1,6 +1,6 @@
 # doubao-seedance-1-5-pro
 
-> 104 站提供 · 正常价 71 站 · 名义中位价 **$24**/次 · 实付中位价 **¥11.83**/次（7 站公开充值价） · 推算，未对账
+> 110 站提供 · 正常价 70 站 · 名义中位价 **$24**/次 · 实付中位价 **¥6.715**/次（6 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,10 +13,9 @@
 | 1 | `api.camel-hub.cn` | ¥1.6 | $2 | 0.8 | CN | doubao-seedance-1-5-pro-251215 |
 | 2 | `api.camel-hub.com` | ¥1.6 | $2 | 0.8 | CN | doubao-seedance-1-5-pro-251215 |
 | 3 | `api.kr777.top` | ¥1.6 | $2 | 0.8 | default | doubao-seedance-1-5-pro-251215 |
-| 4 | `layso.ai` | ¥11.83 | $11.83 | 1 | Doubao-2 | doubao-seedance-1-5-pro-251215 |
-| 5 | `laysoai.com` | ¥11.83 | $11.83 | 1 | Doubao-2 | doubao-seedance-1-5-pro-251215 |
-| 6 | `new.foxi-api.cn` | ¥24 | $24 | 1 | 纯AZ | doubao-seedance-1-5-pro-251215 |
-| 7 | `plusx.nyxos.shop` | ¥76.65 | $10.5 | 7.3 | Doubao-2 | doubao-seedance-1-5-pro-251215 |
+| 4 | `laysoai.com` | ¥11.83 | $11.83 | 1 | Doubao-2 | doubao-seedance-1-5-pro-251215 |
+| 5 | `new.foxi-api.cn` | ¥24 | $24 | 1 | 纯AZ | doubao-seedance-1-5-pro-251215 |
+| 6 | `plusx.nyxos.shop` | ¥76.65 | $10.5 | 7.3 | Doubao-2 | doubao-seedance-1-5-pro-251215 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -75,4 +74,4 @@
 
 > 另有 14 站未列出。
 
-> 33 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 40 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

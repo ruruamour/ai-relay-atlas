@@ -1,6 +1,6 @@
 # qwen3.5-9b
 
-> 26 站提供 · 正常价 14 站 · 名义中位价 **$0.115**/1M 输入 · 实付中位价 **¥0.4525**/1M 输入（12 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 17 站 · 名义中位价 **$0.13**/1M 输入 · 实付中位价 **¥0.455**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,13 +15,16 @@
 | 3 | `ai.gigimed.cn` | ¥0.108 | $0.0148 / $0.0555 | 7.3 | 智能路由分组 | qwen3.5-9b |
 | 4 | `otoken.pro` | ¥0.16 | $0.16 / $0.48 | 1 | default | qwen3.5-9b |
 | 5 | `llm.kagu.one` | ¥0.3285 | $0.045 / $0.065 | 7.3 | 大杂烩 | qwen/qwen3.5-9b |
-| 6 | `api.qinzhiai.com` | ¥0.45 | $0.45 / $0.675 | 1 | openrouter | qwen/qwen3.5-9b |
-| 7 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3.5-9B |
-| 8 | `ai2.qiqiai.top` | ¥0.657 | $0.09 / $0.27 | 7.3 | 官方合作渠道 | qwen/qwen3.5-9b |
-| 9 | `api.tokenrouter.com` | ¥0.7 | $0.1 / $0.15 | 7 | default | qwen/qwen3.5-9b |
-| 10 | `yibuapi.com` | ¥0.72 | $0.48 / $3.84 | 1.5 | claude-code | qwen3.5-9b |
-| 11 | `yibuapi.cn` | ¥0.9 | $0.6 / $4.8 | 1.5 | claude-code | qwen3.5-9b |
-| 12 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $0.230769 | 7.3 | default | qwen/qwen3.5-9b |
+| 6 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $0.525 | 1 | openrouter | qwen/qwen3.5-9b |
+| 7 | `gpt777.top` | ¥0.4 | $0.4 / $3.2 | 1 | opensource | Qwen/Qwen3.5-9B |
+| 8 | `api.ifopen.ai` | ¥0.455 | $0.13 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3.5-9B |
+| 9 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3.5-9B |
+| 10 | `ai2.qiqiai.top` | ¥0.657 | $0.09 / $0.27 | 7.3 | 官方合作渠道 | qwen/qwen3.5-9b |
+| 11 | `api.tokenrouter.com` | ¥0.7 | $0.1 / $0.15 | 7 | default | qwen/qwen3.5-9b |
+| 12 | `yibuapi.com` | ¥0.72 | $0.48 / $3.84 | 1.5 | claude-code | qwen3.5-9b |
+| 13 | `www.yibuapi.cn` | ¥0.9 | $0.6 / $4.8 | 1.5 | claude-code | qwen3.5-9b |
+| 14 | `yibuapi.cn` | ¥0.9 | $0.6 / $4.8 | 1.5 | claude-code | qwen3.5-9b |
+| 15 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $0.230769 | 7.3 | default | qwen/qwen3.5-9b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -30,4 +33,4 @@
 | 1 | `or.mux.la` | $0.1 / $0.15 | default | 1 | qwen/qwen3.5-9b |
 | 2 | `supersubscribe689.com` | $0.3 / $1.2 | Qwen 3.8-max | 0.6 | qwen3.5-9b |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

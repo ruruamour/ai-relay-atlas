@@ -1,6 +1,6 @@
 # qwen2-vl-72b-instruct
 
-> 78 站提供 · 正常价 72 站 · 名义中位价 **$4.5**/1M 输入 · 实付中位价 **¥9.6**/1M 输入（7 站公开充值价） · 推算，未对账
+> 83 站提供 · 正常价 75 站 · 名义中位价 **$4.5**/1M 输入 · 实付中位价 **¥7.05**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,13 +10,16 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `claudecn.ai` | ¥4.05 | $4.05 / $4.05 | 1 | 国产模型 | qwen2-vl-72b-instruct |
-| 2 | `keypool.space` | ¥4.5 | $4.5 / $4.5 | 1 | default | qwen2-vl-72b-instruct |
-| 3 | `new.foxi-api.cn` | ¥4.5 | $4.5 / $4.5 | 1 | default | qwen2-vl-72b-instruct |
-| 4 | `api.zyai.online` | ¥9.6 | $9.6 / $28.8 | 1 | Guochan6 | qwen2-vl-72b-instruct |
-| 5 | `kfcv50.link` | ¥12 | $12 / $36 | 1 | cn_discount_0407_075 | qwen2-vl-72b-instruct |
-| 6 | `api.ocoolai.com` | ¥15.2 | $15.2 / $45.6 | 1 | cn | qwen2-vl-72b-instruct |
-| 7 | `ocool.cn` | ¥15.2 | $15.2 / $45.6 | 1 | cn | qwen2-vl-72b-instruct |
+| 1 | `api.eido.top` | ¥4 | $4 / $20 | 1 | default | qwen2-vl-72b-instruct |
+| 2 | `claudecn.ai` | ¥4.05 | $4.05 / $4.05 | 1 | 国产模型 | qwen2-vl-72b-instruct |
+| 3 | `keypool.space` | ¥4.5 | $4.5 / $4.5 | 1 | default | qwen2-vl-72b-instruct |
+| 4 | `new.foxi-api.cn` | ¥4.5 | $4.5 / $4.5 | 1 | default | qwen2-vl-72b-instruct |
+| 5 | `xinsuanai.com` | ¥4.5 | $4.5 / $4.5 | 1 | default | qwen2-vl-72b-instruct |
+| 6 | `api.zyai.online` | ¥9.6 | $9.6 / $28.8 | 1 | Guochan6 | qwen2-vl-72b-instruct |
+| 7 | `kfcv50.link` | ¥12 | $12 / $36 | 1 | cn_discount_0407_075 | qwen2-vl-72b-instruct |
+| 8 | `gpt777.top` | ¥12.8 | $12.8 / $38.4 | 1 | opensource | qwen2-vl-72b-instruct |
+| 9 | `api.ocoolai.com` | ¥15.2 | $15.2 / $45.6 | 1 | cn | qwen2-vl-72b-instruct |
+| 10 | `ocool.cn` | ¥15.2 | $15.2 / $45.6 | 1 | cn | qwen2-vl-72b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -75,4 +78,4 @@
 
 > 另有 15 站未列出。
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

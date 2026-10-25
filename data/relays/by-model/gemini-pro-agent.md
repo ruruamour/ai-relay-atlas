@@ -1,6 +1,6 @@
 # gemini-pro-agent
 
-> 74 站提供 · 正常价 28 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.4**/1M 输入（21 站公开充值价） · 推算，未对账
+> 75 站提供 · 正常价 27 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,14 +23,13 @@
 | 11 | `www.tokenbuy.shop` | ¥1.4 | $1.4 / $8.4 | 1 | Gemini哈基米 | gemini-pro-agent |
 | 12 | `api.xiaoxuapi.com` | ¥1.54 | $1.54 / $9.24 | 1 | gemini_lowprice | gemini-pro-agent |
 | 13 | `www.jubaopeng.vip` | ¥2.92 | $0.4 / $2.4 | 7.3 | Gemini | gemini-pro-agent |
-| 14 | `clauddy.com` | ¥3.6 | $3.6 / $21.6 | 1 | Gemini | gemini-pro-agent |
-| 15 | `ai.hebox.net` | ¥4.928 | $0.675 / $0.675 | 7.3 | Gemini | gemini-pro-agent |
-| 16 | `anticode.cn` | ¥6.3 | $0.9 / $5.4 | 7 | Gemini | gemini-pro-agent |
-| 17 | `api.flymeteor.xyz` | ¥7.3 | $1 / $6 | 7.3 | 🤖antigravity | gemini-pro-agent |
-| 18 | `zz.xcwang.cn` | ¥10.95 | $1.5 / $7.5 | 7.3 | Antigravity | gemini-pro-agent |
-| 19 | `supertoken.pro` | ¥14.6 | $2 / $8 | 7.3 | Gemini | gemini-pro-agent |
-| 20 | `vip.aipro.love` | ¥32.85 | $4.5 / $27 | 7.3 | default | gemini-pro-agent |
-| 21 | `aizhongzhuan.com` | ¥43.8 | $6 / $36 | 7.3 | 反重力Gemini | gemini-pro-agent |
+| 14 | `ai.hebox.net` | ¥4.928 | $0.675 / $0.675 | 7.3 | Gemini | gemini-pro-agent |
+| 15 | `anticode.cn` | ¥6.3 | $0.9 / $5.4 | 7 | Gemini | gemini-pro-agent |
+| 16 | `api.flymeteor.xyz` | ¥7.3 | $1 / $6 | 7.3 | 🤖antigravity | gemini-pro-agent |
+| 17 | `zz.xcwang.cn` | ¥10.95 | $1.5 / $7.5 | 7.3 | Antigravity | gemini-pro-agent |
+| 18 | `supertoken.pro` | ¥14.6 | $2 / $8 | 7.3 | Gemini | gemini-pro-agent |
+| 19 | `vip.aipro.love` | ¥32.85 | $4.5 / $27 | 7.3 | default | gemini-pro-agent |
+| 20 | `aizhongzhuan.com` | ¥43.8 | $6 / $36 | 7.3 | 反重力Gemini | gemini-pro-agent |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -44,4 +43,4 @@
 | 6 | `api.apihoter.com` | $2 / $2 | default | 1 | gemini-pro-agent |
 | 7 | `ai.xem8k5.top` | $10.8 / $64.8 | gemini | 18 | gemini-pro-agent |
 
-> 46 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 48 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

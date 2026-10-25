@@ -1,6 +1,6 @@
 # claude-mythos-5
 
-> 36 站提供 · 正常价 28 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥80.51**/1M 输入（2 站公开充值价） · 推算，未对账
+> 40 站提供 · 正常价 30 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥80.51**/1M 输入（2 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -28,20 +28,22 @@
 | 9 | `sub.kkdmx.com` | $2 / $10 | Claude-Kiro | 0.2 | claude-mythos-5 |
 | 10 | `test-sub2.sjapi.top` | $2 / $10 | claude kiro | 0.2 | claude-mythos-5 |
 | 11 | `sub2api.hyl2api.com` | $2.2 / $11 | 应急中，非自营 AWS kiro | 0.22 | claude-mythos-5 |
-| 12 | `www.xmapi.cc` | $2.5 / $12.5 | kiro高缓存 | 0.25 | claude-mythos-5 |
-| 13 | `api-hub.asia` | $3 / $15 | Claude-kiro正价 | 0.3 | claude-mythos-5 |
-| 14 | `api.xudiansuanli.com` | $3 / $15 | Claude kiro 号池 | 0.3 | claude-mythos-5 |
-| 15 | `fcodex.top` | $3 / $15 | claude kiro | 0.3 | claude-mythos-5 |
-| 16 | `pureai.ink` | $3.5 / $17.5 | Z-Claude-破限专享 | 0.35 | claude-mythos-5 |
-| 17 | `super.aresaicode.cn` | $4 / $20 | claude kiro正价power | 0.4 | claude-mythos-5 |
-| 18 | `gpt.juhecode.cn` | $10 / $50 | default | 1 | claude-mythos-5 |
-| 19 | `ikuncode.top` | $11 / $55 | cc-max | 1.1 | claude-mythos-5 |
-| 20 | `ai.mggoo.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-5 |
-| 21 | `mgoole.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-5 |
-| 22 | `ai.aiaimark.com` | $15 / $75 | claude-优惠分组 | 1.5 | claude-mythos-5 |
-| 23 | `ai.bayunzi.shop` | $15 / $75 | Claude-官转可外接 | 1.5 | claude-mythos-5 |
-| 24 | `www.jiguang.me` | $15 / $75 | CCMAX蒸馏 | 1.5 | claude-mythos-5 |
-| 25 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-5 |
-| 26 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-5 |
+| 12 | `code.xmapi.cc` | $2.5 / $12.5 | kiro高缓存 | 0.25 | claude-mythos-5 |
+| 13 | `www.xmapi.cc` | $2.5 / $12.5 | kiro高缓存 | 0.25 | claude-mythos-5 |
+| 14 | `api-hub.asia` | $3 / $15 | Claude-kiro正价 | 0.3 | claude-mythos-5 |
+| 15 | `api.xudiansuanli.com` | $3 / $15 | Claude kiro 号池 | 0.3 | claude-mythos-5 |
+| 16 | `fcodex.top` | $3 / $15 | claude kiro | 0.3 | claude-mythos-5 |
+| 17 | `pureai.ink` | $3.5 / $17.5 | Z-Claude-破限专享 | 0.35 | claude-mythos-5 |
+| 18 | `super.aresaicode.cn` | $4 / $20 | claude kiro正价power | 0.4 | claude-mythos-5 |
+| 19 | `api.clawhud.com` | $10 / $50 | Anthropic | 1 | claude-mythos-5 |
+| 20 | `gpt.juhecode.cn` | $10 / $50 | default | 1 | claude-mythos-5 |
+| 21 | `ikuncode.top` | $11 / $55 | cc-max | 1.1 | claude-mythos-5 |
+| 22 | `ai.mggoo.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-5 |
+| 23 | `mgoole.com` | $12 / $60 | cc-max-号池-稳定组 | 1.2 | claude-mythos-5 |
+| 24 | `ai.aiaimark.com` | $15 / $75 | claude-优惠分组 | 1.5 | claude-mythos-5 |
+| 25 | `ai.bayunzi.shop` | $15 / $75 | Claude-官转可外接 | 1.5 | claude-mythos-5 |
+| 26 | `www.jiguang.me` | $15 / $75 | CCMAX蒸馏 | 1.5 | claude-mythos-5 |
+| 27 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-5 |
+| 28 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-5 |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

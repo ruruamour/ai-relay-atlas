@@ -1,6 +1,6 @@
 # qwen2.5-math-7b-instruct
 
-> 31 站提供 · 正常价 25 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（7 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 27 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,12 +11,14 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.zyai.online` | ¥0.5 | $0.5 / $1 | 1 | mini | qwen2.5-math-7b-instruct |
-| 2 | `api.ocoolai.com` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
-| 3 | `ocool.cn` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
-| 4 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
-| 5 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-math-7b-instruct |
-| 6 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-math-7b-instruct |
-| 7 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-math-7b-instruct |
+| 2 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | qwen2.5-math-7b-instruct |
+| 3 | `api.ocoolai.com` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
+| 4 | `ocool.cn` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
+| 5 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
+| 6 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-math-7b-instruct |
+| 7 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
+| 8 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-math-7b-instruct |
+| 9 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-math-7b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -41,4 +43,4 @@
 | 17 | `www.xiaoruiera.top` | $1 / $2 | default | 1 | qwen2.5-math-7b-instruct |
 | 18 | `yuli.host` | $1 / $2 | default | 1 | qwen2.5-math-7b-instruct |
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

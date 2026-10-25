@@ -1,6 +1,6 @@
 # gpt-4o-search-preview
 
-> 140 站提供 · 正常价 109 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥11.25**/1M 输入（38 站公开充值价） · 推算，未对账
+> 156 站提供 · 正常价 118 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥10.12**/1M 输入（47 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,34 +20,43 @@
 | 8 | `35.aigcbest.top` | ¥3.75 | $2.5 / $10 | 1.5 | default | gpt-4o-search-preview |
 | 9 | `147ai.online` | ¥4 | $5 / $20 | 0.8 | default | gpt-4o-search-preview |
 | 10 | `big.sbgpt.site` | ¥5 | $5 / $20 | 1 | 官openai | gpt-4o-search-preview |
-| 11 | `api.bltcy.ai` | ¥7.5 | $7.5 / $30 | 1 | ssvip | gpt-4o-search-preview |
-| 12 | `api.hoxkai.top` | ¥8 | $8 / $32 | 1 | openai-vip | gpt-4o-search-preview |
-| 13 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-search-preview |
-| 14 | `poloai.top` | ¥8.75 | $8.75 / $35 | 1 | gpt-vip | gpt-4o-search-preview |
-| 15 | `www.cybersol.net` | ¥9 | $4.5 / $18 | 2 | GPT Advance | gpt-4o-search-preview |
-| 16 | `llm.kagu.one` | ¥9.125 | $1.25 / $5 | 7.3 | 大杂烩 | gpt-4o-search-preview |
-| 17 | `api.qiqiai.top` | ¥10 | $5 / $20 | 2 | Claude / OpenAI 官方 | gpt-4o-search-preview |
-| 18 | `ai.t8star.org` | ¥10.12 | $7.5 / $30 | 1.35 | ssvip | gpt-4o-search-preview |
-| 19 | `api.qinzhiai.com` | ¥11.25 | $11.25 / $45 | 1 | openai | gpt-4o-search-preview |
-| 20 | `zhangsan.yun` | ¥11.25 | $11.25 / $45 | 1 | image-2分组 | gpt-4o-search-preview |
-| 21 | `api1.147ai.com` | ¥12.5 | $12.5 / $50 | 1 | openai | gpt-4o-search-preview |
-| 22 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-4o-search-preview |
-| 23 | `apicdn.xyc.ai` | ¥17.25 | $2.5 / $10 | 6.9 | gpt-flow | gpt-4o-search-preview |
-| 24 | `apicdn.xycai.us` | ¥17.25 | $2.5 / $10 | 6.9 | gpt-flow | gpt-4o-search-preview |
-| 25 | `cn.gptapi.asia` | ¥17.5 | $17.5 / $70 | 1 | enterprise | gpt-4o-search-preview |
-| 26 | `yutoapi.com` | ¥17.5 | $17.5 / $70 | 1 | enterprise | gpt-4o-search-preview |
-| 27 | `ai2.qiqiai.top` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
-| 28 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
-| 29 | `api.bita-api.com` | ¥18.25 | $2.5 / $10 | 7.3 | gpt-origin | gpt-4o-search-preview |
-| 30 | `bita-api-production.up.railway.app` | ¥18.25 | $2.5 / $10 | 7.3 | gpt-origin | gpt-4o-search-preview |
-| 31 | `ssvip.dmxapi.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
-| 32 | `api.zyai.online` | ¥18.75 | $18.75 / $75 | 1 | guan | gpt-4o-search-preview |
-| 33 | `eo.wochirou.com` | ¥20 | $20 / $80 | 1 | Official | gpt-4o-search-preview |
-| 34 | `new.foxi-api.cn` | ¥20 | $20 / $80 | 1 | 优质官转OpenAI | gpt-4o-search-preview |
-| 35 | `wochirou.com` | ¥20 | $20 / $80 | 1 | Official | gpt-4o-search-preview |
-| 36 | `vip.yinli.one` | ¥45.62 | $6.25 / $25 | 7.3 | 聚合分组稳定性95% | gpt-4o-search-preview |
-| 37 | `yinli.pro` | ¥54.75 | $7.5 / $30 | 7.3 | GPT-Azure-低价-90%稳定性 | gpt-4o-search-preview |
-| 38 | `wrduai.com` | ¥127.8 | $17.5 / $70 | 7.3 | 优质官转 | gpt-4o-search-preview |
+| 11 | `gpt777.top` | ¥5 | $5 / $20 | 1 | Azure | gpt-4o-search-preview |
+| 12 | `api.qinzhiai.com` | ¥6.25 | $6.25 / $25 | 1 | openai | gpt-4o-search-preview |
+| 13 | `api.bltcy.ai` | ¥7.5 | $7.5 / $30 | 1 | ssvip | gpt-4o-search-preview |
+| 14 | `apilio.ai` | ¥7.5 | $7.5 / $30 | 1 | ssvip | gpt-4o-search-preview |
+| 15 | `test-ssl.bltcy.ai` | ¥7.5 | $7.5 / $30 | 1 | ssvip | gpt-4o-search-preview |
+| 16 | `api.hoxkai.top` | ¥8 | $8 / $32 | 1 | openai-vip | gpt-4o-search-preview |
+| 17 | `api.ifopen.ai` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-search-preview |
+| 18 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-search-preview |
+| 19 | `poloai.top` | ¥8.75 | $8.75 / $35 | 1 | gpt-vip | gpt-4o-search-preview |
+| 20 | `zen-ai.top` | ¥8.75 | $8.75 / $35 | 1 | openai | gpt-4o-search-preview |
+| 21 | `www.cybersol.net` | ¥9 | $4.5 / $18 | 2 | GPT Advance | gpt-4o-search-preview |
+| 22 | `llm.kagu.one` | ¥9.125 | $1.25 / $5 | 7.3 | 大杂烩 | gpt-4o-search-preview |
+| 23 | `api.qiqiai.top` | ¥10 | $5 / $20 | 2 | Claude / OpenAI 官方 | gpt-4o-search-preview |
+| 24 | `ai.t8star.org` | ¥10.12 | $7.5 / $30 | 1.35 | ssvip | gpt-4o-search-preview |
+| 25 | `zhangsan.yun` | ¥11.25 | $11.25 / $45 | 1 | image-2分组 | gpt-4o-search-preview |
+| 26 | `api1.147ai.com` | ¥12.5 | $12.5 / $50 | 1 | openai | gpt-4o-search-preview |
+| 27 | `getgoapi.com` | ¥14.4 | $2 / $8 | 7.2 | default | gpt-4o-search-preview |
+| 28 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-4o-search-preview |
+| 29 | `apicdn.xyc.ai` | ¥17.25 | $2.5 / $10 | 6.9 | gpt-flow | gpt-4o-search-preview |
+| 30 | `apicdn.xycai.us` | ¥17.25 | $2.5 / $10 | 6.9 | gpt-flow | gpt-4o-search-preview |
+| 31 | `cn.gptapi.asia` | ¥17.5 | $17.5 / $70 | 1 | enterprise | gpt-4o-search-preview |
+| 32 | `yutoapi.com` | ¥17.5 | $17.5 / $70 | 1 | enterprise | gpt-4o-search-preview |
+| 33 | `ai2.qiqiai.top` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 34 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 35 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 36 | `api.bita-api.com` | ¥18.25 | $2.5 / $10 | 7.3 | gpt-origin | gpt-4o-search-preview |
+| 37 | `bita-api-production.up.railway.app` | ¥18.25 | $2.5 / $10 | 7.3 | gpt-origin | gpt-4o-search-preview |
+| 38 | `ssvip.dmxapi.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-search-preview |
+| 39 | `api.zyai.online` | ¥18.75 | $18.75 / $75 | 1 | guan | gpt-4o-search-preview |
+| 40 | `eo.wochirou.com` | ¥20 | $20 / $80 | 1 | Official | gpt-4o-search-preview |
+| 41 | `new.foxi-api.cn` | ¥20 | $20 / $80 | 1 | 优质官转OpenAI | gpt-4o-search-preview |
+| 42 | `wochirou.com` | ¥20 | $20 / $80 | 1 | Official | gpt-4o-search-preview |
+| 43 | `gptnb.ai` | ¥21.25 | $21.25 / $85 | 1 | official | gpt-4o-search-preview |
+| 44 | `oneapi.gptnb.ai` | ¥28.75 | $28.75 / $115 | 1 | official | gpt-4o-search-preview |
+| 45 | `vip.yinli.one` | ¥45.62 | $6.25 / $25 | 7.3 | 聚合分组稳定性95% | gpt-4o-search-preview |
+| 46 | `yinli.pro` | ¥54.75 | $7.5 / $30 | 7.3 | GPT-Azure-低价-90%稳定性 | gpt-4o-search-preview |
+| 47 | `wrduai.com` | ¥127.8 | $17.5 / $70 | 7.3 | 优质官转 | gpt-4o-search-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -106,4 +115,4 @@
 
 > 另有 21 站未列出。
 
-> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 38 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

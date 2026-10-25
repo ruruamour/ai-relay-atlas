@@ -1,6 +1,6 @@
 # llama-3.1-405b
 
-> 138 站提供 · 正常价 120 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥25.19**/1M 输入（54 站公开充值价） · 推算，未对账
+> 147 站提供 · 正常价 127 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥25.19**/1M 输入（61 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,8 +12,8 @@
 |---|---|---|---|---|---|---|
 | 1 | `www.ggwk1.online` | ¥2.8 | $2.8 / $2.8 | 1 | 开源模型组 | NousResearch/Hermes-3-Llama-3.1-405B |
 | 2 | `new.gateway.icu` | ¥3 | $3 / $3 | 1 | default | llama-3.1-405b |
-| 3 | `api.camel-hub.com` | ¥3.6 | $4.5 / $9 | 0.8 | default | llama-3.1-405b |
-| 4 | `api.qinzhiai.com` | ¥4.5 | $4.5 / $4.5 | 1 | openrouter | nousresearch/hermes-3-llama-3.1-405b |
+| 3 | `api.qinzhiai.com` | ¥3.5 | $3.5 / $3.5 | 1 | openrouter | nousresearch/hermes-3-llama-3.1-405b |
+| 4 | `api.camel-hub.com` | ¥3.6 | $4.5 / $9 | 0.8 | default | llama-3.1-405b |
 | 5 | `claudecn.ai` | ¥5.4 | $5.4 / $10.8 | 1 | 国产模型 | llama-3.1-405b |
 | 6 | `cnapi.kksj.org` | ¥5.4 | $5.4 / $10.8 | 1 | default | Llama-3.1-405B |
 | 7 | `ai.soruxgpt.com` | ¥6 | $6 / $6 | 1 | default | llama-3.1-405b |
@@ -21,47 +21,47 @@
 | 9 | `keypool.space` | ¥6 | $6 / $12 | 1 | vip | llama-3.1-405b |
 | 10 | `new.foxi-api.cn` | ¥6 | $6 / $12 | 1 | default | llama-3.1-405b |
 | 11 | `newapi.tu-zi.com` | ¥6 | $6 / $6 | 1 | default | llama-3.1-405b |
-| 12 | `hk.moleapi.com` | ¥6.8 | $1 / $1 | 6.8 | default | hermes-3-llama-3.1-405b |
-| 13 | `api.34ku.com` | ¥7.8 | $7.8 / $15.6 | 1 | default | llama-3.1-405b |
-| 14 | `api.tacklekey.com` | ¥11.23 | $1.53846 / $1.53846 | 7.3 | default | nousresearch/hermes-3-llama-3.1-405b |
-| 15 | `chat.cloudapi.vip` | ¥12 | $6 / $12 | 2 | default | llama-3.1-405b |
-| 16 | `ai2.qiqiai.top` | ¥13.14 | $1.8 / $1.8 | 7.3 | 官方合作渠道 | nousresearch/hermes-3-llama-3.1-405b |
-| 17 | `api.relayrouter.ai` | ¥20.15 | $3 / $6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 18 | `openlux.zhongzhuan.chat` | ¥20.15 | $3 / $6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 19 | `api.tidewhisper-ai.xyz` | ¥22.17 | $3.3 / $6.6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 20 | `gzxbykj.com` | ¥22.17 | $3.3 / $6.6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 21 | `yunwu.org` | ¥22.17 | $3.3 / $6.6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 22 | `v2.cloudmist.cloud` | ¥23.18 | $3.45 / $6.9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 23 | `www.vectronode.com` | ¥24.18 | $3.6 / $7.2 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 24 | `apiclaw.cn` | ¥24.39 | $3.63 / $7.26 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 25 | `newapi.xueai.me` | ¥24.39 | $3.63 / $7.26 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 26 | `api2.aigcbest.top` | ¥24.5 | $7 / $8.05 | 3.5 | default | nousresearch/hermes-3-llama-3.1-405b |
-| 27 | `ciyuan.today` | ¥25.19 | $3.75 / $7.5 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 28 | `gptapi.top` | ¥25.19 | $3.75 / $7.5 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 29 | `makerend.com` | ¥25.19 | $3.75 / $7.5 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 30 | `moliapi.com` | ¥25.39 | $3.78 / $7.56 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 31 | `ai-api.cc` | ¥26.2 | $3.9 / $7.8 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 32 | `nodapi.com` | ¥26.6 | $3.96 / $7.92 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 33 | `anyaigc.ai` | ¥27.21 | $4.05 / $8.1 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 34 | `sheepaiplus.top` | ¥28.22 | $4.2 / $8.4 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 35 | `xiguapi.icu` | ¥28.22 | $4.2 / $8.4 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 36 | `api.88api.chat` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 37 | `api.videocaptioner.cn` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 38 | `new.aigc2d.com` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 39 | `oyy-ai.xyz` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 40 | `runapi.co` | ¥33.75 | $5 / $5 | 6.75 | default | meta-llama/llama-3.1-405b |
-| 41 | `api.nixapi.com` | ¥34.06 | $5.07 / $10.14 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 42 | `aiwuje.com` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 43 | `api.echoflowai.cc` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 44 | `api.n1n.ai` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 45 | `api.quickrouter.ai` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 46 | `jeniya.cn` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 47 | `linoapi.com` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 48 | `llm-api.net` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 49 | `quanzil.com` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
-| 50 | `token173.net` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 12 | `xinsuanai.com` | ¥6 | $6 / $12 | 1 | default | llama-3.1-405b |
+| 13 | `hk.moleapi.com` | ¥6.8 | $1 / $1 | 6.8 | default | hermes-3-llama-3.1-405b |
+| 14 | `api.34ku.com` | ¥7.8 | $7.8 / $15.6 | 1 | default | llama-3.1-405b |
+| 15 | `api.tacklekey.com` | ¥11.23 | $1.53846 / $1.53846 | 7.3 | default | nousresearch/hermes-3-llama-3.1-405b |
+| 16 | `chat.cloudapi.vip` | ¥12 | $6 / $12 | 2 | default | llama-3.1-405b |
+| 17 | `ai2.qiqiai.top` | ¥13.14 | $1.8 / $1.8 | 7.3 | 官方合作渠道 | nousresearch/hermes-3-llama-3.1-405b |
+| 18 | `api.openlux.ai` | ¥20.15 | $3 / $6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 19 | `api.relayrouter.ai` | ¥20.15 | $3 / $6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 20 | `openlux.zhongzhuan.chat` | ¥20.15 | $3 / $6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 21 | `api.tidewhisper-ai.xyz` | ¥22.17 | $3.3 / $6.6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 22 | `gzxbykj.com` | ¥22.17 | $3.3 / $6.6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 23 | `yunwu.org` | ¥22.17 | $3.3 / $6.6 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 24 | `v2.cloudmist.cloud` | ¥23.18 | $3.45 / $6.9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 25 | `www.vectronode.com` | ¥24.18 | $3.6 / $7.2 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 26 | `apiclaw.cn` | ¥24.39 | $3.63 / $7.26 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 27 | `newapi.xueai.me` | ¥24.39 | $3.63 / $7.26 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 28 | `wodapis.com` | ¥24.39 | $3.63 / $7.26 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 29 | `api.ifopen.ai` | ¥24.5 | $7 / $8.05 | 3.5 | default | nousresearch/hermes-3-llama-3.1-405b |
+| 30 | `api2.aigcbest.top` | ¥24.5 | $7 / $8.05 | 3.5 | default | nousresearch/hermes-3-llama-3.1-405b |
+| 31 | `ciyuan.today` | ¥25.19 | $3.75 / $7.5 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 32 | `gptapi.top` | ¥25.19 | $3.75 / $7.5 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 33 | `makerend.com` | ¥25.19 | $3.75 / $7.5 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 34 | `moliapi.com` | ¥25.39 | $3.78 / $7.56 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 35 | `ai-api.cc` | ¥26.2 | $3.9 / $7.8 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 36 | `infai.cc` | ¥26.2 | $3.9 / $7.8 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 37 | `nodapi.com` | ¥26.6 | $3.96 / $7.92 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 38 | `anyaigc.ai` | ¥27.21 | $4.05 / $8.1 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 39 | `sheepaiplus.top` | ¥28.22 | $4.2 / $8.4 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 40 | `xiguapi.icu` | ¥28.22 | $4.2 / $8.4 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 41 | `api.88api.chat` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 42 | `api.88api.shop` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 43 | `api.videocaptioner.cn` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 44 | `new.aigc2d.com` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 45 | `oyy-ai.xyz` | ¥30.23 | $4.5 / $9 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 46 | `runapi.co` | ¥33.75 | $5 / $5 | 6.75 | default | meta-llama/llama-3.1-405b |
+| 47 | `api.nixapi.com` | ¥34.06 | $5.07 / $10.14 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 48 | `aiwuje.com` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 49 | `api.cursorai.art` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
+| 50 | `api.echoflowai.cc` | ¥40.31 | $6 / $12 | 6.718 | Self-Deployed-2 | llama-3.1-405b |
 
-> 另有 4 站未列出。
+> 另有 11 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 16 站未列出。
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

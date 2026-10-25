@@ -1,6 +1,6 @@
 # qwen3.7-max-preview
 
-> 31 站提供 · 正常价 21 站 · 名义中位价 **$9.84**/1M 输入 · 实付中位价 **¥10.17**/1M 输入（20 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 23 站 · 名义中位价 **$10.2**/1M 输入 · 实付中位价 **¥10.65**/1M 输入（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,11 +25,13 @@
 | 13 | `supertoken.pro` | ¥12 | $1.6438 / $4.9315 | 7.3 | 千问 | qwen3.7-max-preview |
 | 14 | `huoxingapi.com` | ¥12 | $12 / $36 | 1 | 国产模型 | qwen3.7-max-preview |
 | 15 | `unorouter.net` | ¥12.51 | $1.71429 / $5.14286 | 7.3 | default | qwen3.7-max-preview |
-| 16 | `api2.aigcbest.top` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.7-max-preview |
-| 17 | `koalaapi.com` | ¥71.4 | $10.2 / $30.6 | 7 | 一key国产中转全模型 | qwen3.7-max-preview |
-| 18 | `treerouter.com` | ¥71.4 | $10.2 / $30.6 | 7 | 一key国产中转全模型 | qwen3.7-max-preview |
-| 19 | `codeyy.top` | ¥87.6 | $12 / $36 | 7.3 | default | qwen3.7-max-preview |
-| 20 | `wrduai.com` | ¥87.6 | $12 / $36 | 7.3 | 优质官转 | qwen3.7-max-preview |
+| 16 | `api.ifopen.ai` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.7-max-preview |
+| 17 | `api2.aigcbest.top` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.7-max-preview |
+| 18 | `koalaapi.com` | ¥71.4 | $10.2 / $30.6 | 7 | 一key国产中转全模型 | qwen3.7-max-preview |
+| 19 | `treerouter.com` | ¥71.4 | $10.2 / $30.6 | 7 | 一key国产中转全模型 | qwen3.7-max-preview |
+| 20 | `1sapi.com` | ¥87.6 | $12 / $36 | 7.3 | 国产全模型 | qwen3.7-max-preview |
+| 21 | `codeyy.top` | ¥87.6 | $12 / $36 | 7.3 | default | qwen3.7-max-preview |
+| 22 | `wrduai.com` | ¥87.6 | $12 / $36 | 7.3 | 优质官转 | qwen3.7-max-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -37,4 +39,4 @@
 |---|---|---|---|---|---|
 | 1 | `www.jiguang.me` | $12 / $36 | 千问 | 1 | qwen3.7-max-preview |
 
-> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

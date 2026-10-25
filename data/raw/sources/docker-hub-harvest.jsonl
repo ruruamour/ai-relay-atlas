@@ -1,0 +1,219 @@
+{"domain": "4.x、gemini", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]"]}
+{"domain": "5856039.fs1.hubspotusercontent-na1.net", "source": "docker-hub", "source_files": ["docker:kasmweb/claude-code [claude proxy]", "docker:kasmweb/gemini-cli [gemini proxy]"]}
+{"domain": "admin.php", "source": "docker-hub", "source_files": ["docker:qyg2297248353/acg-faka [acg-faka]"]}
+{"domain": "adsabs.harvard.edu", "source": "docker-hub", "source_files": ["docker:intel/malconv-model-base [model plaza]"]}
+{"domain": "agentinstructions.filename", "source": "docker-hub", "source_files": ["docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "alpinelinux.org", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "api.scout.docker.com", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]", "docker:mcp/gemini-api-docs-mcp [gemini proxy]", "docker:mcp/neo4j-data-modeling [model plaza]"]}
+{"domain": "app.kasm.com", "source": "docker-hub", "source_files": ["docker:kasmweb/claude-code [claude proxy]", "docker:kasmweb/gemini-cli [gemini proxy]"]}
+{"domain": "arxiv.org", "source": "docker-hub", "source_files": ["docker:intel/malconv-model-base [model plaza]"]}
+{"domain": "assets.zabbix.com", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "athenz.io", "source": "docker-hub", "source_files": ["docker:athenz/rdl-athenz-go-model [model plaza]", "docker:athenz/rdl-athenz-java-model [model plaza]"]}
+{"domain": "awesome-go.com", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]"]}
+{"domain": "awesome.re", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]"]}
+{"domain": "backendtlspolicy.annotations", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "backendtlspolicy.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "backendtlspolicy.hostname", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "backendtlspolicy.labels", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "backendtlspolicy.subjectaltnames", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "background.png", "source": "docker-hub", "source_files": ["docker:ldxw/dujiaoka [dujiaoka]"]}
+{"domain": "bitbucket.org", "source": "docker-hub", "source_files": ["docker:atlassian/pipelines-auth-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "blog.apify.com", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "blog.dov.moe", "source": "docker-hub", "source_files": ["docker:stilleshan/dujiaoka [dujiaoka]"]}
+{"domain": "blog.lifebus.top", "source": "docker-hub", "source_files": ["docker:qyg2297248353/acg-faka [acg-faka]"]}
+{"domain": "byteepoch.com", "source": "docker-hub", "source_files": ["docker:koeltp/dujiaoka [dujiaoka]"]}
+{"domain": "channelconstants.js", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]"]}
+{"domain": "ci.elysia.li", "source": "docker-hub", "source_files": ["docker:chaikair/acg-faka [acg-faka]"]}
+{"domain": "claude-context.md", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "claude.ai", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "claude.dockerfile", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "claude.json", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "claude.md", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "claude.sjnh.me", "source": "docker-hub", "source_files": ["docker:2650714479/one-api [one-api]"]}
+{"domain": "claude.yaml", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "cloud.tencent.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "cluster.local", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "code.claude.com", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "cohere.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "com.docker.sandboxes.start", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "commands.initfiles", "source": "docker-hub", "source_files": ["docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "common.names.fullname", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "console.aws.amazon.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "console.bce.baidu.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "console.groq.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "console.xfyun.cn", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "coveralls.io", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]"]}
+{"domain": "crawlee.dev", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "credentialfile.structure", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "credentials.json", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "cs.cr", "source": "docker-hub", "source_files": ["docker:intel/malconv-model-base [model plaza]"]}
+{"domain": "dashscope.console.aliyun.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "data.json", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "default.jpg", "source": "docker-hub", "source_files": ["docker:ldxw/dujiaoka [dujiaoka]"]}
+{"domain": "details.cached", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]"]}
+{"domain": "diagnosticmode.args", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "diagnosticmode.command", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "diagnosticmode.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "docker-compose.local.yml", "source": "docker-hub", "source_files": ["docker:redstonexs/sub2api [sub2api]"]}
+{"domain": "docker-compose.standalone.yml", "source": "docker-hub", "source_files": ["docker:redstonexs/sub2api [sub2api]"]}
+{"domain": "docker-compose.yml", "source": "docker-hub", "source_files": ["docker:edaorenchan/dujiaoka [dujiaoka]", "docker:kyson666/one-api [one-api]", "docker:ldxw/dujiaoka [dujiaoka]", "docker:redstonexs/sub2api [sub2api]", "docker:stilleshan/dujiaoka [dujiaoka]", "docker:zaixiangjian/acg-faka [acg-faka]"]}
+{"domain": "docker-deploy.sh", "source": "docker-hub", "source_files": ["docker:redstonexs/sub2api [sub2api]"]}
+{"domain": "docker.io", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]", "docker:sbx/claude-model-runner [model plaza]", "docker:sbx/claude-model-runner-kit [model plaza]", "docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "docker.sock", "source": "docker-hub", "source_files": ["docker:funnyzak/one-api [one-api]", "docker:kyson666/one-api [one-api]", "docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "domian.conf", "source": "docker-hub", "source_files": ["docker:stilleshan/dujiaoka [dujiaoka]"]}
+{"domain": "downloads.claude.ai", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "dujiaoka.test", "source": "docker-hub", "source_files": ["docker:jiangjuhong/dujiaoka [dujiaoka]"]}
+{"domain": "dummy1.so", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "dummy2.so", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "en.wikipedia.org", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]"]}
+{"domain": "env.conf", "source": "docker-hub", "source_files": ["docker:stilleshan/dujiaoka [dujiaoka]"]}
+{"domain": "env.example", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]", "docker:redstonexs/sub2api [sub2api]"]}
+{"domain": "favicon.ico", "source": "docker-hub", "source_files": ["docker:ldxw/dujiaoka [dujiaoka]"]}
+{"domain": "file.lifebus.top", "source": "docker-hub", "source_files": ["docker:qyg2297248353/acg-faka [acg-faka]"]}
+{"domain": "foo.bar.com", "source": "docker-hub", "source_files": ["docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "gateway-api.sigs.k8s.io", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "gatewayd.io", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]"]}
+{"domain": "ghcr.io", "source": "docker-hub", "source_files": ["docker:funnyzak/one-api [one-api]", "docker:honglin001/sub2api [sub2api]", "docker:huby11111/sub2api [sub2api]", "docker:kyson666/one-api [one-api]", "docker:ziyue67/sub2api [sub2api]"]}
+{"domain": "global.compatibility.openshift.adaptsecuritycontext", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "global.defaultfips", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "global.defaultstorageclass", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "global.imagepullsecrets", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "global.imageregistry", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "global.security.allowinsecureimages", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "go-vmware.broadcom.com", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "go.123455.xyz", "source": "docker-hub", "source_files": ["docker:surenkid/dujiaoka [dujiaoka]"]}
+{"domain": "go.mod", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]"]}
+{"domain": "goreportcard.com", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]", "docker:martialbe/one-api [one-api]"]}
+{"domain": "healthcare.gov", "source": "docker-hub", "source_files": ["docker:kong/kong-gateway [ai gateway]"]}
+{"domain": "helm.sh", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "host.docker.in", "source": "docker-hub", "source_files": ["docker:sbx/claude-model-runner [model plaza]", "docker:sbx/claude-model-runner-kit [model plaza]"]}
+{"domain": "host.docker.internal", "source": "docker-hub", "source_files": ["docker:sbx/claude-model-runner [model plaza]", "docker:sbx/claude-model-runner-kit [model plaza]", "docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "httproute.annotations", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.extrarules", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.filters", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.hostnames", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.labels", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.matches", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "httproute.parentrefs", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "hub.docker.com", "source": "docker-hub", "source_files": ["docker:camunda/web-modeler-restapi [model plaza]", "docker:camunda/web-modeler-webapp [model plaza]", "docker:camunda/web-modeler-websockets [model plaza]", "docker:docker/model-runner [model plaza]", "docker:martialbe/one-api [one-api]", "docker:mcp/apify-mcp-server [ai api proxy]", "docker:mcp/gemini-api-docs-mcp [gemini proxy]", "docker:mcp/neo4j-data-modeling [model plaza]", "docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:sakurajiamai/sub2api [sub2api]", "docker:stilleshan/dujiaoka [dujiaoka]", "docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "iamazing.cn", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]"]}
+{"domain": "images.placeholders.dev", "source": "docker-hub", "source_files": ["docker:jlesage/nginx-proxy-manager [claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "images.weserv.nl", "source": "docker-hub", "source_files": ["docker:jlesage/nginx-proxy-manager [claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "img.shields.io", "source": "docker-hub", "source_files": ["docker:edaorenchan/dujiaoka [dujiaoka]", "docker:funnyzak/one-api [one-api]", "docker:gatewaydio/gatewayd [ai gateway]", "docker:jlesage/nginx-proxy-manager [claude proxy|gemini proxy|openai proxy]", "docker:martialbe/one-api [one-api]", "docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:qyg2297248353/acg-faka [acg-faka]"]}
+{"domain": "ingress.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "ingress.extrahosts", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "ingress.extratls", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "ingress.hostname", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "ingress.pathtype", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "ingress.tls", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "install.lifebus.top", "source": "docker-hub", "source_files": ["docker:qyg2297248353/acg-faka [acg-faka]"]}
+{"domain": "install.lock", "source": "docker-hub", "source_files": ["docker:edaorenchan/dujiaoka [dujiaoka]", "docker:jiangjuhong/dujiaoka [dujiaoka]", "docker:ldxw/dujiaoka [dujiaoka]"]}
+{"domain": "istio.io", "source": "docker-hub", "source_files": ["docker:istio/proxy_init [openai proxy]", "docker:istio/proxyv2 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "jasonwilder.com", "source": "docker-hub", "source_files": ["docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "k3d.io", "source": "docker-hub", "source_files": ["docker:rancher/k3d-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "k8s.gcr.io", "source": "docker-hub", "source_files": ["docker:docker/desktop-kubernetes-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "kasm.com", "source": "docker-hub", "source_files": ["docker:kasmweb/claude-code [claude proxy]", "docker:kasmweb/gemini-cli [gemini proxy]"]}
+{"domain": "kit.args.version", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "kong.yml", "source": "docker-hub", "source_files": ["docker:kong/kong-gateway [ai gateway]"]}
+{"domain": "konghq.com", "source": "docker-hub", "source_files": ["docker:kong/kong-gateway [ai gateway]"]}
+{"domain": "kubernetes.io", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "legal.camunda.com", "source": "docker-hub", "source_files": ["docker:camunda/web-modeler-restapi [model plaza]", "docker:camunda/web-modeler-webapp [model plaza]", "docker:camunda/web-modeler-websockets [model plaza]"]}
+{"domain": "metadata.url", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "mistral.ai", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "modelsdiscovery.enabled", "source": "docker-hub", "source_files": ["docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "moonshot.ai", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "net.ipv4.ping", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.allowexternal", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.allowexternalegress", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.extraegress", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.extraingress", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.ingressnsmatchlabels", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "networkpolicy.ingressnspodmatchlabels", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "news.ycombinator.com", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "nginxproxymanager.com", "source": "docker-hub", "source_files": ["docker:jlesage/nginx-proxy-manager [claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "oai.azure.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "ollama.com", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "open.bigmodel.cn", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "opencode.json", "source": "docker-hub", "source_files": ["docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "opensource.org", "source": "docker-hub", "source_files": ["docker:edaorenchan/dujiaoka [dujiaoka]"]}
+{"domain": "org.opencontainers.image.version", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "pay.huic.top", "source": "docker-hub", "source_files": ["docker:jiangjuhong/dujiaoka [dujiaoka]"]}
+{"domain": "permissions.defaultmode", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "permissions.network.allow", "source": "docker-hub", "source_files": ["docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "pkg.go.dev", "source": "docker-hub", "source_files": ["docker:gatewaydio/gatewayd [ai gateway]"]}
+{"domain": "platform.baichuan-ai.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "platform.claude.com", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "platform.deepseek.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "platform.lingyiwanwu.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "platform.stability.ai", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "portal.azure.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "proxy.conf", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "publishing.md", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "qq.com", "source": "docker-hub", "source_files": ["docker:jiangjuhong/dujiaoka [dujiaoka]"]}
+{"domain": "readme.image.md", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "readme.md", "source": "docker-hub", "source_files": ["docker:redstonexs/sub2api [sub2api]", "docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "reddit.com", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "registry-1.docker.io", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "registry.cn-beijing.aliyuncs.com", "source": "docker-hub", "source_files": ["docker:funnyzak/one-api [one-api]"]}
+{"domain": "registry.hub.docker.com", "source": "docker-hub", "source_files": ["docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "requires.agent", "source": "docker-hub", "source_files": ["docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "resources.jetbrains.com", "source": "docker-hub", "source_files": ["docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "robots.txt", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "runtime.allow", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "sandbox-persistent.sh", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "sandbox.image", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]"]}
+{"domain": "secrets-init.sh", "source": "docker-hub", "source_files": ["docker:zaixiangjian/acg-faka [acg-faka]"]}
+{"domain": "server.conf", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.annotations", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.clusterip", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.externaltrafficpolicy", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.extraports", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.loadbalancerip", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.loadbalancersourceranges", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.nodeports.http", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.port", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.sessionaffinity", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.sessionaffinityconfig", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "service.type", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "settings.json", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "setup.install", "source": "docker-hub", "source_files": ["docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "setup.startup", "source": "docker-hub", "source_files": ["docker:sbx/claude-kit [claude proxy]"]}
+{"domain": "shop.ioiox.com", "source": "docker-hub", "source_files": ["docker:stilleshan/dujiaoka [dujiaoka]"]}
+{"domain": "shop.ioiox.xyz", "source": "docker-hub", "source_files": ["docker:stilleshan/dujiaoka [dujiaoka]"]}
+{"domain": "snmptraps.log", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "software.intel.com", "source": "docker-hub", "source_files": ["docker:intel/language-modeling [model plaza]"]}
+{"domain": "spec.yaml", "source": "docker-hub", "source_files": ["docker:docker/sbx-kit-claude [claude proxy]", "docker:sbx/claude [claude proxy]", "docker:sbx/claude-kit [claude proxy]", "docker:sbx/claude-model-runner [model plaza]", "docker:sbx/claude-model-runner-kit [model plaza]", "docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "sub2api.local", "source": "docker-hub", "source_files": ["docker:redstonexs/sub2api [sub2api]"]}
+{"domain": "subdomain.yourdomain.com", "source": "docker-hub", "source_files": ["docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "system.hostname", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "techdocs.broadcom.com", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.autogenerated.certmanager.existingissuer", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.autogenerated.certmanager.existingissuerkind", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.autogenerated.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.autogenerated.engine", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.crt", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.enabled", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.existingsecret", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "tls.key", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "urls.use", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "velero.io", "source": "docker-hub", "source_files": ["docker:bitnamicharts/oauth2-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "vmq.sql", "source": "docker-hub", "source_files": ["docker:ldxw/dujiaoka [dujiaoka]"]}
+{"domain": "www.ai-text.top", "source": "docker-hub", "source_files": ["docker:jiangjuhong/dujiaoka [dujiaoka]"]}
+{"domain": "www.apache.org", "source": "docker-hub", "source_files": ["docker:intel/model-registry [model plaza]"]}
+{"domain": "www.bt.cn", "source": "docker-hub", "source_files": ["docker:kyson666/one-api [one-api]"]}
+{"domain": "www.cnn.com", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]"]}
+{"domain": "www.coze.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "www.docker.com", "source": "docker-hub", "source_files": ["docker:mcp/apify-mcp-server [ai api proxy]", "docker:mcp/gemini-api-docs-mcp [gemini proxy]", "docker:mcp/neo4j-data-modeling [model plaza]", "docker:sbx/claude-model-runner [model plaza]", "docker:sbx/claude-model-runner-kit [model plaza]", "docker:sbx/opencode-model-runner-kit [model plaza]"]}
+{"domain": "www.etalabs.net", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "www.fsf.org", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "www.ioiox.com", "source": "docker-hub", "source_files": ["docker:stilleshan/dujiaoka [dujiaoka]"]}
+{"domain": "www.midjourney.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "www.minimaxi.com", "source": "docker-hub", "source_files": ["docker:martialbe/one-api [one-api]"]}
+{"domain": "www.musl-libc.org", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "www.percona.com", "source": "docker-hub", "source_files": ["docker:percona/proxysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:percona/proxysql2 [claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "www.zabbix.com", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "zabbix.com", "source": "docker-hub", "source_files": ["docker:zabbix/zabbix-java-gateway [ai gateway]", "docker:zabbix/zabbix-proxy-mysql [ai api proxy|claude proxy|gemini proxy|openai proxy]", "docker:zabbix/zabbix-proxy-sqlite3 [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "zerossl.com", "source": "docker-hub", "source_files": ["docker:nginxproxy/nginx-proxy [ai api proxy|claude proxy|gemini proxy|openai proxy]"]}
+{"domain": "“third-party-programs.txt”", "source": "docker-hub", "source_files": ["docker:intel/language-modeling [model plaza]"]}

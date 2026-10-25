@@ -1,6 +1,6 @@
 # gemini-1.5-flash-8b
 
-> 21 站提供 · 正常价 12 站 · 名义中位价 **$0.1125**/1M 输入 · 实付中位价 **¥0.15**/1M 输入（9 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 14 站 · 名义中位价 **$0.275**/1M 输入 · 实付中位价 **¥0.1825**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,8 +17,10 @@
 | 5 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $0.6 | 1 | relay | gemini-1.5-flash-8b |
 | 6 | `hightpm.aiearth.dev` | ¥0.1825 | $0.025 / $0.1 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-1.5-flash-8b |
 | 7 | `api.openai-labs.com` | ¥1.26 | $1.26 / $5.04 | 1 | default | gemini-1.5-flash-8b |
-| 8 | `api.apib.ai` | ¥5.25 | $0.75 / $3 | 7 | - | gemini-1.5-flash-8b |
-| 9 | `api.bianxie.ai` | ¥5.475 | $0.75 / $3 | 7.3 | default | gemini-1.5-flash-8b |
+| 8 | `8s.hk` | ¥1.5 | $1.5 / $6 | 1 | 全模型自动 | gemini-1.5-flash-8b |
+| 9 | `api.apib.ai` | ¥5.25 | $0.75 / $3 | 7 | - | gemini-1.5-flash-8b |
+| 10 | `api.bianxie.ai` | ¥5.475 | $0.75 / $3 | 7.3 | default | gemini-1.5-flash-8b |
+| 11 | `api.bianxieai.com` | ¥5.475 | $0.75 / $3 | 7.3 | default | gemini-1.5-flash-8b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -28,4 +30,4 @@
 | 2 | `g.openai365.top` | $0.4 / $1.6 | default | 1 | gemini-1.5-flash-8b |
 | 3 | `coultra.blueshirtmap.com` | $0.65 / $2.6 | - | - | gemini-1.5-flash-8b |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

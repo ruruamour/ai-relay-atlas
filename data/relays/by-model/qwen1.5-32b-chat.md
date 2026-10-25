@@ -1,6 +1,6 @@
 # qwen1.5-32b-chat
 
-> 38 站提供 · 正常价 10 站 · 名义中位价 **$2.7125**/1M 输入 · 实付中位价 **¥8.007**/1M 输入（10 站公开充值价） · 推算，未对账
+> 46 站提供 · 正常价 13 站 · 名义中位价 **$3.325**/1M 输入 · 实付中位价 **¥12.51**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,14 +11,17 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `aws.baby` | ¥1.714 | $1.71429 / $1.71429 | 1 | 阿里云百炼大客户 | qwen1.5-32b-chat |
-| 2 | `api.zyai.online` | ¥1.75 | $1.75 / $3.5 | 1 | mini | qwen1.5-32b-chat |
-| 3 | `api.ocoolai.com` | ¥3.325 | $3.325 / $6.65 | 1 | cn | qwen1.5-32b-chat |
-| 4 | `ocool.cn` | ¥3.325 | $3.325 / $6.65 | 1 | cn | qwen1.5-32b-chat |
-| 5 | `kfcv50.link` | ¥3.5 | $3.5 / $7 | 1 | Domestic | qwen1.5-32b-chat |
-| 6 | `unorouter.net` | ¥12.51 | $1.71429 / $1.71429 | 7.3 | default | qwen1.5-32b-chat |
-| 7 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen1.5-32b-chat |
-| 8 | `hy88.my` | ¥15.33 | $2.1 / $4.2 | 7.3 | qwen | qwen1.5-32b-chat |
-| 9 | `wrduai.com` | ¥25.55 | $3.5 / $7 | 7.3 | 官转 | qwen1.5-32b-chat |
-| 10 | `api2.aigcbest.top` | ¥54.6 | $15.6 / $15.6 | 3.5 | 通用大模型 | qwen1.5-32b-chat |
+| 2 | `biezou.com` | ¥1.714 | $1.71429 / $1.71429 | 1 | 阿里云百炼大客户 | qwen1.5-32b-chat |
+| 3 | `api.zyai.online` | ¥1.75 | $1.75 / $3.5 | 1 | mini | qwen1.5-32b-chat |
+| 4 | `api.ocoolai.com` | ¥3.325 | $3.325 / $6.65 | 1 | cn | qwen1.5-32b-chat |
+| 5 | `ocool.cn` | ¥3.325 | $3.325 / $6.65 | 1 | cn | qwen1.5-32b-chat |
+| 6 | `kfcv50.link` | ¥3.5 | $3.5 / $7 | 1 | Domestic | qwen1.5-32b-chat |
+| 7 | `unorouter.net` | ¥12.51 | $1.71429 / $1.71429 | 7.3 | default | qwen1.5-32b-chat |
+| 8 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen1.5-32b-chat |
+| 9 | `hy88.my` | ¥15.33 | $2.1 / $4.2 | 7.3 | qwen | qwen1.5-32b-chat |
+| 10 | `wrduai.com` | ¥25.55 | $3.5 / $7 | 7.3 | 官转 | qwen1.5-32b-chat |
+| 11 | `gpt777.top` | ¥48 | $48 / $48 | 1 | opensource | qwen1.5-32b-chat |
+| 12 | `api.ifopen.ai` | ¥54.6 | $15.6 / $15.6 | 3.5 | 通用大模型 | qwen1.5-32b-chat |
+| 13 | `api2.aigcbest.top` | ¥54.6 | $15.6 / $15.6 | 3.5 | 通用大模型 | qwen1.5-32b-chat |
 
-> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 33 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -87,6 +87,12 @@ python3 tools/scan.py data/raw/sources/fofa-candidates.txt /tmp/fofa.json
 
 # 4. 纯卡网（不发 API）的，做一次指纹确认 + 人工看品类
 # 5. 确认后补进 data/shops/（走 normalize_shops 或直接改原始数据再重建）
+
+# GitHub / CT 候选也可先做首页指纹筛选（不保存正文）
+cat /tmp/github-harvest-10k-live.txt /tmp/crt-signal-live.txt | sort -u > /tmp/shop-candidates.txt
+python3 tools/discover/shop_fingerprint.py /tmp/shop-candidates.txt \
+  --out data/raw/sources/shop-fingerprint-candidates.jsonl --workers 16
+# 只把 high/medium 且人工确认在售的站点补入 data/shops；不要把候选自动当成商品店
 ```
 
 有 API Key 时可以一条命令跑：
@@ -130,6 +136,7 @@ python3 tools/discover/faka_fofa.py api
 
 ## 八、目前进度
 
-- 已用聚合站：430 家店（自建 82 家）
-- FOFA 这条路**尚未执行**（缺账号/Key），查询串与解析脚本已就绪
-- 预期：跑完能把自建站从 82 家推到 300–600 家量级，具体取决于配额
+- 已用聚合站：430 家店（自建 83 家）
+- Veridrop / GitHub / GitLab / CT / urlscan / npm / Docker Hub / Hugging Face / Bing 首页指纹已筛出 183 个中高置信候选，尚未自动并入商品店表
+- FOFA 这条路**尚未执行**（当前浏览器未登录），查询串与解析脚本已就绪
+- 预期：完成人工确认后再把自建站和纯卡网分别入库，避免把 API 网关误算成商品店

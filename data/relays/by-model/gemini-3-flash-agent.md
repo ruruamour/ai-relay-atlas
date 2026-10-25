@@ -1,6 +1,6 @@
 # gemini-3-flash-agent
 
-> 64 站提供 · 正常价 27 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.55**/1M 输入（20 站公开充值价） · 推算，未对账
+> 66 站提供 · 正常价 28 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.55**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -35,12 +35,13 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `ai.saigou.work` | $0.02 / $0.1 | gemini | 0.01 | gemini-3-flash-agent |
-| 2 | `api.text168.com` | $0.09 / $0.54 | 反重力Gemini | 0.18 | gemini-3-flash-agent |
-| 3 | `api.tyasai.com` | $0.15 / $0.9 | gemini 0.3 元每刀  | 0.3 | gemini-3-flash-agent |
-| 4 | `api.beara.top` | $0.4 / $2.4 | - | 0.8 | gemini-3-flash-agent |
-| 5 | `api.apihoter.com` | $2 / $2 | default | 1 | gemini-3-flash-agent |
-| 6 | `openclawroot.com` | $2.25 / $13.5 | gemini按量 | 0.12 | gemini-3-flash-agent |
-| 7 | `ai.xem8k5.top` | $2.7 / $16.2 | gemini | 18 | gemini-3-flash-agent |
+| 1 | `ai.kunkun.chat` | $0.02 / $0.1 | gemini | 0.01 | gemini-3-flash-agent |
+| 2 | `ai.saigou.work` | $0.02 / $0.1 | gemini | 0.01 | gemini-3-flash-agent |
+| 3 | `api.text168.com` | $0.09 / $0.54 | 反重力Gemini | 0.18 | gemini-3-flash-agent |
+| 4 | `api.tyasai.com` | $0.15 / $0.9 | gemini 0.3 元每刀  | 0.3 | gemini-3-flash-agent |
+| 5 | `api.beara.top` | $0.4 / $2.4 | - | 0.8 | gemini-3-flash-agent |
+| 6 | `api.apihoter.com` | $2 / $2 | default | 1 | gemini-3-flash-agent |
+| 7 | `openclawroot.com` | $2.25 / $13.5 | gemini按量 | 0.12 | gemini-3-flash-agent |
+| 8 | `ai.xem8k5.top` | $2.7 / $16.2 | gemini | 18 | gemini-3-flash-agent |
 
-> 37 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 38 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

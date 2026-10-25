@@ -1,6 +1,6 @@
 # qwen-omni-turbo
 
-> 38 站提供 · 正常价 26 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥13.55**/1M 输入（8 站公开充值价） · 推算，未对账
+> 46 站提供 · 正常价 28 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥7.804**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,14 +10,16 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api2.aigcbest.top` | ¥1.365 | $0.39 / $13.0026 | 3.5 | 通用大模型 | qwen-omni-turbo |
-| 2 | `codeyy.top` | ¥2.92 | $0.4 / $25 | 7.3 | default | qwen-omni-turbo |
-| 3 | `rockapi.ai` | ¥3.108 | $3.108 / $6.223 | 1 | 0.7x | qwen-omni-turbo |
-| 4 | `api.zyai.online` | ¥12.5 | $12.5 / $25 | 1 | mini | qwen-omni-turbo |
-| 5 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-omni-turbo |
-| 6 | `platform.anyrouter.ai` | ¥15 | $15 / $30 | 1 | official_cn | qwen-omni-turbo |
-| 7 | `kfcv50.link` | ¥25 | $25 / $50 | 1 | Domestic | qwen-omni-turbo |
-| 8 | `hy88.my` | ¥109.5 | $15 / $30 | 7.3 | qwen | qwen-omni-turbo |
+| 1 | `gpt777.top` | ¥1.2 | $1.2 / $40.008 | 1 | opensource | qwen-omni-turbo |
+| 2 | `api.ifopen.ai` | ¥1.365 | $0.39 / $13.0026 | 3.5 | 通用大模型 | qwen-omni-turbo |
+| 3 | `api2.aigcbest.top` | ¥1.365 | $0.39 / $13.0026 | 3.5 | 通用大模型 | qwen-omni-turbo |
+| 4 | `codeyy.top` | ¥2.92 | $0.4 / $25 | 7.3 | default | qwen-omni-turbo |
+| 5 | `rockapi.ai` | ¥3.108 | $3.108 / $6.223 | 1 | 0.7x | qwen-omni-turbo |
+| 6 | `api.zyai.online` | ¥12.5 | $12.5 / $25 | 1 | mini | qwen-omni-turbo |
+| 7 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-omni-turbo |
+| 8 | `platform.anyrouter.ai` | ¥15 | $15 / $30 | 1 | official_cn | qwen-omni-turbo |
+| 9 | `kfcv50.link` | ¥25 | $25 / $50 | 1 | Domestic | qwen-omni-turbo |
+| 10 | `hy88.my` | ¥109.5 | $15 / $30 | 7.3 | qwen | qwen-omni-turbo |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -42,4 +44,4 @@
 | 17 | `www.xiaoruiera.top` | $1.6 / $4.5008 | default | 1 | qwen-omni-turbo |
 | 18 | `yuli.host` | $1.6 / $4.5008 | default | 1 | qwen-omni-turbo |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

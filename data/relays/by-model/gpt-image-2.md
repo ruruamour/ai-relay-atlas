@@ -1,6 +1,6 @@
 # gpt-image-2
 
-> 1686 站提供 · 正常价 1086 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.1**/次（871 站公开充值价） · 推算，未对账
+> 1795 站提供 · 正常价 1141 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.1**/次（922 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,56 +12,56 @@
 |---|---|---|---|---|---|---|
 | 1 | `wyh.apijing.com` | ¥0.00468 | $0.00468 | 1 | gptimage稳定 | img特惠/gpt-image-2 |
 | 2 | `shendun.vip` | ¥0.006 | $0.006 | 1 | 1k-企业级稳定 | gpt-image-2-1k |
-| 3 | `sparkapi.org` | ¥0.00625 | $0.00625 | 1 | GPT Pro聚合分组(推荐） | gpt-image-2 |
+| 3 | `apiroute.top` | ¥0.008 | $0.008 | 1 | gpt-image2-生图 | gpt-image-2 |
 | 4 | `vip.brioi.com` | ¥0.008 | $0.008 | 1 | GPT 专线 | gpt-image-2 |
 | 5 | `api.e6t.cn` | ¥0.008219 | $0.00821918 | 1 | Image | gpt-image-2-1k |
 | 6 | `dg.e6t.cn` | ¥0.008219 | $0.00821918 | 1 | Image | gpt-image-2-1k |
-| 7 | `huablog.org` | ¥0.0091 | $0.0091 | 1 | 超绝拼好池 | gpt-image-2 |
-| 8 | `ai.490079.xyz` | ¥0.01 | $0.01 | 1 | codex | gpt-image-2 |
-| 9 | `ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2 |
-| 10 | `api.julongkj.top` | ¥0.01 | $0.01 | 1 | image | gpt-image-2 |
-| 11 | `api.klong.lat` | ¥0.01 | $0.01 | 1 | gpt-image | gpt-image-2 |
-| 12 | `api.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2 |
-| 13 | `img.yunfei.best` | ¥0.01 | $0.01 | 1 | image2 1k | gpt-image-2 |
-| 14 | `momoapi.xin` | ¥0.01 | $0.01 | 1 | img | gpt-image-2 |
-| 15 | `openkun.xyz` | ¥0.01 | $0.01 | 1 | Image生图 | gpt-image-2 |
-| 16 | `video.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2 |
+| 7 | `ai.490079.xyz` | ¥0.01 | $0.01 | 1 | codex | gpt-image-2 |
+| 8 | `ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2 |
+| 9 | `api.julongkj.top` | ¥0.01 | $0.01 | 1 | image | gpt-image-2 |
+| 10 | `api.klong.lat` | ¥0.01 | $0.01 | 1 | gpt-image | gpt-image-2 |
+| 11 | `api.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2 |
+| 12 | `img.yunfei.best` | ¥0.01 | $0.01 | 1 | image2 1k | gpt-image-2 |
+| 13 | `momoapi.xin` | ¥0.01 | $0.01 | 1 | img | gpt-image-2 |
+| 14 | `openkun.xyz` | ¥0.01 | $0.01 | 1 | Image生图 | gpt-image-2 |
+| 15 | `video.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2 |
+| 16 | `www.ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2 |
 | 17 | `zhangyuapi.com` | ¥0.01 | $0.01 | 1 | default | gpt-image-2 |
 | 18 | `api.flymux.com` | ¥0.011 | $0.011 | 1 | image | gpt-image-2 |
 | 19 | `ai-key.cc` | ¥0.012 | $0.012 | 1 | codex | gpt-image-2 |
 | 20 | `api.linktoagi.com` | ¥0.012 | $0.012 | 1 | default | gpt-image-2-2k |
-| 21 | `api.qinzhiai.com` | ¥0.012 | $0.012 | 1 | codex | gpt-image-2 |
-| 22 | `api.rinko.ai` | ¥0.012 | $0.012 | 1 | GPTIMAGE超低价1K | gpt-image-2 |
-| 23 | `buliangrenai.com` | ¥0.012 | $0.012 | 1 | image-standard | gpt-image-2 |
-| 24 | `chuangyuan.org` | ¥0.012 | $0.012 | 1 | gpt-image-2-1k | gpt-image-2 |
-| 25 | `new.97api.com` | ¥0.012 | $0.012 | 1 | defalut | gpt-image-2 |
-| 26 | `nikoapi.xyz` | ¥0.012 | $0.012 | 1 | 生图专用 | gpt-image-2 |
-| 27 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2-1k |
-| 28 | `1rr.top` | ¥0.015 | $0.015 | 1 | gpt生图片 | gpt-image-2 |
-| 29 | `api.avemujica.moe` | ¥0.015 | $0.015 | 1 | default | gpt-image-2 |
-| 30 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2 |
+| 21 | `api.rinko.ai` | ¥0.012 | $0.012 | 1 | GPTIMAGE超低价1K | gpt-image-2 |
+| 22 | `buliangrenai.com` | ¥0.012 | $0.012 | 1 | image-standard | gpt-image-2 |
+| 23 | `chuangyuan.org` | ¥0.012 | $0.012 | 1 | gpt-image-2-1k | gpt-image-2 |
+| 24 | `new.97api.com` | ¥0.012 | $0.012 | 1 | defalut | gpt-image-2 |
+| 25 | `nikoapi.xyz` | ¥0.012 | $0.012 | 1 | 生图专用 | gpt-image-2 |
+| 26 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2-1k |
+| 27 | `1rr.top` | ¥0.015 | $0.015 | 1 | gpt生图片 | gpt-image-2 |
+| 28 | `api.avemujica.moe` | ¥0.015 | $0.015 | 1 | default | gpt-image-2 |
+| 29 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2 |
+| 30 | `api.vakv.cn` | ¥0.015 | $0.015 | 1 | 生图专用 | gpt-image-2 |
 | 31 | `api.zzswitch.com` | ¥0.015 | $0.015 | 1 | gpt生图 | gpt-image-2 |
 | 32 | `code.ciyuanapi.xyz` | ¥0.015 | $0.015 | 1 | Image逆向1K | gpt-image-2 |
 | 33 | `⚠️codelypixverse.com` | ¥0.015 | $0.015 | 1 | vip | gpt-image-2 |
-| 34 | `newapi.13791888.xyz` | ¥0.015 | $0.015 | 1 | gpt-pro | gpt-image-2 |
-| 35 | `newapi.schyler.top` | ¥0.016 | $0.016 | 1 | CodexPro混池 | gpt-image-2 |
-| 36 | `api.200t.cn` | ¥0.0168 | $0.0168 | 1 | gpt pro号池 | gpt-image-2 |
-| 37 | `ai.cangyuansuanli.cn` | ¥0.017 | $0.017 | 1 | IMAGE | gpt-image-2 |
-| 38 | `synai996.space` | ¥0.0175 | $0.0175 | 1 | GPT 不降智 | gpt-image-2 |
-| 39 | `web.aipipe.io` | ¥0.018 | $0.018 | 1 | GPT-Image | gpt-image-2 |
-| 40 | `reverix.ai` | ¥0.01855 | $0.01855 | 1 | default | gpt-image-2 |
-| 41 | `aceoai.com` | ¥0.019 | $0.019 | 1 | gpt-img专用 | gpt-image-2 |
-| 42 | `aizzz.shop` | ¥0.02 | $0.02 | 1 | image | gpt-image-2 |
-| 43 | `api.0elog.com` | ¥0.02 | $0.02 | 1 | GPT生图 | gpt-image-2 |
-| 44 | `api.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | gpt2+香蕉+grok生图 | gpt-image-2 |
-| 45 | `api.kabuai.cn` | ¥0.02 | $0.02 | 1 | default | gpt-image-2 |
-| 46 | `api.kbq.de5.net` | ¥0.02 | $0.02 | 1 | default | [特价]gpt-image-2-1k |
-| 47 | `api.mooko.ai` | ¥0.02 | $0.02 | 1 | default | gpt-image-2 |
-| 48 | `api.nbility.ai` | ¥0.02 | $0.02 | 1 | image | gpt-image-2 |
-| 49 | `api.novaeworld.top` | ¥0.02 | $0.02 | 1 | vip | gpt-image-2 |
-| 50 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 生图 | gpt-image-2 |
+| 34 | `direct-api.cangyuansuanli.cn` | ¥0.015 | $0.015 | 1 | IMAGE | gpt-image-2 |
+| 35 | `newapi.13791888.xyz` | ¥0.015 | $0.015 | 1 | gpt-pro | gpt-image-2 |
+| 36 | `newapi.schyler.top` | ¥0.016 | $0.016 | 1 | CodexPro混池 | gpt-image-2 |
+| 37 | `api.200t.cn` | ¥0.0168 | $0.0168 | 1 | gpt pro号池 | gpt-image-2 |
+| 38 | `ai.cangyuansuanli.cn` | ¥0.017 | $0.017 | 1 | IMAGE | gpt-image-2 |
+| 39 | `synai996.space` | ¥0.0175 | $0.0175 | 1 | GPT 不降智 | gpt-image-2 |
+| 40 | `web.aipipe.io` | ¥0.018 | $0.018 | 1 | GPT-Image | gpt-image-2 |
+| 41 | `reverix.ai` | ¥0.01855 | $0.01855 | 1 | default | gpt-image-2 |
+| 42 | `aceoai.com` | ¥0.019 | $0.019 | 1 | gpt-img专用 | gpt-image-2 |
+| 43 | `aizzz.shop` | ¥0.02 | $0.02 | 1 | image | gpt-image-2 |
+| 44 | `api.0elog.com` | ¥0.02 | $0.02 | 1 | GPT生图 | gpt-image-2 |
+| 45 | `api.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | gpt2+香蕉+grok生图 | gpt-image-2 |
+| 46 | `api.kabuai.cn` | ¥0.02 | $0.02 | 1 | default | gpt-image-2 |
+| 47 | `api.kbq.de5.net` | ¥0.02 | $0.02 | 1 | default | [特价]gpt-image-2-1k |
+| 48 | `api.mooko.ai` | ¥0.02 | $0.02 | 1 | default | gpt-image-2 |
+| 49 | `api.nbility.ai` | ¥0.02 | $0.02 | 1 | image | gpt-image-2 |
+| 50 | `api.novaeworld.top` | ¥0.02 | $0.02 | 1 | vip | gpt-image-2 |
 
-> 另有 821 站未列出。
+> 另有 872 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -76,8 +76,8 @@
 | 7 | `kukuai.ai` | $0.00926471 | image2 | 1 | gpt-image-2-1k |
 | 8 | `api.asdfas.party` | $0.0096 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-image-2 |
 | 9 | `ahei.asia` | $0.0099 | plus | 0.15 | gpt-image-2 |
-| 10 | `api.hud.im` | $0.01 | 【生图】gpt-image-0.02 | 1 | gpt-image-2 |
-| 11 | `ergouzi.life` | $0.01 | 生图专用 | 0.01 | gpt-image-2 |
+| 10 | `api.clawhud.com` | $0.01 | Nvidia | 0.1 | gpt-image-2 |
+| 11 | `api.hud.im` | $0.01 | 【生图】gpt-image-0.02 | 1 | gpt-image-2 |
 | 12 | `lemonzz.xyz` | $0.01 | default | 1 | gpt-image-2 |
 | 13 | `weilai.chat` | $0.01 | GPT生图-生图请选择这个分组 | 0.1 | gpt-image-2 |
 | 14 | `yyds.chybenzun.top` | $0.01 | 【Y】image​ 1k 对接专用  | 1 | gpt-image-2 |
@@ -111,13 +111,13 @@
 | 42 | `api.relaylink.cloud` | $0.03 | image | 1 | gpt-image-2 |
 | 43 | `api.tyasai.com` | $0.03 | image2 不分尺寸每张 3 分 | 1 | gpt-image-2 |
 | 44 | `api.wopally.cn` | $0.03 | GPT 生图｜1x | 1 | gpt-image-2-1k |
-| 45 | `jbbtoken.cn` | $0.03 | 生图 | 0.03 | gpt-image-2 |
-| 46 | `llm-coding.space` | $0.03 | image综合分组 | 1 | gpt-image-2 |
-| 47 | `ovo1.vip` | $0.03 | GPT Image 2 Pro | 1 | gpt-image-2 |
-| 48 | `sub.jui87.com` | $0.03 | 灵铉组 | 1 | gpt-image-2 |
-| 49 | `www.jiguang.me` | $0.03 | 高性价比-生图 | 1 | gpt-image-2 |
-| 50 | `www.kk-vibe.top` | $0.03 | 无限画布 -- gpt 1K 模型 | 1 | gpt-image-2 |
+| 45 | `llm-coding.space` | $0.03 | image综合分组 | 1 | gpt-image-2 |
+| 46 | `ovo1.vip` | $0.03 | GPT Image 2 Pro | 1 | gpt-image-2 |
+| 47 | `sub.jui87.com` | $0.03 | 灵铉组 | 1 | gpt-image-2 |
+| 48 | `www.jiguang.me` | $0.03 | 高性价比-生图 | 1 | gpt-image-2 |
+| 49 | `www.kk-vibe.top` | $0.03 | 无限画布 -- gpt 1K 模型 | 1 | gpt-image-2 |
+| 50 | `www.lingzhan.top` | $0.03 | 1K生图 | 1 | gpt-image-2 |
 
-> 另有 165 站未列出。
+> 另有 169 站未列出。
 
-> 600 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 654 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

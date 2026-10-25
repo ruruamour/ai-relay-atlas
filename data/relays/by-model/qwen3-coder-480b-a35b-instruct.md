@@ -1,6 +1,6 @@
 # qwen3-coder-480b-a35b-instruct
 
-> 122 站提供 · 正常价 90 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥6.338**/1M 输入（23 站公开充值价） · 推算，未对账
+> 134 站提供 · 正常价 94 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥7.3**/1M 输入（27 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,20 +19,24 @@
 | 7 | `hk.moleapi.com` | ¥4.733 | $0.696 / $2.784 | 6.8 | discount | qwen3-coder-480b-a35b-instruct |
 | 8 | `www.ggwk1.online` | ¥5.6 | $5.6 / $22.4 | 1 | 开源模型组 | qwen3-coder-480b-a35b-instruct |
 | 9 | `ai.soruxgpt.com` | ¥6 | $6 / $24 | 1 | default | qwen3-coder-480b-a35b-instruct |
-| 10 | `new.foxi-api.cn` | ¥6 | $6 / $24 | 1 | default | qwen3-coder-480b-a35b-instruct |
-| 11 | `layso.ai` | ¥6.338 | $6.3375 / $31.6875 | 1 | Alibaba-1 | qwen3-coder-480b-a35b-instruct |
-| 12 | `laysoai.com` | ¥6.338 | $6.3375 / $31.6875 | 1 | Alibaba-1 | qwen3-coder-480b-a35b-instruct |
-| 13 | `pianyitoken.com` | ¥7.3 | $1 / $1.5 | 7.3 | 打野11111 | Qwen/Qwen3-Coder-480B-A35B-Instruct |
-| 14 | `ai.nodeloc.com` | ¥12.78 | $1.75 / $7 | 7.3 | default | qwen3-coder-480b-a35b-instruct |
-| 15 | `api2.aigcbest.top` | ¥13.65 | $3.9 / $15.6 | 3.5 | 通用大模型 | qwen3-coder-480b-a35b-instruct |
-| 16 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-coder-480b-a35b-instruct |
-| 17 | `hy88.my` | ¥15.33 | $2.1 / $4.2 | 7.3 | qwen | qwen3-coder-480b-a35b-instruct |
-| 18 | `api.hopeai.cc` | ¥20 | $20 / $20 | 1 | default | qwen3-coder-480b-a35b-instruct |
-| 19 | `rockapi.ai` | ¥21 | $21 / $210 | 1 | 0.7x | qwen3-coder-480b-a35b-instruct |
-| 20 | `ai.38yun.cn` | ¥31.5 | $31.5 / $315 | 1 | 官方全系稳定渠道 | qwen3-coder-480b-a35b-instruct |
-| 21 | `codeyy.top` | ¥43.8 | $6 / $24 | 7.3 | default | qwen3-coder-480b-a35b-instruct |
-| 22 | `cn.gptapi.asia` | ¥210 | $210 / $2100 | 1 | enterprise | qwen3-coder-480b-a35b-instruct |
-| 23 | `yutoapi.com` | ¥210 | $210 / $2100 | 1 | enterprise | qwen3-coder-480b-a35b-instruct |
+| 10 | `api.eido.top` | ¥6 | $6 / $24 | 1 | default | qwen3-coder-480b-a35b-instruct |
+| 11 | `new.foxi-api.cn` | ¥6 | $6 / $24 | 1 | default | qwen3-coder-480b-a35b-instruct |
+| 12 | `layso.ai` | ¥6.338 | $6.3375 / $31.6875 | 1 | Alibaba-1 | qwen3-coder-480b-a35b-instruct |
+| 13 | `laysoai.com` | ¥6.338 | $6.3375 / $31.6875 | 1 | Alibaba-1 | qwen3-coder-480b-a35b-instruct |
+| 14 | `pianyitoken.com` | ¥7.3 | $1 / $1.5 | 7.3 | 打野11111 | Qwen/Qwen3-Coder-480B-A35B-Instruct |
+| 15 | `onetoken.one` | ¥9 | $9 / $36 | 1 | 官方原生通道 | qwen3-coder-480b-a35b-instruct |
+| 16 | `gpt777.top` | ¥12 | $12 / $48 | 1 | opensource | qwen3-coder-480b-a35b-instruct |
+| 17 | `ai.nodeloc.com` | ¥12.78 | $1.75 / $7 | 7.3 | default | qwen3-coder-480b-a35b-instruct |
+| 18 | `api.ifopen.ai` | ¥13.65 | $3.9 / $15.6 | 3.5 | 通用大模型 | qwen3-coder-480b-a35b-instruct |
+| 19 | `api2.aigcbest.top` | ¥13.65 | $3.9 / $15.6 | 3.5 | 通用大模型 | qwen3-coder-480b-a35b-instruct |
+| 20 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-coder-480b-a35b-instruct |
+| 21 | `hy88.my` | ¥15.33 | $2.1 / $4.2 | 7.3 | qwen | qwen3-coder-480b-a35b-instruct |
+| 22 | `api.hopeai.cc` | ¥20 | $20 / $20 | 1 | default | qwen3-coder-480b-a35b-instruct |
+| 23 | `rockapi.ai` | ¥21 | $21 / $210 | 1 | 0.7x | qwen3-coder-480b-a35b-instruct |
+| 24 | `ai.38yun.cn` | ¥31.5 | $31.5 / $315 | 1 | 官方全系稳定渠道 | qwen3-coder-480b-a35b-instruct |
+| 25 | `codeyy.top` | ¥43.8 | $6 / $24 | 7.3 | default | qwen3-coder-480b-a35b-instruct |
+| 26 | `cn.gptapi.asia` | ¥210 | $210 / $2100 | 1 | enterprise | qwen3-coder-480b-a35b-instruct |
+| 27 | `yutoapi.com` | ¥210 | $210 / $2100 | 1 | enterprise | qwen3-coder-480b-a35b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -91,4 +95,4 @@
 
 > 另有 17 站未列出。
 
-> 32 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 40 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

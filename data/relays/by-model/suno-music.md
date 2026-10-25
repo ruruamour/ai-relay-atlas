@@ -1,6 +1,6 @@
 # suno-music
 
-> 51 站提供 · 正常价 47 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.675**/次（27 站公开充值价） · 推算，未对账
+> 58 站提供 · 正常价 54 站 · 名义中位价 **$0.165**/次 · 实付中位价 **¥0.6375**/次（34 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,29 +14,36 @@
 | 2 | `api.gstrad.top` | ¥0.2 | $0.2 | 1 | default | suno_music |
 | 3 | `api.nekoapi.com` | ¥0.2 | $0.1 | 2 | default | suno_music |
 | 4 | `cnapi.kksj.org` | ¥0.225 | $0.225 | 1 | default | suno_music |
-| 5 | `api.uiuihao.com` | ¥0.319 | $0.1 | 3.19 | default | suno_music |
-| 6 | `sg.uiuiapi.com` | ¥0.319 | $0.1 | 3.19 | default | suno_music |
-| 7 | `n.lconai.com` | ¥0.35 | $0.35 | 1 | B1 | suno_music |
-| 8 | `poloai.top` | ¥0.45 | $0.45 | 1 | suno | suno_music |
-| 9 | `modelsell.com` | ¥0.4896 | $0.072 | 6.8 | 标准按次 | suno_music |
-| 10 | `api.bltcy.ai` | ¥0.5 | $0.5 | 1 | default | suno_music |
-| 11 | `runapi.co` | ¥0.54 | $0.08 | 6.75 | default | suno_music |
-| 12 | `aipaiai.cn` | ¥0.55 | $0.55 | 1 | Suno接口调用 | suno_music |
-| 13 | `ccapi.ai` | ¥0.552 | $0.08 | 6.9 | suno-A | suno_music |
-| 14 | `ai.t8star.org` | ¥0.675 | $0.5 | 1.35 | default | suno_music |
-| 15 | `cn.gptapi.asia` | ¥0.7 | $0.7 | 1 | enterprise | suno_music |
-| 16 | `yutoapi.com` | ¥0.7 | $0.7 | 1 | enterprise | suno_music |
-| 17 | `crazyrouter.com` | ¥0.7 | $0.1 | 7 | default | suno_music |
-| 18 | `api.34ku.com` | ¥0.78 | $0.78 | 1 | default | suno_music |
-| 19 | `api.xctokens.com` | ¥0.8 | $0.8 | 1 | default | suno_music |
-| 20 | `api.xgapi.top` | ¥0.8 | $0.8 | 1 | default | suno_music |
-| 21 | `claude360.xyz` | ¥0.8 | $0.8 | 1 | Suno-音乐生成 | suno_music |
-| 22 | `keypool.space` | ¥1 | $1 | 1 | default | suno_music |
-| 23 | `api.bianxie.ai` | ¥1.205 | $0.165 | 7.3 | default | suno_music |
-| 24 | `api-x.vip` | ¥1.5 | $1.5 | 1 | default | suno_music |
-| 25 | `api2.aigcbest.top` | ¥1.96 | $0.56 | 3.5 | default | suno_music |
-| 26 | `api.apipro.ai` | ¥2.1 | $0.3 | 7 | default | suno_music |
-| 27 | `nbapi.net` | ¥7.3 | $1 | 7.3 | default | suno_music |
+| 5 | `api.annyun.cn` | ¥0.3 | $0.3 | 1 | default | suno_music |
+| 6 | `api.uiuihao.com` | ¥0.319 | $0.1 | 3.19 | default | suno_music |
+| 7 | `sg.uiuiapi.com` | ¥0.319 | $0.1 | 3.19 | default | suno_music |
+| 8 | `n.lconai.com` | ¥0.35 | $0.35 | 1 | B1 | suno_music |
+| 9 | `poloai.top` | ¥0.45 | $0.45 | 1 | suno | suno_music |
+| 10 | `modelsell.com` | ¥0.4896 | $0.072 | 6.8 | 标准按次 | suno_music |
+| 11 | `api.bltcy.ai` | ¥0.5 | $0.5 | 1 | default | suno_music |
+| 12 | `apilio.ai` | ¥0.5 | $0.5 | 1 | default | suno_music |
+| 13 | `test-ssl.bltcy.ai` | ¥0.5 | $0.5 | 1 | default | suno_music |
+| 14 | `runapi.co` | ¥0.54 | $0.08 | 6.75 | default | suno_music |
+| 15 | `aipaiai.cn` | ¥0.55 | $0.55 | 1 | Suno接口调用 | suno_music |
+| 16 | `ccapi.ai` | ¥0.552 | $0.08 | 6.9 | suno-A | suno_music |
+| 17 | `api.eido.top` | ¥0.6 | $0.6 | 1 | default | suno_music |
+| 18 | `ai.t8star.org` | ¥0.675 | $0.5 | 1.35 | default | suno_music |
+| 19 | `cn.gptapi.asia` | ¥0.7 | $0.7 | 1 | enterprise | suno_music |
+| 20 | `yutoapi.com` | ¥0.7 | $0.7 | 1 | enterprise | suno_music |
+| 21 | `crazyrouter.com` | ¥0.7 | $0.1 | 7 | default | suno_music |
+| 22 | `api.34ku.com` | ¥0.78 | $0.78 | 1 | default | suno_music |
+| 23 | `api.xctokens.com` | ¥0.8 | $0.8 | 1 | default | suno_music |
+| 24 | `api.xgapi.top` | ¥0.8 | $0.8 | 1 | default | suno_music |
+| 25 | `claude360.xyz` | ¥0.8 | $0.8 | 1 | Suno-音乐生成 | suno_music |
+| 26 | `keypool.space` | ¥1 | $1 | 1 | default | suno_music |
+| 27 | `xinsuanai.com` | ¥1 | $1 | 1 | default | suno_music |
+| 28 | `api.bianxie.ai` | ¥1.205 | $0.165 | 7.3 | default | suno_music |
+| 29 | `api.bianxieai.com` | ¥1.205 | $0.165 | 7.3 | default | suno_music |
+| 30 | `api-x.vip` | ¥1.5 | $1.5 | 1 | default | suno_music |
+| 31 | `api.ifopen.ai` | ¥1.96 | $0.56 | 3.5 | default | suno_music |
+| 32 | `api2.aigcbest.top` | ¥1.96 | $0.56 | 3.5 | default | suno_music |
+| 33 | `api.apipro.ai` | ¥2.1 | $0.3 | 7 | default | suno_music |
+| 34 | `nbapi.net` | ¥7.3 | $1 | 7.3 | default | suno_music |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

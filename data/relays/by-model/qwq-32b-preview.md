@@ -1,6 +1,6 @@
 # qwq-32b-preview
 
-> 83 站提供 · 正常价 74 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.95**/1M 输入（10 站公开充值价） · 推算，未对账
+> 87 站提供 · 正常价 75 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,7 +19,8 @@
 | 7 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwq-32b-preview |
 | 8 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwq-32b-preview |
 | 9 | `new.foxi-api.cn` | ¥2 | $2 / $6 | 1 | default | qwq-32b-preview |
-| 10 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | qwq-32b-preview |
+| 10 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwq-32b-preview |
+| 11 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | qwq-32b-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -78,4 +79,4 @@
 
 > 另有 14 站未列出。
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

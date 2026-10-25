@@ -1,6 +1,6 @@
 # suno-v3.5
 
-> 35 站提供 · 正常价 28 站 · 名义中位价 **$0.45**/次 · 实付中位价 **¥0.3**/次（8 站公开充值价） · 推算，未对账
+> 38 站提供 · 正常价 31 站 · 名义中位价 **$0.45**/次 · 实付中位价 **¥0.3**/次（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,11 +13,14 @@
 | 1 | `new.gateway.icu` | ¥0.075 | $0.075 | 1 | default | suno-v3.5 |
 | 2 | `api.hopeai.cc` | ¥0.15 | $0.15 | 1 | default | suno-v3.5 |
 | 3 | `newapi.tu-zi.com` | ¥0.15 | $0.15 | 1 | default | suno-v3.5 |
-| 4 | `i-sh.v1api.cc` | ¥0.3 | $0.3 | 1 | default | suno-v3.5 |
-| 5 | `i.v1api.cc` | ¥0.3 | $0.3 | 1 | default | suno-v3.5 |
-| 6 | `cnapi.kksj.org` | ¥0.36 | $0.36 | 1 | default | suno-v3.5 |
-| 7 | `kfcv50.link` | ¥0.8 | $0.8 | 1 | default | suno-v3.5 |
-| 8 | `apius.shubiaobiao.cn` | ¥4.38 | $0.6 | 7.3 | cc | suno-v3.5 |
+| 4 | `api.annyun.cn` | ¥0.3 | $0.3 | 1 | default | suno-v3.5 |
+| 5 | `i-sh.v1api.cc` | ¥0.3 | $0.3 | 1 | default | suno-v3.5 |
+| 6 | `i.v1api.cc` | ¥0.3 | $0.3 | 1 | default | suno-v3.5 |
+| 7 | `zen-ai.top` | ¥0.3 | $0.3 | 1 | default | suno-v3.5 |
+| 8 | `cnapi.kksj.org` | ¥0.36 | $0.36 | 1 | default | suno-v3.5 |
+| 9 | `kfcv50.link` | ¥0.8 | $0.8 | 1 | default | suno-v3.5 |
+| 10 | `api.ai-gaochao.cn` | ¥4.38 | $0.6 | 7.3 | cc | suno-v3.5 |
+| 11 | `apius.shubiaobiao.cn` | ¥4.38 | $0.6 | 7.3 | cc | suno-v3.5 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # gpt-reserve
 
-> 110 站提供 · 正常价 27 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.675**/1M 输入（11 站公开充值价） · 推算，未对账
+> 125 站提供 · 正常价 34 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥3.65**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,9 +18,11 @@
 | 6 | `apitoken.world` | ¥0.675 | $0.675 / $6.75 | 1 | 实惠组 | gpt-reserve |
 | 7 | `api.wapq.cn` | ¥3.65 | $0.5 / $1 | 7.3 | default | gpt-reserve |
 | 8 | `ai.hebox.net` | ¥9.307 | $1.275 / $1.275 | 7.3 | gpt pro | gpt-reserve |
-| 9 | `apikey.tech` | ¥73 | $10 / $50 | 7.3 | gpt-稳健组 | gpt-reserve |
-| 10 | `aia.iisbo.com` | ¥175.5 | $17.5502 / $105.301 | 10 | bhkld | [乾坤按量]gpt-reserve |
-| 11 | `iai.iisbo.com` | ¥175.5 | $17.5502 / $105.301 | 10 | bhkld | [乾坤按量]gpt-reserve |
+| 9 | `novaapi.com.cn` | ¥18.25 | $2.5 / $15 | 7.3 | codex 官key | gpt-reserve |
+| 10 | `apikey.tech` | ¥73 | $10 / $50 | 7.3 | gpt-稳健组 | gpt-reserve |
+| 11 | `ai.iisbo.com` | ¥128.1 | $17.5502 / $105.301 | 7.3 | ci | [乾坤按量]gpt-reserve |
+| 12 | `aia.iisbo.com` | ¥175.5 | $17.5502 / $105.301 | 10 | bhkld | [乾坤按量]gpt-reserve |
+| 13 | `iai.iisbo.com` | ¥175.5 | $17.5502 / $105.301 | 10 | bhkld | [乾坤按量]gpt-reserve |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -31,16 +33,21 @@
 | 3 | `api.tohoqing.com` | $0.25 / $1.5 | plus号池 | 0.1 | gpt-reserve |
 | 4 | `aixhub.shop` | $0.3 / $1.8 | Codex 混合池子 | 0.12 | gpt-reserve |
 | 5 | `ai-pixel.online` | $0.375 / $0.75 | room-256 | 0.005 | gpt-reserve |
-| 6 | `oapi.shop` | $0.375 / $2.25 | Pro精选 | 0.15 | gpt-reserve |
-| 7 | `sub.pikaqiu.shop` | $0.425 / $2.55 | team | 0.085 | gpt-reserve |
-| 8 | `www.digitalcats.cc` | $0.425 / $2.55 | GPT 不降智 | 0.17 | gpt-reserve |
-| 9 | `api340.com` | $0.45 / $2.7 | GPT满血不降智，不限速 ，站长自用 | 0.18 | gpt-reserve |
-| 10 | `api.akko.space` | $0.5 / $3 | Codex Pro | 0.2 | gpt-reserve |
-| 11 | `chain888.vip` | $0.5 / $3 | Pro 官方充值 【最稳、最快、最强】推荐！ | 0.2 | gpt-reserve |
-| 12 | `subapi.muxueai.pro` | $0.7 / $4.2 | GPT-不降智 | 0.28 | gpt-reserve |
-| 13 | `momoapi.cn` | $0.75 / $4.5 | OpenAI Plus | 0.15 | gpt-reserve |
-| 14 | `ai.xem8k5.top` | $1.5 / $9 | gpt-fast | 7.5 | gpt-reserve |
-| 15 | `ovh.xem8k5.top` | $1.5 / $9 | gpt-fast | 7.5 | gpt-reserve |
-| 16 | `api.solov.cc` | $2.5 / $15 | GPT | 1 | gpt-reserve |
+| 6 | `api2.nf66.cn` | $0.375 / $2.25 | GPT 高速 | 0.15 | gpt-reserve |
+| 7 | `oapi.shop` | $0.375 / $2.25 | Pro精选 | 0.15 | gpt-reserve |
+| 8 | `ai.kunkun.chat` | $0.4 / $2 | workbuddy | 0.2 | gpt-reserve |
+| 9 | `kedaya.ai` | $0.4 / $2.4 | GPT 不降智2 | 0.16 | gpt-reserve |
+| 10 | `sub.pikaqiu.shop` | $0.425 / $2.55 | team | 0.085 | gpt-reserve |
+| 11 | `www.digitalcats.cc` | $0.425 / $2.55 | GPT 不降智 | 0.17 | gpt-reserve |
+| 12 | `api340.com` | $0.45 / $2.7 | GPT满血不降智，不限速 ，站长自用 | 0.18 | gpt-reserve |
+| 13 | `api.akko.space` | $0.5 / $3 | Codex Pro | 0.2 | gpt-reserve |
+| 14 | `chain888.vip` | $0.5 / $3 | Pro 官方充值 【最稳、最快、最强】推荐！ | 0.2 | gpt-reserve |
+| 15 | `www.text168.com` | $0.5 / $3 | GPT-不降智50x号池高缓 | 0.2 | gpt-reserve |
+| 16 | `momoapi.cn` | $0.75 / $4.5 | OpenAI Plus | 0.15 | gpt-reserve |
+| 17 | `ai.xem8k5.top` | $1.5 / $9 | gpt-fast | 7.5 | gpt-reserve |
+| 18 | `ovh.xem8k5.top` | $1.5 / $9 | gpt-fast | 7.5 | gpt-reserve |
+| 19 | `api.solov.cc` | $2.5 / $15 | GPT | 1 | gpt-reserve |
+| 20 | `rurout.online` | $2.5 / $15 | RuRout | 1 | gpt-reserve |
+| 21 | `ciyuan.fast` | $3 / $18 | GPT-Pro不保降智 | 1.2 | gpt-reserve |
 
-> 83 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 91 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

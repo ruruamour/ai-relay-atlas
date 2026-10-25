@@ -1,6 +1,6 @@
 # deepseek-v4.1-flash-hc
 
-> 32 站提供 · 正常价 25 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（18 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 24 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,7 +27,6 @@
 | 15 | `suanlitaikong.com` | ¥3.2 | $3.2 / $8 | 1 | DeepSeek-额度计费 | deepseek-v4.1-flash-hc |
 | 16 | `yhai.mmaqq.top` | ¥5.625 | $1.125 / $4.5 | 5 | deepseek稳定分组 | deepseek-v4.1-flash-hc |
 | 17 | `vfzhi.cn` | ¥12.92 | $1.76935 / $1.76935 | 7.3 | default | deepseek-v4.1-flash-hc |
-| 18 | `novaapi.com.cn` | ¥21.9 | $3 / $9 | 7.3 | 国产模型-额度计费 | deepseek-v4.1-flash-hc |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

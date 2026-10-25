@@ -1,6 +1,6 @@
 # gpt-5.5
 
-> 1672 站提供 · 正常价 1130 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥3.434**/1M 输入（874 站公开充值价） · 推算，未对账
+> 1758 站提供 · 正常价 1185 站 · 名义中位价 **$1.65**/1M 输入 · 实付中位价 **¥3.5**/1M 输入（918 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,14 +20,14 @@
 | 8 | `new.mhapi.net` | ¥0.175 | $0.175 / $1.05 | 1 | gpt-激励 | gpt-5.5 |
 | 9 | `apiv3.52codeflow.top` | ¥0.1875 | $0.1875 / $1.125 | 1 | kiro-claude-个人号-按次 | gpt-5.5 |
 | 10 | `uselink.cn` | ¥0.1875 | $0.1875 / $1.125 | 1 | default | gpt-5.5 |
-| 11 | `new.97api.com` | ¥0.2 | $0.2 / $1.2 | 1 | defalut | gpt-5.5 |
-| 12 | `hk.apixhm.com` | ¥0.225 | $0.75 / $4.5 | 0.3 | Codex-plus | gpt-5.5 |
-| 13 | `code.aigcpro.org` | ¥0.225 | $0.225 / $1.35 | 1 | gpt混池 | gpt-5.5 |
-| 14 | `frugalrelay.me` | ¥0.225 | $0.225 / $1.35 | 1 | plus_account | gpt-5.5 |
-| 15 | `api.changsf.top` | ¥0.25 | $0.25 / $1.5 | 1 | gpt-luna | gpt-5.5 |
-| 16 | `tk.8t.chat` | ¥0.25 | $0.25 / $1.5 | 1 | openai-plus | gpt-5.5 |
-| 17 | `tonkicapi.xyz` | ¥0.25 | $0.25 / $1.5 | 1 | 0.05羊毛 | gpt-5.5 |
-| 18 | `tuokeapi.com` | ¥0.25 | $0.25 / $1.5 | 1 | gpt-plus | gpt-5.5 |
+| 11 | `fluxapi.vip` | ¥0.19 | $0.19 / $1.14 | 1 | team/plus/bugpro全自动号池0.038x | gpt-5.5 |
+| 12 | `new.97api.com` | ¥0.2 | $0.2 / $1.2 | 1 | defalut | gpt-5.5 |
+| 13 | `hk.apixhm.com` | ¥0.225 | $0.75 / $4.5 | 0.3 | Codex-plus | gpt-5.5 |
+| 14 | `code.aigcpro.org` | ¥0.225 | $0.225 / $1.35 | 1 | gpt混池 | gpt-5.5 |
+| 15 | `frugalrelay.me` | ¥0.225 | $0.225 / $1.35 | 1 | plus_account | gpt-5.5 |
+| 16 | `api.changsf.top` | ¥0.25 | $0.25 / $1.5 | 1 | gpt-luna | gpt-5.5 |
+| 17 | `tk.8t.chat` | ¥0.25 | $0.25 / $1.5 | 1 | openai-plus | gpt-5.5 |
+| 18 | `tonkicapi.xyz` | ¥0.25 | $0.25 / $1.5 | 1 | 0.05羊毛 | gpt-5.5 |
 | 19 | `api.hk.toumingx.fun` | ¥0.275 | $0.275 / $1.65 | 1 | GPT-P3 | gpt-5.5 |
 | 20 | `faojzoo.cn` | ¥0.275 | $0.55 / $3.3 | 0.5 | gpt速刷 | gpt-5.5 |
 | 21 | `tm-token.com` | ¥0.275 | $0.275 / $1.65 | 1 | GPT-P3 | gpt-5.5 |
@@ -61,7 +61,7 @@
 | 49 | `newapi.lzgzxs.xyz` | ¥0.4 | $0.4 / $2.4 | 1 | default | gpt-5.5 |
 | 50 | `oai.sb` | ¥0.4 | $0.4 / $2.4 | 1 | 【GPT】plus/team炸弹车混合分组 | gpt-5.5 |
 
-> 另有 824 站未列出。
+> 另有 868 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -75,27 +75,27 @@
 | 6 | `sub.jui87.com` | $0.15 / $0.6 | codex-低价版 | 0.06 | gpt-5.5 |
 | 7 | `all-api.ccode.dev` | $0.175 / $1.05 | Codex-Lite | 0.035 | gpt-5.5 |
 | 8 | `mhapi.net` | $0.175 / $1.05 | 激励gpt | 0.035 | gpt-5.5 |
-| 9 | `feiniu-ai.cn` | $0.1875 / $1.125 | default | 1 | gpt-5.5 |
-| 10 | `fluxapi.vip` | $0.19 / $1.14 | team/plus/bugpro全自动号池0.038x | 0.038 | gpt-5.5 |
+| 9 | `xigong.cloud` | $0.175 / $1.05 | GPT-5xTeam | 0.035 | gpt-5.5 |
+| 10 | `feiniu-ai.cn` | $0.1875 / $1.125 | default | 1 | gpt-5.5 |
 | 11 | `api.01yapi.com` | $0.2 / $1.2 | Plus分组 | 0.04 | gpt-5.5 |
 | 12 | `www.deponia.me` | $0.2 / $1.2 | Team   分组 | 0.04 | gpt-5.5 |
 | 13 | `www.mofas.one` | $0.2 / $1.2 | gpt | 0.04 | gpt-5.5 |
-| 14 | `xigong.cloud` | $0.2 / $1.2 | GPT-5xTeam | 0.04 | gpt-5.5 |
-| 15 | `api.hzapi.vip` | $0.225 / $1.35 | GPT 混池｜0.045x | 0.045 | gpt-5.5 |
-| 16 | `superxihe.com` | $0.225 / $1.35 | gpt-6性价比 | 0.045 | gpt-5.5 |
-| 17 | `abinapi.com` | $0.25 / $1.5 | GPTteam | 0.05 | gpt-5.5 |
-| 18 | `ai.bayunzi.shop` | $0.25 / $1.5 | ChatGPT-Plus | 0.05 | gpt-5.5 |
-| 19 | `api.cnvip.com.cn` | $0.25 / $1.5 | GPT  team | 0.05 | gpt-5.5 |
-| 20 | `api.vibe-subsapi.com` | $0.25 / $1.5 | ChatGPT 混池 | 0.05 | gpt-5.5 |
-| 21 | `loveapi.top` | $0.25 / $1.5 | Codex-Plus 激励组0.05x | 0.05 | gpt-5.5 |
-| 22 | `super.aresaicode.cn` | $0.25 / $1.5 | gpt （降智不保证） | 0.05 | gpt-5.5 |
-| 23 | `ai.blue1.top` | $0.3 / $1.8 | Plus 优惠组（不能用就切） | 0.06 | gpt-5.5 |
-| 24 | `ai.entrylk.cn` | $0.3 / $1.8 | codex-超优惠 | 0.06 | gpt-5.5 |
-| 25 | `aiaizz.com` | $0.3 / $2.4 | GPT | 0.2 | gpt-5.5 |
-| 26 | `kuafushe.cc` | $0.3 / $1.8 | GPT-王炸组 | 0.06 | gpt-5.5 |
-| 27 | `s169.bjhuiqu.net` | $0.3 / $1.8 | pro | 0.06 | gpt-5.5 |
-| 28 | `supercodes.vip` | $0.3 / $1.8 | GPT Plus | 0.06 | gpt-5.5 |
-| 29 | `api.tyasai.com` | $0.325 / $1.95 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-5.5 |
+| 14 | `api.hzapi.vip` | $0.225 / $1.35 | GPT 混池｜0.045x | 0.045 | gpt-5.5 |
+| 15 | `superxihe.com` | $0.225 / $1.35 | gpt-6性价比 | 0.045 | gpt-5.5 |
+| 16 | `abinapi.com` | $0.25 / $1.5 | GPTteam | 0.05 | gpt-5.5 |
+| 17 | `ai.bayunzi.shop` | $0.25 / $1.5 | ChatGPT-Plus | 0.05 | gpt-5.5 |
+| 18 | `api.cnvip.com.cn` | $0.25 / $1.5 | GPT  team | 0.05 | gpt-5.5 |
+| 19 | `api.vibe-subsapi.com` | $0.25 / $1.5 | ChatGPT 混池 | 0.05 | gpt-5.5 |
+| 20 | `loveapi.top` | $0.25 / $1.5 | Codex-Plus 激励组0.05x | 0.05 | gpt-5.5 |
+| 21 | `super.aresaicode.cn` | $0.25 / $1.5 | gpt （降智不保证） | 0.05 | gpt-5.5 |
+| 22 | `ai.blue1.top` | $0.3 / $1.8 | Plus 优惠组（不能用就切） | 0.06 | gpt-5.5 |
+| 23 | `ai.entrylk.cn` | $0.3 / $1.8 | codex-超优惠 | 0.06 | gpt-5.5 |
+| 24 | `aiaizz.com` | $0.3 / $2.4 | GPT | 0.2 | gpt-5.5 |
+| 25 | `kuafushe.cc` | $0.3 / $1.8 | GPT-王炸组 | 0.06 | gpt-5.5 |
+| 26 | `s169.bjhuiqu.net` | $0.3 / $1.8 | pro | 0.06 | gpt-5.5 |
+| 27 | `supercodes.vip` | $0.3 / $1.8 | GPT Plus | 0.06 | gpt-5.5 |
+| 28 | `api.tyasai.com` | $0.325 / $1.95 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-5.5 |
+| 29 | `change2pro.com` | $0.34 / $2.04 | Codex-真香组 | 0.068 | gpt-5.5 |
 | 30 | `aiapibank.com` | $0.35 / $2.1 | GPT低价分组 | 0.07 | gpt-5.5 |
 | 31 | `api.hyhawang.com` | $0.35 / $2.1 | gpt低倍率 | 0.07 | gpt-5.5 |
 | 32 | `doufuapi.com` | $0.35 / $2.1 | GPT分组\|低价捡漏 | 0.07 | gpt-5.5 |
@@ -103,21 +103,21 @@
 | 34 | `ovo1.vip` | $0.35 / $2.1 | Codex Plus | 0.07 | gpt-5.5 |
 | 35 | `www.civilian.asia` | $0.35 / $2.1 | 狼人分组 | 0.07 | gpt-5.5 |
 | 36 | `sheepapi.top` | $0.375 / $2.25 | gpt-混池 | 0.075 | gpt-5.5 |
-| 37 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.5 |
-| 38 | `ai.sofurry.cloud` | $0.4 / $2.4 | GPT 独立池+混合池  | 0.08 | gpt-5.5 |
-| 39 | `api.asdfas.party` | $0.4 / $2.4 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-5.5 |
-| 40 | `api.bingoapi.top` | $0.4 / $2.4 | gpt plus（骨折价，稳定性适中） | 0.08 | gpt-5.5 |
-| 41 | `linfengx.xyz` | $0.4 / $2.4 | 常规 | 0.08 | gpt-5.5 |
-| 42 | `nodeai.cc` | $0.4 / $2.4 | GPT-Plus | 0.08 | gpt-5.5 |
-| 43 | `sub.callai.one` | $0.4 / $2.4 | gpt | 0.08 | gpt-5.5 |
-| 44 | `www.bb-api.com` | $0.4 / $2.4 | gpt-008x-（毫秒级首字） | 0.08 | gpt-5.5 |
-| 45 | `xinyue.mom` | $0.4 / $2.4 | 不降智焚决【只有astra】 | 0.08 | gpt-5.5 |
-| 46 | `yzstudio.vip` | $0.4 / $2.4 | 优惠分组plus | 0.08 | gpt-5.5 |
-| 47 | `b.ainano.cloud` | $0.425 / $2.55 | GPT Plus池 | 0.085 | gpt-5.5 |
-| 48 | `sub.pikaqiu.shop` | $0.425 / $2.55 | team | 0.085 | gpt-5.5 |
-| 49 | `api.1route.dev` | $0.45 / $2.7 | GPT 🎲（混合号池） | 0.09 | gpt-5.5 |
-| 50 | `api.985la.cn` | $0.45 / $2.7 | PLUS组 0.09倍率 | 0.09 | gpt-5.5 |
+| 37 | `ai.kunkun.chat` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.5 |
+| 38 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.5 |
+| 39 | `ai.sofurry.cloud` | $0.4 / $2.4 | GPT 独立池+混合池  | 0.08 | gpt-5.5 |
+| 40 | `api.asdfas.party` | $0.4 / $2.4 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-5.5 |
+| 41 | `api.bingoapi.top` | $0.4 / $2.4 | gpt plus（骨折价，稳定性适中） | 0.08 | gpt-5.5 |
+| 42 | `linfengx.xyz` | $0.4 / $2.4 | 常规 | 0.08 | gpt-5.5 |
+| 43 | `nodeai.cc` | $0.4 / $2.4 | GPT-Plus | 0.08 | gpt-5.5 |
+| 44 | `sub.callai.one` | $0.4 / $2.4 | gpt | 0.08 | gpt-5.5 |
+| 45 | `www.bb-api.com` | $0.4 / $2.4 | gpt-008x-（毫秒级首字） | 0.08 | gpt-5.5 |
+| 46 | `xinyue.mom` | $0.4 / $2.4 | 不降智焚决【只有astra】 | 0.08 | gpt-5.5 |
+| 47 | `yzstudio.vip` | $0.4 / $2.4 | 优惠分组plus | 0.08 | gpt-5.5 |
+| 48 | `b.ainano.cloud` | $0.425 / $2.55 | GPT Plus池 | 0.085 | gpt-5.5 |
+| 49 | `sub.pikaqiu.shop` | $0.425 / $2.55 | team | 0.085 | gpt-5.5 |
+| 50 | `api.1route.dev` | $0.45 / $2.7 | GPT 🎲（混合号池） | 0.09 | gpt-5.5 |
 
-> 另有 206 站未列出。
+> 另有 217 站未列出。
 
-> 542 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 573 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

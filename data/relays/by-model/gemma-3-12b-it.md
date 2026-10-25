@@ -1,6 +1,6 @@
 # gemma-3-12b-it
 
-> 37 站提供 · 正常价 20 站 · 名义中位价 **$0.0784615**/1M 输入 · 实付中位价 **¥0.3285**/1M 输入（17 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 20 站 · 名义中位价 **$0.0784615**/1M 输入 · 实付中位价 **¥0.3285**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,9 +14,9 @@
 | 2 | `api.aliyunfuwu.top` | ¥0.025 | $0.025 / $0.075 | 1 | relay | google/gemma-3-12b-it |
 | 3 | `123api.co` | ¥0.08 | $0.08 / $0.08 | 1 | default | gemma-3-12b-it |
 | 4 | `www.ggwk1.online` | ¥0.14 | $0.14 / $0.28 | 1 | 开源模型组 | gemma-3-12b-it |
-| 5 | `api.openai-labs.com` | ¥0.2 | $0.2 / $0.8 | 1 | default | gemma-3-12b-it |
-| 6 | `botcf.com` | ¥0.201 | $0.201 / $0.603 | 1 | 💠google-openweight-mix | gemma-3-12b-it |
-| 7 | `api.qinzhiai.com` | ¥0.225 | $0.225 / $0.675 | 1 | openrouter | google/gemma-3-12b-it |
+| 5 | `api.qinzhiai.com` | ¥0.175 | $0.175 / $0.525 | 1 | openrouter | google/gemma-3-12b-it |
+| 6 | `api.openai-labs.com` | ¥0.2 | $0.2 / $0.8 | 1 | default | gemma-3-12b-it |
+| 7 | `botcf.com` | ¥0.201 | $0.201 / $0.603 | 1 | 💠google-openweight-mix | gemma-3-12b-it |
 | 8 | `mux.la` | ¥0.292 | $0.04 / $0.12 | 7.3 | Openrouter-Anthropic | google/gemma-3-12b-it |
 | 9 | `llm.kagu.one` | ¥0.3285 | $0.045 / $0.145 | 7.3 | 大杂烩 | gemma-3-12b-it |
 | 10 | `airouter.org` | ¥0.34 | $0.34 / $0.68 | 1 | svip | gemma-3-12b-it |
@@ -36,4 +36,4 @@
 | 2 | `or.mux.la` | $0.05 / $0.15 | default | 1 | google/gemma-3-12b-it |
 | 3 | `officesai.top` | $0.075 / $0.225 | 基础普及通道 | 0.15 | google/gemma-3-12b-it |
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

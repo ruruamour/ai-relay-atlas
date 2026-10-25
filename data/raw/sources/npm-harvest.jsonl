@@ -1,0 +1,1215 @@
+{"domain": "0.x，", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "01-panel.png", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "02-group.png", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "2026-09-04-sub2api-provider-sync.zh.md", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "2026-09-30-sub2api-sync-client-ui.zh.md", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "20260902-093806-771-gpt-image-2.png", "source": "npm", "source_files": ["npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "2api.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "5.x、qwen", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "66a177ed-8dbb-4e4b-a9e2-d7b2311e62b6.png", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "9router-config.json", "source": "npm", "source_files": ["npm:@arhen/pi-add-9router@1.0.2 [keywords:openai-proxy]", "npm:@bacnh85/pi-9router@0.1.8 [keywords:openai-proxy]", "npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]", "npm:pi-9router-ext@0.2.4 [keywords:openai-proxy]"]}
+{"domain": "9router-config.json.migrated", "source": "npm", "source_files": ["npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]"]}
+{"domain": "9router-model-metadata.json", "source": "npm", "source_files": ["npm:pi-9router-ext@0.2.4 [keywords:openai-proxy]"]}
+{"domain": "a3m.router", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "aarch64.dmg", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "abortsignal.timeout", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "ac.signal", "source": "npm", "source_files": ["npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "acme-corp.de", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "actions-influencer.md", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "admin.md", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "advanced-options.ts", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "agent.cordis.yml", "source": "npm", "source_files": ["npm:dsh-tokenledger@0.1.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "agentdefaultmodel.currentselection", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "agentpay-mcp.mjs", "source": "npm", "source_files": ["npm:@agentpayxyz/mcp-server@0.2.1 [keywords:openai-proxy]"]}
+{"domain": "agents.md", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@omnimux/cli@0.5.1 [keywords:new-api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "agentskills.io", "source": "npm", "source_files": ["npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "aggression-comparison.md", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "ai-gateway.yqcx.faw.cn", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "ai-work.yqcx.faw.cn", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "ai.answerquestion", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.chat", "source": "npm", "source_files": ["npm:ai-apis@1.0.0 [keywords:ai-api]", "npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.chatstream", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.classifysentiment", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.claudeopus", "source": "npm", "source_files": ["npm:ai-apis@1.0.0 [keywords:ai-api]"]}
+{"domain": "ai.customprompt", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.detectlanguage", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.extractkeywords", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.fixgrammar", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.iivo.net", "source": "npm", "source_files": ["npm:iivo-cc@0.2.1 [keywords:new-api]"]}
+{"domain": "ai.ltcraft.cn", "source": "npm", "source_files": ["npm:@herohero96/newapi-cli@0.8.0 [keywords:ai-relay|keywords:new-api]"]}
+{"domain": "ai.onerror", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.onrequest", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.onresponse", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.rewrite", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.summarize", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.summarizetobullets", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ai.tavonilo.com", "source": "npm", "source_files": ["npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "ai.translate", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "aiclient.fromenv", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "aider.chat", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "aider.conf.yml", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "aimy.sheep1x.top", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "ainonymous-8100.token", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "ainonymous-session.db", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "ainonymous.yml", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "aionui-runtime-release-contract.json", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "aiprobe.top", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "amounts.limit", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]"]}
+{"domain": "annabest-ticket-ai-0.1.1.tgz", "source": "npm", "source_files": ["npm:@annabest/ticket-ai@0.1.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "anthropic-adapter.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "api-staging.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "api.agentpay.so", "source": "npm", "source_files": ["npm:@agentpayxyz/mcp-server@0.2.1 [keywords:openai-proxy]"]}
+{"domain": "api.alpha-corp.internal", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "api.apiclaw.cloud", "source": "npm", "source_files": ["npm:@iflow-mcp/nordsym-apiclaw@1.8.7 [keywords:ai-api]", "npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]"]}
+{"domain": "api.apiz.ai", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "api.asom.internal", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "api.cline.bot", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "api.commandcode.ai", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "api.cyai.pro", "source": "npm", "source_files": ["npm:cyaipro@1.0.5 [keywords:api-relay]"]}
+{"domain": "api.deepseek.com", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "api.groq.com", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "api.holysheep.cn", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "api.jmds.dev", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "api.js", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "api.kie.ai", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "api.kimi.ai", "source": "npm", "source_files": ["npm:dsh-usage-state@0.4.10 [\"sub2api\"]"]}
+{"domain": "api.kimi.com", "source": "npm", "source_files": ["npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-usage-state@0.4.10 [\"sub2api\"]"]}
+{"domain": "api.lockllm.com", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "api.minimax.io", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "api.minimaxi.com", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "api.newapi.ai", "source": "npm", "source_files": ["npm:dsh-gateway-provider@1.1.2 [keywords:new-api]"]}
+{"domain": "api.nexusshield.ai", "source": "npm", "source_files": ["npm:@baturhantasdelen/nexus-shield@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "api.novaqore.ai", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "api.novita.ai", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "api.pordl.dev", "source": "npm", "source_files": ["npm:@plagtech/pordl@1.0.1 [keywords:openai-proxy]"]}
+{"domain": "api.quota.cheap", "source": "npm", "source_files": ["npm:llm-gateway-benchmark@0.1.0 [keywords:ai-api]"]}
+{"domain": "api.siliconflow", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "api.star-history.com", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "api.stepfun.com", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "api.together.xyz", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "api.tokenlab.sh", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "api.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "api.weather.com", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "api.xiaoyaoapi.cc", "source": "npm", "source_files": ["npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]"]}
+{"domain": "api.xxx.com", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "api.your-ai-provider.example", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "api.z.ai", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "apiclaw.cloud", "source": "npm", "source_files": ["npm:@iflow-mcp/nordsym-apiclaw@1.8.7 [keywords:ai-api]", "npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]"]}
+{"domain": "apiclaw.toml", "source": "npm", "source_files": ["npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]"]}
+{"domain": "apiz.ai", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "api节点设置.md", "source": "npm", "source_files": ["npm:llmaxapi@1.1.18 [keywords:api-relay]", "npm:maxai@1.0.17 [keywords:api-relay]", "npm:openclawapi@1.3.72 [keywords:api-relay]", "npm:yymaxapi@1.0.126 [keywords:api-relay]"]}
+{"domain": "app.kilo.ai", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "app.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "app.ts", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "app.tsx", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "ark.cn-beijing.volces.com", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "art30-gdpr-template.md", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "asom.de", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "asom.internal", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "assembly.variables", "source": "npm", "source_files": ["npm:dsh-auto-image@0.1.4 [\"sub2api\"]"]}
+{"domain": "assistant.usage", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "assistantmessage.usage", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "atools-compat-proxy.log", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "auth-profiles.json", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "auth.accesstoken", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "auth.example", "source": "npm", "source_files": ["npm:@jingoz/sub-cli@0.0.4 [keywords:sub2api]"]}
+{"domain": "auth.json", "source": "npm", "source_files": ["npm:@annabest/ticket-ai@0.1.1 [\"sub2api\"|keywords:sub2api]", "npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]", "npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:codexgo@0.1.7 [\"sub2api\"|keywords:sub2api]", "npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]", "npm:iivo-cc@0.2.1 [keywords:new-api]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-usage@0.4.0 [\"sub2api\"]", "npm:pi-sub2api@0.2.4 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "auth.loader", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "auth.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "auth.usage", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "auth.userid", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "authcontext.tsx", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "authmiddleware.ts", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "authroutes.ts", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "awesome-dsh-plugin.com", "source": "npm", "source_files": ["npm:dsh-usage-state@0.4.10 [\"sub2api\"]"]}
+{"domain": "azure.chat.completions.create", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "b.com", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "badge.fury.io", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "banner.png", "source": "npm", "source_files": ["npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "banner.webp", "source": "npm", "source_files": ["npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]"]}
+{"domain": "baodan.run", "source": "npm", "source_files": ["npm:aixx-mcp@1.0.4 [keywords:one-api]"]}
+{"domain": "base.id", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "baselines.json", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "behavior.aggression", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "behavior.compliance", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "behavior.dashboard", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "behavior.mgmt", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "behavior.oauth", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "behavior.streaming.eager", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "benchmarks.md", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "bin.js", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "biomejs.dev", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]"]}
+{"domain": "blue-circle-1.png", "source": "npm", "source_files": ["npm:image2-mcp@0.1.0 [keywords:new-api]"]}
+{"domain": "blue-circle-2.png", "source": "npm", "source_files": ["npm:image2-mcp@0.1.0 [keywords:new-api]"]}
+{"domain": "blue-circle-3.png", "source": "npm", "source_files": ["npm:image2-mcp@0.1.0 [keywords:new-api]"]}
+{"domain": "blue-circle.png", "source": "npm", "source_files": ["npm:image2-mcp@0.1.0 [keywords:new-api]"]}
+{"domain": "body.apikey", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "body.balance", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "body.json", "source": "npm", "source_files": ["npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "body.unit", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "bonsai.js", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "bootstrap-install.ps", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "brand.ts", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "budget-manager.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "buffer.from", "source": "npm", "source_files": ["npm:@posteering/one-api-signing@1.0.0 [keywords:one-api]"]}
+{"domain": "build.mjs", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "build.nvidia.com", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "bun.exe", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "business.db", "source": "npm", "source_files": ["npm:@1api/cli@0.1.0 [keywords:one-api]"]}
+{"domain": "c.choices", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "cache.json", "source": "npm", "source_files": ["npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "caddy-stable-archive-keyring.gpg", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "caddy-stable.list", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "call.function.arguments", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "call.function.name", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "capabilities.js", "source": "npm", "source_files": ["npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "capabilities.vision", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "cat.png", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "catalog-provider-page.schema.json", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "catalog-source.json", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "catalog-source.schema.json", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "ccswitch-balance.json", "source": "npm", "source_files": ["npm:pi-ccswitch-balance@1.2.3 [\"sub2api\"]"]}
+{"domain": "cdn.jsdelivr.net", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "cdn.nexa-api.com", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "chain.so", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "changelog.md", "source": "npm", "source_files": ["npm:@bacnh85/pi-9router@0.1.8 [keywords:openai-proxy]", "npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@nxuss/lemma@1.40.0 [keywords:openai-proxy]", "npm:@omnimux/cli@0.5.1 [keywords:new-api]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]", "npm:dsh-usage-state@0.4.10 [\"sub2api\"]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "channels.png", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "chat.completion.chunk", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:pi-sub2api@0.2.4 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "chat.novaqore.ai", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "chat.params", "source": "npm", "source_files": ["npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "chatday.ai", "source": "npm", "source_files": ["npm:ai-apis@1.0.0 [keywords:ai-api]"]}
+{"domain": "check-balance.mjs", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "check.mjs", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "checkpoints.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "cherrystudio-demo.png", "source": "npm", "source_files": ["npm:ccgw@1.0.0 [keywords:openai-proxy]"]}
+{"domain": "chronicle-doctor-setup.test.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "chunk.choices", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:crazyrouter@1.0.1 [keywords:one-api]", "npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "chunk.content", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "chunk.done", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "ci.yml", "source": "npm", "source_files": ["npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "claude-settings.json", "source": "npm", "source_files": ["npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]"]}
+{"domain": "claude.ai", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "claude.json", "source": "npm", "source_files": ["npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "claude.md", "source": "npm", "source_files": ["npm:@herohero96/newapi-cli@0.8.0 [keywords:ai-relay|keywords:new-api]"]}
+{"domain": "cli.js", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "client-bundle.test.ts", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "client.ai.anynewapi", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.chat", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.newapi", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.newendpointname", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.piiredaction", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.sentimentanalysis", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.textsummarize", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.ticketanalyze", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.ai.translation", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.audio.music", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.audio.speech", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.audio.tts", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.call", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.chat.completions.create", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@plagtech/pordl@1.0.1 [keywords:openai-proxy]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:crazyrouter@1.0.1 [keywords:one-api]", "npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:llm-guardian@1.6.26 [keywords:openai-proxy]", "npm:nearcall@0.1.0 [keywords:openai-proxy]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "client.chatbots.sendmessage", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.create", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]"]}
+{"domain": "client.createcompletion", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "client.generate", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "client.get", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]"]}
+{"domain": "client.getjob", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.images.generate", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "client.images.retrieve", "source": "npm", "source_files": ["npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "client.images.upscale", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.images.waitforcompletion", "source": "npm", "source_files": ["npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "client.js", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]", "npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "client.js（浏览器包裹产物）", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "client.knowledgebases.ask", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.knowledgebases.create", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.knowledgebases.createdocument", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.knowledgebases.get", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.list", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]"]}
+{"domain": "client.messages.create", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "client.models.list", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.movies.getmoviebyid", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "client.movies.getmoviequote", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "client.movies.getmovies", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "client.on", "source": "npm", "source_files": ["npm:fetch-stream-reader@1.0.7 [keywords:ai-api]"]}
+{"domain": "client.request", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.scan", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "client.start", "source": "npm", "source_files": ["npm:fetch-stream-reader@1.0.7 [keywords:ai-api]"]}
+{"domain": "client.tables", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]"]}
+{"domain": "client.tasks.create", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "client.tasks.waitfor", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "client.test.mjs", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "client.test.ts", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "client.videos.generate", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "client.waitforjob", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "cloud.cerebras.ai", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "cn.api.nexarelay.com", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "cn.md", "source": "npm", "source_files": ["npm:pi-minimal-statusbar@0.1.6 [\"sub2api\"]", "npm:pi-openai-api-models-sync@0.3.3 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "co.yes.vg", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]"]}
+{"domain": "code.sensitive", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "codecov.io", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "codex-bootstrap.mjs", "source": "npm", "source_files": ["npm:@k187/codex-bootstrap-cli@0.1.6 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "command.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "commandcode.ai", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "commands.test.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "commands.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "compat.forceadaptivethinking", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]", "npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "compat.supportsreasoningeffort", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]", "npm:@mx_/pi-custom-provider@0.5.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "completed.result", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "completion.choices", "source": "npm", "source_files": ["npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "component-states.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "conduct.md", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "config.development", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "config.development.model", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "config.development.provider", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "config.effort", "source": "npm", "source_files": ["npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "config.get", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "config.js", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "config.json", "source": "npm", "source_files": ["npm:@agentpayxyz/mcp-server@0.2.1 [keywords:openai-proxy]", "npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]", "npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]", "npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@felores/kie-ai-mcp-server@5.2.0 [keywords:ai-api]", "npm:@herohero96/newapi-cli@0.8.0 [keywords:ai-relay|keywords:new-api]", "npm:@kie-ai-tool/mcp@0.1.0 [keywords:ai-api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@omnimux/cli@0.5.1 [keywords:new-api]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:image2-mcp@0.1.0 [keywords:new-api]", "npm:new-api-ccstatusline@0.3.3 [keywords:new-api]", "npm:prism-context-imagegen@0.2.0 [\"sub2api\"]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "config.json）", "source": "npm", "source_files": ["npm:@1api/cli@0.1.0 [keywords:one-api]"]}
+{"domain": "config.js）", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "config.mjs", "source": "npm", "source_files": ["npm:nearcall@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "config.model", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "config.production", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "config.provider", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "config.providers", "source": "npm", "source_files": ["npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "config.toml", "source": "npm", "source_files": ["npm:@annabest/ticket-ai@0.1.1 [\"sub2api\"|keywords:sub2api]", "npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@k187/codex-bootstrap-cli@0.1.6 [\"sub2api\"|keywords:sub2api]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:amazingzz@0.2.4 [\"sub2api\"|keywords:sub2api]", "npm:codexgo@0.1.7 [\"sub2api\"|keywords:sub2api]", "npm:iivo-cc@0.2.1 [keywords:new-api]", "npm:image2-tool@0.3.2 [\"sub2api\"]", "npm:prism-context-imagegen@0.2.0 [\"sub2api\"]"]}
+{"domain": "config.toml，不再依赖环境变量，修复", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "config.ts", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:pi-relay-switch@0.1.1 [keywords:api-relay]"]}
+{"domain": "config.yaml", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:amazingzz@0.2.4 [\"sub2api\"|keywords:sub2api]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "config.yml", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "configs.analysis", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "configs.balanced", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "configs.cheap", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "configs.md", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "configs.premium", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "configuration.md", "source": "npm", "source_files": ["npm:openclaw-claude-proxy@1.0.8 [keywords:claude-proxy]"]}
+{"domain": "console.error", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]", "npm:goldbean-api@1.0.0 [keywords:ai-api]", "npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "console.groq.com", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "console.log", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]", "npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]", "npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:@plagtech/pordl@1.0.1 [keywords:openai-proxy]", "npm:ai-apis@1.0.0 [keywords:ai-api]", "npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]", "npm:ai-switcher@0.1.0 [keywords:ai-api]", "npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:aiqid@1.0.1 [keywords:ai-api]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:fetch-stream-reader@1.0.7 [keywords:ai-api]", "npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:goldbean-api@1.0.0 [keywords:ai-api]", "npm:llm-guardian@1.6.26 [keywords:openai-proxy]", "npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "console.mistral.ai", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "content.md", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "context-pack.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "continue.dev", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "contract.md", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "contract.test.js", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "contributing.md", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "controller.abort", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "controller.signal", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "conversation.session.header.utilities", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "cordis.patch.yml", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-gateway-provider@1.1.2 [keywords:new-api]", "npm:dsh-geek2api@0.1.4 [keywords:sub2api]", "npm:dsh-grok@1.0.0 [keywords:openai-proxy]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "cordis.yml", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "corrected.corrected", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "cost.total", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "crane.png", "source": "npm", "source_files": ["npm:opencode2-gpt-image@1.0.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "crazyrouter.com", "source": "npm", "source_files": ["npm:crazyrouter@1.0.1 [keywords:one-api]"]}
+{"domain": "credentials.api", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "credentials.json", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "credentials.plan", "source": "npm", "source_files": ["npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "credentials.set", "source": "npm", "source_files": ["npm:dsh-import-newapi@0.1.3 [keywords:new-api]"]}
+{"domain": "credentials.yaml", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:dsh-gateway-provider@1.1.2 [keywords:new-api]", "npm:dsh-geek2api@0.1.4 [keywords:sub2api]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]", "npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "credentials.yml", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "credits.currency", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "credits.monthlycredits", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "crs-compose.sh", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "ctx.agentdefaultmodel.currentselection", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "ctx.configforms.whileserved", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.connection.fetch.register", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.credentials", "source": "npm", "source_files": ["npm:@mackwan84/dsh-image-openai-compat@0.3.0 [keywords:new-api|keywords:one-api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "ctx.credentials.resolve", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "ctx.credentials.set", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "ctx.deepseekaccount.getbalance", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "ctx.get", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "ctx.hasui", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "ctx.llm", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "ctx.llm.listproviders", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.llm.stream", "source": "npm", "source_files": ["npm:dsh-auto-image@0.1.4 [\"sub2api\"]"]}
+{"domain": "ctx.plugin", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "ctx.profilecontext.patchpath", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.remote", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.remote.credentials", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.remote.settings.describe", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.remote.settings.mutate", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "ctx.settings", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "ctx.settings.update", "source": "npm", "source_files": ["npm:dsh-auto-image@0.1.4 [\"sub2api\"]"]}
+{"domain": "ctx.ui.setstatus", "source": "npm", "source_files": ["npm:@mr_qiu_2026/pi-new-api-balance@0.2.0 [keywords:new-api]", "npm:pi-minimal-statusbar@0.1.6 [\"sub2api\"]", "npm:pi-sub2api-usage@0.4.0 [\"sub2api\"]"]}
+{"domain": "ctx.webserver.register", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "currentconfig.model", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "currentconfig.provider", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "cursor.sh", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "custom-filter.mjs", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "custom-provider.ts", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]"]}
+{"domain": "custom-server.js", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "custom.lockllm.com", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "custom.md", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "d.com", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "d.ts", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]", "npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "daily.csv", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "dashboard.cohere.com", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "data.affiliate", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "data.json", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "data.planid", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "data.quota", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "data.result", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "data.totalbalance", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "database.md", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "date.now", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "deb.nodesource.com", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "deduction-animation.png", "source": "npm", "source_files": ["npm:pi-newapi-balance@1.0.1 [keywords:new-api]"]}
+{"domain": "deepseek.com", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "deepseekaccount.getstate", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "defaults.endpoint", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "delivery.mode", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "delivery.task", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "delivery.terminal", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "delta.content", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "demo.pincc.ai", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "demo.png", "source": "npm", "source_files": ["npm:cc-third-party-usage@1.1.6 [keywords:ai-api]"]}
+{"domain": "deploy.yml", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "design-system.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "design.md", "source": "npm", "source_files": ["npm:dsh-model@0.23.3 [keywords:openai-proxy]"]}
+{"domain": "detail.error", "source": "npm", "source_files": ["npm:fetch-stream-reader@1.0.7 [keywords:ai-api]"]}
+{"domain": "details.abuse", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "details.confidence", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "details.entity", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "details.results", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "detect.ts", "source": "npm", "source_files": ["npm:pi-relay-switch@0.1.1 [keywords:api-relay]"]}
+{"domain": "detection.language", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "dev.db", "source": "npm", "source_files": ["npm:auragate@0.2.2 [keywords:openai-proxy]"]}
+{"domain": "dev.md", "source": "npm", "source_files": ["npm:pi-sub2api-gateway@0.1.0 [\"sub2api\"|keywords:sub2api]", "npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "development.zh-cn.md", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "direct-provider-catalog.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "discord.gg", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "discover.png", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "discovery-listings.md", "source": "npm", "source_files": ["npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]"]}
+{"domain": "discovery.ts", "source": "npm", "source_files": ["npm:dsh-oauth-newapi@0.2.0 [keywords:new-api]"]}
+{"domain": "display.currentsessionpill", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "dl.cloudsmith.io", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "docker-compose.yml", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@yibi/newapi-sub2api-stack@0.1.0 [\"sub2api\"]", "npm:newapi-sub2api-stack@0.1.0 [\"sub2api\"]"]}
+{"domain": "docker.md", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "doctor.js", "source": "npm", "source_files": ["npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "domain.tld", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "dpa-template.md", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "dsh-aimy.md", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "dsh-auto-image-0.1.3.tgz", "source": "npm", "source_files": ["npm:dsh-auto-image@0.1.4 [\"sub2api\"]"]}
+{"domain": "dsh-export.js", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "dsh-geek2api-mascot.png", "source": "npm", "source_files": ["npm:dsh-geek2api@0.1.4 [keywords:sub2api]"]}
+{"domain": "dsh-import.js", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "dsh.bundle.patch", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "dsh.client", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "dsh.client.platform", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "dsh.d.ts", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "dsh.profile.bundles", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "e.code", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]"]}
+{"domain": "e.kind", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "e.model", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "e.provider", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "e.ratio", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "e.retryafterms", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "e.scope", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "e.status", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "e.usage.costusd", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "e2e.mjs", "source": "npm", "source_files": ["npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "e2e.sh", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "edge-worker.ts", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "editor.png", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "en.json", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "en.md", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "endpoints.md", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "engine.data.list", "source": "npm", "source_files": ["npm:@1api/engine@0.1.0 [keywords:one-api]"]}
+{"domain": "engines.dsh", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "engines.node", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "entry.contextwindow", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "entry.input", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "env.example", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "env.security.example", "source": "npm", "source_files": ["npm:@nxuss/lemma@1.40.0 [keywords:openai-proxy]"]}
+{"domain": "env.sh", "source": "npm", "source_files": ["npm:iivo-cc@0.2.1 [keywords:new-api]"]}
+{"domain": "env.sub", "source": "npm", "source_files": ["npm:pi-sub2api@0.2.4 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "err.code", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "err.message", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "err.message.includes", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "err.name", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "err.provider", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "err.statuscode", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "error.abuse", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "error.availablecredits", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.code", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@mackwan84/dsh-image-openai-compat@0.3.0 [keywords:new-api|keywords:one-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.current", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "error.errors", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.estimated", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "error.jobid", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.laststatus", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.message", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]", "npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "error.pii", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "error.provider", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "error.requestid", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.requiredcredits", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.retries", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "error.retryafter", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.scanresult", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "error.scanresult.injection", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "error.status", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "error.statuscode", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "error.violated", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "estimate.js", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "execution-safety.test.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "export.json", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "extension.ts", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "facet.finddatatech.cloud", "source": "npm", "source_files": ["npm:@finddatatechnology/facet@0.2.1 [\"sub2api\"]"]}
+{"domain": "fal.ai", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "fastrouter.cloud", "source": "npm", "source_files": ["npm:prism-context-imagegen@0.2.0 [\"sub2api\"]"]}
+{"domain": "file-picker.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "filters.custom", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "findings.md", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "fingerprints.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "fleet-runner.test.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "fleet-runner.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "fleet.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "fly.io", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "folding-engine.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "folding-magic.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "forms.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "freellm.fromenv", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "fs.openasblob", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "fs.writefilesync", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "future-city-4k.png", "source": "npm", "source_files": ["npm:image2-mcp@0.1.0 [keywords:new-api]"]}
+{"domain": "gate-record-pass.sh", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "gateway.gpg", "source": "npm", "source_files": ["npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "gateway.local", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "gateway.port", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "gateways-login.json", "source": "npm", "source_files": ["npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "gb.keywords", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "gb.ocr", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "gb.search", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "gb.translate", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "gb.tts", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "gemini-adapter.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "geminix.cc", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "gen-tool-counts.mjs", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "generate.mjs", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "generativelanguage.googleapis.com", "source": "npm", "source_files": ["npm:@mx_/pi-custom-provider@0.5.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "getcheapai.com", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]"]}
+{"domain": "gh-token.tmp", "source": "npm", "source_files": ["npm:codesome-cli@0.5.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "ghcr.io", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "global.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "globalthis.crypto", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "go.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "goals.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "goldbean-api.xyz", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "goldbean.register", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "go、z.ai", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "gradlew.bat", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "groq.chat.completions.create", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "groups.read", "source": "npm", "source_files": ["npm:dsh-oauth-newapi@0.2.0 [keywords:new-api]"]}
+{"domain": "guard.getusage", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "guard.guardedfetch", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "guard.reset", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "guard.run", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "guardian.md", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "guide.md", "source": "npm", "source_files": ["npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "headers.authorization", "source": "npm", "source_files": ["npm:@mx_/pi-custom-provider@0.5.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "hello.mp", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "hk.geek2api.com", "source": "npm", "source_files": ["npm:dsh-geek2api@0.1.4 [keywords:sub2api]"]}
+{"domain": "holysheep.cmd", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "holysheep.cn", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "holysheep.ps", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "holysheepauthservice.ts", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "hooks.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "host.test.mjs", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "hs.cmd", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "hs.ps", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "https.request", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "huggingface.co", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "icon-180.png", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "icon.svg", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "identity.company", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "identity.people", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "ignore-support-tickets.mjs", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "image-api.key", "source": "npm", "source_files": ["npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "image.jpg", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "image.url", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "image2-tool-0.3.2.tgz", "source": "npm", "source_files": ["npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "image2-tool.bak", "source": "npm", "source_files": ["npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "img.shields.io", "source": "npm", "source_files": ["npm:@arhen/pi-add-9router@1.0.2 [keywords:openai-proxy]", "npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]", "npm:@herohero96/newapi-cli@0.8.0 [keywords:ai-relay|keywords:new-api]", "npm:@iflow-mcp/nordsym-apiclaw@1.8.7 [keywords:ai-api]", "npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]", "npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:@nxuss/lemma@1.40.0 [keywords:openai-proxy]", "npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]", "npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]", "npm:crazyrouter@1.0.1 [keywords:one-api]", "npm:dsh-model@0.23.3 [keywords:openai-proxy]", "npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]", "npm:dsh-tokenledger@0.1.0 [\"sub2api\"|keywords:sub2api]", "npm:dsh-usage-state@0.4.10 [\"sub2api\"]", "npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:koishi-plugin-sub2api-admin-lgs@0.0.8 [\"sub2api\"]", "npm:koishi-plugin-sub2api-admin@0.0.6 [\"sub2api\"]", "npm:llm-guardian@1.6.26 [keywords:openai-proxy]", "npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:nearcall@0.1.0 [keywords:openai-proxy]", "npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]", "npm:pi-9router-ext@0.2.4 [keywords:openai-proxy]", "npm:pi-minimal-statusbar@0.1.6 [\"sub2api\"]", "npm:pi-sub2api-gateway@0.1.0 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]", "npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]", "npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]", "npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]", "npm:tiny-ai-api@1.2.0 [keywords:ai-api]", "npm:token-shredder@1.0.0 [keywords:openai-proxy]", "npm:zelapi@0.0.4 [keywords:ai-api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "import-dsh-providers.mjs", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "index.cjs", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "index.d.mts", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "index.d.ts", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "index.html", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "index.js", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]", "npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:amazingzz@0.2.4 [\"sub2api\"|keywords:sub2api]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]", "npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]", "npm:image2-mcp@0.1.0 [keywords:new-api]", "npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]", "npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "index.json", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "index.js（宿主", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "index.mjs", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "index.ts", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]", "npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:llm-guardian@1.6.26 [keywords:openai-proxy]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:pi-9router-ext@0.2.4 [keywords:openai-proxy]", "npm:pi-newapi-balance@1.0.1 [keywords:new-api]", "npm:pi-openai-api-models-sync@0.3.3 [\"sub2api\"|keywords:sub2api]", "npm:pi-relay-switch@0.1.1 [keywords:api-relay]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-usage@0.4.0 [\"sub2api\"]"]}
+{"domain": "index.tsx", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "init.json", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "input.messages.length", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "install.bat", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "install.mjs", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "install.ps", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "install.sh", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "intelligence.md", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "introduction.md", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "item.done", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "items.cols", "source": "npm", "source_files": ["npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "items.rows", "source": "npm", "source_files": ["npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "jinguobyte-proxy.log", "source": "npm", "source_files": ["npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "jinguobyte-proxy.mjs", "source": "npm", "source_files": ["npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "job.result", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "job.status", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "jobs.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "json.parse", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "json.stringify", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]", "npm:@posteering/one-api-signing@1.0.0 [keywords:one-api]", "npm:rsflowhub@1.0.0 [keywords:ai-api]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "jsonl.hmac", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "kb.get", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "keys.json", "source": "npm", "source_files": ["npm:dsh-geek2api@0.1.4 [keywords:sub2api]"]}
+{"domain": "keywords.keywords", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "kie.ai", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]", "npm:@felores/kie-ai-mcp-server@5.2.0 [keywords:ai-api]", "npm:@kie-ai-tool/mcp@0.1.0 [keywords:ai-api]"]}
+{"domain": "ko-fi.com", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "kodelyth.com", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "krouter.kodelyth.com", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "kwresult.items", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "labels.display", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "labels.tags，桥接内存过滤分页", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "last-model.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "layout.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "lemma.config.json", "source": "npm", "source_files": ["npm:@nxuss/lemma@1.40.0 [keywords:openai-proxy]"]}
+{"domain": "lemma.nxus.studio", "source": "npm", "source_files": ["npm:@nxuss/lemma@1.40.0 [keywords:openai-proxy]"]}
+{"domain": "license.md", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "limit.context", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "limit.output", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "limits.context", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "limits.output", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "linux.do", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "llama.cpp", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]", "npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:llm-guardian@1.6.26 [keywords:openai-proxy]", "npm:nearcall@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "llm-deepseek.models", "source": "npm", "source_files": ["npm:dsh-auto-image@0.1.4 [\"sub2api\"]"]}
+{"domain": "llm-gateway-benchmark.mjs", "source": "npm", "source_files": ["npm:llm-gateway-benchmark@0.1.0 [keywords:ai-api]"]}
+{"domain": "llm-pi-ai.providers", "source": "npm", "source_files": ["npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]", "npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "llm.chat", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "llm.health", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "llm.listconfigurableproviders", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "llm.resetkeys", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "llm.stream", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "llm.streamchunks", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "llm.text", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "llmgates-2api.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "llmgates-model-pricing.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "llmgates.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "llms-install.md", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "lobehub.com", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "lockllm.com", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "lockllm.scan", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "logging.ts", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "logo.jpg", "source": "npm", "source_files": ["npm:auragate@0.2.2 [keywords:openai-proxy]"]}
+{"domain": "logo.png", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "logo.svg", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "logtooauthservice.normalizeredirect", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "long-document.txt", "source": "npm", "source_files": ["npm:nearcall@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "m.agent", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "m.cache", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "m.input", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "m.model", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "m.session", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "macos-setup.md", "source": "npm", "source_files": ["npm:openclaw-claude-proxy@1.0.8 [keywords:claude-proxy]"]}
+{"domain": "magpie.json", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "manage.sh", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "maolao-balance.json", "source": "npm", "source_files": ["npm:pi-newapi-balance@1.0.1 [keywords:new-api]"]}
+{"domain": "market.json", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "marketplace.json", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "mcdropout.ts", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "mcp-agents-skills-checkpoints.test.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "mcp-handshake.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "mcp-overlay.json", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "mcp.config.json", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "mcp.finddatatech.cloud", "source": "npm", "source_files": ["npm:@finddatatechnology/facet@0.2.1 [\"sub2api\"]"]}
+{"domain": "mcp.json", "source": "npm", "source_files": ["npm:@kie-ai-tool/mcp@0.1.0 [keywords:ai-api]", "npm:aixx-mcp@1.0.4 [keywords:one-api]", "npm:image2-tool@0.3.2 [\"sub2api\"]", "npm:oidc-remote@0.1.0-rc3 [keywords:openai-proxy]", "npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "mcp.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "meme.jpg", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "memos.db", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "message.content", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:@plagtech/pordl@1.0.1 [keywords:openai-proxy]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "meta.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "metadata.cache", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "metadata.compression", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "metadata.display", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "metadata.json", "source": "npm", "source_files": ["npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "metadata.pii", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "metadata.routing", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "metadata.safe", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "metadata.scan", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "metadata.user", "source": "npm", "source_files": ["npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "micusubcodeline.exe", "source": "npm", "source_files": ["npm:@zuolan/micusubcodeline@2.1.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "mjshao.fun", "source": "npm", "source_files": ["npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "modalities.input", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "model-audit-equivalents.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "model-picker.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "model-pricing.ts", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "model-proxy-log.jsonl", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "model-proxy.json", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "model.id", "source": "npm", "source_files": ["npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]"]}
+{"domain": "model.md", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "modelregistry.getapikeyandheaders", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "models-dev.json", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "models-dev.snapshot.json", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "models-store.json", "source": "npm", "source_files": ["npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]", "npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "models.dev", "source": "npm", "source_files": ["npm:@arhen/pi-add-9router@1.0.2 [keywords:openai-proxy]", "npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]", "npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:dsh-gateway-provider@1.1.2 [keywords:new-api]", "npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-9router-ext@0.2.4 [keywords:openai-proxy]"]}
+{"domain": "models.dev（上下文窗口、输出上限、多模态、推理），可按模型校正，并支持为单个模型设置上游映射名。", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "models.dev（走宿主的代理环境）。", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "models.json", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@mr_qiu_2026/pi-new-api-balance@0.2.0 [keywords:new-api]", "npm:@mx_/pi-custom-provider@0.5.0 [keywords:new-api|keywords:one-api]", "npm:pi-ccswitch-balance@1.2.3 [\"sub2api\"]", "npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]", "npm:pi-openai-api-models-sync@0.3.3 [\"sub2api\"|keywords:sub2api]", "npm:pi-relay-switch@0.1.1 [keywords:api-relay]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-usage@0.4.0 [\"sub2api\"]"]}
+{"domain": "models.length", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "models.md", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "models.png", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "models.providers.amazingzz", "source": "npm", "source_files": ["npm:amazingzz@0.2.4 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "models.ts", "source": "npm", "source_files": ["npm:pi-relay-switch@0.1.1 [keywords:api-relay]"]}
+{"domain": "models.yml", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]"]}
+{"domain": "module.exports", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "monitors.openrouter", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "moonshot.ai", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "moonshot.cn", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "mtmharness-host.js", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "mtmharness.js", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "muryorouter.cc", "source": "npm", "source_files": ["npm:@jingoz/sub-cli@0.0.4 [keywords:sub2api]"]}
+{"domain": "music.url", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "nearcall.config.json", "source": "npm", "source_files": ["npm:nearcall@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "ner.ts", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "new-api-balance.json", "source": "npm", "source_files": ["npm:@mr_qiu_2026/pi-new-api-balance@0.2.0 [keywords:new-api]"]}
+{"domain": "new-api-ccstatusline.js", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "newapi-balance.json", "source": "npm", "source_files": ["npm:pi-newapi-balance@1.0.1 [keywords:new-api]"]}
+{"domain": "newapi-cc.js", "source": "npm", "source_files": ["npm:iivo-cc@0.2.1 [keywords:new-api]"]}
+{"domain": "newapi-give-and-take.exe", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "newapi-give-and-take.kexe", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "newapi.accesstoken", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "newapi.autotask.run", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "newapi.baseurl", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "newapi.json", "source": "npm", "source_files": ["npm:dsh-oauth-newapi@0.2.0 [keywords:new-api]"]}
+{"domain": "newapi.prorisehub.com", "source": "npm", "source_files": ["npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "nexa-api.com", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "next.js", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]", "npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "nexus.get", "source": "npm", "source_files": ["npm:@baturhantasdelen/nexus-shield@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "no-admin.test.js", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "node.exe", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "node.js", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@baturhantasdelen/nexus-shield@0.1.0 [keywords:openai-proxy]", "npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]", "npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]", "npm:@jingoz/sub-cli@0.0.4 [keywords:sub2api]", "npm:@kie-ai-tool/mcp@0.1.0 [keywords:ai-api]", "npm:@leo_aifirst/codesome-cli@0.1.2 [keywords:sub2api]", "npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:@yibi/newapi-sub2api-stack@0.1.0 [\"sub2api\"]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:ai-apis@1.0.0 [keywords:ai-api]", "npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:ccgw@1.0.0 [keywords:openai-proxy]", "npm:codexgo@0.1.7 [\"sub2api\"|keywords:sub2api]", "npm:crazyrouter@1.0.1 [keywords:one-api]", "npm:dsh-geek2api@0.1.4 [keywords:sub2api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]", "npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:image2-tool@0.3.2 [\"sub2api\"]", "npm:newapi-sub2api-stack@0.1.0 [\"sub2api\"]", "npm:nexaapi@1.0.0 [keywords:ai-api]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]", "npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]", "npm:prism-context-imagegen@0.2.0 [\"sub2api\"]", "npm:rsflowhub@1.0.0 [keywords:ai-api]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]", "npm:yesai-seedance-mcp@0.1.0 [keywords:sub2api]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "nodei.co", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "nodejs.org", "source": "npm", "source_files": ["npm:codexgo@0.1.7 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "nordsym.com", "source": "npm", "source_files": ["npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]"]}
+{"domain": "notice.md", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "novaqore.ai", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "npm-package.md", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "npm-publish-auth-link.mjs", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "npx.cmd", "source": "npm", "source_files": ["npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "nssm.cc", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "oauthcontroller.callback", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "ocrresult.words", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "og-image-4k.png", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "og-image.png", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "og-image.svg", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "ollama.com", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "omnimux-skill-meta.json", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "omnimux-windows-x64.exe", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "omnimux.ai", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "omp-index.ts", "source": "npm", "source_files": ["npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "omp.extensions", "source": "npm", "source_files": ["npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "omp.sh", "source": "npm", "source_files": ["npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "one.posteering.com", "source": "npm", "source_files": ["npm:@posteering/one-api-signing@1.0.0 [keywords:one-api]"]}
+{"domain": "onstart.sh", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]"]}
+{"domain": "open.bigmodel.cn", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "open.volcengineapi.com", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "openai-compatible-adapter.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "openclaw-atools-proxy.plist", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "openclaw-atools-proxy.service", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "openclaw-gateway.service", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "openclaw-integration.md", "source": "npm", "source_files": ["npm:openclaw-claude-proxy@1.0.8 [keywords:claude-proxy]"]}
+{"domain": "openclaw.ai", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "openclaw.json", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:amazingzz@0.2.4 [\"sub2api\"|keywords:sub2api]", "npm:iivo-cc@0.2.1 [keywords:new-api]"]}
+{"domain": "opencode-go.js", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "opencode-jinguobyte-adapter.js", "source": "npm", "source_files": ["npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "opencode.ai", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:@rurout/opencode-v1@0.2.2 [\"sub2api\"]", "npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:opencode-codex-bridge@0.1.0 [keywords:new-api]", "npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]", "npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]", "npm:opencode2-gpt-image@1.0.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "opencode.full-tools.json", "source": "npm", "source_files": ["npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "opencode.json", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]", "npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]", "npm:opencode2-gpt-image@1.0.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "opencode.jsonc", "source": "npm", "source_files": ["npm:opencode-sub2api-haiku-fix@1.0.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "openrouter-adapter.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "openrouter-catalog.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "openrouter.ai", "source": "npm", "source_files": ["npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]", "npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "operations.md", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "options.apikey", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "options.baseurl", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.maxtokens", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.model", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.persist", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "options.provider", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.schema", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.signal", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.stream", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.system", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.temperature", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "options.tools", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "orchestrator.optimize", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "orchestrator.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "origin.md", "source": "npm", "source_files": ["npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "os.tmpdir", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "outlook.com", "source": "npm", "source_files": ["npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "overlay-manager.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "p2p-worker.js", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "pack-all.mjs", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "package-lock.json", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "package.json", "source": "npm", "source_files": ["npm:@annabest/ticket-ai@0.1.1 [\"sub2api\"|keywords:sub2api]", "npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]", "npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:@omnimux/cli@0.5.1 [keywords:new-api]", "npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-gateway-provider@1.1.2 [keywords:new-api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]", "npm:newapi-sub2api-stack@0.1.0 [\"sub2api\"]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-9router-ext@0.2.4 [keywords:openai-proxy]", "npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]", "npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "package.json.mcpname", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "palette.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "panel.png", "source": "npm", "source_files": ["npm:dsh-tokenledger@0.1.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "passionapi.com", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "patch-pi-ai.mjs", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "patch.js", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "path.join", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "pi-bridge.js", "source": "npm", "source_files": ["npm:dsh-gateway-provider@1.1.2 [keywords:new-api]"]}
+{"domain": "pi-codex-search.json", "source": "npm", "source_files": ["npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "pi-newapi-balance.png", "source": "npm", "source_files": ["npm:pi-newapi-balance@1.0.1 [keywords:new-api]"]}
+{"domain": "pi-openai-api-models-sync.json", "source": "npm", "source_files": ["npm:pi-openai-api-models-sync@0.3.3 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "pi.dev", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]", "npm:pi-openai-api-models-sync@0.3.3 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-gateway@0.1.0 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api@0.2.4 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "pi.extensions", "source": "npm", "source_files": ["npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]", "npm:pi-sub2api-usage@0.4.0 [\"sub2api\"]"]}
+{"domain": "pi.registerprovider", "source": "npm", "source_files": ["npm:pi-openai-api-models-sync@0.3.3 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "pincc.ai", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "pipeline.anonymize", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "piqwy.mjs", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]"]}
+{"domain": "plugin-design.md", "source": "npm", "source_files": ["npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "plugins.bundle.config", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "plugins.item", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "plugins.json", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "pnpm-workspace.yaml", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "pordl.dev", "source": "npm", "source_files": ["npm:@plagtech/pordl@1.0.1 [keywords:openai-proxy]"]}
+{"domain": "posteering.com", "source": "npm", "source_files": ["npm:@posteering/one-api-signing@1.0.0 [keywords:one-api]"]}
+{"domain": "poster.png", "source": "npm", "source_files": ["npm:image2-mcp@0.1.0 [keywords:new-api]"]}
+{"domain": "ppp7.top", "source": "npm", "source_files": ["npm:@k187/codex-bootstrap-cli@0.1.6 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "pre-publish-gate.md", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "preset.json", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "pricing.js", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "pricing.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "privacy-shield.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "probe-capabilities.mjs", "source": "npm", "source_files": ["npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "probe-vision.mjs", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "probe.js", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "probe.mjs", "source": "npm", "source_files": ["npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "process.cwd", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "process.env", "source": "npm", "source_files": ["npm:dsh-auto-image@0.1.4 [\"sub2api\"]"]}
+{"domain": "process.env.ai", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "process.env.anthropic", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "process.env.api", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "process.env.apiz", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "process.env.base", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "process.env.gemini", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "process.env.groq", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "process.env.lockllm", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "process.env.nexa", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "process.env.node", "source": "npm", "source_files": ["npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "process.env.one", "source": "npm", "source_files": ["npm:@posteering/one-api-signing@1.0.0 [keywords:one-api]"]}
+{"domain": "process.env.openai", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]", "npm:ai-switcher@0.1.0 [keywords:ai-api]"]}
+{"domain": "process.env.rsflowhub", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "process.env.together", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "process.env.uncensored", "source": "npm", "source_files": ["npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "process.env.zelapi", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "process.stdout.write", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@novaqore/ai@3.2.1 [keywords:ai-api]", "npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]", "npm:aiclientjs@0.1.5 [keywords:ai-api]", "npm:crazyrouter@1.0.1 [keywords:one-api]", "npm:freelm@0.5.2 [keywords:openai-proxy]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "profile.js", "source": "npm", "source_files": ["npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "profilecontext.patchpath", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "profiles.json", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "program.rs", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "programs.cyber", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "promise.all", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "protocol.handle", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "protocol.svg", "source": "npm", "source_files": ["npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "provider-errors.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "provider-registry.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "provider-router.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "provider.defaultcontextwindow", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "provider.defaultinput", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "provider.models", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "providermount.api", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "providers.crs", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "providers.json", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "providers.my", "source": "npm", "source_files": ["npm:iivo-cc@0.2.1 [keywords:new-api]"]}
+{"domain": "providers.router.apikey", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "providers.sub", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "proxy.js", "source": "npm", "source_files": ["npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "proxy.kie.ai", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "pub-1b519f4eb67341ed829c56e6d84b11d2.r2.dev", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "public-contract.json", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "publish-npm.sh", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "publish.mjs", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]"]}
+{"domain": "publishconfig.registry", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "publishing.md", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "publishing.md）。", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "pypi.org", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "pyproject.toml", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "qr.png", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "quota-monitor-usage.jsonl", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "quota.remaining", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "quota.unit", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "quotausage.footerwindows", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]"]}
+{"domain": "r.choices", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "r.content", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "r.model", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "r.provider", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "r.result", "source": "npm", "source_files": ["npm:ai-apis@1.0.0 [keywords:ai-api]"]}
+{"domain": "r.text", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "r.title", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "r.url", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "rapidapi.com", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "rate-limiter.ts", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "raw-search.txt", "source": "npm", "source_files": ["npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "raw.balance", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "raw.limits.map", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "react.createelement", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "readme.en.md", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@mackwan84/dsh-image-openai-compat@0.3.0 [keywords:new-api|keywords:one-api]", "npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:dsh-auto-image@0.1.4 [\"sub2api\"]", "npm:dsh-geek2api@0.1.4 [keywords:sub2api]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:dsh-model@0.23.3 [keywords:openai-proxy]", "npm:dsh-usage-state@0.4.10 [\"sub2api\"]", "npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:pro-image-mcp@0.1.4 [keywords:new-api|keywords:one-api]", "npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "readme.md", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]", "npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]", "npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]", "npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@omnimux/cli@0.5.1 [keywords:new-api]", "npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:ccgw@1.0.0 [keywords:openai-proxy]", "npm:codesome-cli@0.5.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]", "npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]", "npm:llmaxapi@1.1.18 [keywords:api-relay]", "npm:maxai@1.0.17 [keywords:api-relay]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]", "npm:openclawapi@1.3.72 [keywords:api-relay]", "npm:pi-relay-switch@0.1.1 [keywords:api-relay]", "npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]", "npm:yymaxapi@1.0.126 [keywords:api-relay]"]}
+{"domain": "readme.zh-cn.md", "source": "npm", "source_files": ["npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "readme.zh.md", "source": "npm", "source_files": ["npm:dsh-gateway-provider@1.1.2 [keywords:new-api]"]}
+{"domain": "reasoning.effort", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "reasoning.encrypted", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api@0.2.4 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "recon.md", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "recording.wav", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "redis-adapter.md", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "reference.mp", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "refresh.enabled", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "refs.dsh", "source": "npm", "source_files": ["npm:dsh-model@0.23.3 [keywords:openai-proxy]"]}
+{"domain": "refund-policy.pdf", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "register.js", "source": "npm", "source_files": ["npm:dsh-plugin-sub2api@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "registry.get", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]"]}
+{"domain": "registry.npmmirror.com", "source": "npm", "source_files": ["npm:@nekoline/ccline@1.1.2-nekoline.3 [\"sub2api\"|keywords:sub2api]", "npm:image2-tool@0.3.2 [\"sub2api\"]"]}
+{"domain": "relay.ts", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "relays.json", "source": "npm", "source_files": ["npm:pi-relay-switch@0.1.1 [keywords:api-relay]"]}
+{"domain": "release-checklist.md", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "release-notes-v0.3.6.md", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "release-plan-v0.3.6.md", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "release.md", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "release.yml", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "releasing.zh-cn.md", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "remote.credentials", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "remote.settings", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "replicate.com", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "report.md", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]", "npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "request.json", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "request.path", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "res.data", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.data.colors", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "res.get", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.headers", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.json", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "res.meta", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.ratelimit", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.requestid", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.result", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.result.sentiment", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.status", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "res.text", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "res.toolresults", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "reset-password.js", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "response.body", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "response.choices", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@plagtech/pordl@1.0.1 [keywords:openai-proxy]", "npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:auragate@0.2.2 [keywords:openai-proxy]", "npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "response.completed", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "response.data.group", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "response.data.quota", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "response.data.used", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "response.headers", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "response.json", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "response.output", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "response.text", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "response.usage", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "result.answer", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.apikey", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "result.aspects.0.name", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "result.bullets", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.choices", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "result.confidence", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.content", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.corrected", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.cost", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "result.detectedsourcelanguage", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.foldedprompt", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "result.id", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "result.in", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "result.injection", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "result.keywords", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.language", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.metadata.compressionratio", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "result.model", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.mp", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "result.out", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "result.provider", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "result.replacements", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "result.request", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "result.result", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.rewritten", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.safe", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "result.score", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.sentiment", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.status", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "result.summary", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.text", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "result.tokensused", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "result.translated", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "route-entries.json", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "route.ts", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "router-profiles.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "router.apikey", "source": "npm", "source_files": ["npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]"]}
+{"domain": "router.baseurl", "source": "npm", "source_files": ["npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]"]}
+{"domain": "router.enablereasoning", "source": "npm", "source_files": ["npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]"]}
+{"domain": "router.json", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "router.mjs", "source": "npm", "source_files": ["npm:nearcall@0.1.0 [keywords:openai-proxy]"]}
+{"domain": "router.route", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "router.serve", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]"]}
+{"domain": "routes.ts", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "rpm.nodesource.com", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "rsflowhub.com", "source": "npm", "source_files": ["npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "rt.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "rules.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "run.mjs", "source": "npm", "source_files": ["npm:dsh-import-newapi@0.1.3 [keywords:new-api]"]}
+{"domain": "run.sh，默认", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "runtime-publish.json", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "rurout.online", "source": "npm", "source_files": ["npm:@rurout/opencode-v1@0.2.2 [\"sub2api\"]"]}
+{"domain": "s.id", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]", "npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "s.time", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "screenshot-1.png", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "screenshot-2.png", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "screenshot-3.png", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "screenshot-capabilities.zh.png", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "screenshot-connection.zh.png", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "screenshot-dashboard.zh.png", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "screenshot-keys.zh.png", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "screenshot-logs.zh.png", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "screenshot-models.zh.png", "source": "npm", "source_files": ["npm:dsh-plugin-relay@0.7.1 [keywords:new-api|keywords:one-api]"]}
+{"domain": "screenshots.json", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "screenshots.json（与", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "screenshots.md", "source": "npm", "source_files": ["npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "search.py", "source": "npm", "source_files": ["npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "searchresult.results.foreach", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "secrets.json", "source": "npm", "source_files": ["npm:@omnimux/cli@0.5.1 [keywords:new-api]"]}
+{"domain": "section.ts", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "security.md", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]", "npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:ainonymous@1.3.0 [keywords:claude-proxy]", "npm:dsh-geek2api@0.1.4 [keywords:sub2api]", "npm:omp-model-gateway@0.4.2 [keywords:one-api]", "npm:openclaw-claude-proxy@1.0.8 [keywords:claude-proxy]", "npm:safe-ai-client@0.2.0 [keywords:ai-api]", "npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "selftest.mjs", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "semver.org", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]"]}
+{"domain": "sentiment.score", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "sentiment.sentiment", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "server-app.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "server.js", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "server.json", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "server.mjs", "source": "npm", "source_files": ["npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]"]}
+{"domain": "server.ts", "source": "npm", "source_files": ["npm:@blackbelt-technology/pi-model-proxy@0.2.0 [keywords:openai-proxy]", "npm:rsflowhub@1.0.0 [keywords:ai-api]"]}
+{"domain": "servers.json", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "servertools.anthropic", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "servertools.responses", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "session.derivemessages", "source": "npm", "source_files": ["npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]"]}
+{"domain": "session.history", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "session.jsonl", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "sessioncontroller.modelcatalog", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "sessions.csv", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "sessions.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "settings.describe", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "settings.documentpath", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "settings.json", "source": "npm", "source_files": ["npm:@astrosheep/pi-quota@0.13.0 [\"sub2api\"]", "npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]", "npm:@bacnh85/pi-router@1.2.3 [keywords:openai-proxy]", "npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@simonyea/holysheep-cli@2.1.173 [keywords:claude-proxy|keywords:gemini-proxy|keywords:openai-proxy]", "npm:@zuolan/micusubcodeline@2.1.0 [\"sub2api\"|keywords:sub2api]", "npm:amazingzz@0.2.4 [\"sub2api\"|keywords:sub2api]", "npm:cc-third-party-usage@1.1.6 [keywords:ai-api]", "npm:iivo-cc@0.2.1 [keywords:new-api]", "npm:new-api-ccstatusline@0.3.3 [keywords:new-api]", "npm:pi-ccswitch-balance@1.2.3 [\"sub2api\"]", "npm:pi-minimal-statusbar@0.1.6 [\"sub2api\"]", "npm:pi-relay-switch@0.1.1 [keywords:api-relay]", "npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "settings.json）", "source": "npm", "source_files": ["npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]"]}
+{"domain": "settings.mutate", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-import-newapi@0.1.3 [keywords:new-api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "settings.plugin.item", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "settings.section", "source": "npm", "source_files": ["npm:@mangoc/dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-sub2api-sync@0.2.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "settings.yaml", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:@yiln-dsh/dsh-plugin-llm-adapter@0.6.1 [\"sub2api\"]", "npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]", "npm:dsh-auto-image@0.1.4 [\"sub2api\"]", "npm:dsh-gateway-provider@1.1.2 [keywords:new-api]", "npm:dsh-tokenledger@0.1.0 [\"sub2api\"|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "setup-path.ps", "source": "npm", "source_files": ["npm:prime-gate-antigravity@1.2.6 [keywords:openai-proxy]"]}
+{"domain": "setup.md", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]", "npm:openclaw-claude-proxy@1.0.8 [keywords:claude-proxy]", "npm:pi-sub2api-gateway@0.1.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "setup.py", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "shahriarlabs.com", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "shihub.site", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "shredder.compact", "source": "npm", "source_files": ["npm:token-shredder@1.0.0 [keywords:openai-proxy]"]}
+{"domain": "sidebar.footer.action", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "sidebar.panellist", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "sidebar.png", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "siliconflow.cn", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "siliconflow.com", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "skill-market-bridge-api.md", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "skill.md", "source": "npm", "source_files": ["npm:@finddatatechnology/facet@0.2.1 [\"sub2api\"]", "npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]", "npm:@omnimux/cli@0.5.1 [keywords:new-api]", "npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]", "npm:codesome-cli@0.5.8 [\"sub2api\"|keywords:sub2api]", "npm:dsh-skill-deploy-harden@0.1.0 [\"sub2api\"]", "npm:dsh-xiaozhi@0.1.17 [keywords:new-api]", "npm:prism-context-imagegen@0.2.0 [\"sub2api\"]"]}
+{"domain": "skillboss.co", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "skills.py", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "skills.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "slash-controller.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "smoke-memos.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "smoke.mjs", "source": "npm", "source_files": ["npm:dsh-geek2api@0.1.4 [keywords:sub2api]", "npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "source.runner", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "sources.list", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "spec.md", "source": "npm", "source_files": ["npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "speech.url", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "sql.id", "source": "npm", "source_files": ["npm:@1api/engine@0.1.0 [keywords:one-api]"]}
+{"domain": "sql.js", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "sslip.io", "source": "npm", "source_files": ["npm:dsh-model@0.23.3 [keywords:openai-proxy]"]}
+{"domain": "sso.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "star.md", "source": "npm", "source_files": ["npm:@agentpayxyz/mcp-server@0.2.1 [keywords:openai-proxy]"]}
+{"domain": "state.json", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]", "npm:@jingoz/sub-cli@0.0.4 [keywords:sub2api]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "state.json，仅非密钥）", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "state.ts", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]"]}
+{"domain": "stations.find", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]"]}
+{"domain": "stations.json", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]"]}
+{"domain": "stations.ts", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]"]}
+{"domain": "stats.account", "source": "npm", "source_files": ["npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "stats.cost", "source": "npm", "source_files": ["npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "status.has", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "status.json", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "stream.controller.abort", "source": "npm", "source_files": ["npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "stream.response", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "stream.toreadablestream", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "sub2.yuepa8.com", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "sub2api-mcp.config.json", "source": "npm", "source_files": ["npm:sub2api-mcp@0.1.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "sub2api-model-cache.json", "source": "npm", "source_files": ["npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "sub2api-quota.ts", "source": "npm", "source_files": ["npm:pi-sub2api-provider@0.7.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "sub2api.atools.live", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "sub2api.json", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "sub2api.key", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "subc-state.json", "source": "npm", "source_files": ["npm:@jingoz/sub-cli@0.0.4 [keywords:sub2api]"]}
+{"domain": "summaries.foreach", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "summary.summary", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "sunset.png", "source": "npm", "source_files": ["npm:@skillboss/cli@0.1.4 [keywords:ai-api]"]}
+{"domain": "supunofc.site", "source": "npm", "source_files": ["npm:ai-apis@1.0.0 [keywords:ai-api]"]}
+{"domain": "sync-locale.mjs", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "system.json", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "t.me", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:crazyrouter@1.0.1 [keywords:one-api]"]}
+{"domain": "t.toolcalls", "source": "npm", "source_files": ["npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "task.task", "source": "npm", "source_files": ["npm:apiz-sdk@0.2.0 [keywords:ai-api]"]}
+{"domain": "tasks.db", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "terminal.app", "source": "npm", "source_files": ["npm:@nordsym/apiclaw@2.9.13 [keywords:ai-api]"]}
+{"domain": "terms.md", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "test.com", "source": "npm", "source_files": ["npm:@herohero96/newapi-cli@0.8.0 [keywords:ai-relay|keywords:new-api]"]}
+{"domain": "test.mjs", "source": "npm", "source_files": ["npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]", "npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "texts.map", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "the-one-api.dev", "source": "npm", "source_files": ["npm:@lunaticsatoshi/lor-sdk-test@1.0.5 [keywords:one-api]"]}
+{"domain": "theme-tokens.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "theme.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "thinking.budget", "source": "npm", "source_files": ["npm:commandcode-api-proxy@0.4.1 [keywords:openai-proxy]"]}
+{"domain": "tiktok.com", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "tiktoken.encode", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "tiny-ai-api.jpg", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "todos.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "token.jinguobyte.com", "source": "npm", "source_files": ["npm:opencode-jinguobyte-adapter@1.0.0 [keywords:new-api]"]}
+{"domain": "tokenlab.sh", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "tokens.cache.read", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "tokens.create", "source": "npm", "source_files": ["npm:dsh-oauth-newapi@0.2.0 [keywords:new-api]"]}
+{"domain": "tokens.input", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "tokens.read", "source": "npm", "source_files": ["npm:dsh-oauth-newapi@0.2.0 [keywords:new-api]"]}
+{"domain": "tool-fuser.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "tools.json", "source": "npm", "source_files": ["npm:@tokenlabai/mcp-server@0.6.38 [keywords:ai-api]"]}
+{"domain": "tools.md", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "toolssent.length", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "totalcost.costusd", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "tracking.field", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "tracking.pattern", "source": "npm", "source_files": ["npm:@czp3009/newapi-give-and-take@0.0.1 [keywords:new-api]"]}
+{"domain": "translated.translated", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "translation.translated", "source": "npm", "source_files": ["npm:ai-prompt-wrapper@1.1.1 [keywords:ai-api]"]}
+{"domain": "transresult.trans", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "trust.allow", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "tsconfig.json", "source": "npm", "source_files": ["npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]"]}
+{"domain": "ttsresult.audio", "source": "npm", "source_files": ["npm:goldbean-api@1.0.0 [keywords:ai-api]"]}
+{"domain": "types.ts", "source": "npm", "source_files": ["npm:adaptive-memory-multi-model-router@2.17.0 [keywords:openai-proxy]", "npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]", "npm:dsh-aimy@0.2.1 [keywords:new-api|keywords:sub2api]", "npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "ui.language", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "ui.showaccount", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "ui.showcontext", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "ui.showgit", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "ui.showkey", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "ui.showrecentusage", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "ui.showworkspace", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "uncensored.com", "source": "npm", "source_files": ["npm:uncensored@0.1.0-alpha.1 [keywords:ai-api]"]}
+{"domain": "uninstall.sh", "source": "npm", "source_files": ["npm:@autotask/atools-tool@0.1.14 [\"sub2api\"]"]}
+{"domain": "unit.test.ts", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "unpkg.com", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "upstream.md", "source": "npm", "source_files": ["npm:omp-provider-sub2api@0.4.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "urls.anthropic", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "urls.openai", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "usage-panel.png", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "usage-panel.svg", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "usage-stats-cache.json", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "usage.cost", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "usage.costusd", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "usage.js", "source": "npm", "source_files": ["npm:cc-third-party-usage@1.1.6 [keywords:ai-api]"]}
+{"domain": "usage.md", "source": "npm", "source_files": ["npm:pi-sub2api-gateway@0.1.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "usage.sessions", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "usage.test.js", "source": "npm", "source_files": ["npm:dsh-tokenledger@0.1.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "usage.today", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "usage.total", "source": "npm", "source_files": ["npm:@indexyz/pi-provider-sub2api@0.3.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "usemagpie.ai", "source": "npm", "source_files": ["npm:@magpie-community/middleware-model-map@0.1.1 [keywords:new-api]", "npm:@magpie-community/middleware-param-override@0.1.0 [keywords:new-api]", "npm:@magpie-community/middleware-system-prompt@0.1.0 [keywords:new-api]", "npm:@magpie-community/middleware-think-tags@0.1.0 [keywords:new-api]", "npm:@magpie-community/middleware-word-guard@0.1.1 [keywords:new-api]", "npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "user.name", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "users.csv", "source": "npm", "source_files": ["npm:@1api/cli@0.1.0 [keywords:one-api]"]}
+{"domain": "users.oidc", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "utils.ts", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]"]}
+{"domain": "value.admissionbypass", "source": "npm", "source_files": ["npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]"]}
+{"domain": "vcm-sharder.ts", "source": "npm", "source_files": ["npm:llm-guardian@1.6.26 [keywords:openai-proxy]"]}
+{"domain": "vector.test.mjs", "source": "npm", "source_files": ["npm:@posteering/one-api-signing@1.0.0 [keywords:one-api]"]}
+{"domain": "verify-cline-parser.mjs", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "verify-commandcode-parser.mjs", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "verify-patch-rewrite.mjs", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "verify-quota-e2e.mjs", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "video.url", "source": "npm", "source_files": ["npm:nexaapi@1.0.0 [keywords:ai-api]"]}
+{"domain": "vision-bridge.json", "source": "npm", "source_files": ["npm:@dsh-extension/dsh-vision-bridge@1.0.0 [keywords:one-api]"]}
+{"domain": "vnc-client.authors", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "vnc-client.license", "source": "npm", "source_files": ["npm:mtmharness@0.9.103 [\"sub2api\"]"]}
+{"domain": "w.limit", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "w.period", "source": "npm", "source_files": ["npm:deepseek-harness-quota-monitor@0.4.5 [\"sub2api\"]"]}
+{"domain": "wa.me", "source": "npm", "source_files": ["npm:@sifxprime/krouter@0.5.166 [keywords:openai-proxy]"]}
+{"domain": "warning.criticalbelow", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "warning.warnbelow", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "watchdog.sh", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]"]}
+{"domain": "windows.session", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "write.content", "source": "npm", "source_files": ["npm:@yiln-dsh/dsh-plugin-llm-adapter@0.6.1 [\"sub2api\"]"]}
+{"domain": "www.getcheapai.com", "source": "npm", "source_files": ["npm:ai-proxy-registry@1.6.4 [keywords:ai-api|keywords:new-api|keywords:one-api]"]}
+{"domain": "www.lakera.ai", "source": "npm", "source_files": ["npm:ainonymous@1.3.0 [keywords:claude-proxy]"]}
+{"domain": "www.lockllm.com", "source": "npm", "source_files": ["npm:@lockllm/sdk@1.3.0 [keywords:openai-proxy]"]}
+{"domain": "www.minimax.io", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "www.minimaxi.com", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "www.orcarouter.ai", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "www.patreon.com", "source": "npm", "source_files": ["npm:tiny-ai-api@1.2.0 [keywords:ai-api]"]}
+{"domain": "www.quota.cheap", "source": "npm", "source_files": ["npm:llm-gateway-benchmark@0.1.0 [keywords:ai-api]"]}
+{"domain": "www.runpod.io", "source": "npm", "source_files": ["npm:@baublet/piqwy@0.6.0 [keywords:openai-proxy]"]}
+{"domain": "www.trybons.ai", "source": "npm", "source_files": ["npm:@dexcodesxs/bon@2.5.28 [keywords:openai-proxy]"]}
+{"domain": "www.zaizaiking.com", "source": "npm", "source_files": ["npm:zzk-image-mcp@0.2.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "wxip-dsh-sub2api-0.2.2.tgz", "source": "npm", "source_files": ["npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "x.com", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "x64-setup.exe", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "x64.dmg", "source": "npm", "source_files": ["npm:omnicell-router@0.1.1 [keywords:openai-proxy]"]}
+{"domain": "xiaozhi-work.yaml", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "xiaozhi.gateway.pool.access", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "xiaozhi.skill-market.admin", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "xn--w4r430a.com", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "yaml.js", "source": "npm", "source_files": ["npm:dsh-balance-inquiry@0.7.1 [keywords:new-api]"]}
+{"domain": "yardmaster.bacnh.com", "source": "npm", "source_files": ["npm:@bacnh85/omp-router@0.1.2 [keywords:openai-proxy]"]}
+{"domain": "ychris12138-dsh-usage-stats-0.3.6.tgz", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "your-domain.com", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]", "npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]", "npm:yesai-seedance-mcp@0.1.0 [keywords:sub2api]"]}
+{"domain": "your-model.gguf", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "your-new-api.example", "source": "npm", "source_files": ["npm:new-api-ccstatusline@0.3.3 [keywords:new-api]"]}
+{"domain": "your-newapi.com", "source": "npm", "source_files": ["npm:@herohero96/newapi-cli@0.8.0 [keywords:ai-relay|keywords:new-api]"]}
+{"domain": "your-proxy-site.com", "source": "npm", "source_files": ["npm:opencode-codex-bridge@0.1.0 [keywords:new-api]"]}
+{"domain": "your-proxy.com", "source": "npm", "source_files": ["npm:@contextarchitect/kie-ai-mcp-server@3.2.0 [keywords:ai-api]"]}
+{"domain": "your-server.com", "source": "npm", "source_files": ["npm:@1api/sdk@0.1.0 [keywords:one-api]"]}
+{"domain": "your-sub2api-instance.com", "source": "npm", "source_files": ["npm:sub2api-cli@1.2.5 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "your-sub2api.example", "source": "npm", "source_files": ["npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:pi-codex-search-remote@0.2.0 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "your.host", "source": "npm", "source_files": ["npm:@finddatatechnology/facet@0.2.1 [\"sub2api\"]"]}
+{"domain": "yourclient.createcompletion", "source": "npm", "source_files": ["npm:safe-ai-client@0.2.0 [keywords:ai-api]"]}
+{"domain": "youtube.com", "source": "npm", "source_files": ["npm:@novaqore/ai@3.2.1 [keywords:ai-api]"]}
+{"domain": "yunyi.yun", "source": "npm", "source_files": ["npm:yymaxapi@1.0.126 [keywords:api-relay]"]}
+{"domain": "z.ai", "source": "npm", "source_files": ["npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]", "npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]", "npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]", "npm:dsh-usage-state@0.4.10 [\"sub2api\"]", "npm:freelm@0.5.2 [keywords:openai-proxy]"]}
+{"domain": "z.ai、kimi、minimax、ollama、openrouter", "source": "npm", "source_files": ["npm:@ychris12138/dsh-usage-stats@0.3.6 [\"sub2api\"]"]}
+{"domain": "z.array", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "z.coerce.boolean", "source": "npm", "source_files": ["npm:@1api/shared@0.1.0 [keywords:one-api]"]}
+{"domain": "z.object", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "z.string", "source": "npm", "source_files": ["npm:aiclientjs@0.1.5 [keywords:ai-api]"]}
+{"domain": "zel.buffer", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "zel.json", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "zel.text", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "zelapioffciall.dpdns.org", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "zelapioffciall.koyeb.app", "source": "npm", "source_files": ["npm:zelapi@0.0.4 [keywords:ai-api]"]}
+{"domain": "zh.json", "source": "npm", "source_files": ["npm:dsh-model-usage@0.8.2 [keywords:new-api]"]}
+{"domain": "zh.md", "source": "npm", "source_files": ["npm:dsh-sub2api-monitor@0.2.1 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "zip.ts", "source": "npm", "source_files": ["npm:dsh-xiaozhi@0.1.17 [keywords:new-api]"]}
+{"domain": "。models.dev", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "。z.ai的key分国内", "source": "npm", "source_files": ["npm:dsh-usage-state@0.4.10 [\"sub2api\"]"]}
+{"domain": "你的配置.md", "source": "npm", "source_files": ["npm:llmaxapi@1.1.18 [keywords:api-relay]", "npm:maxai@1.0.17 [keywords:api-relay]", "npm:openclawapi@1.3.72 [keywords:api-relay]", "npm:yymaxapi@1.0.126 [keywords:api-relay]"]}
+{"domain": "内置目录（models.dev），取不到按", "source": "npm", "source_files": ["npm:@mx_/pi-custom-provider@0.5.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "升级前建议备份重要配置文件（.env", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "古拉.com", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "安装node.js", "source": "npm", "source_files": ["npm:@chatarch/claude-relay-service@1.0.0 [\"sub2api\"]"]}
+{"domain": "安装到项目设置（.pi", "source": "npm", "source_files": ["npm:@cluski/pi-new-api@0.1.0 [keywords:new-api]"]}
+{"domain": "已有的该模型等级（models.dev", "source": "npm", "source_files": ["npm:magpie-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "新手入门.md", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "新手教程.md", "source": "npm", "source_files": ["npm:@ss22219/skilldb@1.0.1 [keywords:new-api|keywords:one-api|keywords:sub2api]"]}
+{"domain": "目录（models.dev）有", "source": "npm", "source_files": ["npm:@mx_/pi-custom-provider@0.5.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "配置（cordis.yml", "source": "npm", "source_files": ["npm:@mackwan84/dsh-image-openai-compat@0.3.0 [keywords:new-api|keywords:one-api]"]}
+{"domain": "验证），node.js", "source": "npm", "source_files": ["npm:dsh-newapi-provider@0.9.4 [keywords:new-api|keywords:one-api]"]}
+{"domain": "（pi.extensions", "source": "npm", "source_files": ["npm:@llmgates_api/pi-llmgates-provider@0.8.2 [\"sub2api\"|keywords:sub2api]"]}
+{"domain": "；models.dev", "source": "npm", "source_files": ["npm:@godd6366/dsh-sub2api@0.2.1 [\"sub2api\"|keywords:sub2api]", "npm:@wxip/dsh-sub2api@0.2.2 [\"sub2api\"|keywords:sub2api]"]}

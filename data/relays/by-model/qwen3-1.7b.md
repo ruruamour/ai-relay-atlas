@@ -1,6 +1,6 @@
 # qwen3-1.7b
 
-> 84 站提供 · 正常价 77 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（12 站公开充值价） · 推算，未对账
+> 91 站提供 · 正常价 81 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,17 +11,21 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.zyai.online` | ¥0.1 | $0.1 / $1.5 | 1 | mini | qwen3-1.7b |
-| 2 | `api.ocoolai.com` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
-| 3 | `ocool.cn` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
-| 4 | `kfcv50.link` | ¥0.2 | $0.2 / $3 | 1 | Domestic | qwen3-1.7b |
-| 5 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-1.7b |
-| 6 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
-| 7 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
-| 8 | `yibuapi.com` | ¥0.36 | $0.24 / $0.96 | 1.5 | claude-code | qwen3-1.7b |
-| 9 | `api2.aigcbest.top` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
-| 10 | `hy88.my` | ¥0.876 | $0.12 / $1.8 | 7.3 | qwen | qwen3-1.7b |
-| 11 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
-| 12 | `yutoapi.com` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
+| 2 | `gpt777.top` | ¥0.128 | $0.128 / $0.384 | 1 | opensource | qwen3-1.7b |
+| 3 | `api.ocoolai.com` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
+| 4 | `ocool.cn` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
+| 5 | `kfcv50.link` | ¥0.2 | $0.2 / $3 | 1 | Domestic | qwen3-1.7b |
+| 6 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-1.7b |
+| 7 | `api.eido.top` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 8 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 9 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 10 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 11 | `yibuapi.com` | ¥0.36 | $0.24 / $0.96 | 1.5 | claude-code | qwen3-1.7b |
+| 12 | `api.ifopen.ai` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
+| 13 | `api2.aigcbest.top` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
+| 14 | `hy88.my` | ¥0.876 | $0.12 / $1.8 | 7.3 | qwen | qwen3-1.7b |
+| 15 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
+| 16 | `yutoapi.com` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,4 +84,4 @@
 
 > 另有 15 站未列出。
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,141 +1,160 @@
 domain,score,flags,worst_pct,examples
-api520.pro,22.5,15,0.05,deepseek-v4-pro $0.0009108 vs 中位 $1.8（0.05%） | gpt-5.6-terra $0.0004312 vs 中位 $0.6（0.07%） | claude-opus-5-5 $0.0015456 vs 中位 $2（0.08%）
-api522.pro,22.5,15,0.05,deepseek-v4-pro $0.0009108 vs 中位 $1.8（0.05%） | gpt-5.6-terra $0.0004312 vs 中位 $0.6（0.07%） | claude-opus-5-5 $0.0015456 vs 中位 $2（0.08%）
-subapi.muxueai.pro,20.0,20,1.2,gpt-5.6-luna $0.0024 vs 中位 $0.2（1.20%） | gpt-6-luna $0.0012 vs 中位 $0.06（2.00%） | gpt-5.6-sol $0.048 vs 中位 $1.25（3.84%）
-sub.geiliapi.com,15.0,15,2.25,gpt-5.6-luna $0.0045 vs 中位 $0.2（2.25%） | gpt-6-luna $0.00225 vs 中位 $0.06（3.75%） | claude-opus-4-5 $0.2 vs 中位 $4.25（4.71%）
-kukuai.ai,14.5,14,0.41,deepseek-v4-pro $0.007371 vs 中位 $1.8（0.41%） | kimi-k3 $0.122549 vs 中位 $6（2.04%） | glm-5.2 $0.052942 vs 中位 $2.4（2.21%）
-staging-sub.geiliapi.com,14.5,14,0.52,deepseek-v4-pro $0.009375 vs 中位 $1.8（0.52%） | kimi-k3 $0.184254 vs 中位 $6（3.07%） | glm-5.3 $0.0875 vs 中位 $2（4.38%）
-ainzy.net,14.0,14,1.0,gpt-5.6-luna $0.002 vs 中位 $0.2（1.00%） | gpt-5.6-sol $0.04 vs 中位 $1.25（3.20%） | gpt-5.6-terra $0.02 vs 中位 $0.6（3.33%）
-pianyitoken.gay,14.0,14,2.05,claude-opus-5-5 $0.0410959 vs 中位 $2（2.05%） | claude-opus-4-6 $0.0513699 vs 中位 $2.5（2.05%） | claude-opus-4-7 $0.0513699 vs 中位 $2.5（2.05%）
-ai.hebox.net,13.0,10,0.0,glm-5.3 $0.000014 vs 中位 $2（0.00%） | deepseek-v4-pro $0.0000132 vs 中位 $1.8（0.00%） | glm-5.3-flash $0.0000015 vs 中位 $0.2（0.00%）
-ikun.love,13.0,12,0.5,claude-opus-4-5 $0.0213 vs 中位 $4.25（0.50%） | claude-opus-4-8 $0.01275 vs 中位 $2.5（0.51%） | gpt-5.6-luna $0.003 vs 中位 $0.2（1.50%）
-nty-hk.zhouyang168.top,12.0,12,1.0,gpt-5.6-luna $0.002 vs 中位 $0.2（1.00%） | gpt-6-luna $0.001 vs 中位 $0.06（1.67%） | claude-opus-5-5 $0.04 vs 中位 $2（2.00%）
-api.aiyxgaw.com,12.0,12,2.05,gpt-6-luna $0.00123288 vs 中位 $0.06（2.05%） | gpt-5.6-sol $0.0513699 vs 中位 $1.25（4.11%） | claude-opus-4-7 $0.10274 vs 中位 $2.5（4.11%）
-codelypixverse.com,11.5,11,0.96,kimi-k3 $0.0576923 vs 中位 $6（0.96%） | glm-5.2 $0.03 vs 中位 $2.4（1.25%） | deepseek-v4-pro $0.0269231 vs 中位 $1.8（1.50%）
-api.ikhdev.xyz,11.0,9,0.23,kimi-k3 $0.014 vs 中位 $6（0.23%） | glm-5.2 $0.006 vs 中位 $2.4（0.25%） | glm-5.3 $0.012 vs 中位 $2（0.60%）
-api.pezayo.com,10.0,8,0.3,gpt-5.6-luna $0.0006 vs 中位 $0.2（0.30%） | gpt-6-luna $0.0003 vs 中位 $0.06（0.50%） | claude-opus-4-6 $0.015 vs 中位 $2.5（0.60%）
-llmhub.ltd,10.0,10,4.0,grok-4.5 $0.02 vs 中位 $0.5（4.00%） | claude-opus-4-5 $0.2 vs 中位 $4.25（4.71%） | grok-4.6 $0.02 vs 中位 $0.4（5.00%）
-api.socode.cc,9.5,9,0.83,deepseek-v4-pro $0.015 vs 中位 $1.8（0.83%） | glm-5 $0.0589614 vs 中位 $3（1.97%） | glm-5.2 $0.117923 vs 中位 $2.4（4.91%）
-www.yiyuantoken.com,9.0,9,1.76,claude-opus-4-6 $0.0441176 vs 中位 $2.5（1.76%） | claude-opus-4-7 $0.0441176 vs 中位 $2.5（1.76%） | claude-opus-4-8 $0.0441176 vs 中位 $2.5（1.76%）
-xckjj.com,9.0,9,1.93,deepseek-v4-pro $0.0348 vs 中位 $1.8（1.93%） | glm-5 $0.08 vs 中位 $3（2.67%） | kimi-k3 $0.16 vs 中位 $6（2.67%）
+api520.pro,22.5,15,0.05,deepseek-v4-pro $0.0009108 vs 中位 $1.74（0.05%） | claude-opus-4-7 $0.00207 vs 中位 $3（0.07%） | gpt-5.6-terra $0.0004312 vs 中位 $0.6（0.07%）
+api522.pro,22.5,15,0.05,deepseek-v4-pro $0.0009108 vs 中位 $1.74（0.05%） | claude-opus-4-7 $0.00207 vs 中位 $3（0.07%） | gpt-5.6-terra $0.0004312 vs 中位 $0.6（0.07%）
+pianyitoken.gay,15.0,15,1.71,claude-opus-4-7 $0.0513699 vs 中位 $3（1.71%） | claude-opus-4-6 $0.0513699 vs 中位 $2.625（1.96%） | claude-opus-5-5 $0.0410959 vs 中位 $2（2.05%）
+kukuai.ai,14.5,14,0.42,deepseek-v4-pro $0.007371 vs 中位 $1.74（0.42%） | kimi-k3 $0.122549 vs 中位 $6（2.04%） | glm-5.2 $0.052942 vs 中位 $2.4（2.21%）
+staging-sub.geiliapi.com,14.5,14,0.54,deepseek-v4-pro $0.009375 vs 中位 $1.74（0.54%） | kimi-k3 $0.184254 vs 中位 $6（3.07%） | glm-5.3 $0.0875 vs 中位 $2（4.38%）
+ainzy.net,14.0,14,1.0,gpt-5.6-luna $0.002 vs 中位 $0.2（1.00%） | gpt-5.6-sol $0.04 vs 中位 $1.365（2.93%） | gpt-5.6-terra $0.02 vs 中位 $0.6（3.33%）
+sub.geiliapi.com,14.0,14,2.25,gpt-5.6-luna $0.0045 vs 中位 $0.2（2.25%） | gpt-6-luna $0.00225 vs 中位 $0.0696154（3.23%） | claude-opus-4-5 $0.2 vs 中位 $4.5（4.44%）
+ai.hebox.net,13.0,10,0.0,glm-5.3 $0.000014 vs 中位 $2（0.00%） | glm-5.3-flash $0.0000015 vs 中位 $0.2（0.00%） | deepseek-v4-pro $0.0000132 vs 中位 $1.74（0.00%）
+ikun.love,13.0,12,0.47,claude-opus-4-5 $0.0213 vs 中位 $4.5（0.47%） | claude-opus-4-8 $0.01275 vs 中位 $2.5（0.51%） | gpt-5.6-luna $0.003 vs 中位 $0.2（1.50%）
+www.ainzy.net,13.0,13,2.93,gpt-5.6-sol $0.04 vs 中位 $1.365（2.93%） | gpt-5.6-terra $0.02 vs 中位 $0.6（3.33%） | claude-sonnet-5 $0.04 vs 中位 $1.2（3.33%）
+api.ikhdev.xyz,12.0,10,0.23,kimi-k3 $0.014 vs 中位 $6（0.23%） | glm-5.2 $0.006 vs 中位 $2.4（0.25%） | glm-5.3 $0.012 vs 中位 $2（0.60%）
+nty-hk.zhouyang168.top,12.0,12,1.0,gpt-5.6-luna $0.002 vs 中位 $0.2（1.00%） | gpt-6-luna $0.001 vs 中位 $0.0696154（1.44%） | claude-opus-4-7 $0.05 vs 中位 $3（1.67%）
+api.aiyxgaw.com,12.0,12,1.77,gpt-6-luna $0.00123288 vs 中位 $0.0696154（1.77%） | claude-opus-4-7 $0.10274 vs 中位 $3（3.42%） | gpt-5.6-sol $0.0513699 vs 中位 $1.365（3.76%）
+codelypixverse.com,11.5,11,0.96,kimi-k3 $0.0576923 vs 中位 $6（0.96%） | glm-5.2 $0.03 vs 中位 $2.4（1.25%） | deepseek-v4-pro $0.0269231 vs 中位 $1.74（1.55%）
+topapi.io,10.5,10,0.8,grok-4.5 $0.004 vs 中位 $0.5（0.80%） | grok-4.6 $0.004 vs 中位 $0.4（1.00%） | grok-4.7 $0.004 vs 中位 $0.4（1.00%）
+api.pezayo.com,10.0,8,0.3,gpt-5.6-luna $0.0006 vs 中位 $0.2（0.30%） | gpt-6-luna $0.0003 vs 中位 $0.0696154（0.43%） | claude-opus-4-7 $0.015 vs 中位 $3（0.50%）
+llmhub.ltd,10.0,10,4.0,grok-4.5 $0.02 vs 中位 $0.5（4.00%） | claude-opus-4-5 $0.2 vs 中位 $4.5（4.44%） | grok-4.6 $0.02 vs 中位 $0.4（5.00%）
+api.socode.cc,9.5,9,0.86,deepseek-v4-pro $0.015 vs 中位 $1.74（0.86%） | glm-5 $0.0589614 vs 中位 $2.68（2.20%） | glm-5.2 $0.117923 vs 中位 $2.4（4.91%）
+www.yiyuantoken.com,9.0,9,1.47,claude-opus-4-7 $0.0441176 vs 中位 $3（1.47%） | claude-opus-4-6 $0.0441176 vs 中位 $2.625（1.68%） | claude-opus-4-8 $0.0441176 vs 中位 $2.5（1.76%）
+xckjj.com,9.0,9,2.0,deepseek-v4-pro $0.0348 vs 中位 $1.74（2.00%） | kimi-k3 $0.16 vs 中位 $6（2.67%） | glm-5 $0.08 vs 中位 $2.68（2.99%）
+kuafushe.cc,9.0,9,5.17,deepseek-v4-pro $0.09 vs 中位 $1.74（5.17%） | gpt-5.6-luna $0.012 vs 中位 $0.2（6.00%） | glm-5.2 $0.16 vs 中位 $2.4（6.67%）
 api.banban.plus,8.0,8,3.2,glm-5.2 $0.0767123 vs 中位 $2.4（3.20%） | kimi-k3 $0.191781 vs 中位 $6（3.20%） | gemini-3.1-pro-preview $0.0712329 vs 中位 $1.92（3.71%）
-kuafushe.cc,8.0,8,5.0,deepseek-v4-pro $0.09 vs 中位 $1.8（5.00%） | gpt-5.6-luna $0.012 vs 中位 $0.2（6.00%） | glm-5.2 $0.16 vs 中位 $2.4（6.67%）
-116.62.113.242,7.0,7,1.76,claude-sonnet-5 $0.0208219 vs 中位 $1.185（1.76%） | claude-opus-5-5 $0.0416438 vs 中位 $2（2.08%） | claude-opus-4-6 $0.0520548 vs 中位 $2.5（2.08%）
-synthapi.asia,7.0,7,1.76,claude-sonnet-5 $0.0208219 vs 中位 $1.185（1.76%） | claude-opus-5-5 $0.0416438 vs 中位 $2（2.08%） | claude-opus-4-6 $0.0520548 vs 中位 $2.5（2.08%）
-newtonrouter.com,7.0,7,3.38,claude-sonnet-5-5 $0.044 vs 中位 $1.3（3.38%） | claude-sonnet-5 $0.044 vs 中位 $1.185（3.71%） | claude-opus-5-5 $0.088 vs 中位 $2（4.40%）
-tokenbox.cloud,7.0,7,5.77,claude-sonnet-5-5 $0.075 vs 中位 $1.3（5.77%） | claude-opus-5-5 $0.1495 vs 中位 $2（7.47%） | claude-opus-4-6 $0.1875 vs 中位 $2.5（7.50%）
-api.robinsonai.shop,6.5,6,0.76,kimi-k3 $0.0453549 vs 中位 $6（0.76%） | claude-opus-4-6 $0.0384615 vs 中位 $2.5（1.54%） | gpt-6-luna $0.00107692 vs 中位 $0.06（1.79%）
-yunwu.live,6.0,6,3.75,glm-5.2 $0.09 vs 中位 $2.4（3.75%） | deepseek-v4-pro $0.1044 vs 中位 $1.8（5.80%） | glm-5.3 $0.12 vs 中位 $2（6.00%）
-bmodels.top,6.0,6,5.12,claude-opus-4-6 $0.128 vs 中位 $2.5（5.12%） | claude-opus-4-8 $0.128 vs 中位 $2.5（5.12%） | claude-opus-5 $0.128 vs 中位 $2.5（5.12%）
-88.api456.me,5.5,4,0.36,deepseek-v4-pro $0.0064 vs 中位 $1.8（0.36%） | glm-5.2 $0.01192 vs 中位 $2.4（0.50%） | glm-5.3 $0.01192 vs 中位 $2（0.60%）
-api.supxh.xin,5.5,4,0.36,deepseek-v4-pro $0.0064 vs 中位 $1.8（0.36%） | glm-5.2 $0.01192 vs 中位 $2.4（0.50%） | glm-5.3 $0.01192 vs 中位 $2（0.60%）
-speed23.toter.me,5.5,4,0.36,deepseek-v4-pro $0.0064 vs 中位 $1.8（0.36%） | glm-5.2 $0.01192 vs 中位 $2.4（0.50%） | glm-5.3 $0.01192 vs 中位 $2（0.60%）
-api.lukyface.com,5.0,5,2.5,glm-5.2 $0.06 vs 中位 $2.4（2.50%） | deepseek-v4-pro $0.0696 vs 中位 $1.8（3.87%） | glm-5.3 $0.08 vs 中位 $2（4.00%）
-gpt.mzlone.top,5.0,5,3.12,gemini-3.1-pro-preview $0.06 vs 中位 $1.92（3.12%） | claude-opus-4-6 $0.15 vs 中位 $2.5（6.00%） | claude-opus-4-7 $0.15 vs 中位 $2.5（6.00%）
-ai.goodfly.space,5.0,5,3.47,gpt-5.6 $0.033 vs 中位 $0.95（3.47%） | gpt-6-astra $0.22 vs 中位 $2.7（8.15%） | gpt-6-sol $0.044 vs 中位 $0.5（8.80%）
-mhapi.net,5.0,5,3.5,gpt-5.6-luna $0.007 vs 中位 $0.2（3.50%） | gpt-6-luna $0.0035 vs 中位 $0.06（5.83%） | claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%）
-www.zhuanyuncang.top,5.0,5,3.75,kimi-k3 $0.225 vs 中位 $6（3.75%） | claude-sonnet-5 $0.0616 vs 中位 $1.185（5.20%） | claude-opus-4-8 $0.154 vs 中位 $2.5（6.16%）
-qwer069.com,5.0,5,4.44,deepseek-v4-pro $0.08 vs 中位 $1.8（4.44%） | glm-5.2 $0.16 vs 中位 $2.4（6.67%） | kimi-k3 $0.4 vs 中位 $6（6.67%）
-zz.xcwang.cn,4.5,3,0.0,gpt-5.6-sol $0.000003 vs 中位 $1.25（0.00%） | gpt-5.6-luna $0.0000006 vs 中位 $0.2（0.00%） | gemini-3.1-pro-preview $0.0000144 vs 中位 $1.92（0.00%）
+synthapi.asia,7.0,7,1.74,claude-sonnet-5 $0.0208219 vs 中位 $1.2（1.74%） | claude-opus-4-7 $0.0520548 vs 中位 $3（1.74%） | claude-opus-4-6 $0.0520548 vs 中位 $2.625（1.98%）
+newtonrouter.com,7.0,7,3.19,claude-sonnet-5-5 $0.044 vs 中位 $1.38（3.19%） | claude-sonnet-5 $0.044 vs 中位 $1.2（3.67%） | claude-opus-4-7 $0.11 vs 中位 $3（3.67%）
+mhapi.net,7.0,7,3.5,gpt-5.6-luna $0.007 vs 中位 $0.2（3.50%） | gpt-6-luna $0.0035 vs 中位 $0.0696154（5.03%） | claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%）
+bmodels.top,7.0,7,4.88,claude-opus-4-6 $0.128 vs 中位 $2.625（4.88%） | claude-opus-4-8 $0.128 vs 中位 $2.5（5.12%） | claude-opus-5 $0.128 vs 中位 $2.5（5.12%）
+tokenbox.cloud,7.0,7,5.43,claude-sonnet-5-5 $0.075 vs 中位 $1.38（5.43%） | claude-opus-4-7 $0.1875 vs 中位 $3（6.25%） | claude-opus-4-6 $0.1875 vs 中位 $2.625（7.14%）
+api.robinsonai.shop,6.5,6,0.76,kimi-k3 $0.0453549 vs 中位 $6（0.76%） | claude-opus-4-6 $0.0384615 vs 中位 $2.625（1.47%） | gpt-6-luna $0.00107692 vs 中位 $0.0696154（1.55%）
+yunwu.live,6.0,6,3.75,glm-5.2 $0.09 vs 中位 $2.4（3.75%） | glm-5.3 $0.12 vs 中位 $2（6.00%） | deepseek-v4-pro $0.1044 vs 中位 $1.74（6.00%）
+api.247kan.com,6.0,6,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%） | claude-sonnet-5-5 $0.1 vs 中位 $1.38（7.25%）
+apijing.com,6.0,6,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-1 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%）
+llm.twinight.co,6.0,6,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%） | claude-sonnet-5-5 $0.1 vs 中位 $1.38（7.25%）
+newapi.ailyyzdk.xyz,6.0,6,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-1 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%）
+sts.starlingdroid.com,5.5,4,0.29,gpt-5.6-luna $0.000576 vs 中位 $0.2（0.29%） | claude-opus-4-8 $0.0144 vs 中位 $2.5（0.58%） | gpt-5.6-terra $0.00576 vs 中位 $0.6（0.96%）
+88.api456.me,5.5,4,0.37,deepseek-v4-pro $0.0064 vs 中位 $1.74（0.37%） | glm-5.2 $0.01192 vs 中位 $2.4（0.50%） | glm-5.3 $0.01192 vs 中位 $2（0.60%）
+api.supxh.xin,5.5,4,0.37,deepseek-v4-pro $0.0064 vs 中位 $1.74（0.37%） | glm-5.2 $0.01192 vs 中位 $2.4（0.50%） | glm-5.3 $0.01192 vs 中位 $2（0.60%）
+speed23.toter.me,5.5,4,0.37,deepseek-v4-pro $0.0064 vs 中位 $1.74（0.37%） | glm-5.2 $0.01192 vs 中位 $2.4（0.50%） | glm-5.3 $0.01192 vs 中位 $2（0.60%）
+ai.kunkun.chat,5.0,5,1.04,gemini-3.1-pro-preview $0.02 vs 中位 $1.92（1.04%） | kimi-k3 $0.0975 vs 中位 $6（1.62%） | glm-5.2 $0.11 vs 中位 $2.4（4.58%）
+api.lukyface.com,5.0,5,2.5,glm-5.2 $0.06 vs 中位 $2.4（2.50%） | deepseek-v4-pro $0.0696 vs 中位 $1.74（4.00%） | glm-5.3 $0.08 vs 中位 $2（4.00%）
+gpt.mzlone.top,5.0,5,3.12,gemini-3.1-pro-preview $0.06 vs 中位 $1.92（3.12%） | claude-opus-4-7 $0.15 vs 中位 $3（5.00%） | claude-opus-4-6 $0.15 vs 中位 $2.625（5.71%）
+ai.goodfly.space,5.0,5,3.3,gpt-5.6 $0.033 vs 中位 $1（3.30%） | gpt-6-astra $0.22 vs 中位 $3（7.33%） | gpt-5.6-sol $0.11 vs 中位 $1.365（8.06%）
+www.zhuanyuncang.top,5.0,5,3.75,kimi-k3 $0.225 vs 中位 $6（3.75%） | claude-sonnet-5 $0.0616 vs 中位 $1.2（5.13%） | claude-opus-4-8 $0.154 vs 中位 $2.5（6.16%）
+llmhub.uk,5.0,5,4.0,grok-4.5 $0.02 vs 中位 $0.5（4.00%） | claude-opus-4-5 $0.2 vs 中位 $4.5（4.44%） | grok-4.6 $0.02 vs 中位 $0.4（5.00%）
+apiroute.top,5.0,5,4.5,gpt-6-astra $0.135 vs 中位 $3（4.50%） | gpt-5.6-sol $0.0675 vs 中位 $1.365（4.95%） | gpt-6-sol $0.027 vs 中位 $0.5（5.40%）
+qwer069.com,5.0,5,4.6,deepseek-v4-pro $0.08 vs 中位 $1.74（4.60%） | glm-5.2 $0.16 vs 中位 $2.4（6.67%） | kimi-k3 $0.4 vs 中位 $6（6.67%）
+sub.apiroute.top,5.0,5,5.0,gpt-6-astra $0.15 vs 中位 $3（5.00%） | gpt-5.6-sol $0.075 vs 中位 $1.365（5.49%） | gpt-5.6-terra $0.0375 vs 中位 $0.6（6.25%）
+www.bb-api.com,5.0,5,5.56,claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%） | claude-sonnet-5-5 $0.1 vs 中位 $1.38（7.25%） | claude-opus-4-7 $0.25 vs 中位 $3（8.33%）
+zz.xcwang.cn,4.5,3,0.0,gpt-5.6-sol $0.000003 vs 中位 $1.365（0.00%） | gpt-5.6-luna $0.0000006 vs 中位 $0.2（0.00%） | gemini-3.1-pro-preview $0.0000144 vs 中位 $1.92（0.00%）
 api.unorouter.com,4.5,4,0.08,glm-5.2 $0.00196 vs 中位 $2.4（0.08%） | kimi-k3 $0.1224 vs 中位 $6（2.04%） | glm-5.3 $0.064848 vs 中位 $2（3.24%）
-ai.lfree.org,4.5,3,0.2,kimi-k3 $0.012 vs 中位 $6（0.20%） | claude-opus-5 $0.012 vs 中位 $2.5（0.48%） | deepseek-v4-pro $0.012 vs 中位 $1.8（0.67%）
+ai.lfree.org,4.5,3,0.2,kimi-k3 $0.012 vs 中位 $6（0.20%） | claude-opus-5 $0.012 vs 中位 $2.5（0.48%） | deepseek-v4-pro $0.012 vs 中位 $1.74（0.69%）
 api-hub.asia,4.5,3,0.4,grok-4.5 $0.002 vs 中位 $0.5（0.40%） | grok-4.6 $0.002 vs 中位 $0.4（0.50%） | grok-4.7 $0.002 vs 中位 $0.4（0.50%）
-ai.saigou.work,4.0,4,1.04,gemini-3.1-pro-preview $0.02 vs 中位 $1.92（1.04%） | kimi-k3 $0.1 vs 中位 $6（1.67%） | deepseek-v4-pro $0.087 vs 中位 $1.8（4.83%）
+ai.saigou.work,4.0,4,1.04,gemini-3.1-pro-preview $0.02 vs 中位 $1.92（1.04%） | kimi-k3 $0.1 vs 中位 $6（1.67%） | deepseek-v4-pro $0.087 vs 中位 $1.74（5.00%）
 6666.sso.asia,4.0,4,1.25,kimi-k3 $0.075 vs 中位 $6（1.25%） | glm-5.2 $0.075 vs 中位 $2.4（3.12%） | glm-5.3 $0.075 vs 中位 $2（3.75%）
-aeapi.cn,4.0,4,1.43,glm-5.1 $0.03 vs 中位 $2.1（1.43%） | claude-opus-4-6 $0.04 vs 中位 $2.5（1.60%） | claude-opus-4-7 $0.05 vs 中位 $2.5（2.00%）
-cn.sandbox.dogrouter.ai,4.0,4,1.67,kimi-k3 $0.1 vs 中位 $6（1.67%） | glm-5.2 $0.1 vs 中位 $2.4（4.17%） | deepseek-v4-pro $0.1 vs 中位 $1.8（5.56%）
+aeapi.cn,4.0,4,1.43,glm-5.1 $0.03 vs 中位 $2.1（1.43%） | claude-opus-4-6 $0.04 vs 中位 $2.625（1.52%） | claude-opus-4-7 $0.05 vs 中位 $3（1.67%）
+cn.sandbox.dogrouter.ai,4.0,4,1.67,kimi-k3 $0.1 vs 中位 $6（1.67%） | glm-5.2 $0.1 vs 中位 $2.4（4.17%） | deepseek-v4-pro $0.1 vs 中位 $1.74（5.75%）
 moyuu.cc,4.0,4,1.67,kimi-k3 $0.1 vs 中位 $6（1.67%） | glm-5.3-flash $0.004 vs 中位 $0.2（2.00%） | glm-5.3 $0.04 vs 中位 $2（2.00%）
-ai-pixel.online,4.0,4,2.0,gpt-5.6-sol $0.025 vs 中位 $1.25（2.00%） | gpt-5.6-terra $0.0125 vs 中位 $0.6（2.08%） | gpt-5.6-luna $0.005 vs 中位 $0.2（2.50%）
-api.mcapple.top,4.0,4,2.0,kimi-k3 $0.12 vs 中位 $6（2.00%） | deepseek-v4-pro $0.06 vs 中位 $1.8（3.33%） | glm-5.3-flash $0.016 vs 中位 $0.2（8.00%）
-tmdapis.com,4.0,4,2.4,grok-4.5 $0.012 vs 中位 $0.5（2.40%） | claude-opus-4-6 $0.24 vs 中位 $2.5（9.60%） | claude-opus-4-7 $0.24 vs 中位 $2.5（9.60%）
-agentapi.xyz,4.0,4,2.42,deepseek-v4-pro $0.0435 vs 中位 $1.8（2.42%） | glm-5 $0.086 vs 中位 $3（2.87%） | glm-5.1 $0.087 vs 中位 $2.1（4.14%）
+ai-pixel.online,4.0,4,1.83,gpt-5.6-sol $0.025 vs 中位 $1.365（1.83%） | gpt-5.6-terra $0.0125 vs 中位 $0.6（2.08%） | gpt-5.6-luna $0.005 vs 中位 $0.2（2.50%）
+api.mcapple.top,4.0,4,2.0,kimi-k3 $0.12 vs 中位 $6（2.00%） | deepseek-v4-pro $0.06 vs 中位 $1.74（3.45%） | claude-opus-4-5 $0.35 vs 中位 $4.5（7.78%）
+tmdapis.com,4.0,4,2.4,grok-4.5 $0.012 vs 中位 $0.5（2.40%） | claude-opus-4-7 $0.24 vs 中位 $3（8.00%） | claude-opus-4-6 $0.24 vs 中位 $2.625（9.14%）
+agentapi.xyz,4.0,4,2.5,deepseek-v4-pro $0.0435 vs 中位 $1.74（2.50%） | glm-5 $0.086 vs 中位 $2.68（3.21%） | glm-5.1 $0.087 vs 中位 $2.1（4.14%）
+api.clawhud.com,4.0,4,2.5,deepseek-v4-pro $0.0435 vs 中位 $1.74（2.50%） | glm-5.2 $0.1 vs 中位 $2.4（4.17%） | kimi-k3 $0.294807 vs 中位 $6（4.91%）
 apiv3.52codeflow.top,4.0,4,2.5,glm-5.2 $0.06 vs 中位 $2.4（2.50%） | glm-5.3 $0.08 vs 中位 $2（4.00%） | gpt-5.6-luna $0.012 vs 中位 $0.2（6.00%）
-ai.easysu.cn,4.0,4,2.88,claude-opus-5 $0.072 vs 中位 $2.5（2.88%） | claude-opus-4-7 $0.0864 vs 中位 $2.5（3.46%） | claude-opus-4-8 $0.0864 vs 中位 $2.5（3.46%）
+yunbay.xyz,4.0,4,2.7,gpt-5.6-luna $0.0054 vs 中位 $0.2（2.70%） | claude-opus-4-5 $0.142 vs 中位 $4.5（3.16%） | claude-opus-4-8 $0.085 vs 中位 $2.5（3.40%）
+ai.easysu.cn,4.0,4,2.88,claude-opus-5 $0.072 vs 中位 $2.5（2.88%） | claude-opus-4-7 $0.0864 vs 中位 $3（2.88%） | claude-opus-4-8 $0.0864 vs 中位 $2.5（3.46%）
+op.aancn.cn,4.0,4,3.75,glm-5.3-flash $0.0075 vs 中位 $0.2（3.75%） | kimi-k3 $0.3 vs 中位 $6（5.00%） | glm-5.3 $0.1 vs 中位 $2（5.00%）
 sandbox.dogrouter.ai,4.0,4,4.0,claude-opus-4-8 $0.1 vs 中位 $2.5（4.00%） | glm-5.2 $0.1 vs 中位 $2.4（4.17%） | glm-5.3 $0.1 vs 中位 $2（5.00%）
-aixhub.shop,4.0,4,4.91,glm-5.2 $0.117923 vs 中位 $2.4（4.91%） | glm-5.1 $0.14 vs 中位 $2.1（6.67%） | glm-5.3 $0.14 vs 中位 $2（7.00%）
-api.247kan.com,4.0,4,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%） | claude-sonnet-5-5 $0.1 vs 中位 $1.3（7.69%）
-apijing.com,4.0,4,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-1 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%）
-llm.twinight.co,4.0,4,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%） | claude-sonnet-5-5 $0.1 vs 中位 $1.3（7.69%）
-newapi.ailyyzdk.xyz,4.0,4,5.0,claude-opus-4 $0.75 vs 中位 $15（5.00%） | claude-opus-4-1 $0.75 vs 中位 $15（5.00%） | claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%）
+api.apikl.ai,4.0,4,4.31,deepseek-v4-pro $0.075 vs 中位 $1.74（4.31%） | claude-opus-4-5 $0.3 vs 中位 $4.5（6.67%） | claude-sonnet-5-5 $0.12 vs 中位 $1.38（8.70%）
+apiai.fun,4.0,4,4.31,deepseek-v4-pro $0.075 vs 中位 $1.74（4.31%） | claude-opus-4-5 $0.3 vs 中位 $4.5（6.67%） | claude-sonnet-5-5 $0.12 vs 中位 $1.38（8.70%）
 routerra.ai,4.0,4,5.33,kimi-k3 $0.32 vs 中位 $6（5.33%） | glm-5.3 $0.12 vs 中位 $2（6.00%） | glm-5.2 $0.18 vs 中位 $2.4（7.50%）
-boai.iisbo.com,4.0,4,5.46,gpt-5.6-terra $0.03275 vs 中位 $0.6（5.46%） | gpt-5.6-sol $0.081875 vs 中位 $1.25（6.55%） | gpt-6-astra $0.1965 vs 中位 $2.7（7.28%）
-sub.jui87.com,4.0,4,5.5,deepseek-v4-pro $0.099 vs 中位 $1.8（5.50%） | glm-5.2 $0.15 vs 中位 $2.4（6.25%） | glm-5.3 $0.15 vs 中位 $2（7.50%）
-sub.apiroute.top,4.0,4,5.56,gpt-6-astra $0.15 vs 中位 $2.7（5.56%） | gpt-5.6-sol $0.075 vs 中位 $1.25（6.00%） | gpt-5.6-terra $0.0375 vs 中位 $0.6（6.25%）
+boai.iisbo.com,4.0,4,5.46,gpt-5.6-terra $0.03275 vs 中位 $0.6（5.46%） | gpt-5.6-sol $0.081875 vs 中位 $1.365（6.00%） | gpt-6-astra $0.1965 vs 中位 $3（6.55%）
+api.beibeiai.top,4.0,4,5.56,claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%） | claude-opus-4-7 $0.25 vs 中位 $3（8.33%） | claude-sonnet-5 $0.1 vs 中位 $1.2（8.33%）
+vip.kkone.vip,4.0,4,5.56,claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%） | claude-sonnet-5-5 $0.1 vs 中位 $1.38（7.25%） | claude-opus-4-7 $0.25 vs 中位 $3（8.33%）
+sub.jui87.com,4.0,4,5.69,deepseek-v4-pro $0.099 vs 中位 $1.74（5.69%） | glm-5.2 $0.15 vs 中位 $2.4（6.25%） | glm-5.3 $0.15 vs 中位 $2（7.50%）
+wyh.apijing.com,4.0,4,6.0,claude-opus-4 $0.9 vs 中位 $15（6.00%） | claude-opus-4-1 $0.9 vs 中位 $15（6.00%） | claude-opus-4-5 $0.3 vs 中位 $4.5（6.67%）
+yetoken.vip,4.0,4,6.67,claude-opus-4-7 $0.2 vs 中位 $3（6.67%） | claude-opus-4-6 $0.2 vs 中位 $2.625（7.62%） | claude-opus-4-8 $0.2 vs 中位 $2.5（8.00%）
 api3.kscsnkli.site,4.0,4,6.75,glm-5.2 $0.162 vs 中位 $2.4（6.75%） | kimi-k3 $0.43 vs 中位 $6（7.17%） | glm-5.3 $0.16 vs 中位 $2（8.00%）
+api.yunserver.cn,4.0,4,7.45,gpt-6-astra $0.2235 vs 中位 $3（7.45%） | gpt-5.6-sol $0.111 vs 中位 $1.365（8.13%） | gpt-5.6-terra $0.0555 vs 中位 $0.6（9.25%）
 xinyue.mom,4.0,4,8.0,gpt-5.6-luna $0.016 vs 中位 $0.2（8.00%） | claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%）
-yetoken.vip,4.0,4,8.0,claude-opus-4-6 $0.2 vs 中位 $2.5（8.00%） | claude-opus-4-7 $0.2 vs 中位 $2.5（8.00%） | claude-opus-4-8 $0.2 vs 中位 $2.5（8.00%）
-api.yunserver.cn,4.0,4,8.28,gpt-6-astra $0.2235 vs 中位 $2.7（8.28%） | gpt-5.6-sol $0.111 vs 中位 $1.25（8.88%） | deepseek-v4-pro $0.165 vs 中位 $1.8（9.17%）
+puppyrouter.com,4.0,4,8.33,gemini-3.1-pro-preview $0.16 vs 中位 $1.92（8.33%） | kimi-k3 $0.588235 vs 中位 $6（9.80%） | glm-5.2 $0.235294 vs 中位 $2.4（9.80%）
 api-top.com,3.5,3,0.8,grok-4.5 $0.004 vs 中位 $0.5（0.80%） | grok-4.6 $0.004 vs 中位 $0.4（1.00%） | grok-4.7 $0.004 vs 中位 $0.4（1.00%）
-topapi.io,3.5,3,0.8,grok-4.5 $0.004 vs 中位 $0.5（0.80%） | grok-4.6 $0.004 vs 中位 $0.4（1.00%） | grok-4.7 $0.004 vs 中位 $0.4（1.00%）
 la-api.vxvxvx.top,3.0,2,0.0,gemini-3.1-pro-preview $0.000004 vs 中位 $1.92（0.00%） | claude-opus-4-8 $0.00001 vs 中位 $2.5（0.00%）
-sub2api.yunquedev.online,3.0,3,1.25,deepseek-v4-pro $0.0225 vs 中位 $1.8（1.25%） | kimi-k3 $0.44221 vs 中位 $6（7.37%） | glm-5.2 $0.176884 vs 中位 $2.4（7.37%）
-closedai.kylenqaq.com,3.0,3,1.67,claude-opus-4-5 $0.071 vs 中位 $4.25（1.67%） | claude-opus-4-8 $0.0425 vs 中位 $2.5（1.70%） | gpt-5.6-sol $0.12 vs 中位 $1.25（9.60%）
+sub2api.yunquedev.online,3.0,3,1.29,deepseek-v4-pro $0.0225 vs 中位 $1.74（1.29%） | kimi-k3 $0.44221 vs 中位 $6（7.37%） | glm-5.2 $0.176884 vs 中位 $2.4（7.37%）
+closedai.kylenqaq.com,3.0,3,1.58,claude-opus-4-5 $0.071 vs 中位 $4.5（1.58%） | claude-opus-4-8 $0.0425 vs 中位 $2.5（1.70%） | gpt-5.6-sol $0.12 vs 中位 $1.365（8.79%）
 api.www-cx-api.cn.mt,3.0,3,1.88,glm-5.3-flashx $0.0075 vs 中位 $0.4（1.88%） | glm-5.3 $0.07 vs 中位 $2（3.50%） | glm-5.3-flash $0.0075 vs 中位 $0.2（3.75%）
-api.zeekai-cn.cc,3.0,3,2.14,glm-5.1 $0.045 vs 中位 $2.1（2.14%） | glm-5.2 $0.11268 vs 中位 $2.4（4.70%） | deepseek-v4-pro $0.174 vs 中位 $1.8（9.67%）
-ai.wcapis.com,3.0,3,2.17,deepseek-v4-pro $0.03915 vs 中位 $1.8（2.17%） | kimi-k3 $0.27 vs 中位 $6（4.50%） | glm-5.3-flash $0.018 vs 中位 $0.2（9.00%）
-yunbay.xyz,3.0,3,2.7,gpt-5.6-luna $0.0054 vs 中位 $0.2（2.70%） | claude-opus-4-5 $0.142 vs 中位 $4.25（3.34%） | claude-opus-4-8 $0.085 vs 中位 $2.5（3.40%）
-redumbrellacloudlink.himscp.top,3.0,3,2.78,gpt-6-astra $0.075 vs 中位 $2.7（2.78%） | glm-5.3 $0.075 vs 中位 $2（3.75%） | gpt-5.6-sol $0.075 vs 中位 $1.25（6.00%）
-tokenkey.vip,3.0,3,3.92,deepseek-v4-pro $0.0705 vs 中位 $1.8（3.92%） | kimi-k3 $0.504 vs 中位 $6（8.40%） | glm-5.2 $0.2352 vs 中位 $2.4（9.80%）
+api.zeekai-cn.cc,3.0,3,2.14,glm-5.1 $0.045 vs 中位 $2.1（2.14%） | glm-5.2 $0.11268 vs 中位 $2.4（4.70%） | deepseek-v4-pro $0.174 vs 中位 $1.74（10.00%）
+ai.wcapis.com,3.0,3,2.25,deepseek-v4-pro $0.03915 vs 中位 $1.74（2.25%） | kimi-k3 $0.27 vs 中位 $6（4.50%） | glm-5.3-flash $0.018 vs 中位 $0.2（9.00%）
+redumbrellacloudlink.himscp.top,3.0,3,2.5,gpt-6-astra $0.075 vs 中位 $3（2.50%） | glm-5.3 $0.075 vs 中位 $2（3.75%） | gpt-5.6-sol $0.075 vs 中位 $1.365（5.49%）
+codex-relay.codes,3.0,3,3.2,gpt-5.6-luna $0.0064 vs 中位 $0.2（3.20%） | gpt-6-luna $0.0032 vs 中位 $0.0696154（4.60%） | gpt-5.6-sol $0.128 vs 中位 $1.365（9.38%）
 o-ai.me,3.0,3,4.0,grok-4.5 $0.02 vs 中位 $0.5（4.00%） | grok-4.6 $0.02 vs 中位 $0.4（5.00%） | grok-4.7 $0.02 vs 中位 $0.4（5.00%）
-api.apikl.ai,3.0,3,4.17,deepseek-v4-pro $0.075 vs 中位 $1.8（4.17%） | claude-opus-4-5 $0.3 vs 中位 $4.25（7.06%） | claude-sonnet-5-5 $0.12 vs 中位 $1.3（9.23%）
+passion-api.com,3.0,3,4.0,grok-4.5 $0.02 vs 中位 $0.5（4.00%） | grok-4.6 $0.02 vs 中位 $0.4（5.00%） | grok-4.7 $0.02 vs 中位 $0.4（5.00%）
+tokeness.io,3.0,3,4.31,gpt-6-luna $0.003 vs 中位 $0.0696154（4.31%） | claude-sonnet-5-5 $0.12 vs 中位 $1.38（8.70%） | claude-opus-4-7 $0.3 vs 中位 $3（10.00%）
+api.hzapi.vip,3.0,3,4.5,gpt-5.6-luna $0.009 vs 中位 $0.2（4.50%） | gpt-6-luna $0.0045 vs 中位 $0.0696154（6.46%） | claude-sonnet-5-5 $0.134 vs 中位 $1.38（9.71%）
 nb.deepsb.com,3.0,3,5.0,kimi-k3 $0.3 vs 中位 $6（5.00%） | glm-5.2 $0.14 vs 中位 $2.4（5.83%） | glm-5.3 $0.14 vs 中位 $2（7.00%）
-token123.cfd,3.0,3,5.0,glm-5.3 $0.1 vs 中位 $2（5.00%） | deepseek-v4-pro $0.10875 vs 中位 $1.8（6.04%） | glm-5.3-flash $0.0175 vs 中位 $0.2（8.75%）
-www.bb-api.com,3.0,3,5.88,claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%） | claude-sonnet-5-5 $0.1 vs 中位 $1.3（7.69%） | claude-sonnet-5 $0.1 vs 中位 $1.185（8.44%）
-wyh.apijing.com,3.0,3,6.0,claude-opus-4 $0.9 vs 中位 $15（6.00%） | claude-opus-4-1 $0.9 vs 中位 $15（6.00%） | claude-opus-4-5 $0.3 vs 中位 $4.25（7.06%）
-www.civilian.asia,3.0,3,7.0,gpt-5.6-luna $0.014 vs 中位 $0.2（7.00%） | claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.25（9.41%）
-ai.entrylk.cn,3.0,3,8.0,claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.25（9.41%）
-api.routeeasy.ai,3.0,3,8.0,claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.25（9.41%）
-hhw1231.com,3.0,3,8.0,claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.25（9.41%）
+token123.cfd,3.0,3,5.0,glm-5.3 $0.1 vs 中位 $2（5.00%） | deepseek-v4-pro $0.10875 vs 中位 $1.74（6.25%） | glm-5.3-flash $0.0175 vs 中位 $0.2（8.75%）
+oojj.top,3.0,3,5.56,claude-opus-4-5 $0.25 vs 中位 $4.5（5.56%） | claude-opus-4-7 $0.25 vs 中位 $3（8.33%） | claude-opus-4-6 $0.25 vs 中位 $2.625（9.52%）
+www.civilian.asia,3.0,3,7.0,gpt-5.6-luna $0.014 vs 中位 $0.2（7.00%） | claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.5（8.89%）
+api.relayrouter.ai,3.0,3,7.66,gemini-3.1-pro-preview $0.14706 vs 中位 $1.92（7.66%） | claude-opus-4-5 $0.4412 vs 中位 $4.5（9.80%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
+openlux.zhongzhuan.chat,3.0,3,7.66,gemini-3.1-pro-preview $0.14706 vs 中位 $1.92（7.66%） | claude-opus-4-5 $0.4412 vs 中位 $4.5（9.80%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
+na2.whistlelads.com,3.0,3,7.89,claude-opus-4-5 $0.355 vs 中位 $4.5（7.89%） | kimi-k3 $0.5 vs 中位 $6（8.33%） | claude-opus-4-8 $0.2125 vs 中位 $2.5（8.50%）
+api.zcloudapi.com,3.0,3,7.94,claude-sonnet-5-5 $0.109589 vs 中位 $1.38（7.94%） | claude-sonnet-5 $0.109589 vs 中位 $1.2（9.13%） | claude-opus-4-7 $0.273973 vs 中位 $3（9.13%）
+ai.entrylk.cn,3.0,3,8.0,claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.5（8.89%）
+api.routeeasy.ai,3.0,3,8.0,claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.5（8.89%）
+hhw1231.com,3.0,3,8.0,claude-opus-4 $1.2 vs 中位 $15（8.00%） | claude-opus-4-1 $1.2 vs 中位 $15（8.00%） | claude-opus-4-5 $0.4 vs 中位 $4.5（8.89%）
 momoapi.xin,3.0,3,8.0,grok-4.5 $0.04 vs 中位 $0.5（8.00%） | grok-4.6 $0.04 vs 中位 $0.4（10.00%） | grok-4.7 $0.04 vs 中位 $0.4（10.00%）
-na2.whistlelads.com,3.0,3,8.33,kimi-k3 $0.5 vs 中位 $6（8.33%） | claude-opus-4-5 $0.355 vs 中位 $4.25（8.35%） | claude-opus-4-8 $0.2125 vs 中位 $2.5（8.50%）
-puppyrouter.com,3.0,3,8.33,gemini-3.1-pro-preview $0.16 vs 中位 $1.92（8.33%） | kimi-k3 $0.588235 vs 中位 $6（9.80%） | glm-5.2 $0.235294 vs 中位 $2.4（9.80%）
+api.lingzhouai.com,3.0,3,8.33,claude-opus-4-7 $0.25 vs 中位 $3（8.33%） | claude-sonnet-5 $0.1 vs 中位 $1.2（8.33%） | claude-opus-4-6 $0.25 vs 中位 $2.625（9.52%）
+cheapai.io,3.0,3,8.48,claude-sonnet-5-5 $0.117 vs 中位 $1.38（8.48%） | claude-sonnet-5 $0.117 vs 中位 $1.2（9.75%） | claude-opus-4-7 $0.297 vs 中位 $3（9.90%）
+liliapi.siphot.com,3.0,3,8.7,claude-sonnet-5-5 $0.12 vs 中位 $1.38（8.70%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%） | claude-opus-4-7 $0.3 vs 中位 $3（10.00%）
 apicangku.icu,2.5,2,0.2,kimi-k3 $0.012 vs 中位 $6（0.20%） | gpt-5.6-luna $0.004 vs 中位 $0.2（2.00%）
-kedaya.ai,2.5,2,0.2,claude-opus-5-5 $0.004 vs 中位 $2（0.20%） | claude-opus-4-5 $0.4 vs 中位 $4.25（9.41%）
+kedaya.ai,2.5,2,0.2,claude-opus-5-5 $0.004 vs 中位 $2（0.20%） | claude-opus-4-5 $0.4 vs 中位 $4.5（8.89%）
 ai.lt4net.org,2.5,2,0.4,grok-4.5 $0.002 vs 中位 $0.5（0.40%） | kimi-k3 $0.19 vs 中位 $6（3.17%）
-fengchao-api.com,2.0,2,1.25,deepseek-v4-pro $0.0225 vs 中位 $1.8（1.25%） | kimi-k3 $0.324288 vs 中位 $6（5.40%）
-api.cnvip.com.cn,2.0,2,1.5,glm-5.3-flash $0.003 vs 中位 $0.2（1.50%） | gpt-6-luna $0.005 vs 中位 $0.06（8.33%）
-api.qiuming-ai.com,2.0,2,1.52,deepseek-v4-pro $0.0273 vs 中位 $1.8（1.52%） | kimi-k3 $0.536549 vs 中位 $6（8.94%）
-api.qiuming-web.com,2.0,2,1.52,deepseek-v4-pro $0.0273 vs 中位 $1.8（1.52%） | kimi-k3 $0.536549 vs 中位 $6（8.94%）
-flynn.sandbox.dogrouter.ai,2.0,2,1.67,kimi-k3 $0.1 vs 中位 $6（1.67%） | claude-sonnet-5 $0.1 vs 中位 $1.185（8.44%）
-nextpro.top,2.0,2,1.67,deepseek-v4-pro $0.03 vs 中位 $1.8（1.67%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
-yunqiaoapi.cn,2.0,2,1.67,deepseek-v4-pro $0.03 vs 中位 $1.8（1.67%） | kimi-k3 $0.58962 vs 中位 $6（9.83%）
-cn.lxtech.icu,2.0,2,2.22,gpt-6-astra $0.06 vs 中位 $2.7（2.22%） | gpt-5.6-sol $0.06 vs 中位 $1.25（4.80%）
+ai.ltcraft.cn,2.5,2,0.4,grok-4.5 $0.002 vs 中位 $0.5（0.40%） | kimi-k3 $0.4275 vs 中位 $6（7.12%）
+fengchao-api.com,2.0,2,1.29,deepseek-v4-pro $0.0225 vs 中位 $1.74（1.29%） | kimi-k3 $0.324288 vs 中位 $6（5.40%）
+api.cnvip.com.cn,2.0,2,1.5,glm-5.3-flash $0.003 vs 中位 $0.2（1.50%） | gpt-6-luna $0.005 vs 中位 $0.0696154（7.18%）
+api.qiuming-ai.com,2.0,2,1.57,deepseek-v4-pro $0.0273 vs 中位 $1.74（1.57%） | kimi-k3 $0.536549 vs 中位 $6（8.94%）
+api.qiuming-web.com,2.0,2,1.57,deepseek-v4-pro $0.0273 vs 中位 $1.74（1.57%） | kimi-k3 $0.536549 vs 中位 $6（8.94%）
+flynn.sandbox.dogrouter.ai,2.0,2,1.67,kimi-k3 $0.1 vs 中位 $6（1.67%） | claude-sonnet-5 $0.1 vs 中位 $1.2（8.33%）
+nextpro.top,2.0,2,1.72,deepseek-v4-pro $0.03 vs 中位 $1.74（1.72%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
+yunqiaoapi.cn,2.0,2,1.72,deepseek-v4-pro $0.03 vs 中位 $1.74（1.72%） | kimi-k3 $0.58962 vs 中位 $6（9.83%）
+cn.lxtech.icu,2.0,2,2.0,gpt-6-astra $0.06 vs 中位 $3（2.00%） | gpt-5.6-sol $0.06 vs 中位 $1.365（4.40%）
 apibei.shuxiashu.top,2.0,2,3.2,grok-4.5 $0.016 vs 中位 $0.5（3.20%） | grok-4.6 $0.016 vs 中位 $0.4（4.00%）
-codex-relay.codes,2.0,2,3.2,gpt-5.6-luna $0.0064 vs 中位 $0.2（3.20%） | gpt-6-luna $0.0032 vs 中位 $0.06（5.33%）
-daoxe.com,2.0,2,3.2,glm-5 $0.096 vs 中位 $3（3.20%） | gemini-3.1-pro-preview-customtools $0.6 vs 中位 $6（10.00%）
 api.tacklekey.com,2.0,2,3.21,glm-5.2 $0.0769231 vs 中位 $2.4（3.21%） | glm-5.3 $0.121538 vs 中位 $2（6.08%）
-coreengine.cc,2.0,2,3.29,claude-sonnet-5 $0.039 vs 中位 $1.185（3.29%） | gpt-5.6-luna $0.0083 vs 中位 $0.2（4.15%）
+coreengine.cc,2.0,2,3.25,claude-sonnet-5 $0.039 vs 中位 $1.2（3.25%） | gpt-5.6-luna $0.0083 vs 中位 $0.2（4.15%）
+daoxe.com,2.0,2,3.58,glm-5 $0.096 vs 中位 $2.68（3.58%） | gemini-3.1-pro-preview-customtools $0.6 vs 中位 $6（10.00%）
 code.ciyuanapi.xyz,2.0,2,3.75,glm-5.3-flash $0.0075 vs 中位 $0.2（3.75%） | glm-5.2 $0.1 vs 中位 $2.4（4.17%）
-api.tameac.com,2.0,2,3.93,glm-5 $0.117923 vs 中位 $3（3.93%） | glm-5.2 $0.235846 vs 中位 $2.4（9.83%）
 api.muzeai.top,2.0,2,4.0,glm-5.3-flash $0.008 vs 中位 $0.2（4.00%） | glm-5.3-flashx $0.02 vs 中位 $0.4（5.00%）
+openrouter.cloud,2.0,2,4.0,glm-5.3 $0.08 vs 中位 $2（4.00%） | glm-5.3-flash $0.02 vs 中位 $0.2（10.00%）
 godoftoken.eu.cc,2.0,2,4.17,glm-5.2 $0.1 vs 中位 $2.4（4.17%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
-api.hzapi.vip,2.0,2,4.5,gpt-5.6-luna $0.009 vs 中位 $0.2（4.50%） | gpt-6-luna $0.0045 vs 中位 $0.06（7.50%）
-superxihe.com,2.0,2,4.5,gpt-5.6-luna $0.009 vs 中位 $0.2（4.50%） | gpt-6-luna $0.0045 vs 中位 $0.06（7.50%）
-newapi.qwqtao.com,2.0,2,4.8,glm-5 $0.144 vs 中位 $3（4.80%） | glm-5.1 $0.135 vs 中位 $2.1（6.43%）
+api.tameac.com,2.0,2,4.4,glm-5 $0.117923 vs 中位 $2.68（4.40%） | glm-5.2 $0.235846 vs 中位 $2.4（9.83%）
+superxihe.com,2.0,2,4.5,gpt-5.6-luna $0.009 vs 中位 $0.2（4.50%） | gpt-6-luna $0.0045 vs 中位 $0.0696154（6.46%）
 2api.app,2.0,2,4.87,glm-5.3-flashx $0.0195 vs 中位 $0.4（4.87%） | glm-5.3-flash $0.0195 vs 中位 $0.2（9.75%）
-api.nitrorouter.com,2.0,2,5.0,gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%） | gpt-6-luna $0.005 vs 中位 $0.06（8.33%）
-api.vibe-subsapi.com,2.0,2,5.0,gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%） | gpt-6-luna $0.005 vs 中位 $0.06（8.33%）
+api.nitrorouter.com,2.0,2,5.0,gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%） | gpt-6-luna $0.005 vs 中位 $0.0696154（7.18%）
+api.vibe-subsapi.com,2.0,2,5.0,gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%） | gpt-6-luna $0.005 vs 中位 $0.0696154（7.18%）
 api.xuyizuo.top,2.0,2,5.0,glm-5.3-flash $0.01 vs 中位 $0.2（5.00%） | gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%）
-super.aresaicode.cn,2.0,2,5.0,gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%） | gpt-6-luna $0.005 vs 中位 $0.06（8.33%）
-tokeness.io,2.0,2,5.0,gpt-6-luna $0.003 vs 中位 $0.06（5.00%） | claude-sonnet-5-5 $0.12 vs 中位 $1.3（9.23%）
+super.aresaicode.cn,2.0,2,5.0,gpt-5.6-luna $0.01 vs 中位 $0.2（5.00%） | gpt-6-luna $0.005 vs 中位 $0.0696154（7.18%）
 api.1024token.xyz,2.0,2,5.33,claude-opus-4 $0.8 vs 中位 $15（5.33%） | claude-opus-4-1 $0.8 vs 中位 $15（5.33%）
-2api.me,2.0,2,5.56,deepseek-v4-pro $0.1 vs 中位 $1.8（5.56%） | glm-5.2 $0.15 vs 中位 $2.4（6.25%）
-corealgos.com,2.0,2,5.74,deepseek-v4-pro $0.103235 vs 中位 $1.8（5.74%） | glm-5.3-flash $0.0162 vs 中位 $0.2（8.10%）
-api.beibeiai.top,2.0,2,5.88,claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%） | claude-sonnet-5 $0.1 vs 中位 $1.185（8.44%）
-vip.kkone.vip,2.0,2,5.88,claude-opus-4-5 $0.25 vs 中位 $4.25（5.88%） | claude-sonnet-5-5 $0.1 vs 中位 $1.3（7.69%）
-canana.vcnovb.cn,2.0,2,6.53,glm-5v-turbo $0.05 vs 中位 $0.765497（6.53%） | claude-opus-4-5 $0.35 vs 中位 $4.25（8.24%）
-sub.vcnovb.cn,2.0,2,6.53,glm-5v-turbo $0.05 vs 中位 $0.765497（6.53%） | claude-opus-4-5 $0.35 vs 中位 $4.25（8.24%）
-api.tohoqing.com,2.0,2,6.67,deepseek-v4-pro $0.12 vs 中位 $1.8（6.67%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
+newapi.qwqtao.com,2.0,2,5.37,glm-5 $0.144 vs 中位 $2.68（5.37%） | glm-5.1 $0.135 vs 中位 $2.1（6.43%）
+2api.me,2.0,2,5.75,deepseek-v4-pro $0.1 vs 中位 $1.74（5.75%） | glm-5.2 $0.15 vs 中位 $2.4（6.25%）
+corealgos.com,2.0,2,5.93,deepseek-v4-pro $0.103235 vs 中位 $1.74（5.93%） | glm-5.3-flash $0.0162 vs 中位 $0.2（8.10%）
+00ccc.cn,2.0,2,6.0,claude-opus-4-7-max $0.3 vs 中位 $5（6.00%） | claude-opus-4-7 $0.3 vs 中位 $3（10.00%）
+ai.blue1.top,2.0,2,6.0,gpt-5.6-luna $0.012 vs 中位 $0.2（6.00%） | gpt-6-luna $0.006 vs 中位 $0.0696154（8.62%）
+api.123uq.com,2.0,2,6.0,gpt-5.6-luna $0.012 vs 中位 $0.2（6.00%） | gpt-6-luna $0.006 vs 中位 $0.0696154（8.62%）
+canana.vcnovb.cn,2.0,2,6.25,glm-5v-turbo $0.05 vs 中位 $0.8（6.25%） | claude-opus-4-5 $0.35 vs 中位 $4.5（7.78%）
+sub.vcnovb.cn,2.0,2,6.25,glm-5v-turbo $0.05 vs 中位 $0.8（6.25%） | claude-opus-4-5 $0.35 vs 中位 $4.5（7.78%）
+pureai.ink,2.0,2,6.5,gpt-5.6-luna $0.013 vs 中位 $0.2（6.50%） | gpt-6-luna $0.0065 vs 中位 $0.0696154（9.34%）
+api.suanniao.shop,2.0,2,6.67,claude-opus-4-5 $0.3 vs 中位 $4.5（6.67%） | claude-opus-4-7 $0.3 vs 中位 $3（10.00%）
+api.tohoqing.com,2.0,2,6.9,deepseek-v4-pro $0.12 vs 中位 $1.74（6.90%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
 open.selart.cc,2.0,2,7.38,kimi-k3 $0.443 vs 中位 $6（7.38%） | glm-5.2 $0.18 vs 中位 $2.4（7.50%）
-api.relayrouter.ai,2.0,2,7.66,gemini-3.1-pro-preview $0.14706 vs 中位 $1.92（7.66%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
-openlux.zhongzhuan.chat,2.0,2,7.66,gemini-3.1-pro-preview $0.14706 vs 中位 $1.92（7.66%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
+kuai-ai.vip,2.0,2,7.5,kimi-k3.1-pro $0.15 vs 中位 $2（7.50%） | glm-5.3-flash $0.02 vs 中位 $0.2（10.00%）
+wellapi.site,2.0,2,7.62,claude-opus-4-6 $0.2 vs 中位 $2.625（7.62%） | claude-opus-4-7 $0.25 vs 中位 $3（8.33%）
 988665.xyz,2.0,2,8.0,grok-4.5 $0.04 vs 中位 $0.5（8.00%） | grok-4.7 $0.04 vs 中位 $0.4（10.00%）
 ai.gpt666claude.top,2.0,2,8.0,grok-4.5 $0.04 vs 中位 $0.5（8.00%） | grok-4.6 $0.04 vs 中位 $0.4（10.00%）
 lansekafei.cn,2.0,2,8.0,grok-4.5 $0.04 vs 中位 $0.5（8.00%） | grok-4.6 $0.04 vs 中位 $0.4（10.00%）
-api.zcloudapi.com,2.0,2,8.43,claude-sonnet-5-5 $0.109589 vs 中位 $1.3（8.43%） | claude-sonnet-5 $0.109589 vs 中位 $1.185（9.25%）
-b.kr777.top,2.0,2,8.82,claude-opus-4-5 $0.375 vs 中位 $4.25（8.82%） | gemini-3.1-pro-preview-customtools $0.6 vs 中位 $6（10.00%）
-cheapai.io,2.0,2,9.0,claude-sonnet-5-5 $0.117 vs 中位 $1.3（9.00%） | claude-sonnet-5 $0.117 vs 中位 $1.185（9.87%）
+b.kr777.top,2.0,2,8.33,claude-opus-4-5 $0.375 vs 中位 $4.5（8.33%） | gemini-3.1-pro-preview-customtools $0.6 vs 中位 $6（10.00%）
+newaicxy.xyz,2.0,2,8.7,claude-sonnet-5-5 $0.12 vs 中位 $1.38（8.70%） | claude-opus-4-7 $0.3 vs 中位 $3（10.00%）
+3seeker.site,2.0,2,8.83,claude-sonnet-5 $0.106 vs 中位 $1.2（8.83%） | claude-opus-4-7 $0.265 vs 中位 $3（8.83%）
 new.984275579.xyz,2.0,2,9.0,claude-opus-4 $1.35 vs 中位 $15（9.00%） | claude-opus-4-1 $1.35 vs 中位 $15（9.00%）
 jd14l2.auto-code.net,2.0,2,9.1,glm-5.3 $0.182 vs 中位 $2（9.10%） | glm-5.3-flash $0.0195 vs 中位 $0.2（9.75%）
-liliapi.siphot.com,2.0,2,9.23,claude-sonnet-5-5 $0.12 vs 中位 $1.3（9.23%） | gpt-5.6-luna $0.02 vs 中位 $0.2（10.00%）
+frugalrelay.me,2.0,2,9.17,claude-sonnet-5 $0.11 vs 中位 $1.2（9.17%） | claude-opus-4-7 $0.275 vs 中位 $3（9.17%）
 kittyapi.xyz,2.0,2,9.83,kimi-k3 $0.589614 vs 中位 $6（9.83%） | glm-5.2 $0.235846 vs 中位 $2.4（9.83%）

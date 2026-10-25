@@ -1,6 +1,6 @@
 # kimi-k2-0711-preview
 
-> 135 站提供 · 正常价 58 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥2.418**/1M 输入（55 站公开充值价） · 推算，未对账
+> 149 站提供 · 正常价 67 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥2.418**/1M 输入（64 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,56 +12,56 @@
 |---|---|---|---|---|---|---|
 | 1 | `claudecn.ai` | ¥0.54 | $0.54 / $2.25 | 1 | 国产模型 | kimi-k2-0711-preview |
 | 2 | `www.ggwk1.online` | ¥1.05 | $1.05 / $3.15 | 1 | 国产模型组-0.7倍率 | kimi-k2-0711-preview |
-| 3 | `api.relayrouter.ai` | ¥1.209 | $0.18 / $0.72 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 4 | `openlux.zhongzhuan.chat` | ¥1.209 | $0.18 / $0.72 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 5 | `api.tidewhisper-ai.xyz` | ¥1.33 | $0.198 / $0.792 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 6 | `gzxbykj.com` | ¥1.33 | $0.198 / $0.792 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 7 | `yunwu.org` | ¥1.33 | $0.198 / $0.792 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 8 | `v2.cloudmist.cloud` | ¥1.391 | $0.207 / $0.828 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 9 | `www.vectronode.com` | ¥1.451 | $0.216 / $0.864 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 10 | `apiclaw.cn` | ¥1.463 | $0.2178 / $0.8712 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 11 | `newapi.xueai.me` | ¥1.463 | $0.2178 / $0.8712 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 12 | `ciyuan.today` | ¥1.512 | $0.225 / $0.9 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 13 | `gptapi.top` | ¥1.512 | $0.225 / $0.9 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 14 | `makerend.com` | ¥1.512 | $0.225 / $0.9 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 15 | `moliapi.com` | ¥1.524 | $0.2268 / $0.9072 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 16 | `ai-api.cc` | ¥1.572 | $0.234 / $0.936 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 17 | `nodapi.com` | ¥1.596 | $0.2376 / $0.9504 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 18 | `anyaigc.ai` | ¥1.632 | $0.243 / $0.972 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 19 | `sheepaiplus.top` | ¥1.693 | $0.252 / $1.008 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 20 | `xiguapi.icu` | ¥1.693 | $0.252 / $1.008 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 21 | `api.88api.chat` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 22 | `api.videocaptioner.cn` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 23 | `new.aigc2d.com` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 24 | `oyy-ai.xyz` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 25 | `api.nixapi.com` | ¥2.044 | $0.3042 / $1.2168 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 26 | `aiwuje.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 27 | `api.echoflowai.cc` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 28 | `api.n1n.ai` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 29 | `api.quickrouter.ai` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 30 | `jeniya.cn` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 31 | `linoapi.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 32 | `llm-api.net` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 33 | `quanzil.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 34 | `token173.net` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 35 | `tryallapi.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 36 | `wellapi.ai` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 37 | `thousandengine.com` | ¥2.461 | $0.3663 / $1.4652 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
-| 38 | `gpt-api.cc` | ¥2.5 | $2.5 / $10 | 1 | default | kimi-k2-0711-preview |
-| 39 | `api.xgapi.top` | ¥2.8 | $2.8 / $11.2 | 1 | default | kimi-k2-0711-preview |
-| 40 | `kfcv50.link` | ¥3.2 | $3.2 / $12.8 | 1 | Domestic_act_08 | kimi-k2-0711-preview |
-| 41 | `ai.soruxgpt.com` | ¥3.4 | $3.4 / $13.6 | 1 | kimi-special-offer | kimi-k2-0711-preview |
-| 42 | `api.ocoolai.com` | ¥3.8 | $3.8 / $15.2 | 1 | cn | kimi-k2-0711-preview |
-| 43 | `ocool.cn` | ¥3.8 | $3.8 / $15.2 | 1 | cn | kimi-k2-0711-preview |
-| 44 | `api.hopeai.cc` | ¥4 | $4 / $4 | 1 | default | kimi-k2-0711-preview |
-| 45 | `api.new.bi` | ¥4 | $4 / $16 | 1 | default | kimi-k2-0711-preview |
-| 46 | `keypool.space` | ¥4 | $4 / $16 | 1 | default | kimi-k2-0711-preview |
-| 47 | `mb.dmxapi.cn` | ¥4 | $0.8 / $3.2 | 5 | default | kimi-k2-0711-preview |
-| 48 | `api.pezayo.com` | ¥4.171 | $0.57142 / $2.38092 | 7.3 | official | kimi-k2-0711-preview |
-| 49 | `cn.gptapi.asia` | ¥4.2 | $4.2 / $17.514 | 1 | enterprise | kimi-k2-0711-preview |
-| 50 | `yutoapi.com` | ¥4.2 | $4.2 / $17.514 | 1 | enterprise | kimi-k2-0711-preview |
+| 3 | `api.openlux.ai` | ¥1.209 | $0.18 / $0.72 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 4 | `api.relayrouter.ai` | ¥1.209 | $0.18 / $0.72 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 5 | `openlux.zhongzhuan.chat` | ¥1.209 | $0.18 / $0.72 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 6 | `api.tidewhisper-ai.xyz` | ¥1.33 | $0.198 / $0.792 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 7 | `gzxbykj.com` | ¥1.33 | $0.198 / $0.792 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 8 | `yunwu.org` | ¥1.33 | $0.198 / $0.792 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 9 | `v2.cloudmist.cloud` | ¥1.391 | $0.207 / $0.828 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 10 | `www.vectronode.com` | ¥1.451 | $0.216 / $0.864 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 11 | `apiclaw.cn` | ¥1.463 | $0.2178 / $0.8712 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 12 | `newapi.xueai.me` | ¥1.463 | $0.2178 / $0.8712 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 13 | `wodapis.com` | ¥1.463 | $0.2178 / $0.8712 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 14 | `ciyuan.today` | ¥1.512 | $0.225 / $0.9 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 15 | `gptapi.top` | ¥1.512 | $0.225 / $0.9 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 16 | `makerend.com` | ¥1.512 | $0.225 / $0.9 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 17 | `moliapi.com` | ¥1.524 | $0.2268 / $0.9072 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 18 | `ai-api.cc` | ¥1.572 | $0.234 / $0.936 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 19 | `nodapi.com` | ¥1.596 | $0.2376 / $0.9504 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 20 | `anyaigc.ai` | ¥1.632 | $0.243 / $0.972 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 21 | `sheepaiplus.top` | ¥1.693 | $0.252 / $1.008 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 22 | `xiguapi.icu` | ¥1.693 | $0.252 / $1.008 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 23 | `api.88api.chat` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 24 | `api.88api.shop` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 25 | `api.videocaptioner.cn` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 26 | `new.aigc2d.com` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 27 | `oyy-ai.xyz` | ¥1.814 | $0.27 / $1.08 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 28 | `infai.cc` | ¥1.911 | $0.2844 / $1.1376 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 29 | `api.nixapi.com` | ¥2.044 | $0.3042 / $1.2168 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 30 | `aiwuje.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 31 | `api.cursorai.art` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 32 | `api.echoflowai.cc` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 33 | `api.n1n.ai` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 34 | `api.quickrouter.ai` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 35 | `jeniya.cn` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 36 | `linoapi.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 37 | `llm-api.net` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 38 | `quanzil.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 39 | `token173.net` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 40 | `tryallapi.com` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 41 | `wellapi.ai` | ¥2.418 | $0.36 / $1.44 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 42 | `thousandengine.com` | ¥2.461 | $0.3663 / $1.4652 | 6.718 | Self-Deployed-1 | kimi-k2-0711-preview |
+| 43 | `gpt-api.cc` | ¥2.5 | $2.5 / $10 | 1 | default | kimi-k2-0711-preview |
+| 44 | `api.xgapi.top` | ¥2.8 | $2.8 / $11.2 | 1 | default | kimi-k2-0711-preview |
+| 45 | `kfcv50.link` | ¥3.2 | $3.2 / $12.8 | 1 | Domestic_act_08 | kimi-k2-0711-preview |
+| 46 | `ai.soruxgpt.com` | ¥3.4 | $3.4 / $13.6 | 1 | kimi-special-offer | kimi-k2-0711-preview |
+| 47 | `api.ocoolai.com` | ¥3.8 | $3.8 / $15.2 | 1 | cn | kimi-k2-0711-preview |
+| 48 | `ocool.cn` | ¥3.8 | $3.8 / $15.2 | 1 | cn | kimi-k2-0711-preview |
+| 49 | `api.eido.top` | ¥4 | $4 / $16 | 1 | default | kimi-k2-0711-preview |
+| 50 | `api.hopeai.cc` | ¥4 | $4 / $4 | 1 | default | kimi-k2-0711-preview |
 
-> 另有 5 站未列出。
+> 另有 14 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -71,4 +71,4 @@
 | 2 | `happyapi.org` | $2.5 / $10 | default | 1 | kimi-k2-0711-preview |
 | 3 | `api.zhiyikeji.cn` | $4 / $16 | default | 1 | kimi-k2-0711-preview |
 
-> 77 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 82 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3-omni-flash
 
-> 28 站提供 · 正常价 9 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥13.14**/1M 输入（9 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 12 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥12.89**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,12 +12,15 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.zyai.online` | ¥0.9 | $0.9 / $6.35 | 1 | mini | qwen3-omni-flash |
 | 2 | `mb.dmxapi.cn` | ¥1.8 | $0.36 / $1.38 | 5 | default | qwen3-omni-flash |
-| 3 | `rockapi.ai` | ¥2.667 | $2.667 / $10.577 | 1 | 0.7x | qwen3-omni-flash |
-| 4 | `api.apiyi.com` | ¥4.2 | $0.6 / $6 | 7 | default | qwen3-omni-flash |
-| 5 | `codeyy.top` | ¥13.14 | $1.8 / $15.8 | 7.3 | default | qwen3-omni-flash |
-| 6 | `api.laozhang.ai` | ¥14 | $2 / $20 | 7 | default | qwen3-omni-flash |
-| 7 | `api2.aigcbest.top` | ¥14.38 | $4.108 / $3.32748 | 3.5 | 通用大模型 | qwen3-omni-flash |
-| 8 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-omni-flash |
-| 9 | `hk.moleapi.com` | ¥24.37 | $3.584 / $7.168 | 6.8 | default | qwen3-omni-flash |
+| 3 | `onetoken.one` | ¥1.8 | $1.8 / $6.89994 | 1 | 官方原生通道 | qwen3-omni-flash |
+| 4 | `rockapi.ai` | ¥2.667 | $2.667 / $10.577 | 1 | 0.7x | qwen3-omni-flash |
+| 5 | `api.apiyi.com` | ¥4.2 | $0.6 / $6 | 7 | default | qwen3-omni-flash |
+| 6 | `gpt777.top` | ¥12.64 | $12.64 / $10.2384 | 1 | opensource | qwen3-omni-flash |
+| 7 | `codeyy.top` | ¥13.14 | $1.8 / $15.8 | 7.3 | default | qwen3-omni-flash |
+| 8 | `api.laozhang.ai` | ¥14 | $2 / $20 | 7 | default | qwen3-omni-flash |
+| 9 | `api.ifopen.ai` | ¥14.38 | $4.108 / $3.32748 | 3.5 | 通用大模型 | qwen3-omni-flash |
+| 10 | `api2.aigcbest.top` | ¥14.38 | $4.108 / $3.32748 | 3.5 | 通用大模型 | qwen3-omni-flash |
+| 11 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-omni-flash |
+| 12 | `hk.moleapi.com` | ¥24.37 | $3.584 / $7.168 | 6.8 | default | qwen3-omni-flash |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

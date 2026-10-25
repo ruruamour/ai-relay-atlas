@@ -1,6 +1,6 @@
 # text-embedding-v4
 
-> 23 站提供 · 正常价 14 站 · 名义中位价 **$0.395**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（13 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 16 站 · 名义中位价 **$0.395**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,12 +17,14 @@
 | 5 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.395 | $0.395 / $0.395 | 1 | CN-Model-Special​ | text-embedding-v4 |
 | 6 | `api.laozhang.ai` | ¥0.49 | $0.07 / $0.07 | 7 | default | text-embedding-v4 |
 | 7 | `ai.amaxsmp.com` | ¥0.5 | $0.5 / $0.5 | 1 | 原厂直供 | text-embedding-v4 |
-| 8 | `n.lconai.com` | ¥0.5 | $0.5 / $0.5 | 1 | A2 | text-embedding-v4 |
-| 9 | `maas.afirstsoft.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
-| 10 | `ssvip.dmxapi.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
-| 11 | `www.hohoapi.com` | ¥1.365 | $0.455 / $0.455 | 3 | default | text-embedding-v4 |
-| 12 | `kaopuapi.com` | ¥3.65 | $0.5 / $0 | 7.3 | cn2 | text-embedding-v4 |
-| 13 | `mrouter.cn` | ¥3.65 | $0.5 / $0 | 7.3 | cn2 | text-embedding-v4 |
+| 8 | `aiapibase.top` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-embedding-v4 |
+| 9 | `n.lconai.com` | ¥0.5 | $0.5 / $0.5 | 1 | A2 | text-embedding-v4 |
+| 10 | `maas.afirstsoft.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
+| 11 | `ssvip.dmxapi.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
+| 12 | `gpt777.top` | ¥0.56 | $0.56 / $0.56 | 1 | opensource | text-embedding-v4 |
+| 13 | `www.hohoapi.com` | ¥1.365 | $0.455 / $0.455 | 3 | default | text-embedding-v4 |
+| 14 | `kaopuapi.com` | ¥3.65 | $0.5 / $0 | 7.3 | cn2 | text-embedding-v4 |
+| 15 | `mrouter.cn` | ¥3.65 | $0.5 / $0 | 7.3 | cn2 | text-embedding-v4 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -30,4 +32,4 @@
 |---|---|---|---|---|---|
 | 1 | `api.chatfire.cn` | $0.3 / $0.3 | alibailian | 0.6 | text-embedding-v4 |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

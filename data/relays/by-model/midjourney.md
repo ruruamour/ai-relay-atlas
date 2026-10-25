@@ -1,6 +1,6 @@
 # midjourney
 
-> 40 站提供 · 正常价 21 站 · 名义中位价 **$0.25**/次 · 实付中位价 **¥0.25**/次（16 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 23 站 · 名义中位价 **$0.25**/次 · 实付中位价 **¥0.25**/次（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,12 +20,13 @@
 | 8 | `minuapi.duoyuanx.net` | ¥0.25 | $0.25 | 1 | default | midjourney |
 | 9 | `zz.ai-wx.cn` | ¥0.25 | $0.25 | 1 | default | midjourney |
 | 10 | `ai.cangyuansuanli.cn` | ¥0.29 | $0.29 | 1 | 全模型-无claude/gpt | midjourney-1k |
-| 11 | `yomiapi.com` | ¥0.2989 | $0.043 | 6.95 | 生图专用分组 | midjourney |
-| 12 | `kfcv50.link` | ¥0.3 | $0.3 | 1 | midjourney_mj_0907_15 | midjourney |
-| 13 | `toapis.com` | ¥0.315 | $0.045 | 7 | default | midjourney |
-| 14 | `api.wanapis.com` | ¥0.4099 | $0.4099 | 1 | default | midjourney |
-| 15 | `import.deepwl.net` | ¥0.7665 | $0.105 | 7.3 | 定制 | midjourney |
-| 16 | `aio-api-ssvip.aiearth.dev` | ¥3.651 | $0.5001 | 7.3 | midjourney | midjourney |
+| 11 | `direct-api.cangyuansuanli.cn` | ¥0.29 | $0.29 | 1 | 全模型-无claude/gpt | midjourney-1k |
+| 12 | `yomiapi.com` | ¥0.2989 | $0.043 | 6.95 | 生图专用分组 | midjourney |
+| 13 | `kfcv50.link` | ¥0.3 | $0.3 | 1 | midjourney_mj_0907_15 | midjourney |
+| 14 | `toapis.com` | ¥0.315 | $0.045 | 7 | default | midjourney |
+| 15 | `api.wanapis.com` | ¥0.4099 | $0.4099 | 1 | default | midjourney |
+| 16 | `import.deepwl.net` | ¥0.7665 | $0.105 | 7.3 | 定制 | midjourney |
+| 17 | `aio-api-ssvip.aiearth.dev` | ¥3.651 | $0.5001 | 7.3 | midjourney | midjourney |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -36,5 +37,6 @@
 | 3 | `api-sub.ip233.com` | $0.377 | default | 1 | midjourney-1k |
 | 4 | `aiapi.market` | $3.48 | image-2 | 12 | midjourney-1k |
 | 5 | `api.chuangxiangai.asia` | $3.625 | 生图 | 1 | midjourney-1k |
+| 6 | `vapi.chuangxiangai.asia` | $3.625 | 生图 | 1 | midjourney-1k |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

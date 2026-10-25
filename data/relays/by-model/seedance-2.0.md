@@ -1,6 +1,6 @@
 # seedance-2.0
 
-> 67 站提供 · 正常价 39 站 · 名义中位价 **$0.6**/次 · 实付中位价 **¥1.192**/次（29 站公开充值价） · 推算，未对账
+> 69 站提供 · 正常价 38 站 · 名义中位价 **$0.6**/次 · 实付中位价 **¥1.324**/次（29 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,21 +23,21 @@
 | 11 | `www.puluai.com` | ¥0.7 | $0.7 | 1 | Image | seedance-2.0 |
 | 12 | `hiapi.ai` | ¥0.9928 | $0.136 | 7.3 | default | seedance-2.0 |
 | 13 | `apimaster.ai` | ¥1.111 | $0.15876 | 7 | default | seedance-2.0 |
-| 14 | `116.62.113.242` | ¥1.192 | $0.1633 | 7.3 | 图像模型聚合(可自定义图像参数) | seedance-2.0 |
-| 15 | `synthapi.asia` | ¥1.192 | $0.1633 | 7.3 | 视频模型聚合 | seedance-2.0 |
-| 16 | `www.apiqd.com` | ¥1.324 | $1.324 | 1 | 图片视频分组 | seedance-2.0-4k |
-| 17 | `apiqd.com` | ¥1.427 | $1.427 | 1 | 图片视频分组 | seedance-2.0 |
-| 18 | `gpt.qinnaonao.com` | ¥1.5 | $1.5 | 1 | 视频模型 | seedance-2.0 |
-| 19 | `codeyy.top` | ¥3.358 | $0.46 | 7.3 | sd-sec | seedance-2.0 |
+| 14 | `synthapi.asia` | ¥1.192 | $0.1633 | 7.3 | 视频模型聚合 | seedance-2.0 |
+| 15 | `www.apiqd.com` | ¥1.324 | $1.324 | 1 | 图片视频分组 | seedance-2.0-4k |
+| 16 | `apiqd.com` | ¥1.427 | $1.427 | 1 | 图片视频分组 | seedance-2.0 |
+| 17 | `gpt.qinnaonao.com` | ¥1.5 | $1.5 | 1 | 视频模型 | seedance-2.0 |
+| 18 | `codeyy.top` | ¥3.358 | $0.46 | 7.3 | sd-sec | seedance-2.0 |
+| 19 | `biz.anyroute.io` | ¥3.535 | $3.535 | 1 | Seedance海外线路3 | Seedance-2.0-4k |
 | 20 | `api.zq4i.com` | ¥4.9 | $4.9 | 1 | 视频渠道 | seedance-2.0 |
 | 21 | `routerapi.net` | ¥4.99 | $4.99 | 1 | seedance | seedance-2.0 |
 | 22 | `tokenworldapi.com` | ¥5.47 | $5.47 | 1 | seedance-官链 | seedance-2.0-4k |
-| 23 | `newapi.schyler.top` | ¥6.8 | $6.8 | 1 | seedance2.0 | seedance-2.0 |
-| 24 | `cdn.12ai.org` | ¥7 | $7 | 1 | default | seedance-2.0 |
-| 25 | `api.clawsocket.com` | ¥10 | $10 | 1 | default | seedance-2.0 |
-| 26 | `image.eihhu.com` | ¥18.25 | $2.5 | 7.3 | default | seedance-2.0 |
-| 27 | `api.nycatai.com` | ¥20.8 | $2.85 | 7.3 | video | seedance-2.0 |
-| 28 | `154.40.47.125` | ¥29.2 | $4 | 7.3 | default | seedance-2.0 |
+| 23 | `volces.aabao.ai` | ¥6 | $5 | 1.2 | default | seedance-2.0-4k |
+| 24 | `newapi.schyler.top` | ¥6.8 | $6.8 | 1 | seedance2.0 | seedance-2.0 |
+| 25 | `cdn.12ai.org` | ¥7 | $7 | 1 | default | seedance-2.0 |
+| 26 | `api.clawsocket.com` | ¥10 | $10 | 1 | default | seedance-2.0 |
+| 27 | `image.eihhu.com` | ¥18.25 | $2.5 | 7.3 | default | seedance-2.0 |
+| 28 | `api.nycatai.com` | ¥20.8 | $2.85 | 7.3 | video | seedance-2.0 |
 | 29 | `tokendash.pro` | ¥68.33 | $9.36 | 7.3 | seedance | seedance-2.0 |
 
 ## 名义价（未公开充值价，按 $ 排序）
@@ -52,7 +52,6 @@
 | 6 | `levelup.mom` | $0.6 | Seedance（可视频） | 1 | Seedance-2.0 |
 | 7 | `api.yescale.io` | $1.25 | video | 1.25 | seedance-2.0 |
 | 8 | `sub.linkrun.org` | $5.07 | default | 1 | seedance-2.0 |
-| 9 | `api.bblabu.ai` | $8.0325 | 视频模型分组 | 1 | Seedance-2.0 |
-| 10 | `api.topapis.cn` | $22.5 | default | 1 | seedance-2.0-4k |
+| 9 | `api.topapis.cn` | $22.5 | default | 1 | seedance-2.0-4k |
 
-> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

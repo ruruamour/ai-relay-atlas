@@ -1,6 +1,6 @@
 # gemma-7b-it
 
-> 83 站提供 · 正常价 74 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（10 站公开充值价） · 推算，未对账
+> 88 站提供 · 正常价 75 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,8 +18,9 @@
 | 6 | `keypool.space` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
 | 7 | `new.foxi-api.cn` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
 | 8 | `newapi.tu-zi.com` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
-| 9 | `api.34ku.com` | ¥2.6 | $2.6 / $2.6 | 1 | default | gemma-7b-it |
-| 10 | `nbapi.net` | ¥14.6 | $2 / $2 | 7.3 | default | gemma-7b-it |
+| 9 | `xinsuanai.com` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
+| 10 | `api.34ku.com` | ¥2.6 | $2.6 / $2.6 | 1 | default | gemma-7b-it |
+| 11 | `nbapi.net` | ¥14.6 | $2 / $2 | 7.3 | default | gemma-7b-it |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -78,4 +79,4 @@
 
 > 另有 14 站未列出。
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

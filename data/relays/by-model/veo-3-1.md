@@ -1,6 +1,6 @@
 # veo-3-1
 
-> 67 站提供 · 正常价 62 站 · 名义中位价 **$0.220585**/次 · 实付中位价 **¥0.9706**/次（62 站公开充值价） · 推算，未对账
+> 76 站提供 · 正常价 70 站 · 名义中位价 **$0.220585**/次 · 实付中位价 **¥0.9561**/次（70 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,52 +15,52 @@
 | 3 | `ywfdev.apinebula.ai` | ¥0.2 | $0.2 | 1 | default | veo-3-1 |
 | 4 | `api.camel-hub.com` | ¥0.4 | $0.5 | 0.8 | default | veo_3_1 |
 | 5 | `magic666.top` | ¥0.4 | $0.4 | 1 | default | veo_3_1 |
-| 6 | `us.julianapi.com` | ¥0.5 | $0.5 | 1 | Flow 视频绘图 | veo-3-1 |
-| 7 | `147ai.com` | ¥0.6 | $0.6 | 1 | veo | veo_3_1 |
-| 8 | `api.147ai.cn` | ¥0.6 | $0.6 | 1 | veo | veo_3_1 |
-| 9 | `modelsell.com` | ¥0.68 | $0.1 | 6.8 | Google AI Studio | veo_3_1 |
-| 10 | `keypool.space` | ¥0.73 | $0.73 | 1 | vip | veo_3_1 |
-| 11 | `api.relayrouter.ai` | ¥0.7409 | $0.110292 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 12 | `openlux.zhongzhuan.chat` | ¥0.7409 | $0.110292 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 13 | `apijing.com` | ¥0.78 | $0.78 | 1 | gemini-逆向-2 | zx-/veo-3-1 |
-| 14 | `123ai.ai-wx.cn` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
-| 15 | `duoyuanx.com` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
-| 16 | `minuapi.duoyuanx.net` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
-| 17 | `zx1.deepwl.net` | ¥0.8 | $0.8 | 1 | default | veo-3-1 |
-| 18 | `zz.ai-wx.cn` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
-| 19 | `api.tidewhisper-ai.xyz` | ¥0.815 | $0.121322 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 20 | `gzxbykj.com` | ¥0.815 | $0.121322 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 21 | `yunwu.org` | ¥0.815 | $0.121322 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 22 | `v2.cloudmist.cloud` | ¥0.8521 | $0.126836 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 23 | `www.vectronode.com` | ¥0.8891 | $0.132351 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 24 | `apiclaw.cn` | ¥0.8965 | $0.133454 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 25 | `newapi.xueai.me` | ¥0.8965 | $0.133454 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 26 | `ciyuan.today` | ¥0.9262 | $0.137866 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 27 | `gptapi.top` | ¥0.9262 | $0.137866 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 28 | `makerend.com` | ¥0.9262 | $0.137866 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 29 | `moliapi.com` | ¥0.9336 | $0.138969 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 30 | `api.34ku.com` | ¥0.949 | $0.949 | 1 | default | veo_3_1 |
-| 31 | `ai-api.cc` | ¥0.9632 | $0.14338 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 32 | `nodapi.com` | ¥0.978 | $0.145586 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 33 | `api.muxllm.com` | ¥1 | $1 | 1 | Gemini图片/视频模型 | veo-3-1 |
-| 34 | `www.fastapi.ltd` | ¥1 | $1 | 1 | 5-gemini | veo_3_1 |
-| 35 | `anyaigc.ai` | ¥1 | $0.148895 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 36 | `sheepaiplus.top` | ¥1.037 | $0.154409 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 37 | `xiguapi.icu` | ¥1.037 | $0.154409 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 38 | `api.88api.chat` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 39 | `api.videocaptioner.cn` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 40 | `new.aigc2d.com` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 41 | `oyy-ai.xyz` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 42 | `api.nixapi.com` | ¥1.252 | $0.186394 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 43 | `api.gptzzz.xyz` | ¥1.3 | $1.3 | 1 | videos | veo_3_1 |
-| 44 | `aiwuje.com` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 45 | `api.echoflowai.cc` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 46 | `api.n1n.ai` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 47 | `api.quickrouter.ai` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 48 | `jeniya.cn` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 49 | `linoapi.com` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
-| 50 | `llm-api.net` | ¥1.482 | $0.220585 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 6 | `pay.magic666.top` | ¥0.4 | $0.4 | 1 | default | veo_3_1 |
+| 7 | `us.julianapi.com` | ¥0.5 | $0.5 | 1 | Flow 视频绘图 | veo-3-1 |
+| 8 | `147ai.com` | ¥0.6 | $0.6 | 1 | veo | veo_3_1 |
+| 9 | `api.147ai.cn` | ¥0.6 | $0.6 | 1 | veo | veo_3_1 |
+| 10 | `api.hubagi.ai` | ¥0.6 | $0.6 | 1 | veo | veo_3_1 |
+| 11 | `modelsell.com` | ¥0.68 | $0.1 | 6.8 | Google AI Studio | veo_3_1 |
+| 12 | `keypool.space` | ¥0.73 | $0.73 | 1 | vip | veo_3_1 |
+| 13 | `xinsuanai.com` | ¥0.73 | $0.73 | 1 | default | veo_3_1 |
+| 14 | `api.openlux.ai` | ¥0.7409 | $0.110292 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 15 | `api.relayrouter.ai` | ¥0.7409 | $0.110292 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 16 | `openlux.zhongzhuan.chat` | ¥0.7409 | $0.110292 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 17 | `apijing.com` | ¥0.78 | $0.78 | 1 | gemini-逆向-2 | zx-/veo-3-1 |
+| 18 | `123ai.ai-wx.cn` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
+| 19 | `duoyuanx.com` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
+| 20 | `minuapi.duoyuanx.net` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
+| 21 | `zx1.deepwl.net` | ¥0.8 | $0.8 | 1 | default | veo-3-1 |
+| 22 | `zz.ai-wx.cn` | ¥0.8 | $0.8 | 1 | default | veo_3_1 |
+| 23 | `api.tidewhisper-ai.xyz` | ¥0.815 | $0.121322 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 24 | `gzxbykj.com` | ¥0.815 | $0.121322 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 25 | `yunwu.org` | ¥0.815 | $0.121322 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 26 | `v2.cloudmist.cloud` | ¥0.8521 | $0.126836 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 27 | `www.vectronode.com` | ¥0.8891 | $0.132351 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 28 | `apiclaw.cn` | ¥0.8965 | $0.133454 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 29 | `newapi.xueai.me` | ¥0.8965 | $0.133454 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 30 | `wodapis.com` | ¥0.8965 | $0.133454 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 31 | `ciyuan.today` | ¥0.9262 | $0.137866 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 32 | `gptapi.top` | ¥0.9262 | $0.137866 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 33 | `makerend.com` | ¥0.9262 | $0.137866 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 34 | `moliapi.com` | ¥0.9336 | $0.138969 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 35 | `api.34ku.com` | ¥0.949 | $0.949 | 1 | default | veo_3_1 |
+| 36 | `ai-api.cc` | ¥0.9632 | $0.14338 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 37 | `infai.cc` | ¥0.9632 | $0.14338 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 38 | `nodapi.com` | ¥0.978 | $0.145586 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 39 | `api.muxllm.com` | ¥1 | $1 | 1 | Gemini图片/视频模型 | veo-3-1 |
+| 40 | `www.fastapi.ltd` | ¥1 | $1 | 1 | 5-gemini | veo_3_1 |
+| 41 | `anyaigc.ai` | ¥1 | $0.148895 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 42 | `sheepaiplus.top` | ¥1.037 | $0.154409 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 43 | `xiguapi.icu` | ¥1.037 | $0.154409 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 44 | `api.88api.chat` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 45 | `api.88api.shop` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 46 | `api.videocaptioner.cn` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 47 | `new.aigc2d.com` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 48 | `oyy-ai.xyz` | ¥1.111 | $0.165439 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 49 | `api.nixapi.com` | ¥1.252 | $0.186394 | 6.718 | Discounted-Gemini-2 | veo_3_1 |
+| 50 | `api.gptzzz.xyz` | ¥1.3 | $1.3 | 1 | videos | veo_3_1 |
 
-> 另有 12 站未列出。
+> 另有 20 站未列出。
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

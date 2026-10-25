@@ -1,6 +1,6 @@
 # doubao-seedance-1-0-pro
 
-> 135 站提供 · 正常价 105 站 · 名义中位价 **$22.5**/次 · 实付中位价 **¥17**/次（41 站公开充值价） · 推算，未对账
+> 143 站提供 · 正常价 104 站 · 名义中位价 **$22.5**/次 · 实付中位价 **¥15.87**/次（40 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,30 +11,30 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `kfcv50.link` | ¥2 | $2 | 1 | default | doubao-seedance-1-0-pro-250528 |
-| 2 | `mt.ccapi.ai` | ¥9 | $1.3044 | 6.9 | seedance-A | doubao-seedance-1-0-pro-250528 |
-| 3 | `api.relayrouter.ai` | ¥11.34 | $1.6875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 4 | `openlux.zhongzhuan.chat` | ¥11.34 | $1.6875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 5 | `api.tidewhisper-ai.xyz` | ¥12.47 | $1.85625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 6 | `gzxbykj.com` | ¥12.47 | $1.85625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 7 | `yunwu.org` | ¥12.47 | $1.85625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 8 | `v2.cloudmist.cloud` | ¥13.04 | $1.94062 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 9 | `www.vectronode.com` | ¥13.6 | $2.025 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 10 | `apiclaw.cn` | ¥13.72 | $2.04188 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 11 | `newapi.xueai.me` | ¥13.72 | $2.04188 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 12 | `ciyuan.today` | ¥14.17 | $2.10938 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 13 | `gptapi.top` | ¥14.17 | $2.10938 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 14 | `makerend.com` | ¥14.17 | $2.10938 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 15 | `moliapi.com` | ¥14.28 | $2.12625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 16 | `ai-api.cc` | ¥14.74 | $2.19375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 17 | `nodapi.com` | ¥14.96 | $2.2275 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 18 | `anyaigc.ai` | ¥15.3 | $2.27813 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 19 | `sheepaiplus.top` | ¥15.87 | $2.3625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 20 | `xiguapi.icu` | ¥15.87 | $2.3625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 21 | `api.88api.chat` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 22 | `api.videocaptioner.cn` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 23 | `new.aigc2d.com` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 24 | `oyy-ai.xyz` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 25 | `layso.ai` | ¥19.01 | $19.0125 | 1 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 2 | `api.vakv.cn` | ¥5.98 | $5.98 | 1 | 9999 | doubao-seedance-1-0-pro-250528 |
+| 3 | `mt.ccapi.ai` | ¥9 | $1.3044 | 6.9 | seedance-A | doubao-seedance-1-0-pro-250528 |
+| 4 | `api.relayrouter.ai` | ¥11.34 | $1.6875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 5 | `openlux.zhongzhuan.chat` | ¥11.34 | $1.6875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 6 | `api.tidewhisper-ai.xyz` | ¥12.47 | $1.85625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 7 | `gzxbykj.com` | ¥12.47 | $1.85625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 8 | `yunwu.org` | ¥12.47 | $1.85625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 9 | `v2.cloudmist.cloud` | ¥13.04 | $1.94062 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 10 | `www.vectronode.com` | ¥13.6 | $2.025 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 11 | `apiclaw.cn` | ¥13.72 | $2.04188 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 12 | `newapi.xueai.me` | ¥13.72 | $2.04188 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 13 | `ciyuan.today` | ¥14.17 | $2.10938 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 14 | `gptapi.top` | ¥14.17 | $2.10938 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 15 | `makerend.com` | ¥14.17 | $2.10938 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 16 | `moliapi.com` | ¥14.28 | $2.12625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 17 | `ai-api.cc` | ¥14.74 | $2.19375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 18 | `nodapi.com` | ¥14.96 | $2.2275 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 19 | `anyaigc.ai` | ¥15.3 | $2.27813 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 20 | `sheepaiplus.top` | ¥15.87 | $2.3625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 21 | `xiguapi.icu` | ¥15.87 | $2.3625 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 22 | `api.88api.chat` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 23 | `api.videocaptioner.cn` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 24 | `new.aigc2d.com` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 25 | `oyy-ai.xyz` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
 | 26 | `laysoai.com` | ¥19.01 | $19.0125 | 1 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
 | 27 | `api.nixapi.com` | ¥19.16 | $2.85188 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
 | 28 | `new.foxi-api.cn` | ¥22.5 | $22.5 | 1 | 纯AZ | doubao-seedance-1-0-pro-250528 |
@@ -42,15 +42,14 @@
 | 30 | `api.echoflowai.cc` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
 | 31 | `api.n1n.ai` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
 | 32 | `api.quickrouter.ai` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 33 | `jeniya.cn` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 34 | `linoapi.com` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 35 | `llm-api.net` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 36 | `quanzil.com` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 37 | `token173.net` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 38 | `tryallapi.com` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 39 | `wellapi.ai` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 40 | `thousandengine.com` | ¥23.07 | $3.43406 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 41 | `plusx.nyxos.shop` | ¥123.2 | $16.875 | 7.3 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 33 | `linoapi.com` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 34 | `llm-api.net` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 35 | `quanzil.com` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 36 | `token173.net` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 37 | `tryallapi.com` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 38 | `wellapi.ai` | ¥22.67 | $3.375 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 39 | `thousandengine.com` | ¥23.07 | $3.43406 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
+| 40 | `plusx.nyxos.shop` | ¥123.2 | $16.875 | 7.3 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -109,4 +108,4 @@
 
 > 另有 14 站未列出。
 
-> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

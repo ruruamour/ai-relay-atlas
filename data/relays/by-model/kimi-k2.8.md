@@ -1,6 +1,6 @@
 # kimi-k2.8
 
-> 59 站提供 · 正常价 17 站 · 名义中位价 **$1.04**/1M 输入 · 实付中位价 **¥4.188**/1M 输入（10 站公开充值价） · 推算，未对账
+> 67 站提供 · 正常价 22 站 · 名义中位价 **$1.15**/1M 输入 · 实付中位价 **¥2.377**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,7 +19,6 @@
 | 7 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | kimi-k2.8 |
 | 8 | `api.llm-token.cn` | ¥87.6 | $12 / $60 | 7.3 | default | kimi-k2.8 |
 | 9 | `gpt-agent.cc` | ¥87.6 | $12 / $60 | 7.3 | default | kimi-k2.8 |
-| 10 | `new.fluapi.com` | ¥474.5 | $65 / $270 | 7.3 | default | kimi-k2.8 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -28,9 +27,15 @@
 | 1 | `z30.top` | $0.39 / $1.62 | Kimi | 0.06 | kimi-k2.8 |
 | 2 | `big-model.smart-agi.com` | $0.56 / $2.24 | 1折国模（deepseek、glm、kimi） | 1 | kimi-k2.8 |
 | 3 | `cccode.pro` | $0.56 / $2.24 | 【混合】国模 | 1 | kimi-k2.8 |
-| 4 | `heilovehei.com` | $1.04 / $4.32 | kimi | 0.16 | kimi-k2.8 |
-| 5 | `www.digitalcats.cc` | $1.3 / $5.4 | Kimi | 0.2 | kimi-k2.8 |
-| 6 | `aiapibank.com` | $1.95 / $8.1 | 月之暗面Kimi分组 | 0.3 | kimi-k2.8 |
-| 7 | `api.passionapi.com` | $13 / $54 | 按量【国模渠道】 | 1 | kimi-k2.8 |
+| 4 | `www.cccode.pro` | $0.56 / $2.24 | 【混合】国模 | 1 | kimi-k2.8 |
+| 5 | `kedaya.ai` | $0.5625 / $2.25 | Kimi | 0.15 | kimi-k2.8 |
+| 6 | `heilovehei.com` | $0.65 / $2.7 | kimi | 0.1 | kimi-k2.8 |
+| 7 | `ai.8888.name` | $1.3 / $5.4 | 国模 | 1 | kimi-k2.8 |
+| 8 | `api.8888.name` | $1.3 / $5.4 | 国模 | 1 | kimi-k2.8 |
+| 9 | `www.digitalcats.cc` | $1.3 / $5.4 | Kimi | 0.2 | kimi-k2.8 |
+| 10 | `aiapibank.com` | $1.95 / $8.1 | 月之暗面Kimi分组 | 0.3 | kimi-k2.8 |
+| 11 | `emooo.cc` | $1.95 / $8.1 | 【国模】满血自部署版 | 1 | kimi-k2.8 |
+| 12 | `cn.fluxtoken.ai` | $7 / $35 | 【Kimi】官方渠道 | 0.35 | kimi-k2.8 |
+| 13 | `api.passionapi.com` | $13 / $54 | 按量【国模渠道】 | 1 | kimi-k2.8 |
 
-> 42 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 45 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-imagine
 
-> 55 站提供 · 正常价 29 站 · 名义中位价 **$0.04**/次 · 实付中位价 **¥0.1**/次（22 站公开充值价） · 推算，未对账
+> 57 站提供 · 正常价 29 站 · 名义中位价 **$0.0375**/次 · 实付中位价 **¥0.1**/次（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,14 +10,14 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `yinziapi.top` | ¥0.003 | $0.003 | 1 | grok稳定备用分组4 | grok-imagine |
-| 2 | `momoapi.xin` | ¥0.012 | $0.012 | 1 | grok_heavy | grok-imagine |
-| 3 | `new5.easysu.cn` | ¥0.0135 | $0.0135 | 1 | grok | grok-imagine |
-| 4 | `api.muxllm.com` | ¥0.02 | $0.02 | 1 | Grok订阅 | grok-imagine |
-| 5 | `api.wukong.support` | ¥0.03 | $0.03 | 1 | gork | grok-imagine |
-| 6 | `newapi.ailyyzdk.xyz` | ¥0.03 | $0.03 | 1 | grok | grok-imagine |
-| 7 | `botcf.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine |
-| 8 | `api.qinzhiai.com` | ¥0.04 | $0.04 | 1 | Grok | grok-imagine |
+| 1 | `windapi.cc` | ¥0.0016 | $0.0016 | 1 | grok | grok-imagine |
+| 2 | `yinziapi.top` | ¥0.003 | $0.003 | 1 | grok稳定备用分组4 | grok-imagine |
+| 3 | `momoapi.xin` | ¥0.012 | $0.012 | 1 | grok_heavy | grok-imagine |
+| 4 | `new5.easysu.cn` | ¥0.0135 | $0.0135 | 1 | grok | grok-imagine |
+| 5 | `api.muxllm.com` | ¥0.02 | $0.02 | 1 | Grok订阅 | grok-imagine |
+| 6 | `api.wukong.support` | ¥0.03 | $0.03 | 1 | gork | grok-imagine |
+| 7 | `newapi.ailyyzdk.xyz` | ¥0.03 | $0.03 | 1 | grok | grok-imagine |
+| 8 | `botcf.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine |
 | 9 | `api.mcapple.top` | ¥0.05 | $0.05 | 1 | 生图 | grok-imagine |
 | 10 | `ccapi.us` | ¥0.078 | $0.078 | 1 | Grok heavy | grok-imagine |
 | 11 | `console.lqapi.xyz` | ¥0.1 | $0.1 | 1 | Grok-heavy | grok-imagine |
@@ -45,4 +45,4 @@
 | 6 | `api.fxisv.com` | $0.084 | Grok-Heavy-多模态模型 | 1 | grok-imagine |
 | 7 | `ai.soulecho.cc` | $15.6652 | xAI Grok | 8 | grok-imagine |
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # speech-2.6-turbo
 
-> 116 站提供 · 正常价 109 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.01193**/次（44 站公开充值价） · 推算，未对账
+> 126 站提供 · 正常价 117 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.01193**/次（52 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,50 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.relayrouter.ai` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 2 | `openlux.zhongzhuan.chat` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 3 | `api.tidewhisper-ai.xyz` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 4 | `gzxbykj.com` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 5 | `yunwu.org` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 6 | `v2.cloudmist.cloud` | ¥0.009089 | $0.00135295 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 7 | `www.vectronode.com` | ¥0.009484 | $0.00141178 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 8 | `apiclaw.cn` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 9 | `newapi.xueai.me` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 10 | `ciyuan.today` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 11 | `gptapi.top` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 12 | `makerend.com` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 13 | `moliapi.com` | ¥0.009958 | $0.00148236 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 14 | `ai-api.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 15 | `nodapi.com` | ¥0.01043 | $0.00155295 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 16 | `anyaigc.ai` | ¥0.01067 | $0.00158825 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 17 | `sheepaiplus.top` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 18 | `xiguapi.icu` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 19 | `api.88api.chat` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 20 | `api.videocaptioner.cn` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 21 | `new.aigc2d.com` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 22 | `oyy-ai.xyz` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 23 | `api.camel-hub.com` | ¥0.012 | $0.015 | 0.8 | default | speech-2.6-turbo |
-| 24 | `api.nixapi.com` | ¥0.01336 | $0.00198825 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 25 | `aiwuje.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 26 | `api.echoflowai.cc` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 27 | `api.n1n.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 28 | `api.quickrouter.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 29 | `jeniya.cn` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 30 | `linoapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 31 | `llm-api.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 32 | `quanzil.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 33 | `token173.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 34 | `tryallapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 35 | `wellapi.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 36 | `api.new.bi` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
-| 37 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
-| 38 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
-| 39 | `thousandengine.com` | ¥0.01608 | $0.00239414 | 6.718 | Hailuo-1 | speech-2.6-turbo |
-| 40 | `plusx.nyxos.shop` | ¥0.08588 | $0.0117648 | 7.3 | Hailuo-1 | speech-2.6-turbo |
-| 41 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | speech-2.6-turbo |
-| 42 | `api.bltcy.ai` | ¥3.5 | $3.5 | 1 | default | minimax/speech-2.6-turbo |
-| 43 | `api.34ku.com` | ¥4.55 | $4.55 | 1 | default | minimax/speech-2.6-turbo |
-| 44 | `ai.t8star.org` | ¥4.725 | $3.5 | 1.35 | default | minimax/speech-2.6-turbo |
+| 1 | `api.openlux.ai` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 2 | `api.relayrouter.ai` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 3 | `openlux.zhongzhuan.chat` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 4 | `api.tidewhisper-ai.xyz` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 5 | `gzxbykj.com` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 6 | `yunwu.org` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 7 | `v2.cloudmist.cloud` | ¥0.009089 | $0.00135295 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 8 | `www.vectronode.com` | ¥0.009484 | $0.00141178 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 9 | `apiclaw.cn` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 10 | `newapi.xueai.me` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 11 | `wodapis.com` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 12 | `ciyuan.today` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 13 | `gptapi.top` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 14 | `makerend.com` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 15 | `moliapi.com` | ¥0.009958 | $0.00148236 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 16 | `ai-api.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 17 | `infai.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 18 | `nodapi.com` | ¥0.01043 | $0.00155295 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 19 | `anyaigc.ai` | ¥0.01067 | $0.00158825 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 20 | `sheepaiplus.top` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 21 | `xiguapi.icu` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 22 | `api.88api.chat` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 23 | `api.88api.shop` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 24 | `api.videocaptioner.cn` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 25 | `new.aigc2d.com` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 26 | `oyy-ai.xyz` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 27 | `api.camel-hub.com` | ¥0.012 | $0.015 | 0.8 | default | speech-2.6-turbo |
+| 28 | `api.nixapi.com` | ¥0.01336 | $0.00198825 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 29 | `aiwuje.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 30 | `api.cursorai.art` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 31 | `api.echoflowai.cc` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 32 | `api.n1n.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 33 | `api.quickrouter.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 34 | `jeniya.cn` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 35 | `linoapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 36 | `llm-api.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 37 | `quanzil.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 38 | `token173.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 39 | `tryallapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 40 | `wellapi.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 41 | `api.new.bi` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
+| 42 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
+| 43 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
+| 44 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | speech-2.6-turbo |
+| 45 | `thousandengine.com` | ¥0.01608 | $0.00239414 | 6.718 | Hailuo-1 | speech-2.6-turbo |
+| 46 | `plusx.nyxos.shop` | ¥0.08588 | $0.0117648 | 7.3 | Hailuo-1 | speech-2.6-turbo |
+| 47 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | speech-2.6-turbo |
+| 48 | `api.bltcy.ai` | ¥3.5 | $3.5 | 1 | default | minimax/speech-2.6-turbo |
+| 49 | `apilio.ai` | ¥3.5 | $3.5 | 1 | default | minimax/speech-2.6-turbo |
+| 50 | `test-ssl.bltcy.ai` | ¥3.5 | $3.5 | 1 | default | minimax/speech-2.6-turbo |
+
+> 另有 2 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -112,4 +120,4 @@
 
 > 另有 15 站未列出。
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
