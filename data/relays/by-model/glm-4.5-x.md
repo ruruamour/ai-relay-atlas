@@ -1,6 +1,6 @@
 # glm-4.5-x
 
-> 57 站提供 · 正常价 51 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥8**/1M 输入（30 站公开充值价） · 推算，未对账
+> 59 站提供 · 正常价 52 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥8**/1M 输入（31 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,22 +24,23 @@
 | 12 | `kfcv50.link` | ¥6.4 | $6.4 / $25.6 | 1 | Domestic_act_08 | glm-4.5-x |
 | 13 | `api.ocoolai.com` | ¥7.6 | $7.6 / $30.4 | 1 | cn | glm-4.5-x |
 | 14 | `ocool.cn` | ¥7.6 | $7.6 / $30.4 | 1 | cn | glm-4.5-x |
-| 15 | `api.hopeai.cc` | ¥8 | $8 / $8 | 1 | default | glm-4.5-x |
-| 16 | `api.openai-hub.net` | ¥8 | $8 / $32 | 1 | cheap | glm-4.5-x |
-| 17 | `go.sbgpt.site` | ¥8 | $8 / $32 | 1 | glm | glm-4.5-x |
-| 18 | `llm.kagu.one` | ¥8.03 | $1.1 / $4.45 | 7.3 | 大杂烩 | glm-4.5-x |
-| 19 | `apicdn.xyc.ai` | ¥8.07 | $1.16959 / $2.33918 | 6.9 | glm-flow | glm-4.5-x |
-| 20 | `apicdn.xycai.us` | ¥8.07 | $1.16959 / $2.33918 | 6.9 | glm-flow | glm-4.5-x |
-| 21 | `ai.nodeloc.com` | ¥11.68 | $1.6 / $6.4 | 7.3 | default | glm-4.5-x |
-| 22 | `ai.soruxgpt.com` | ¥12 | $12 / $48 | 1 | default | glm-4.5-x |
-| 23 | `gpt777.top` | ¥12.8 | $12.8 / $51.2 | 1 | opensource | glm-4.5-x |
-| 24 | `api.ifopen.ai` | ¥14.56 | $4.16 / $16.64 | 3.5 | 通用大模型 | glm-4.5-x |
-| 25 | `api2.aigcbest.top` | ¥14.56 | $4.16 / $16.64 | 3.5 | 通用大模型 | glm-4.5-x |
-| 26 | `www.hohoapi.com` | ¥15.6 | $5.2 / $10.4 | 3 | default | glm-4.5-x |
-| 27 | `zen-ai.top` | ¥16 | $16 / $64 | 1 | default | glm-4.5-x |
-| 28 | `coneverse.com` | ¥16.06 | $16.06 / $64.97 | 1 | zhipu-official | glm-4.5-x |
-| 29 | `infistar.ai` | ¥16.06 | $16.06 / $64.97 | 1 | zhipu-official | glm-4.5-x |
-| 30 | `api.pezayo.com` | ¥16.69 | $2.28572 / $9.14286 | 7.3 | default | glm-4.5-x |
+| 15 | `one.ooo.cool` | ¥7.6 | $7.6 / $30.4 | 1 | cn | glm-4.5-x |
+| 16 | `api.hopeai.cc` | ¥8 | $8 / $8 | 1 | default | glm-4.5-x |
+| 17 | `api.openai-hub.net` | ¥8 | $8 / $32 | 1 | cheap | glm-4.5-x |
+| 18 | `go.sbgpt.site` | ¥8 | $8 / $32 | 1 | glm | glm-4.5-x |
+| 19 | `llm.kagu.one` | ¥8.03 | $1.1 / $4.45 | 7.3 | 大杂烩 | glm-4.5-x |
+| 20 | `apicdn.xyc.ai` | ¥8.07 | $1.16959 / $2.33918 | 6.9 | glm-flow | glm-4.5-x |
+| 21 | `apicdn.xycai.us` | ¥8.07 | $1.16959 / $2.33918 | 6.9 | glm-flow | glm-4.5-x |
+| 22 | `ai.nodeloc.com` | ¥11.68 | $1.6 / $6.4 | 7.3 | default | glm-4.5-x |
+| 23 | `ai.soruxgpt.com` | ¥12 | $12 / $48 | 1 | default | glm-4.5-x |
+| 24 | `gpt777.top` | ¥12.8 | $12.8 / $51.2 | 1 | opensource | glm-4.5-x |
+| 25 | `api.ifopen.ai` | ¥14.56 | $4.16 / $16.64 | 3.5 | 通用大模型 | glm-4.5-x |
+| 26 | `api2.aigcbest.top` | ¥14.56 | $4.16 / $16.64 | 3.5 | 通用大模型 | glm-4.5-x |
+| 27 | `www.hohoapi.com` | ¥15.6 | $5.2 / $10.4 | 3 | default | glm-4.5-x |
+| 28 | `zen-ai.top` | ¥16 | $16 / $64 | 1 | default | glm-4.5-x |
+| 29 | `coneverse.com` | ¥16.06 | $16.06 / $64.97 | 1 | zhipu-official | glm-4.5-x |
+| 30 | `infistar.ai` | ¥16.06 | $16.06 / $64.97 | 1 | zhipu-official | glm-4.5-x |
+| 31 | `api.pezayo.com` | ¥16.69 | $2.28572 / $9.14286 | 7.3 | default | glm-4.5-x |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -67,4 +68,4 @@
 | 20 | `yuli.host` | $1.6 / $6.4 | default | 1 | glm-4.5-x |
 | 21 | `ai.comfly.org` | $4 / $16 | default | 1 | glm-4.5-x |
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

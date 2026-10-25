@@ -18,15 +18,16 @@
 | `huggingface-harvest.jsonl` | Hugging Face 公共 Spaces README | 388 | 不运行 Space、不调用推理 |
 | `sourcegraph-candidates.jsonl` | Sourcegraph 公共文档索引 | 4 | 仅 README/文本匹配行 |
 | `bing-candidates.jsonl` | Bing 公共搜索结果 | 65 | 低频查询，噪声较高 |
+| `directory-harvest.jsonl` | 公开中转站目录/比价页 | 943 | 只提取域名线索，不保存正文或购买路径 |
 | `crtsh-domains.json` | crt.sh 证书透明日志 | 3,527 | 被动 SAN/根域候选，不等于在售站 |
 | `certspotter-domains.json` | Certspotter 备用 CT | 100 | 免费接口的批次结果 |
 | `prefix-expansion-candidates.txt` | 新增站点前缀/后缀扩展 | 8,894 | 定向组合，不是全网扫描 |
-| `candidate-index.jsonl` | 多路候选统一索引 | 28,388 | 一行一域名，汇总来源、探活、接口和卡网候选状态 |
+| `candidate-index.jsonl` | 多路候选统一索引 | 28,641 | 一行一域名，汇总来源、探活、接口和卡网候选状态 |
 
 ## 验证证据
 
 - `*-probe.jsonl`：首页公开 GET 的状态、标题、延迟和最终主机；`401/403/429/5xx` 也保留。`veridrop-probe.jsonl` 是对主候选池中此前未验证的 2,200 个域名补做的探活。
-- `*-scan.json`：只访问已公开的状态/价格/模型目录接口，不调用推理接口。
+- `*-scan.json`：只访问已公开的状态/价格/模型目录接口，不调用推理接口。`directory-scan.json` 是公开目录新候选的接口验证结果，201 个 2xx/3xx 中命中 112 个。
 - `unified-candidate-probe.jsonl` / `unified-candidate-scan.json`：最后一批补验证的 19 个未覆盖域名，19/19 返回 HTTP 200，17 个命中公开接口。
 - `veridrop-scan.json`：上述 Veridrop 补验证中 1,053 个 2xx/3xx 域名的公开接口结果，命中 584 个。
 - `shop-fingerprint-candidates.jsonl`：首页卡网/系统指纹候选，**不是已确认商品店**；审核清单为 `data/shops/candidates.csv`。

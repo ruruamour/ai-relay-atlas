@@ -62,11 +62,16 @@ python3 tools/discover/web_search_harvest.py \
   --out /tmp/bing-candidates.jsonl \
   --domains /tmp/bing-domains.txt
 
+# 公开目录/比价页补充
+python3 tools/discover/directory_harvest.py \
+  --out /tmp/directory-candidates.jsonl \
+  --domains /tmp/directory-domains.txt
+
 # 整理为一行一域名的复查索引
 python3 tools/discover/index_candidates.py
 ```
 
-`github_harvest.py` 只读取公开仓库中的 README、名单和小型数据文件，不执行仓库代码；结果保留仓库/文件来源。`candidate_probe.py` 只对首页做低并发 GET。`200` 和 `3xx` 进入后续处理，`401/403/429/5xx` 也保留作人工复查。最近一轮原始结果保存在 `data/raw/sources/github-harvest.jsonl`、`github-code-harvest.jsonl`、`urlscan-candidates.jsonl`、`gitlab-harvest.jsonl`、`npm-harvest.jsonl`、`docker-hub-harvest.jsonl`、`huggingface-harvest.jsonl`、`sourcegraph-candidates.jsonl` 和 `bing-candidates.jsonl`；探活结果使用同目录下对应的 probe 文件。
+`github_harvest.py` 只读取公开仓库中的 README、名单和小型数据文件，不执行仓库代码；结果保留仓库/文件来源。`candidate_probe.py` 只对首页做低并发 GET。`200` 和 `3xx` 进入后续处理，`401/403/429/5xx` 也保留作人工复查。最近一轮原始结果保存在 `data/raw/sources/github-harvest.jsonl`、`github-code-harvest.jsonl`、`urlscan-candidates.jsonl`、`gitlab-harvest.jsonl`、`npm-harvest.jsonl`、`docker-hub-harvest.jsonl`、`huggingface-harvest.jsonl`、`sourcegraph-candidates.jsonl`、`bing-candidates.jsonl` 和 `directory-harvest.jsonl`；探活结果使用同目录下对应的 probe 文件。
 
 ## 1. 先生成查询串
 

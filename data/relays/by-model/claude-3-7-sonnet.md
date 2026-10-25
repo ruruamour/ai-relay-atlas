@@ -1,6 +1,6 @@
 # claude-3-7-sonnet
 
-> 227 站提供 · 正常价 193 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥4.65**/1M 输入（126 站公开充值价） · 推算，未对账
+> 232 站提供 · 正常价 198 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥4.5**/1M 输入（131 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,53 +15,53 @@
 | 3 | `api.arithcore.com` | ¥0.48 | $0.48 / $2.4 | 1 | claude-kiro超缓95 | claude-3-7-sonnet-20250219 |
 | 4 | `new.vbcoding.cc` | ¥0.525 | $0.525 / $2.625 | 1 | Claude 畅享版 | claude-3-7-sonnet-20250219 |
 | 5 | `botcf.com` | ¥0.54 | $0.54 / $2.7 | 1 | 🍊claude-kiro-power | claude-3-7-sonnet-20250219 |
-| 6 | `newapi.prorisehub.com` | ¥0.5984 | $0.5984 / $2.992 | 1 | AwsQ-Kiro-高缓存 | claude-3-7-sonnet-20250219 |
-| 7 | `codexopenai.cloud` | ¥0.6 | $0.6 / $3 | 1 | Claude 企业渠道 | claude-3-7-sonnet-20250219 |
-| 8 | `www.sjapi.top` | ¥0.6 | $0.6 / $3 | 1 | Claude KIRO | claude-3-7-sonnet-20250219 |
-| 9 | `daoxe.com` | ¥0.6798 | $0.66 / $3.3 | 1.03 | default | claude-3-7-sonnet-latest |
-| 10 | `kfcv50.link` | ¥0.75 | $0.75 / $3.75 | 1 | claude_kiro_025 | claude-3-7-sonnet-20250219 |
-| 11 | `new.gateway.icu` | ¥0.9 | $0.9 / $4.5 | 1 | windsurf | claude-3-7-sonnet-20250219 |
-| 12 | `zl.wonderful.edu.kg` | ¥0.96 | $0.96 / $4.8 | 1 | Claude-Kiro满血版 | claude-3-7-sonnet-20250219 |
-| 13 | `api.hoxkai.top` | ¥1.05 | $1.05 / $5.25 | 1 | kiro | claude-3-7-sonnet-20250219 |
-| 14 | `api.wamwuai.com` | ¥1.05 | $1.05 / $5.25 | 1 | claude-C逆向 | claude-3-7-sonnet-20250219 |
-| 15 | `api.banyane.top` | ¥1.2 | $1.2 / $6 | 1 | Kiro-CCMax-高缓存 | claude-3-7-sonnet-20250219 |
-| 16 | `windapi.cc` | ¥1.2 | $1.2 / $6 | 1 | kiro-cc | claude-3-7-sonnet-20250219 |
-| 17 | `new.yihubang.top` | ¥1.35 | $1.35 / $6.75 | 1 | ccmax外接渠道1 | claude-3-7-sonnet-20250219 |
-| 18 | `go.sbgpt.site` | ¥1.44 | $1.44 / $7.2 | 1 | 无审核az-0.38 | claude-3-7-sonnet-20250219 |
-| 19 | `sub2api.atomflow.vip` | ¥1.496 | $1.496 / $7.48 | 1 | claude | claude-3-7-sonnet-20250219 |
-| 20 | `newapi.link` | ¥1.5 | $1.5 / $7.5 | 1 | default | claude-3-7-sonnet-20250219 |
-| 21 | `api.wukong.support` | ¥1.56 | $1.56 / $7.8 | 1 | claude优质 | claude-3-7-sonnet-20250219 |
-| 22 | `big.sbgpt.site` | ¥1.8 | $1.8 / $9 | 1 | openai逆向 | claude-3-7-sonnet-20250219 |
-| 23 | `code.147ai.com` | ¥1.8 | $1.8 / $9 | 1 | openclaw龙虾 | claude-3-7-sonnet-20250219 |
-| 24 | `learn-ai.top` | ¥1.8 | $1.8 / $9 | 1 | claude-高质量逆向 | claude-3-7-sonnet-20250219 |
-| 25 | `pro.gemai.cc` | ¥1.8 | $1.8 / $9 | 1 | Claude Mix | claude-3-7-sonnet-20250219 |
-| 26 | `magic666.top` | ¥2.1 | $2.1 / $10.5 | 1 | claude-code-remix | claude-3-7-sonnet-20250219 |
-| 27 | `ce.aibridgea.com` | ¥2.719 | $2.64 / $13.2 | 1.03 | Claude-Max[满血号池 限claude code] | claude-3-7-sonnet-20250219 |
-| 28 | `i-sh.v1api.cc` | ¥2.992 | $2.992 / $14.96 | 1 | claude | claude-3-7-sonnet-20250219 |
-| 29 | `i.v1api.cc` | ¥2.992 | $2.992 / $14.96 | 1 | claude | claude-3-7-sonnet-20250219 |
-| 30 | `ai.soruxgpt.com` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 31 | `airouter.mxyhi.com` | ¥3 | $3 / $15 | 1 | claude_kiro | claude-3-7-sonnet-20250219 |
-| 32 | `api.bltcy.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 33 | `api.eido.top` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 34 | `api.hopeai.cc` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 35 | `api.juaihub.cn` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 36 | `api.new.bi` | ¥3 | $3 / $15 | 1 | 企业级高可用大模型 | claude-3-7-sonnet-20250219 |
-| 37 | `apilio.ai` | ¥3 | $3 / $15 | 1 | claude-10 | claude-3-7-sonnet-20250219 |
-| 38 | `dev.novaapi.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 39 | `feiniu-ai.xyz` | ¥3 | $3 / $15 | 1 | claude | claude-3-7-sonnet-20250219 |
-| 40 | `test-ssl.bltcy.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 41 | `tokengo.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 42 | `www.ggwk1.online` | ¥3 | $3 / $15 | 1 | a全模型综合组-1倍率 | claude-3-7-sonnet-20250219 |
-| 43 | `www.kamiapi.top` | ¥3 | $3 / $15 | 1 | Claude Max 号池带缓存 | claude-3-7-sonnet-20250219 |
-| 44 | `xiaoma.best` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 45 | `zen-ai.top` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
-| 46 | `opus.v1api.cc` | ¥3.2 | $4 / $20 | 0.8 | default | claude-3-7-sonnet-20250219-thinking |
-| 47 | `xh.v1api.cc` | ¥3.2 | $4 / $20 | 0.8 | default | claude-3-7-sonnet-20250219-thinking |
-| 48 | `baimo.wspapis.com` | ¥3.285 | $0.45 / $2.25 | 7.3 | Claude(kiro-95 高缓) | claude-3-7-sonnet-20250219 |
-| 49 | `api.edu9.us` | ¥3.6 | $3.6 / $18 | 1 | 【稳定版】Claude code Max 限定版 | claude-3-7-sonnet-20250219 |
-| 50 | `monking.ai` | ¥3.6 | $3.6 / $18 | 1 | Claudecode-求稳分组 | claude-3-7-sonnet-20250219 |
+| 6 | `xn--15q04w3tg4kio0a.com` | ¥0.54 | $0.54 / $2.7 | 1 | 🍊claude-kiro-power | claude-3-7-sonnet-20250219 |
+| 7 | `newapi.prorisehub.com` | ¥0.5984 | $0.5984 / $2.992 | 1 | AwsQ-Kiro-高缓存 | claude-3-7-sonnet-20250219 |
+| 8 | `codexopenai.cloud` | ¥0.6 | $0.6 / $3 | 1 | Claude 企业渠道 | claude-3-7-sonnet-20250219 |
+| 9 | `www.sjapi.top` | ¥0.6 | $0.6 / $3 | 1 | Claude KIRO | claude-3-7-sonnet-20250219 |
+| 10 | `daoxe.com` | ¥0.6798 | $0.66 / $3.3 | 1.03 | default | claude-3-7-sonnet-latest |
+| 11 | `kfcv50.link` | ¥0.75 | $0.75 / $3.75 | 1 | claude_kiro_025 | claude-3-7-sonnet-20250219 |
+| 12 | `new.gateway.icu` | ¥0.9 | $0.9 / $4.5 | 1 | windsurf | claude-3-7-sonnet-20250219 |
+| 13 | `zl.wonderful.edu.kg` | ¥0.96 | $0.96 / $4.8 | 1 | Claude-Kiro满血版 | claude-3-7-sonnet-20250219 |
+| 14 | `api.hoxkai.top` | ¥1.05 | $1.05 / $5.25 | 1 | kiro | claude-3-7-sonnet-20250219 |
+| 15 | `api.wamwuai.com` | ¥1.05 | $1.05 / $5.25 | 1 | claude-C逆向 | claude-3-7-sonnet-20250219 |
+| 16 | `api.banyane.top` | ¥1.2 | $1.2 / $6 | 1 | Kiro-CCMax-高缓存 | claude-3-7-sonnet-20250219 |
+| 17 | `windapi.cc` | ¥1.2 | $1.2 / $6 | 1 | kiro-cc | claude-3-7-sonnet-20250219 |
+| 18 | `new.yihubang.top` | ¥1.35 | $1.35 / $6.75 | 1 | ccmax外接渠道1 | claude-3-7-sonnet-20250219 |
+| 19 | `go.sbgpt.site` | ¥1.44 | $1.44 / $7.2 | 1 | 无审核az-0.38 | claude-3-7-sonnet-20250219 |
+| 20 | `sub2api.atomflow.vip` | ¥1.496 | $1.496 / $7.48 | 1 | claude | claude-3-7-sonnet-20250219 |
+| 21 | `newapi.link` | ¥1.5 | $1.5 / $7.5 | 1 | default | claude-3-7-sonnet-20250219 |
+| 22 | `api.wukong.support` | ¥1.56 | $1.56 / $7.8 | 1 | claude优质 | claude-3-7-sonnet-20250219 |
+| 23 | `big.sbgpt.site` | ¥1.8 | $1.8 / $9 | 1 | openai逆向 | claude-3-7-sonnet-20250219 |
+| 24 | `code.147ai.com` | ¥1.8 | $1.8 / $9 | 1 | openclaw龙虾 | claude-3-7-sonnet-20250219 |
+| 25 | `learn-ai.top` | ¥1.8 | $1.8 / $9 | 1 | claude-高质量逆向 | claude-3-7-sonnet-20250219 |
+| 26 | `pro.gemai.cc` | ¥1.8 | $1.8 / $9 | 1 | Claude Mix | claude-3-7-sonnet-20250219 |
+| 27 | `magic666.top` | ¥2.1 | $2.1 / $10.5 | 1 | claude-code-remix | claude-3-7-sonnet-20250219 |
+| 28 | `ce.aibridgea.com` | ¥2.719 | $2.64 / $13.2 | 1.03 | Claude-Max[满血号池 限claude code] | claude-3-7-sonnet-20250219 |
+| 29 | `i-sh.v1api.cc` | ¥2.992 | $2.992 / $14.96 | 1 | claude | claude-3-7-sonnet-20250219 |
+| 30 | `i.v1api.cc` | ¥2.992 | $2.992 / $14.96 | 1 | claude | claude-3-7-sonnet-20250219 |
+| 31 | `ai.soruxgpt.com` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 32 | `airouter.mxyhi.com` | ¥3 | $3 / $15 | 1 | claude_kiro | claude-3-7-sonnet-20250219 |
+| 33 | `api.bltcy.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 34 | `api.eido.top` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 35 | `api.hopeai.cc` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 36 | `api.juaihub.cn` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 37 | `api.new.bi` | ¥3 | $3 / $15 | 1 | 企业级高可用大模型 | claude-3-7-sonnet-20250219 |
+| 38 | `api.xi-ai.cn` | ¥3 | $3 / $15 | 1 | 国产模型 | claude-3-7-sonnet-20250219 |
+| 39 | `apilio.ai` | ¥3 | $3 / $15 | 1 | claude-10 | claude-3-7-sonnet-20250219 |
+| 40 | `dev.novaapi.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 41 | `feiniu-ai.xyz` | ¥3 | $3 / $15 | 1 | claude | claude-3-7-sonnet-20250219 |
+| 42 | `test-ssl.bltcy.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 43 | `tokengo.ai` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 44 | `www.ggwk1.online` | ¥3 | $3 / $15 | 1 | a全模型综合组-1倍率 | claude-3-7-sonnet-20250219 |
+| 45 | `www.kamiapi.top` | ¥3 | $3 / $15 | 1 | Claude Max 号池带缓存 | claude-3-7-sonnet-20250219 |
+| 46 | `xiaoma.best` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 47 | `zen-ai.top` | ¥3 | $3 / $15 | 1 | default | claude-3-7-sonnet-20250219 |
+| 48 | `opus.v1api.cc` | ¥3.2 | $4 / $20 | 0.8 | default | claude-3-7-sonnet-20250219-thinking |
+| 49 | `xh.v1api.cc` | ¥3.2 | $4 / $20 | 0.8 | default | claude-3-7-sonnet-20250219-thinking |
+| 50 | `baimo.wspapis.com` | ¥3.285 | $0.45 / $2.25 | 7.3 | Claude(kiro-95 高缓) | claude-3-7-sonnet-20250219 |
 
-> 另有 76 站未列出。
+> 另有 81 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

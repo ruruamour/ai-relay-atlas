@@ -1,6 +1,6 @@
 # suno-uploads
 
-> 115 站提供 · 正常价 113 站 · 名义中位价 **$0.01**/次 · 实付中位价 **¥0.00741**/次（49 站公开充值价） · 推算，未对账
+> 119 站提供 · 正常价 117 站 · 名义中位价 **$0.01**/次 · 实付中位价 **¥0.00741**/次（53 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,52 +13,55 @@
 | 1 | `api.openlux.ai` | ¥0.00494 | $0.0007353 | 6.718 | Suno-1 | suno_uploads |
 | 2 | `api.relayrouter.ai` | ¥0.00494 | $0.0007353 | 6.718 | Suno-1 | suno_uploads |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.00494 | $0.0007353 | 6.718 | Suno-1 | suno_uploads |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
-| 5 | `gzxbykj.com` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
-| 6 | `yunwu.org` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
-| 7 | `v2.cloudmist.cloud` | ¥0.005681 | $0.000845595 | 6.718 | Suno-1 | suno_uploads |
-| 8 | `www.vectronode.com` | ¥0.005928 | $0.00088236 | 6.718 | Suno-1 | suno_uploads |
-| 9 | `apiclaw.cn` | ¥0.005977 | $0.000889713 | 6.718 | Suno-1 | suno_uploads |
-| 10 | `newapi.xueai.me` | ¥0.005977 | $0.000889713 | 6.718 | Suno-1 | suno_uploads |
-| 11 | `wodapis.com` | ¥0.005977 | $0.000889713 | 6.718 | Suno-1 | suno_uploads |
-| 12 | `ciyuan.today` | ¥0.006175 | $0.000919125 | 6.718 | Suno-1 | suno_uploads |
-| 13 | `gptapi.top` | ¥0.006175 | $0.000919125 | 6.718 | Suno-1 | suno_uploads |
-| 14 | `makerend.com` | ¥0.006175 | $0.000919125 | 6.718 | Suno-1 | suno_uploads |
-| 15 | `moliapi.com` | ¥0.006224 | $0.000926478 | 6.718 | Suno-1 | suno_uploads |
-| 16 | `ai-api.cc` | ¥0.006422 | $0.00095589 | 6.718 | Suno-1 | suno_uploads |
-| 17 | `infai.cc` | ¥0.006422 | $0.00095589 | 6.718 | Suno-1 | suno_uploads |
-| 18 | `nodapi.com` | ¥0.00652 | $0.000970596 | 6.718 | Suno-1 | suno_uploads |
-| 19 | `anyaigc.ai` | ¥0.006669 | $0.000992655 | 6.718 | Suno-1 | suno_uploads |
-| 20 | `sheepaiplus.top` | ¥0.006916 | $0.00102942 | 6.718 | Suno-1 | suno_uploads |
-| 21 | `xiguapi.icu` | ¥0.006916 | $0.00102942 | 6.718 | Suno-1 | suno_uploads |
-| 22 | `api.88api.chat` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
-| 23 | `api.88api.shop` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
-| 24 | `api.videocaptioner.cn` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
-| 25 | `new.aigc2d.com` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
-| 26 | `oyy-ai.xyz` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
-| 27 | `api.nixapi.com` | ¥0.008348 | $0.00124266 | 6.718 | Suno-1 | suno_uploads |
-| 28 | `aiwuje.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 29 | `api.cursorai.art` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 30 | `api.echoflowai.cc` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 31 | `api.n1n.ai` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 32 | `api.quickrouter.ai` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 33 | `jeniya.cn` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 34 | `linoapi.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 35 | `llm-api.net` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 36 | `quanzil.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 37 | `token173.net` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 38 | `tryallapi.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 39 | `wellapi.ai` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
-| 40 | `api.eido.top` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
-| 41 | `api.new.bi` | ¥0.01 | $0.01 | 1 | 企业级高可用大模型 | suno_uploads |
-| 42 | `keypool.space` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
-| 43 | `new.foxi-api.cn` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
-| 44 | `xinsuanai.com` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
-| 45 | `thousandengine.com` | ¥0.01005 | $0.00149634 | 6.718 | Suno-1 | suno_uploads |
-| 46 | `api-x.vip` | ¥0.02 | $0.02 | 1 | default | suno_uploads |
-| 47 | `plusx.nyxos.shop` | ¥0.05368 | $0.007353 | 7.3 | Suno-1 | suno_uploads |
-| 48 | `aeapi.cn` | ¥0.067 | $0.01 | 6.7 | default | suno_uploads |
-| 49 | `nbapi.net` | ¥0.073 | $0.01 | 7.3 | default | suno_uploads |
+| 4 | `4zapi.com` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
+| 6 | `gzxbykj.com` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
+| 7 | `yunwu.org` | ¥0.005434 | $0.00080883 | 6.718 | Suno-1 | suno_uploads |
+| 8 | `api.antmoo.cc` | ¥0.005681 | $0.000845595 | 6.718 | Suno-1 | suno_uploads |
+| 9 | `v2.cloudmist.cloud` | ¥0.005681 | $0.000845595 | 6.718 | Suno-1 | suno_uploads |
+| 10 | `www.vectronode.com` | ¥0.005928 | $0.00088236 | 6.718 | Suno-1 | suno_uploads |
+| 11 | `apiclaw.cn` | ¥0.005977 | $0.000889713 | 6.718 | Suno-1 | suno_uploads |
+| 12 | `newapi.xueai.me` | ¥0.005977 | $0.000889713 | 6.718 | Suno-1 | suno_uploads |
+| 13 | `wodapis.com` | ¥0.005977 | $0.000889713 | 6.718 | Suno-1 | suno_uploads |
+| 14 | `ciyuan.today` | ¥0.006175 | $0.000919125 | 6.718 | Suno-1 | suno_uploads |
+| 15 | `gptapi.top` | ¥0.006175 | $0.000919125 | 6.718 | Suno-1 | suno_uploads |
+| 16 | `makerend.com` | ¥0.006175 | $0.000919125 | 6.718 | Suno-1 | suno_uploads |
+| 17 | `moliapi.com` | ¥0.006224 | $0.000926478 | 6.718 | Suno-1 | suno_uploads |
+| 18 | `ai-api.cc` | ¥0.006422 | $0.00095589 | 6.718 | Suno-1 | suno_uploads |
+| 19 | `infai.cc` | ¥0.006422 | $0.00095589 | 6.718 | Suno-1 | suno_uploads |
+| 20 | `nodapi.com` | ¥0.00652 | $0.000970596 | 6.718 | Suno-1 | suno_uploads |
+| 21 | `anyaigc.ai` | ¥0.006669 | $0.000992655 | 6.718 | Suno-1 | suno_uploads |
+| 22 | `sheepaiplus.top` | ¥0.006916 | $0.00102942 | 6.718 | Suno-1 | suno_uploads |
+| 23 | `xiguapi.icu` | ¥0.006916 | $0.00102942 | 6.718 | Suno-1 | suno_uploads |
+| 24 | `api.88api.chat` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
+| 25 | `api.88api.shop` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
+| 26 | `api.videocaptioner.cn` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
+| 27 | `lanbuff.app` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
+| 28 | `new.aigc2d.com` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
+| 29 | `oyy-ai.xyz` | ¥0.00741 | $0.00110295 | 6.718 | Suno-1 | suno_uploads |
+| 30 | `api.nixapi.com` | ¥0.008348 | $0.00124266 | 6.718 | Suno-1 | suno_uploads |
+| 31 | `aiwuje.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 32 | `api.cursorai.art` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 33 | `api.echoflowai.cc` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 34 | `api.n1n.ai` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 35 | `api.quickrouter.ai` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 36 | `jeniya.cn` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 37 | `linoapi.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 38 | `linoroute.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 39 | `llm-api.net` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 40 | `quanzil.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 41 | `token173.net` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 42 | `tryallapi.com` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 43 | `wellapi.ai` | ¥0.009879 | $0.0014706 | 6.718 | Suno-1 | suno_uploads |
+| 44 | `api.eido.top` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
+| 45 | `api.new.bi` | ¥0.01 | $0.01 | 1 | 企业级高可用大模型 | suno_uploads |
+| 46 | `keypool.space` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
+| 47 | `new.foxi-api.cn` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
+| 48 | `xinsuanai.com` | ¥0.01 | $0.01 | 1 | default | suno_uploads |
+| 49 | `thousandengine.com` | ¥0.01005 | $0.00149634 | 6.718 | Suno-1 | suno_uploads |
+| 50 | `api-x.vip` | ¥0.02 | $0.02 | 1 | default | suno_uploads |
+
+> 另有 3 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

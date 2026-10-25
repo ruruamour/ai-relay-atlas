@@ -1,6 +1,6 @@
 # claude-opus-4-6-c
 
-> 26 站提供 · 正常价 16 站 · 名义中位价 **$0.22**/次 · 实付中位价 **¥0.24**/次（11 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 17 站 · 名义中位价 **$0.2**/次 · 实付中位价 **¥0.22**/次（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,12 +15,13 @@
 | 3 | `open.selart.cc` | ¥0.1 | $0.1 | 1 | claude系列 | [秋刀鱼]k-claude-opus-4-6-c |
 | 4 | `chrisapivip.com` | ¥0.12 | $0.12 | 1 | claude-c | claude-opus-4-6-c |
 | 5 | `poloai.top` | ¥0.2 | $0.2 | 1 | Claude-code稳定 | claude-opus-4-6-c |
-| 6 | `api.ccode.vip` | ¥0.24 | $0.24 | 1 | 按次调用 | claude-opus-4-6-c-thinking |
-| 7 | `cdn.12ai.org` | ¥0.25 | $0.25 | 1 | default | claude-opus-4-6-c |
-| 8 | `n.lconai.com` | ¥0.3 | $0.3 | 1 | B1 | claude-opus-4-6-c |
-| 9 | `linkaihub.net` | ¥0.4 | $0.4 | 1 | 满血yy | claude-opus-4-6-c |
-| 10 | `newapi.20200626.xyz` | ¥0.584 | $0.08 | 7.3 | 反重力Claude次 | claude-opus-4-6-c |
-| 11 | `newapi.youkies.cloud` | ¥4.015 | $0.55 | 7.3 | default | aws-claude-opus-4-6-c |
+| 6 | `xy.poloapi.com` | ¥0.2 | $0.2 | 1 | Claude-code稳定 | claude-opus-4-6-c |
+| 7 | `api.ccode.vip` | ¥0.24 | $0.24 | 1 | 按次调用 | claude-opus-4-6-c-thinking |
+| 8 | `cdn.12ai.org` | ¥0.25 | $0.25 | 1 | default | claude-opus-4-6-c |
+| 9 | `n.lconai.com` | ¥0.3 | $0.3 | 1 | B1 | claude-opus-4-6-c |
+| 10 | `linkaihub.net` | ¥0.4 | $0.4 | 1 | 满血yy | claude-opus-4-6-c |
+| 11 | `newapi.20200626.xyz` | ¥0.584 | $0.08 | 7.3 | 反重力Claude次 | claude-opus-4-6-c |
+| 12 | `newapi.youkies.cloud` | ¥4.015 | $0.55 | 7.3 | default | aws-claude-opus-4-6-c |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

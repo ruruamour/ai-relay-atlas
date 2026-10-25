@@ -1,6 +1,6 @@
 # grok-3
 
-> 187 站提供 · 正常价 91 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6**/1M 输入（81 站公开充值价） · 推算，未对账
+> 193 站提供 · 正常价 93 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6**/1M 输入（83 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -48,20 +48,20 @@
 | 36 | `koalaapi.com` | ¥4.2 | $0.6 / $3 | 7 | default | grok-3-think |
 | 37 | `api.ocoolai.com` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-reasoning |
 | 38 | `ocool.cn` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-reasoning |
-| 39 | `api.qiqiai.top` | ¥4.8 | $2.4 / $12 | 2 | default | grok-3 |
-| 40 | `apiai.shop` | ¥4.8 | $4 / $20 | 1.2 | default | grok-3 |
-| 41 | `chat.cloudapi.vip` | ¥6 | $3 / $15 | 2 | default | grok-3 |
-| 42 | `chrisapivip.com` | ¥6 | $6 / $30 | 1 | grok | grok-3 |
-| 43 | `treerouter.com` | ¥6.3 | $0.9 / $4.5 | 7 | default | grok-3 |
-| 44 | `aidianwo.com` | ¥7 | $7 / $15 | 1 | default | grok-3 |
-| 45 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-3-think |
-| 46 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-3-think |
-| 47 | `api.ysaikeji.cn` | ¥7.3 | $1 / $5 | 7.3 | default | grok-3 |
-| 48 | `hk.apitoken.ai` | ¥7.3 | $1 / $4 | 7.3 | default | grok-3 |
-| 49 | `api.ccode.vip` | ¥8.4 | $8.4 / $43.5 | 1 | Grok 转发 | grok-3 |
-| 50 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3 |
+| 39 | `one.ooo.cool` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-reasoning |
+| 40 | `api.qiqiai.top` | ¥4.8 | $2.4 / $12 | 2 | default | grok-3 |
+| 41 | `apiai.shop` | ¥4.8 | $4 / $20 | 1.2 | default | grok-3 |
+| 42 | `chat.cloudapi.vip` | ¥6 | $3 / $15 | 2 | default | grok-3 |
+| 43 | `chrisapivip.com` | ¥6 | $6 / $30 | 1 | grok | grok-3 |
+| 44 | `treerouter.com` | ¥6.3 | $0.9 / $4.5 | 7 | default | grok-3 |
+| 45 | `aidianwo.com` | ¥7 | $7 / $15 | 1 | default | grok-3 |
+| 46 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-3-think |
+| 47 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-3-think |
+| 48 | `api.ysaikeji.cn` | ¥7.3 | $1 / $5 | 7.3 | default | grok-3 |
+| 49 | `hk.apitoken.ai` | ¥7.3 | $1 / $4 | 7.3 | default | grok-3 |
+| 50 | `api.ccode.vip` | ¥8.4 | $8.4 / $43.5 | 1 | Grok 转发 | grok-3 |
 
-> 另有 31 站未列出。
+> 另有 33 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -78,4 +78,4 @@
 | 9 | `api.luoqianyi.qzz.io` | $5 / $5 | default | 1 | grok-3 |
 | 10 | `vip.zen-ai.top` | $9 / $45 | default | 3 | grok-3 |
 
-> 96 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 100 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

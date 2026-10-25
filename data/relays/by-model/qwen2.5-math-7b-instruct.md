@@ -1,6 +1,6 @@
 # qwen2.5-math-7b-instruct
 
-> 36 站提供 · 正常价 27 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（9 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 30 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,11 +14,14 @@
 | 2 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | qwen2.5-math-7b-instruct |
 | 3 | `api.ocoolai.com` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
 | 4 | `ocool.cn` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
-| 5 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
-| 6 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-math-7b-instruct |
-| 7 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
-| 8 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-math-7b-instruct |
-| 9 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-math-7b-instruct |
+| 5 | `one.ooo.cool` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-math-7b-instruct |
+| 6 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
+| 7 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-math-7b-instruct |
+| 8 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
+| 9 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-math-7b-instruct |
+| 10 | `api.aiskt.com` | ¥2.857 | $2.8572 / $5.7144 | 1 | default | qwen2.5-math-7b-instruct |
+| 11 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen2.5-math-7b-instruct |
+| 12 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-math-7b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

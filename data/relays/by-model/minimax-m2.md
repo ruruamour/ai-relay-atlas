@@ -1,6 +1,6 @@
 # minimax-m2
 
-> 154 站提供 · 正常价 112 站 · 名义中位价 **$2.1**/1M 输入 · 实付中位价 **¥1.911**/1M 输入（43 站公开充值价） · 推算，未对账
+> 159 站提供 · 正常价 115 站 · 名义中位价 **$2.1**/1M 输入 · 实付中位价 **¥1.911**/1M 输入（46 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,34 +25,37 @@
 | 13 | `api.zyai.online` | ¥1.2 | $1.2 / $4.8 | 1 | Guochan6 | minimax-m2 |
 | 14 | `i-sh.v1api.cc` | ¥1.26 | $1.26 / $5.04 | 1 | china | minimax-m2 |
 | 15 | `i.v1api.cc` | ¥1.26 | $1.26 / $5.04 | 1 | china | minimax-m2 |
-| 16 | `ai.centos.hk` | ¥1.575 | $1.575 / $6.3 | 1 | MiniMax | MiniMax-M2 |
-| 17 | `gpt777.top` | ¥1.68 | $1.68 / $6.72 | 1 | opensource | MiniMax-M2 |
-| 18 | `claudecn.ai` | ¥1.89 | $1.89 / $7.56 | 1 | 国产模型 | MiniMax-M2 |
-| 19 | `api.ocoolai.com` | ¥1.9 | $1.9 / $7.6 | 1 | cn | MiniMax-M2 |
-| 20 | `ocool.cn` | ¥1.9 | $1.9 / $7.6 | 1 | cn | MiniMax-M2 |
-| 21 | `api.ifopen.ai` | ¥1.911 | $0.546 / $2.184 | 3.5 | 通用大模型 | MiniMax-M2 |
-| 22 | `api2.aigcbest.top` | ¥1.911 | $0.546 / $2.184 | 3.5 | 通用大模型 | MiniMax-M2 |
-| 23 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | minimax-m2 |
-| 24 | `api.new.bi` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
-| 25 | `coneverse.com` | ¥2.1 | $2.1 / $8.4 | 1 | minimax-official | MiniMax-M2 |
-| 26 | `infistar.ai` | ¥2.1 | $2.1 / $8.4 | 1 | minimax-official | MiniMax-M2 |
-| 27 | `keypool.space` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
-| 28 | `new.foxi-api.cn` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
-| 29 | `tokenworldapi.com` | ¥2.1 | $2.1 / $8.4 | 1 | minimax官key | MiniMax-M2 |
-| 30 | `xinsuanai.com` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
-| 31 | `admin.cygnenoir.space` | ¥2.19 | $0.3 / $1.2 | 7.3 | default | MiniMax-M2 |
-| 32 | `hk.apitoken.ai` | ¥2.19 | $0.3 / $1.2 | 7.3 | bi | MiniMax-M2 |
-| 33 | `cn.gptapi.asia` | ¥2.8 | $2.8 / $11.284 | 1 | enterprise | minimax-m2 |
-| 34 | `yutoapi.com` | ¥2.8 | $2.8 / $11.284 | 1 | enterprise | minimax-m2 |
-| 35 | `api.tacklekey.com` | ¥2.864 | $0.392308 / $1.56923 | 7.3 | default | minimax/minimax-m2 |
-| 36 | `ai2.qiqiai.top` | ¥3.351 | $0.459 / $1.8 | 7.3 | 官方合作渠道 | minimax/minimax-m2 |
-| 37 | `xckjj.com` | ¥6 | $6 / $6 | 1 | 国模 | minimax-m2 |
-| 38 | `api.camel-hub.com` | ¥8 | $10 / $10 | 0.8 | OFC | minimax-m2 |
-| 39 | `nbapi.net` | ¥15.33 | $2.1 / $8.4 | 7.3 | default | minimax-m2 |
-| 40 | `newapi.floatai.cn` | ¥15.33 | $2.1 / $8.4 | 7.3 | default | MiniMax-M2 |
-| 41 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | minimax-m2 |
-| 42 | `open-test.xiaojingai.com` | ¥29.2 | $4 / $4 | 7.3 | default | minimax-m2 |
-| 43 | `mai.app.binly.cn` | ¥58.4 | $8 / $8 | 7.3 | vip | MiniMax-M2 |
+| 16 | `ai.bytonsec.com` | ¥1.53 | $1.53 / $6.12 | 1 | OpenRouter | minimax/minimax-m2 |
+| 17 | `ai.centos.hk` | ¥1.575 | $1.575 / $6.3 | 1 | MiniMax | MiniMax-M2 |
+| 18 | `gpt777.top` | ¥1.68 | $1.68 / $6.72 | 1 | opensource | MiniMax-M2 |
+| 19 | `claudecn.ai` | ¥1.89 | $1.89 / $7.56 | 1 | 国产模型 | MiniMax-M2 |
+| 20 | `api.ocoolai.com` | ¥1.9 | $1.9 / $7.6 | 1 | cn | MiniMax-M2 |
+| 21 | `ocool.cn` | ¥1.9 | $1.9 / $7.6 | 1 | cn | MiniMax-M2 |
+| 22 | `one.ooo.cool` | ¥1.9 | $1.9 / $7.6 | 1 | cn | MiniMax-M2 |
+| 23 | `api.ifopen.ai` | ¥1.911 | $0.546 / $2.184 | 3.5 | 通用大模型 | MiniMax-M2 |
+| 24 | `api2.aigcbest.top` | ¥1.911 | $0.546 / $2.184 | 3.5 | 通用大模型 | MiniMax-M2 |
+| 25 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | minimax-m2 |
+| 26 | `api.aiskt.com` | ¥2.1 | $2.1 / $8.4 | 1 | azure1 | minimax-m2 |
+| 27 | `api.new.bi` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
+| 28 | `coneverse.com` | ¥2.1 | $2.1 / $8.4 | 1 | minimax-official | MiniMax-M2 |
+| 29 | `infistar.ai` | ¥2.1 | $2.1 / $8.4 | 1 | minimax-official | MiniMax-M2 |
+| 30 | `keypool.space` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
+| 31 | `new.foxi-api.cn` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
+| 32 | `tokenworldapi.com` | ¥2.1 | $2.1 / $8.4 | 1 | minimax官key | MiniMax-M2 |
+| 33 | `xinsuanai.com` | ¥2.1 | $2.1 / $8.4 | 1 | default | MiniMax-M2 |
+| 34 | `admin.cygnenoir.space` | ¥2.19 | $0.3 / $1.2 | 7.3 | default | MiniMax-M2 |
+| 35 | `hk.apitoken.ai` | ¥2.19 | $0.3 / $1.2 | 7.3 | bi | MiniMax-M2 |
+| 36 | `cn.gptapi.asia` | ¥2.8 | $2.8 / $11.284 | 1 | enterprise | minimax-m2 |
+| 37 | `yutoapi.com` | ¥2.8 | $2.8 / $11.284 | 1 | enterprise | minimax-m2 |
+| 38 | `api.tacklekey.com` | ¥2.864 | $0.392308 / $1.56923 | 7.3 | default | minimax/minimax-m2 |
+| 39 | `ai2.qiqiai.top` | ¥3.351 | $0.459 / $1.8 | 7.3 | 官方合作渠道 | minimax/minimax-m2 |
+| 40 | `xckjj.com` | ¥6 | $6 / $6 | 1 | 国模 | minimax-m2 |
+| 41 | `api.camel-hub.com` | ¥8 | $10 / $10 | 0.8 | OFC | minimax-m2 |
+| 42 | `nbapi.net` | ¥15.33 | $2.1 / $8.4 | 7.3 | default | minimax-m2 |
+| 43 | `newapi.floatai.cn` | ¥15.33 | $2.1 / $8.4 | 7.3 | default | MiniMax-M2 |
+| 44 | `api.wapq.cn` | ¥18.25 | $2.5 / $5 | 7.3 | default | minimax-m2 |
+| 45 | `open-test.xiaojingai.com` | ¥29.2 | $4 / $4 | 7.3 | default | minimax-m2 |
+| 46 | `mai.app.binly.cn` | ¥58.4 | $8 / $8 | 7.3 | vip | MiniMax-M2 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -111,4 +114,4 @@
 
 > 另有 19 站未列出。
 
-> 42 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 44 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

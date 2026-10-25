@@ -1,6 +1,6 @@
 # flux
 
-> 34 站提供 · 正常价 27 站 · 名义中位价 **$0.02**/次 · 实付中位价 **¥0.016**/次（24 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 28 站 · 名义中位价 **$0.0175**/次 · 实付中位价 **¥0.016**/次（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,19 +21,20 @@
 | 9 | `ai.t8star.org` | ¥0.0135 | $0.01 | 1.35 | default | flux |
 | 10 | `api.ocoolai.com` | ¥0.015 | $0.015 | 1 | default | flux |
 | 11 | `ocool.cn` | ¥0.015 | $0.015 | 1 | default | flux |
-| 12 | `opus.v1api.cc` | ¥0.016 | $0.02 | 0.8 | default | flux |
-| 13 | `xh.v1api.cc` | ¥0.016 | $0.02 | 0.8 | default | flux |
-| 14 | `newapi.tu-zi.com` | ¥0.02 | $0.02 | 1 | default | flux |
-| 15 | `paw.v1chat.cc` | ¥0.02 | $0.02 | 1 | default | flux |
-| 16 | `vg.v1api.cc` | ¥0.02 | $0.02 | 1 | default | flux |
-| 17 | `vg.v1chat.cc` | ¥0.02 | $0.02 | 1 | default | flux |
-| 18 | `i-sh.v1api.cc` | ¥0.024 | $0.024 | 1 | default | flux |
-| 19 | `i.v1api.cc` | ¥0.024 | $0.024 | 1 | default | flux |
-| 20 | `api.annyun.cn` | ¥0.05 | $0.05 | 1 | default | flux |
-| 21 | `www.ggwk1.online` | ¥0.05 | $0.05 | 1 | a全模型综合组-1倍率 | flux |
-| 22 | `fastapi.top` | ¥0.073 | $0.01 | 7.3 | default | flux |
-| 23 | `api.qinzhiai.com` | ¥0.49 | $0.49 | 1 | open_source2 | ClarityAI/flux |
-| 24 | `max.openai365.top` | ¥43.8 | $6 | 7.3 | default | flux |
+| 12 | `one.ooo.cool` | ¥0.015 | $0.015 | 1 | default | flux |
+| 13 | `opus.v1api.cc` | ¥0.016 | $0.02 | 0.8 | default | flux |
+| 14 | `xh.v1api.cc` | ¥0.016 | $0.02 | 0.8 | default | flux |
+| 15 | `newapi.tu-zi.com` | ¥0.02 | $0.02 | 1 | default | flux |
+| 16 | `paw.v1chat.cc` | ¥0.02 | $0.02 | 1 | default | flux |
+| 17 | `vg.v1api.cc` | ¥0.02 | $0.02 | 1 | default | flux |
+| 18 | `vg.v1chat.cc` | ¥0.02 | $0.02 | 1 | default | flux |
+| 19 | `i-sh.v1api.cc` | ¥0.024 | $0.024 | 1 | default | flux |
+| 20 | `i.v1api.cc` | ¥0.024 | $0.024 | 1 | default | flux |
+| 21 | `api.annyun.cn` | ¥0.05 | $0.05 | 1 | default | flux |
+| 22 | `www.ggwk1.online` | ¥0.05 | $0.05 | 1 | a全模型综合组-1倍率 | flux |
+| 23 | `fastapi.top` | ¥0.073 | $0.01 | 7.3 | default | flux |
+| 24 | `api.qinzhiai.com` | ¥0.49 | $0.49 | 1 | open_source2 | ClarityAI/flux |
+| 25 | `max.openai365.top` | ¥43.8 | $6 | 7.3 | default | flux |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

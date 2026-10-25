@@ -1,6 +1,6 @@
 # dall-e-2
 
-> 67 站提供 · 正常价 18 站 · 名义中位价 **$16**/1M 输入 · 实付中位价 **¥112**/1M 输入（18 站公开充值价） · 推算，未对账
+> 73 站提供 · 正常价 20 站 · 名义中位价 **$16**/1M 输入 · 实付中位价 **¥114.4**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,7 +26,9 @@
 | 14 | `apius.shubiaobiao.cn` | ¥116.8 | $16 / $16 | 7.3 | temp | dall-e-2 |
 | 15 | `api.ocoolai.com` | ¥126 | $126 / $126 | 1 | claude_official | dall-e-2 |
 | 16 | `ocool.cn` | ¥126 | $126 / $126 | 1 | claude_official | dall-e-2 |
-| 17 | `gptnb.ai` | ¥136 | $136 / $136 | 1 | official | dall-e-2 |
-| 18 | `oneapi.gptnb.ai` | ¥184 | $184 / $184 | 1 | official | dall-e-2 |
+| 17 | `one.ooo.cool` | ¥126 | $126 / $126 | 1 | claude_official | dall-e-2 |
+| 18 | `gptnb.ai` | ¥136 | $136 / $136 | 1 | official | dall-e-2 |
+| 19 | `goapi.gptnb.ai` | ¥184 | $184 / $184 | 1 | official | dall-e-2 |
+| 20 | `oneapi.gptnb.ai` | ¥184 | $184 / $184 | 1 | official | dall-e-2 |
 
-> 49 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 53 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

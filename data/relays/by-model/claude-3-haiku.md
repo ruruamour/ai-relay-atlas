@@ -1,6 +1,6 @@
 # claude-3-haiku
 
-> 171 站提供 · 正常价 147 站 · 名义中位价 **$1.45**/1M 输入 · 实付中位价 **¥1.725**/1M 输入（65 站公开充值价） · 推算，未对账
+> 174 站提供 · 正常价 150 站 · 名义中位价 **$1.4125**/1M 输入 · 实付中位价 **¥1.725**/1M 输入（68 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,51 +17,51 @@
 | 5 | `ccode.online` | ¥0.175 | $0.175 / $0.875 | 1 | cc1 | claude-3-haiku-20240307 |
 | 6 | `magic666.top` | ¥0.175 | $0.175 / $0.875 | 1 | claude-code-remix | claude-3-haiku-20240307 |
 | 7 | `ai.soruxgpt.com` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 8 | `api.eido.top` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 9 | `api.hopeai.cc` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 10 | `dev.novaapi.ai` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 11 | `go.sbgpt.site` | ¥0.25 | $0.25 / $1.25 | 1 | claude逆向 | claude-3-haiku-20240307 |
-| 12 | `i-sh.v1api.cc` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 13 | `i.v1api.cc` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 14 | `newapi.tu-zi.com` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 15 | `xiaoma.best` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
-| 16 | `daoxe.com` | ¥0.2575 | $0.25 / $1.25 | 1.03 | default | claude-3-haiku-20240307 |
-| 17 | `api.edu9.us` | ¥0.3 | $0.3 / $1.5 | 1 | 【稳定版】Claude code Max 限定版 | claude-3-haiku-20240307 |
-| 18 | `monking.ai` | ¥0.3 | $0.3 / $1.5 | 1 | Claudecode-求稳分组 | claude-3-haiku-20240307 |
-| 19 | `api.34ku.com` | ¥0.325 | $0.325 / $1.625 | 1 | default | claude-3-haiku-20240307 |
-| 20 | `api.xhuoai.com` | ¥0.375 | $0.25 / $1.25 | 1.5 | default | claude-3-haiku-20240307 |
-| 21 | `yun.v1api.cc` | ¥0.375 | $0.25 / $1.25 | 1.5 | default | claude-3-haiku-20240307 |
-| 22 | `8s.hk` | ¥0.5 | $0.5 / $2.5 | 1 | 全模型自动 | claude-3-haiku-20240307 |
-| 23 | `chat.cloudapi.vip` | ¥0.5 | $0.25 / $1.25 | 2 | default | claude-3-haiku-20240307 |
-| 24 | `api.vakv.cn` | ¥0.65 | $0.65 / $3.25 | 1 | 9999 | claude-3-haiku-20240307 |
-| 25 | `webapi.xjai.cc` | ¥0.75 | $0.25 / $1.25 | 3 | default | claude-3-haiku-20240307 |
-| 26 | `api.qinzhiai.com` | ¥0.875 | $0.875 / $4.375 | 1 | openrouter | anthropic/claude-3-haiku |
-| 27 | `api.bltcy.ai` | ¥1.25 | $1.25 / $6.25 | 1 | claude官 | claude-3-haiku-20240307 |
-| 28 | `apilio.ai` | ¥1.25 | $1.25 / $6.25 | 1 | claude官 | claude-3-haiku-20240307 |
-| 29 | `test-ssl.bltcy.ai` | ¥1.25 | $1.25 / $6.25 | 1 | claude官 | claude-3-haiku-20240307 |
-| 30 | `kfcv50.link` | ¥1.45 | $1.45 / $7.25 | 1 | claude_pure_58 | claude-3-haiku-20240307-thinking |
-| 31 | `mux.la` | ¥1.46 | $0.2 / $1 | 7.3 | Openrouter-Anthropic | anthropic/claude-3-haiku |
-| 32 | `ai.t8star.org` | ¥1.688 | $1.25 / $6.25 | 1.35 | claude官 | claude-3-haiku-20240307 |
-| 33 | `apicdn.xyc.ai` | ¥1.725 | $0.25 / $1.25 | 6.9 | claude-flow | claude-3-haiku |
-| 34 | `apicdn.xycai.us` | ¥1.725 | $0.25 / $1.25 | 6.9 | claude-flow | claude-3-haiku |
-| 35 | `cn.gptapi.asia` | ¥1.75 | $1.75 / $8.75 | 1 | enterprise | claude-3-haiku-20240307 |
-| 36 | `freegpt.tech` | ¥1.75 | $1.75 / $8.75 | 1 | default | claude-3-haiku-20240307 |
-| 37 | `yutoapi.com` | ¥1.75 | $1.75 / $8.75 | 1 | enterprise | claude-3-haiku-20240307 |
-| 38 | `apimux.app` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 39 | `apiplus.online` | ¥1.825 | $0.25 / $1.25 | 7.3 | svip | claude-3-haiku-20240307 |
-| 40 | `claude.ysaikeji.cn` | ¥1.825 | $0.25 / $1.25 | 7.3 | claude | claude-3-haiku-20240307 |
-| 41 | `code.bianxie.ai` | ¥1.825 | $0.25 / $1.25 | 7.3 | cc | claude-3-haiku-20240307 |
-| 42 | `hk.apitoken.ai` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 43 | `hy88.my` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 44 | `kubernetes-test-api.apiqik.online` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 45 | `newapi.1024hub.org` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 46 | `newapi.ailingnan.top` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 47 | `newapi.floatai.cn` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 48 | `test.weytoken.com` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 49 | `yuandianapi.com` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
-| 50 | `new.foxi-api.cn` | ¥2 | $2 / $10 | 1 | official_Claude | claude-3-haiku-20240307 |
+| 8 | `api.chatgptid.net` | ¥0.25 | $0.5 / $2.5 | 0.5 | default | claude-3-haiku-20240307 |
+| 9 | `api.eido.top` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 10 | `api.hopeai.cc` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 11 | `dev.novaapi.ai` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 12 | `go.sbgpt.site` | ¥0.25 | $0.25 / $1.25 | 1 | claude逆向 | claude-3-haiku-20240307 |
+| 13 | `i-sh.v1api.cc` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 14 | `i.v1api.cc` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 15 | `newapi.tu-zi.com` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 16 | `xiaoma.best` | ¥0.25 | $0.25 / $1.25 | 1 | default | claude-3-haiku-20240307 |
+| 17 | `daoxe.com` | ¥0.2575 | $0.25 / $1.25 | 1.03 | default | claude-3-haiku-20240307 |
+| 18 | `api.edu9.us` | ¥0.3 | $0.3 / $1.5 | 1 | 【稳定版】Claude code Max 限定版 | claude-3-haiku-20240307 |
+| 19 | `monking.ai` | ¥0.3 | $0.3 / $1.5 | 1 | Claudecode-求稳分组 | claude-3-haiku-20240307 |
+| 20 | `api.34ku.com` | ¥0.325 | $0.325 / $1.625 | 1 | default | claude-3-haiku-20240307 |
+| 21 | `api.xhuoai.com` | ¥0.375 | $0.25 / $1.25 | 1.5 | default | claude-3-haiku-20240307 |
+| 22 | `yun.v1api.cc` | ¥0.375 | $0.25 / $1.25 | 1.5 | default | claude-3-haiku-20240307 |
+| 23 | `8s.hk` | ¥0.5 | $0.5 / $2.5 | 1 | 全模型自动 | claude-3-haiku-20240307 |
+| 24 | `chat.cloudapi.vip` | ¥0.5 | $0.25 / $1.25 | 2 | default | claude-3-haiku-20240307 |
+| 25 | `api.vakv.cn` | ¥0.65 | $0.65 / $3.25 | 1 | 9999 | claude-3-haiku-20240307 |
+| 26 | `webapi.xjai.cc` | ¥0.75 | $0.25 / $1.25 | 3 | default | claude-3-haiku-20240307 |
+| 27 | `api.qinzhiai.com` | ¥0.875 | $0.875 / $4.375 | 1 | openrouter | anthropic/claude-3-haiku |
+| 28 | `api.bltcy.ai` | ¥1.25 | $1.25 / $6.25 | 1 | claude官 | claude-3-haiku-20240307 |
+| 29 | `apilio.ai` | ¥1.25 | $1.25 / $6.25 | 1 | claude官 | claude-3-haiku-20240307 |
+| 30 | `test-ssl.bltcy.ai` | ¥1.25 | $1.25 / $6.25 | 1 | claude官 | claude-3-haiku-20240307 |
+| 31 | `kfcv50.link` | ¥1.45 | $1.45 / $7.25 | 1 | claude_pure_58 | claude-3-haiku-20240307-thinking |
+| 32 | `mux.la` | ¥1.46 | $0.2 / $1 | 7.3 | Openrouter-Anthropic | anthropic/claude-3-haiku |
+| 33 | `ai.t8star.org` | ¥1.688 | $1.25 / $6.25 | 1.35 | claude官 | claude-3-haiku-20240307 |
+| 34 | `apicdn.xyc.ai` | ¥1.725 | $0.25 / $1.25 | 6.9 | claude-flow | claude-3-haiku |
+| 35 | `apicdn.xycai.us` | ¥1.725 | $0.25 / $1.25 | 6.9 | claude-flow | claude-3-haiku |
+| 36 | `cn.gptapi.asia` | ¥1.75 | $1.75 / $8.75 | 1 | enterprise | claude-3-haiku-20240307 |
+| 37 | `freegpt.tech` | ¥1.75 | $1.75 / $8.75 | 1 | default | claude-3-haiku-20240307 |
+| 38 | `yutoapi.com` | ¥1.75 | $1.75 / $8.75 | 1 | enterprise | claude-3-haiku-20240307 |
+| 39 | `apimux.app` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 40 | `apiplus.online` | ¥1.825 | $0.25 / $1.25 | 7.3 | svip | claude-3-haiku-20240307 |
+| 41 | `claude.ysaikeji.cn` | ¥1.825 | $0.25 / $1.25 | 7.3 | claude | claude-3-haiku-20240307 |
+| 42 | `code.bianxie.ai` | ¥1.825 | $0.25 / $1.25 | 7.3 | cc | claude-3-haiku-20240307 |
+| 43 | `hk.apitoken.ai` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 44 | `hy88.my` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 45 | `kubernetes-test-api.apiqik.online` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 46 | `newapi.1024hub.org` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 47 | `newapi.ailingnan.top` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 48 | `newapi.floatai.cn` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 49 | `test.weytoken.com` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
+| 50 | `yuandianapi.com` | ¥1.825 | $0.25 / $1.25 | 7.3 | default | claude-3-haiku-20240307 |
 
-> 另有 15 站未列出。
+> 另有 18 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

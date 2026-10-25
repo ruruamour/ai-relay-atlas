@@ -1,6 +1,6 @@
 # qwen2.5-32b-instruct
 
-> 60 站提供 · 正常价 42 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（23 站公开充值价） · 推算，未对账
+> 66 站提供 · 正常价 46 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（27 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,24 +15,28 @@
 | 3 | `platform.anyrouter.ai` | ¥1.2 | $1.2 / $3.6 | 1 | official_cn | qwen2.5-32b-instruct |
 | 4 | `kfcv50.link` | ¥1.5 | $1.5 / $4.5 | 1 | cn_discount_0407_075 | qwen2.5-32b-instruct |
 | 5 | `gpt777.top` | ¥1.6 | $1.6 / $4.8 | 1 | opensource | LoRA/Qwen/Qwen2.5-32B-Instruct |
-| 6 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-32b-instruct |
-| 7 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen2.5-32b-instruct |
-| 8 | `api.ifopen.ai` | ¥1.82 | $0.52 / $1.56 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-32B-Instruct |
-| 9 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $1.56 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-32B-Instruct |
-| 10 | `api.ocoolai.com` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-32b-instruct |
-| 11 | `ocool.cn` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-32b-instruct |
-| 12 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | qwen2.5-32b-instruct |
-| 13 | `gptapi.app` | ¥2 | $2 / $6 | 1 | default | qwen2.5-32b-instruct |
-| 14 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwen2.5-32b-instruct |
-| 15 | `mb.dmxapi.cn` | ¥2 | $0.4 / $1.2 | 5 | default | qwen2.5-32b-instruct |
-| 16 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwen2.5-32b-instruct |
-| 17 | `apiai.shop` | ¥2.4 | $2 / $6 | 1.2 | default | qwen2.5-32b-instruct |
-| 18 | `www.hohoapi.com` | ¥3.12 | $1.04 / $3.12 | 3 | qwen | qwen2.5-32b-instruct |
-| 19 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen2.5-32b-instruct |
-| 20 | `one.zhihuiapi.top` | ¥8.76 | $1.2 / $1.2 | 7.3 | qwen3 | qwen2.5-32b-instruct |
-| 21 | `ai.nodeloc.com` | ¥12.52 | $1.7144 / $6.8576 | 7.3 | default | qwen2.5-32b-instruct |
-| 22 | `kaopuapi.com` | ¥14.6 | $2 / $6 | 7.3 | cn1 | Qwen2.5-32B-Instruct |
-| 23 | `mrouter.cn` | ¥14.6 | $2 / $6 | 7.3 | cn1 | Qwen2.5-32B-Instruct |
+| 6 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-32b-instruct |
+| 7 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-32b-instruct |
+| 8 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen2.5-32b-instruct |
+| 9 | `api.ifopen.ai` | ¥1.82 | $0.52 / $1.56 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-32B-Instruct |
+| 10 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $1.56 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-32B-Instruct |
+| 11 | `api.ocoolai.com` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-32b-instruct |
+| 12 | `ocool.cn` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-32b-instruct |
+| 13 | `one.ooo.cool` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-32b-instruct |
+| 14 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | qwen2.5-32b-instruct |
+| 15 | `gptapi.app` | ¥2 | $2 / $6 | 1 | default | qwen2.5-32b-instruct |
+| 16 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwen2.5-32b-instruct |
+| 17 | `mb.dmxapi.cn` | ¥2 | $0.4 / $1.2 | 5 | default | qwen2.5-32b-instruct |
+| 18 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwen2.5-32b-instruct |
+| 19 | `apiai.shop` | ¥2.4 | $2 / $6 | 1.2 | default | qwen2.5-32b-instruct |
+| 20 | `api.aiskt.com` | ¥2.857 | $2.8572 / $8.5716 | 1 | default | qwen2.5-32b-instruct |
+| 21 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $8.5716 | 1 | 国产模型 | qwen2.5-32b-instruct |
+| 22 | `www.hohoapi.com` | ¥3.12 | $1.04 / $3.12 | 3 | qwen | qwen2.5-32b-instruct |
+| 23 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen2.5-32b-instruct |
+| 24 | `one.zhihuiapi.top` | ¥8.76 | $1.2 / $1.2 | 7.3 | qwen3 | qwen2.5-32b-instruct |
+| 25 | `ai.nodeloc.com` | ¥12.52 | $1.7144 / $6.8576 | 7.3 | default | qwen2.5-32b-instruct |
+| 26 | `kaopuapi.com` | ¥14.6 | $2 / $6 | 7.3 | cn1 | Qwen2.5-32B-Instruct |
+| 27 | `mrouter.cn` | ¥14.6 | $2 / $6 | 7.3 | cn1 | Qwen2.5-32B-Instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -58,4 +62,4 @@
 | 18 | `www.xiaoruiera.top` | $2 / $6 | default | 1 | qwen2.5-32b-instruct |
 | 19 | `yuli.host` | $2 / $6 | default | 1 | qwen2.5-32b-instruct |
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

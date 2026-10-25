@@ -1,6 +1,6 @@
 # qwen3-coder-next
 
-> 55 站提供 · 正常价 28 站 · 名义中位价 **$0.191308**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（23 站公开充值价） · 推算，未对账
+> 61 站提供 · 正常价 30 站 · 名义中位价 **$0.248416**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,14 +25,16 @@
 | 13 | `www.wanmoapi.com` | ¥0.5 | $0.5 / $2 | 1 | bailian | qwen3-coder-next |
 | 14 | `llm.kagu.one` | ¥0.5475 | $0.075 / $0.4 | 7.3 | 大杂烩 | qwen/qwen3-coder-next |
 | 15 | `xhaoo.com` | ¥0.7 | $0.7 / $2.8 | 1 | cn | qwen3-coder-next |
-| 16 | `unorouter.net` | ¥0.7884 | $0.108 / $0.675 | 7.3 | default | qwen3-coder-next |
-| 17 | `api.arkasm.cn` | ¥0.803 | $0.11 / $0.68 | 7.3 | default | qwen3-coder-next |
-| 18 | `api.tokenrouter.com` | ¥0.84 | $0.12 / $0.75 | 7 | default | qwen/qwen3-coder-next |
-| 19 | `api.tacklekey.com` | ¥1.348 | $0.184615 / $1.23077 | 7.3 | default | qwen/qwen3-coder-next |
-| 20 | `ai2.qiqiai.top` | ¥1.445 | $0.198 / $1.44 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-next |
-| 21 | `tokenfree.cc` | ¥2.19 | $0.3 / $1.2 | 7.3 | default | kr/qwen3-coder-next |
-| 22 | `codeyy.top` | ¥7.3 | $1 / $4 | 7.3 | default | qwen3-coder-next |
-| 23 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-coder-next |
+| 16 | `ai.bytonsec.com` | ¥0.72 | $0.72 / $4.8 | 1 | OpenRouter | qwen/qwen3-coder-next |
+| 17 | `unorouter.net` | ¥0.7884 | $0.108 / $0.675 | 7.3 | default | qwen3-coder-next |
+| 18 | `api.arkasm.cn` | ¥0.803 | $0.11 / $0.68 | 7.3 | default | qwen3-coder-next |
+| 19 | `api.tokenrouter.com` | ¥0.84 | $0.12 / $0.75 | 7 | default | qwen/qwen3-coder-next |
+| 20 | `api.tacklekey.com` | ¥1.348 | $0.184615 / $1.23077 | 7.3 | default | qwen/qwen3-coder-next |
+| 21 | `ai2.qiqiai.top` | ¥1.445 | $0.198 / $1.44 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-next |
+| 22 | `ai.mowen.vip` | ¥1.999 | $0.298831 / $0.298831 | 6.6892 | default | Qwen3-Coder-Next |
+| 23 | `tokenfree.cc` | ¥2.19 | $0.3 / $1.2 | 7.3 | default | kr/qwen3-coder-next |
+| 24 | `codeyy.top` | ¥7.3 | $1 / $4 | 7.3 | default | qwen3-coder-next |
+| 25 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-coder-next |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -44,4 +46,4 @@
 | 4 | `ai.kunkun.chat` | $3.75 / $22.5 | qwen | 2.5 | kiro-qwen3-coder-next |
 | 5 | `ai.saigou.work` | $3.75 / $22.5 | qwen | 2.5 | kiro-qwen3-coder-next |
 
-> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

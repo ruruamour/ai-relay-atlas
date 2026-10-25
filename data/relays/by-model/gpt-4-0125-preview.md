@@ -1,6 +1,6 @@
 # gpt-4-0125-preview
 
-> 149 站提供 · 正常价 133 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥15**/1M 输入（91 站公开充值价） · 推算，未对账
+> 159 站提供 · 正常价 139 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥15**/1M 输入（97 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.ocoolai.com` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-0125-preview |
-| 2 | `ocool.cn` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-0125-preview |
-| 3 | `zhangsan.yun` | ¥1.5 | $1.5 / $3 | 1 | image-2分组 | gpt-4-0125-preview |
-| 4 | `monking.ai` | ¥3.5 | $3.5 / $7 | 1 | codex-Pro | gpt-4-0125-preview |
-| 5 | `big.sbgpt.site` | ¥4.8 | $4.8 / $9.6 | 1 | az-0.4 | gpt-4-0125-preview |
-| 6 | `go.sbgpt.site` | ¥4.8 | $4.8 / $9.6 | 1 | az-3 | gpt-4-0125-preview |
-| 7 | `api.aliyunfuwu.top` | ¥5 | $5 / $15 | 1 | relay | gpt-4-0125-preview |
-| 8 | `api.zyai.online` | ¥5 | $5 / $15 | 1 | mini | gpt-4-0125-preview |
-| 9 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | az_act05 | gpt-4-0125-preview |
-| 10 | `new.gateway.icu` | ¥5 | $5 / $10 | 1 | default | gpt-4-0125-preview |
-| 11 | `newapi.link` | ¥5 | $5 / $10 | 1 | default | gpt-4-0125-preview |
-| 12 | `api.bltcy.ai` | ¥8 | $8 / $16 | 1 | vip | gpt-4-0125-preview |
-| 13 | `apilio.ai` | ¥8 | $8 / $16 | 1 | vip | gpt-4-0125-preview |
-| 14 | `cn.gptapi.asia` | ¥8 | $8 / $24 | 1 | default | gpt-4-0125-preview |
-| 15 | `test-ssl.bltcy.ai` | ¥8 | $8 / $16 | 1 | vip | gpt-4-0125-preview |
-| 16 | `yutoapi.com` | ¥8 | $8 / $24 | 1 | default | gpt-4-0125-preview |
-| 17 | `ai.soruxgpt.com` | ¥9 | $9 / $18 | 1 | azure-low | gpt-4-0125-preview |
-| 18 | `api.openai-labs.com` | ¥9 | $9 / $27 | 1 | azure | gpt-4-0125-preview |
-| 19 | `cnapi.kksj.org` | ¥9 | $9 / $18 | 1 | default | gpt-4-0125-preview |
-| 20 | `layso.ai` | ¥9.75 | $9.75 / $19.5 | 1 | Azure-Gpt-1 | gpt-4-0125-preview |
-| 21 | `laysoai.com` | ¥9.75 | $9.75 / $19.5 | 1 | Azure-Gpt-1 | gpt-4-0125-preview |
-| 22 | `123api.co` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 23 | `api.eido.top` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 24 | `api.hopeai.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 25 | `api.qinzhiai.com` | ¥10 | $10 / $30 | 1 | az | gpt-4-0125-preview |
-| 26 | `api.routeeasy.ai` | ¥10 | $10 / $30 | 1 | default | gpt-4-0125-preview |
-| 27 | `dn.v1api.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 28 | `gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-0125-preview |
-| 29 | `i-sh.v1api.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 30 | `i.v1api.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 31 | `keypool.space` | ¥10 | $10 / $20 | 1 | vip | gpt-4-0125-preview |
-| 32 | `n.lconai.com` | ¥10 | $10 / $20 | 1 | B1 | gpt-4-0125-preview |
-| 33 | `newapi.tu-zi.com` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 34 | `oneapi.gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-0125-preview |
-| 35 | `platform.anyrouter.ai` | ¥10 | $10 / $30 | 1 | Azure4 | gpt-4-0125-preview |
-| 36 | `vibecodingapi.ai` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 37 | `www.ggwk1.online` | ¥10 | $10 / $20 | 1 | a全模型综合组-1倍率 | gpt-4-0125-preview |
-| 38 | `xinsuanai.com` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 39 | `zen-ai.top` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
-| 40 | `ai.t8star.org` | ¥10.8 | $8 / $16 | 1.35 | vip | gpt-4-0125-preview |
-| 41 | `35.aigcbest.top` | ¥15 | $10 / $20 | 1.5 | default | gpt-4-0125-preview |
-| 42 | `api.vakv.cn` | ¥15 | $15 / $30 | 1 | az-gpt-新渠道 | gpt-4-0125-preview |
-| 43 | `api.xhuoai.com` | ¥15 | $10 / $20 | 1.5 | default | gpt-4-0125-preview |
-| 44 | `poloai.top` | ¥15 | $15 / $30 | 1 | az | gpt-4-0125-preview |
-| 45 | `proaiapi.tech` | ¥15 | $15 / $30 | 1 | default | gpt-4-0125-preview |
-| 46 | `xrok.dev` | ¥15 | $15 / $30 | 1 | AZ-GPT-1.3 | gpt-4-0125-preview |
-| 47 | `yun.v1api.cc` | ¥15 | $10 / $20 | 1.5 | default | gpt-4-0125-preview |
-| 48 | `147ai.online` | ¥16 | $20 / $60 | 0.8 | default | gpt-4-0125-preview |
-| 49 | `opus.v1api.cc` | ¥16 | $20 / $40 | 0.8 | default | gpt-4-0125-preview |
-| 50 | `xh.v1api.cc` | ¥16 | $20 / $40 | 0.8 | default | gpt-4-0125-preview |
+| 1 | `comput.chat` | ¥1 | $1 / $2 | 1 | default | gpt-4-0125-preview |
+| 2 | `api.ocoolai.com` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-0125-preview |
+| 3 | `ocool.cn` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-0125-preview |
+| 4 | `one.ooo.cool` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-0125-preview |
+| 5 | `zhangsan.yun` | ¥1.5 | $1.5 / $3 | 1 | image-2分组 | gpt-4-0125-preview |
+| 6 | `monking.ai` | ¥3.5 | $3.5 / $7 | 1 | codex-Pro | gpt-4-0125-preview |
+| 7 | `big.sbgpt.site` | ¥4.8 | $4.8 / $9.6 | 1 | az-0.4 | gpt-4-0125-preview |
+| 8 | `go.sbgpt.site` | ¥4.8 | $4.8 / $9.6 | 1 | az-3 | gpt-4-0125-preview |
+| 9 | `api.aliyunfuwu.top` | ¥5 | $5 / $15 | 1 | relay | gpt-4-0125-preview |
+| 10 | `api.zyai.online` | ¥5 | $5 / $15 | 1 | mini | gpt-4-0125-preview |
+| 11 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | az_act05 | gpt-4-0125-preview |
+| 12 | `new.gateway.icu` | ¥5 | $5 / $10 | 1 | default | gpt-4-0125-preview |
+| 13 | `newapi.link` | ¥5 | $5 / $10 | 1 | default | gpt-4-0125-preview |
+| 14 | `api.bltcy.ai` | ¥8 | $8 / $16 | 1 | vip | gpt-4-0125-preview |
+| 15 | `apilio.ai` | ¥8 | $8 / $16 | 1 | vip | gpt-4-0125-preview |
+| 16 | `cn.gptapi.asia` | ¥8 | $8 / $24 | 1 | default | gpt-4-0125-preview |
+| 17 | `test-ssl.bltcy.ai` | ¥8 | $8 / $16 | 1 | vip | gpt-4-0125-preview |
+| 18 | `yutoapi.com` | ¥8 | $8 / $24 | 1 | default | gpt-4-0125-preview |
+| 19 | `ai.soruxgpt.com` | ¥9 | $9 / $18 | 1 | azure-low | gpt-4-0125-preview |
+| 20 | `api.openai-labs.com` | ¥9 | $9 / $27 | 1 | azure | gpt-4-0125-preview |
+| 21 | `cnapi.kksj.org` | ¥9 | $9 / $18 | 1 | default | gpt-4-0125-preview |
+| 22 | `layso.ai` | ¥9.75 | $9.75 / $19.5 | 1 | Azure-Gpt-1 | gpt-4-0125-preview |
+| 23 | `laysoai.com` | ¥9.75 | $9.75 / $19.5 | 1 | Azure-Gpt-1 | gpt-4-0125-preview |
+| 24 | `123api.co` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 25 | `api.aiskt.com` | ¥10 | $10 / $30 | 1 | azure1 | gpt-4-0125-preview |
+| 26 | `api.chatgptid.net` | ¥10 | $20 / $40 | 0.5 | default | gpt-4-0125-preview |
+| 27 | `api.eido.top` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 28 | `api.hopeai.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 29 | `api.qinzhiai.com` | ¥10 | $10 / $30 | 1 | az | gpt-4-0125-preview |
+| 30 | `api.routeeasy.ai` | ¥10 | $10 / $30 | 1 | default | gpt-4-0125-preview |
+| 31 | `dn.v1api.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 32 | `goapi.gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-0125-preview |
+| 33 | `gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-0125-preview |
+| 34 | `i-sh.v1api.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 35 | `i.v1api.cc` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 36 | `keypool.space` | ¥10 | $10 / $20 | 1 | vip | gpt-4-0125-preview |
+| 37 | `n.lconai.com` | ¥10 | $10 / $20 | 1 | B1 | gpt-4-0125-preview |
+| 38 | `newapi.tu-zi.com` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 39 | `oneapi.gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-0125-preview |
+| 40 | `platform.anyrouter.ai` | ¥10 | $10 / $30 | 1 | Azure4 | gpt-4-0125-preview |
+| 41 | `vibecodingapi.ai` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 42 | `www.ggwk1.online` | ¥10 | $10 / $20 | 1 | a全模型综合组-1倍率 | gpt-4-0125-preview |
+| 43 | `xinsuanai.com` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 44 | `zen-ai.top` | ¥10 | $10 / $20 | 1 | default | gpt-4-0125-preview |
+| 45 | `ai.t8star.org` | ¥10.8 | $8 / $16 | 1.35 | vip | gpt-4-0125-preview |
+| 46 | `35.aigcbest.top` | ¥15 | $10 / $20 | 1.5 | default | gpt-4-0125-preview |
+| 47 | `api.vakv.cn` | ¥15 | $15 / $30 | 1 | az-gpt-新渠道 | gpt-4-0125-preview |
+| 48 | `api.xhuoai.com` | ¥15 | $10 / $20 | 1.5 | default | gpt-4-0125-preview |
+| 49 | `poloai.top` | ¥15 | $15 / $30 | 1 | az | gpt-4-0125-preview |
+| 50 | `proaiapi.tech` | ¥15 | $15 / $30 | 1 | default | gpt-4-0125-preview |
 
-> 另有 41 站未列出。
+> 另有 47 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -110,4 +110,4 @@
 | 41 | `vip.zen-ai.top` | $30 / $60 | default | 3 | gpt-4-0125-preview |
 | 42 | `sub.hongyun.chat` | $75 / $225 | gpt | 7.5 | gpt-4-0125-preview |
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

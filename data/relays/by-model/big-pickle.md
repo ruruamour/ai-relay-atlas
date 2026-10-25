@@ -1,6 +1,6 @@
 # big-pickle
 
-> 22 站提供 · 正常价 3 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（3 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 4 站 · 名义中位价 **$6.5**/1M 输入 · 实付中位价 **¥6.5**/1M 输入（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,5 +13,6 @@
 | 1 | `ai.lfree.org` | ¥0.0876 | $0.012 / $0.021 | 7.3 | claude | big-pickle |
 | 2 | `api.new.bi` | ¥1 | $1 / $1 | 1 | default | big-pickle |
 | 3 | `botcf.com` | ¥12 | $12 / $60 | 1 | 🚄openweight-fast | big-pickle |
+| 4 | `xn--15q04w3tg4kio0a.com` | ¥12 | $12 / $60 | 1 | 🚄openweight-fast | big-pickle |
 
 > 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

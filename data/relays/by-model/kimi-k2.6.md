@@ -1,6 +1,6 @@
 # kimi-k2.6
 
-> 771 站提供 · 正常价 620 站 · 名义中位价 **$2.485**/1M 输入 · 实付中位价 **¥3.9**/1M 输入（423 站公开充值价） · 推算，未对账
+> 795 站提供 · 正常价 640 站 · 名义中位价 **$2.3265**/1M 输入 · 实付中位价 **¥3.9**/1M 输入（439 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,57 +11,57 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `ai.38yun.cn` | ¥0.114 | $0.114 / $0.48 | 1 | 低价 GPT PLUS 账号 | moonshotai/kimi-k2.6 |
-| 2 | `api.unorouter.com` | ¥0.1368 | $0.1368 / $0.575996 | 1 | a7-bbgt-2846-kimi-k2.6 | kimi-k2.6 |
-| 3 | `api.aliyunfuwu.top` | ¥0.14 | $0.14 / $0.56 | 1 | relay | moonshotai/kimi-k2.6 |
-| 4 | `uselink.cn` | ¥0.22 | $0.22 / $1.137 | 1 | default | kimi-k2.6 |
-| 5 | `closedai.kylenqaq.com` | ¥0.26 | $0.26 / $1.08 | 1 | 国模3 | kimi-k2.6 |
-| 6 | `www.kamiapi.top` | ¥0.304 | $0.304 / $1.28 | 1 | 国模分组 | kimi-k2.6 |
-| 7 | `api.openai-hub.net` | ¥0.32 | $0.32 / $1.34 | 1 | cheap | kimi-k2.6 |
-| 8 | `api.qiqiai.top` | ¥0.34 | $0.17 / $0.7875 | 2 | 国产模型系列 | Kimi-K2.6 |
-| 9 | `cortexlane.cloud` | ¥0.342 | $0.342 / $1.43982 | 1 | 国模 | kimi-k2.6 |
-| 10 | `gpt.venlacy.com` | ¥0.38 | $0.38 / $1.6 | 1 | 国模 | kimi/kimi-k2.6 |
-| 11 | `www.apiqd.com` | ¥0.38 | $0.38 / $1.6 | 1 | kimi | kimi-k2.6 |
-| 12 | `api.liangrekui.com` | ¥0.39 | $0.39 / $1.62 | 1 | G  kimi-反代 | kimi-k2.6 |
-| 13 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | moonshotai/kimi-k2.6 |
-| 14 | `i-sh.v1api.cc` | ¥0.42 | $0.42 / $2.1 | 1 | deepseek | moonshotai/kimi-k2.6 |
-| 15 | `i.v1api.cc` | ¥0.42 | $0.42 / $2.1 | 1 | deepseek | moonshotai/kimi-k2.6 |
-| 16 | `routerra.ai` | ¥0.4275 | $0.4275 / $2.205 | 1 | default | kimi-k2.6 |
-| 17 | `crowllm.com` | ¥0.46 | $0.46 / $1.99 | 1 | pro | kimi-k2.6 |
-| 18 | `api.996444.cn` | ¥0.475 | $0.475 / $2 | 1 | default | kimi-k2.6 |
-| 19 | `api.qfgapi.com` | ¥0.475 | $0.475 / $2 | 1 | default | kimi-k2.6 |
-| 20 | `api.zyai.online` | ¥0.475 | $0.475 / $2 | 1 | mini | kimi-k2.6 |
-| 21 | `tokengo.ai` | ¥0.475 | $0.475 / $1.975 | 1 | default | kimi-k2.6 |
-| 22 | `easymax.ai` | ¥0.486 | $0.486 / $2.124 | 1 | kimi | kimi-k2.6 |
-| 23 | `hk-api.shqbb.com` | ¥0.486 | $0.486 / $2.124 | 1 | kimi | kimi-k2.6 |
-| 24 | `api.tccxy.top` | ¥0.52 | $0.52 / $2.16 | 1 | [自建]国模 | kimi-k2.6 |
-| 25 | `api.aieyra.cn` | ¥0.55 | $0.55 / $2.2 | 1 | ChinaModels | kimi-k2.6 |
-| 26 | `ainzy.net` | ¥0.56 | $0.56 / $2.32 | 1 | aliyun-chinese-model | kimi-k2.6 |
-| 27 | `gptnb.ai` | ¥0.57 | $0.57 / $2.4 | 1 | cn_official | kimi-k2.6 |
-| 28 | `oneapi.gptnb.ai` | ¥0.57 | $0.57 / $2.4 | 1 | CN_discount | kimi-k2.6 |
-| 29 | `direct.mianyouyou.xyz` | ¥0.65 | $0.65 / $2.7 | 1 | KIMI超低 | kimi-k2.6 |
-| 30 | `momoapi.xin` | ¥0.65 | $0.65 / $2.7 | 1 | kimi | kimi-k2.6 |
-| 31 | `91token.ai` | ¥0.68 | $0.68 / $3.15 | 1 | 企业用户组 | Kimi-K2.6 |
-| 32 | `tokenspace.cloud` | ¥0.76 | $0.76 / $3.2 | 1 | default_special_2 | kimi-k2.6 |
-| 33 | `feiniu-ai.xyz` | ¥0.81 | $0.81 / $3.54 | 1 | default | kimi-k2.6 |
-| 34 | `coneverse.com` | ¥0.8904 | $0.890411 / $3.69863 | 1 | supply-c8b615a9916b720126c045d3 | kimi-k2.6 |
-| 35 | `infistar.ai` | ¥0.8904 | $0.890411 / $3.69863 | 1 | supply-e2d12d230a2f618352027c7d | kimi-k2.6 |
-| 36 | `tokenworldapi.com` | ¥0.8939 | $0.8939 / $3.7131 | 1 | default | kimi/kimi-k2.6 |
-| 37 | `api.dogrouter.ai` | ¥0.9025 | $0.9025 / $3.8 | 1 | default | kimi-k2.6 |
-| 38 | `www.mrouter.com` | ¥0.928 | $0.928 / $3.85477 | 1 | cn | kimi-k2.6 |
-| 39 | `e.fishxcode.com` | ¥0.9286 | $0.928571 / $3.85714 | 1 | default | kimi-k2.6 |
-| 40 | `tokensupply.ai` | ¥0.929 | $0.929 / $3.858 | 1 | default | kimi-k2.6 |
-| 41 | `ai.soruxgpt.com` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
-| 42 | `api.2slk.com` | ¥0.95 | $0.95 / $4 | 1 | 官转 | kimi-k2.6 |
-| 43 | `bridge.pulseneko.com` | ¥0.95 | $0.95 / $3.9995 | 1 | cloudflare | kimi-k2.6 |
-| 44 | `easyrouter.io` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
-| 45 | `globalai.to` | ¥0.95 | $0.95 / $4 | 1 | Moonshot Kimi | kimi-k2.6 |
-| 46 | `otoken.pro` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
-| 47 | `relay.fast` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
-| 48 | `router.cheap` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
-| 49 | `tokenflux.cloud` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
-| 50 | `web.aipipe.io` | ¥0.95 | $0.95 / $4 | 1 | Kimi | kimi-k2.6 |
+| 2 | `comput.chat` | ¥0.12 | $0.12 / $0.45 | 1 | default | moonshotai/Kimi-K2.6 |
+| 3 | `api.unorouter.com` | ¥0.1368 | $0.1368 / $0.575996 | 1 | a7-bbgt-2846-kimi-k2.6 | kimi-k2.6 |
+| 4 | `api.aliyunfuwu.top` | ¥0.14 | $0.14 / $0.56 | 1 | relay | moonshotai/kimi-k2.6 |
+| 5 | `uselink.cn` | ¥0.22 | $0.22 / $1.137 | 1 | default | kimi-k2.6 |
+| 6 | `closedai.kylenqaq.com` | ¥0.26 | $0.26 / $1.08 | 1 | 国模3 | kimi-k2.6 |
+| 7 | `www.kamiapi.top` | ¥0.304 | $0.304 / $1.28 | 1 | 国模分组 | kimi-k2.6 |
+| 8 | `api.openai-hub.net` | ¥0.32 | $0.32 / $1.34 | 1 | cheap | kimi-k2.6 |
+| 9 | `api.qiqiai.top` | ¥0.34 | $0.17 / $0.7875 | 2 | 国产模型系列 | Kimi-K2.6 |
+| 10 | `cortexlane.cloud` | ¥0.342 | $0.342 / $1.43982 | 1 | 国模 | kimi-k2.6 |
+| 11 | `gpt.venlacy.com` | ¥0.38 | $0.38 / $1.6 | 1 | 国模 | kimi/kimi-k2.6 |
+| 12 | `www.apiqd.com` | ¥0.38 | $0.38 / $1.6 | 1 | kimi | kimi-k2.6 |
+| 13 | `api.liangrekui.com` | ¥0.39 | $0.39 / $1.62 | 1 | G  kimi-反代 | kimi-k2.6 |
+| 14 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | moonshotai/kimi-k2.6 |
+| 15 | `i-sh.v1api.cc` | ¥0.42 | $0.42 / $2.1 | 1 | deepseek | moonshotai/kimi-k2.6 |
+| 16 | `i.v1api.cc` | ¥0.42 | $0.42 / $2.1 | 1 | deepseek | moonshotai/kimi-k2.6 |
+| 17 | `routerra.ai` | ¥0.4275 | $0.4275 / $2.205 | 1 | default | kimi-k2.6 |
+| 18 | `crowllm.com` | ¥0.46 | $0.46 / $1.99 | 1 | pro | kimi-k2.6 |
+| 19 | `api.996444.cn` | ¥0.475 | $0.475 / $2 | 1 | default | kimi-k2.6 |
+| 20 | `api.qfgapi.com` | ¥0.475 | $0.475 / $2 | 1 | default | kimi-k2.6 |
+| 21 | `api.zyai.online` | ¥0.475 | $0.475 / $2 | 1 | mini | kimi-k2.6 |
+| 22 | `tokengo.ai` | ¥0.475 | $0.475 / $1.975 | 1 | default | kimi-k2.6 |
+| 23 | `easymax.ai` | ¥0.486 | $0.486 / $2.124 | 1 | kimi | kimi-k2.6 |
+| 24 | `hk-api.shqbb.com` | ¥0.486 | $0.486 / $2.124 | 1 | kimi | kimi-k2.6 |
+| 25 | `api.tccxy.top` | ¥0.52 | $0.52 / $2.16 | 1 | [自建]国模 | kimi-k2.6 |
+| 26 | `api.aieyra.cn` | ¥0.55 | $0.55 / $2.2 | 1 | ChinaModels | kimi-k2.6 |
+| 27 | `ainzy.net` | ¥0.56 | $0.56 / $2.32 | 1 | aliyun-chinese-model | kimi-k2.6 |
+| 28 | `goapi.gptnb.ai` | ¥0.57 | $0.57 / $2.4 | 1 | cn_official | kimi-k2.6 |
+| 29 | `gptnb.ai` | ¥0.57 | $0.57 / $2.4 | 1 | cn_official | kimi-k2.6 |
+| 30 | `oneapi.gptnb.ai` | ¥0.57 | $0.57 / $2.4 | 1 | CN_discount | kimi-k2.6 |
+| 31 | `direct.mianyouyou.xyz` | ¥0.65 | $0.65 / $2.7 | 1 | KIMI超低 | kimi-k2.6 |
+| 32 | `momoapi.xin` | ¥0.65 | $0.65 / $2.7 | 1 | kimi | kimi-k2.6 |
+| 33 | `91token.ai` | ¥0.68 | $0.68 / $3.15 | 1 | 企业用户组 | Kimi-K2.6 |
+| 34 | `tokenspace.cloud` | ¥0.76 | $0.76 / $3.2 | 1 | default_special_2 | kimi-k2.6 |
+| 35 | `feiniu-ai.xyz` | ¥0.81 | $0.81 / $3.54 | 1 | default | kimi-k2.6 |
+| 36 | `coneverse.com` | ¥0.8904 | $0.890411 / $3.69863 | 1 | supply-c8b615a9916b720126c045d3 | kimi-k2.6 |
+| 37 | `infistar.ai` | ¥0.8904 | $0.890411 / $3.69863 | 1 | supply-e2d12d230a2f618352027c7d | kimi-k2.6 |
+| 38 | `tokenworldapi.com` | ¥0.8939 | $0.8939 / $3.7131 | 1 | default | kimi/kimi-k2.6 |
+| 39 | `api.dogrouter.ai` | ¥0.9025 | $0.9025 / $3.8 | 1 | default | kimi-k2.6 |
+| 40 | `www.mrouter.com` | ¥0.928 | $0.928 / $3.85477 | 1 | cn | kimi-k2.6 |
+| 41 | `e.fishxcode.com` | ¥0.9286 | $0.928571 / $3.85714 | 1 | default | kimi-k2.6 |
+| 42 | `tokensupply.ai` | ¥0.929 | $0.929 / $3.858 | 1 | default | kimi-k2.6 |
+| 43 | `ai.soruxgpt.com` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
+| 44 | `api.2slk.com` | ¥0.95 | $0.95 / $4 | 1 | 官转 | kimi-k2.6 |
+| 45 | `bridge.pulseneko.com` | ¥0.95 | $0.95 / $3.9995 | 1 | cloudflare | kimi-k2.6 |
+| 46 | `easyrouter.io` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
+| 47 | `globalai.to` | ¥0.95 | $0.95 / $4 | 1 | Moonshot Kimi | kimi-k2.6 |
+| 48 | `otoken.pro` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
+| 49 | `relay.fast` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
+| 50 | `router.cheap` | ¥0.95 | $0.95 / $4 | 1 | default | kimi-k2.6 |
 
-> 另有 373 站未列出。
+> 另有 389 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -84,40 +84,40 @@
 | 15 | `z30.top` | $0.39 / $1.62 | Kimi | 0.06 | kimi-k2.6 |
 | 16 | `ai.kunkun.chat` | $0.4 / $0.4 | workbuddy | 0.2 | cn:kimi-k2.6 |
 | 17 | `ai.saigou.work` | $0.4 / $0.4 | workbuddy | 0.2 | cn:kimi-k2.6 |
-| 18 | `newapi.relayport17.asia` | $0.475 / $2 | 国产模型 | 0.5 | kimi-k2.6 |
-| 19 | `api.xyapi.club` | $0.477 / $1.9805 | Chinese AI Model 0.5X | 0.5 | kimi-k2.6 |
-| 20 | `subapi.ishuhang.top` | $0.477 / $1.9805 | k3 | 0.5 | kimi-k2.6 |
-| 21 | `api.dreamaitoken.cloud` | $0.5 / $1.5 | kimi k3 | 1 | kimi-k2.6 |
-| 22 | `feiniu-ai.cn` | $0.5 / $1.99 | default | 1 | kimi-k2.6 |
-| 23 | `api.hualong.online` | $0.52 / $2.16 | 国模百亿补贴 | 0.08 | kimi-k2.6 |
-| 24 | `api.tcvps.cn` | $0.52 / $2.16 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | kimi-k2.6 |
-| 25 | `canana.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.6 |
-| 26 | `sub.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.6 |
-| 27 | `www.kk-vibe.top` | $0.52 / $2.16 | 国产大模型 0.08倍率 | 0.08 | kimi-k2.6 |
-| 28 | `api.luoqianyi.qzz.io` | $0.53 / $2.73 | default | 1 | moonshotai/kimi-k2.6 |
-| 29 | `8888.name` | $0.5724 / $2.3766 | Kimi | 0.6 | kimi-k2.6 |
-| 30 | `www.alaiapi.top` | $0.6201 / $2.57465 | Kimi全能按量组 | 0.65 | kimi-k2.6 |
-| 31 | `ai.kdysite.cloud` | $0.65 / $2.7 | 国产经济区 | 0.1 | kimi-k2.6 |
-| 32 | `aixhub.shop` | $0.65 / $2.7 | deepseek | 0.1 | kimi-k2.6 |
-| 33 | `sub.pikaqiu.shop` | $0.65 / $2.7 | 国模大杂烩 | 0.1 | kimi-k2.6 |
-| 34 | `xinyue.mom` | $0.65 / $2.7 | Kimi | 0.1 | kimi-k2.6 |
-| 35 | `api.akko.space` | $0.6678 / $2.7727 | 国产 Kimi | 0.7 | kimi-k2.6 |
-| 36 | `api.wopally.cn` | $0.677083 / $2.8125 | Claude-DS｜0.25x | 0.25 | kimi-k2.6 |
-| 37 | `officesai.top` | $0.75 / $3 | 基础普及通道 | 0.15 | kimi-k2.6 |
-| 38 | `api.hy88.my` | $0.76 / $3.2 | kimi | 0.8 | kimi-k2.6 |
-| 39 | `luckyapi.online` | $0.76 / $3.2 | LuckyAPI | 0.8 | kimi-k2.6 |
-| 40 | `api.zayuapi.com` | $0.78 / $3.24 | Kimi-默认分组 | 0.12 | kimi-k2.6 |
-| 41 | `maxapi.tech` | $0.95 / $4 | Default | 1 | moonshotai/kimi-k2.6 |
-| 42 | `or.mux.la` | $0.95 / $4 | default | 1 | moonshotai/kimi-k2.6 |
-| 43 | `pro.fan142.top` | $0.95 / $4 | coding api | 1 | moonshotai/Kimi-K2.6 |
-| 44 | `api.clawhud.com` | $0.954 / $3.961 | kimi | 1 | kimi-k2.6 |
-| 45 | `inferaichat.com` | $0.954 / $3.961 | auto分组 | 1 | kimi-k2.6 |
-| 46 | `joyda.store` | $0.954 / $3.961 | kimi | 1 | kimi-k2.6 |
-| 47 | `sub2api.hyl2api.com` | $0.954 / $3.961 | Az-K3 | 1 | kimi-k2.6 |
-| 48 | `88.scxai.top` | $0.975 / $4.05 | 创世の鑫元 | 0.15 | kimi-k2.6 |
-| 49 | `api.l4dder.dpdns.org` | $0.975 / $4.05 | kimi-官key-0.15x | 0.15 | kimi-k2.6 |
-| 50 | `kedaya.ai` | $0.975 / $4.05 | Kimi | 0.15 | kimi-k2.6 |
+| 18 | `api.168box.xyz` | $0.4293 / $1.78245 | china | 0.45 | kimi-k2.6 |
+| 19 | `newapi.relayport17.asia` | $0.475 / $2 | 国产模型 | 0.5 | kimi-k2.6 |
+| 20 | `api.xyapi.club` | $0.477 / $1.9805 | Chinese AI Model 0.5X | 0.5 | kimi-k2.6 |
+| 21 | `subapi.ishuhang.top` | $0.477 / $1.9805 | k3 | 0.5 | kimi-k2.6 |
+| 22 | `api.dreamaitoken.cloud` | $0.5 / $1.5 | kimi k3 | 1 | kimi-k2.6 |
+| 23 | `feiniu-ai.cn` | $0.5 / $1.99 | default | 1 | kimi-k2.6 |
+| 24 | `api.hualong.online` | $0.52 / $2.16 | 国模百亿补贴 | 0.08 | kimi-k2.6 |
+| 25 | `api.tcvps.cn` | $0.52 / $2.16 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | kimi-k2.6 |
+| 26 | `canana.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.6 |
+| 27 | `flashcoding.ai` | $0.52 / $2.16 | 国产低价-均价0.1x | 1 | kimi-k2.6 |
+| 28 | `sub.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.6 |
+| 29 | `www.kk-vibe.top` | $0.52 / $2.16 | 国产大模型 0.08倍率 | 0.08 | kimi-k2.6 |
+| 30 | `api.luoqianyi.qzz.io` | $0.53 / $2.73 | default | 1 | moonshotai/kimi-k2.6 |
+| 31 | `8888.name` | $0.5724 / $2.3766 | Kimi | 0.6 | kimi-k2.6 |
+| 32 | `www.alaiapi.top` | $0.6201 / $2.57465 | Kimi全能按量组 | 0.65 | kimi-k2.6 |
+| 33 | `ai.kdysite.cloud` | $0.65 / $2.7 | 国产经济区 | 0.1 | kimi-k2.6 |
+| 34 | `aixhub.shop` | $0.65 / $2.7 | deepseek | 0.1 | kimi-k2.6 |
+| 35 | `sub.pikaqiu.shop` | $0.65 / $2.7 | 国模大杂烩 | 0.1 | kimi-k2.6 |
+| 36 | `xinyue.mom` | $0.65 / $2.7 | Kimi | 0.1 | kimi-k2.6 |
+| 37 | `api.akko.space` | $0.6678 / $2.7727 | 国产 Kimi | 0.7 | kimi-k2.6 |
+| 38 | `api.wopally.cn` | $0.677083 / $2.8125 | Claude-DS｜0.25x | 0.25 | kimi-k2.6 |
+| 39 | `officesai.top` | $0.75 / $3 | 基础普及通道 | 0.15 | kimi-k2.6 |
+| 40 | `api.hy88.my` | $0.76 / $3.2 | kimi | 0.8 | kimi-k2.6 |
+| 41 | `luckyapi.online` | $0.76 / $3.2 | LuckyAPI | 0.8 | kimi-k2.6 |
+| 42 | `api.zayuapi.com` | $0.78 / $3.24 | Kimi-默认分组 | 0.12 | kimi-k2.6 |
+| 43 | `maxapi.tech` | $0.95 / $4 | Default | 1 | moonshotai/kimi-k2.6 |
+| 44 | `or.mux.la` | $0.95 / $4 | default | 1 | moonshotai/kimi-k2.6 |
+| 45 | `pro.fan142.top` | $0.95 / $4 | coding api | 1 | moonshotai/Kimi-K2.6 |
+| 46 | `api.clawhud.com` | $0.954 / $3.961 | kimi | 1 | kimi-k2.6 |
+| 47 | `inferaichat.com` | $0.954 / $3.961 | auto分组 | 1 | kimi-k2.6 |
+| 48 | `joyda.store` | $0.954 / $3.961 | kimi | 1 | kimi-k2.6 |
+| 49 | `sub2api.hyl2api.com` | $0.954 / $3.961 | Az-K3 | 1 | kimi-k2.6 |
+| 50 | `88.scxai.top` | $0.975 / $4.05 | 创世の鑫元 | 0.15 | kimi-k2.6 |
 
-> 另有 147 站未列出。
+> 另有 151 站未列出。
 
-> 151 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 155 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # nemotron-3.5-content-safety
 
-> 29 站提供 · 正常价 6 站 · 名义中位价 **$0.353846**/1M 输入 · 实付中位价 **¥0.4**/1M 输入（5 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 8 站 · 名义中位价 **$0.353846**/1M 输入 · 实付中位价 **¥0.6689**/1M 输入（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,8 +13,10 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.05 | 1 | relay | nvidia/nemotron-3.5-content-safety |
 | 2 | `newapi.gancmcs.top` | ¥0.365 | $0.05 / $0.15 | 7.3 | 英伟达 | nvidia/nemotron-3.5-content-safety |
 | 3 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | nvidia/nemotron-3.5-content-safety |
-| 4 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $0.307692 | 7.3 | default | nvidia/nemotron-3.5-content-safety |
-| 5 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3.5-content-safety |
+| 4 | `ai.mowen.vip` | ¥0.6689 | $0.1 / $0.1 | 6.6892 | default | nemotron-3.5-content-safety |
+| 5 | `ai.bytonsec.com` | ¥1.2 | $1.2 / $1.2 | 1 | OpenRouter | nvidia/nemotron-3.5-content-safety |
+| 6 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $0.307692 | 7.3 | default | nvidia/nemotron-3.5-content-safety |
+| 7 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3.5-content-safety |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

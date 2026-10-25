@@ -1,6 +1,6 @@
 # gpt-5.2-codex
 
-> 349 站提供 · 正常价 240 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（209 站公开充值价） · 推算，未对账
+> 369 站提供 · 正常价 254 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（223 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -36,32 +36,32 @@
 | 24 | `api.bltcy.ai` | ¥1.25 | $1.25 / $10 | 1 | default | gpt-5.2-codex |
 | 25 | `apilio.ai` | ¥1.25 | $1.25 / $10 | 1 | svip | gpt-5.2-codex |
 | 26 | `test-ssl.bltcy.ai` | ¥1.25 | $1.25 / $10 | 1 | svip | gpt-5.2-codex |
-| 27 | `api.tidewhisper-ai.xyz` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 28 | `gzxbykj.com` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 29 | `yunwu.org` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 30 | `v2.cloudmist.cloud` | ¥1.352 | $0.20125 / $1.61 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 31 | `kfcv50.link` | ¥1.4 | $1.4 / $11.2 | 1 | pure_az | gpt-5.2-codex-xhigh |
-| 32 | `api.camel-hub.com` | ¥1.4 | $1.75 / $14 | 0.8 | default | gpt-5.2-codex |
-| 33 | `cn.gptapi.asia` | ¥1.408 | $1.408 / $11.264 | 1 | default | gpt-5.2-codex |
-| 34 | `yutoapi.com` | ¥1.408 | $1.408 / $11.264 | 1 | default | gpt-5.2-codex |
-| 35 | `www.vectronode.com` | ¥1.411 | $0.21 / $1.68 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 36 | `apiclaw.cn` | ¥1.423 | $0.21175 / $1.694 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 37 | `newapi.xueai.me` | ¥1.423 | $0.21175 / $1.694 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 38 | `wodapis.com` | ¥1.423 | $0.21175 / $1.694 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 39 | `ciyuan.today` | ¥1.47 | $0.21875 / $1.75 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 40 | `gptapi.top` | ¥1.47 | $0.21875 / $1.75 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 41 | `makerend.com` | ¥1.47 | $0.21875 / $1.75 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 42 | `moliapi.com` | ¥1.481 | $0.2205 / $1.764 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 43 | `ai-api.cc` | ¥1.528 | $0.2275 / $1.82 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 44 | `nodapi.com` | ¥1.552 | $0.231 / $1.848 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 45 | `ai.soruxgpt.com` | ¥1.575 | $1.575 / $12.6 | 1 | azure-low | gpt-5.2-codex |
-| 46 | `cnapi.kksj.org` | ¥1.575 | $1.575 / $12.6 | 1 | default | gpt-5.2-codex |
-| 47 | `anyaigc.ai` | ¥1.587 | $0.23625 / $1.89 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 48 | `sheepaiplus.top` | ¥1.646 | $0.245 / $1.96 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 49 | `xiguapi.icu` | ¥1.646 | $0.245 / $1.96 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
-| 50 | `ai.t8star.org` | ¥1.688 | $1.25 / $10 | 1.35 | default | gpt-5.2-codex |
+| 27 | `4zapi.com` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 28 | `api.tidewhisper-ai.xyz` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 29 | `gzxbykj.com` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 30 | `yunwu.org` | ¥1.293 | $0.1925 / $1.54 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 31 | `api.antmoo.cc` | ¥1.352 | $0.20125 / $1.61 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 32 | `v2.cloudmist.cloud` | ¥1.352 | $0.20125 / $1.61 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 33 | `kfcv50.link` | ¥1.4 | $1.4 / $11.2 | 1 | pure_az | gpt-5.2-codex-xhigh |
+| 34 | `api.camel-hub.com` | ¥1.4 | $1.75 / $14 | 0.8 | default | gpt-5.2-codex |
+| 35 | `cn.gptapi.asia` | ¥1.408 | $1.408 / $11.264 | 1 | default | gpt-5.2-codex |
+| 36 | `yutoapi.com` | ¥1.408 | $1.408 / $11.264 | 1 | default | gpt-5.2-codex |
+| 37 | `www.vectronode.com` | ¥1.411 | $0.21 / $1.68 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 38 | `apiclaw.cn` | ¥1.423 | $0.21175 / $1.694 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 39 | `newapi.xueai.me` | ¥1.423 | $0.21175 / $1.694 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 40 | `wodapis.com` | ¥1.423 | $0.21175 / $1.694 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 41 | `ciyuan.today` | ¥1.47 | $0.21875 / $1.75 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 42 | `gptapi.top` | ¥1.47 | $0.21875 / $1.75 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 43 | `makerend.com` | ¥1.47 | $0.21875 / $1.75 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 44 | `moliapi.com` | ¥1.481 | $0.2205 / $1.764 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 45 | `ai-api.cc` | ¥1.528 | $0.2275 / $1.82 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 46 | `nodapi.com` | ¥1.552 | $0.231 / $1.848 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 47 | `ai.soruxgpt.com` | ¥1.575 | $1.575 / $12.6 | 1 | azure-low | gpt-5.2-codex |
+| 48 | `cnapi.kksj.org` | ¥1.575 | $1.575 / $12.6 | 1 | default | gpt-5.2-codex |
+| 49 | `anyaigc.ai` | ¥1.587 | $0.23625 / $1.89 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
+| 50 | `sheepaiplus.top` | ¥1.646 | $0.245 / $1.96 | 6.718 | Azure-Gpt-2 | gpt-5.2-codex |
 
-> 另有 159 站未列出。
+> 另有 173 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -99,4 +99,4 @@
 | 30 | `liangjiewis.com` | $49.218 / $393.744 | default | 1 | gpt-5.2-codex |
 | 31 | `openai.sharkmagic.top` | $393.75 / $3150 | tier_3 | 0.9 | [ff]u\|gpt-5.2-codex |
 
-> 109 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 115 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # veo3.1
 
-> 47 站提供 · 正常价 37 站 · 名义中位价 **$1**/次 · 实付中位价 **¥1.45**/次（35 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 39 站 · 名义中位价 **$1**/次 · 实付中位价 **¥1.62**/次（37 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,19 +32,21 @@
 | 20 | `api.uiuihao.com` | ¥1.723 | $0.54 | 3.19 | s-video | veo3.1 |
 | 21 | `sg.uiuiapi.com` | ¥1.723 | $0.54 | 3.19 | s-video | veo3.1 |
 | 22 | `api.duckcoding.ai` | ¥1.8 | $1.8 | 1 | default | veo3.1 |
-| 23 | `api.routeeasy.ai` | ¥2 | $2 | 1 | default | veo3.1 |
-| 24 | `kfcv50.link` | ¥2 | $2 | 1 | default | veo3.1 |
-| 25 | `api.annyun.cn` | ¥2.5 | $2.5 | 1 | default | veo3.1 |
-| 26 | `runapi.co` | ¥3.038 | $0.45 | 6.75 | default | veo3.1 |
-| 27 | `api.ifopen.ai` | ¥3.5 | $1 | 3.5 | default | veo3.1 |
-| 28 | `api2.aigcbest.top` | ¥3.5 | $1 | 3.5 | default | veo3.1 |
-| 29 | `poloai.top` | ¥3.5 | $3.5 | 1 | gpt-vip | veo3.1 |
-| 30 | `api.easyart.cc` | ¥3.55 | $3.55 | 1 | default | veo3.1 |
-| 31 | `api.llms.best` | ¥3.6 | $0.5 | 7.2 | default | veo3.1 |
-| 32 | `nbapi.net` | ¥5.11 | $0.7 | 7.3 | default | veo3.1 |
-| 33 | `api.ysaikeji.cn` | ¥21.9 | $3 | 7.3 | Gpt官转(3倍消耗) | veo3.1 |
-| 34 | `api.3365api.cn` | ¥328.5 | $45 | 7.3 | 图片视频模型综合分组 | veo3.1 |
-| 35 | `max.openai365.top` | ¥1460 | $200 | 7.3 | default | veo3.1 |
+| 23 | `api.132999.xyz` | ¥2 | $1 | 2 | default | veo3.1 |
+| 24 | `api.routeeasy.ai` | ¥2 | $2 | 1 | default | veo3.1 |
+| 25 | `kfcv50.link` | ¥2 | $2 | 1 | default | veo3.1 |
+| 26 | `www.dayueai.fun` | ¥2.2 | $2.2 | 1 | vip | veo3.1 |
+| 27 | `api.annyun.cn` | ¥2.5 | $2.5 | 1 | default | veo3.1 |
+| 28 | `runapi.co` | ¥3.038 | $0.45 | 6.75 | default | veo3.1 |
+| 29 | `api.ifopen.ai` | ¥3.5 | $1 | 3.5 | default | veo3.1 |
+| 30 | `api2.aigcbest.top` | ¥3.5 | $1 | 3.5 | default | veo3.1 |
+| 31 | `poloai.top` | ¥3.5 | $3.5 | 1 | gpt-vip | veo3.1 |
+| 32 | `api.easyart.cc` | ¥3.55 | $3.55 | 1 | default | veo3.1 |
+| 33 | `api.llms.best` | ¥3.6 | $0.5 | 7.2 | default | veo3.1 |
+| 34 | `nbapi.net` | ¥5.11 | $0.7 | 7.3 | default | veo3.1 |
+| 35 | `api.ysaikeji.cn` | ¥21.9 | $3 | 7.3 | Gpt官转(3倍消耗) | veo3.1 |
+| 36 | `api.3365api.cn` | ¥328.5 | $45 | 7.3 | 图片视频模型综合分组 | veo3.1 |
+| 37 | `max.openai365.top` | ¥1460 | $200 | 7.3 | default | veo3.1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # o1-preview
 
-> 152 站提供 · 正常价 130 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥22.5**/1M 输入（107 站公开充值价） · 推算，未对账
+> 160 站提供 · 正常价 135 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥22.5**/1M 输入（112 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,42 +26,42 @@
 | 14 | `gpt.venlacy.com` | ¥13.5 | $13.5 / $54 | 1 | Azure | o1-preview |
 | 15 | `layso.ai` | ¥14.62 | $14.625 / $58.5 | 1 | Azure-Gpt-1 | o1-preview |
 | 16 | `laysoai.com` | ¥14.62 | $14.625 / $58.5 | 1 | Azure-Gpt-1 | o1-preview |
-| 17 | `api.eido.top` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 18 | `api.new.bi` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 19 | `api.qinzhiai.com` | ¥15 | $15 / $60 | 1 | az | o1-preview |
-| 20 | `api.routeeasy.ai` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 21 | `api.wanapis.com` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 22 | `api.yuboar.com` | ¥15 | $15 / $60 | 1 | AzureOpenAI | o1-preview |
-| 23 | `deepkey.top` | ¥15 | $15 / $60 | 1 | gpt-azure | o1-preview |
-| 24 | `dn.v1api.cc` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 25 | `gptimgaz.aiearth.dev` | ¥15 | $15 / $60 | 1 | AzureOpenAI | o1-preview |
-| 26 | `gptnb.ai` | ¥15 | $15 / $60 | 1 | Azure | o1-preview |
-| 27 | `i-sh.v1api.cc` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 28 | `i.v1api.cc` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 29 | `keypool.space` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 30 | `n.lconai.com` | ¥15 | $15 / $60 | 1 | B1 | o1-preview |
-| 31 | `oneapi.gptnb.ai` | ¥15 | $15 / $60 | 1 | Azure | o1-preview |
-| 32 | `platform.anyrouter.ai` | ¥15 | $15 / $60 | 1 | Azure4 | o1-preview |
-| 33 | `www.ggwk1.online` | ¥15 | $15 / $60 | 1 | gpt-4.5 专线速刷 | o1-preview |
-| 34 | `xinsuanai.com` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 35 | `zen-ai.top` | ¥15 | $15 / $60 | 1 | default | o1-preview |
-| 36 | `ai.t8star.org` | ¥16.2 | $12 / $48 | 1.35 | vip | o1-preview |
-| 37 | `api.openai-hub.net` | ¥16.5 | $16.5 / $66 | 1 | cheap | o1-preview-2024-09-12 |
-| 38 | `new.yihubang.top` | ¥16.5 | $16.5 / $66 | 1 | GPT 中转 | o1-preview |
-| 39 | `xrok.dev` | ¥16.5 | $16.5 / $66 | 1 | AZ-GPT | o1-preview |
-| 40 | `api.vakv.cn` | ¥18.75 | $18.75 / $75 | 1 | 1848 | o1-preview |
-| 41 | `vakv.cn` | ¥18.75 | $18.75 / $75 | 1 | 1848 | o1-preview |
-| 42 | `jyzl.apihy.com` | ¥19.27 | $2.64 / $10.56 | 7.3 | default | o1-preview |
-| 43 | `api.34ku.com` | ¥19.5 | $19.5 / $78 | 1 | default | o1-preview |
-| 44 | `proaiapi.tech` | ¥20 | $20 / $80 | 1 | default | o1-preview |
-| 45 | `import.deepwl.net` | ¥21.9 | $3 / $12 | 7.3 | gpt | o1-preview |
-| 46 | `35.aigcbest.top` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
-| 47 | `api.ocoolai.com` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
-| 48 | `api.xhuoai.com` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
-| 49 | `beehears.com` | ¥22.5 | $22.5 / $90 | 1 | ✳️ GPT生图2 - AZ | o1-preview |
-| 50 | `images.beehears.com` | ¥22.5 | $22.5 / $90 | 1 | ✳️ GPT生图2 - AZ | o1-preview |
+| 17 | `api.aiskt.com` | ¥15 | $15 / $60 | 1 | azure1 | o1-preview-2024-09-12 |
+| 18 | `api.eido.top` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 19 | `api.new.bi` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 20 | `api.qinzhiai.com` | ¥15 | $15 / $60 | 1 | az | o1-preview |
+| 21 | `api.routeeasy.ai` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 22 | `api.wanapis.com` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 23 | `api.yuboar.com` | ¥15 | $15 / $60 | 1 | AzureOpenAI | o1-preview |
+| 24 | `deepkey.top` | ¥15 | $15 / $60 | 1 | gpt-azure | o1-preview |
+| 25 | `dn.v1api.cc` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 26 | `goapi.gptnb.ai` | ¥15 | $15 / $60 | 1 | Azure | o1-preview |
+| 27 | `gptimgaz.aiearth.dev` | ¥15 | $15 / $60 | 1 | AzureOpenAI | o1-preview |
+| 28 | `gptnb.ai` | ¥15 | $15 / $60 | 1 | Azure | o1-preview |
+| 29 | `i-sh.v1api.cc` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 30 | `i.v1api.cc` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 31 | `keypool.space` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 32 | `n.lconai.com` | ¥15 | $15 / $60 | 1 | B1 | o1-preview |
+| 33 | `oneapi.gptnb.ai` | ¥15 | $15 / $60 | 1 | Azure | o1-preview |
+| 34 | `platform.anyrouter.ai` | ¥15 | $15 / $60 | 1 | Azure4 | o1-preview |
+| 35 | `www.ggwk1.online` | ¥15 | $15 / $60 | 1 | gpt-4.5 专线速刷 | o1-preview |
+| 36 | `xinsuanai.com` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 37 | `zen-ai.top` | ¥15 | $15 / $60 | 1 | default | o1-preview |
+| 38 | `ai.t8star.org` | ¥16.2 | $12 / $48 | 1.35 | vip | o1-preview |
+| 39 | `api.openai-hub.net` | ¥16.5 | $16.5 / $66 | 1 | cheap | o1-preview-2024-09-12 |
+| 40 | `new.yihubang.top` | ¥16.5 | $16.5 / $66 | 1 | GPT 中转 | o1-preview |
+| 41 | `xrok.dev` | ¥16.5 | $16.5 / $66 | 1 | AZ-GPT | o1-preview |
+| 42 | `api.vakv.cn` | ¥18.75 | $18.75 / $75 | 1 | 1848 | o1-preview |
+| 43 | `vakv.cn` | ¥18.75 | $18.75 / $75 | 1 | 1848 | o1-preview |
+| 44 | `jyzl.apihy.com` | ¥19.27 | $2.64 / $10.56 | 7.3 | default | o1-preview |
+| 45 | `api.34ku.com` | ¥19.5 | $19.5 / $78 | 1 | default | o1-preview |
+| 46 | `proaiapi.tech` | ¥20 | $20 / $80 | 1 | default | o1-preview |
+| 47 | `import.deepwl.net` | ¥21.9 | $3 / $12 | 7.3 | gpt | o1-preview |
+| 48 | `35.aigcbest.top` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
+| 49 | `api.ocoolai.com` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
+| 50 | `api.xhuoai.com` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
 
-> 另有 57 站未列出。
+> 另有 62 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -91,4 +91,4 @@
 | 22 | `yuli.host` | $15 / $60 | default | 1 | o1-preview |
 | 23 | `poloapi.top` | $22.5 / $90 | az | 1.5 | o1-preview |
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

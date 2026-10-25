@@ -1,6 +1,6 @@
 # ernie-4.0
 
-> 36 站提供 · 正常价 31 站 · 名义中位价 **$33.144**/1M 输入 · 实付中位价 **¥35.32**/1M 输入（12 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 32 站 · 名义中位价 **$33.144**/1M 输入 · 实付中位价 **¥33.14**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,15 +13,16 @@
 | 1 | `api.ytea.top` | ¥3 | $3 / $3 | 1 | default | ERNIE-4.0-8K-Latest |
 | 2 | `api.ocoolai.com` | ¥16.19 | $16.188 / $48.564 | 1 | cn | ERNIE-4.0-8K |
 | 3 | `ocool.cn` | ¥16.19 | $16.188 / $48.564 | 1 | cn | ERNIE-4.0-8K |
-| 4 | `api.new.bi` | ¥33.14 | $33.144 / $33.144 | 1 | default | ERNIE-4.0-8K |
-| 5 | `keypool.space` | ¥33.14 | $33.144 / $33.144 | 1 | default | ERNIE-4.0-8K |
-| 6 | `xinsuanai.com` | ¥33.14 | $33.144 / $33.144 | 1 | default | ERNIE-4.0-8K |
-| 7 | `mb.dmxapi.cn` | ¥37.5 | $7.5 / $22.5 | 5 | vip | ERNIE-4.0-8K |
-| 8 | `tk.dmxapi.cn` | ¥37.5 | $7.5 / $22.5 | 5 | default | ERNIE-4.0-8K |
-| 9 | `api.vakv.cn` | ¥42.74 | $42.7397 / $42.7397 | 1 | 9999 | ERNIE-4.0-8K |
-| 10 | `kubernetes-test-api.apiqik.online` | ¥120 | $16.4384 / $16.4384 | 7.3 | default | ERNIE-4.0-8K |
-| 11 | `newapi.ailingnan.top` | ¥120 | $16.4384 / $16.4384 | 7.3 | default | ERNIE-4.0-8K |
-| 12 | `nbapi.net` | ¥242 | $33.144 / $33.144 | 7.3 | default | ERNIE-4.0-8K |
+| 4 | `one.ooo.cool` | ¥16.19 | $16.188 / $48.564 | 1 | cn | ERNIE-4.0-8K |
+| 5 | `api.new.bi` | ¥33.14 | $33.144 / $33.144 | 1 | default | ERNIE-4.0-8K |
+| 6 | `keypool.space` | ¥33.14 | $33.144 / $33.144 | 1 | default | ERNIE-4.0-8K |
+| 7 | `xinsuanai.com` | ¥33.14 | $33.144 / $33.144 | 1 | default | ERNIE-4.0-8K |
+| 8 | `mb.dmxapi.cn` | ¥37.5 | $7.5 / $22.5 | 5 | vip | ERNIE-4.0-8K |
+| 9 | `tk.dmxapi.cn` | ¥37.5 | $7.5 / $22.5 | 5 | default | ERNIE-4.0-8K |
+| 10 | `api.vakv.cn` | ¥42.74 | $42.7397 / $42.7397 | 1 | 9999 | ERNIE-4.0-8K |
+| 11 | `kubernetes-test-api.apiqik.online` | ¥120 | $16.4384 / $16.4384 | 7.3 | default | ERNIE-4.0-8K |
+| 12 | `newapi.ailingnan.top` | ¥120 | $16.4384 / $16.4384 | 7.3 | default | ERNIE-4.0-8K |
+| 13 | `nbapi.net` | ¥242 | $33.144 / $33.144 | 7.3 | default | ERNIE-4.0-8K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

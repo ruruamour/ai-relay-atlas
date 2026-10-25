@@ -1,6 +1,6 @@
 # nano-banana-pro
 
-> 241 站提供 · 正常价 178 站 · 名义中位价 **$0.16**/次 · 实付中位价 **¥0.2**/次（147 站公开充值价） · 推算，未对账
+> 244 站提供 · 正常价 179 站 · 名义中位价 **$0.16**/次 · 实付中位价 **¥0.2**/次（148 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -50,18 +50,18 @@
 | 38 | `api.muxllm.com` | ¥0.13 | $0.13 | 1 | Gemini图片/视频模型 | nano-banana-pro |
 | 39 | `api1.link-ai.cc` | ¥0.13 | $0.13 | 1 | default | nano-banana-pro |
 | 40 | `apijing.com` | ¥0.13 | $0.13 | 1 | gptimage稳定 | img特惠/nano-banana-pro |
-| 41 | `gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
-| 42 | `oneapi.gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
-| 43 | `api.xctokens.com` | ¥0.15 | $0.15 | 1 | 生图分组 | nano-banana-pro |
-| 44 | `code.ciyuanapi.xyz` | ¥0.15 | $0.15 | 1 | 谷歌生图视频 | adobe/nano-banana-pro |
-| 45 | `origin.novai.su` | ¥0.15 | $0.15 | 1 | Auto | nano-banana-pro |
-| 46 | `us.julianapi.com` | ¥0.15 | $0.15 | 1 | Flow 视频绘图 | nano-banana-pro |
-| 47 | `zl.wonderful.edu.kg` | ¥0.15 | $0.15 | 1 | Nano-Banana-2/Pro生图分组 | Nano-Banana-Pro |
-| 48 | `api.xhuoai.com` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
-| 49 | `yun.v1api.cc` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
-| 50 | `api.eido.top` | ¥0.16 | $0.16 | 1 | default | nano-banana-pro_2k |
+| 41 | `goapi.gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
+| 42 | `gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
+| 43 | `oneapi.gptnb.ai` | ¥0.134 | $0.134 | 1 | API | nano-banana-pro |
+| 44 | `api.xctokens.com` | ¥0.15 | $0.15 | 1 | 生图分组 | nano-banana-pro |
+| 45 | `code.ciyuanapi.xyz` | ¥0.15 | $0.15 | 1 | 谷歌生图视频 | adobe/nano-banana-pro |
+| 46 | `origin.novai.su` | ¥0.15 | $0.15 | 1 | Auto | nano-banana-pro |
+| 47 | `us.julianapi.com` | ¥0.15 | $0.15 | 1 | Flow 视频绘图 | nano-banana-pro |
+| 48 | `zl.wonderful.edu.kg` | ¥0.15 | $0.15 | 1 | Nano-Banana-2/Pro生图分组 | Nano-Banana-Pro |
+| 49 | `api.xhuoai.com` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
+| 50 | `yun.v1api.cc` | ¥0.15 | $0.1 | 1.5 | default | nano-banana-pro |
 
-> 另有 97 站未列出。
+> 另有 98 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -99,4 +99,4 @@
 | 30 | `coloful-rose.com` | $25.2 | Gemini | 3.5 | nano-banana-pro |
 | 31 | `windhub.online` | $71 | Fenghe 桌面统一路由 | 1 | nano_banana_pro |
 
-> 63 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 65 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

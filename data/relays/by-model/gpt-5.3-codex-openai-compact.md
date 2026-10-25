@@ -1,6 +1,6 @@
 # gpt-5.3-codex-openai-compact
 
-> 41 站提供 · 正常价 19 站 · 名义中位价 **$1.4**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（15 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 21 站 · 名义中位价 **$1.4**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,20 +19,22 @@
 | 7 | `123api.co` | ¥1.75 | $1.75 / $14 | 1 | default | gpt-5.3-codex-openai-compact |
 | 8 | `api.ocoolai.com` | ¥2.625 | $2.625 / $21 | 1 | codex | gpt-5.3-codex-openai-compact |
 | 9 | `ocool.cn` | ¥2.625 | $2.625 / $21 | 1 | codex | gpt-5.3-codex-openai-compact |
-| 10 | `api.ulastai.com` | ¥2.81 | $0.385 / $3.08 | 7.3 | gptpro | gpt-5.3-codex-openai-compact |
-| 11 | `api.llms.best` | ¥3.78 | $0.525 / $4.2 | 7.2 | Codex | gpt-5.3-codex-openai-compact |
-| 12 | `api.onefaka.com` | ¥9.125 | $1.25 / $10 | 7.3 | ssvip | gpt-5.3-codex-openai-compact |
-| 13 | `api.vivijane.pro` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.3-codex-openai-compact |
-| 14 | `ayong.qiuqiutoken.com` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.3-codex-openai-compact |
-| 15 | `wrduai.com` | ¥89.42 | $12.25 / $98 | 7.3 | 优质官转 | gpt-5.3-codex-openai-compact |
+| 10 | `one.ooo.cool` | ¥2.625 | $2.625 / $21 | 1 | codex | gpt-5.3-codex-openai-compact |
+| 11 | `api.ulastai.com` | ¥2.81 | $0.385 / $3.08 | 7.3 | gptpro | gpt-5.3-codex-openai-compact |
+| 12 | `api.llms.best` | ¥3.78 | $0.525 / $4.2 | 7.2 | Codex | gpt-5.3-codex-openai-compact |
+| 13 | `api.onefaka.com` | ¥9.125 | $1.25 / $10 | 7.3 | ssvip | gpt-5.3-codex-openai-compact |
+| 14 | `api.vivijane.pro` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.3-codex-openai-compact |
+| 15 | `ayong.qiuqiutoken.com` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.3-codex-openai-compact |
+| 16 | `wrduai.com` | ¥89.42 | $12.25 / $98 | 7.3 | 优质官转 | gpt-5.3-codex-openai-compact |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `www.largechestnut.com` | $0.21 / $1.68 | gpt-plus | 0.12 | gpt-5.3-codex-openai-compact |
-| 2 | `ai.nodeseek.in` | $1.75 / $14 | default | 1 | gpt-5.3-codex-openai-compact |
-| 3 | `tianyuai.lol` | $16 / $128 | default | 8 | gpt-5.3-codex-openai-compact |
-| 4 | `wjapi.xyz` | $21.25 / $170 | default | 8.5 | gpt-5.3-codex-openai-compact |
+| 2 | `api.168box.xyz` | $0.259 / $2.072 | codex | 0.148 | gpt-5.3-codex-openai-compact |
+| 3 | `ai.nodeseek.in` | $1.75 / $14 | default | 1 | gpt-5.3-codex-openai-compact |
+| 4 | `tianyuai.lol` | $16 / $128 | default | 8 | gpt-5.3-codex-openai-compact |
+| 5 | `wjapi.xyz` | $21.25 / $170 | default | 8.5 | gpt-5.3-codex-openai-compact |
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-3-deepersearch
 
-> 27 站提供 · 正常价 14 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥4.35**/1M 输入（12 站公开充值价） · 推算，未对账
+> 29 站提供 · 正常价 15 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥4.5**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,10 +18,11 @@
 | 6 | `koalaapi.com` | ¥4.2 | $0.6 / $3 | 7 | default | grok-3-deepersearch |
 | 7 | `api.ocoolai.com` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-deepersearch |
 | 8 | `ocool.cn` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-deepersearch |
-| 9 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-3-deepersearch |
-| 10 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-3-deepersearch |
-| 11 | `ai.nodeloc.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-3-deepersearch |
-| 12 | `hk.apitoken.ai` | ¥14.6 | $2 / $6 | 7.3 | default | grok-3-deepersearch |
+| 9 | `one.ooo.cool` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-deepersearch |
+| 10 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-3-deepersearch |
+| 11 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-3-deepersearch |
+| 12 | `ai.nodeloc.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-3-deepersearch |
+| 13 | `hk.apitoken.ai` | ¥14.6 | $2 / $6 | 7.3 | default | grok-3-deepersearch |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -30,4 +31,4 @@
 | 1 | `api.xistree.hk` | $2 / $6 | default | 1 | grok-3-deepersearch |
 | 2 | `happyapi.org` | $2 / $10 | default | 1 | grok-3-deepersearch |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

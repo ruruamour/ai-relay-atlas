@@ -1,6 +1,6 @@
 # grok-4.2
 
-> 63 站提供 · 正常价 37 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3**/1M 输入（34 站公开充值价） · 推算，未对账
+> 66 站提供 · 正常价 38 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3**/1M 输入（35 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -38,12 +38,13 @@
 | 26 | `api.uiuihao.com` | ¥6.38 | $2 / $6 | 3.19 | default | grok-4.2 |
 | 27 | `sg.uiuiapi.com` | ¥6.38 | $2 / $6 | 3.19 | default | grok-4.2 |
 | 28 | `aio-api-ssvip.aiearth.dev` | ¥6.57 | $0.9 / $4.5 | 7.3 | nx | grok-4.2 |
-| 29 | `api.34ku.com` | ¥7.8 | $7.8 / $32.5 | 1 | default | grok-4.2 |
-| 30 | `ai.nodeloc.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4.2 |
-| 31 | `hk.apitoken.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | bi | grok-4.2 |
-| 32 | `api.mountainsea.ai` | ¥16.75 | $2.5 / $10 | 6.7 | default | grok-4.2 |
-| 33 | `open.cherryin.ai` | ¥16.95 | $2.5 / $5 | 6.78 | default | x-ai/grok-4.2 |
-| 34 | `express-ent-admin.cherryin.net` | ¥18 | $2.5 / $5 | 7.2 | default | x-ai/grok-4.2 |
+| 29 | `ai.mowen.vip` | ¥6.689 | $1 / $3 | 6.6892 | default | grok-4.2 |
+| 30 | `api.34ku.com` | ¥7.8 | $7.8 / $32.5 | 1 | default | grok-4.2 |
+| 31 | `ai.nodeloc.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4.2 |
+| 32 | `hk.apitoken.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | bi | grok-4.2 |
+| 33 | `api.mountainsea.ai` | ¥16.75 | $2.5 / $10 | 6.7 | default | grok-4.2 |
+| 34 | `open.cherryin.ai` | ¥16.95 | $2.5 / $5 | 6.78 | default | x-ai/grok-4.2 |
+| 35 | `express-ent-admin.cherryin.net` | ¥18 | $2.5 / $5 | 7.2 | default | x-ai/grok-4.2 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -53,4 +54,4 @@
 | 2 | `ai.comfly.org` | $3 / $15 | default | 1 | grok-4.2 |
 | 3 | `api.xistree.hk` | $3 / $15 | default | 1 | grok-4.2 |
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

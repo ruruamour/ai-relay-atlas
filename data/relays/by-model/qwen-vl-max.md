@@ -1,6 +1,6 @@
 # qwen-vl-max
 
-> 127 站提供 · 正常价 110 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（43 站公开充值价） · 推算，未对账
+> 134 站提供 · 正常价 115 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（48 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,34 +25,39 @@
 | 13 | `cn.580ai.net` | ¥1.28 | $1.28 / $3.2 | 1 | qwen-claude | qwen-vl-max |
 | 14 | `gpt777.top` | ¥1.28 | $1.28 / $3.2 | 1 | opensource | qwen-vl-max |
 | 15 | `poloai.top` | ¥1.28 | $1.28 / $3.2 | 1 | qwen千问 | qwen-vl-max |
-| 16 | `yinziapi.top` | ¥1.312 | $1.312 / $3.28 | 1 | 官方国模分组 | qwen-vl-max |
-| 17 | `api.ifopen.ai` | ¥1.456 | $0.416 / $1.04 | 3.5 | 通用大模型 | qwen-vl-max |
-| 18 | `api2.aigcbest.top` | ¥1.456 | $0.416 / $1.04 | 3.5 | 通用大模型 | qwen-vl-max |
-| 19 | `api.ocoolai.com` | ¥1.52 | $1.52 / $3.8 | 1 | cn | qwen-vl-max |
-| 20 | `ocool.cn` | ¥1.52 | $1.52 / $3.8 | 1 | cn | qwen-vl-max |
-| 21 | `api.new.bi` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max-2025-08-13 |
-| 22 | `keypool.space` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max |
-| 23 | `kfcv50.link` | ¥1.6 | $1.6 / $4 | 1 | Domestic | qwen-vl-max |
-| 24 | `new.foxi-api.cn` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max-2025-08-13 |
-| 25 | `xinsuanai.com` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max |
-| 26 | `unorouter.net` | ¥1.669 | $0.228571 / $0.571429 | 7.3 | default | qwen-vl-max |
-| 27 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-vl-max |
-| 28 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen-vl-max |
-| 29 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-vl-max-latest |
-| 30 | `zgc.apihy.com` | ¥1.718 | $0.2353 / $0.5882 | 7.3 | default | qwen-vl-max |
-| 31 | `apiai.shop` | ¥1.92 | $1.6 / $4 | 1.2 | default | qwen-vl-max |
-| 32 | `cc.zhihuiapi.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwen-vl-max |
-| 33 | `cn.zhihuiai.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwen-vl-max |
-| 34 | `api.eido.top` | ¥3 | $3 / $9 | 1 | default | qwen-vl-max-latest |
-| 35 | `ssvip.dmxapi.com` | ¥3.066 | $0.42 / $1.26 | 7.3 | vip | qwen-vl-max |
-| 36 | `api.34ku.com` | ¥3.9 | $3.9 / $9.75 | 1 | default | qwen-vl-max-latest |
-| 37 | `www.hohoapi.com` | ¥4.68 | $1.56 / $3.9 | 3 | qwen | qwen-vl-max |
-| 38 | `hy88.my` | ¥7.008 | $0.96 / $2.4 | 7.3 | qwen | qwen-vl-max |
-| 39 | `ai.nodeloc.com` | ¥7.3 | $1 / $8 | 7.3 | default | qwen-vl-max |
-| 40 | `ai.tiantoken.com` | ¥7.592 | $1.04 / $2.6 | 7.3 | 鹏宇国内模型1 | qwen-vl-max |
-| 41 | `codeyy.top` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwen-vl-max |
-| 42 | `wrduai.com` | ¥11.68 | $1.6 / $4 | 7.3 | 官转 | qwen-vl-max |
-| 43 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-vl-max |
+| 16 | `xy.poloapi.com` | ¥1.28 | $1.28 / $3.2 | 1 | qwen千问 | qwen-vl-max |
+| 17 | `yinziapi.top` | ¥1.312 | $1.312 / $3.28 | 1 | 官方国模分组 | qwen-vl-max |
+| 18 | `api.ifopen.ai` | ¥1.456 | $0.416 / $1.04 | 3.5 | 通用大模型 | qwen-vl-max |
+| 19 | `api2.aigcbest.top` | ¥1.456 | $0.416 / $1.04 | 3.5 | 通用大模型 | qwen-vl-max |
+| 20 | `api.ocoolai.com` | ¥1.52 | $1.52 / $3.8 | 1 | cn | qwen-vl-max |
+| 21 | `ocool.cn` | ¥1.52 | $1.52 / $3.8 | 1 | cn | qwen-vl-max |
+| 22 | `one.ooo.cool` | ¥1.52 | $1.52 / $3.8 | 1 | cn | qwen-vl-max |
+| 23 | `api.new.bi` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max-2025-08-13 |
+| 24 | `keypool.space` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max |
+| 25 | `kfcv50.link` | ¥1.6 | $1.6 / $4 | 1 | Domestic | qwen-vl-max |
+| 26 | `new.foxi-api.cn` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max-2025-08-13 |
+| 27 | `xinsuanai.com` | ¥1.6 | $1.6 / $4 | 1 | default | qwen-vl-max |
+| 28 | `unorouter.net` | ¥1.669 | $0.228571 / $0.571429 | 7.3 | default | qwen-vl-max |
+| 29 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-vl-max |
+| 30 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-vl-max |
+| 31 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen-vl-max |
+| 32 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-vl-max-latest |
+| 33 | `zgc.apihy.com` | ¥1.718 | $0.2353 / $0.5882 | 7.3 | default | qwen-vl-max |
+| 34 | `apiai.shop` | ¥1.92 | $1.6 / $4 | 1.2 | default | qwen-vl-max |
+| 35 | `cc.zhihuiapi.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwen-vl-max |
+| 36 | `cn.zhihuiai.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwen-vl-max |
+| 37 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $11.4288 | 1 | 国产模型 | qwen-vl-max |
+| 38 | `api.aiskt.com` | ¥3 | $3 / $9 | 1 | default | qwen-vl-max |
+| 39 | `api.eido.top` | ¥3 | $3 / $9 | 1 | default | qwen-vl-max-latest |
+| 40 | `ssvip.dmxapi.com` | ¥3.066 | $0.42 / $1.26 | 7.3 | vip | qwen-vl-max |
+| 41 | `api.34ku.com` | ¥3.9 | $3.9 / $9.75 | 1 | default | qwen-vl-max-latest |
+| 42 | `www.hohoapi.com` | ¥4.68 | $1.56 / $3.9 | 3 | qwen | qwen-vl-max |
+| 43 | `hy88.my` | ¥7.008 | $0.96 / $2.4 | 7.3 | qwen | qwen-vl-max |
+| 44 | `ai.nodeloc.com` | ¥7.3 | $1 / $8 | 7.3 | default | qwen-vl-max |
+| 45 | `ai.tiantoken.com` | ¥7.592 | $1.04 / $2.6 | 7.3 | 鹏宇国内模型1 | qwen-vl-max |
+| 46 | `codeyy.top` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwen-vl-max |
+| 47 | `wrduai.com` | ¥11.68 | $1.6 / $4 | 7.3 | 官转 | qwen-vl-max |
+| 48 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-vl-max |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -111,4 +116,4 @@
 
 > 另有 17 站未列出。
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

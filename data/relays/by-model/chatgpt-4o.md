@@ -1,6 +1,6 @@
 # chatgpt-4o
 
-> 102 站提供 · 正常价 92 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥8**/1M 输入（68 站公开充值价） · 推算，未对账
+> 109 站提供 · 正常价 96 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥8**/1M 输入（72 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -39,29 +39,29 @@
 | 27 | `ai.t8star.org` | ¥5.4 | $4 / $12 | 1.35 | vip | chatgpt-4o-latest |
 | 28 | `api.34ku.com` | ¥6.5 | $6.5 / $19.5 | 1 | default | chatgpt-4o-latest |
 | 29 | `35.aigcbest.top` | ¥7.5 | $5 / $15 | 1.5 | default | chatgpt-4o-latest |
-| 30 | `api.ocoolai.com` | ¥7.5 | $7.5 / $22.5 | 1 | default | chatgpt-4o-latest |
-| 31 | `api.xhuoai.com` | ¥7.5 | $5 / $15 | 1.5 | default | chatgpt-4o-latest |
-| 32 | `ocool.cn` | ¥7.5 | $7.5 / $22.5 | 1 | default | chatgpt-4o-latest |
-| 33 | `yun.v1api.cc` | ¥7.5 | $5 / $15 | 1.5 | default | chatgpt-4o-latest |
-| 34 | `147ai.online` | ¥8 | $10 / $30 | 0.8 | default | chatgpt-4o-latest |
-| 35 | `api.qiqiai.top` | ¥8 | $4 / $12 | 2 | default | chatgpt-4o-latest |
-| 36 | `gpt777.top` | ¥10 | $10 / $30 | 1 | Azure | chatgpt-4o-latest |
-| 37 | `test.yibuapi.com` | ¥10.5 | $7 / $21 | 1.5 | 逆向分组 | chatgpt-4o-latest |
-| 38 | `api.vakv.cn` | ¥13 | $13 / $39 | 1 | 9999 | chatgpt-4o-latest |
-| 39 | `api.zyai.online` | ¥15 | $15 / $45 | 1 | chongzhi | chatgpt-4o-latest |
-| 40 | `webapi.xjai.cc` | ¥15 | $5 / $15 | 3 | default | chatgpt-4o-latest |
-| 41 | `api.ifopen.ai` | ¥17.5 | $5 / $15 | 3.5 | default | chatgpt-4o-latest |
-| 42 | `api2.aigcbest.top` | ¥17.5 | $5 / $15 | 3.5 | default | chatgpt-4o-latest |
-| 43 | `poloai.top` | ¥17.5 | $17.5 / $52.5 | 1 | gpt-vip | chatgpt-4o-latest |
-| 44 | `cnapi.kksj.org` | ¥19 | $19 / $57 | 1 | guan | chatgpt-4o-latest |
-| 45 | `deepkey.top` | ¥20 | $20 / $60 | 1 | gpt-openai2 | chatgpt-4o-latest |
-| 46 | `mb.dmxapi.cn` | ¥25 | $5 / $15 | 5 | vip | chatgpt-4o-latest |
-| 47 | `tk.dmxapi.cn` | ¥25 | $5 / $15 | 5 | default | chatgpt-4o-latest |
-| 48 | `api.ycapi.xyz` | ¥30.43 | $30.4348 / $91.3043 | 1 | gpt-openai2 | chatgpt-4o-latest |
-| 49 | `apiplus.online` | ¥32.85 | $4.5 / $13.5 | 7.3 | default | chatgpt-4o-latest |
-| 50 | `apicdn.xyc.ai` | ¥34.5 | $5 / $15 | 6.9 | gpt-flow | chatgpt-4o-latest |
+| 30 | `api.aiskt.com` | ¥7.5 | $7.5 / $22.5 | 1 | azureqy | chatgpt-4o-latest |
+| 31 | `api.ocoolai.com` | ¥7.5 | $7.5 / $22.5 | 1 | default | chatgpt-4o-latest |
+| 32 | `api.xhuoai.com` | ¥7.5 | $5 / $15 | 1.5 | default | chatgpt-4o-latest |
+| 33 | `ocool.cn` | ¥7.5 | $7.5 / $22.5 | 1 | default | chatgpt-4o-latest |
+| 34 | `one.ooo.cool` | ¥7.5 | $7.5 / $22.5 | 1 | default | chatgpt-4o-latest |
+| 35 | `yun.v1api.cc` | ¥7.5 | $5 / $15 | 1.5 | default | chatgpt-4o-latest |
+| 36 | `147ai.online` | ¥8 | $10 / $30 | 0.8 | default | chatgpt-4o-latest |
+| 37 | `api.qiqiai.top` | ¥8 | $4 / $12 | 2 | default | chatgpt-4o-latest |
+| 38 | `api.xi-ai.cn` | ¥10 | $10 / $40 | 1 | 优惠模型 | chatgpt-4o-latest |
+| 39 | `gpt777.top` | ¥10 | $10 / $30 | 1 | Azure | chatgpt-4o-latest |
+| 40 | `test.yibuapi.com` | ¥10.5 | $7 / $21 | 1.5 | 逆向分组 | chatgpt-4o-latest |
+| 41 | `api.vakv.cn` | ¥13 | $13 / $39 | 1 | 9999 | chatgpt-4o-latest |
+| 42 | `api.zyai.online` | ¥15 | $15 / $45 | 1 | chongzhi | chatgpt-4o-latest |
+| 43 | `webapi.xjai.cc` | ¥15 | $5 / $15 | 3 | default | chatgpt-4o-latest |
+| 44 | `api.ifopen.ai` | ¥17.5 | $5 / $15 | 3.5 | default | chatgpt-4o-latest |
+| 45 | `api2.aigcbest.top` | ¥17.5 | $5 / $15 | 3.5 | default | chatgpt-4o-latest |
+| 46 | `poloai.top` | ¥17.5 | $17.5 / $52.5 | 1 | gpt-vip | chatgpt-4o-latest |
+| 47 | `xy.poloapi.com` | ¥17.5 | $17.5 / $52.5 | 1 | gpt-vip | chatgpt-4o-latest |
+| 48 | `cnapi.kksj.org` | ¥19 | $19 / $57 | 1 | guan | chatgpt-4o-latest |
+| 49 | `deepkey.top` | ¥20 | $20 / $60 | 1 | gpt-openai2 | chatgpt-4o-latest |
+| 50 | `mb.dmxapi.cn` | ¥25 | $5 / $15 | 5 | vip | chatgpt-4o-latest |
 
-> 另有 18 站未列出。
+> 另有 22 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -92,4 +92,4 @@
 | 23 | `yuli.host` | $7.5 / $22.5 | 纯AZ | 1.5 | chatgpt-4o-latest |
 | 24 | `poloapi.top` | $17.5 / $52.5 | gpt-vip | 3.5 | chatgpt-4o-latest |
 
-> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-4.1
 
-> 68 站提供 · 正常价 36 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3**/1M 输入（33 站公开充值价） · 推算，未对账
+> 70 站提供 · 正常价 37 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3**/1M 输入（34 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,17 +32,18 @@
 | 20 | `koalaapi.com` | ¥4.2 | $0.6 / $3 | 7 | default | grok-4.1 |
 | 21 | `api.camel-hub.com` | ¥5 | $6.25 / $12.5 | 0.8 | OFC | grok-4.1 |
 | 22 | `treerouter.com` | ¥6.3 | $0.9 / $4.5 | 7 | default | grok-4.1 |
-| 23 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-4.1 |
-| 24 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-4.1 |
-| 25 | `yibuapi.com` | ¥9 | $6 / $30 | 1.5 | default | grok-4.1 |
-| 26 | `api.uiuihao.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-4.1 |
-| 27 | `sg.uiuiapi.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-4.1 |
-| 28 | `aiapi.world` | ¥9.826 | $1.445 / $7.225 | 6.8 | default | grok-4.1 |
-| 29 | `api.mountainsea.ai` | ¥13.4 | $2 / $10 | 6.7 | default | grok-4.1 |
-| 30 | `ai.nodeloc.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-4.1 |
-| 31 | `aio-api-ssvip.aiearth.dev` | ¥14.6 | $2 / $10 | 7.3 | vip | grok-4.1 |
-| 32 | `api.ysaikeji.cn` | ¥21.9 | $3 / $15 | 7.3 | default | grok-4.1 |
-| 33 | `hk.apitoken.ai` | ¥21.9 | $3 / $12 | 7.3 | default | grok-4.1 |
+| 23 | `ai.mowen.vip` | ¥6.689 | $1 / $5 | 6.6892 | default | grok-4.1 |
+| 24 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-4.1 |
+| 25 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-4.1 |
+| 26 | `yibuapi.com` | ¥9 | $6 / $30 | 1.5 | default | grok-4.1 |
+| 27 | `api.uiuihao.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-4.1 |
+| 28 | `sg.uiuiapi.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-4.1 |
+| 29 | `aiapi.world` | ¥9.826 | $1.445 / $7.225 | 6.8 | default | grok-4.1 |
+| 30 | `api.mountainsea.ai` | ¥13.4 | $2 / $10 | 6.7 | default | grok-4.1 |
+| 31 | `ai.nodeloc.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-4.1 |
+| 32 | `aio-api-ssvip.aiearth.dev` | ¥14.6 | $2 / $10 | 7.3 | vip | grok-4.1 |
+| 33 | `api.ysaikeji.cn` | ¥21.9 | $3 / $15 | 7.3 | default | grok-4.1 |
+| 34 | `hk.apitoken.ai` | ¥21.9 | $3 / $12 | 7.3 | default | grok-4.1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -52,4 +53,4 @@
 | 2 | `happyapi.org` | $2 / $10 | default | 1 | grok-4.1 |
 | 3 | `api.luoqianyi.qzz.io` | $5 / $5 | default | 1 | grok-4.1 |
 
-> 32 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 33 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

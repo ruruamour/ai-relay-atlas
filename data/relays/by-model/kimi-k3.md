@@ -1,6 +1,6 @@
 # kimi-k3
 
-> 1288 站提供 · 正常价 1025 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥12**/1M 输入（738 站公开充值价） · 推算，未对账
+> 1327 站提供 · 正常价 1057 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥12**/1M 输入（765 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -58,10 +58,10 @@
 | 46 | `hk-api.shqbb.com` | ¥1.8 | $1.8 / $9 | 1 | kimi | kimi-k3 |
 | 47 | `yunshuapi.wiki` | ¥1.8 | $1.8 / $9 | 1 | 国模 | kimi-k3 |
 | 48 | `crowllm.com` | ¥1.99 | $1.99 / $8.99 | 1 | pro | kimi-k3 |
-| 49 | `api.memeapi.top` | ¥2 | $2 / $10 | 1 | kimi-k3 | kimi-k3 |
-| 50 | `cpa057.meta-api.vip` | ¥2 | $2 / $10 | 1 | 5.1-国模跑量 | kimi-k3 |
+| 49 | `ai.ikvv.cn` | ¥2 | $2 / $10 | 1 | kimik3.1p | kimi-k3 |
+| 50 | `api.memeapi.top` | ¥2 | $2 / $10 | 1 | kimi-k3 | kimi-k3 |
 
-> 另有 688 站未列出。
+> 另有 715 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -102,22 +102,22 @@
 | 33 | `sub2api.xybbz.xyz` | $1.2 / $6 | Kimi-k3 | 0.06 | kimi-k3 |
 | 34 | `tntapi.com` | $1.2 / $6 | Kimi | 0.06 | kimi-k3 |
 | 35 | `z30.top` | $1.2 / $6 | Kimi | 0.06 | kimi-k3 |
-| 36 | `xigong.cloud` | $1.4 / $7 | Kimi | 0.07 | kimi-k3 |
-| 37 | `subapi.ishuhang.top` | $1.47403 / $7.37017 | k3 | 0.5 | kimi-k3 |
-| 38 | `api.dreamaitoken.cloud` | $1.5 / $6.5 | kimi k3 | 1 | kimi-k3 |
-| 39 | `api.xyapi.club` | $1.5 / $7.5 | Chinese AI Model 0.5X | 0.5 | kimi-k3 |
-| 40 | `newapi.relayport17.asia` | $1.5 / $7.5 | 国产模型 | 0.5 | kimi-k3 |
-| 41 | `api.hualong.online` | $1.6 / $8 | 国模百亿补贴 | 0.08 | kimi-k3 |
-| 42 | `api.tcvps.cn` | $1.6 / $8 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | kimi-k3 |
-| 43 | `www.bb-api.com` | $1.6 / $8 | gpt-008x-（毫秒级首字） | 0.08 | global:kimi-k3 |
-| 44 | `www.deponia.me` | $1.6 / $8 | KIMI | 0.08 | kimi-k3 |
-| 45 | `www.kk-vibe.top` | $1.6 / $8 | 国产大模型 0.08倍率 | 0.08 | kimi-k3 |
-| 46 | `x.ailzd.com` | $1.6 / $8 | DP/K3/Glm(oai协议满血) | 0.08 | kimi-k3 |
-| 47 | `xinghubai.top` | $1.6 / $8 | kimi | 0.08 | kimi-k3 |
-| 48 | `8888.name` | $1.76884 / $8.84421 | Kimi | 0.6 | kimi-k3 |
-| 49 | `api.hzapi.vip` | $1.89 / $9.45 | Kimi｜0.12x | 0.12 | kimi-k3 |
-| 50 | `790053500.com` | $2 / $10 | Kimi | 0.1 | kimi-k3 |
+| 36 | `api.168box.xyz` | $1.32663 / $6.63316 | china | 0.45 | kimi-k3 |
+| 37 | `xigong.cloud` | $1.4 / $7 | Kimi | 0.07 | kimi-k3 |
+| 38 | `subapi.ishuhang.top` | $1.47403 / $7.37017 | k3 | 0.5 | kimi-k3 |
+| 39 | `api.dreamaitoken.cloud` | $1.5 / $6.5 | kimi k3 | 1 | kimi-k3 |
+| 40 | `api.xyapi.club` | $1.5 / $7.5 | Chinese AI Model 0.5X | 0.5 | kimi-k3 |
+| 41 | `newapi.relayport17.asia` | $1.5 / $7.5 | 国产模型 | 0.5 | kimi-k3 |
+| 42 | `api.hualong.online` | $1.6 / $8 | 国模百亿补贴 | 0.08 | kimi-k3 |
+| 43 | `api.tcvps.cn` | $1.6 / $8 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | kimi-k3 |
+| 44 | `flashcoding.ai` | $1.6 / $8 | 国产低价-均价0.1x | 1 | kimi-k3 |
+| 45 | `www.bb-api.com` | $1.6 / $8 | gpt-008x-（毫秒级首字） | 0.08 | global:kimi-k3 |
+| 46 | `www.deponia.me` | $1.6 / $8 | KIMI | 0.08 | kimi-k3 |
+| 47 | `www.kk-vibe.top` | $1.6 / $8 | 国产大模型 0.08倍率 | 0.08 | kimi-k3 |
+| 48 | `x.ailzd.com` | $1.6 / $8 | DP/K3/Glm(oai协议满血) | 0.08 | kimi-k3 |
+| 49 | `xinghubai.top` | $1.6 / $8 | kimi | 0.08 | kimi-k3 |
+| 50 | `8888.name` | $1.76884 / $8.84421 | Kimi | 0.6 | kimi-k3 |
 
-> 另有 237 站未列出。
+> 另有 242 站未列出。
 
-> 263 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 270 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

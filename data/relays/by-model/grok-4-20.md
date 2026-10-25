@@ -1,6 +1,6 @@
 # grok-4-20
 
-> 131 站提供 · 正常价 81 站 · 名义中位价 **$12**/1M 输入 · 实付中位价 **¥2**/1M 输入（15 站公开充值价） · 推算，未对账
+> 136 站提供 · 正常价 82 站 · 名义中位价 **$12**/1M 输入 · 实付中位价 **¥2**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,21 +10,22 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `kfcv50.link` | ¥0.625 | $0.625 / $1.25 | 1 | az_act05 | grok-4-20-reasoning |
-| 2 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-4-20-reasoning |
-| 3 | `api.routeeasy.ai` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4-20-reasoning |
-| 4 | `zen-ai.top` | ¥1.5 | $1.5 / $3 | 1 | default | grok-4-20-reasoning |
-| 5 | `cn.gptapi.asia` | ¥1.6 | $1.6 / $4.8 | 1 | default | grok-4-20-reasoning |
-| 6 | `yutoapi.com` | ¥1.6 | $1.6 / $4.8 | 1 | default | grok-4-20-reasoning |
-| 7 | `api.new.bi` | ¥2 | $2 / $6 | 1 | default | grok-4-20-reasoning |
-| 8 | `ent.yoct.cn` | ¥2 | $2 / $6 | 1 | default | grok-4-20-reasoning |
-| 9 | `proaiapi.tech` | ¥2 | $2 / $6 | 1 | default | grok-4-20-reasoning |
-| 10 | `layso.ai` | ¥3.25 | $3.25 / $6.5 | 1 | Azure-Grok-2 | grok-4-20-reasoning |
-| 11 | `laysoai.com` | ¥3.25 | $3.25 / $6.5 | 1 | Azure-Grok-2 | grok-4-20-reasoning |
-| 12 | `plusx.nyxos.shop` | ¥6.71 | $0.919125 / $1.83825 | 7.3 | CLI-Grok-1 | grok-4-20-reasoning |
-| 13 | `api.zhiyunai168.com` | ¥9.2 | $4.6 / $13.8 | 2 | Azure高级 | grok-4-20-reasoning |
-| 14 | `new.foxi-api.cn` | ¥12 | $12 / $36 | 1 | 优质grok | grok-4-20-reasoning |
-| 15 | `crazyrouter.com` | ¥14 | $2 / $6 | 7 | default | grok-4-20-reasoning |
+| 1 | `api.openai-labs.com` | ¥0.6 | $0.6 / $1.8 | 1 | geminicli | grok-4-20-reasoning |
+| 2 | `kfcv50.link` | ¥0.625 | $0.625 / $1.25 | 1 | az_act05 | grok-4-20-reasoning |
+| 3 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-4-20-reasoning |
+| 4 | `api.routeeasy.ai` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4-20-reasoning |
+| 5 | `zen-ai.top` | ¥1.5 | $1.5 / $3 | 1 | default | grok-4-20-reasoning |
+| 6 | `cn.gptapi.asia` | ¥1.6 | $1.6 / $4.8 | 1 | default | grok-4-20-reasoning |
+| 7 | `yutoapi.com` | ¥1.6 | $1.6 / $4.8 | 1 | default | grok-4-20-reasoning |
+| 8 | `api.new.bi` | ¥2 | $2 / $6 | 1 | default | grok-4-20-reasoning |
+| 9 | `ent.yoct.cn` | ¥2 | $2 / $6 | 1 | default | grok-4-20-reasoning |
+| 10 | `proaiapi.tech` | ¥2 | $2 / $6 | 1 | default | grok-4-20-reasoning |
+| 11 | `layso.ai` | ¥3.25 | $3.25 / $6.5 | 1 | Azure-Grok-2 | grok-4-20-reasoning |
+| 12 | `laysoai.com` | ¥3.25 | $3.25 / $6.5 | 1 | Azure-Grok-2 | grok-4-20-reasoning |
+| 13 | `plusx.nyxos.shop` | ¥6.71 | $0.919125 / $1.83825 | 7.3 | CLI-Grok-1 | grok-4-20-reasoning |
+| 14 | `api.zhiyunai168.com` | ¥9.2 | $4.6 / $13.8 | 2 | Azure高级 | grok-4-20-reasoning |
+| 15 | `new.foxi-api.cn` | ¥12 | $12 / $36 | 1 | 优质grok | grok-4-20-reasoning |
+| 16 | `crazyrouter.com` | ¥14 | $2 / $6 | 7 | default | grok-4-20-reasoning |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -83,4 +84,4 @@
 
 > 另有 16 站未列出。
 
-> 50 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 54 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

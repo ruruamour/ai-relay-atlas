@@ -1,6 +1,6 @@
 # nemotron-3-ultra
 
-> 27 站提供 · 正常价 10 站 · 名义中位价 **$1.3**/1M 输入 · 实付中位价 **¥2.83**/1M 输入（8 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 11 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.01**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,10 +14,11 @@
 | 2 | `www.zhenx.ai` | ¥1.46 | $0.2 / $1 | 7.3 | default | nemotron-3-ultra |
 | 3 | `autorouter.top` | ¥2 | $2 / $10 | 1 | ssvip | nemotron-3-ultra |
 | 4 | `botcf.com` | ¥2.01 | $2.01 / $10.05 | 1 | 🚄openweight-fast | nemotron-3-ultra |
-| 5 | `api.pie-xian.com` | ¥3.65 | $0.5 / $1.5 | 7.3 | 无限制 | nemotron-3-ultra |
-| 6 | `philia093.qzz.io` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | nemotron-3-ultra |
-| 7 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-ultra |
-| 8 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | zerot | nemotron-3-ultra-free |
+| 5 | `xn--15q04w3tg4kio0a.com` | ¥2.01 | $2.01 / $10.05 | 1 | 🚄openweight-fast | nemotron-3-ultra |
+| 6 | `api.pie-xian.com` | ¥3.65 | $0.5 / $1.5 | 7.3 | 无限制 | nemotron-3-ultra |
+| 7 | `philia093.qzz.io` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | nemotron-3-ultra |
+| 8 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-ultra |
+| 9 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | zerot | nemotron-3-ultra-free |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

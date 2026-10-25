@@ -1,6 +1,6 @@
 # hy4-preview
 
-> 250 站提供 · 正常价 175 站 · 名义中位价 **$1.18845**/1M 输入 · 实付中位价 **¥5.323**/1M 输入（143 站公开充值价） · 推算，未对账
+> 262 站提供 · 正常价 182 站 · 名义中位价 **$1.18845**/1M 输入 · 实付中位价 **¥5.361**/1M 输入（150 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,48 +20,48 @@
 | 8 | `cortexlane.cloud` | ¥0.3 | $0.3 / $0.9 | 1 | 国模 | hy4-preview |
 | 9 | `www.treeapi.online` | ¥0.3 | $0.3 / $0.9 | 1 | tree自营 | hy4-preview |
 | 10 | `api.toporeduce.cn` | ¥0.402 | $0.402 / $1.2 | 1 | 国产模型 | hy4-preview |
-| 11 | `momoapi.xin` | ¥0.48 | $0.48 / $1.44 | 1 | 自部署国模合集 | hy4-preview |
-| 12 | `ai.furry.vg` | ¥0.54 | $0.54 / $1.62 | 1 | default | hy4-preview |
-| 13 | `6666.sso.asia` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | hy4-preview |
-| 14 | `new.omniakey.com` | ¥0.66 | $0.66 / $1.98 | 1 | default | hy4-preview |
-| 15 | `cn.gptapi.asia` | ¥0.672 | $0.672 / $2.016 | 1 | default | hy4-preview |
-| 16 | `yutoapi.com` | ¥0.672 | $0.672 / $2.016 | 1 | default | hy4-preview |
-| 17 | `hetune.top` | ¥0.78 | $0.78 / $2.34 | 1 | 国模统一分组 | hy4-preview |
-| 18 | `crowllm.com` | ¥0.83 | $0.83 / $1.99 | 1 | pro | hy4-preview |
-| 19 | `easyrouter.io` | ¥0.834 | $0.834 / $2.501 | 1 | default | hy4-preview |
-| 20 | `coneverse.com` | ¥0.8925 | $0.892505 / $2.67751 | 1 | supply-549d729e642ecf33b0763e56 | hy4-preview |
-| 21 | `infistar.ai` | ¥0.8925 | $0.892505 / $2.67751 | 1 | supply-549d729e642ecf33b0763e56 | hy4-preview |
-| 22 | `1.cnmz.de` | ¥0.9 | $0.9 / $2.7 | 1 | 国模精品极致速度分组 | hy4-preview |
-| 23 | `api.qianmoguyu.cn` | ¥0.9 | $0.9 / $2.8 | 1 | glm拼车分组2 | hy4-preview |
-| 24 | `api.yjs.im` | ¥0.9 | $0.9 / $2.7 | 1 | OpenModels | hy4-preview |
-| 25 | `dragon3api.com` | ¥0.9 | $0.9 / $2.7 | 1 | 国模 | hy4-preview |
-| 26 | `getezo.com` | ¥0.9 | $0.9 / $2.7 | 1 | 国模精品极致速度分组 | hy4-preview |
-| 27 | `www.xpivot.top` | ¥0.9 | $0.9 / $2.7 | 1 | 国模二梯队 | hy4-preview |
-| 28 | `2api.me` | ¥0.949 | $0.13 / $0.18 | 7.3 | default | tencent/hy4-preview |
-| 29 | `new.weilai.chat` | ¥0.96 | $0.96 / $2.88 | 1 | 国模 | hy4-preview |
-| 30 | `api.polymer-ai.top` | ¥1.2 | $1.2 / $4.8 | 1 | 国模汇总-按量 | hy4-preview |
-| 31 | `api.tuftech.org` | ¥1.2 | $1.2 / $3.6 | 1 | HY-sale | hy4-preview |
-| 32 | `ifapi.org` | ¥1.238 | $0.18348 / $0.55022 | 6.75 | 智能熔断 | hy4-preview |
-| 33 | `www.fastapi.ltd` | ¥1.24 | $1.24 / $2.88 | 1 | 2-国产混合 | hy4-preview |
-| 34 | `api.aihub8.top` | ¥1.44 | $1.44 / $4.32 | 1 | 国模超低价_浮动倍率 | hy4-preview |
-| 35 | `beehears.com` | ¥1.5 | $1.5 / $4.5 | 1 | 🇨🇳 Made in China | hy4-preview |
-| 36 | `codeworksta.com` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型-额度计费 | hy4-preview |
-| 37 | `codex101.cf-cdn.site` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型-额度计费 | hy4-preview |
-| 38 | `images.beehears.com` | ¥1.5 | $1.5 / $4.5 | 1 | 🇨🇳 Made in China | hy4-preview |
-| 39 | `new-cdn.dg8.site` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型-额度计费 | hy4-preview |
-| 40 | `liangxinapi.top` | ¥1.8 | $1.8 / $5.4 | 1 | 低价国模 | hy4-preview |
-| 41 | `topapi.link` | ¥1.8 | $1.8 / $5.1 | 1 | 国产 | hy4-preview |
-| 42 | `api.arithcore.com` | ¥1.98 | $1.98 / $5.94 | 1 | 国模分组全有 | hy4-preview |
-| 43 | `tokenus.net` | ¥1.982 | $0.2919 / $0.87535 | 6.79 | default | hy4-preview |
-| 44 | `cdn.yorhamc.com` | ¥2.1 | $2.1 / $6.3 | 1 | default | hy4-preview |
-| 45 | `api.zdzui.xyz` | ¥2.204 | $2.204 / $6.65 | 1 | 国模 | hy4-preview |
-| 46 | `realmrouter.cn` | ¥2.262 | $0.3336 / $1.0004 | 6.78 | 国模 | hy4-preview |
-| 47 | `yetoken.vip` | ¥2.4 | $2.4 / $7.2 | 1 | H-百炼国模 | hy4-preview |
-| 48 | `zen-ai.top` | ¥2.4 | $2.4 / $7.2 | 1 | 开源 | hy4-preview |
-| 49 | `api3.kscsnkli.site` | ¥2.44 | $2.44 / $7.24 | 1 | 正常国模 | hy4-preview |
-| 50 | `api.zcloudapi.com` | ¥2.6 | $0.356164 / $1.42466 | 7.3 | 国产模型 | hy4-preview |
+| 11 | `api.tokenfreeperday.com` | ¥0.417 | $0.417 / $1.2505 | 1 | ALL | hy4-preview |
+| 12 | `momoapi.xin` | ¥0.48 | $0.48 / $1.44 | 1 | 自部署国模合集 | hy4-preview |
+| 13 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | Hy4-preview |
+| 14 | `ai.furry.vg` | ¥0.54 | $0.54 / $1.62 | 1 | default | hy4-preview |
+| 15 | `6666.sso.asia` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | hy4-preview |
+| 16 | `new.omniakey.com` | ¥0.66 | $0.66 / $1.98 | 1 | default | hy4-preview |
+| 17 | `cn.gptapi.asia` | ¥0.672 | $0.672 / $2.016 | 1 | default | hy4-preview |
+| 18 | `yutoapi.com` | ¥0.672 | $0.672 / $2.016 | 1 | default | hy4-preview |
+| 19 | `hetune.top` | ¥0.78 | $0.78 / $2.34 | 1 | 国模统一分组 | hy4-preview |
+| 20 | `crowllm.com` | ¥0.83 | $0.83 / $1.99 | 1 | pro | hy4-preview |
+| 21 | `easyrouter.io` | ¥0.834 | $0.834 / $2.501 | 1 | default | hy4-preview |
+| 22 | `coneverse.com` | ¥0.8925 | $0.892505 / $2.67751 | 1 | supply-549d729e642ecf33b0763e56 | hy4-preview |
+| 23 | `infistar.ai` | ¥0.8925 | $0.892505 / $2.67751 | 1 | supply-549d729e642ecf33b0763e56 | hy4-preview |
+| 24 | `1.cnmz.de` | ¥0.9 | $0.9 / $2.7 | 1 | 国模精品极致速度分组 | hy4-preview |
+| 25 | `api.qianmoguyu.cn` | ¥0.9 | $0.9 / $2.8 | 1 | glm拼车分组2 | hy4-preview |
+| 26 | `api.yjs.im` | ¥0.9 | $0.9 / $2.7 | 1 | OpenModels | hy4-preview |
+| 27 | `dragon3api.com` | ¥0.9 | $0.9 / $2.7 | 1 | 国模 | hy4-preview |
+| 28 | `getezo.com` | ¥0.9 | $0.9 / $2.7 | 1 | 国模精品极致速度分组 | hy4-preview |
+| 29 | `www.xpivot.top` | ¥0.9 | $0.9 / $2.7 | 1 | 国模二梯队 | hy4-preview |
+| 30 | `2api.me` | ¥0.949 | $0.13 / $0.18 | 7.3 | default | tencent/hy4-preview |
+| 31 | `new.weilai.chat` | ¥0.96 | $0.96 / $2.88 | 1 | 国模 | hy4-preview |
+| 32 | `api.polymer-ai.top` | ¥1.2 | $1.2 / $4.8 | 1 | 国模汇总-按量 | hy4-preview |
+| 33 | `api.tuftech.org` | ¥1.2 | $1.2 / $3.6 | 1 | HY-sale | hy4-preview |
+| 34 | `ifapi.org` | ¥1.238 | $0.18348 / $0.55022 | 6.75 | 智能熔断 | hy4-preview |
+| 35 | `www.fastapi.ltd` | ¥1.24 | $1.24 / $2.88 | 1 | 2-国产混合 | hy4-preview |
+| 36 | `api.aihub8.top` | ¥1.44 | $1.44 / $4.32 | 1 | 国模超低价_浮动倍率 | hy4-preview |
+| 37 | `beehears.com` | ¥1.5 | $1.5 / $4.5 | 1 | 🇨🇳 Made in China | hy4-preview |
+| 38 | `codeworksta.com` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型-额度计费 | hy4-preview |
+| 39 | `codex101.cf-cdn.site` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型-额度计费 | hy4-preview |
+| 40 | `images.beehears.com` | ¥1.5 | $1.5 / $4.5 | 1 | 🇨🇳 Made in China | hy4-preview |
+| 41 | `new-cdn.dg8.site` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型-额度计费 | hy4-preview |
+| 42 | `liangxinapi.top` | ¥1.8 | $1.8 / $5.4 | 1 | 低价国模 | hy4-preview |
+| 43 | `topapi.link` | ¥1.8 | $1.8 / $5.1 | 1 | 国产 | hy4-preview |
+| 44 | `api.arithcore.com` | ¥1.98 | $1.98 / $5.94 | 1 | 国模分组全有 | hy4-preview |
+| 45 | `tokenus.net` | ¥1.982 | $0.2919 / $0.87535 | 6.79 | default | hy4-preview |
+| 46 | `cdn.yorhamc.com` | ¥2.1 | $2.1 / $6.3 | 1 | default | hy4-preview |
+| 47 | `api.zdzui.xyz` | ¥2.204 | $2.204 / $6.65 | 1 | 国模 | hy4-preview |
+| 48 | `realmrouter.cn` | ¥2.262 | $0.3336 / $1.0004 | 6.78 | 国模 | hy4-preview |
+| 49 | `yetoken.vip` | ¥2.4 | $2.4 / $7.2 | 1 | H-百炼国模 | hy4-preview |
+| 50 | `zen-ai.top` | ¥2.4 | $2.4 / $7.2 | 1 | 开源 | hy4-preview |
 
-> 另有 93 站未列出。
+> 另有 100 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -100,4 +100,4 @@
 | 31 | `api.passionapi.com` | $12 / $36 | 按量【国模渠道】 | 1 | hy4-preview |
 | 32 | `vip.zen-ai.top` | $24 / $72 | deepseek | 4 | hy4-preview |
 
-> 75 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 80 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

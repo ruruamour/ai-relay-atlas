@@ -1,6 +1,6 @@
 # llama-3.1-405b-instruct
 
-> 87 站提供 · 正常价 78 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥9.5**/1M 输入（12 站公开充值价） · 推算，未对账
+> 90 站提供 · 正常价 80 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥10.4**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,9 +19,11 @@
 | 7 | `api.eido.top` | ¥10 | $10 / $60 | 1 | default | llama-3.1-405b-instruct |
 | 8 | `api.ocoolai.com` | ¥10.8 | $10.8 / $10.8 | 1 | default | meta-llama/Meta-Llama-3.1-405B-Instruct |
 | 9 | `ocool.cn` | ¥10.8 | $10.8 / $10.8 | 1 | default | meta-llama/Meta-Llama-3.1-405B-Instruct |
-| 10 | `botcf.com` | ¥12.06 | $12.06 / $12.06 | 1 | 🦙meta-mix | llama-3.1-405b-instruct |
-| 11 | `runapi.co` | ¥40.5 | $6 / $6 | 6.75 | default | meta-llama/llama-3.1-405b-instruct |
-| 12 | `nbapi.net` | ¥43.8 | $6 / $12 | 7.3 | default | llama-3.1-405b-instruct |
+| 10 | `one.ooo.cool` | ¥10.8 | $10.8 / $10.8 | 1 | default | meta-llama/Meta-Llama-3.1-405B-Instruct |
+| 11 | `botcf.com` | ¥12.06 | $12.06 / $12.06 | 1 | 🦙meta-mix | llama-3.1-405b-instruct |
+| 12 | `xn--15q04w3tg4kio0a.com` | ¥12.06 | $12.06 / $12.06 | 1 | 🦙meta-mix | llama-3.1-405b-instruct |
+| 13 | `runapi.co` | ¥40.5 | $6 / $6 | 6.75 | default | meta-llama/llama-3.1-405b-instruct |
+| 14 | `nbapi.net` | ¥43.8 | $6 / $12 | 7.3 | default | llama-3.1-405b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,4 +82,4 @@
 
 > 另有 16 站未列出。
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

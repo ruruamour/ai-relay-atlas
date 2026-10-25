@@ -1,6 +1,6 @@
 # ernie-3.5
 
-> 41 站提供 · 正常价 36 站 · 名义中位价 **$3.7144**/1M 输入 · 实付中位价 **¥3.714**/1M 输入（16 站公开充值价） · 推算，未对账
+> 42 站提供 · 正常价 37 站 · 名义中位价 **$3.7144**/1M 输入 · 实付中位价 **¥3.714**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,20 +12,21 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.ocoolai.com` | ¥0.76 | $0.76 / $1.9 | 1 | cn | ERNIE-3.5-128K |
 | 2 | `ocool.cn` | ¥0.76 | $0.76 / $1.9 | 1 | cn | ERNIE-3.5-128K |
-| 3 | `api.camel-hub.cn` | ¥2.229 | $2.7858 / $2.7858 | 0.8 | default | ERNIE-3.5-8K |
-| 4 | `api.camel-hub.com` | ¥2.229 | $2.7858 / $2.7858 | 0.8 | default | ERNIE-3.5-8K |
-| 5 | `api.kr777.top` | ¥2.229 | $2.7858 / $2.7858 | 0.8 | default | ERNIE-3.5-8K |
-| 6 | `api.ytea.top` | ¥3 | $3 / $3 | 1 | default | ERNIE-3.5-128K |
-| 7 | `api.new.bi` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
-| 8 | `i-sh.v1api.cc` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
-| 9 | `i.v1api.cc` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
-| 10 | `keypool.space` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
-| 11 | `xinsuanai.com` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
-| 12 | `api.vakv.cn` | ¥4.274 | $4.27397 / $4.27397 | 1 | 9999 | ERNIE-3.5-4K-0205 |
-| 13 | `tk.dmxapi.cn` | ¥8.219 | $1.64384 / $1.64384 | 5 | default | ERNIE-3.5-4K-0205 |
-| 14 | `kubernetes-test-api.apiqik.online` | ¥12 | $1.64384 / $1.64384 | 7.3 | default | ERNIE-3.5-4K-0205 |
-| 15 | `newapi.ailingnan.top` | ¥12 | $1.64384 / $1.64384 | 7.3 | default | ERNIE-3.5-4K-0205 |
-| 16 | `nbapi.net` | ¥27.12 | $3.7144 / $3.7144 | 7.3 | default | ERNIE-3.5-8K |
+| 3 | `one.ooo.cool` | ¥0.76 | $0.76 / $1.9 | 1 | cn | ERNIE-3.5-128K |
+| 4 | `api.camel-hub.cn` | ¥2.229 | $2.7858 / $2.7858 | 0.8 | default | ERNIE-3.5-8K |
+| 5 | `api.camel-hub.com` | ¥2.229 | $2.7858 / $2.7858 | 0.8 | default | ERNIE-3.5-8K |
+| 6 | `api.kr777.top` | ¥2.229 | $2.7858 / $2.7858 | 0.8 | default | ERNIE-3.5-8K |
+| 7 | `api.ytea.top` | ¥3 | $3 / $3 | 1 | default | ERNIE-3.5-128K |
+| 8 | `api.new.bi` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
+| 9 | `i-sh.v1api.cc` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
+| 10 | `i.v1api.cc` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
+| 11 | `keypool.space` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
+| 12 | `xinsuanai.com` | ¥3.714 | $3.7144 / $3.7144 | 1 | default | ERNIE-3.5-8K |
+| 13 | `api.vakv.cn` | ¥4.274 | $4.27397 / $4.27397 | 1 | 9999 | ERNIE-3.5-4K-0205 |
+| 14 | `tk.dmxapi.cn` | ¥8.219 | $1.64384 / $1.64384 | 5 | default | ERNIE-3.5-4K-0205 |
+| 15 | `kubernetes-test-api.apiqik.online` | ¥12 | $1.64384 / $1.64384 | 7.3 | default | ERNIE-3.5-4K-0205 |
+| 16 | `newapi.ailingnan.top` | ¥12 | $1.64384 / $1.64384 | 7.3 | default | ERNIE-3.5-4K-0205 |
+| 17 | `nbapi.net` | ¥27.12 | $3.7144 / $3.7144 | 7.3 | default | ERNIE-3.5-8K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

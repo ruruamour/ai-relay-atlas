@@ -1,6 +1,6 @@
 # qwen3-vl-235b-a22b
 
-> 109 站提供 · 正常价 93 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.9**/1M 输入（26 站公开充值价） · 推算，未对账
+> 114 站提供 · 正常价 95 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.9**/1M 输入（28 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,28 +14,30 @@
 | 2 | `580.4sapi.com` | ¥0.32 | $0.32 / $3.2 | 1 | qwen-claude | qwen3-vl-235b-a22b-thinking |
 | 3 | `cn.580ai.net` | ¥0.32 | $0.32 / $3.2 | 1 | qwen-claude | qwen3-vl-235b-a22b-thinking |
 | 4 | `poloai.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen3-vl-235b-a22b-thinking |
-| 5 | `api.qinzhiai.com` | ¥0.91 | $0.91 / $9.1 | 1 | openrouter | qwen/qwen3-vl-235b-a22b-thinking |
-| 6 | `api.eido.top` | ¥1 | $1 / $10 | 1 | default | qwen3-vl-235b-a22b |
-| 7 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-vl-235b-a22b-thinking |
-| 8 | `llm.kagu.one` | ¥1.048 | $0.1435 / $1.4335 | 7.3 | 大杂烩 | qwen/qwen3-vl-235b-a22b-thinking |
-| 9 | `runapi.co` | ¥1.096 | $0.1624 / $1.624 | 6.75 | default | qwen3-vl-235b-a22b-thinking |
-| 10 | `www.ggwk1.online` | ¥1.26 | $1.26 / $9.7776 | 1 | 开源模型组 | Qwen/Qwen3-VL-235B-A22B-Thinking |
-| 11 | `kfcv50.link` | ¥1.5 | $1.5 / $15 | 1 | cn_discount_0407_075 | qwen3-vl-235b-a22b-thinking |
-| 12 | `gpt777.top` | ¥1.6 | $1.6 / $16 | 1 | opensource | qwen3-vl-235b-a22b-thinking |
-| 13 | `claudecn.ai` | ¥1.8 | $1.8 / $18 | 1 | 国产模型 | qwen3-vl-235b-a22b-thinking |
-| 14 | `tokenone.net` | ¥2 | $0.2941 / $2.9412 | 6.8 | default | qwen3-vl-235b-a22b-thinking |
-| 15 | `keypool.space` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
-| 16 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
-| 17 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
-| 18 | `ssvip.dmxapi.com` | ¥2 | $0.274 / $2.74 | 7.3 | default | qwen3-vl-235b-a22b-thinking |
-| 19 | `yibuapi.com` | ¥2.4 | $1.6 / $16 | 1.5 | claude-code | qwen3-vl-235b-a22b-thinking |
-| 20 | `api.orcarouter.ai` | ¥2.92 | $0.4 / $4 | 7.3 | vip | qwen/qwen3-vl-235b-a22b-thinking |
-| 21 | `mb.dmxapi.cn` | ¥2.926 | $0.5852 / $5.8519 | 5 | default | qwen3-vl-235b-a22b-thinking |
-| 22 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-235b-a22b-thinking |
-| 23 | `cc.zhihuiapi.top` | ¥3.2 | $3.2 / $32 | 1 | qwen | qwen3-vl-235b-a22b-thinking |
-| 24 | `cn.zhihuiai.top` | ¥3.2 | $3.2 / $32 | 1 | qwen | qwen3-vl-235b-a22b-thinking |
-| 25 | `ai2.qiqiai.top` | ¥3.416 | $0.468 / $4.68 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-235b-a22b-thinking |
-| 26 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-235b-a22b-thinking |
+| 5 | `xy.poloapi.com` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen3-vl-235b-a22b-thinking |
+| 6 | `api.qinzhiai.com` | ¥0.91 | $0.91 / $9.1 | 1 | openrouter | qwen/qwen3-vl-235b-a22b-thinking |
+| 7 | `api.eido.top` | ¥1 | $1 / $10 | 1 | default | qwen3-vl-235b-a22b |
+| 8 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-vl-235b-a22b-thinking |
+| 9 | `llm.kagu.one` | ¥1.048 | $0.1435 / $1.4335 | 7.3 | 大杂烩 | qwen/qwen3-vl-235b-a22b-thinking |
+| 10 | `runapi.co` | ¥1.096 | $0.1624 / $1.624 | 6.75 | default | qwen3-vl-235b-a22b-thinking |
+| 11 | `www.ggwk1.online` | ¥1.26 | $1.26 / $9.7776 | 1 | 开源模型组 | Qwen/Qwen3-VL-235B-A22B-Thinking |
+| 12 | `kfcv50.link` | ¥1.5 | $1.5 / $15 | 1 | cn_discount_0407_075 | qwen3-vl-235b-a22b-thinking |
+| 13 | `gpt777.top` | ¥1.6 | $1.6 / $16 | 1 | opensource | qwen3-vl-235b-a22b-thinking |
+| 14 | `claudecn.ai` | ¥1.8 | $1.8 / $18 | 1 | 国产模型 | qwen3-vl-235b-a22b-thinking |
+| 15 | `tokenone.net` | ¥2 | $0.2941 / $2.9412 | 6.8 | default | qwen3-vl-235b-a22b-thinking |
+| 16 | `keypool.space` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
+| 17 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
+| 18 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
+| 19 | `ssvip.dmxapi.com` | ¥2 | $0.274 / $2.74 | 7.3 | default | qwen3-vl-235b-a22b-thinking |
+| 20 | `ai.bytonsec.com` | ¥2.4 | $2.4 / $24 | 1 | OpenRouter | qwen/qwen3-vl-235b-a22b-thinking |
+| 21 | `yibuapi.com` | ¥2.4 | $1.6 / $16 | 1.5 | claude-code | qwen3-vl-235b-a22b-thinking |
+| 22 | `api.orcarouter.ai` | ¥2.92 | $0.4 / $4 | 7.3 | vip | qwen/qwen3-vl-235b-a22b-thinking |
+| 23 | `mb.dmxapi.cn` | ¥2.926 | $0.5852 / $5.8519 | 5 | default | qwen3-vl-235b-a22b-thinking |
+| 24 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-235b-a22b-thinking |
+| 25 | `cc.zhihuiapi.top` | ¥3.2 | $3.2 / $32 | 1 | qwen | qwen3-vl-235b-a22b-thinking |
+| 26 | `cn.zhihuiai.top` | ¥3.2 | $3.2 / $32 | 1 | qwen | qwen3-vl-235b-a22b-thinking |
+| 27 | `ai2.qiqiai.top` | ¥3.416 | $0.468 / $4.68 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-235b-a22b-thinking |
+| 28 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-235b-a22b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -94,4 +96,4 @@
 
 > 另有 17 站未列出。
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

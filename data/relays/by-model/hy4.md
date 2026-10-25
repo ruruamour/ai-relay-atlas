@@ -1,6 +1,6 @@
 # hy4
 
-> 60 站提供 · 正常价 30 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.668**/1M 输入（17 站公开充值价） · 推算，未对账
+> 64 站提供 · 正常价 31 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.584**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,19 +14,20 @@
 | 2 | `router.cheap` | ¥0.264 | $0.264 / $1.056 | 1 | default | hy4 |
 | 3 | `us-api.x5m5x.com` | ¥0.3 | $0.3 / $0.9 | 1 | 国模自营（1号主力池） | hy4 |
 | 4 | `www.xpivot.top` | ¥0.48 | $0.48 / $1.44 | 1 | 其他国模 | hy4 |
-| 5 | `api.slomerex.xyz` | ¥1.2 | $1.2 / $3.6 | 1 | Hy | hy4 |
-| 6 | `api.mcapple.top` | ¥1.5 | $1.5 / $1.5 | 1 | ds | hy4 |
-| 7 | `api.shayugpt.top` | ¥1.5 | $1.5 / $4.5 | 1 | 官转-deepseek | hy4 |
-| 8 | `code.oai1.online` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型 | hy4 |
-| 9 | `api.hohai.eu.org` | ¥1.668 | $1.668 / $5.002 | 1 | default | hy4 |
-| 10 | `liangxinapi.top` | ¥1.8 | $1.8 / $5.4 | 1 | 低价国模 | hy4 |
-| 11 | `tokenus.net` | ¥1.982 | $0.2919 / $0.8754 | 6.79 | default | hy4 |
-| 12 | `cdn.yorhamc.com` | ¥2.1 | $2.1 / $6.3 | 1 | default | hy4 |
-| 13 | `api.celestiai.dev` | ¥2.162 | $2.04 / $6.12 | 1.06 | 国产 | hy4 |
-| 14 | `closedai.kylenqaq.com` | ¥3.375 | $3.375 / $3.375 | 1 | 国模2 | hy4 |
-| 15 | `top.qingyuntop.top` | ¥4.2 | $4.2 / $12.6 | 1 | 国内模型 | hy4 |
-| 16 | `cf.a-piko.top` | ¥6 | $6 / $18 | 1 | 国模统一分组 | hy4 |
-| 17 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | 幻1 | hy4 |
+| 5 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | hy4 |
+| 6 | `api.slomerex.xyz` | ¥1.2 | $1.2 / $3.6 | 1 | Hy | hy4 |
+| 7 | `api.mcapple.top` | ¥1.5 | $1.5 / $1.5 | 1 | ds | hy4 |
+| 8 | `api.shayugpt.top` | ¥1.5 | $1.5 / $4.5 | 1 | 官转-deepseek | hy4 |
+| 9 | `code.oai1.online` | ¥1.5 | $1.5 / $4.5 | 1 | 国产模型 | hy4 |
+| 10 | `api.hohai.eu.org` | ¥1.668 | $1.668 / $5.002 | 1 | default | hy4 |
+| 11 | `liangxinapi.top` | ¥1.8 | $1.8 / $5.4 | 1 | 低价国模 | hy4 |
+| 12 | `tokenus.net` | ¥1.982 | $0.2919 / $0.8754 | 6.79 | default | hy4 |
+| 13 | `cdn.yorhamc.com` | ¥2.1 | $2.1 / $6.3 | 1 | default | hy4 |
+| 14 | `api.celestiai.dev` | ¥2.162 | $2.04 / $6.12 | 1.06 | 国产 | hy4 |
+| 15 | `closedai.kylenqaq.com` | ¥3.375 | $3.375 / $3.375 | 1 | 国模2 | hy4 |
+| 16 | `top.qingyuntop.top` | ¥4.2 | $4.2 / $12.6 | 1 | 国内模型 | hy4 |
+| 17 | `cf.a-piko.top` | ¥6 | $6 / $18 | 1 | 国模统一分组 | hy4 |
+| 18 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | 幻1 | hy4 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -46,4 +47,4 @@
 | 12 | `inferaichat.com` | $1.96 / $3.92 | 国模分组 | 0.7 | hy4 |
 | 13 | `ccmaxshop.de5.net` | $18 / $54 | OpenAI-国模 | 3 | hy4 |
 
-> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 33 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

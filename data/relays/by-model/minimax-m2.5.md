@@ -1,6 +1,6 @@
 # minimax-m2.5
 
-> 412 站提供 · 正常价 333 站 · 名义中位价 **$1.26**/1M 输入 · 实付中位价 **¥1.687**/1M 输入（237 站公开充值价） · 推算，未对账
+> 434 站提供 · 正常价 348 站 · 名义中位价 **$1.23**/1M 输入 · 实付中位价 **¥1.687**/1M 输入（251 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -50,18 +50,18 @@
 | 38 | `hk.moleapi.com` | ¥0.6202 | $0.0912 / $0.3648 | 6.8 | relay | MiniMax-M2.5 |
 | 39 | `layso.ai` | ¥0.6299 | $0.62985 / $3.66925 | 1 | MiniMax-1 | minimax-m2.5 |
 | 40 | `new.tianluo.ccwu.cc` | ¥0.63 | $0.63 / $2.52 | 1 | 国产小分队 | MiniMax-M2.5 |
-| 41 | `api.pezayo.com` | ¥0.73 | $0.1 / $0.1 | 7.3 | coding anthropic | MiniMax-M2.5 |
-| 42 | `shanyiapi.com` | ¥0.735 | $0.735 / $2.94 | 1 | vip_ch | MiniMax-M2.5 |
-| 43 | `mgrouter.com` | ¥0.7956 | $0.117 / $0.468 | 6.8 | Minimax-M2.5-原厂标准版-3.9折 | MiniMax-M2.5 |
-| 44 | `tokensupply.ai` | ¥0.8 | $0.8 / $3.5 | 1 | default | minimax-m2.5 |
-| 45 | `mydamoxing.cn` | ¥0.84 | $0.84 / $3.36 | 1 | minimax | MiniMax-M2.5 |
-| 46 | `zen-ai.top` | ¥0.84 | $0.84 / $3.36 | 1 | 开源 | minimax-m2.5 |
-| 47 | `fluxa.camila.qzz.io` | ¥0.8652 | $0.84 / $3.36 | 1.03 | 国模 | MiniMax-M2.5 |
-| 48 | `www.yuluapi.com` | ¥0.9 | $0.9 / $1.8 | 1 | default | minimax-m2.5 |
-| 49 | `faroapi.com` | ¥1 | $1 / $5 | 1 | default | minimax-m2.5 |
-| 50 | `api.openlux.ai` | ¥1.008 | $0.15 / $0.6 | 6.718 | Self-Deployed-2 | MiniMax-M2.5 |
+| 41 | `ai.mowen.vip` | ¥0.6482 | $0.0969 / $0.0969 | 6.6892 | default | MiniMax-M2.5 |
+| 42 | `api.pezayo.com` | ¥0.73 | $0.1 / $0.1 | 7.3 | coding anthropic | MiniMax-M2.5 |
+| 43 | `shanyiapi.com` | ¥0.735 | $0.735 / $2.94 | 1 | vip_ch | MiniMax-M2.5 |
+| 44 | `mgrouter.com` | ¥0.7956 | $0.117 / $0.468 | 6.8 | Minimax-M2.5-原厂标准版-3.9折 | MiniMax-M2.5 |
+| 45 | `tokensupply.ai` | ¥0.8 | $0.8 / $3.5 | 1 | default | minimax-m2.5 |
+| 46 | `mydamoxing.cn` | ¥0.84 | $0.84 / $3.36 | 1 | minimax | MiniMax-M2.5 |
+| 47 | `zen-ai.top` | ¥0.84 | $0.84 / $3.36 | 1 | 开源 | minimax-m2.5 |
+| 48 | `fluxa.camila.qzz.io` | ¥0.8652 | $0.84 / $3.36 | 1.03 | 国模 | MiniMax-M2.5 |
+| 49 | `www.yuluapi.com` | ¥0.9 | $0.9 / $1.8 | 1 | default | minimax-m2.5 |
+| 50 | `faroapi.com` | ¥1 | $1 / $5 | 1 | default | minimax-m2.5 |
 
-> 另有 187 站未列出。
+> 另有 201 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `api.zhiyikeji.cn` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
 | 50 | `api.zhongzhuan.chat` | $2.1 / $8.4 | default | 1 | MiniMax-M2.5 |
 
-> 另有 46 站未列出。
+> 另有 47 站未列出。
 
-> 79 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 86 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

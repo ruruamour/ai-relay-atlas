@@ -1,6 +1,6 @@
 # space-bunny
 
-> 34 站提供 · 正常价 7 站 · 名义中位价 **$0.201**/1M 输入 · 实付中位价 **¥0.8213**/1M 输入（6 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 9 站 · 名义中位价 **$0.201**/1M 输入 · 实付中位价 **¥0.5237**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,10 +12,12 @@
 |---|---|---|---|---|---|---|
 | 1 | `ai.lfree.org` | ¥0.0876 | $0.012 / $0.021 | 7.3 | claude | space-bunny |
 | 2 | `botcf.com` | ¥0.201 | $0.201 / $0.603 | 1 | 🚄openweight-fast | space-bunny |
-| 3 | `6666.sso.asia` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | space-bunny |
-| 4 | `api.mgoole.com` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | space-bunny |
-| 5 | `api.new.bi` | ¥3 | $3 / $15 | 1 | default | space-bunny |
-| 6 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | [暴富]space-bunny |
+| 3 | `xn--15q04w3tg4kio0a.com` | ¥0.201 | $0.201 / $0.603 | 1 | 🚄openweight-fast | space-bunny |
+| 4 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | space-bunny |
+| 5 | `6666.sso.asia` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | space-bunny |
+| 6 | `api.mgoole.com` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | space-bunny |
+| 7 | `api.new.bi` | ¥3 | $3 / $15 | 1 | default | space-bunny |
+| 8 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | [暴富]space-bunny |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

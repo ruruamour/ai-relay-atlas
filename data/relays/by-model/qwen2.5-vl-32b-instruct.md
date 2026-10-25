@@ -1,6 +1,6 @@
 # qwen2.5-vl-32b-instruct
 
-> 56 站提供 · 正常价 41 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥8**/1M 输入（21 站公开充值价） · 推算，未对账
+> 59 站提供 · 正常价 43 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥8**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,23 +14,25 @@
 | 2 | `api.eido.top` | ¥1 | $1 / $4 | 1 | default | qwen2.5-vl-32b-instruct |
 | 3 | `www.mrouter.com` | ¥1.142 | $1.142 / $3.428 | 1 | sp1 | Qwen2.5-VL-32B-Instruct |
 | 4 | `poloai.top` | ¥1.26 | $1.26 / $3.78 | 1 | qwen-new | qwen2.5-vl-32b-instruct |
-| 5 | `api.zyai.online` | ¥4 | $4 / $12 | 1 | mini | qwen2.5-vl-32b-instruct |
-| 6 | `platform.anyrouter.ai` | ¥4.8 | $4.8 / $14.4 | 1 | official_cn | qwen2.5-vl-32b-instruct |
-| 7 | `kfcv50.link` | ¥6 | $6 / $18 | 1 | cn_discount_0407_075 | qwen2.5-vl-32b-instruct |
-| 8 | `gpt777.top` | ¥6.4 | $6.4 / $19.2 | 1 | opensource | qwen2.5-vl-32b-instruct |
-| 9 | `hk.moleapi.com` | ¥7.888 | $1.16 / $3.48 | 6.8 | default | qwen2.5-vl-32b-instruct |
-| 10 | `api.new.bi` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
-| 11 | `keypool.space` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
-| 12 | `xinsuanai.com` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
-| 13 | `cc.zhihuiapi.top` | ¥12.8 | $12.8 / $38.4 | 1 | qwen | qwen2.5-vl-32b-instruct |
-| 14 | `cn.zhihuiai.top` | ¥12.8 | $12.8 / $38.4 | 1 | qwen | qwen2.5-vl-32b-instruct |
-| 15 | `api.ifopen.ai` | ¥28 | $8 / $24 | 3.5 | default | qwen2.5-vl-32b-instruct |
-| 16 | `api2.aigcbest.top` | ¥28 | $8 / $24 | 3.5 | default | qwen2.5-vl-32b-instruct |
-| 17 | `hy88.my` | ¥35.04 | $4.8 / $14.4 | 7.3 | qwen | qwen2.5-vl-32b-instruct |
-| 18 | `api.qiqiai.top` | ¥37.5 | $18.75 / $18.75 | 2 | 国产模型系列 | Qwen2.5-VL-32B-Instruct |
-| 19 | `kaopuapi.com` | ¥58.4 | $8 / $24 | 7.3 | cn1 | Qwen2.5-VL-32B-Instruct |
-| 20 | `mrouter.cn` | ¥58.4 | $8 / $24 | 7.3 | cn1 | Qwen2.5-VL-32B-Instruct |
-| 21 | `one.zhihuiapi.top` | ¥58.4 | $8 / $24 | 7.3 | qwen3 | qwen2.5-vl-32b-instruct |
+| 5 | `xy.poloapi.com` | ¥1.26 | $1.26 / $3.78 | 1 | qwen-new | qwen2.5-vl-32b-instruct |
+| 6 | `api.zyai.online` | ¥4 | $4 / $12 | 1 | mini | qwen2.5-vl-32b-instruct |
+| 7 | `platform.anyrouter.ai` | ¥4.8 | $4.8 / $14.4 | 1 | official_cn | qwen2.5-vl-32b-instruct |
+| 8 | `kfcv50.link` | ¥6 | $6 / $18 | 1 | cn_discount_0407_075 | qwen2.5-vl-32b-instruct |
+| 9 | `gpt777.top` | ¥6.4 | $6.4 / $19.2 | 1 | opensource | qwen2.5-vl-32b-instruct |
+| 10 | `hk.moleapi.com` | ¥7.888 | $1.16 / $3.48 | 6.8 | default | qwen2.5-vl-32b-instruct |
+| 11 | `api.aiskt.com` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
+| 12 | `api.new.bi` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
+| 13 | `keypool.space` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
+| 14 | `xinsuanai.com` | ¥8 | $8 / $24 | 1 | default | qwen2.5-vl-32b-instruct |
+| 15 | `cc.zhihuiapi.top` | ¥12.8 | $12.8 / $38.4 | 1 | qwen | qwen2.5-vl-32b-instruct |
+| 16 | `cn.zhihuiai.top` | ¥12.8 | $12.8 / $38.4 | 1 | qwen | qwen2.5-vl-32b-instruct |
+| 17 | `api.ifopen.ai` | ¥28 | $8 / $24 | 3.5 | default | qwen2.5-vl-32b-instruct |
+| 18 | `api2.aigcbest.top` | ¥28 | $8 / $24 | 3.5 | default | qwen2.5-vl-32b-instruct |
+| 19 | `hy88.my` | ¥35.04 | $4.8 / $14.4 | 7.3 | qwen | qwen2.5-vl-32b-instruct |
+| 20 | `api.qiqiai.top` | ¥37.5 | $18.75 / $18.75 | 2 | 国产模型系列 | Qwen2.5-VL-32B-Instruct |
+| 21 | `kaopuapi.com` | ¥58.4 | $8 / $24 | 7.3 | cn1 | Qwen2.5-VL-32B-Instruct |
+| 22 | `mrouter.cn` | ¥58.4 | $8 / $24 | 7.3 | cn1 | Qwen2.5-VL-32B-Instruct |
+| 23 | `one.zhihuiapi.top` | ¥58.4 | $8 / $24 | 7.3 | qwen3 | qwen2.5-vl-32b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -57,4 +59,4 @@
 | 19 | `yuli.host` | $8 / $24 | default | 1 | qwen2.5-vl-32b-instruct |
 | 20 | `liangjiewis.com` | $11.4062 / $34.2188 | self-hosted | 1 | Qwen/Qwen2.5-VL-32B-Instruct |
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

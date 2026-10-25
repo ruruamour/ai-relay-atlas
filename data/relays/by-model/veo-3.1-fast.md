@@ -1,6 +1,6 @@
 # veo-3.1-fast
 
-> 34 站提供 · 正常价 26 站 · 名义中位价 **$0.3**/次 · 实付中位价 **¥0.6**/次（23 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 27 站 · 名义中位价 **$0.3**/次 · 实付中位价 **¥0.55**/次（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,19 +20,20 @@
 | 8 | `api.uiuihao.com` | ¥0.3244 | $0.1017 | 3.19 | s-video | veo-3.1-fast |
 | 9 | `sg.uiuiapi.com` | ¥0.3244 | $0.1017 | 3.19 | s-video | veo-3.1-fast |
 | 10 | `chrisapivip.com` | ¥0.45 | $0.45 | 1 | veo3-omini | veo-3.1-fast |
-| 11 | `vip.brioi.com` | ¥0.5 | $0.5 | 1 | default | veo-3.1-fast |
-| 12 | `api.openai-labs.com` | ¥0.6 | $0.6 | 1 | default | veo-3.1-fast |
-| 13 | `a6api.com` | ¥0.688 | $0.1 | 6.88 | default | veo-3.1-fast |
-| 14 | `new.lingyicai.xyz` | ¥0.73 | $0.1 | 7.3 | Veo | veo-3.1-fast |
-| 15 | `qiye.kpzhu.com` | ¥0.73 | $0.1 | 7.3 | veo | veo-3.1-fast |
-| 16 | `ergouzi.life` | ¥1.08 | $0.147945 | 7.3 | cande-video | veo-3.1-fast |
-| 17 | `ccapi.ai` | ¥1.159 | $0.168 | 6.9 | gemini-video-A | veo-3.1-fast |
-| 18 | `llm-hub.top` | ¥3.4 | $3.4 | 1 | default | veo-3.1-fast-4k |
-| 19 | `us1.tonbirds.com` | ¥3.5 | $3.5 | 1 | 视频 | veo-3.1-fast |
-| 20 | `2api.powerapi.cc` | ¥7.3 | $1 | 7.3 | veo | veo-3.1-fast |
-| 21 | `dashboard.powerapi.cc` | ¥7.3 | $1 | 7.3 | veo | veo-3.1-fast |
-| 22 | `new.vbcoding.cc` | ¥8 | $8 | 1 | Gemini-反重力（Banana2） | veo-3.1-fast |
-| 23 | `hk.rootflowai.com` | ¥9 | $0.9 | 10 | Veo视频生成 | veo-3.1-fast |
+| 11 | `api.aiskt.com` | ¥0.5 | $0.5 | 1 | default | veo-3.1-fast |
+| 12 | `vip.brioi.com` | ¥0.5 | $0.5 | 1 | default | veo-3.1-fast |
+| 13 | `api.openai-labs.com` | ¥0.6 | $0.6 | 1 | default | veo-3.1-fast |
+| 14 | `a6api.com` | ¥0.688 | $0.1 | 6.88 | default | veo-3.1-fast |
+| 15 | `new.lingyicai.xyz` | ¥0.73 | $0.1 | 7.3 | Veo | veo-3.1-fast |
+| 16 | `qiye.kpzhu.com` | ¥0.73 | $0.1 | 7.3 | veo | veo-3.1-fast |
+| 17 | `ergouzi.life` | ¥1.08 | $0.147945 | 7.3 | cande-video | veo-3.1-fast |
+| 18 | `ccapi.ai` | ¥1.159 | $0.168 | 6.9 | gemini-video-A | veo-3.1-fast |
+| 19 | `llm-hub.top` | ¥3.4 | $3.4 | 1 | default | veo-3.1-fast-4k |
+| 20 | `us1.tonbirds.com` | ¥3.5 | $3.5 | 1 | 视频 | veo-3.1-fast |
+| 21 | `2api.powerapi.cc` | ¥7.3 | $1 | 7.3 | veo | veo-3.1-fast |
+| 22 | `dashboard.powerapi.cc` | ¥7.3 | $1 | 7.3 | veo | veo-3.1-fast |
+| 23 | `new.vbcoding.cc` | ¥8 | $8 | 1 | Gemini-反重力（Banana2） | veo-3.1-fast |
+| 24 | `hk.rootflowai.com` | ¥9 | $0.9 | 10 | Veo视频生成 | veo-3.1-fast |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

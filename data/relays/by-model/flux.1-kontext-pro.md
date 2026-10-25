@@ -1,6 +1,6 @@
 # flux.1-kontext-pro
 
-> 123 站提供 · 正常价 118 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.2483**/次（52 站公开充值价） · 推算，未对账
+> 128 站提供 · 正常价 122 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.2483**/次（56 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,48 +20,48 @@
 | 8 | `api.relayrouter.ai` | ¥0.1774 | $0.0264 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
 | 9 | `openlux.zhongzhuan.chat` | ¥0.1774 | $0.0264 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
 | 10 | `new.foxi-api.cn` | ¥0.18 | $0.18 | 1 | 纯AZ | flux.1-kontext-pro |
-| 11 | `api.tidewhisper-ai.xyz` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 12 | `gzxbykj.com` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 13 | `yunwu.org` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 14 | `v2.cloudmist.cloud` | ¥0.204 | $0.03036 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 15 | `www.vectronode.com` | ¥0.2128 | $0.03168 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 16 | `apiclaw.cn` | ¥0.2146 | $0.031944 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 17 | `newapi.xueai.me` | ¥0.2146 | $0.031944 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 18 | `wodapis.com` | ¥0.2146 | $0.031944 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 19 | `ciyuan.today` | ¥0.2217 | $0.033 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 20 | `gptapi.top` | ¥0.2217 | $0.033 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 21 | `makerend.com` | ¥0.2217 | $0.033 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 22 | `moliapi.com` | ¥0.2235 | $0.033264 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 23 | `ai-api.cc` | ¥0.2306 | $0.03432 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 24 | `nodapi.com` | ¥0.2341 | $0.034848 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 25 | `anyaigc.ai` | ¥0.2394 | $0.03564 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 26 | `sheepaiplus.top` | ¥0.2483 | $0.03696 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 27 | `xiguapi.icu` | ¥0.2483 | $0.03696 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 28 | `api.88api.chat` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 29 | `api.88api.shop` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 30 | `api.videocaptioner.cn` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 31 | `new.aigc2d.com` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 32 | `oyy-ai.xyz` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 33 | `infai.cc` | ¥0.2802 | $0.041712 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 34 | `v3.yunai.link` | ¥0.292 | $0.04 | 7.3 | default | flux.1-kontext-pro |
-| 35 | `api.nixapi.com` | ¥0.2997 | $0.044616 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 36 | `aiwuje.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 37 | `api.cursorai.art` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 38 | `api.echoflowai.cc` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 39 | `api.n1n.ai` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 40 | `api.quickrouter.ai` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 41 | `jeniya.cn` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 42 | `linoapi.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 43 | `llm-api.net` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 44 | `quanzil.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 45 | `token173.net` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 46 | `tryallapi.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 47 | `wellapi.ai` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 48 | `thousandengine.com` | ¥0.3609 | $0.053724 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 49 | `layso.ai` | ¥0.39 | $0.39 | 1 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 50 | `laysoai.com` | ¥0.39 | $0.39 | 1 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 11 | `4zapi.com` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 12 | `api.tidewhisper-ai.xyz` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 13 | `gzxbykj.com` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 14 | `yunwu.org` | ¥0.1951 | $0.02904 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 15 | `api.antmoo.cc` | ¥0.204 | $0.03036 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 16 | `v2.cloudmist.cloud` | ¥0.204 | $0.03036 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 17 | `www.vectronode.com` | ¥0.2128 | $0.03168 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 18 | `apiclaw.cn` | ¥0.2146 | $0.031944 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 19 | `newapi.xueai.me` | ¥0.2146 | $0.031944 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 20 | `wodapis.com` | ¥0.2146 | $0.031944 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 21 | `ciyuan.today` | ¥0.2217 | $0.033 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 22 | `gptapi.top` | ¥0.2217 | $0.033 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 23 | `makerend.com` | ¥0.2217 | $0.033 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 24 | `moliapi.com` | ¥0.2235 | $0.033264 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 25 | `ai-api.cc` | ¥0.2306 | $0.03432 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 26 | `nodapi.com` | ¥0.2341 | $0.034848 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 27 | `anyaigc.ai` | ¥0.2394 | $0.03564 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 28 | `sheepaiplus.top` | ¥0.2483 | $0.03696 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 29 | `xiguapi.icu` | ¥0.2483 | $0.03696 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 30 | `api.88api.chat` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 31 | `api.88api.shop` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 32 | `api.videocaptioner.cn` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 33 | `lanbuff.app` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 34 | `new.aigc2d.com` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 35 | `oyy-ai.xyz` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 36 | `infai.cc` | ¥0.2802 | $0.041712 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 37 | `v3.yunai.link` | ¥0.292 | $0.04 | 7.3 | default | flux.1-kontext-pro |
+| 38 | `api.nixapi.com` | ¥0.2997 | $0.044616 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 39 | `aiwuje.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 40 | `api.cursorai.art` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 41 | `api.echoflowai.cc` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 42 | `api.n1n.ai` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 43 | `api.quickrouter.ai` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 44 | `jeniya.cn` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 45 | `linoapi.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 46 | `linoroute.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 47 | `llm-api.net` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 48 | `quanzil.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 49 | `token173.net` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 50 | `tryallapi.com` | ¥0.3547 | $0.0528 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
 
-> 另有 2 站未列出。
+> 另有 6 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 16 站未列出。
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

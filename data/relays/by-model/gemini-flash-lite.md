@@ -1,6 +1,6 @@
 # gemini-flash-lite
 
-> 241 站提供 · 正常价 198 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥0.3557**/1M 输入（115 站公开充值价） · 推算，未对账
+> 248 站提供 · 正常价 204 站 · 名义中位价 **$0.36**/1M 输入 · 实付中位价 **¥0.3557**/1M 输入（121 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,46 +22,46 @@
 | 10 | `api.openlux.ai` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
 | 11 | `api.relayrouter.ai` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
 | 12 | `openlux.zhongzhuan.chat` | ¥0.1778 | $0.026471 / $0.105884 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 13 | `api.tidewhisper-ai.xyz` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 14 | `gzxbykj.com` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 15 | `yunwu.org` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 16 | `8s.hk` | ¥0.2 | $0.2 / $0.8 | 1 | 全模型自动 | gemini-flash-lite-latest-nothinking |
-| 17 | `zen-ai.top` | ¥0.2 | $0.2 / $0.8 | 1 | 优质gemini | gemini-flash-lite-latest |
-| 18 | `api.cloudpass.space` | ¥0.204 | $0.2 / $0.8 | 1.02 | gemini官转 | gemini-flash-lite-latest |
-| 19 | `v2.cloudmist.cloud` | ¥0.2045 | $0.0304417 / $0.121767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 20 | `www.vectronode.com` | ¥0.2134 | $0.0317652 / $0.127061 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 21 | `apiclaw.cn` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 22 | `newapi.xueai.me` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 23 | `wodapis.com` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 24 | `ent.yzcld.com` | ¥0.2222 | $0.22 / $0.88 | 1.01 | Gemini-T3 | gemini-flash-lite-latest |
-| 25 | `ciyuan.today` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 26 | `gptapi.top` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 27 | `makerend.com` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 28 | `moliapi.com` | ¥0.2241 | $0.0333535 / $0.133414 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 29 | `ai-api.cc` | ¥0.2312 | $0.0344123 / $0.137649 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 30 | `nodapi.com` | ¥0.2347 | $0.0349417 / $0.139767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 31 | `test-api.apiqik.online` | ¥0.238 | $0.034 / $0.136 | 7 | vertex/sp/gemini | gemini-flash-lite-latest |
-| 32 | `anyaigc.ai` | ¥0.2401 | $0.0357359 / $0.142943 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 33 | `sheepaiplus.top` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 34 | `xiguapi.icu` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 35 | `www.micuapi.ai` | ¥0.25 | $0.25 / $1.5 | 1 | - | gemini-flash-lite-latest |
-| 36 | `api.88api.chat` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 37 | `api.88api.shop` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 38 | `api.videocaptioner.cn` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 39 | `new.aigc2d.com` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 40 | `oyy-ai.xyz` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 41 | `hboom.ai` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
-| 42 | `hk.hbapis.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
-| 43 | `mgrouter.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest |
-| 44 | `layso.ai` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 45 | `laysoai.com` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 46 | `infai.cc` | ¥0.281 | $0.0418242 / $0.167297 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
-| 47 | `api.xpluse.plus` | ¥0.29 | $0.29 / $1.16 | 1 | gemini-T3 | gemini-flash-lite-latest |
-| 48 | `coneverse.com` | ¥0.3 | $0.3 / $2.5 | 1 | supply-8c15a26f548d079b26b2c1a7 | gemini-flash-lite-latest |
-| 49 | `infistar.ai` | ¥0.3 | $0.3 / $2.5 | 1 | supply-eb984d151ea1c80c1fc30d6b | gemini-flash-lite-latest |
-| 50 | `api.nixapi.com` | ¥0.3005 | $0.044736 / $0.178944 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 13 | `4zapi.com` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 14 | `api.tidewhisper-ai.xyz` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 15 | `gzxbykj.com` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 16 | `yunwu.org` | ¥0.1956 | $0.0291181 / $0.116472 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 17 | `8s.hk` | ¥0.2 | $0.2 / $0.8 | 1 | 全模型自动 | gemini-flash-lite-latest-nothinking |
+| 18 | `zen-ai.top` | ¥0.2 | $0.2 / $0.8 | 1 | 优质gemini | gemini-flash-lite-latest |
+| 19 | `api.cloudpass.space` | ¥0.204 | $0.2 / $0.8 | 1.02 | gemini官转 | gemini-flash-lite-latest |
+| 20 | `api.antmoo.cc` | ¥0.2045 | $0.0304417 / $0.121767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 21 | `v2.cloudmist.cloud` | ¥0.2045 | $0.0304417 / $0.121767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 22 | `www.vectronode.com` | ¥0.2134 | $0.0317652 / $0.127061 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 23 | `apiclaw.cn` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 24 | `newapi.xueai.me` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 25 | `wodapis.com` | ¥0.2152 | $0.0320299 / $0.12812 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 26 | `ent.yzcld.com` | ¥0.2222 | $0.22 / $0.88 | 1.01 | Gemini-T3 | gemini-flash-lite-latest |
+| 27 | `ciyuan.today` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 28 | `gptapi.top` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 29 | `makerend.com` | ¥0.2223 | $0.0330888 / $0.132355 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 30 | `moliapi.com` | ¥0.2241 | $0.0333535 / $0.133414 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 31 | `ai-api.cc` | ¥0.2312 | $0.0344123 / $0.137649 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 32 | `nodapi.com` | ¥0.2347 | $0.0349417 / $0.139767 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 33 | `test-api.apiqik.online` | ¥0.238 | $0.034 / $0.136 | 7 | vertex/sp/gemini | gemini-flash-lite-latest |
+| 34 | `anyaigc.ai` | ¥0.2401 | $0.0357359 / $0.142943 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 35 | `sheepaiplus.top` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 36 | `xiguapi.icu` | ¥0.249 | $0.0370594 / $0.148238 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 37 | `www.micuapi.ai` | ¥0.25 | $0.25 / $1.5 | 1 | - | gemini-flash-lite-latest |
+| 38 | `api.88api.chat` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 39 | `api.88api.shop` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 40 | `api.videocaptioner.cn` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 41 | `lanbuff.app` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 42 | `new.aigc2d.com` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 43 | `oyy-ai.xyz` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 44 | `hboom.ai` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
+| 45 | `hk.hbapis.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-flash-lite-latest |
+| 46 | `mgrouter.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest |
+| 47 | `layso.ai` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 48 | `laysoai.com` | ¥0.273 | $0.273 / $1.092 | 1 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 49 | `infai.cc` | ¥0.281 | $0.0418242 / $0.167297 | 6.718 | Aistudio-Gemini-2 | gemini-flash-lite-latest |
+| 50 | `api.xpluse.plus` | ¥0.29 | $0.29 / $1.16 | 1 | gemini-T3 | gemini-flash-lite-latest |
 
-> 另有 65 站未列出。
+> 另有 71 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 33 站未列出。
 
-> 43 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 44 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

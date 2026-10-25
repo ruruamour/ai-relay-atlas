@@ -1,6 +1,6 @@
 # llama-3.2-90b-vision-instruct
 
-> 162 站提供 · 正常价 126 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥25.19**/1M 输入（61 站公开充值价） · 推算，未对账
+> 170 站提供 · 正常价 132 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥25.19**/1M 输入（67 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | meta/llama-3.2-90b-vision-instruct |
 | 2 | `www.ggwk1.online` | ¥0.98 | $0.98 / $1.1172 | 1 | 开源模型组 | llama-3.2-90b-vision-instruct |
 | 3 | `botcf.com` | ¥1.224 | $1.224 / $1.224 | 1 | 🦙meta-mix | llama-3.2-90b-vision-instruct |
-| 4 | `runapi.co` | ¥2.7 | $0.4 / $0.46 | 6.75 | default | meta-llama/llama-3.2-90b-vision-instruct |
-| 5 | `api.camel-hub.com` | ¥2.88 | $3.6 / $3.6 | 0.8 | default | llama-3.2-90b-vision-instruct |
-| 6 | `new.gateway.icu` | ¥3 | $3 / $3 | 1 | default | llama-3.2-90b-vision-instruct |
-| 7 | `claudecn.ai` | ¥5.4 | $5.4 / $16.2 | 1 | 国产模型 | llama-3.2-90b-vision-instruct |
-| 8 | `ai.soruxgpt.com` | ¥6 | $6 / $6 | 1 | default | llama-3.2-90b-vision-instruct |
-| 9 | `api.hopeai.cc` | ¥6 | $6 / $6 | 1 | default | llama-3.2-90b-vision-instruct |
-| 10 | `keypool.space` | ¥6 | $6 / $18 | 1 | default | llama-3.2-90b-vision-instruct |
-| 11 | `new.foxi-api.cn` | ¥6 | $6 / $18 | 1 | default | llama-3.2-90b-vision-instruct |
-| 12 | `newapi.tu-zi.com` | ¥6 | $6 / $6 | 1 | default | llama-3.2-90b-vision-instruct |
-| 13 | `xinsuanai.com` | ¥6 | $6 / $18 | 1 | default | llama-3.2-90b-vision-instruct |
-| 14 | `api.34ku.com` | ¥7.8 | $7.8 / $23.4 | 1 | default | llama-3.2-90b-vision-instruct |
-| 15 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | llama-3.2-90b-vision-instruct |
-| 16 | `api.openlux.ai` | ¥20.15 | $3 / $9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 17 | `api.relayrouter.ai` | ¥20.15 | $3 / $9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 18 | `openlux.zhongzhuan.chat` | ¥20.15 | $3 / $9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 19 | `api.ifopen.ai` | ¥21 | $6 / $9 | 3.5 | default | llama-3.2-90b-vision-instruct |
-| 20 | `api2.aigcbest.top` | ¥21 | $6 / $9 | 3.5 | default | llama-3.2-90b-vision-instruct |
-| 21 | `api.tidewhisper-ai.xyz` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 22 | `gzxbykj.com` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 23 | `yunwu.org` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 24 | `v2.cloudmist.cloud` | ¥23.18 | $3.45 / $10.35 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 25 | `www.vectronode.com` | ¥24.18 | $3.6 / $10.8 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 26 | `apiclaw.cn` | ¥24.39 | $3.63 / $10.89 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 27 | `newapi.xueai.me` | ¥24.39 | $3.63 / $10.89 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 28 | `wodapis.com` | ¥24.39 | $3.63 / $10.89 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 29 | `ciyuan.today` | ¥25.19 | $3.75 / $11.25 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 30 | `gptapi.top` | ¥25.19 | $3.75 / $11.25 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 31 | `makerend.com` | ¥25.19 | $3.75 / $11.25 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 32 | `moliapi.com` | ¥25.39 | $3.78 / $11.34 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 33 | `ai-api.cc` | ¥26.2 | $3.9 / $11.7 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 34 | `infai.cc` | ¥26.2 | $3.9 / $11.7 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 35 | `nodapi.com` | ¥26.6 | $3.96 / $11.88 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 36 | `anyaigc.ai` | ¥27.21 | $4.05 / $12.15 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 37 | `sheepaiplus.top` | ¥28.22 | $4.2 / $12.6 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 38 | `xiguapi.icu` | ¥28.22 | $4.2 / $12.6 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 39 | `api.88api.chat` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 40 | `api.88api.shop` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 41 | `api.videocaptioner.cn` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 42 | `new.aigc2d.com` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 43 | `oyy-ai.xyz` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 44 | `api.nixapi.com` | ¥34.06 | $5.07 / $15.21 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 45 | `aiwuje.com` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 46 | `api.cursorai.art` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 47 | `api.echoflowai.cc` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 48 | `api.n1n.ai` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 49 | `api.quickrouter.ai` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
-| 50 | `jeniya.cn` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 4 | `xn--15q04w3tg4kio0a.com` | ¥1.224 | $1.224 / $1.224 | 1 | 🦙meta-mix | llama-3.2-90b-vision-instruct |
+| 5 | `runapi.co` | ¥2.7 | $0.4 / $0.46 | 6.75 | default | meta-llama/llama-3.2-90b-vision-instruct |
+| 6 | `api.camel-hub.com` | ¥2.88 | $3.6 / $3.6 | 0.8 | default | llama-3.2-90b-vision-instruct |
+| 7 | `new.gateway.icu` | ¥3 | $3 / $3 | 1 | default | llama-3.2-90b-vision-instruct |
+| 8 | `claudecn.ai` | ¥5.4 | $5.4 / $16.2 | 1 | 国产模型 | llama-3.2-90b-vision-instruct |
+| 9 | `ai.soruxgpt.com` | ¥6 | $6 / $6 | 1 | default | llama-3.2-90b-vision-instruct |
+| 10 | `api.hopeai.cc` | ¥6 | $6 / $6 | 1 | default | llama-3.2-90b-vision-instruct |
+| 11 | `keypool.space` | ¥6 | $6 / $18 | 1 | default | llama-3.2-90b-vision-instruct |
+| 12 | `new.foxi-api.cn` | ¥6 | $6 / $18 | 1 | default | llama-3.2-90b-vision-instruct |
+| 13 | `newapi.tu-zi.com` | ¥6 | $6 / $6 | 1 | default | llama-3.2-90b-vision-instruct |
+| 14 | `xinsuanai.com` | ¥6 | $6 / $18 | 1 | default | llama-3.2-90b-vision-instruct |
+| 15 | `www.dayueai.fun` | ¥6.5 | $6.5 / $19 | 1 | vip | llama-3.2-90b-vision-instruct |
+| 16 | `api.34ku.com` | ¥7.8 | $7.8 / $23.4 | 1 | default | llama-3.2-90b-vision-instruct |
+| 17 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | llama-3.2-90b-vision-instruct |
+| 18 | `api.openlux.ai` | ¥20.15 | $3 / $9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 19 | `api.relayrouter.ai` | ¥20.15 | $3 / $9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 20 | `openlux.zhongzhuan.chat` | ¥20.15 | $3 / $9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 21 | `api.ifopen.ai` | ¥21 | $6 / $9 | 3.5 | default | llama-3.2-90b-vision-instruct |
+| 22 | `api2.aigcbest.top` | ¥21 | $6 / $9 | 3.5 | default | llama-3.2-90b-vision-instruct |
+| 23 | `4zapi.com` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 24 | `api.tidewhisper-ai.xyz` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 25 | `gzxbykj.com` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 26 | `yunwu.org` | ¥22.17 | $3.3 / $9.9 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 27 | `api.antmoo.cc` | ¥23.18 | $3.45 / $10.35 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 28 | `v2.cloudmist.cloud` | ¥23.18 | $3.45 / $10.35 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 29 | `www.vectronode.com` | ¥24.18 | $3.6 / $10.8 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 30 | `apiclaw.cn` | ¥24.39 | $3.63 / $10.89 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 31 | `newapi.xueai.me` | ¥24.39 | $3.63 / $10.89 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 32 | `wodapis.com` | ¥24.39 | $3.63 / $10.89 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 33 | `ciyuan.today` | ¥25.19 | $3.75 / $11.25 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 34 | `gptapi.top` | ¥25.19 | $3.75 / $11.25 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 35 | `makerend.com` | ¥25.19 | $3.75 / $11.25 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 36 | `moliapi.com` | ¥25.39 | $3.78 / $11.34 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 37 | `ai-api.cc` | ¥26.2 | $3.9 / $11.7 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 38 | `infai.cc` | ¥26.2 | $3.9 / $11.7 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 39 | `nodapi.com` | ¥26.6 | $3.96 / $11.88 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 40 | `anyaigc.ai` | ¥27.21 | $4.05 / $12.15 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 41 | `sheepaiplus.top` | ¥28.22 | $4.2 / $12.6 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 42 | `xiguapi.icu` | ¥28.22 | $4.2 / $12.6 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 43 | `api.88api.chat` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 44 | `api.88api.shop` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 45 | `api.videocaptioner.cn` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 46 | `lanbuff.app` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 47 | `new.aigc2d.com` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 48 | `oyy-ai.xyz` | ¥30.23 | $4.5 / $13.5 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 49 | `api.nixapi.com` | ¥34.06 | $5.07 / $15.21 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
+| 50 | `aiwuje.com` | ¥40.31 | $6 / $18 | 6.718 | Self-Deployed-2 | llama-3.2-90b-vision-instruct |
 
-> 另有 11 站未列出。
+> 另有 17 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 15 站未列出。
 
-> 36 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 38 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

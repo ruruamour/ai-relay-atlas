@@ -1,6 +1,6 @@
 # gpt-realtime-2.1
 
-> 61 站提供 · 正常价 42 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥22**/1M 输入（23 站公开充值价） · 推算，未对账
+> 65 站提供 · 正常价 44 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥14**/1M 输入（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,21 +18,23 @@
 | 6 | `rockapi.ai` | ¥4 | $4 / $24 | 1 | az | gpt-realtime-2.1 |
 | 7 | `35.aigcbest.top` | ¥6 | $4 / $24 | 1.5 | default | gpt-realtime-2.1 |
 | 8 | `poloai.top` | ¥6 | $6 / $36 | 1 | az | gpt-realtime-2.1 |
-| 9 | `gpt777.top` | ¥8 | $8 / $48 | 1 | Azure | gpt-realtime-2.1 |
-| 10 | `api.ifopen.ai` | ¥14 | $4 / $24 | 3.5 | default | gpt-realtime-2.1 |
-| 11 | `api2.aigcbest.top` | ¥14 | $4 / $24 | 3.5 | default | gpt-realtime-2.1 |
-| 12 | `zen-ai.top` | ¥22 | $22 / $132 | 1 | AZ企业 | gpt-realtime-2.1 |
-| 13 | `getgoapi.com` | ¥23.04 | $3.2 / $19.2 | 7.2 | default | gpt-realtime-2.1 |
-| 14 | `unifiedapi.cloud` | ¥26.6 | $4 / $24 | 6.65 | acaz | gpt-realtime-2.1 |
-| 15 | `api.apiyi.com` | ¥28 | $4 / $24 | 7 | default | gpt-realtime-2.1 |
-| 16 | `api.gravitex.ai` | ¥29.2 | $4 / $24 | 7.3 | default | gpt-realtime-2.1 |
-| 17 | `cn.sandbox.dogrouter.ai` | ¥29.2 | $4 / $24 | 7.3 | default | gpt-realtime-2.1 |
-| 18 | `sandbox.dogrouter.ai` | ¥29.2 | $4 / $24 | 7.3 | default | gpt-realtime-2.1 |
-| 19 | `yibuapi.com` | ¥33.6 | $22.4 / $134.4 | 1.5 | 官key渠道 | gpt-realtime-2.1 |
-| 20 | `ai.ydcloud.org` | ¥43.8 | $6 / $36 | 7.3 | az gpt | gpt-realtime-2.1 |
-| 21 | `api.aabao.ai` | ¥48 | $24 / $144 | 2 | OpenAI优质-1 | gpt-realtime-2.1 |
-| 22 | `us.pomoai.xyz` | ¥116.8 | $16 / $96 | 7.3 | gpt-官转-40 | gpt-realtime-2.1 |
-| 23 | `us.ruiyumaas.com` | ¥1635 | $224 / $448 | 7.3 | 大客户 | gpt-realtime-2.1 |
+| 9 | `xy.poloapi.com` | ¥6 | $6 / $36 | 1 | az | gpt-realtime-2.1 |
+| 10 | `comput.chat` | ¥7.5 | $7.5 / $15 | 1 | default | gpt-realtime-2.1 |
+| 11 | `gpt777.top` | ¥8 | $8 / $48 | 1 | Azure | gpt-realtime-2.1 |
+| 12 | `api.ifopen.ai` | ¥14 | $4 / $24 | 3.5 | default | gpt-realtime-2.1 |
+| 13 | `api2.aigcbest.top` | ¥14 | $4 / $24 | 3.5 | default | gpt-realtime-2.1 |
+| 14 | `zen-ai.top` | ¥22 | $22 / $132 | 1 | AZ企业 | gpt-realtime-2.1 |
+| 15 | `getgoapi.com` | ¥23.04 | $3.2 / $19.2 | 7.2 | default | gpt-realtime-2.1 |
+| 16 | `unifiedapi.cloud` | ¥26.6 | $4 / $24 | 6.65 | acaz | gpt-realtime-2.1 |
+| 17 | `api.apiyi.com` | ¥28 | $4 / $24 | 7 | default | gpt-realtime-2.1 |
+| 18 | `api.gravitex.ai` | ¥29.2 | $4 / $24 | 7.3 | default | gpt-realtime-2.1 |
+| 19 | `cn.sandbox.dogrouter.ai` | ¥29.2 | $4 / $24 | 7.3 | default | gpt-realtime-2.1 |
+| 20 | `sandbox.dogrouter.ai` | ¥29.2 | $4 / $24 | 7.3 | default | gpt-realtime-2.1 |
+| 21 | `yibuapi.com` | ¥33.6 | $22.4 / $134.4 | 1.5 | 官key渠道 | gpt-realtime-2.1 |
+| 22 | `ai.ydcloud.org` | ¥43.8 | $6 / $36 | 7.3 | az gpt | gpt-realtime-2.1 |
+| 23 | `api.aabao.ai` | ¥48 | $24 / $144 | 2 | OpenAI优质-1 | gpt-realtime-2.1 |
+| 24 | `us.pomoai.xyz` | ¥116.8 | $16 / $96 | 7.3 | gpt-官转-40 | gpt-realtime-2.1 |
+| 25 | `us.ruiyumaas.com` | ¥1635 | $224 / $448 | 7.3 | 大客户 | gpt-realtime-2.1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -58,4 +60,4 @@
 | 18 | `sub.hongyun.chat` | $30 / $180 | gpt | 7.5 | gpt-realtime-2.1 |
 | 19 | `vip.zen-ai.top` | $220 / $1320 | Azure正价 | 55 | gpt-realtime-2.1 |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

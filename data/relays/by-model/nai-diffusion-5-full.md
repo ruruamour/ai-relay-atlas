@@ -1,6 +1,6 @@
 # nai-diffusion-5-full
 
-> 24 站提供 · 正常价 17 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1**/次（15 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 18 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1**/次（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,12 +19,13 @@
 | 7 | `api.rinko.ai` | ¥0.08 | $0.08 | 1 | NAI | nai-diffusion-5-full |
 | 8 | `meinianda.top` | ¥0.1 | $0.1 | 1 | 画图分组 | nai-diffusion-5-full |
 | 9 | `origin.novai.su` | ¥0.1 | $0.1 | 1 | Auto | nai-diffusion-5-full |
-| 10 | `once.novai.su` | ¥0.2 | $0.2 | 1 | Auto | nai-diffusion-5-full |
-| 11 | `us.novaiapi.com` | ¥0.2 | $0.2 | 1 | Auto | nai-diffusion-5-full |
-| 12 | `api.lingloft.cn` | ¥0.73 | $0.1 | 7.3 | 生图 | nai-diffusion-5-full |
-| 13 | `gg.aivvip.cc` | ¥18.25 | $2.5 | 7.3 | default | nai-diffusion-5-full |
-| 14 | `huanling.cc` | ¥18.25 | $2.5 | 7.3 | default | nai-diffusion-5-full |
-| 15 | `max.openai365.top` | ¥102.2 | $14 | 7.3 | default | nai-diffusion-5-full |
+| 10 | `ai.mowen.vip` | ¥0.1171 | $0.0175 | 6.6892 | default | nai-diffusion-5-full |
+| 11 | `once.novai.su` | ¥0.2 | $0.2 | 1 | Auto | nai-diffusion-5-full |
+| 12 | `us.novaiapi.com` | ¥0.2 | $0.2 | 1 | Auto | nai-diffusion-5-full |
+| 13 | `api.lingloft.cn` | ¥0.73 | $0.1 | 7.3 | 生图 | nai-diffusion-5-full |
+| 14 | `gg.aivvip.cc` | ¥18.25 | $2.5 | 7.3 | default | nai-diffusion-5-full |
+| 15 | `huanling.cc` | ¥18.25 | $2.5 | 7.3 | default | nai-diffusion-5-full |
+| 16 | `max.openai365.top` | ¥102.2 | $14 | 7.3 | default | nai-diffusion-5-full |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

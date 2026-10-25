@@ -1,6 +1,6 @@
 # muse-spark-1.2-contributor
 
-> 39 站提供 · 正常价 17 站 · 名义中位价 **$0.1**/1M 输入 · 实付中位价 **¥0.617**/1M 输入（12 站公开充值价） · 推算，未对账
+> 43 站提供 · 正常价 20 站 · 名义中位价 **$0.1**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,18 +10,21 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `coneverse.com` | ¥0.1 | $0.1 / $0.2 | 1 | supply-c8b615a9916b720126c045d3 | muse-spark-1.2-contributor |
-| 2 | `ai.lfree.org` | ¥0.1752 | $0.024 / $0.042 | 7.3 | openai | muse-spark-1.2-contributor |
-| 3 | `api.unorouter.com` | ¥0.2 | $0.2 / $0.4 | 1 | open1-meta-muse-spark-1.2-contributor | muse-spark-1.2-contributor |
-| 4 | `api.yanai.it.com` | ¥0.25 | $0.25 / $0.5 | 1 | muse-wonder | muse-spark-1.2-contributor |
-| 5 | `botcf.com` | ¥0.402 | $0.402 / $0.804 | 1 | 🚄openweight-fast | muse-spark-1.2-contributor |
-| 6 | `modelsell.com` | ¥0.544 | $0.08 / $0.16 | 6.8 | Meta | muse-spark-1.2-contributor |
-| 7 | `apicdn.xyc.ai` | ¥0.69 | $0.1 / $0.2 | 6.9 | muse-ent | muse-spark-1.2-contributor |
-| 8 | `apicdn.xycai.us` | ¥0.69 | $0.1 / $0.2 | 6.9 | muse-ent | muse-spark-1.2-contributor |
-| 9 | `tako.shiroha.tech` | ¥0.73 | $0.1 / $0.2 | 7.3 | pro-mini | muse-spark-1.2-contributor |
-| 10 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $0.307692 | 7.3 | default | meta/muse-spark-1.2-contributor |
-| 11 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | [暴富]muse-spark-1.2-contributor |
-| 12 | `us.pomoai.xyz` | ¥36.5 | $5 / $17 | 7.3 | muse-官转 | muse-spark-1.2-contributor |
+| 1 | `api.tokenfreeperday.com` | ¥0.035 | $0.035 / $0.014 | 1 | ALL | muse-spark-1.2-contributor |
+| 2 | `coneverse.com` | ¥0.1 | $0.1 / $0.2 | 1 | supply-c8b615a9916b720126c045d3 | muse-spark-1.2-contributor |
+| 3 | `ai.lfree.org` | ¥0.1752 | $0.024 / $0.042 | 7.3 | openai | muse-spark-1.2-contributor |
+| 4 | `api.unorouter.com` | ¥0.2 | $0.2 / $0.4 | 1 | open1-meta-muse-spark-1.2-contributor | muse-spark-1.2-contributor |
+| 5 | `api.yanai.it.com` | ¥0.25 | $0.25 / $0.5 | 1 | muse-wonder | muse-spark-1.2-contributor |
+| 6 | `botcf.com` | ¥0.402 | $0.402 / $0.804 | 1 | 🚄openweight-fast | muse-spark-1.2-contributor |
+| 7 | `xn--15q04w3tg4kio0a.com` | ¥0.402 | $0.402 / $0.804 | 1 | 🚄openweight-fast | muse-spark-1.2-contributor |
+| 8 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | muse-spark-1.2-contributor |
+| 9 | `modelsell.com` | ¥0.544 | $0.08 / $0.16 | 6.8 | Meta | muse-spark-1.2-contributor |
+| 10 | `apicdn.xyc.ai` | ¥0.69 | $0.1 / $0.2 | 6.9 | muse-ent | muse-spark-1.2-contributor |
+| 11 | `apicdn.xycai.us` | ¥0.69 | $0.1 / $0.2 | 6.9 | muse-ent | muse-spark-1.2-contributor |
+| 12 | `tako.shiroha.tech` | ¥0.73 | $0.1 / $0.2 | 7.3 | pro-mini | muse-spark-1.2-contributor |
+| 13 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $0.307692 | 7.3 | default | meta/muse-spark-1.2-contributor |
+| 14 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | [暴富]muse-spark-1.2-contributor |
+| 15 | `us.pomoai.xyz` | ¥36.5 | $5 / $17 | 7.3 | muse-官转 | muse-spark-1.2-contributor |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -33,4 +36,4 @@
 | 4 | `clodex.xyz` | $0.12 / $0.12 | default | 1 | muse-spark-1.2-contributor |
 | 5 | `oapi.shop` | $0.28 / $0.56 | 国模/非GPT模型汇总 | 0.4 | meta/muse-spark-1.2-contributor |
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

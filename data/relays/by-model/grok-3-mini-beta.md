@@ -1,6 +1,6 @@
 # grok-3-mini-beta
 
-> 27 站提供 · 正常价 23 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.89**/1M 输入（19 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 24 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.89**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,15 +20,16 @@
 | 8 | `zen-ai.top` | ¥1.8 | $1.8 / $2.9988 | 1 | grok | grok-3-mini-beta |
 | 9 | `api.ocoolai.com` | ¥1.89 | $1.89 / $3.15063 | 1 | claude_official | grok-3-mini-beta |
 | 10 | `ocool.cn` | ¥1.89 | $1.89 / $3.15063 | 1 | claude_official | grok-3-mini-beta |
-| 11 | `api.qinzhiai.com` | ¥2.1 | $2.1 / $14 | 1 | openrouter | x-ai/grok-3-mini-beta |
-| 12 | `api.ai-gaochao.cn` | ¥2.19 | $0.3 / $0.498 | 7.3 | Evan | grok-3-mini-beta |
-| 13 | `apius.shubiaobiao.cn` | ¥2.19 | $0.3 / $0.498 | 7.3 | Evan | grok-3-mini-beta |
-| 14 | `hy88.my` | ¥2.19 | $0.3 / $0.5 | 7.3 | grok_official | grok-3-mini-beta |
-| 15 | `newapi.floatai.cn` | ¥2.19 | $0.3 / $0.3 | 7.3 | default | grok-3-mini-beta |
-| 16 | `api.ysaikeji.cn` | ¥6.57 | $0.9 / $1.5012 | 7.3 | grok官转 | grok-3-mini-beta |
-| 17 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3-mini-beta |
-| 18 | `api.bianxieai.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3-mini-beta |
-| 19 | `wrduai.com` | ¥15.33 | $2.1 / $3.5 | 7.3 | 官转正价 | grok-3-mini-beta |
+| 11 | `one.ooo.cool` | ¥1.89 | $1.89 / $3.15063 | 1 | claude_official | grok-3-mini-beta |
+| 12 | `api.qinzhiai.com` | ¥2.1 | $2.1 / $14 | 1 | openrouter | x-ai/grok-3-mini-beta |
+| 13 | `api.ai-gaochao.cn` | ¥2.19 | $0.3 / $0.498 | 7.3 | Evan | grok-3-mini-beta |
+| 14 | `apius.shubiaobiao.cn` | ¥2.19 | $0.3 / $0.498 | 7.3 | Evan | grok-3-mini-beta |
+| 15 | `hy88.my` | ¥2.19 | $0.3 / $0.5 | 7.3 | grok_official | grok-3-mini-beta |
+| 16 | `newapi.floatai.cn` | ¥2.19 | $0.3 / $0.3 | 7.3 | default | grok-3-mini-beta |
+| 17 | `api.ysaikeji.cn` | ¥6.57 | $0.9 / $1.5012 | 7.3 | grok官转 | grok-3-mini-beta |
+| 18 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3-mini-beta |
+| 19 | `api.bianxieai.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3-mini-beta |
+| 20 | `wrduai.com` | ¥15.33 | $2.1 / $3.5 | 7.3 | 官转正价 | grok-3-mini-beta |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

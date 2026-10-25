@@ -1,6 +1,6 @@
 # gpt-daybreak-blue
 
-> 30 站提供 · 正常价 17 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥13.48**/1M 输入（2 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 17 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥13.48**/1M 输入（2 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -33,4 +33,4 @@
 | 14 | `aus.aivra.lat` | $12.75 / $34 | OpenAI Cyber | 0.85 | gpt-daybreak-blue-latest |
 | 15 | `sub.hongyun.chat` | $30 / $150 | gpt | 7.5 | gpt-daybreak-blue-latest |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

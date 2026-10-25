@@ -1,6 +1,6 @@
 # z-image-turbo
 
-> 170 站提供 · 正常价 130 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.07558**/次（63 站公开充值价） · 推算，未对账
+> 176 站提供 · 正常价 136 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.07558**/次（69 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,43 +25,43 @@
 | 13 | `new.aigc2d.com` | ¥0.03779 | $0.005625 | 6.718 | Alibaba-1 | z-image-turbo |
 | 14 | `oyy-ai.xyz` | ¥0.03779 | $0.005625 | 6.718 | Alibaba-1 | z-image-turbo |
 | 15 | `api.nixapi.com` | ¥0.04258 | $0.0063375 | 6.718 | Alibaba-1 | z-image-turbo |
-| 16 | `kfcv50.link` | ¥0.05 | $0.05 | 1 | Domestic | z-image-turbo |
-| 17 | `www.ggwk1.online` | ¥0.05 | $0.05 | 1 | 其他绘画 | z-image-turbo |
-| 18 | `aiwuje.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 19 | `api.echoflowai.cc` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 20 | `api.n1n.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 21 | `api.openlux.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 22 | `api.quickrouter.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 23 | `linoapi.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 24 | `llm-api.net` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 25 | `quanzil.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 26 | `token173.net` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 27 | `tryallapi.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 28 | `wellapi.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 29 | `thousandengine.com` | ¥0.05127 | $0.00763125 | 6.718 | Alibaba-1 | z-image-turbo |
-| 30 | `wodapis.com` | ¥0.06097 | $0.009075 | 6.718 | Alibaba-1 | z-image-turbo |
-| 31 | `api.34ku.com` | ¥0.065 | $0.065 | 1 | default | z-image-turbo |
-| 32 | `api.88api.shop` | ¥0.07558 | $0.01125 | 6.718 | Alibaba-1 | z-image-turbo |
-| 33 | `infai.cc` | ¥0.07558 | $0.01125 | 6.718 | Alibaba-1 | z-image-turbo |
-| 34 | `gpt-api.cc` | ¥0.08 | $0.08 | 1 | default | z-image-turbo |
-| 35 | `synthapi.asia` | ¥0.08395 | $0.0115 | 7.3 | 视频模型聚合 | z-image-turbo |
-| 36 | `ccapi.ai` | ¥0.085 | $0.0123188 | 6.9 | qwen-A | z-image-turbo |
-| 37 | `open.cherryin.ai` | ¥0.09288 | $0.0136986 | 6.78 | default | qwen/z-image-turbo |
-| 38 | `express-ent-admin.cherryin.net` | ¥0.09863 | $0.0136986 | 7.2 | default | qwen/z-image-turbo |
-| 39 | `api.new.bi` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 40 | `keypool.space` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 41 | `new.foxi-api.cn` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 42 | `newapi.aiopus.org` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 43 | `newapi.aisonnet.org` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 44 | `tokencount.aigemini.org` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 45 | `xinsuanai.com` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
-| 46 | `api.cursorai.art` | ¥0.1008 | $0.015 | 6.718 | Alibaba-1 | z-image-turbo |
-| 47 | `jeniya.cn` | ¥0.1008 | $0.015 | 6.718 | Alibaba-1 | z-image-turbo |
-| 48 | `api.lingyaai.cn` | ¥0.1185 | $0.1185 | 1 | 国产普惠·源力计划 | z-image-turbo |
-| 49 | `beeroute.ai` | ¥0.1185 | $0.1185 | 1 | CN-Model-Special​ | z-image-turbo |
-| 50 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.1185 | $0.1185 | 1 | CN-Model-Special​ | z-image-turbo |
+| 16 | `ai.mowen.vip` | ¥0.04582 | $0.00684932 | 6.6892 | default | Z-Image-Turbo |
+| 17 | `kfcv50.link` | ¥0.05 | $0.05 | 1 | Domestic | z-image-turbo |
+| 18 | `www.ggwk1.online` | ¥0.05 | $0.05 | 1 | 其他绘画 | z-image-turbo |
+| 19 | `aiwuje.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 20 | `api.echoflowai.cc` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 21 | `api.n1n.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 22 | `api.openlux.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 23 | `api.quickrouter.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 24 | `linoapi.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 25 | `llm-api.net` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 26 | `quanzil.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 27 | `token173.net` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 28 | `tryallapi.com` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 29 | `wellapi.ai` | ¥0.05038 | $0.0075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 30 | `thousandengine.com` | ¥0.05127 | $0.00763125 | 6.718 | Alibaba-1 | z-image-turbo |
+| 31 | `4zapi.com` | ¥0.05542 | $0.00825 | 6.718 | Alibaba-1 | z-image-turbo |
+| 32 | `api.antmoo.cc` | ¥0.05794 | $0.008625 | 6.718 | Alibaba-1 | z-image-turbo |
+| 33 | `wodapis.com` | ¥0.06097 | $0.009075 | 6.718 | Alibaba-1 | z-image-turbo |
+| 34 | `api.34ku.com` | ¥0.065 | $0.065 | 1 | default | z-image-turbo |
+| 35 | `api.88api.shop` | ¥0.07558 | $0.01125 | 6.718 | Alibaba-1 | z-image-turbo |
+| 36 | `infai.cc` | ¥0.07558 | $0.01125 | 6.718 | Alibaba-1 | z-image-turbo |
+| 37 | `lanbuff.app` | ¥0.07558 | $0.01125 | 6.718 | Alibaba-1 | z-image-turbo |
+| 38 | `gpt-api.cc` | ¥0.08 | $0.08 | 1 | default | z-image-turbo |
+| 39 | `synthapi.asia` | ¥0.08395 | $0.0115 | 7.3 | 视频模型聚合 | z-image-turbo |
+| 40 | `ccapi.ai` | ¥0.085 | $0.0123188 | 6.9 | qwen-A | z-image-turbo |
+| 41 | `open.cherryin.ai` | ¥0.09288 | $0.0136986 | 6.78 | default | qwen/z-image-turbo |
+| 42 | `express-ent-admin.cherryin.net` | ¥0.09863 | $0.0136986 | 7.2 | default | qwen/z-image-turbo |
+| 43 | `api.new.bi` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 44 | `keypool.space` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 45 | `new.foxi-api.cn` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 46 | `newapi.aiopus.org` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 47 | `newapi.aisonnet.org` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 48 | `tokencount.aigemini.org` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 49 | `xinsuanai.com` | ¥0.1 | $0.1 | 1 | default | z-image-turbo |
+| 50 | `api.cursorai.art` | ¥0.1008 | $0.015 | 6.718 | Alibaba-1 | z-image-turbo |
 
-> 另有 13 站未列出。
+> 另有 19 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

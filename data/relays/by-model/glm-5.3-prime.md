@@ -1,6 +1,6 @@
 # glm-5.3-prime
 
-> 30 站提供 · 正常价 16 站 · 名义中位价 **$1.98285**/1M 输入 · 实付中位价 **¥14.32**/1M 输入（12 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 17 站 · 名义中位价 **$2.28571**/1M 输入 · 实付中位价 **¥16**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,8 +20,9 @@
 | 8 | `aigateway.geekerone.top` | ¥16 | $16 / $56 | 1 | default | glm-5.3-prime |
 | 9 | `aigateway.geekhoner.com` | ¥16 | $16 / $56 | 1 | default | glm-5.3-prime |
 | 10 | `crazyrouter.com` | ¥16.74 | $2.39163 / $8.3707 | 7 | default | glm-5.3-prime |
-| 11 | `hub.yzcld.com` | ¥20.44 | $2.8 / $8.8 | 7.3 | GLM | glm-5.3-prime |
-| 12 | `api.tacklekey.com` | ¥31.45 | $4.30769 / $13.5385 | 7.3 | default | z-ai/glm-5.3-prime |
+| 11 | `ai.bytonsec.com` | ¥16.8 | $16.8 / $52.8 | 1 | OpenRouter | z-ai/glm-5.3-prime |
+| 12 | `hub.yzcld.com` | ¥20.44 | $2.8 / $8.8 | 7.3 | GLM | glm-5.3-prime |
+| 13 | `api.tacklekey.com` | ¥31.45 | $4.30769 / $13.5385 | 7.3 | default | z-ai/glm-5.3-prime |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +33,4 @@
 | 3 | `codexauv.com` | $0.924 / $2.904 | 国产模型聚合-阿里满血渠道 | 0.33 | glm-5.3-prime |
 | 4 | `api.bestai.chat` | $1.68 / $5.28 | 国产模型（Anthropic协议） | 0.6 | glm-5.3-prime |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

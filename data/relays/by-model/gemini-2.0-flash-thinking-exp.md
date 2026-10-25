@@ -1,6 +1,6 @@
 # gemini-2.0-flash-thinking-exp
 
-> 47 站提供 · 正常价 33 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥1.938**/1M 输入（28 站公开充值价） · 推算，未对账
+> 48 站提供 · 正常价 34 站 · 名义中位价 **$1.255**/1M 输入 · 实付中位价 **¥2**/1M 输入（29 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -33,11 +33,12 @@
 | 21 | `chat.cloudapi.vip` | ¥2.52 | $1.26 / $5.04 | 2 | svip | gemini-2.0-flash-thinking-exp |
 | 22 | `api.ocoolai.com` | ¥3 | $3 / $12 | 1 | default | gemini-2.0-flash-thinking-exp |
 | 23 | `ocool.cn` | ¥3 | $3 / $12 | 1 | default | gemini-2.0-flash-thinking-exp |
-| 24 | `api.xhuoai.com` | ¥3.75 | $2.5 / $10 | 1.5 | gemini2 | gemini-2.0-flash-thinking-exp-1219 |
-| 25 | `webapi.xjai.cc` | ¥6 | $2 / $8 | 3 | default | gemini-2.0-flash-thinking-exp-01-21 |
-| 26 | `gemini.ysaikeji.cn` | ¥9.125 | $1.25 / $5 | 7.3 | default | gemini-2.0-flash-thinking-exp |
-| 27 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-thinking-exp |
-| 28 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-thinking-exp |
+| 24 | `one.ooo.cool` | ¥3 | $3 / $12 | 1 | default | gemini-2.0-flash-thinking-exp |
+| 25 | `api.xhuoai.com` | ¥3.75 | $2.5 / $10 | 1.5 | gemini2 | gemini-2.0-flash-thinking-exp-1219 |
+| 26 | `webapi.xjai.cc` | ¥6 | $2 / $8 | 3 | default | gemini-2.0-flash-thinking-exp-01-21 |
+| 27 | `gemini.ysaikeji.cn` | ¥9.125 | $1.25 / $5 | 7.3 | default | gemini-2.0-flash-thinking-exp |
+| 28 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-thinking-exp |
+| 29 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-thinking-exp |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

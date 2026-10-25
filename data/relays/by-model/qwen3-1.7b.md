@@ -1,6 +1,6 @@
 # qwen3-1.7b
 
-> 91 站提供 · 正常价 81 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（16 站公开充值价） · 推算，未对账
+> 94 站提供 · 正常价 84 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,18 +14,21 @@
 | 2 | `gpt777.top` | ¥0.128 | $0.128 / $0.384 | 1 | opensource | qwen3-1.7b |
 | 3 | `api.ocoolai.com` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
 | 4 | `ocool.cn` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
-| 5 | `kfcv50.link` | ¥0.2 | $0.2 / $3 | 1 | Domestic | qwen3-1.7b |
-| 6 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-1.7b |
-| 7 | `api.eido.top` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
-| 8 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
-| 9 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
-| 10 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
-| 11 | `yibuapi.com` | ¥0.36 | $0.24 / $0.96 | 1.5 | claude-code | qwen3-1.7b |
-| 12 | `api.ifopen.ai` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
-| 13 | `api2.aigcbest.top` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
-| 14 | `hy88.my` | ¥0.876 | $0.12 / $1.8 | 7.3 | qwen | qwen3-1.7b |
-| 15 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
-| 16 | `yutoapi.com` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
+| 5 | `one.ooo.cool` | ¥0.19 | $0.19 / $2.85 | 1 | cn | qwen3-1.7b |
+| 6 | `api.xi-ai.cn` | ¥0.2 | $0.2 / $3 | 1 | 国产模型 | qwen3-1.7b |
+| 7 | `kfcv50.link` | ¥0.2 | $0.2 / $3 | 1 | Domestic | qwen3-1.7b |
+| 8 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-1.7b |
+| 9 | `api.aiskt.com` | ¥0.3 | $0.3 / $4.5 | 1 | default | qwen3-1.7b |
+| 10 | `api.eido.top` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 11 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 12 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 13 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-1.7b |
+| 14 | `yibuapi.com` | ¥0.36 | $0.24 / $0.96 | 1.5 | claude-code | qwen3-1.7b |
+| 15 | `api.ifopen.ai` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
+| 16 | `api2.aigcbest.top` | ¥0.56 | $0.16 / $0.48 | 3.5 | default | qwen3-1.7b |
+| 17 | `hy88.my` | ¥0.876 | $0.12 / $1.8 | 7.3 | qwen | qwen3-1.7b |
+| 18 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
+| 19 | `yutoapi.com` | ¥2.1 | $2.1 / $21 | 1 | enterprise | qwen3-1.7b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

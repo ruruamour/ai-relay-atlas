@@ -1,6 +1,6 @@
 # kling-3.0-turbo
 
-> 133 站提供 · 正常价 118 站 · 名义中位价 **$0.017**/次 · 实付中位价 **¥0.01339**/次（52 站公开充值价） · 推算，未对账
+> 138 站提供 · 正常价 122 站 · 名义中位价 **$0.017**/次 · 实付中位价 **¥0.0126**/次（56 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api.openlux.ai` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | kling-3.0-turbo |
 | 2 | `api.relayrouter.ai` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | kling-3.0-turbo |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 5 | `gzxbykj.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 6 | `yunwu.org` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 7 | `v2.cloudmist.cloud` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 8 | `www.vectronode.com` | ¥0.01008 | $0.00150001 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 9 | `apiclaw.cn` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 10 | `newapi.xueai.me` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 11 | `wodapis.com` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 12 | `ciyuan.today` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 13 | `gptapi.top` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 14 | `makerend.com` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 15 | `moliapi.com` | ¥0.01058 | $0.00157501 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 16 | `ai-api.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 17 | `infai.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 18 | `nodapi.com` | ¥0.01108 | $0.00165001 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 19 | `anyaigc.ai` | ¥0.01134 | $0.00168751 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 20 | `sheepaiplus.top` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 21 | `xiguapi.icu` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 22 | `api.88api.chat` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 23 | `api.88api.shop` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 24 | `api.videocaptioner.cn` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 25 | `new.aigc2d.com` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 26 | `oyy-ai.xyz` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 27 | `api.nixapi.com` | ¥0.01419 | $0.00211252 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 28 | `aiwuje.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 29 | `api.cursorai.art` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 30 | `api.echoflowai.cc` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 31 | `api.n1n.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 32 | `api.quickrouter.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 33 | `jeniya.cn` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 34 | `linoapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 35 | `llm-api.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 36 | `quanzil.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 37 | `token173.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 38 | `tryallapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 39 | `wellapi.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 40 | `new.foxi-api.cn` | ¥0.017 | $0.017 | 1 | default | kling-3.0-turbo |
-| 41 | `thousandengine.com` | ¥0.01709 | $0.00254377 | 6.718 | Kling-2 | kling-3.0-turbo |
-| 42 | `plusx.nyxos.shop` | ¥0.09125 | $0.0125001 | 7.3 | Kling-2 | kling-3.0-turbo |
-| 43 | `modelsell.com` | ¥0.544 | $0.08 | 6.8 | kling | kling-3.0-turbo |
-| 44 | `www.hohoapi.com` | ¥0.72 | $0.24 | 3 | video | kling-3.0-turbo |
-| 45 | `a6api.com` | ¥0.7706 | $0.112 | 6.88 | default | kling-3.0-turbo |
-| 46 | `getmodel.ai` | ¥0.9 | $0.9 | 1 | default | kling-3.0-turbo |
-| 47 | `synthapi.asia` | ¥0.9604 | $0.13156 | 7.3 | 视频模型聚合 | kling-3.0-turbo |
-| 48 | `api.camel-hub.cn` | ¥1.04 | $1.3 | 0.8 | default | kling-3.0-turbo |
-| 49 | `api.camel-hub.com` | ¥1.04 | $1.3 | 0.8 | default | kling-3.0-turbo |
-| 50 | `api.kr777.top` | ¥1.04 | $1.3 | 0.8 | default | kling-3.0-turbo |
+| 4 | `4zapi.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 6 | `gzxbykj.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 7 | `yunwu.org` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 8 | `api.antmoo.cc` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 9 | `v2.cloudmist.cloud` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 10 | `www.vectronode.com` | ¥0.01008 | $0.00150001 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 11 | `apiclaw.cn` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 12 | `newapi.xueai.me` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 13 | `wodapis.com` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 14 | `ciyuan.today` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 15 | `gptapi.top` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 16 | `makerend.com` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 17 | `moliapi.com` | ¥0.01058 | $0.00157501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 18 | `ai-api.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 19 | `infai.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 20 | `nodapi.com` | ¥0.01108 | $0.00165001 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 21 | `anyaigc.ai` | ¥0.01134 | $0.00168751 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 22 | `sheepaiplus.top` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 23 | `xiguapi.icu` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 24 | `api.88api.chat` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 25 | `api.88api.shop` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 26 | `api.videocaptioner.cn` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 27 | `lanbuff.app` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 28 | `new.aigc2d.com` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 29 | `oyy-ai.xyz` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 30 | `api.nixapi.com` | ¥0.01419 | $0.00211252 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 31 | `aiwuje.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 32 | `api.cursorai.art` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 33 | `api.echoflowai.cc` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 34 | `api.n1n.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 35 | `api.quickrouter.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 36 | `jeniya.cn` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 37 | `linoapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 38 | `linoroute.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 39 | `llm-api.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 40 | `quanzil.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 41 | `token173.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 42 | `tryallapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 43 | `wellapi.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 44 | `new.foxi-api.cn` | ¥0.017 | $0.017 | 1 | default | kling-3.0-turbo |
+| 45 | `thousandengine.com` | ¥0.01709 | $0.00254377 | 6.718 | Kling-2 | kling-3.0-turbo |
+| 46 | `plusx.nyxos.shop` | ¥0.09125 | $0.0125001 | 7.3 | Kling-2 | kling-3.0-turbo |
+| 47 | `modelsell.com` | ¥0.544 | $0.08 | 6.8 | kling | kling-3.0-turbo |
+| 48 | `www.hohoapi.com` | ¥0.72 | $0.24 | 3 | video | kling-3.0-turbo |
+| 49 | `a6api.com` | ¥0.7706 | $0.112 | 6.88 | default | kling-3.0-turbo |
+| 50 | `getmodel.ai` | ¥0.9 | $0.9 | 1 | default | kling-3.0-turbo |
 
-> 另有 2 站未列出。
+> 另有 6 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 16 站未列出。
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

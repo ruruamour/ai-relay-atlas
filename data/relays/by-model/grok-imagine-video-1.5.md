@@ -1,6 +1,6 @@
 # grok-imagine-video-1.5
 
-> 246 站提供 · 正常价 137 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.324**/次（89 站公开充值价） · 推算，未对账
+> 251 站提供 · 正常价 140 站 · 名义中位价 **$0.155**/次 · 实付中位价 **¥0.342**/次（92 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,54 +14,54 @@
 | 2 | `api.ciyuanshen.top` | ¥0.02 | $0.02 | 1 | Grok heavy | grok-imagine-video-1.5 |
 | 3 | `wolfai.top` | ¥0.03 | $0.015 | 2 | Mini | grok-imagine-video-1.5 |
 | 4 | `shendun.vip` | ¥0.0784 | $0.0784 | 1 | 视频官价1.4折 | grok-imagine-video-1.5 |
-| 5 | `newapi.prorisehub.com` | ¥0.08 | $0.08 | 1 | default | grok-imagine-video-1.5 |
-| 6 | `windapi.cc` | ¥0.08 | $0.08 | 1 | grok | grok-imagine-video-1.5 |
-| 7 | `relay.fast` | ¥0.09 | $0.09 | 1 | default | grok-imagine-video-1.5 |
-| 8 | `router.cheap` | ¥0.09 | $0.09 | 1 | default | grok-imagine-video-1.5 |
-| 9 | `nn.147ai.com` | ¥0.092 | $0.04 | 2.3 | default | grok-imagine-video-1.5 |
-| 10 | `newapi.ailyyzdk.xyz` | ¥0.096 | $0.096 | 1 | grok | grok-imagine-video-1.5 |
-| 11 | `newapi.aiopus.org` | ¥0.1 | $0.1 | 1 | default | grok-imagine-video-1.5 |
-| 12 | `newapi.aisonnet.org` | ¥0.1 | $0.1 | 1 | default | grok-imagine-video-1.5 |
-| 13 | `tokencount.aigemini.org` | ¥0.1 | $0.1 | 1 | default | grok-imagine-video-1.5 |
-| 14 | `xingwan.store` | ¥0.1 | $0.1 | 1 | gpt生图专用-绘画 | grok-imagine-video-1.5 |
-| 15 | `ai.cangyuansuanli.cn` | ¥0.116 | $0.116 | 1 | VIDEO | grok-imagine-video-1.5 |
-| 16 | `direct-api.cangyuansuanli.cn` | ¥0.116 | $0.116 | 1 | VIDEO | grok-imagine-video-1.5 |
-| 17 | `www.vibeapi.cn` | ¥0.12 | $0.36 | 0.333333 | Grok | grok-imagine-video-1.5 |
-| 18 | `api.lingxiaihub.com` | ¥0.12 | $0.12 | 1 | Grok heavy 满血 | grok-imagine-video-1.5 |
-| 19 | `api.wanapis.com` | ¥0.12 | $0.12 | 1 | default | grok-imagine-video-1.5 |
-| 20 | `api.wukong.support` | ¥0.12 | $0.12 | 1 | gork | grok-imagine-video-1.5 |
-| 21 | `fanrenapi.com` | ¥0.12 | $0.12 | 1 | 生图 | grok-imagine-video-1.5 |
-| 22 | `yinziapi.top` | ¥0.12 | $0.12 | 1 | grok稳定备用分组4 | grok-imagine-video-1.5 |
-| 23 | `yomiapi.com` | ¥0.139 | $0.02 | 6.95 | 生图专用分组 | grok-imagine-video-1.5 |
-| 24 | `new.ddpapi.top` | ¥0.15 | $0.15 | 1 | default | grok-imagine-video-1.5 |
-| 25 | `yyapis.com` | ¥0.15 | $0.15 | 1 | 生图 | grok-imagine-video-1.5 |
-| 26 | `hboom.ai` | ¥0.1632 | $0.024 | 6.8 | Grok-Mid | grok-imagine-video-1.5 |
-| 27 | `hk.hbapis.com` | ¥0.1632 | $0.024 | 6.8 | Grok-Mid | grok-imagine-video-1.5 |
-| 28 | `apicdn.xyc.ai` | ¥0.17 | $0.0246377 | 6.9 | grok-ent | grok-imagine-video-1.5 |
-| 29 | `apicdn.xycai.us` | ¥0.17 | $0.0246377 | 6.9 | grok-ent | grok-imagine-video-1.5 |
-| 30 | `1.cnmz.de` | ¥0.2 | $0.2 | 1 | 图片视频分组 | grok-imagine-video-1.5 |
-| 31 | `1yapi.com` | ¥0.2 | $0.2 | 1 | grok-super | grok-imagine-video-1.5 |
-| 32 | `api.aixoras.com` | ¥0.2 | $0.2 | 1 | Grok视频 | grok-imagine-video-1.5 |
-| 33 | `api.shisuanai.com` | ¥0.2 | $0.2 | 1 | 视频 | grok-imagine-video-1.5 |
-| 34 | `api.slomerex.xyz` | ¥0.2 | $0.2 | 1 | Grok Heavy | grok-imagine-video-1.5 |
-| 35 | `api.zoowyoo.dpdns.org` | ¥0.2 | $0.2 | 1 | 生图 | grok-imagine-video-1.5 |
-| 36 | `vip.brioi.com` | ¥0.2 | $0.2 | 1 | default | grok-imagine-video-1.5 |
-| 37 | `www.ggwk1.online` | ¥0.2 | $0.2 | 1 | AI视频 | grok-imagine-video-1.5 |
-| 38 | `video.liangrekui.com` | ¥0.225 | $0.225 | 1 | grok视频 | grok-imagine-video-1.5 |
-| 39 | `hetune.top` | ¥0.26 | $0.26 | 1 | 视频统一分组 | grok-imagine-video-1.5 |
-| 40 | `api.ifopen.ai` | ¥0.28 | $0.08 | 3.5 | default | grok-imagine-video-1.5 |
-| 41 | `api2.aigcbest.top` | ¥0.28 | $0.08 | 3.5 | default | grok-imagine-video-1.5 |
-| 42 | `www.bigmodel.ltd` | ¥0.292 | $0.04 | 7.3 | gpt-pro | grok-imagine-video-1.5 |
-| 43 | `coffeecatbox.cc` | ¥0.3 | $0.3 | 1 | Grok超绝反代 | grok-imagine-video-1.5 |
-| 44 | `cf.a-piko.top` | ¥0.312 | $0.312 | 1 | 视频统一分组 | grok-imagine-video-1.5 |
-| 45 | `ccapi.us` | ¥0.324 | $0.324 | 1 | Grok heavy | grok-imagine-video-1.5 |
-| 46 | `apibasis.com` | ¥0.36 | $0.36 | 1 | Grok super | grok-imagine-video-1.5 |
-| 47 | `api.aabao.ai` | ¥0.48 | $0.24 | 2 | Sora定制 | grok-imagine-video-1.5 |
-| 48 | `tian-shu.org` | ¥0.48 | $0.48 | 1 | 视频专用 | grok-imagine-video-1.5 |
-| 49 | `api1.147ai.com` | ¥0.5 | $0.5 | 1 | grok | grok-imagine-video-1.5 |
-| 50 | `moeapi.cloud` | ¥0.5 | $0.5 | 1 | Grok自营号池 | grok-imagine-video-1.5 |
+| 5 | `ai.qunq.de` | ¥0.08 | $0.08 | 1 | 视频分组 | grok-imagine-video-1.5 |
+| 6 | `newapi.prorisehub.com` | ¥0.08 | $0.08 | 1 | default | grok-imagine-video-1.5 |
+| 7 | `windapi.cc` | ¥0.08 | $0.08 | 1 | grok | grok-imagine-video-1.5 |
+| 8 | `relay.fast` | ¥0.09 | $0.09 | 1 | default | grok-imagine-video-1.5 |
+| 9 | `router.cheap` | ¥0.09 | $0.09 | 1 | default | grok-imagine-video-1.5 |
+| 10 | `nn.147ai.com` | ¥0.092 | $0.04 | 2.3 | default | grok-imagine-video-1.5 |
+| 11 | `newapi.ailyyzdk.xyz` | ¥0.096 | $0.096 | 1 | grok | grok-imagine-video-1.5 |
+| 12 | `newapi.aiopus.org` | ¥0.1 | $0.1 | 1 | default | grok-imagine-video-1.5 |
+| 13 | `newapi.aisonnet.org` | ¥0.1 | $0.1 | 1 | default | grok-imagine-video-1.5 |
+| 14 | `tokencount.aigemini.org` | ¥0.1 | $0.1 | 1 | default | grok-imagine-video-1.5 |
+| 15 | `xingwan.store` | ¥0.1 | $0.1 | 1 | gpt生图专用-绘画 | grok-imagine-video-1.5 |
+| 16 | `ai.cangyuansuanli.cn` | ¥0.116 | $0.116 | 1 | VIDEO | grok-imagine-video-1.5 |
+| 17 | `direct-api.cangyuansuanli.cn` | ¥0.116 | $0.116 | 1 | VIDEO | grok-imagine-video-1.5 |
+| 18 | `www.vibeapi.cn` | ¥0.12 | $0.36 | 0.333333 | Grok | grok-imagine-video-1.5 |
+| 19 | `api.lingxiaihub.com` | ¥0.12 | $0.12 | 1 | Grok heavy 满血 | grok-imagine-video-1.5 |
+| 20 | `api.wanapis.com` | ¥0.12 | $0.12 | 1 | default | grok-imagine-video-1.5 |
+| 21 | `api.wukong.support` | ¥0.12 | $0.12 | 1 | gork | grok-imagine-video-1.5 |
+| 22 | `fanrenapi.com` | ¥0.12 | $0.12 | 1 | 生图 | grok-imagine-video-1.5 |
+| 23 | `yinziapi.top` | ¥0.12 | $0.12 | 1 | grok稳定备用分组4 | grok-imagine-video-1.5 |
+| 24 | `yomiapi.com` | ¥0.139 | $0.02 | 6.95 | 生图专用分组 | grok-imagine-video-1.5 |
+| 25 | `new.ddpapi.top` | ¥0.15 | $0.15 | 1 | default | grok-imagine-video-1.5 |
+| 26 | `yyapis.com` | ¥0.15 | $0.15 | 1 | 生图 | grok-imagine-video-1.5 |
+| 27 | `hboom.ai` | ¥0.1632 | $0.024 | 6.8 | Grok-Mid | grok-imagine-video-1.5 |
+| 28 | `hk.hbapis.com` | ¥0.1632 | $0.024 | 6.8 | Grok-Mid | grok-imagine-video-1.5 |
+| 29 | `apicdn.xyc.ai` | ¥0.17 | $0.0246377 | 6.9 | grok-ent | grok-imagine-video-1.5 |
+| 30 | `apicdn.xycai.us` | ¥0.17 | $0.0246377 | 6.9 | grok-ent | grok-imagine-video-1.5 |
+| 31 | `1.cnmz.de` | ¥0.2 | $0.2 | 1 | 图片视频分组 | grok-imagine-video-1.5 |
+| 32 | `1yapi.com` | ¥0.2 | $0.2 | 1 | grok-super | grok-imagine-video-1.5 |
+| 33 | `api.aixoras.com` | ¥0.2 | $0.2 | 1 | Grok视频 | grok-imagine-video-1.5 |
+| 34 | `api.shisuanai.com` | ¥0.2 | $0.2 | 1 | 视频 | grok-imagine-video-1.5 |
+| 35 | `api.slomerex.xyz` | ¥0.2 | $0.2 | 1 | Grok Heavy | grok-imagine-video-1.5 |
+| 36 | `api.zoowyoo.dpdns.org` | ¥0.2 | $0.2 | 1 | 生图 | grok-imagine-video-1.5 |
+| 37 | `vip.brioi.com` | ¥0.2 | $0.2 | 1 | default | grok-imagine-video-1.5 |
+| 38 | `www.ggwk1.online` | ¥0.2 | $0.2 | 1 | AI视频 | grok-imagine-video-1.5 |
+| 39 | `video.liangrekui.com` | ¥0.225 | $0.225 | 1 | grok视频 | grok-imagine-video-1.5 |
+| 40 | `hetune.top` | ¥0.26 | $0.26 | 1 | 视频统一分组 | grok-imagine-video-1.5 |
+| 41 | `api.ifopen.ai` | ¥0.28 | $0.08 | 3.5 | default | grok-imagine-video-1.5 |
+| 42 | `api2.aigcbest.top` | ¥0.28 | $0.08 | 3.5 | default | grok-imagine-video-1.5 |
+| 43 | `www.bigmodel.ltd` | ¥0.292 | $0.04 | 7.3 | gpt-pro | grok-imagine-video-1.5 |
+| 44 | `coffeecatbox.cc` | ¥0.3 | $0.3 | 1 | Grok超绝反代 | grok-imagine-video-1.5 |
+| 45 | `cf.a-piko.top` | ¥0.312 | $0.312 | 1 | 视频统一分组 | grok-imagine-video-1.5 |
+| 46 | `ccapi.us` | ¥0.324 | $0.324 | 1 | Grok heavy | grok-imagine-video-1.5 |
+| 47 | `apibasis.com` | ¥0.36 | $0.36 | 1 | Grok super | grok-imagine-video-1.5 |
+| 48 | `api.aabao.ai` | ¥0.48 | $0.24 | 2 | Sora定制 | grok-imagine-video-1.5 |
+| 49 | `tian-shu.org` | ¥0.48 | $0.48 | 1 | 视频专用 | grok-imagine-video-1.5 |
+| 50 | `api1.147ai.com` | ¥0.5 | $0.5 | 1 | grok | grok-imagine-video-1.5 |
 
-> 另有 39 站未列出。
+> 另有 42 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -116,4 +116,4 @@
 | 47 | `api.bblabu.ai` | $4 | 视频模型分组 | 1 | grok-imagine-video-1.5 |
 | 48 | `ai.soulecho.cc` | $62.6609 | xAI Grok | 8 | grok-imagine-video-1.5 |
 
-> 109 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 111 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

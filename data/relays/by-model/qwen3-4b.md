@@ -1,6 +1,6 @@
 # qwen3-4b
 
-> 107 站提供 · 正常价 91 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.33**/1M 输入（26 站公开充值价） · 推算，未对账
+> 113 站提供 · 正常价 95 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,24 +18,28 @@
 | 6 | `claudecn.ai` | ¥0.27 | $0.27 / $1.08 | 1 | 国产模型 | qwen3-4b |
 | 7 | `api.ocoolai.com` | ¥0.285 | $0.285 / $2.85 | 1 | cn | qwen3-4b |
 | 8 | `ocool.cn` | ¥0.285 | $0.285 / $2.85 | 1 | cn | qwen3-4b |
-| 9 | `api.hopeai.cc` | ¥0.3 | $0.3 / $0.3 | 1 | default | qwen3-4b |
-| 10 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-4b |
-| 11 | `kfcv50.link` | ¥0.3 | $0.3 / $3 | 1 | Domestic | qwen3-4b |
-| 12 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-4b |
-| 13 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-4b |
-| 14 | `yibuapi.com` | ¥0.36 | $0.24 / $0.96 | 1.5 | default | qwen3-4b |
-| 15 | `ai.soruxgpt.com` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3-4b |
-| 16 | `api.eido.top` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3-4b |
-| 17 | `api.pie-xian.com` | ¥0.438 | $0.06 / $0.2 | 7.3 | 无限制 | qwen3-4b |
-| 18 | `www.hohoapi.com` | ¥0.468 | $0.156 / $0.624 | 3 | qwen | qwen3-4b |
-| 19 | `api.ifopen.ai` | ¥0.7 | $0.2 / $0.6 | 3.5 | default | qwen3-4b |
-| 20 | `api2.aigcbest.top` | ¥0.7 | $0.2 / $0.6 | 3.5 | default | qwen3-4b |
-| 21 | `webapi.xjai.cc` | ¥0.9 | $0.3 / $0.3 | 3 | default | qwen3-4b |
-| 22 | `api.ai-gaochao.cn` | ¥1.095 | $0.15 / $1.5 | 7.3 | guo_chan | qwen3-4b |
-| 23 | `apius.shubiaobiao.cn` | ¥1.095 | $0.15 / $1.5 | 7.3 | guo_chan | qwen3-4b |
-| 24 | `hy88.my` | ¥1.314 | $0.18 / $1.8 | 7.3 | qwen | qwen3-4b |
-| 25 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $8.4 | 1 | enterprise | qwen3-4b |
-| 26 | `yutoapi.com` | ¥2.1 | $2.1 / $8.4 | 1 | enterprise | qwen3-4b |
+| 9 | `one.ooo.cool` | ¥0.285 | $0.285 / $2.85 | 1 | cn | qwen3-4b |
+| 10 | `api.aiskt.com` | ¥0.3 | $0.3 / $3 | 1 | default | qwen3-4b |
+| 11 | `api.hopeai.cc` | ¥0.3 | $0.3 / $0.3 | 1 | default | qwen3-4b |
+| 12 | `api.xi-ai.cn` | ¥0.3 | $0.3 / $3 | 1 | 国产模型 | qwen3-4b |
+| 13 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-4b |
+| 14 | `kfcv50.link` | ¥0.3 | $0.3 / $3 | 1 | Domestic | qwen3-4b |
+| 15 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-4b |
+| 16 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-4b |
+| 17 | `yibuapi.com` | ¥0.36 | $0.24 / $0.96 | 1.5 | default | qwen3-4b |
+| 18 | `ai.soruxgpt.com` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3-4b |
+| 19 | `api.eido.top` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3-4b |
+| 20 | `api.pie-xian.com` | ¥0.438 | $0.06 / $0.2 | 7.3 | 无限制 | qwen3-4b |
+| 21 | `www.hohoapi.com` | ¥0.468 | $0.156 / $0.624 | 3 | qwen | qwen3-4b |
+| 22 | `api.ifopen.ai` | ¥0.7 | $0.2 / $0.6 | 3.5 | default | qwen3-4b |
+| 23 | `api2.aigcbest.top` | ¥0.7 | $0.2 / $0.6 | 3.5 | default | qwen3-4b |
+| 24 | `webapi.xjai.cc` | ¥0.9 | $0.3 / $0.3 | 3 | default | qwen3-4b |
+| 25 | `ai.mowen.vip` | ¥1.003 | $0.15 / $0.6 | 6.6892 | default | Qwen3-4B |
+| 26 | `api.ai-gaochao.cn` | ¥1.095 | $0.15 / $1.5 | 7.3 | guo_chan | qwen3-4b |
+| 27 | `apius.shubiaobiao.cn` | ¥1.095 | $0.15 / $1.5 | 7.3 | guo_chan | qwen3-4b |
+| 28 | `hy88.my` | ¥1.314 | $0.18 / $1.8 | 7.3 | qwen | qwen3-4b |
+| 29 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $8.4 | 1 | enterprise | qwen3-4b |
+| 30 | `yutoapi.com` | ¥2.1 | $2.1 / $8.4 | 1 | enterprise | qwen3-4b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -94,4 +98,4 @@
 
 > 另有 15 站未列出。
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

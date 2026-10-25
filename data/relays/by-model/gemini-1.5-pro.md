@@ -1,6 +1,6 @@
 # gemini-1.5-pro
 
-> 38 站提供 · 正常价 32 站 · 名义中位价 **$2.1875**/1M 输入 · 实付中位价 **¥3.5**/1M 输入（27 站公开充值价） · 推算，未对账
+> 40 站提供 · 正常价 34 站 · 名义中位价 **$2.1875**/1M 输入 · 实付中位价 **¥2.737**/1M 输入（29 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,24 +19,26 @@
 | 7 | `apiai.shop` | ¥1.5 | $1.25 / $5 | 1.2 | default | gemini-1.5-pro-latest |
 | 8 | `api.ocoolai.com` | ¥1.875 | $1.875 / $7.5 | 1 | default | gemini-1.5-pro |
 | 9 | `ocool.cn` | ¥1.875 | $1.875 / $7.5 | 1 | default | gemini-1.5-pro |
-| 10 | `fluxlane.cn` | ¥2.5 | $2.5 / - | 1 | - | gemini-1.5-pro-latest |
-| 11 | `www.micuapi.ai` | ¥2.5 | $2.5 / - | 1 | - | gemini-1.5-pro-latest |
-| 12 | `cf-api.o1key.com` | ¥2.54 | $2.5 / - | 1.016 | - | gemini-1.5-pro-latest |
-| 13 | `aio-api-ssvip.aiearth.dev` | ¥2.737 | $0.375 / $1.5 | 7.3 | nx | gemini-1.5-pro |
-| 14 | `api.eido.top` | ¥3.5 | $3.5 / $14 | 1 | default | gemini-1.5-pro-latest |
-| 15 | `new.gateway.icu` | ¥3.5 | $3.5 / $14 | 1 | gemini-aistudio-o | gemini-1.5-pro |
-| 16 | `webapi.xjai.cc` | ¥3.75 | $1.25 / $5 | 3 | svip | gemini-1.5-pro |
-| 17 | `hightpm.aiearth.dev` | ¥4.562 | $0.625 / $2.5 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-1.5-pro |
-| 18 | `ai.soruxgpt.com` | ¥4.9 | $4.9 / $19.6 | 1 | reverse-low | gemini-1.5-pro |
-| 19 | `8s.hk` | ¥5 | $5 / $20 | 1 | 全模型自动 | gemini-1.5-pro |
-| 20 | `tk.dmxapi.cn` | ¥6.25 | $1.25 / $5 | 5 | default | gemini-1.5-pro |
-| 21 | `api.hopeai.cc` | ¥7 | $7 / $28 | 1 | default | gemini-1.5-pro |
-| 22 | `api.openai-labs.com` | ¥7 | $7 / $28 | 1 | default | gemini-1.5-pro |
-| 23 | `newapi.tu-zi.com` | ¥7 | $7 / $28 | 1 | default | gemini-1.5-pro |
-| 24 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-1.5-pro |
-| 25 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro |
-| 26 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro |
-| 27 | `newapi.ailingnan.top` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-latest |
+| 10 | `one.ooo.cool` | ¥1.875 | $1.875 / $7.5 | 1 | default | gemini-1.5-pro |
+| 11 | `api.chatgptid.net` | ¥2 | $4 / $16 | 0.5 | default | gemini-1.5-pro-latest |
+| 12 | `fluxlane.cn` | ¥2.5 | $2.5 / - | 1 | - | gemini-1.5-pro-latest |
+| 13 | `www.micuapi.ai` | ¥2.5 | $2.5 / - | 1 | - | gemini-1.5-pro-latest |
+| 14 | `cf-api.o1key.com` | ¥2.54 | $2.5 / - | 1.016 | - | gemini-1.5-pro-latest |
+| 15 | `aio-api-ssvip.aiearth.dev` | ¥2.737 | $0.375 / $1.5 | 7.3 | nx | gemini-1.5-pro |
+| 16 | `api.eido.top` | ¥3.5 | $3.5 / $14 | 1 | default | gemini-1.5-pro-latest |
+| 17 | `new.gateway.icu` | ¥3.5 | $3.5 / $14 | 1 | gemini-aistudio-o | gemini-1.5-pro |
+| 18 | `webapi.xjai.cc` | ¥3.75 | $1.25 / $5 | 3 | svip | gemini-1.5-pro |
+| 19 | `hightpm.aiearth.dev` | ¥4.562 | $0.625 / $2.5 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-1.5-pro |
+| 20 | `ai.soruxgpt.com` | ¥4.9 | $4.9 / $19.6 | 1 | reverse-low | gemini-1.5-pro |
+| 21 | `8s.hk` | ¥5 | $5 / $20 | 1 | 全模型自动 | gemini-1.5-pro |
+| 22 | `tk.dmxapi.cn` | ¥6.25 | $1.25 / $5 | 5 | default | gemini-1.5-pro |
+| 23 | `api.hopeai.cc` | ¥7 | $7 / $28 | 1 | default | gemini-1.5-pro |
+| 24 | `api.openai-labs.com` | ¥7 | $7 / $28 | 1 | default | gemini-1.5-pro |
+| 25 | `newapi.tu-zi.com` | ¥7 | $7 / $28 | 1 | default | gemini-1.5-pro |
+| 26 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-1.5-pro |
+| 27 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro |
+| 28 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro |
+| 29 | `newapi.ailingnan.top` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-latest |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

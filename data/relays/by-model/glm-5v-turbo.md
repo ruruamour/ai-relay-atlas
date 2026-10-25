@@ -1,6 +1,6 @@
 # glm-5v-turbo
 
-> 62 站提供 · 正常价 39 站 · 名义中位价 **$0.730994**/1M 输入 · 实付中位价 **¥5.004**/1M 输入（28 站公开充值价） · 推算，未对账
+> 66 站提供 · 正常价 41 站 · 名义中位价 **$0.730994**/1M 输入 · 实付中位价 **¥5.004**/1M 输入（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,28 +16,30 @@
 | 4 | `closedai.kylenqaq.com` | ¥0.225 | $0.225 / $0.99 | 1 | 国模2 | glm-5v-turbo |
 | 5 | `www.treeapi.online` | ¥0.35 | $0.35 / $1.3 | 1 | tree自营 | glm-5v-turbo |
 | 6 | `daoxe.com` | ¥0.3627 | $0.3521 / $1.54924 | 1.03 | 海外国产模型 | glm-5v-turbo |
-| 7 | `ioll.pp.ua` | ¥1.056 | $0.3521 / $1.54924 | 3 | 聊天专属喵 | glm-5v-turbo |
-| 8 | `new.weilai.chat` | ¥1.12 | $1.12 / $4.16 | 1 | 国模 | glm-5v-turbo |
-| 9 | `easyrouter.io` | ¥1.2 | $1.2 / $4 | 1 | default | glm-5v-turbo |
-| 10 | `api.0elog.com` | ¥1.4 | $1.4 / $5.6 | 1 | 混合模型 | glm-5v-turbo |
-| 11 | `api.qinzhiai.com` | ¥4.2 | $4.2 / $14 | 1 | openrouter | z-ai/glm-5v-turbo |
-| 12 | `api.zhengmi.org` | ¥4.38 | $0.6 / $2 | 7.3 | 国模分组 | glm-5v-turbo |
-| 13 | `claudecn.ai` | ¥4.5 | $4.5 / $19.8 | 1 | 国产模型 | glm-5v-turbo |
-| 14 | `hk.moleapi.com` | ¥4.964 | $0.73 / $3.2 | 6.8 | default | glm-5v-turbo |
-| 15 | `apicdn.xyc.ai` | ¥5.044 | $0.730994 / $3.21637 | 6.9 | glm-flow | glm-5v-turbo |
-| 16 | `apicdn.xycai.us` | ¥5.044 | $0.730994 / $3.21637 | 6.9 | glm-flow | glm-5v-turbo |
-| 17 | `crazyrouter.com` | ¥5.6 | $0.8 / $3.52 | 7 | default | glm-5v-turbo |
-| 18 | `ifapi.org` | ¥7.695 | $1.14 / $3.8 | 6.75 | 智能熔断 | glm-5v-turbo |
-| 19 | `gg.llm-hub.store` | ¥8.6 | $8.6 / $28.8 | 1 | low | glm-5v-turbo |
-| 20 | `onetoken.link` | ¥8.76 | $1.2 / $4 | 7.3 | default | zai-org/GLM-5V-Turbo |
-| 21 | `x.one-origin.ai` | ¥8.76 | $1.2 / $4 | 7.3 | Lynx-ALL | z-ai/glm-5v-turbo |
-| 22 | `ai2.qiqiai.top` | ¥9.54 | $1.3068 / $5.75028 | 7.3 | 官方合作渠道 | z-ai/glm-5v-turbo |
-| 23 | `api.tacklekey.com` | ¥13.48 | $1.84615 / $6.15385 | 7.3 | default | z-ai/glm-5v-turbo |
-| 24 | `www.hohoapi.com` | ¥13.65 | $4.55 / $20.02 | 3 | default | glm-5v-turbo |
-| 25 | `api.ifopen.ai` | ¥24.5 | $7 / $26 | 3.5 | default | glm-5v-turbo |
-| 26 | `api2.aigcbest.top` | ¥24.5 | $7 / $26 | 3.5 | default | glm-5v-turbo |
-| 27 | `hboom.ai` | ¥30.6 | $4.5 / $19.8 | 6.8 | GLM-Top | glm-5v-turbo |
-| 28 | `hk.hbapis.com` | ¥30.6 | $4.5 / $19.8 | 6.8 | GLM-Top | glm-5v-turbo |
+| 7 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | GLM-5V-Turbo |
+| 8 | `ioll.pp.ua` | ¥1.056 | $0.3521 / $1.54924 | 3 | 聊天专属喵 | glm-5v-turbo |
+| 9 | `new.weilai.chat` | ¥1.12 | $1.12 / $4.16 | 1 | 国模 | glm-5v-turbo |
+| 10 | `easyrouter.io` | ¥1.2 | $1.2 / $4 | 1 | default | glm-5v-turbo |
+| 11 | `api.0elog.com` | ¥1.4 | $1.4 / $5.6 | 1 | 混合模型 | glm-5v-turbo |
+| 12 | `api.qinzhiai.com` | ¥4.2 | $4.2 / $14 | 1 | openrouter | z-ai/glm-5v-turbo |
+| 13 | `api.zhengmi.org` | ¥4.38 | $0.6 / $2 | 7.3 | 国模分组 | glm-5v-turbo |
+| 14 | `claudecn.ai` | ¥4.5 | $4.5 / $19.8 | 1 | 国产模型 | glm-5v-turbo |
+| 15 | `hk.moleapi.com` | ¥4.964 | $0.73 / $3.2 | 6.8 | default | glm-5v-turbo |
+| 16 | `apicdn.xyc.ai` | ¥5.044 | $0.730994 / $3.21637 | 6.9 | glm-flow | glm-5v-turbo |
+| 17 | `apicdn.xycai.us` | ¥5.044 | $0.730994 / $3.21637 | 6.9 | glm-flow | glm-5v-turbo |
+| 18 | `crazyrouter.com` | ¥5.6 | $0.8 / $3.52 | 7 | default | glm-5v-turbo |
+| 19 | `ai.bytonsec.com` | ¥7.2 | $7.2 / $24 | 1 | VERCEL | vercel/zai/glm-5v-turbo |
+| 20 | `ifapi.org` | ¥7.695 | $1.14 / $3.8 | 6.75 | 智能熔断 | glm-5v-turbo |
+| 21 | `gg.llm-hub.store` | ¥8.6 | $8.6 / $28.8 | 1 | low | glm-5v-turbo |
+| 22 | `onetoken.link` | ¥8.76 | $1.2 / $4 | 7.3 | default | zai-org/GLM-5V-Turbo |
+| 23 | `x.one-origin.ai` | ¥8.76 | $1.2 / $4 | 7.3 | Lynx-ALL | z-ai/glm-5v-turbo |
+| 24 | `ai2.qiqiai.top` | ¥9.54 | $1.3068 / $5.75028 | 7.3 | 官方合作渠道 | z-ai/glm-5v-turbo |
+| 25 | `api.tacklekey.com` | ¥13.48 | $1.84615 / $6.15385 | 7.3 | default | z-ai/glm-5v-turbo |
+| 26 | `www.hohoapi.com` | ¥13.65 | $4.55 / $20.02 | 3 | default | glm-5v-turbo |
+| 27 | `api.ifopen.ai` | ¥24.5 | $7 / $26 | 3.5 | default | glm-5v-turbo |
+| 28 | `api2.aigcbest.top` | ¥24.5 | $7 / $26 | 3.5 | default | glm-5v-turbo |
+| 29 | `hboom.ai` | ¥30.6 | $4.5 / $19.8 | 6.8 | GLM-Top | glm-5v-turbo |
+| 30 | `hk.hbapis.com` | ¥30.6 | $4.5 / $19.8 | 6.8 | GLM-Top | glm-5v-turbo |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -55,4 +57,4 @@
 | 10 | `or.mux.la` | $1.2 / $4 | default | 1 | z-ai/glm-5v-turbo |
 | 11 | `nodeai.cc` | $3.5 / $11.2 | GLM | 0.5 | glm-5v-turbo |
 
-> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

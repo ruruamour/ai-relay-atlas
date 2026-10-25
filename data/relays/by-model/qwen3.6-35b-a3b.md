@@ -1,6 +1,6 @@
 # qwen3.6-35b-a3b
 
-> 195 站提供 · 正常价 167 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥2.267**/1M 输入（99 站公开充值价） · 推算，未对账
+> 204 站提供 · 正常价 175 站 · 名义中位价 **$1.44**/1M 输入 · 实付中位价 **¥2.173**/1M 输入（107 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.aliyunfuwu.top` | ¥0.09 | $0.09 / $0.27 | 1 | SiliconFlow | Qwen/Qwen3.6-35B-A3B |
-| 2 | `kelaiapi.cc` | ¥0.0992 | $0.0992 / $0.594 | 1 | vip_ch | qwen3.6-35b-a3b |
-| 3 | `daoxe.com` | ¥0.1277 | $0.124 / $0.7425 | 1.03 | 海外国产模型 | qwen3.6-35b-a3b |
-| 4 | `rockapi.ai` | ¥0.175 | $0.175 / $1.05 | 1 | 0.7x | qwen3.6-35b-a3b |
-| 5 | `e.fishxcode.com` | ¥0.2571 | $0.257143 / $1.54286 | 1 | default | qwen3.6-35b-a3b |
-| 6 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $3.325 | 1 | openrouter | qwen/qwen3.6-35b-a3b |
-| 7 | `api.slomerex.xyz` | ¥0.36 | $0.36 / $2.16 | 1 | Qwen | qwen3.6-35b-a3b |
-| 8 | `hk.moleapi.com` | ¥0.816 | $0.12 / $0.72 | 6.8 | discount | qwen3.6-35b-a3b |
-| 9 | `llm.kagu.one` | ¥0.9052 | $0.124 / $0.7425 | 7.3 | 大杂烩 | qwen/qwen3.6-35b-a3b |
-| 10 | `api.camel-hub.cn` | ¥1.08 | $1.35 / $8.1 | 0.8 | default | qwen3.6-35b-a3b |
-| 11 | `api.camel-hub.com` | ¥1.08 | $1.35 / $8.1 | 0.8 | default | qwen3.6-35b-a3b |
-| 12 | `api.kr777.top` | ¥1.08 | $1.35 / $8.1 | 0.8 | default | qwen3.6-35b-a3b |
-| 13 | `x.one-origin.ai` | ¥1.095 | $0.15 / $1 | 7.3 | Lynx-ALL | qwen/qwen3.6-35b-a3b |
-| 14 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $1.46154 | 7.3 | default | qwen/qwen3.6-35b-a3b |
-| 15 | `hboom.ai` | ¥1.26 | $0.185293 / $1.11176 | 6.8 | Ali-Top | qwen3.6-35b-a3b |
-| 16 | `hk.hbapis.com` | ¥1.26 | $0.185293 / $1.11176 | 6.8 | Ali-Top | qwen3.6-35b-a3b |
-| 17 | `api.lingyaai.cn` | ¥1.422 | $1.422 / $8.532 | 1 | 国产普惠·源力计划 | qwen3.6-35b-a3b |
-| 18 | `beeroute.ai` | ¥1.422 | $1.422 / $8.532 | 1 | CN-Model-Special​ | qwen3.6-35b-a3b |
-| 19 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥1.422 | $1.422 / $8.532 | 1 | CN-Model-Special​ | qwen3.6-35b-a3b |
-| 20 | `147ai.com` | ¥1.44 | $1.44 / $8.64 | 1 | qwen | qwen3.6-35b-a3b |
-| 21 | `4sapi.com` | ¥1.44 | $1.44 / $8.64 | 1 | 国产全模型 | qwen3.6-35b-a3b |
-| 22 | `api.147ai.cn` | ¥1.44 | $1.44 / $8.64 | 1 | qwen | qwen3.6-35b-a3b |
-| 23 | `gpt777.top` | ¥1.44 | $1.44 / $8.64 | 1 | opensource | qwen3.6-35b-a3b |
-| 24 | `claudecn.ai` | ¥1.62 | $1.62 / $9.72 | 1 | 国产模型 | qwen3.6-35b-a3b |
-| 25 | `api.ifopen.ai` | ¥1.638 | $0.468 / $2.808 | 3.5 | 通用大模型 | qwen3.6-35b-a3b |
-| 26 | `api2.aigcbest.top` | ¥1.638 | $0.468 / $2.808 | 3.5 | 通用大模型 | qwen3.6-35b-a3b |
-| 27 | `modelsell.com` | ¥1.727 | $0.254 / $1.524 | 6.8 | Alibaba | qwen3.6-35b-a3b |
-| 28 | `aws.baby` | ¥1.8 | $1.8 / $10.8 | 1 | 阿里云百炼大客户 | qwen3.6-35b-a3b |
-| 29 | `biezou.com` | ¥1.8 | $1.8 / $10.8 | 1 | 阿里云百炼大客户 | qwen3.6-35b-a3b |
-| 30 | `coneverse.com` | ¥1.8 | $1.8 / $10.8 | 1 | qwen-official | qwen3.6-35b-a3b |
-| 31 | `infistar.ai` | ¥1.8 | $1.8 / $10.8 | 1 | qwen-official | qwen3.6-35b-a3b |
-| 32 | `new.foxi-api.cn` | ¥1.8 | $1.8 / $10.8 | 1 | default | qwen3.6-35b-a3b |
-| 33 | `api.apipro.ai` | ¥1.8 | $0.257143 / $1.54286 | 7 | bailian | qwen3.6-35b-a3b |
-| 34 | `api.laozhang.ai` | ¥1.8 | $0.257143 / $1.54286 | 7 | default | qwen3.6-35b-a3b |
-| 35 | `api.orcarouter.ai` | ¥1.81 | $0.248 / $1.485 | 7.3 | default | qwen/qwen3.6-35b-a3b |
-| 36 | `api.apiyi.com` | ¥1.82 | $0.26 / $1.56 | 7 | default | qwen3.6-35b-a3b |
-| 37 | `ai2.qiqiai.top` | ¥1.84 | $0.252 / $1.8 | 7.3 | 官方合作渠道 | qwen/qwen3.6-35b-a3b |
-| 38 | `unorouter.net` | ¥1.877 | $0.257143 / $1.54286 | 7.3 | default | qwen3.6-35b-a3b |
-| 39 | `api.openlux.ai` | ¥1.889 | $0.28125 / $1.6875 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 40 | `api.relayrouter.ai` | ¥1.889 | $0.28125 / $1.6875 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 41 | `openlux.zhongzhuan.chat` | ¥1.889 | $0.28125 / $1.6875 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 42 | `zgc.apihy.com` | ¥1.898 | $0.26 / $1.57 | 7.3 | default | qwen3.6-35b-a3b |
-| 43 | `hk.apitoken.ai` | ¥2.044 | $0.28 / $1.67 | 7.3 | default | Qwen3.6-35B-A3B |
-| 44 | `api.tidewhisper-ai.xyz` | ¥2.078 | $0.309375 / $1.85625 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 45 | `gzxbykj.com` | ¥2.078 | $0.309375 / $1.85625 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 46 | `yunwu.org` | ¥2.078 | $0.309375 / $1.85625 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 47 | `yibuapi.com` | ¥2.16 | $1.44 / $8.64 | 1.5 | claude-code | qwen3.6-35b-a3b |
-| 48 | `v2.cloudmist.cloud` | ¥2.173 | $0.323437 / $1.94062 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 49 | `infai.cc` | ¥2.267 | $0.3375 / $2.025 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
-| 50 | `www.vectronode.com` | ¥2.267 | $0.3375 / $2.025 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
+| 1 | `botcf.com` | ¥0.0744 | $0.0744 / $0.4455 | 1 | 🥮月饼月饼 | qwen3.6-35b-a3b |
+| 2 | `api.aliyunfuwu.top` | ¥0.09 | $0.09 / $0.27 | 1 | SiliconFlow | Qwen/Qwen3.6-35B-A3B |
+| 3 | `kelaiapi.cc` | ¥0.0992 | $0.0992 / $0.594 | 1 | vip_ch | qwen3.6-35b-a3b |
+| 4 | `daoxe.com` | ¥0.1277 | $0.124 / $0.7425 | 1.03 | 海外国产模型 | qwen3.6-35b-a3b |
+| 5 | `rockapi.ai` | ¥0.175 | $0.175 / $1.05 | 1 | 0.7x | qwen3.6-35b-a3b |
+| 6 | `e.fishxcode.com` | ¥0.2571 | $0.257143 / $1.54286 | 1 | default | qwen3.6-35b-a3b |
+| 7 | `ai.bytonsec.com` | ¥0.3 | $0.3 / $4.2 | 1 | OpenRouter | qwen/qwen3.6-35b-a3b |
+| 8 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $3.325 | 1 | openrouter | qwen/qwen3.6-35b-a3b |
+| 9 | `api.slomerex.xyz` | ¥0.36 | $0.36 / $2.16 | 1 | Qwen | qwen3.6-35b-a3b |
+| 10 | `hk.moleapi.com` | ¥0.816 | $0.12 / $0.72 | 6.8 | discount | qwen3.6-35b-a3b |
+| 11 | `ai.mowen.vip` | ¥0.8995 | $0.134474 / $0.806844 | 6.6892 | default | Qwen3.6-35B-A3B |
+| 12 | `llm.kagu.one` | ¥0.9052 | $0.124 / $0.7425 | 7.3 | 大杂烩 | qwen/qwen3.6-35b-a3b |
+| 13 | `api.camel-hub.cn` | ¥1.08 | $1.35 / $8.1 | 0.8 | default | qwen3.6-35b-a3b |
+| 14 | `api.camel-hub.com` | ¥1.08 | $1.35 / $8.1 | 0.8 | default | qwen3.6-35b-a3b |
+| 15 | `api.kr777.top` | ¥1.08 | $1.35 / $8.1 | 0.8 | default | qwen3.6-35b-a3b |
+| 16 | `x.one-origin.ai` | ¥1.095 | $0.15 / $1 | 7.3 | Lynx-ALL | qwen/qwen3.6-35b-a3b |
+| 17 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $1.46154 | 7.3 | default | qwen/qwen3.6-35b-a3b |
+| 18 | `hboom.ai` | ¥1.26 | $0.185293 / $1.11176 | 6.8 | Ali-Top | qwen3.6-35b-a3b |
+| 19 | `hk.hbapis.com` | ¥1.26 | $0.185293 / $1.11176 | 6.8 | Ali-Top | qwen3.6-35b-a3b |
+| 20 | `api.lingyaai.cn` | ¥1.422 | $1.422 / $8.532 | 1 | 国产普惠·源力计划 | qwen3.6-35b-a3b |
+| 21 | `beeroute.ai` | ¥1.422 | $1.422 / $8.532 | 1 | CN-Model-Special​ | qwen3.6-35b-a3b |
+| 22 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥1.422 | $1.422 / $8.532 | 1 | CN-Model-Special​ | qwen3.6-35b-a3b |
+| 23 | `147ai.com` | ¥1.44 | $1.44 / $8.64 | 1 | qwen | qwen3.6-35b-a3b |
+| 24 | `4sapi.com` | ¥1.44 | $1.44 / $8.64 | 1 | 国产全模型 | qwen3.6-35b-a3b |
+| 25 | `api.147ai.cn` | ¥1.44 | $1.44 / $8.64 | 1 | qwen | qwen3.6-35b-a3b |
+| 26 | `gpt777.top` | ¥1.44 | $1.44 / $8.64 | 1 | opensource | qwen3.6-35b-a3b |
+| 27 | `claudecn.ai` | ¥1.62 | $1.62 / $9.72 | 1 | 国产模型 | qwen3.6-35b-a3b |
+| 28 | `api.ifopen.ai` | ¥1.638 | $0.468 / $2.808 | 3.5 | 通用大模型 | qwen3.6-35b-a3b |
+| 29 | `api2.aigcbest.top` | ¥1.638 | $0.468 / $2.808 | 3.5 | 通用大模型 | qwen3.6-35b-a3b |
+| 30 | `modelsell.com` | ¥1.727 | $0.254 / $1.524 | 6.8 | Alibaba | qwen3.6-35b-a3b |
+| 31 | `aws.baby` | ¥1.8 | $1.8 / $10.8 | 1 | 阿里云百炼大客户 | qwen3.6-35b-a3b |
+| 32 | `biezou.com` | ¥1.8 | $1.8 / $10.8 | 1 | 阿里云百炼大客户 | qwen3.6-35b-a3b |
+| 33 | `coneverse.com` | ¥1.8 | $1.8 / $10.8 | 1 | qwen-official | qwen3.6-35b-a3b |
+| 34 | `infistar.ai` | ¥1.8 | $1.8 / $10.8 | 1 | qwen-official | qwen3.6-35b-a3b |
+| 35 | `new.foxi-api.cn` | ¥1.8 | $1.8 / $10.8 | 1 | default | qwen3.6-35b-a3b |
+| 36 | `api.apipro.ai` | ¥1.8 | $0.257143 / $1.54286 | 7 | bailian | qwen3.6-35b-a3b |
+| 37 | `api.laozhang.ai` | ¥1.8 | $0.257143 / $1.54286 | 7 | default | qwen3.6-35b-a3b |
+| 38 | `api.orcarouter.ai` | ¥1.81 | $0.248 / $1.485 | 7.3 | default | qwen/qwen3.6-35b-a3b |
+| 39 | `api.apiyi.com` | ¥1.82 | $0.26 / $1.56 | 7 | default | qwen3.6-35b-a3b |
+| 40 | `ai2.qiqiai.top` | ¥1.84 | $0.252 / $1.8 | 7.3 | 官方合作渠道 | qwen/qwen3.6-35b-a3b |
+| 41 | `unorouter.net` | ¥1.877 | $0.257143 / $1.54286 | 7.3 | default | qwen3.6-35b-a3b |
+| 42 | `api.openlux.ai` | ¥1.889 | $0.28125 / $1.6875 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
+| 43 | `api.relayrouter.ai` | ¥1.889 | $0.28125 / $1.6875 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
+| 44 | `openlux.zhongzhuan.chat` | ¥1.889 | $0.28125 / $1.6875 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
+| 45 | `zgc.apihy.com` | ¥1.898 | $0.26 / $1.57 | 7.3 | default | qwen3.6-35b-a3b |
+| 46 | `www.dayueai.fun` | ¥1.9 | $1.9 / $11 | 1 | vip | qwen3.6-35b-a3b |
+| 47 | `hk.apitoken.ai` | ¥2.044 | $0.28 / $1.67 | 7.3 | default | Qwen3.6-35B-A3B |
+| 48 | `4zapi.com` | ¥2.078 | $0.309375 / $1.85625 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
+| 49 | `api.tidewhisper-ai.xyz` | ¥2.078 | $0.309375 / $1.85625 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
+| 50 | `gzxbykj.com` | ¥2.078 | $0.309375 / $1.85625 | 6.718 | Alibaba-2 | qwen3.6-35b-a3b |
 
-> 另有 49 站未列出。
+> 另有 57 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 18 站未列出。
 
-> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 29 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

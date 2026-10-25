@@ -1,6 +1,6 @@
 # grok-imagine-image
 
-> 473 站提供 · 正常价 378 站 · 名义中位价 **$0.06**/次 · 实付中位价 **¥0.1243**/次（255 站公开充值价） · 推算，未对账
+> 486 站提供 · 正常价 389 站 · 名义中位价 **$0.06**/次 · 实付中位价 **¥0.12**/次（266 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -33,35 +33,35 @@
 | 21 | `api.muxllm.com` | ¥0.02 | $0.02 | 1 | Grok订阅 | grok-imagine-image |
 | 22 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 按次大分组-注意embedding模型不是按次 | grok-imagine-image |
 | 23 | `api.tokenreply.com` | ¥0.02 | $0.02 | 1 | default | grok-imagine-image |
-| 24 | `api.zygtoken.com` | ¥0.02 | $0.02 | 1 | nano | grok-imagine-image |
-| 25 | `api.zzswitch.com` | ¥0.02 | $0.02 | 1 | grok生图 | grok-imagine-image |
-| 26 | `newapi.prorisehub.com` | ¥0.02 | $0.02 | 1 | default | grok-imagine-image |
-| 27 | `newapi.qianqianye.com` | ¥0.02 | $0.02 | 1 | 促销-grok | grok-imagine-image |
-| 28 | `www.mrouter.com` | ¥0.02 | $0.02 | 1 | image-z | grok-imagine-image |
-| 29 | `123api.co` | ¥0.021 | $0.021 | 1 | gpt | grok-imagine-image |
-| 30 | `easymax.ai` | ¥0.022 | $0.022 | 1 | grok | grok-imagine-image |
-| 31 | `hk-api.shqbb.com` | ¥0.022 | $0.022 | 1 | grok | grok-imagine-image |
-| 32 | `nezhai.vip` | ¥0.0225 | $0.0225 | 1 | 【生图组】 | grok-imagine-image |
-| 33 | `yetoken.vip` | ¥0.025 | $0.025 | 1 | G-Grok 1K/2K生图 | grok-imagine-image |
-| 34 | `api.1024token.xyz` | ¥0.026 | $0.026 | 1 | grok | grok-imagine-image |
-| 35 | `api.ccmin.ai` | ¥0.03 | $0.03 | 1 | GROK-官转-CLAUDE协议 | grok-imagine-image |
-| 36 | `api.ciyuanshen.top` | ¥0.03 | $0.03 | 1 | 生图 | grok-imagine-image |
-| 37 | `api.wukong.support` | ¥0.03 | $0.03 | 1 | gork | grok-imagine-image |
-| 38 | `dmapi.ai` | ¥0.03 | $0.03 | 1 | master key | grok-imagine-image |
-| 39 | `fanrenapi.com` | ¥0.03 | $0.03 | 1 | 生图 | grok-imagine-image |
-| 40 | `img.yunfei.best` | ¥0.03 | $0.03 | 1 | grok生图 | grok-imagine-image |
-| 41 | `sapi.zly168.cn` | ¥0.03 | $0.03 | 1 | default | grok-imagine-image |
-| 42 | `wolfai.top` | ¥0.03 | $0.015 | 2 | Mini | grok-imagine-image |
-| 43 | `api.camel-hub.com` | ¥0.032 | $0.04 | 0.8 | default | grok-imagine-image |
-| 44 | `chrisapivip.com` | ¥0.035 | $0.035 | 1 | grok-video | grok-imagine-image |
-| 45 | `botcf.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine-image |
-| 46 | `yuanqiaoyun.com` | ¥0.0375 | $0.0375 | 1 | grok | grok-imagine-image |
-| 47 | `ai.cangyuansuanli.cn` | ¥0.039 | $0.039 | 1 | IMAGE | grok-imagine-image |
-| 48 | `1.cnmz.de` | ¥0.04 | $0.04 | 1 | 图片视频分组 | grok-imagine-image |
-| 49 | `8s.hk` | ¥0.04 | $0.04 | 1 | 全模型自动 | grok-imagine-image |
-| 50 | `ahhilai.top` | ¥0.04 | $0.04 | 1 | 各种生图模型混合分组 | grok-imagine-image |
+| 24 | `api.xi-ai.cn` | ¥0.02 | $0.02 | 1 | image_video | grok-imagine-image |
+| 25 | `api.zygtoken.com` | ¥0.02 | $0.02 | 1 | nano | grok-imagine-image |
+| 26 | `api.zzswitch.com` | ¥0.02 | $0.02 | 1 | grok生图 | grok-imagine-image |
+| 27 | `newapi.prorisehub.com` | ¥0.02 | $0.02 | 1 | default | grok-imagine-image |
+| 28 | `newapi.qianqianye.com` | ¥0.02 | $0.02 | 1 | 促销-grok | grok-imagine-image |
+| 29 | `www.mrouter.com` | ¥0.02 | $0.02 | 1 | image-z | grok-imagine-image |
+| 30 | `123api.co` | ¥0.021 | $0.021 | 1 | gpt | grok-imagine-image |
+| 31 | `easymax.ai` | ¥0.022 | $0.022 | 1 | grok | grok-imagine-image |
+| 32 | `hk-api.shqbb.com` | ¥0.022 | $0.022 | 1 | grok | grok-imagine-image |
+| 33 | `nezhai.vip` | ¥0.0225 | $0.0225 | 1 | 【生图组】 | grok-imagine-image |
+| 34 | `yetoken.vip` | ¥0.025 | $0.025 | 1 | G-Grok 1K/2K生图 | grok-imagine-image |
+| 35 | `api.1024token.xyz` | ¥0.026 | $0.026 | 1 | grok | grok-imagine-image |
+| 36 | `api.ccmin.ai` | ¥0.03 | $0.03 | 1 | GROK-官转-CLAUDE协议 | grok-imagine-image |
+| 37 | `api.ciyuanshen.top` | ¥0.03 | $0.03 | 1 | 生图 | grok-imagine-image |
+| 38 | `api.wukong.support` | ¥0.03 | $0.03 | 1 | gork | grok-imagine-image |
+| 39 | `dmapi.ai` | ¥0.03 | $0.03 | 1 | master key | grok-imagine-image |
+| 40 | `fanrenapi.com` | ¥0.03 | $0.03 | 1 | 生图 | grok-imagine-image |
+| 41 | `img.yunfei.best` | ¥0.03 | $0.03 | 1 | grok生图 | grok-imagine-image |
+| 42 | `sapi.zly168.cn` | ¥0.03 | $0.03 | 1 | default | grok-imagine-image |
+| 43 | `wolfai.top` | ¥0.03 | $0.015 | 2 | Mini | grok-imagine-image |
+| 44 | `api.camel-hub.com` | ¥0.032 | $0.04 | 0.8 | default | grok-imagine-image |
+| 45 | `chrisapivip.com` | ¥0.035 | $0.035 | 1 | grok-video | grok-imagine-image |
+| 46 | `botcf.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine-image |
+| 47 | `xn--15q04w3tg4kio0a.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine-image |
+| 48 | `yuanqiaoyun.com` | ¥0.0375 | $0.0375 | 1 | grok | grok-imagine-image |
+| 49 | `ai.cangyuansuanli.cn` | ¥0.039 | $0.039 | 1 | IMAGE | grok-imagine-image |
+| 50 | `1.cnmz.de` | ¥0.04 | $0.04 | 1 | 图片视频分组 | grok-imagine-image |
 
-> 另有 205 站未列出。
+> 另有 216 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 73 站未列出。
 
-> 95 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 97 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

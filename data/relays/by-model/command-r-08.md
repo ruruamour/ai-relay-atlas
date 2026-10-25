@@ -1,6 +1,6 @@
 # command-r-08
 
-> 26 站提供 · 正常价 17 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥1.035**/1M 输入（15 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 19 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.9**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,17 +14,19 @@
 | 2 | `api.vakv.cn` | ¥0.39 | $0.39 / $1.56 | 1 | 9999 | command-r-08-2024 |
 | 3 | `api.uiuihao.com` | ¥0.4785 | $0.15 / $0.6 | 3.19 | default | command-r-08-2024 |
 | 4 | `sg.uiuiapi.com` | ¥0.4785 | $0.15 / $0.6 | 3.19 | default | command-r-08-2024 |
-| 5 | `api.qinzhiai.com` | ¥0.525 | $0.525 / $2.1 | 1 | openrouter | cohere/command-r-08-2024 |
-| 6 | `llm.kagu.one` | ¥0.5475 | $0.075 / $0.3 | 7.3 | 大杂烩 | cohere/command-r-08-2024 |
-| 7 | `api.wukong.support` | ¥0.5625 | $0.5625 / $2.25 | 1 | gemini官渠 | command-r-08-2024 |
-| 8 | `apicdn.xyc.ai` | ¥1.035 | $0.15 / $0.6 | 6.9 | cohere-flow | command-r-08-2024 |
-| 9 | `apicdn.xycai.us` | ¥1.035 | $0.15 / $0.6 | 6.9 | cohere-flow | command-r-08-2024 |
-| 10 | `kubernetes-test-api.apiqik.online` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | command-r-08-2024 |
-| 11 | `newapi.ailingnan.top` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | command-r-08-2024 |
-| 12 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $0.923077 | 7.3 | default | cohere/command-r-08-2024 |
-| 13 | `ai2.qiqiai.top` | ¥1.971 | $0.27 / $1.08 | 7.3 | 官方合作渠道 | cohere/command-r-08-2024 |
-| 14 | `api.ifopen.ai` | ¥5.25 | $1.5 / $6 | 3.5 | default | command-r-08-2024 |
-| 15 | `api2.aigcbest.top` | ¥5.25 | $1.5 / $6 | 3.5 | default | command-r-08-2024 |
+| 5 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.298989 | 6.6892 | default | command-r-08-2024 |
+| 6 | `api.qinzhiai.com` | ¥0.525 | $0.525 / $2.1 | 1 | openrouter | cohere/command-r-08-2024 |
+| 7 | `llm.kagu.one` | ¥0.5475 | $0.075 / $0.3 | 7.3 | 大杂烩 | cohere/command-r-08-2024 |
+| 8 | `api.wukong.support` | ¥0.5625 | $0.5625 / $2.25 | 1 | gemini官渠 | command-r-08-2024 |
+| 9 | `ai.bytonsec.com` | ¥0.9 | $0.9 / $3.6 | 1 | OpenRouter | cohere/command-r-08-2024 |
+| 10 | `apicdn.xyc.ai` | ¥1.035 | $0.15 / $0.6 | 6.9 | cohere-flow | command-r-08-2024 |
+| 11 | `apicdn.xycai.us` | ¥1.035 | $0.15 / $0.6 | 6.9 | cohere-flow | command-r-08-2024 |
+| 12 | `kubernetes-test-api.apiqik.online` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | command-r-08-2024 |
+| 13 | `newapi.ailingnan.top` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | command-r-08-2024 |
+| 14 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $0.923077 | 7.3 | default | cohere/command-r-08-2024 |
+| 15 | `ai2.qiqiai.top` | ¥1.971 | $0.27 / $1.08 | 7.3 | 官方合作渠道 | cohere/command-r-08-2024 |
+| 16 | `api.ifopen.ai` | ¥5.25 | $1.5 / $6 | 3.5 | default | command-r-08-2024 |
+| 17 | `api2.aigcbest.top` | ¥5.25 | $1.5 / $6 | 3.5 | default | command-r-08-2024 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

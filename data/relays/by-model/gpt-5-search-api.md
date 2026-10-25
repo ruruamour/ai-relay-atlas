@@ -1,6 +1,6 @@
 # gpt-5-search-api
 
-> 192 站提供 · 正常价 153 站 · 名义中位价 **$7.353**/1M 输入 · 实付中位价 **¥6.734**/1M 输入（78 站公开充值价） · 推算，未对账
+> 203 站提供 · 正常价 162 站 · 名义中位价 **$5.625**/1M 输入 · 实付中位价 **¥6.8**/1M 输入（87 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `kfcv50.link` | ¥1 | $1 / $8 | 1 | pure_az | gpt-5-search-api |
 | 2 | `xinsuanai.com` | ¥1.25 | $1.25 / $10 | 1 | default | gpt-5-search-api |
 | 3 | `35.aigcbest.top` | ¥1.875 | $1.25 / $10 | 1.5 | default | gpt-5-search-api |
-| 4 | `api.34ku.com` | ¥1.95 | $1.95 / $15.6 | 1 | default | gpt-5-search-api |
-| 5 | `147ai.online` | ¥2 | $2.5 / $20 | 0.8 | default | gpt-5-search-api |
-| 6 | `gpt777.top` | ¥2.5 | $2.5 / $20 | 1 | Azure | gpt-5-search-api |
-| 7 | `api.qinzhiai.com` | ¥3.125 | $3.125 / $25 | 1 | openai | gpt-5-search-api |
-| 8 | `api.bltcy.ai` | ¥3.75 | $3.75 / $30 | 1 | ssvip | gpt-5-search-api |
-| 9 | `apilio.ai` | ¥3.75 | $3.75 / $30 | 1 | ssvip | gpt-5-search-api |
-| 10 | `test-ssl.bltcy.ai` | ¥3.75 | $3.75 / $30 | 1 | ssvip | gpt-5-search-api |
-| 11 | `api.ifopen.ai` | ¥4.375 | $1.25 / $10 | 3.5 | default | gpt-5-search-api |
-| 12 | `api2.aigcbest.top` | ¥4.375 | $1.25 / $10 | 3.5 | default | gpt-5-search-api |
-| 13 | `poloai.top` | ¥4.375 | $4.375 / $35 | 1 | gpt-vip | gpt-5-search-api |
-| 14 | `llm.kagu.one` | ¥4.562 | $0.625 / $5 | 7.3 | 大杂烩 | gpt-5-search-api |
-| 15 | `api.openlux.ai` | ¥4.94 | $0.7353 / $5.8824 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 16 | `api.relayrouter.ai` | ¥4.94 | $0.7353 / $5.8824 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 17 | `openlux.zhongzhuan.chat` | ¥4.94 | $0.7353 / $5.8824 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 18 | `api.qiqiai.top` | ¥5 | $2.5 / $20 | 2 | Claude / OpenAI 官方 | gpt-5-search-api |
-| 19 | `deepkey.top` | ¥5 | $5 / $25 | 1 | gpt-openai2 | gpt-5-search-api |
-| 20 | `i-sh.v1api.cc` | ¥5 | $5 / $40 | 1 | gpt官 | gpt-5-search-api |
-| 21 | `i.v1api.cc` | ¥5 | $5 / $40 | 1 | gpt官 | gpt-5-search-api |
-| 22 | `ai.t8star.org` | ¥5.062 | $3.75 / $30 | 1.35 | ssvip | gpt-5-search-api |
-| 23 | `api.tidewhisper-ai.xyz` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 24 | `gzxbykj.com` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 25 | `yunwu.org` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 26 | `v2.cloudmist.cloud` | ¥5.681 | $0.845595 / $6.76476 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 27 | `www.vectronode.com` | ¥5.928 | $0.88236 / $7.05888 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 28 | `apiclaw.cn` | ¥5.977 | $0.889713 / $7.1177 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 29 | `newapi.xueai.me` | ¥5.977 | $0.889713 / $7.1177 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 30 | `wodapis.com` | ¥5.977 | $0.889713 / $7.1177 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 31 | `ciyuan.today` | ¥6.175 | $0.919125 / $7.353 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 32 | `gptapi.top` | ¥6.175 | $0.919125 / $7.353 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 33 | `makerend.com` | ¥6.175 | $0.919125 / $7.353 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 34 | `moliapi.com` | ¥6.224 | $0.926478 / $7.41182 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 35 | `api1.147ai.com` | ¥6.25 | $6.25 / $50 | 1 | openai | gpt-5-search-api |
-| 36 | `ai-api.cc` | ¥6.422 | $0.95589 / $7.64712 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 37 | `nodapi.com` | ¥6.52 | $0.970596 / $7.76477 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 38 | `anyaigc.ai` | ¥6.669 | $0.992655 / $7.94124 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 39 | `infai.cc` | ¥6.669 | $0.992655 / $7.94124 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 40 | `hk.moleapi.com` | ¥6.8 | $1 / $8 | 6.8 | discount | gpt-5-search-api |
-| 41 | `sheepaiplus.top` | ¥6.916 | $1.02942 / $8.23536 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 42 | `xiguapi.icu` | ¥6.916 | $1.02942 / $8.23536 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 43 | `getgoapi.com` | ¥7.2 | $1 / $8 | 7.2 | default | gpt-5-search-api |
-| 44 | `api.88api.chat` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 45 | `api.88api.shop` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 46 | `api.videocaptioner.cn` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 47 | `new.aigc2d.com` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 48 | `oyy-ai.xyz` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
-| 49 | `api.ycapi.xyz` | ¥7.609 | $7.6087 / $60.8696 | 1 | gpt-openai2 | gpt-5-search-api |
-| 50 | `api.ocoolai.com` | ¥7.875 | $7.875 / $63 | 1 | claude_official | gpt-5-search-api |
+| 4 | `api.aiskt.com` | ¥1.875 | $1.875 / $15 | 1 | azureqy | gpt-5-search-api |
+| 5 | `api.34ku.com` | ¥1.95 | $1.95 / $15.6 | 1 | default | gpt-5-search-api |
+| 6 | `147ai.online` | ¥2 | $2.5 / $20 | 0.8 | default | gpt-5-search-api |
+| 7 | `gpt777.top` | ¥2.5 | $2.5 / $20 | 1 | Azure | gpt-5-search-api |
+| 8 | `api.qinzhiai.com` | ¥3.125 | $3.125 / $25 | 1 | openai | gpt-5-search-api |
+| 9 | `api.bltcy.ai` | ¥3.75 | $3.75 / $30 | 1 | ssvip | gpt-5-search-api |
+| 10 | `apilio.ai` | ¥3.75 | $3.75 / $30 | 1 | ssvip | gpt-5-search-api |
+| 11 | `test-ssl.bltcy.ai` | ¥3.75 | $3.75 / $30 | 1 | ssvip | gpt-5-search-api |
+| 12 | `api.ifopen.ai` | ¥4.375 | $1.25 / $10 | 3.5 | default | gpt-5-search-api |
+| 13 | `api2.aigcbest.top` | ¥4.375 | $1.25 / $10 | 3.5 | default | gpt-5-search-api |
+| 14 | `poloai.top` | ¥4.375 | $4.375 / $35 | 1 | gpt-vip | gpt-5-search-api |
+| 15 | `xy.poloapi.com` | ¥4.375 | $4.375 / $35 | 1 | gpt-vip | gpt-5-search-api |
+| 16 | `llm.kagu.one` | ¥4.562 | $0.625 / $5 | 7.3 | 大杂烩 | gpt-5-search-api |
+| 17 | `api.openlux.ai` | ¥4.94 | $0.7353 / $5.8824 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 18 | `api.relayrouter.ai` | ¥4.94 | $0.7353 / $5.8824 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 19 | `openlux.zhongzhuan.chat` | ¥4.94 | $0.7353 / $5.8824 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 20 | `api.qiqiai.top` | ¥5 | $2.5 / $20 | 2 | Claude / OpenAI 官方 | gpt-5-search-api |
+| 21 | `deepkey.top` | ¥5 | $5 / $25 | 1 | gpt-openai2 | gpt-5-search-api |
+| 22 | `i-sh.v1api.cc` | ¥5 | $5 / $40 | 1 | gpt官 | gpt-5-search-api |
+| 23 | `i.v1api.cc` | ¥5 | $5 / $40 | 1 | gpt官 | gpt-5-search-api |
+| 24 | `ai.t8star.org` | ¥5.062 | $3.75 / $30 | 1.35 | ssvip | gpt-5-search-api |
+| 25 | `4zapi.com` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 26 | `api.tidewhisper-ai.xyz` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 27 | `gzxbykj.com` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 28 | `yunwu.org` | ¥5.434 | $0.80883 / $6.47064 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 29 | `api.antmoo.cc` | ¥5.681 | $0.845595 / $6.76476 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 30 | `v2.cloudmist.cloud` | ¥5.681 | $0.845595 / $6.76476 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 31 | `www.vectronode.com` | ¥5.928 | $0.88236 / $7.05888 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 32 | `apiclaw.cn` | ¥5.977 | $0.889713 / $7.1177 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 33 | `newapi.xueai.me` | ¥5.977 | $0.889713 / $7.1177 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 34 | `wodapis.com` | ¥5.977 | $0.889713 / $7.1177 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 35 | `ciyuan.today` | ¥6.175 | $0.919125 / $7.353 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 36 | `gptapi.top` | ¥6.175 | $0.919125 / $7.353 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 37 | `makerend.com` | ¥6.175 | $0.919125 / $7.353 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 38 | `moliapi.com` | ¥6.224 | $0.926478 / $7.41182 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 39 | `api1.147ai.com` | ¥6.25 | $6.25 / $50 | 1 | openai | gpt-5-search-api |
+| 40 | `ai-api.cc` | ¥6.422 | $0.95589 / $7.64712 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 41 | `nodapi.com` | ¥6.52 | $0.970596 / $7.76477 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 42 | `anyaigc.ai` | ¥6.669 | $0.992655 / $7.94124 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 43 | `infai.cc` | ¥6.669 | $0.992655 / $7.94124 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 44 | `hk.moleapi.com` | ¥6.8 | $1 / $8 | 6.8 | discount | gpt-5-search-api |
+| 45 | `sheepaiplus.top` | ¥6.916 | $1.02942 / $8.23536 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 46 | `xiguapi.icu` | ¥6.916 | $1.02942 / $8.23536 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 47 | `getgoapi.com` | ¥7.2 | $1 / $8 | 7.2 | default | gpt-5-search-api |
+| 48 | `api.88api.chat` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 49 | `api.88api.shop` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
+| 50 | `api.videocaptioner.cn` | ¥7.41 | $1.10295 / $8.8236 | 6.718 | Openai-Gpt-1 | gpt-5-search-api |
 
-> 另有 28 站未列出。
+> 另有 37 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 25 站未列出。
 
-> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 41 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # claude-mythos-5
 
-> 40 站提供 · 正常价 30 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥80.51**/1M 输入（2 站公开充值价） · 推算，未对账
+> 42 站提供 · 正常价 32 站 · 名义中位价 **$3.25**/1M 输入 · 实付中位价 **¥10**/1M 输入（3 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,7 +11,8 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `daoxe.com` | ¥7.725 | $7.5 / $37.5 | 1.03 | claude-awsq-满血 | claude-mythos-5 |
-| 2 | `nxaiapp.com` | ¥153.3 | $21 / $105 | 7.3 | 3vip | claude-mythos-5 |
+| 2 | `api.aiskt.com` | ¥10 | $10 / $50 | 1 | default | claude-mythos-5 |
+| 3 | `nxaiapp.com` | ¥153.3 | $21 / $105 | 7.3 | 3vip | claude-mythos-5 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -43,7 +44,8 @@
 | 24 | `ai.aiaimark.com` | $15 / $75 | claude-优惠分组 | 1.5 | claude-mythos-5 |
 | 25 | `ai.bayunzi.shop` | $15 / $75 | Claude-官转可外接 | 1.5 | claude-mythos-5 |
 | 26 | `www.jiguang.me` | $15 / $75 | CCMAX蒸馏 | 1.5 | claude-mythos-5 |
-| 27 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-5 |
-| 28 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-5 |
+| 27 | `magicai.click` | $18 / $90 | Claude-负载均衡1 | 1.8 | claude-mythos-5 |
+| 28 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-5 |
+| 29 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-5 |
 
 > 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

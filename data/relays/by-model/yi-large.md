@@ -1,6 +1,6 @@
 # yi-large
 
-> 33 站提供 · 正常价 20 站 · 名义中位价 **$2.61986**/1M 输入 · 实付中位价 **¥2.74**/1M 输入（16 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 21 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥2.74**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,9 +23,10 @@
 | 11 | `wzw.pp.ua` | ¥3.196 | $3.196 / $3.196 | 1 | default | 01-ai/yi-large |
 | 12 | `api.vakv.cn` | ¥7.123 | $7.12329 / $7.12329 | 1 | 9999 | yi-large |
 | 13 | `webapi.xjai.cc` | ¥8.219 | $2.73973 / $2.73973 | 3 | default | yi-large |
-| 14 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | yi-large |
-| 15 | `kubernetes-test-api.apiqik.online` | ¥20 | $2.73973 / $2.73973 | 7.3 | default | yi-large |
-| 16 | `newapi.ailingnan.top` | ¥20 | $2.73973 / $2.73973 | 7.3 | default | yi-large |
+| 14 | `ai.mowen.vip` | ¥9.163 | $1.36986 / $1.36986 | 6.6892 | default | yi-large |
+| 15 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | yi-large |
+| 16 | `kubernetes-test-api.apiqik.online` | ¥20 | $2.73973 / $2.73973 | 7.3 | default | yi-large |
+| 17 | `newapi.ailingnan.top` | ¥20 | $2.73973 / $2.73973 | 7.3 | default | yi-large |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

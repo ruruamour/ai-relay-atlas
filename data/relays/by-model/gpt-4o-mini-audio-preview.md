@@ -1,6 +1,6 @@
 # gpt-4o-mini-audio-preview
 
-> 154 站提供 · 正常价 128 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.57**/1M 输入（42 站公开充值价） · 推算，未对账
+> 159 站提供 · 正常价 129 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.54**/1M 输入（43 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -29,29 +29,30 @@
 | 17 | `test-api.apiqik.online` | ¥0.315 | $0.045 / $0.18 | 7 | openai | gpt-4o-mini-audio-preview |
 | 18 | `api.qinzhiai.com` | ¥0.375 | $0.375 / $1.5 | 1 | openai | gpt-4o-mini-audio-preview |
 | 19 | `runapi.co` | ¥0.405 | $0.06 / $0.24 | 6.75 | default | gpt-4o-mini-audio-preview |
-| 20 | `poloai.top` | ¥0.525 | $0.525 / $2.1 | 1 | gpt-vip | gpt-4o-mini-audio-preview |
-| 21 | `www.cybersol.net` | ¥0.54 | $0.27 / $1.08 | 2 | GPT Advance | gpt-4o-mini-audio-preview |
-| 22 | `i-sh.v1api.cc` | ¥0.6 | $0.6 / $2.4 | 1 | gpt官 | gpt-4o-mini-audio-preview |
-| 23 | `i.v1api.cc` | ¥0.6 | $0.6 / $2.4 | 1 | gpt官 | gpt-4o-mini-audio-preview |
-| 24 | `api1.147ai.com` | ¥0.75 | $0.75 / $3 | 1 | openai | gpt-4o-mini-audio-preview-2024-12-17 |
-| 25 | `apiplus.online` | ¥0.9855 | $0.135 / $0.54 | 7.3 | default | gpt-4o-mini-audio-preview |
-| 26 | `apicdn.xyc.ai` | ¥1.035 | $0.15 / $0.6 | 6.9 | gpt-flow | gpt-4o-mini-audio-preview |
-| 27 | `apicdn.xycai.us` | ¥1.035 | $0.15 / $0.6 | 6.9 | gpt-flow | gpt-4o-mini-audio-preview |
-| 28 | `cn.gptapi.asia` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gpt-4o-mini-audio-preview |
-| 29 | `yutoapi.com` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gpt-4o-mini-audio-preview |
-| 30 | `api.ai-gaochao.cn` | ¥1.095 | $0.15 / $0.6 | 7.3 | temp | gpt-4o-mini-audio-preview |
-| 31 | `apius.shubiaobiao.cn` | ¥1.095 | $0.15 / $0.6 | 7.3 | temp | gpt-4o-mini-audio-preview |
-| 32 | `eo.wochirou.com` | ¥1.2 | $1.2 / $4.8 | 1 | Official | gpt-4o-mini-audio-preview |
-| 33 | `wochirou.com` | ¥1.2 | $1.2 / $4.8 | 1 | Official | gpt-4o-mini-audio-preview |
-| 34 | `api.34ku.com` | ¥1.95 | $1.95 / $7.8 | 1 | default | gpt-4o-mini-audio-preview |
-| 35 | `api.bltcy.ai` | ¥2.25 | $2.25 / $9 | 1 | AZ-优质 | gpt-4o-mini-audio-preview |
-| 36 | `apilio.ai` | ¥2.25 | $2.25 / $9 | 1 | AZ-优质 | gpt-4o-mini-audio-preview |
-| 37 | `test-ssl.bltcy.ai` | ¥2.25 | $2.25 / $9 | 1 | AZ-优质 | gpt-4o-mini-audio-preview |
-| 38 | `ai.t8star.org` | ¥3.038 | $2.25 / $9 | 1.35 | AZ-优质 | gpt-4o-mini-audio-preview |
-| 39 | `api.ysaikeji.cn` | ¥3.285 | $0.45 / $1.8 | 7.3 | Gpt官转(3倍消耗) | gpt-4o-mini-audio-preview |
-| 40 | `yinli.pro` | ¥3.285 | $0.45 / $1.8 | 7.3 | GPT-Azure-低价-90%稳定性 | gpt-4o-mini-audio-preview |
-| 41 | `wrduai.com` | ¥7.665 | $1.05 / $4.2 | 7.3 | 优质官转 | gpt-4o-mini-audio-preview |
-| 42 | `147ai.online` | ¥16 | $20 / $40 | 0.8 | default | gpt-4o-mini-audio-preview |
+| 20 | `ai.mowen.vip` | ¥0.5017 | $0.075 / $0.3 | 6.6892 | default | gpt-4o-mini-audio-preview |
+| 21 | `poloai.top` | ¥0.525 | $0.525 / $2.1 | 1 | gpt-vip | gpt-4o-mini-audio-preview |
+| 22 | `www.cybersol.net` | ¥0.54 | $0.27 / $1.08 | 2 | GPT Advance | gpt-4o-mini-audio-preview |
+| 23 | `i-sh.v1api.cc` | ¥0.6 | $0.6 / $2.4 | 1 | gpt官 | gpt-4o-mini-audio-preview |
+| 24 | `i.v1api.cc` | ¥0.6 | $0.6 / $2.4 | 1 | gpt官 | gpt-4o-mini-audio-preview |
+| 25 | `api1.147ai.com` | ¥0.75 | $0.75 / $3 | 1 | openai | gpt-4o-mini-audio-preview-2024-12-17 |
+| 26 | `apiplus.online` | ¥0.9855 | $0.135 / $0.54 | 7.3 | default | gpt-4o-mini-audio-preview |
+| 27 | `apicdn.xyc.ai` | ¥1.035 | $0.15 / $0.6 | 6.9 | gpt-flow | gpt-4o-mini-audio-preview |
+| 28 | `apicdn.xycai.us` | ¥1.035 | $0.15 / $0.6 | 6.9 | gpt-flow | gpt-4o-mini-audio-preview |
+| 29 | `cn.gptapi.asia` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gpt-4o-mini-audio-preview |
+| 30 | `yutoapi.com` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gpt-4o-mini-audio-preview |
+| 31 | `api.ai-gaochao.cn` | ¥1.095 | $0.15 / $0.6 | 7.3 | temp | gpt-4o-mini-audio-preview |
+| 32 | `apius.shubiaobiao.cn` | ¥1.095 | $0.15 / $0.6 | 7.3 | temp | gpt-4o-mini-audio-preview |
+| 33 | `eo.wochirou.com` | ¥1.2 | $1.2 / $4.8 | 1 | Official | gpt-4o-mini-audio-preview |
+| 34 | `wochirou.com` | ¥1.2 | $1.2 / $4.8 | 1 | Official | gpt-4o-mini-audio-preview |
+| 35 | `api.34ku.com` | ¥1.95 | $1.95 / $7.8 | 1 | default | gpt-4o-mini-audio-preview |
+| 36 | `api.bltcy.ai` | ¥2.25 | $2.25 / $9 | 1 | AZ-优质 | gpt-4o-mini-audio-preview |
+| 37 | `apilio.ai` | ¥2.25 | $2.25 / $9 | 1 | AZ-优质 | gpt-4o-mini-audio-preview |
+| 38 | `test-ssl.bltcy.ai` | ¥2.25 | $2.25 / $9 | 1 | AZ-优质 | gpt-4o-mini-audio-preview |
+| 39 | `ai.t8star.org` | ¥3.038 | $2.25 / $9 | 1.35 | AZ-优质 | gpt-4o-mini-audio-preview |
+| 40 | `api.ysaikeji.cn` | ¥3.285 | $0.45 / $1.8 | 7.3 | Gpt官转(3倍消耗) | gpt-4o-mini-audio-preview |
+| 41 | `yinli.pro` | ¥3.285 | $0.45 / $1.8 | 7.3 | GPT-Azure-低价-90%稳定性 | gpt-4o-mini-audio-preview |
+| 42 | `wrduai.com` | ¥7.665 | $1.05 / $4.2 | 7.3 | 优质官转 | gpt-4o-mini-audio-preview |
+| 43 | `147ai.online` | ¥16 | $20 / $40 | 0.8 | default | gpt-4o-mini-audio-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -110,4 +111,4 @@
 
 > 另有 36 站未列出。
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-4.5
 
-> 1317 站提供 · 正常价 944 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（620 站公开充值价） · 推算，未对账
+> 1354 站提供 · 正常价 966 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.808**/1M 输入（637 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -53,15 +53,15 @@
 | 41 | `api.paasai.cc` | ¥0.18 | $0.18 / $0.36 | 1 | Grok | grok-4.5 |
 | 42 | `api.zzswitch.com` | ¥0.18 | $0.18 / $0.54 | 1 | grok-heavy | grok-4.5 |
 | 43 | `faojzoo.cn` | ¥0.18 | $0.36 / $1.08 | 0.5 | grok-heavy专线 | grok-4.5 |
-| 44 | `api.996444.cn` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Search | grok-4.5 |
-| 45 | `api.duckcoding.ai` | ¥0.2 | $0.2 / $0.6 | 1 | Grok Build | grok-4.5 |
-| 46 | `api.hk.toumingx.fun` | ¥0.2 | $0.2 / $0.6 | 1 | XAI-P1 | grok-4.5 |
-| 47 | `api.lukyface.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok heavy | grok-4.5 |
-| 48 | `api.qfgapi.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Heavy | grok-4.5 |
-| 49 | `api.right.codes` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
-| 50 | `api.rightapi.ai` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
+| 44 | `api-models.com` | ¥0.2 | $0.2 / $0.6 | 1 | Promo | grok-4.5 |
+| 45 | `api.996444.cn` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Search | grok-4.5 |
+| 46 | `api.duckcoding.ai` | ¥0.2 | $0.2 / $0.6 | 1 | Grok Build | grok-4.5 |
+| 47 | `api.hk.toumingx.fun` | ¥0.2 | $0.2 / $0.6 | 1 | XAI-P1 | grok-4.5 |
+| 48 | `api.lukyface.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok heavy | grok-4.5 |
+| 49 | `api.qfgapi.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Heavy | grok-4.5 |
+| 50 | `api.right.codes` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.5 |
 
-> 另有 570 站未列出。
+> 另有 587 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `godoftoken.eu.cc` | $0.2 / $1 | gpt | 0.1 | grok-4.5 |
 | 50 | `kedaya.ai` | $0.2 / $0.6 | 甩GPT无数条街的Grok 吊打GPT | 0.1 | grok-4.5 |
 
-> 另有 274 站未列出。
+> 另有 279 站未列出。
 
-> 373 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 388 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

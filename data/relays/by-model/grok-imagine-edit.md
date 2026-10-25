@@ -1,6 +1,6 @@
 # grok-imagine-edit
 
-> 22 站提供 · 正常价 7 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥9.144**/次（2 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 9 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.0375**/次（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,8 +10,10 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `botcf.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine-edit |
-| 2 | `api.wapq.cn` | ¥18.25 | $2.5 | 7.3 | default | grok-imagine-edit |
+| 1 | `yinziapi.top` | ¥0.003 | $0.003 | 1 | grok稳定备用分组4 | grok-imagine-edit |
+| 2 | `botcf.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine-edit |
+| 3 | `xn--15q04w3tg4kio0a.com` | ¥0.0375 | $0.0375 | 1 | 🎨grok-image-botcf01 | grok-imagine-edit |
+| 4 | `api.wapq.cn` | ¥18.25 | $2.5 | 7.3 | default | grok-imagine-edit |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

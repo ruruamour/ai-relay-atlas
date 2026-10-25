@@ -1,6 +1,6 @@
 # deepseek-v4.1-flash-expires-on
 
-> 102 站提供 · 正常价 66 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（24 站公开充值价） · 推算，未对账
+> 104 站提供 · 正常价 67 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -53,33 +53,34 @@
 | 12 | `api.999555999.com` | $0.11 / $0.44 | Deepseek | 0.055 | deepseek-v4.1-flash-expires-on-0910 |
 | 13 | `api.hzapi.vip` | $0.112 / $0.445 | DeepSeek｜0.12x | 0.12 | deepseek-v4.1-flash-expires-on-0910 |
 | 14 | `tntapi.com` | $0.12 / $0.48 | DeepSeek | 0.06 | deepseek-v4.1-flash-expires-on-0910 |
-| 15 | `api.tcvps.cn` | $0.16 / $0.64 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | deepseek-v4.1-flash-expires-on-0910 |
-| 16 | `x.ailzd.com` | $0.16 / $0.64 | DP/K3/Glm(oai协议满血) | 0.08 | deepseek-v4.1-flash-expires-on-0910 |
-| 17 | `abinapi.com` | $0.2 / $0.8 | deepseek4.1模型 | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
-| 18 | `ahao.online` | $0.2 / $0.8 | DeepSeek-全系列 | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
-| 19 | `halion.asia` | $0.2 / $0.8 | DeepSeek-三方自部署 | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
-| 20 | `www.yydsapi.uno` | $0.2 / $0.8 | DeepSeek | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
-| 21 | `xindu.xyz` | $0.2 / $0.8 | 国模全系列 | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
-| 22 | `api.kcne.top` | $0.21 / $0.84 | 国模组 | 1.4 | deepseek-v4.1-flash-expires-on-0910 |
-| 23 | `superxihe.com` | $0.225 / $0.6 | deepseek | 0.075 | deepseek-v4.1-flash-expires-on-0910 |
-| 24 | `api-hub.asia` | $0.24 / $0.96 | deepseek-支持蒸馏 | 0.12 | deepseek-v4.1-flash-expires-on-0910 |
-| 25 | `salcara.top` | $0.24 / $0.96 | 国模满血Deepseek | 0.12 | deepseek-v4.1-flash-expires-on-0910 |
-| 26 | `api.maixun.icu` | $0.27 / $1.08 | DeepSeek-满血-高缓 | 0.135 | deepseek-v4.1-flash-expires-on-0910 |
-| 27 | `aiapibank.com` | $0.3 / $1.2 | DeepSeek分组 | 0.3 | deepseek-v4.1-flash-expires-on-0910 |
-| 28 | `api.boluomiapi.cc` | $0.3 / $1.2 | Z01-国模DeepSeek | 0.15 | deepseek-v4.1-flash-expires-on-0910 |
-| 29 | `kedaya.ai` | $0.3 / $1.2 | DeepSeek | 0.15 | deepseek-v4.1-flash-expires-on-0910 |
-| 30 | `sub2.molytea.ccwu.cc` | $0.32 / $1.28 | Deepseek 分组 | 0.32 | deepseek-v4.1-flash-expires-on-0910 |
-| 31 | `api.tameac.com` | $0.4 / $1.6 | DeepSeek(0.2倍率) | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
-| 32 | `fcodex.top` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
-| 33 | `modelgate.top` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
-| 34 | `rapidapi.cc` | $0.4 / $1.6 | 国模一组 | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
-| 35 | `sub.onetopai.com` | $0.4 / $1.6 | 国模分组 | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
-| 36 | `api.dreamaitoken.cloud` | $0.5 / $1.2 | Deepseek | 1 | deepseek-v4.1-flash-expires-on-0910 |
-| 37 | `pureai.ink` | $0.5625 / $1.6875 | Z-国产模型-破限专享 | 0.375 | deepseek-v4.1-flash-expires-on-0910 |
-| 38 | `api.hack3rx.top` | $0.7 / $2.8 | DeepSeek 余额卡 0.7 倍率（官渠） — 按量计费 | 0.7 | deepseek-v4.1-flash-expires-on-0910 |
-| 39 | `api.lmuai.ai` | $0.7 / $2.8 | 阿里Qwen(Anthropic协议) | 0.7 | deepseek-v4.1-flash-expires-on-0910 |
-| 40 | `loveapi.top` | $0.76 / $3.04 | deepseek 0.38x  | 0.38 | deepseek-v4.1-flash-expires-on-0910 |
-| 41 | `ent.mmkg.cloud` | $1 / $4 | DeepSeek | 1 | deepseek-v4.1-flash-expires-on-0910 |
-| 42 | `ccmaxshop.de5.net` | $6 / $24 | OpenAI-国模 | 3 | deepseek-v4.1-flash-expires-on-0910 |
+| 15 | `api.168box.xyz` | $0.135 / $0.54 | deepseek | 0.45 | deepseek-v4.1-flash-expires-on-0910 |
+| 16 | `api.tcvps.cn` | $0.16 / $0.64 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | deepseek-v4.1-flash-expires-on-0910 |
+| 17 | `x.ailzd.com` | $0.16 / $0.64 | DP/K3/Glm(oai协议满血) | 0.08 | deepseek-v4.1-flash-expires-on-0910 |
+| 18 | `abinapi.com` | $0.2 / $0.8 | deepseek4.1模型 | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
+| 19 | `ahao.online` | $0.2 / $0.8 | DeepSeek-全系列 | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
+| 20 | `halion.asia` | $0.2 / $0.8 | DeepSeek-三方自部署 | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
+| 21 | `www.yydsapi.uno` | $0.2 / $0.8 | DeepSeek | 0.1 | deepseek-v4.1-flash-expires-on-0910 |
+| 22 | `xindu.xyz` | $0.2 / $0.8 | 国模全系列 | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
+| 23 | `api.kcne.top` | $0.21 / $0.84 | 国模组 | 1.4 | deepseek-v4.1-flash-expires-on-0910 |
+| 24 | `superxihe.com` | $0.225 / $0.6 | deepseek | 0.075 | deepseek-v4.1-flash-expires-on-0910 |
+| 25 | `api-hub.asia` | $0.24 / $0.96 | deepseek-支持蒸馏 | 0.12 | deepseek-v4.1-flash-expires-on-0910 |
+| 26 | `salcara.top` | $0.24 / $0.96 | 国模满血Deepseek | 0.12 | deepseek-v4.1-flash-expires-on-0910 |
+| 27 | `api.maixun.icu` | $0.27 / $1.08 | DeepSeek-满血-高缓 | 0.135 | deepseek-v4.1-flash-expires-on-0910 |
+| 28 | `aiapibank.com` | $0.3 / $1.2 | DeepSeek分组 | 0.3 | deepseek-v4.1-flash-expires-on-0910 |
+| 29 | `api.boluomiapi.cc` | $0.3 / $1.2 | Z01-国模DeepSeek | 0.15 | deepseek-v4.1-flash-expires-on-0910 |
+| 30 | `kedaya.ai` | $0.3 / $1.2 | DeepSeek | 0.15 | deepseek-v4.1-flash-expires-on-0910 |
+| 31 | `sub2.molytea.ccwu.cc` | $0.32 / $1.28 | Deepseek 分组 | 0.32 | deepseek-v4.1-flash-expires-on-0910 |
+| 32 | `api.tameac.com` | $0.4 / $1.6 | DeepSeek(0.2倍率) | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
+| 33 | `fcodex.top` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
+| 34 | `modelgate.top` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
+| 35 | `rapidapi.cc` | $0.4 / $1.6 | 国模一组 | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
+| 36 | `sub.onetopai.com` | $0.4 / $1.6 | 国模分组 | 0.2 | deepseek-v4.1-flash-expires-on-0910 |
+| 37 | `api.dreamaitoken.cloud` | $0.5 / $1.2 | Deepseek | 1 | deepseek-v4.1-flash-expires-on-0910 |
+| 38 | `pureai.ink` | $0.5625 / $1.6875 | Z-国产模型-破限专享 | 0.375 | deepseek-v4.1-flash-expires-on-0910 |
+| 39 | `api.hack3rx.top` | $0.7 / $2.8 | DeepSeek 余额卡 0.7 倍率（官渠） — 按量计费 | 0.7 | deepseek-v4.1-flash-expires-on-0910 |
+| 40 | `api.lmuai.ai` | $0.7 / $2.8 | 阿里Qwen(Anthropic协议) | 0.7 | deepseek-v4.1-flash-expires-on-0910 |
+| 41 | `loveapi.top` | $0.76 / $3.04 | deepseek 0.38x  | 0.38 | deepseek-v4.1-flash-expires-on-0910 |
+| 42 | `ent.mmkg.cloud` | $1 / $4 | DeepSeek | 1 | deepseek-v4.1-flash-expires-on-0910 |
+| 43 | `ccmaxshop.de5.net` | $6 / $24 | OpenAI-国模 | 3 | deepseek-v4.1-flash-expires-on-0910 |
 
-> 36 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 37 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

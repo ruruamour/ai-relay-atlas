@@ -4,7 +4,7 @@
 - 只有站点信息（/api/status 或 Sub2API 设置）没有公开价格：已有站点只更新站名/版本/充值价；
   新站点仅在"已知目录收录"或"有自定义站名且非自用/演示"时收录（避免把私人部署当中转站）。
 别名域名的报价单独保存，是否同一站由 dedupe 判断（价格表差异大的不会合并）。合并后请运行 tools/build.sh。
-用法: python3 tools/merge.py <scan.json> [--via scan|crtsh|urlscan|gitlab|npm|huggingface|bing|veridrop|github-list]
+用法: python3 tools/merge.py <scan.json> [--via scan|crtsh|urlscan|gitlab|npm|huggingface|bing|directory|veridrop|github-list]
 """
 import argparse
 import json
@@ -45,7 +45,7 @@ def meta_from(blob):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('scan_json')
-    ap.add_argument('--via', default='scan', choices=['scan', 'crtsh', 'urlscan', 'gitlab', 'npm', 'huggingface', 'bing', 'veridrop', 'github-list'])
+    ap.add_argument('--via', default='scan', choices=['scan', 'crtsh', 'urlscan', 'gitlab', 'npm', 'huggingface', 'bing', 'directory', 'veridrop', 'github-list'])
     a = ap.parse_args()
     data = json.load(open(a.scan_json))
     relays = read_csv(RELAYS)

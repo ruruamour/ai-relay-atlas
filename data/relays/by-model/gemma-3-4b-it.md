@@ -1,6 +1,6 @@
 # gemma-3-4b-it
 
-> 37 站提供 · 正常价 14 站 · 名义中位价 **$0.066**/1M 输入 · 实付中位价 **¥0.292**/1M 输入（11 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 16 站 · 名义中位价 **$0.0733736**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,11 +16,13 @@
 | 4 | `api.qinzhiai.com` | ¥0.175 | $0.175 / $0.35 | 1 | openrouter | google/gemma-3-4b-it |
 | 5 | `hk.moleapi.com` | ¥0.272 | $0.04 / $0.08 | 6.8 | default | gemma-3-4b-it |
 | 6 | `mux.la` | ¥0.292 | $0.04 / $0.08 | 7.3 | Openrouter-Anthropic | google/gemma-3-4b-it |
-| 7 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | google/gemma-3-4b-it |
-| 8 | `ai2.qiqiai.top` | ¥0.5256 | $0.072 / $0.144 | 7.3 | 官方合作渠道 | google/gemma-3-4b-it |
-| 9 | `api.tacklekey.com` | ¥0.5615 | $0.0769231 / $0.153846 | 7.3 | default | google/gemma-3-4b-it |
-| 10 | `ssvip.dmxapi.com` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | gemma-3-4b-it |
-| 11 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | gemma-3-4b-it |
+| 7 | `ai.bytonsec.com` | ¥0.3 | $0.3 / $0.6 | 1 | OpenRouter | google/gemma-3-4b-it |
+| 8 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | google/gemma-3-4b-it |
+| 9 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | gemma-3-4b-it |
+| 10 | `ai2.qiqiai.top` | ¥0.5256 | $0.072 / $0.144 | 7.3 | 官方合作渠道 | google/gemma-3-4b-it |
+| 11 | `api.tacklekey.com` | ¥0.5615 | $0.0769231 / $0.153846 | 7.3 | default | google/gemma-3-4b-it |
+| 12 | `ssvip.dmxapi.com` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | gemma-3-4b-it |
+| 13 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | gemma-3-4b-it |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

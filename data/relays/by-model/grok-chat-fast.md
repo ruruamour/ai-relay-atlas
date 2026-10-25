@@ -1,6 +1,6 @@
 # grok-chat-fast
 
-> 34 站提供 · 正常价 13 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.46**/1M 输入（11 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 14 站 · 名义中位价 **$0.65**/1M 输入 · 实付中位价 **¥1.46**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,8 +19,9 @@
 | 7 | `sub2api.closeapi.top` | ¥1.46 | $0.2 / $0.6 | 7.3 | grok | grok-chat-fast |
 | 8 | `api.pie-xian.com` | ¥2.19 | $0.3 / $0.9 | 7.3 | 无限制 | grok-chat-fast |
 | 9 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | grok | grok-chat-fast |
-| 10 | `jyqf.me` | ¥19.27 | $2.64 / $7.92 | 7.3 | supergrok | grok-chat-fast |
-| 11 | `api2.kscsnkli.site` | ¥182.5 | $25 / $25 | 7.3 | Jasper | grok-chat-fast |
+| 10 | `ai.mowen.vip` | ¥6.689 | $1 / $3 | 6.6892 | default | grok-chat-fast |
+| 11 | `jyqf.me` | ¥19.27 | $2.64 / $7.92 | 7.3 | supergrok | grok-chat-fast |
+| 12 | `api2.kscsnkli.site` | ¥182.5 | $25 / $25 | 7.3 | Jasper | grok-chat-fast |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # viduq1
 
-> 87 站提供 · 正常价 77 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.064**/次（13 站公开充值价） · 推算，未对账
+> 88 站提供 · 正常价 78 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.251**/次（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,12 +17,13 @@
 | 5 | `api.camel-hub.cn` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
 | 6 | `api.camel-hub.com` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
 | 7 | `api.kr777.top` | ¥0.064 | $0.08 | 0.8 | default | viduq1 |
-| 8 | `ccapi.ai` | ¥2.3 | $0.333333 | 6.9 | vidu-A | viduq1 |
-| 9 | `kfcv50.link` | ¥2.5 | $2.5 | 1 | default | viduq1 |
-| 10 | `api.klxey.com` | ¥2.92 | $0.4 | 7.3 | default | viduq1 |
-| 11 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq1 |
-| 12 | `api.ifopen.ai` | ¥7 | $2 | 3.5 | default | viduq1 |
-| 13 | `api2.aigcbest.top` | ¥7 | $2 | 3.5 | default | viduq1 |
+| 8 | `clawrouter.com` | ¥0.438 | $0.06 | 7.3 | multipurpose | viduq1 |
+| 9 | `ccapi.ai` | ¥2.3 | $0.333333 | 6.9 | vidu-A | viduq1 |
+| 10 | `kfcv50.link` | ¥2.5 | $2.5 | 1 | default | viduq1 |
+| 11 | `api.klxey.com` | ¥2.92 | $0.4 | 7.3 | default | viduq1 |
+| 12 | `aiapi.hk` | ¥5.6 | $0.8 | 7 | 视频官方渠道 | viduq1 |
+| 13 | `api.ifopen.ai` | ¥7 | $2 | 3.5 | default | viduq1 |
+| 14 | `api2.aigcbest.top` | ¥7 | $2 | 3.5 | default | viduq1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

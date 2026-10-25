@@ -1,6 +1,6 @@
 # claude-haiku-5-5
 
-> 862 站提供 · 正常价 389 站 · 名义中位价 **$0.1**/1M 输入 · 实付中位价 **¥0.16**/1M 输入（277 站公开充值价） · 推算，未对账
+> 891 站提供 · 正常价 404 站 · 名义中位价 **$0.1**/1M 输入 · 实付中位价 **¥0.16**/1M 输入（288 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -45,23 +45,23 @@
 | 33 | `qwer.nervers.com` | ¥0.06 | $0.06 / $0.3 | 1 | s50:默认分组 | claude-haiku-5-5 |
 | 34 | `api.uniprep.world` | ¥0.065 | $0.065 / $0.325 | 1 | Claude Max（不限制） | claude-haiku-5-5 |
 | 35 | `kfcv50.link` | ¥0.065 | $0.065 / $0.325 | 1 | claude_kiro_065_0321_cache | claude-haiku-5-5 |
-| 36 | `api.tidewhisper-ai.xyz` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 37 | `gzxbykj.com` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 38 | `yunwu.org` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 39 | `v2.cloudmist.cloud` | ¥0.06817 | $0.0101476 / $0.050738 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 40 | `newapi.ailyyzdk.xyz` | ¥0.07 | $0.07 / $0.35 | 1 | 满血逆向 | claude-haiku-5-5 |
-| 41 | `www.vectronode.com` | ¥0.07114 | $0.0105888 / $0.052944 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 42 | `apiclaw.cn` | ¥0.07173 | $0.010677 / $0.0533852 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 43 | `newapi.xueai.me` | ¥0.07173 | $0.010677 / $0.0533852 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 44 | `wodapis.com` | ¥0.07173 | $0.010677 / $0.0533852 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 45 | `ciyuan.today` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 46 | `gptapi.top` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 47 | `makerend.com` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 48 | `moliapi.com` | ¥0.07469 | $0.0111182 / $0.0555912 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
-| 49 | `⚠️codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | claude-haiku-5-5 |
-| 50 | `ai-api.cc` | ¥0.07706 | $0.0114712 / $0.057356 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 36 | `4zapi.com` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 37 | `api.tidewhisper-ai.xyz` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 38 | `gzxbykj.com` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 39 | `yunwu.org` | ¥0.06521 | $0.0097064 / $0.048532 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 40 | `api.antmoo.cc` | ¥0.06817 | $0.0101476 / $0.050738 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 41 | `v2.cloudmist.cloud` | ¥0.06817 | $0.0101476 / $0.050738 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 42 | `newapi.ailyyzdk.xyz` | ¥0.07 | $0.07 / $0.35 | 1 | 满血逆向 | claude-haiku-5-5 |
+| 43 | `www.vectronode.com` | ¥0.07114 | $0.0105888 / $0.052944 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 44 | `apiclaw.cn` | ¥0.07173 | $0.010677 / $0.0533852 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 45 | `newapi.xueai.me` | ¥0.07173 | $0.010677 / $0.0533852 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 46 | `wodapis.com` | ¥0.07173 | $0.010677 / $0.0533852 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 47 | `ciyuan.today` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 48 | `gptapi.top` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 49 | `makerend.com` | ¥0.0741 | $0.01103 / $0.05515 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
+| 50 | `moliapi.com` | ¥0.07469 | $0.0111182 / $0.0555912 | 6.718 | Kiro-Claude-1 | claude-haiku-5-5 |
 
-> 另有 227 站未列出。
+> 另有 238 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -112,12 +112,12 @@
 | 43 | `aichronos.xyz` | $0.06 / $0.3 | Cluade官转混合Kiro | 0.6 | claude-haiku-5-5 |
 | 44 | `sub2api.yunquedev.online` | $0.07 / $0.35 | Claude MAX（不含 Fable） | 0.7 | claude-haiku-5-5 |
 | 45 | `x.ailzd.com` | $0.07 / $0.35 | Claude Code · MAX 专线 | 0.7 | claude-haiku-5-5 |
-| 46 | `api.hy88.my` | $0.08 / $0.4 | claude_high | 0.8 | claude-haiku-5-5 |
-| 47 | `api.xiaojue.cloud` | $0.08 / $0.4 | ccmax微注入蒸馏专用 | 0.8 | claude-haiku-5-5 |
-| 48 | `flowerchatting.com` | $0.08 / $0.4 | grp_f36015757b1591fd37282395 | 0.8 | claude-haiku-5-5 |
-| 49 | `www.shitapi.cn` | $0.08 / $0.4 | CLAUDE-MAX(cc外使用)[0.7~1.2动态调整] | 0.8 | claude-haiku-5-5 |
-| 50 | `aigw.store` | $0.09 / $0.45 | CC MAX | 0.9 | claude-haiku-5-5 |
+| 46 | `flashcoding.ai` | $0.075 / $0.375 | ccmax 稳定   0.75X | 0.75 | claude-haiku-5-5 |
+| 47 | `api.hy88.my` | $0.08 / $0.4 | claude_high | 0.8 | claude-haiku-5-5 |
+| 48 | `api.xiaojue.cloud` | $0.08 / $0.4 | ccmax微注入蒸馏专用 | 0.8 | claude-haiku-5-5 |
+| 49 | `flowerchatting.com` | $0.08 / $0.4 | grp_f36015757b1591fd37282395 | 0.8 | claude-haiku-5-5 |
+| 50 | `www.shitapi.cn` | $0.08 / $0.4 | CLAUDE-MAX(cc外使用)[0.7~1.2动态调整] | 0.8 | claude-haiku-5-5 |
 
-> 另有 62 站未列出。
+> 另有 66 站未列出。
 
-> 473 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 487 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

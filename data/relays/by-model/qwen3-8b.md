@@ -1,6 +1,6 @@
 # qwen3-8b
 
-> 158 站提供 · 正常价 127 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（57 站公开充值价） · 推算，未对账
+> 166 站提供 · 正常价 130 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（60 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,37 +31,37 @@
 | 19 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-8B |
 | 20 | `api.ocoolai.com` | ¥0.475 | $0.475 / $4.75 | 1 | cn | qwen3-8b |
 | 21 | `ocool.cn` | ¥0.475 | $0.475 / $4.75 | 1 | cn | qwen3-8b |
-| 22 | `ai.soruxgpt.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
-| 23 | `api.eido.top` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
-| 24 | `api.hopeai.cc` | ¥0.5 | $0.5 / $0.5 | 1 | default | qwen3-8b |
-| 25 | `keypool.space` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
-| 26 | `kfcv50.link` | ¥0.5 | $0.5 / $5 | 1 | Domestic | qwen3-8b |
-| 27 | `mb.dmxapi.cn` | ¥0.5 | $0.1 / $0.4 | 5 | default | qwen3-8b |
-| 28 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
-| 29 | `xinsuanai.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
-| 30 | `unorouter.net` | ¥0.5214 | $0.0714286 / $0.714286 | 7.3 | default | qwen3-8b |
-| 31 | `api.pie-xian.com` | ¥0.5256 | $0.072 / $0.287 | 7.3 | 无限制 | qwen3-8b |
-| 32 | `yibuapi.com` | ¥0.6 | $0.4 / $1.6 | 1.5 | default | qwen3-8b |
-| 33 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | Qwen3-8B |
-| 34 | `ai2.qiqiai.top` | ¥0.657 | $0.09 / $0.72 | 7.3 | 官方合作渠道 | qwen/qwen3-8b |
-| 35 | `www.yibuapi.cn` | ¥0.75 | $0.5 / $2 | 1.5 | default | qwen3-8b |
-| 36 | `yibuapi.cn` | ¥0.75 | $0.5 / $2 | 1.5 | default | qwen3-8b |
-| 37 | `layso.ai` | ¥0.7605 | $0.7605 / $3.042 | 1 | Alibaba-1 | qwen3-8b |
-| 38 | `laysoai.com` | ¥0.7605 | $0.7605 / $3.042 | 1 | Alibaba-1 | qwen3-8b |
-| 39 | `www.hohoapi.com` | ¥0.78 | $0.26 / $1.04 | 3 | qwen | qwen3-8b |
-| 40 | `runapi.co` | ¥1.35 | $0.2 / $0.8 | 6.75 | default | qwen3-8b |
-| 41 | `webapi.xjai.cc` | ¥1.5 | $0.5 / $0.5 | 3 | svip | qwen3-8b |
-| 42 | `api.ai-gaochao.cn` | ¥1.825 | $0.25 / $2.5 | 7.3 | guo_chan | qwen3-8b |
-| 43 | `apius.shubiaobiao.cn` | ¥1.825 | $0.25 / $2.5 | 7.3 | guo_chan | qwen3-8b |
-| 44 | `na.wanxiaot.com` | ¥2 | $2 / $2 | 1 | default | Qwen/Qwen3-8B |
-| 45 | `naapi.cc` | ¥2 | $2 / $2 | 1 | default | Qwen/Qwen3-8B |
-| 46 | `hy88.my` | ¥2.19 | $0.3 / $3 | 7.3 | qwen | qwen3-8b |
-| 47 | `ai.tiantoken.com` | ¥2.373 | $0.325 / $1.3 | 7.3 | 鹏宇国内模型1 | qwen3-8b |
-| 48 | `koalaapi.com` | ¥2.975 | $0.425 / $1.7 | 7 | 一key国产中转全模型 | qwen3-8b |
-| 49 | `treerouter.com` | ¥2.975 | $0.425 / $1.7 | 7 | 一key国产中转全模型 | qwen3-8b |
-| 50 | `cn.gptapi.asia` | ¥3.5 | $3.5 / $14 | 1 | enterprise | qwen3-8b |
+| 22 | `one.ooo.cool` | ¥0.475 | $0.475 / $4.75 | 1 | cn | qwen3-8b |
+| 23 | `ai.soruxgpt.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
+| 24 | `api.aiskt.com` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-8b |
+| 25 | `api.eido.top` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
+| 26 | `api.hopeai.cc` | ¥0.5 | $0.5 / $0.5 | 1 | default | qwen3-8b |
+| 27 | `keypool.space` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
+| 28 | `kfcv50.link` | ¥0.5 | $0.5 / $5 | 1 | Domestic | qwen3-8b |
+| 29 | `mb.dmxapi.cn` | ¥0.5 | $0.1 / $0.4 | 5 | default | qwen3-8b |
+| 30 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
+| 31 | `xinsuanai.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-8b |
+| 32 | `unorouter.net` | ¥0.5214 | $0.0714286 / $0.714286 | 7.3 | default | qwen3-8b |
+| 33 | `api.pie-xian.com` | ¥0.5256 | $0.072 / $0.287 | 7.3 | 无限制 | qwen3-8b |
+| 34 | `yibuapi.com` | ¥0.6 | $0.4 / $1.6 | 1.5 | default | qwen3-8b |
+| 35 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | Qwen3-8B |
+| 36 | `ai2.qiqiai.top` | ¥0.657 | $0.09 / $0.72 | 7.3 | 官方合作渠道 | qwen/qwen3-8b |
+| 37 | `ai.bytonsec.com` | ¥0.702 | $0.702 / $2.73 | 1 | OpenRouter | qwen/qwen3-8b |
+| 38 | `www.yibuapi.cn` | ¥0.75 | $0.5 / $2 | 1.5 | default | qwen3-8b |
+| 39 | `yibuapi.cn` | ¥0.75 | $0.5 / $2 | 1.5 | default | qwen3-8b |
+| 40 | `layso.ai` | ¥0.7605 | $0.7605 / $3.042 | 1 | Alibaba-1 | qwen3-8b |
+| 41 | `laysoai.com` | ¥0.7605 | $0.7605 / $3.042 | 1 | Alibaba-1 | qwen3-8b |
+| 42 | `www.hohoapi.com` | ¥0.78 | $0.26 / $1.04 | 3 | qwen | qwen3-8b |
+| 43 | `runapi.co` | ¥1.35 | $0.2 / $0.8 | 6.75 | default | qwen3-8b |
+| 44 | `webapi.xjai.cc` | ¥1.5 | $0.5 / $0.5 | 3 | svip | qwen3-8b |
+| 45 | `api.ai-gaochao.cn` | ¥1.825 | $0.25 / $2.5 | 7.3 | guo_chan | qwen3-8b |
+| 46 | `apius.shubiaobiao.cn` | ¥1.825 | $0.25 / $2.5 | 7.3 | guo_chan | qwen3-8b |
+| 47 | `na.wanxiaot.com` | ¥2 | $2 / $2 | 1 | default | Qwen/Qwen3-8B |
+| 48 | `naapi.cc` | ¥2 | $2 / $2 | 1 | default | Qwen/Qwen3-8B |
+| 49 | `hy88.my` | ¥2.19 | $0.3 / $3 | 7.3 | qwen | qwen3-8b |
+| 50 | `ai.tiantoken.com` | ¥2.373 | $0.325 / $1.3 | 7.3 | 鹏宇国内模型1 | qwen3-8b |
 
-> 另有 7 站未列出。
+> 另有 10 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 20 站未列出。
 
-> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 36 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

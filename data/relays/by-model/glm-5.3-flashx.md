@@ -1,6 +1,6 @@
 # glm-5.3-flashx
 
-> 258 站提供 · 正常价 163 站 · 名义中位价 **$0.4**/1M 输入 · 实付中位价 **¥1**/1M 输入（107 站公开充值价） · 推算，未对账
+> 271 站提供 · 正常价 172 站 · 名义中位价 **$0.4**/1M 输入 · 实付中位价 **¥1**/1M 输入（114 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -49,19 +49,19 @@
 | 37 | `api9.bjhuiqu.net` | ¥0.4 | $0.4 / $1.4 | 1 | 国模特供 | glm-5.3-flashx |
 | 38 | `moyuu.cc` | ¥0.4 | $0.4 / $1.4 | 1 | go | glm-5.3-flashx |
 | 39 | `xxapi.info` | ¥0.4 | $0.4 / $1.4 | 1 | 国模 | glm-5.3-flashx |
-| 40 | `beehears.com` | ¥0.5 | $0.5 / $1.75 | 1 | 🇨🇳 Made in China | glm-5.3-flashx |
-| 41 | `images.beehears.com` | ¥0.5 | $0.5 / $1.75 | 1 | 🇨🇳 Made in China | glm-5.3-flashx |
-| 42 | `oai.sb` | ¥0.5 | $0.5 / $1.75 | 1 | 【短期国模优惠渠道】【非自营】 | glm-5.3-flashx |
-| 43 | `api.zcloudapi.com` | ¥0.52 | $0.0712329 / $0.249315 | 7.3 | 国产模型 | glm-5.3-flashx |
-| 44 | `api.ccode.vip` | ¥0.6 | $0.6 / $2.1 | 1 | OpenCode | glm-5.3-flashx |
-| 45 | `www.huanapi.com` | ¥0.6 | $0.6 / $2.1 | 1 | 国内模型 | glm-5.3-flashx |
-| 46 | `nexa.buycodekey.com` | ¥0.72 | $0.72 / $2.52 | 1 | glm | glm-5.3-flashx |
-| 47 | `hk.chenmoai.cn` | ¥0.75 | $0.75 / $2.625 | 1 | default | [正向量2]glm-5.3-flashx |
-| 48 | `api.yanai.it.com` | ¥0.8 | $0.8 / $2.8 | 1 | 自部署glm | glm-5.3-flashx |
-| 49 | `tokencount.aigemini.org` | ¥0.8 | $0.8 / $2.8 | 1 | 孙割国模官方 | glm-5.3-flashx |
-| 50 | `www.fastapi.ltd` | ¥0.8 | $0.8 / $2.8 | 1 | 2-国产混合 | glm-5.3-flashx |
+| 40 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | GLM-5.3-FlashX |
+| 41 | `beehears.com` | ¥0.5 | $0.5 / $1.75 | 1 | 🇨🇳 Made in China | glm-5.3-flashx |
+| 42 | `images.beehears.com` | ¥0.5 | $0.5 / $1.75 | 1 | 🇨🇳 Made in China | glm-5.3-flashx |
+| 43 | `oai.sb` | ¥0.5 | $0.5 / $1.75 | 1 | 【短期国模优惠渠道】【非自营】 | glm-5.3-flashx |
+| 44 | `api.zcloudapi.com` | ¥0.52 | $0.0712329 / $0.249315 | 7.3 | 国产模型 | glm-5.3-flashx |
+| 45 | `api-models.com` | ¥0.555 | $0.555 / $1.875 | 1 | GLM | glm-5.3-flashx |
+| 46 | `api.ccode.vip` | ¥0.6 | $0.6 / $2.1 | 1 | OpenCode | glm-5.3-flashx |
+| 47 | `www.huanapi.com` | ¥0.6 | $0.6 / $2.1 | 1 | 国内模型 | glm-5.3-flashx |
+| 48 | `nexa.buycodekey.com` | ¥0.72 | $0.72 / $2.52 | 1 | glm | glm-5.3-flashx |
+| 49 | `hk.chenmoai.cn` | ¥0.75 | $0.75 / $2.625 | 1 | default | [正向量2]glm-5.3-flashx |
+| 50 | `api.yanai.it.com` | ¥0.8 | $0.8 / $2.8 | 1 | 自部署glm | glm-5.3-flashx |
 
-> 另有 57 站未列出。
+> 另有 64 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -88,36 +88,36 @@
 | 19 | `cccode.pro` | $0.22 / $0.77 | 【混合】国模 | 1 | glm-5.3-flashx |
 | 20 | `www.cccode.pro` | $0.22 / $0.77 | 【混合】国模 | 1 | glm-5.3-flashx |
 | 21 | `api.zayuapi.com` | $0.24 / $0.84 | Glm-默认分组 | 0.12 | glm-5.3-flashx |
-| 22 | `tuzkiapi.tuzki.online` | $0.24 / $0.52 | 国模官key兜底(90%+缓存) | 0.1 | GLM-5.3-FlashX |
-| 23 | `kimera.cc` | $0.259 / $0.875 | Glm全模型 | 0.7 | glm-5.3-flashx |
-| 24 | `luckyapi.online` | $0.296 / $1 | LuckyAPI | 0.8 | glm-5.3-flashx |
-| 25 | `zhiyuanapis.top` | $0.3 / $1.05 | 国内模型 | 0.15 | glm-5.3-flashx |
-| 26 | `api.binzzz.xyz` | $0.34 / $1.19 | 智谱【满血】 | 0.17 | glm-5.3-flashx |
-| 27 | `genshin.darkprometheus.top` | $0.366 / $1.281 | 智谱 | 0.183 | glm-5.3-flashx |
-| 28 | `88.scxai.top` | $0.4 / $1.4 | GLM-智谱-自部-无侵权 | 0.2 | glm-5.3-flashx |
-| 29 | `ai.8888.name` | $0.4 / $1.4 | 国模 | 1 | glm-5.3-flashx |
-| 30 | `api.8888.name` | $0.4 / $1.4 | 国模 | 1 | glm-5.3-flashx |
-| 31 | `api.openai.fans` | $0.4 / $1.4 | GLM-sale | 0.2 | glm-5.3-flashx |
-| 32 | `api.wopally.cn` | $0.4 / $1.28 | GLM flashX  0.4 | 0.4 | glm-5.3-flashx |
-| 33 | `nexapi.store` | $0.4 / $1.4 | GLM | 0.2 | glm-5.3-flashx |
-| 34 | `nextpro.top` | $0.4 / $1.4 | GLM（自部署） | 0.2 | glm-5.3-flashx |
-| 35 | `www.digitalcats.cc` | $0.4 / $1.4 | 智普GLM | 0.2 | glm-5.3-flashx |
-| 36 | `sub.rkshadow.com` | $0.5 / $1.75 | 国模-高质量 | 0.25 | glm-5.3-flashx |
-| 37 | `sub.skypoem.top` | $0.5 / $1.75 | Muse | 0.25 | glm-5.3-flashx |
-| 38 | `zzone.cc.cd` | $0.52 / $1.82 | 国产模型 | 0.26 | glm-5.3-flashx |
-| 39 | `api.kcne.top` | $0.525 / $1.75 | 国模组 | 1.4 | glm-5.3-flashx |
-| 40 | `aiapibank.com` | $0.6 / $2.1 | 智谱GLM分组 | 0.3 | glm-5.3-flashx |
-| 41 | `api.opkaa.com` | $0.6 / $2.1 | zhipu GLM | 0.3 | glm-5.3-flashx |
-| 42 | `emooo.cc` | $0.6 / $2.1 | 【国模】满血自部署版 | 1 | glm-5.3-flashx |
-| 43 | `pureai.ink` | $0.7 / $2.8 | A-GLM-对接 | 0.35 | glm-5.3-flashx |
-| 44 | `ai.yusflow.com` | $0.8 / $2.8 | 国模按量分组0.4分组 | 0.4 | glm-5.3-flashx |
-| 45 | `aichronos.xyz` | $1.2 / $4.2 | 国模 | 0.6 | glm-5.3-flashx |
-| 46 | `tokenstation.top` | $1.2 / $4.2 | 国模 | 0.6 | glm-5.3-flashx |
-| 47 | `www.guangone.top` | $1.2 / $4.2 | glm | 0.6 | glm-5.3-flashx |
-| 48 | `api.chatfire.cn` | $1.6 / $5.6 | lite | 0.4 | glm-5.3-flashx |
-| 49 | `api.chuangxiangai.asia` | $1.75 / $5.95 | 国模 0.07x-0.13x | 0.7 | glm-5.3-flashx |
-| 50 | `vapi.chuangxiangai.asia` | $1.75 / $5.95 | 国模 0.07x-0.13x | 0.7 | glm-5.3-flashx |
+| 22 | `flashcoding.ai` | $0.24 / $0.84 | 国产低价-均价0.1x | 1 | glm-5.3-flashx |
+| 23 | `tuzkiapi.tuzki.online` | $0.24 / $0.52 | 国模官key兜底(90%+缓存) | 0.1 | GLM-5.3-FlashX |
+| 24 | `kimera.cc` | $0.259 / $0.875 | Glm全模型 | 0.7 | glm-5.3-flashx |
+| 25 | `luckyapi.online` | $0.296 / $1 | LuckyAPI | 0.8 | glm-5.3-flashx |
+| 26 | `zhiyuanapis.top` | $0.3 / $1.05 | 国内模型 | 0.15 | glm-5.3-flashx |
+| 27 | `api.binzzz.xyz` | $0.34 / $1.19 | 智谱【满血】 | 0.17 | glm-5.3-flashx |
+| 28 | `genshin.darkprometheus.top` | $0.366 / $1.281 | 智谱 | 0.183 | glm-5.3-flashx |
+| 29 | `88.scxai.top` | $0.4 / $1.4 | GLM-智谱-自部-无侵权 | 0.2 | glm-5.3-flashx |
+| 30 | `ai.8888.name` | $0.4 / $1.4 | 国模 | 1 | glm-5.3-flashx |
+| 31 | `api.8888.name` | $0.4 / $1.4 | 国模 | 1 | glm-5.3-flashx |
+| 32 | `api.openai.fans` | $0.4 / $1.4 | GLM-sale | 0.2 | glm-5.3-flashx |
+| 33 | `api.wopally.cn` | $0.4 / $1.28 | GLM flashX  0.4 | 0.4 | glm-5.3-flashx |
+| 34 | `nexapi.store` | $0.4 / $1.4 | GLM | 0.2 | glm-5.3-flashx |
+| 35 | `nextpro.top` | $0.4 / $1.4 | GLM（自部署） | 0.2 | glm-5.3-flashx |
+| 36 | `www.digitalcats.cc` | $0.4 / $1.4 | 智普GLM | 0.2 | glm-5.3-flashx |
+| 37 | `sub.rkshadow.com` | $0.5 / $1.75 | 国模-高质量 | 0.25 | glm-5.3-flashx |
+| 38 | `sub.skypoem.top` | $0.5 / $1.75 | Muse | 0.25 | glm-5.3-flashx |
+| 39 | `zzone.cc.cd` | $0.52 / $1.82 | 国产模型 | 0.26 | glm-5.3-flashx |
+| 40 | `api.kcne.top` | $0.525 / $1.75 | 国模组 | 1.4 | glm-5.3-flashx |
+| 41 | `aiapibank.com` | $0.6 / $2.1 | 智谱GLM分组 | 0.3 | glm-5.3-flashx |
+| 42 | `api.opkaa.com` | $0.6 / $2.1 | zhipu GLM | 0.3 | glm-5.3-flashx |
+| 43 | `emooo.cc` | $0.6 / $2.1 | 【国模】满血自部署版 | 1 | glm-5.3-flashx |
+| 44 | `pureai.ink` | $0.7 / $2.8 | A-GLM-对接 | 0.35 | glm-5.3-flashx |
+| 45 | `ai.yusflow.com` | $0.8 / $2.8 | 国模按量分组0.4分组 | 0.4 | glm-5.3-flashx |
+| 46 | `api.xag-api.com` | $0.9 / $3.15 | 国内全家桶 | 0.45 | glm-5.3-flashx |
+| 47 | `aichronos.xyz` | $1.2 / $4.2 | 国模 | 0.6 | glm-5.3-flashx |
+| 48 | `tokenstation.top` | $1.2 / $4.2 | 国模 | 0.6 | glm-5.3-flashx |
+| 49 | `www.guangone.top` | $1.2 / $4.2 | glm | 0.6 | glm-5.3-flashx |
+| 50 | `api.chatfire.cn` | $1.6 / $5.6 | lite | 0.4 | glm-5.3-flashx |
 
-> 另有 6 站未列出。
+> 另有 8 站未列出。
 
-> 95 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 99 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

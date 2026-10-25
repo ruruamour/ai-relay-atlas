@@ -1,6 +1,6 @@
 # qwen2.5-math-72b-instruct
 
-> 37 站提供 · 正常价 27 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥4**/1M 输入（9 站公开充值价） · 推算，未对账
+> 40 站提供 · 正常价 30 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥3.9**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,14 +11,17 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.zyai.online` | ¥2 | $2 / $6 | 1 | mini | qwen2.5-math-72b-instruct |
-| 2 | `gpt777.top` | ¥3.2 | $3.2 / $9.6 | 1 | opensource | qwen2.5-math-72b-instruct |
-| 3 | `api.ocoolai.com` | ¥3.8 | $3.8 / $11.4 | 1 | cn | qwen2.5-math-72b-instruct |
-| 4 | `ocool.cn` | ¥3.8 | $3.8 / $11.4 | 1 | cn | qwen2.5-math-72b-instruct |
-| 5 | `keypool.space` | ¥4 | $4 / $12 | 1 | default | qwen2.5-math-72b-instruct |
-| 6 | `kfcv50.link` | ¥4 | $4 / $12 | 1 | Domestic | qwen2.5-math-72b-instruct |
-| 7 | `xinsuanai.com` | ¥4 | $4 / $12 | 1 | default | qwen2.5-math-72b-instruct |
-| 8 | `mb.dmxapi.cn` | ¥5.5 | $1.1 / $1.1 | 5 | default | qwen2.5-math-72b-instruct |
-| 9 | `hy88.my` | ¥17.52 | $2.4 / $7.2 | 7.3 | qwen | qwen2.5-math-72b-instruct |
+| 2 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen2.5-math-72b-instruct |
+| 3 | `gpt777.top` | ¥3.2 | $3.2 / $9.6 | 1 | opensource | qwen2.5-math-72b-instruct |
+| 4 | `api.ocoolai.com` | ¥3.8 | $3.8 / $11.4 | 1 | cn | qwen2.5-math-72b-instruct |
+| 5 | `ocool.cn` | ¥3.8 | $3.8 / $11.4 | 1 | cn | qwen2.5-math-72b-instruct |
+| 6 | `one.ooo.cool` | ¥3.8 | $3.8 / $11.4 | 1 | cn | qwen2.5-math-72b-instruct |
+| 7 | `api.aiskt.com` | ¥4 | $4 / $12 | 1 | default | qwen2.5-math-72b-instruct |
+| 8 | `keypool.space` | ¥4 | $4 / $12 | 1 | default | qwen2.5-math-72b-instruct |
+| 9 | `kfcv50.link` | ¥4 | $4 / $12 | 1 | Domestic | qwen2.5-math-72b-instruct |
+| 10 | `xinsuanai.com` | ¥4 | $4 / $12 | 1 | default | qwen2.5-math-72b-instruct |
+| 11 | `mb.dmxapi.cn` | ¥5.5 | $1.1 / $1.1 | 5 | default | qwen2.5-math-72b-instruct |
+| 12 | `hy88.my` | ¥17.52 | $2.4 / $7.2 | 7.3 | qwen | qwen2.5-math-72b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # qwen2-0.5b-instruct
 
-> 20 站提供 · 正常价 9 站 · 名义中位价 **$0.1**/1M 输入 · 实付中位价 **¥0.438**/1M 输入（9 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 11 站 · 名义中位价 **$0.52**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,6 +18,8 @@
 | 6 | `gpt777.top` | ¥1.6 | $1.6 / $1.6 | 1 | opensource | qwen2-0.5b-instruct |
 | 7 | `api.ifopen.ai` | ¥1.82 | $0.52 / $0.52 | 3.5 | 通用大模型 | qwen2-0.5b-instruct |
 | 8 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $0.52 | 3.5 | 通用大模型 | qwen2-0.5b-instruct |
-| 9 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen2-0.5b-instruct |
+| 9 | `api.aiskt.com` | ¥2.857 | $2.8572 / $5.7144 | 1 | default | qwen2-0.5b-instruct |
+| 10 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $5.7144 | 1 | 国产模型 | qwen2-0.5b-instruct |
+| 11 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen2-0.5b-instruct |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

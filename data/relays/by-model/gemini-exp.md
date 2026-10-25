@@ -1,6 +1,6 @@
 # gemini-exp
 
-> 37 站提供 · 正常价 23 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.658**/1M 输入（16 站公开充值价） · 推算，未对账
+> 38 站提供 · 正常价 24 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.516**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,19 +13,20 @@
 | 1 | `xiaoma.best` | ¥0.3 | $0.3 / $2.5 | 1 | gemini | gemini-exp-1206 |
 | 2 | `api.ocoolai.com` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-exp-1114 |
 | 3 | `ocool.cn` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-exp-1114 |
-| 4 | `api.eido.top` | ¥2 | $2 / $10 | 1 | default | gemini-exp-1206 |
-| 5 | `new.gateway.icu` | ¥2 | $2 / $8 | 1 | reverse | gemini-exp-1114 |
-| 6 | `big.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | openai逆向 | gemini-exp-1114 |
-| 7 | `go.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | gemini全模型 | gemini-exp-1114 |
-| 8 | `8s.hk` | ¥2.516 | $2.516 / $9.996 | 1 | 全模型自动 | gemini-exp-1206 |
-| 9 | `ai.soruxgpt.com` | ¥2.8 | $2.8 / $11.2 | 1 | reverse-low | gemini-exp-1206 |
-| 10 | `api.hopeai.cc` | ¥4 | $4 / $16 | 1 | default | gemini-exp-1114 |
-| 11 | `www.micuapi.ai` | ¥4 | $4 / $16 | 1 | - | gemini-exp-1114 |
-| 12 | `tk.dmxapi.cn` | ¥6.25 | $1.25 / $5 | 5 | default | gemini-exp-1206 |
-| 13 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | svip | gemini-exp-1114 |
-| 14 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-exp-1114 |
-| 15 | `api.bianxie.ai` | ¥29.2 | $4 / $16 | 7.3 | default | gemini-exp-1114 |
-| 16 | `api.bianxieai.com` | ¥29.2 | $4 / $16 | 7.3 | default | gemini-exp-1114 |
+| 4 | `one.ooo.cool` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-exp-1114 |
+| 5 | `api.eido.top` | ¥2 | $2 / $10 | 1 | default | gemini-exp-1206 |
+| 6 | `new.gateway.icu` | ¥2 | $2 / $8 | 1 | reverse | gemini-exp-1114 |
+| 7 | `big.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | openai逆向 | gemini-exp-1114 |
+| 8 | `go.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | gemini全模型 | gemini-exp-1114 |
+| 9 | `8s.hk` | ¥2.516 | $2.516 / $9.996 | 1 | 全模型自动 | gemini-exp-1206 |
+| 10 | `ai.soruxgpt.com` | ¥2.8 | $2.8 / $11.2 | 1 | reverse-low | gemini-exp-1206 |
+| 11 | `api.hopeai.cc` | ¥4 | $4 / $16 | 1 | default | gemini-exp-1114 |
+| 12 | `www.micuapi.ai` | ¥4 | $4 / $16 | 1 | - | gemini-exp-1114 |
+| 13 | `tk.dmxapi.cn` | ¥6.25 | $1.25 / $5 | 5 | default | gemini-exp-1206 |
+| 14 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | svip | gemini-exp-1114 |
+| 15 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-exp-1114 |
+| 16 | `api.bianxie.ai` | ¥29.2 | $4 / $16 | 7.3 | default | gemini-exp-1114 |
+| 17 | `api.bianxieai.com` | ¥29.2 | $4 / $16 | 7.3 | default | gemini-exp-1114 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

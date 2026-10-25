@@ -1,6 +1,6 @@
 # o1-pro
 
-> 193 站提供 · 正常价 123 站 · 名义中位价 **$150**/1M 输入 · 实付中位价 **¥375**/1M 输入（82 站公开充值价） · 推算，未对账
+> 202 站提供 · 正常价 128 站 · 名义中位价 **$176.25**/1M 输入 · 实付中位价 **¥375**/1M 输入（87 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -39,29 +39,29 @@
 | 27 | `rockapi.ai` | ¥150 | $150 / $600 | 1 | default | o1-pro |
 | 28 | `api.34ku.com` | ¥195 | $195 / $780 | 1 | default | o1-pro-2025-03-19 |
 | 29 | `35.aigcbest.top` | ¥225 | $150 / $600 | 1.5 | default | o1-pro |
-| 30 | `api.bltcy.ai` | ¥225 | $225 / $900 | 1 | ssvip | o1-pro-2025-03-19 |
-| 31 | `apilio.ai` | ¥225 | $225 / $900 | 1 | ssvip | o1-pro-2025-03-19 |
-| 32 | `test-ssl.bltcy.ai` | ¥225 | $225 / $900 | 1 | ssvip | o1-pro-2025-03-19 |
-| 33 | `webapi.xjai.cc` | ¥225 | $75 / $150 | 3 | svip | o1-pro-all |
-| 34 | `new.gateway.icu` | ¥262.5 | $262.5 / $1050 | 1 | openai | o1-pro-2025-03-19 |
-| 35 | `poloai.top` | ¥262.5 | $262.5 / $1050 | 1 | gpt-vip | o1-pro-2025-03-19 |
-| 36 | `www.cybersol.net` | ¥270 | $135 / $540 | 2 | GPT Advance | o1-pro |
-| 37 | `gpt777.top` | ¥300 | $300 / $1200 | 1 | Azure | o1-pro |
-| 38 | `www.ggwk1.online` | ¥300 | $300 / $1200 | 1 | 官转无审高智商 | o1-pro |
-| 39 | `ai.t8star.org` | ¥303.8 | $225 / $900 | 1.35 | ssvip | o1-pro-2025-03-19 |
-| 40 | `api.ycapi.xyz` | ¥306.1 | $306.122 / $1224.49 | 1 | gpt-azure | o1-pro-all |
-| 41 | `api.qinzhiai.com` | ¥375 | $375 / $1500 | 1 | openai | o1-pro |
-| 42 | `api1.147ai.com` | ¥375 | $375 / $1500 | 1 | openai | o1-pro |
-| 43 | `api.new.bi` | ¥450 | $450 / $1800 | 1 | 官转OpenAI | o1-pro |
-| 44 | `api1.uiuiapi.com` | ¥505.5 | $150 / $600 | 3.37 | default | o1-pro |
-| 45 | `api.ifopen.ai` | ¥525 | $150 / $600 | 3.5 | default | o1-pro |
-| 46 | `api2.aigcbest.top` | ¥525 | $150 / $600 | 3.5 | default | o1-pro |
-| 47 | `zen-ai.top` | ¥525 | $525 / $2100 | 1 | openai | o1-pro |
-| 48 | `api.bita-api.com` | ¥547.5 | $75 / $150 | 7.3 | gpt-origin | o1-pro-all |
-| 49 | `bita-api-production.up.railway.app` | ¥547.5 | $75 / $150 | 7.3 | gpt-origin | o1-pro-all |
-| 50 | `api.wukong.support` | ¥562.5 | $562.5 / $2250 | 1 | gemini官渠 | o1-pro-2025-03-19 |
+| 30 | `api.aiskt.com` | ¥225 | $225 / $900 | 1 | azureqy | o1-pro |
+| 31 | `api.bltcy.ai` | ¥225 | $225 / $900 | 1 | ssvip | o1-pro-2025-03-19 |
+| 32 | `apilio.ai` | ¥225 | $225 / $900 | 1 | ssvip | o1-pro-2025-03-19 |
+| 33 | `test-ssl.bltcy.ai` | ¥225 | $225 / $900 | 1 | ssvip | o1-pro-2025-03-19 |
+| 34 | `webapi.xjai.cc` | ¥225 | $75 / $150 | 3 | svip | o1-pro-all |
+| 35 | `new.gateway.icu` | ¥262.5 | $262.5 / $1050 | 1 | openai | o1-pro-2025-03-19 |
+| 36 | `poloai.top` | ¥262.5 | $262.5 / $1050 | 1 | gpt-vip | o1-pro-2025-03-19 |
+| 37 | `xy.poloapi.com` | ¥262.5 | $262.5 / $1050 | 1 | gpt-vip | o1-pro-2025-03-19 |
+| 38 | `www.cybersol.net` | ¥270 | $135 / $540 | 2 | GPT Advance | o1-pro |
+| 39 | `gpt777.top` | ¥300 | $300 / $1200 | 1 | Azure | o1-pro |
+| 40 | `www.ggwk1.online` | ¥300 | $300 / $1200 | 1 | 官转无审高智商 | o1-pro |
+| 41 | `ai.t8star.org` | ¥303.8 | $225 / $900 | 1.35 | ssvip | o1-pro-2025-03-19 |
+| 42 | `api.ycapi.xyz` | ¥306.1 | $306.122 / $1224.49 | 1 | gpt-azure | o1-pro-all |
+| 43 | `api.qinzhiai.com` | ¥375 | $375 / $1500 | 1 | openai | o1-pro |
+| 44 | `api1.147ai.com` | ¥375 | $375 / $1500 | 1 | openai | o1-pro |
+| 45 | `api.new.bi` | ¥450 | $450 / $1800 | 1 | 官转OpenAI | o1-pro |
+| 46 | `api1.uiuiapi.com` | ¥505.5 | $150 / $600 | 3.37 | default | o1-pro |
+| 47 | `api.ifopen.ai` | ¥525 | $150 / $600 | 3.5 | default | o1-pro |
+| 48 | `api2.aigcbest.top` | ¥525 | $150 / $600 | 3.5 | default | o1-pro |
+| 49 | `zen-ai.top` | ¥525 | $525 / $2100 | 1 | openai | o1-pro |
+| 50 | `api.bita-api.com` | ¥547.5 | $75 / $150 | 7.3 | gpt-origin | o1-pro-all |
 
-> 另有 32 站未列出。
+> 另有 37 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -109,4 +109,4 @@
 | 40 | `yuli.host` | $450 / $1800 | 官转OpenAI | 6 | o1-pro |
 | 41 | `sub.hongyun.chat` | $1125 / $4500 | gpt | 7.5 | o1-pro |
 
-> 70 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 74 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

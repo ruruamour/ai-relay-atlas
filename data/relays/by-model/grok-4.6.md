@@ -1,6 +1,6 @@
 # grok-4.6
 
-> 1258 站提供 · 正常价 806 站 · 名义中位价 **$0.4**/1M 输入 · 实付中位价 **¥0.858**/1M 输入（574 站公开充值价） · 推算，未对账
+> 1298 站提供 · 正常价 829 站 · 名义中位价 **$0.4**/1M 输入 · 实付中位价 **¥0.96**/1M 输入（591 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -47,21 +47,21 @@
 | 35 | `faojzoo.cn` | ¥0.18 | $0.36 / $1.08 | 0.5 | grok-heavy专线 | grok-4.6 |
 | 36 | `xixi.bjhuiqu.net` | ¥0.18 | $0.18 / $0.9 | 1 | site_34~84f2715b797665dc | grok-4.6 |
 | 37 | `ai.furry.vg` | ¥0.2 | $0.2 / $0.6 | 1 | Go Plan | go/grok-4.6 |
-| 38 | `api.duckcoding.ai` | ¥0.2 | $0.2 / $0.6 | 1 | Grok Build | grok-4.6 |
-| 39 | `api.hk.toumingx.fun` | ¥0.2 | $0.2 / $0.6 | 1 | XAI-P1 | grok-4.6 |
-| 40 | `api.lukyface.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok heavy | grok-4.6 |
-| 41 | `api.right.codes` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.6 |
-| 42 | `api.rightapi.ai` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.6 |
-| 43 | `api.token-hacker.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-官渠 | grok-4.6 |
-| 44 | `api.yunnet.top` | ¥0.2 | $0.2 / $0.6 | 1 | Grok | grok-4.6 |
-| 45 | `api.zq4i.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok-0.1倍率-官接号池 | grok-4.6 |
-| 46 | `apiddt.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok | grok-4.6 |
-| 47 | `cn.jbbt.cc` | ¥0.2 | $0.2 / $0.6 | 1 | 专用grok | grok-4.6 |
-| 48 | `fluxapi.vip` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-heavy 0.1x | grok-4.6 |
-| 49 | `hk.getelucid.com` | ¥0.2 | $0.2 / $0.6 | 1 | 【X】grok-heavy | grok-4.6 |
-| 50 | `jbbtoken.cn` | ¥0.2 | $0.2 / $0.6 | 1 | 专用grok | grok-4.6 |
+| 38 | `ai.qunq.de` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-Heavy | grok-4.6 |
+| 39 | `api-models.com` | ¥0.2 | $0.2 / $0.6 | 1 | Promo | grok-4.6 |
+| 40 | `api.duckcoding.ai` | ¥0.2 | $0.2 / $0.6 | 1 | Grok Build | grok-4.6 |
+| 41 | `api.hk.toumingx.fun` | ¥0.2 | $0.2 / $0.6 | 1 | XAI-P1 | grok-4.6 |
+| 42 | `api.lukyface.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok heavy | grok-4.6 |
+| 43 | `api.right.codes` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.6 |
+| 44 | `api.rightapi.ai` | ¥0.2 | $0.2 / $0.6 | 1 | grok | grok-4.6 |
+| 45 | `api.token-hacker.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-官渠 | grok-4.6 |
+| 46 | `api.yunnet.top` | ¥0.2 | $0.2 / $0.6 | 1 | Grok | grok-4.6 |
+| 47 | `api.zq4i.com` | ¥0.2 | $0.2 / $0.6 | 1 | grok-0.1倍率-官接号池 | grok-4.6 |
+| 48 | `apiddt.com` | ¥0.2 | $0.2 / $0.6 | 1 | Grok | grok-4.6 |
+| 49 | `cn.jbbt.cc` | ¥0.2 | $0.2 / $0.6 | 1 | 专用grok | grok-4.6 |
+| 50 | `fluxapi.vip` | ¥0.2 | $0.2 / $0.6 | 1 | Grok-heavy 0.1x | grok-4.6 |
 
-> 另有 524 站未列出。
+> 另有 541 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -116,8 +116,8 @@
 | 47 | `tntapi.com` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.6 |
 | 48 | `salcara.top` | $0.22 / $0.66 | grok | 0.11 | grok-4.6 |
 | 49 | `aicat.api.sumnece.com` | $0.24 / $0.72 | Heavy | 0.12 | grok-4.6 |
-| 50 | `api.luciferai.cc` | $0.24 / $0.72 | grok-heavy | 0.12 | grok-4.6 |
+| 50 | `api.168box.xyz` | $0.24 / $0.72 | grok | 0.12 | grok-4.6 |
 
-> 另有 182 站未列出。
+> 另有 188 站未列出。
 
-> 452 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 469 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

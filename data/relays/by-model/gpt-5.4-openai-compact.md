@@ -1,6 +1,6 @@
 # gpt-5.4-openai-compact
 
-> 209 站提供 · 正常价 133 站 · 名义中位价 **$0.95**/1M 输入 · 实付中位价 **¥2**/1M 输入（115 站公开充值价） · 推算，未对账
+> 217 站提供 · 正常价 138 站 · 名义中位价 **$0.975**/1M 输入 · 实付中位价 **¥2.004**/1M 输入（118 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -53,15 +53,15 @@
 | 41 | `gzxsy.vip` | ¥0.75 | $0.75 / $4.5 | 1 | VIP-Codex | gpt-5.4-openai-compact |
 | 42 | `new.gateway.icu` | ¥0.75 | $0.75 / $4.5 | 1 | codex | gpt-5.4-openai-compact |
 | 43 | `tiantianai.pro` | ¥0.75 | $0.75 / $4.5 | 1 | codex-wav | gpt-5.4-openai-compact |
-| 44 | `pro.gemai.cc` | ¥0.875 | $0.875 / $5.25 | 1 | Codex Pro | gpt-5.4-openai-compact |
-| 45 | `ai.gpt666claude.top` | ¥0.9 | $0.9 / $5.4 | 1 | 纯pro号池 | gpt-5.4-openai-compact |
-| 46 | `www.sjapi.top` | ¥0.95 | $0.95 / $5.7 | 1 | GPT Pro | gpt-5.4-openai-compact |
-| 47 | `1.cnmz.de` | ¥1.125 | $1.125 / $6.75 | 1 | GPT-官key-正价 | gpt-5.4-openai-compact |
-| 48 | `getezo.com` | ¥1.125 | $1.125 / $6.75 | 1 | GPT-官key-正价 | gpt-5.4-openai-compact |
-| 49 | `api.camel-hub.com` | ¥1.2 | $1.5 / $9 | 0.8 | CC2GPT | gpt-5.4-openai-compact |
-| 50 | `claudeaihub.cloud` | ¥1.25 | $1.25 / $7.5 | 1 | Cursor | gpt-5.4-openai-compact |
+| 44 | `api.xi-ai.cn` | ¥0.875 | $0.875 / $5.25 | 1 | gpt_codex_2 | gpt-5.4-openai-compact |
+| 45 | `pro.gemai.cc` | ¥0.875 | $0.875 / $5.25 | 1 | Codex Pro | gpt-5.4-openai-compact |
+| 46 | `ai.gpt666claude.top` | ¥0.9 | $0.9 / $5.4 | 1 | 纯pro号池 | gpt-5.4-openai-compact |
+| 47 | `www.sjapi.top` | ¥0.95 | $0.95 / $5.7 | 1 | GPT Pro | gpt-5.4-openai-compact |
+| 48 | `1.cnmz.de` | ¥1.125 | $1.125 / $6.75 | 1 | GPT-官key-正价 | gpt-5.4-openai-compact |
+| 49 | `getezo.com` | ¥1.125 | $1.125 / $6.75 | 1 | GPT-官key-正价 | gpt-5.4-openai-compact |
+| 50 | `api.camel-hub.com` | ¥1.2 | $1.5 / $9 | 0.8 | CC2GPT | gpt-5.4-openai-compact |
 
-> 另有 65 站未列出。
+> 另有 68 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -71,19 +71,21 @@
 | 2 | `api.tohoqing.com` | $0.25 / $1.5 | plus号池 | 0.1 | gpt-5.4-openai-compact |
 | 3 | `www.largechestnut.com` | $0.3 / $1.8 | gpt-plus | 0.12 | gpt-5.4-openai-compact |
 | 4 | `yyds.chybenzun.top` | $0.3 / $1.8 | 【GPT】速刷/拥挤分组 | 0.12 | gpt-5.4-openai-compact |
-| 5 | `api.tameac.com` | $0.5 / $3 | ChatGPT 账号分组(0.2倍率) | 0.2 | gpt-5.4-openai-compact |
-| 6 | `cdn.hanhanai.cc` | $0.5 / $3 | Codex-luna | 0.2 | gpt-5.4-openai-compact |
-| 7 | `api.bawanglong.xyz` | $0.9 / $3.6 | GPT Pro分组 | 0.3 | gpt-5.4-openai-compact |
-| 8 | `longent.tech` | $2.5 / $15 | rpm | 1 | gpt-5.4-openai-compact |
-| 9 | `ai.nodeseek.in` | $3 / $18 | vip | 1 | gpt-5.4-openai-compact |
-| 10 | `new.fastaicode.top` | $3 / $18 | default | 1 | gpt-5.4-openai-compact |
-| 11 | `poloapi.top` | $3 / $18 | Codex-gpt-蒸馏 | 1.2 | gpt-5.4-openai-compact |
-| 12 | `test.sbbbbbbbbb.xyz` | $5 / $30 | pro | 2 | gpt-5.4-openai-compact |
-| 13 | `zz1cc.cc.cd` | $7 / $42 | pro尊享顶级反应速度oen | 2.8 | gpt-5.4-openai-compact |
-| 14 | `cf-api.huskyapi.com` | $7.5 / $45 | codex | 3 | gpt-5.4-openai-compact |
-| 15 | `huskyapi.com` | $7.5 / $45 | codex | 3 | gpt-5.4-openai-compact |
-| 16 | `api-x.uk` | $12.5 / $75 | Gemini | 5 | gpt-5.4-openai-compact |
-| 17 | `api.gemai.cc` | $175 / $1050 | default | 1 | gpt-5.4-openai-compact |
-| 18 | `gemai.huchan.cn` | $175 / $1050 | default | 1 | gpt-5.4-openai-compact |
+| 5 | `api.168box.xyz` | $0.37 / $2.22 | codex | 0.148 | gpt-5.4-openai-compact |
+| 6 | `api.tameac.com` | $0.5 / $3 | ChatGPT 账号分组(0.2倍率) | 0.2 | gpt-5.4-openai-compact |
+| 7 | `cdn.hanhanai.cc` | $0.5 / $3 | Codex-luna | 0.2 | gpt-5.4-openai-compact |
+| 8 | `api.bawanglong.xyz` | $0.9 / $3.6 | GPT Pro分组 | 0.3 | gpt-5.4-openai-compact |
+| 9 | `longent.tech` | $2.5 / $15 | rpm | 1 | gpt-5.4-openai-compact |
+| 10 | `ai.nodeseek.in` | $3 / $18 | vip | 1 | gpt-5.4-openai-compact |
+| 11 | `new.fastaicode.top` | $3 / $18 | default | 1 | gpt-5.4-openai-compact |
+| 12 | `poloapi.top` | $3 / $18 | Codex-gpt-蒸馏 | 1.2 | gpt-5.4-openai-compact |
+| 13 | `test.sbbbbbbbbb.xyz` | $5 / $30 | pro | 2 | gpt-5.4-openai-compact |
+| 14 | `zz1cc.cc.cd` | $7 / $42 | pro尊享顶级反应速度oen | 2.8 | gpt-5.4-openai-compact |
+| 15 | `cf-api.huskyapi.com` | $7.5 / $45 | codex | 3 | gpt-5.4-openai-compact |
+| 16 | `huskyapi.com` | $7.5 / $45 | codex | 3 | gpt-5.4-openai-compact |
+| 17 | `api-x.uk` | $12.5 / $75 | Gemini | 5 | gpt-5.4-openai-compact |
+| 18 | `api.gemai.cc` | $175 / $1050 | default | 1 | gpt-5.4-openai-compact |
+| 19 | `api.gemapi.ai` | $175 / $1050 | default | 1 | gpt-5.4-openai-compact |
+| 20 | `gemai.huchan.cn` | $175 / $1050 | default | 1 | gpt-5.4-openai-compact |
 
-> 76 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 79 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

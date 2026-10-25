@@ -1,6 +1,6 @@
 # grok-4-1-fast
 
-> 149 站提供 · 正常价 66 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.138**/1M 输入（60 站公开充值价） · 推算，未对账
+> 152 站提供 · 正常价 68 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.138**/1M 输入（62 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -38,30 +38,30 @@
 | 26 | `mgrouter.com` | ¥0.9248 | $0.136 / $0.34 | 6.8 | Grok-原厂稳定版-6.8折 | grok-4-1-fast-reasoning |
 | 27 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-4-1-fast-reasoning |
 | 28 | `www.moxin.plus` | ¥1 | $2 / $5 | 0.5 | Grok[官转] | grok-4-1-fast-reasoning |
-| 29 | `abc.cykjzz.cn` | ¥1.022 | $0.14 / $0.35 | 7.3 | grok逆向 | grok-4-1-fast-reasoning |
-| 30 | `ai2.qiqiai.top` | ¥1.051 | $0.144 / $0.36 | 7.3 | azure | grok-4-1-fast-reasoning |
-| 31 | `airouter.org` | ¥1.224 | $1.224 / $3.06 | 1 | svip | grok-4-1-fast-reasoning |
-| 32 | `xaction.ai` | ¥1.241 | $0.17 / $0.425 | 7.3 | starter | grok-4-1-fast-reasoning |
-| 33 | `api.ocoolai.com` | ¥1.26 | $1.26 / $1.26 | 1 | claude_official | grok-4-1-fast-reasoning |
-| 34 | `ocool.cn` | ¥1.26 | $1.26 / $1.26 | 1 | claude_official | grok-4-1-fast-reasoning |
-| 35 | `hy88.my` | ¥1.314 | $0.18 / $0.45 | 7.3 | grok_official | grok-4-1-fast-reasoning |
-| 36 | `api.mountainsea.ai` | ¥1.34 | $0.2 / $0.5 | 6.7 | default | grok-4-1-fast-reasoning |
-| 37 | `aiapi.world` | ¥1.356 | $0.19941 / $0.498525 | 6.8 | default | grok-4-1-fast-reasoning |
-| 38 | `open.cherryin.ai` | ¥1.356 | $0.2 / $0.5 | 6.78 | default | x-ai/grok-4-1-fast-reasoning |
-| 39 | `api.apipro.ai` | ¥1.4 | $0.2 / $0.5 | 7 | grok | grok-4-1-fast-reasoning |
-| 40 | `api.laozhang.ai` | ¥1.4 | $0.2 / $0.5 | 7 | default | grok-4-1-fast-reasoning |
-| 41 | `crazyrouter.com` | ¥1.4 | $0.2 / $0.5 | 7 | default | grok-4-1-fast-reasoning |
-| 42 | `express-ent-admin.cherryin.net` | ¥1.44 | $0.2 / $0.5 | 7.2 | default | x-ai/grok-4-1-fast-reasoning |
-| 43 | `airouter.cloud` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-reasoning |
-| 44 | `api.ai-gaochao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-reasoning |
-| 45 | `apius.shubiaobiao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-reasoning |
-| 46 | `hk.apitoken.ai` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-reasoning |
-| 47 | `newapi.floatai.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | probe-52 | grok-4-1-fast-reasoning |
-| 48 | `v3.yunai.link` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-reasoning |
-| 49 | `api.hoxkai.top` | ¥1.625 | $1.625 / $3.25 | 1 | grok | grok-4-1-fast-reasoning |
-| 50 | `beeroute.ai` | ¥1.9 | $1.9 / $3.8 | 1 | Gpt-Official | grok-4-1-fast-reasoning |
+| 29 | `www.nuwaflux.com` | ¥1 | $1 / $2.5 | 1 | 高速专线 | grok-4-1-fast-reasoning |
+| 30 | `abc.cykjzz.cn` | ¥1.022 | $0.14 / $0.35 | 7.3 | grok逆向 | grok-4-1-fast-reasoning |
+| 31 | `ai2.qiqiai.top` | ¥1.051 | $0.144 / $0.36 | 7.3 | azure | grok-4-1-fast-reasoning |
+| 32 | `airouter.org` | ¥1.224 | $1.224 / $3.06 | 1 | svip | grok-4-1-fast-reasoning |
+| 33 | `xaction.ai` | ¥1.241 | $0.17 / $0.425 | 7.3 | starter | grok-4-1-fast-reasoning |
+| 34 | `api.ocoolai.com` | ¥1.26 | $1.26 / $1.26 | 1 | claude_official | grok-4-1-fast-reasoning |
+| 35 | `ocool.cn` | ¥1.26 | $1.26 / $1.26 | 1 | claude_official | grok-4-1-fast-reasoning |
+| 36 | `one.ooo.cool` | ¥1.26 | $1.26 / $1.26 | 1 | claude_official | grok-4-1-fast-reasoning |
+| 37 | `hy88.my` | ¥1.314 | $0.18 / $0.45 | 7.3 | grok_official | grok-4-1-fast-reasoning |
+| 38 | `api.mountainsea.ai` | ¥1.34 | $0.2 / $0.5 | 6.7 | default | grok-4-1-fast-reasoning |
+| 39 | `aiapi.world` | ¥1.356 | $0.19941 / $0.498525 | 6.8 | default | grok-4-1-fast-reasoning |
+| 40 | `open.cherryin.ai` | ¥1.356 | $0.2 / $0.5 | 6.78 | default | x-ai/grok-4-1-fast-reasoning |
+| 41 | `api.apipro.ai` | ¥1.4 | $0.2 / $0.5 | 7 | grok | grok-4-1-fast-reasoning |
+| 42 | `api.laozhang.ai` | ¥1.4 | $0.2 / $0.5 | 7 | default | grok-4-1-fast-reasoning |
+| 43 | `crazyrouter.com` | ¥1.4 | $0.2 / $0.5 | 7 | default | grok-4-1-fast-reasoning |
+| 44 | `express-ent-admin.cherryin.net` | ¥1.44 | $0.2 / $0.5 | 7.2 | default | x-ai/grok-4-1-fast-reasoning |
+| 45 | `airouter.cloud` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-reasoning |
+| 46 | `api.ai-gaochao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-reasoning |
+| 47 | `apius.shubiaobiao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-reasoning |
+| 48 | `hk.apitoken.ai` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-reasoning |
+| 49 | `newapi.floatai.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | probe-52 | grok-4-1-fast-reasoning |
+| 50 | `v3.yunai.link` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-reasoning |
 
-> 另有 10 站未列出。
+> 另有 12 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -74,4 +74,4 @@
 | 5 | `ai-pixel.online` | $0.375 / $0.375 | room-115 | 0.005 | grok-4-1-fast-reasoning |
 | 6 | `ai.ufoai.online` | $2 / $5 | Grok[官转] | 10 | grok-4-1-fast-reasoning |
 
-> 83 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 84 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

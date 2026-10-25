@@ -1,6 +1,6 @@
 # gemini-2.5-flash-image
 
-> 510 站提供 · 正常价 271 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1482**/次（201 站公开充值价） · 推算，未对账
+> 529 站提供 · 正常价 279 站 · 名义中位价 **$0.0976**/次 · 实付中位价 **¥0.1482**/次（208 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,46 +22,46 @@
 | 10 | `tokencount.aigemini.org` | ¥0.035 | $0.035 | 1 | default | gemini-2.5-flash-image |
 | 11 | `cdn.12ai.org` | ¥0.036 | $0.036 | 1 | Mini | gemini-2.5-flash-image |
 | 12 | `api.vakv.cn` | ¥0.039 | $0.039 | 1 | 生图专用 | gemini-2.5-flash-image |
-| 13 | `gptnb.ai` | ¥0.039 | $0.039 | 1 | API | gemini-2.5-flash-image |
-| 14 | `oneapi.gptnb.ai` | ¥0.039 | $0.039 | 1 | API | gemini-2.5-flash-image |
-| 15 | `vakv.cn` | ¥0.039 | $0.039 | 1 | 生图专用 | gemini-2.5-flash-image |
-| 16 | `api.hopeai.cc` | ¥0.04 | $0.04 | 1 | default | gemini-2.5-flash-image |
-| 17 | `api.zyai.online` | ¥0.04 | $0.04 | 1 | mini | gemini-2.5-flash-image |
-| 18 | `vibecodingapi.ai` | ¥0.04 | $0.04 | 1 | default | gemini-2.5-flash-image |
-| 19 | `api.viviai.cc` | ¥0.045 | $0.045 | 1 | nanobanana | gemini-2.5-flash-image |
-| 20 | `learn-ai.top` | ¥0.04571 | $0.0457136 | 1 | gemini | gemini-2.5-flash-image |
-| 21 | `api.yhlxj.ai` | ¥0.048 | $0.048 | 1 | nanobanana | gemini-2.5-flash-image |
-| 22 | `apinebula.ai` | ¥0.048 | $0.048 | 1 | nanobanana | gemini-2.5-flash-image |
-| 23 | `new.omniakey.com` | ¥0.049 | $0.049 | 1 | default | gemini-2.5-flash-image |
-| 24 | `code28.ccwu.cc` | ¥0.05 | $0.05 | 1 | 生图分组-nanobanana | gemini-2.5-flash-image |
-| 25 | `magic666.top` | ¥0.05 | $0.05 | 1 | default | gemini-2.5-flash-image |
-| 26 | `gpt777.top` | ¥0.0585 | $0.0585 | 1 | Gemini-VIP | gemini-2.5-flash-image |
-| 27 | `1.cnmz.de` | ¥0.06 | $0.06 | 1 | 图片视频分组 | gemini-2.5-flash-image |
-| 28 | `cnapi.kksj.org` | ¥0.06 | $0.06 | 1 | gemini稳定 | gemini-2.5-flash-image |
-| 29 | `getezo.com` | ¥0.06 | $0.06 | 1 | 图片视频分组 | gemini-2.5-flash-image |
-| 30 | `api.aabao.ai` | ¥0.064 | $0.032 | 2 | Gemini直连-3 | gemini-2.5-flash-image |
-| 31 | `api.hoxkai.top` | ¥0.0663 | $0.0663 | 1 | gemini | gemini-2.5-flash-image |
-| 32 | `newapi.aiopus.org` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
-| 33 | `newapi.aisonnet.org` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
-| 34 | `pay.magic666.top` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
-| 35 | `pro.gemai.cc` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
-| 36 | `ai.xfws88.com` | ¥0.072 | $0.072 | 1 | AGENT | gemini-2.5-flash-image |
-| 37 | `api.routeeasy.ai` | ¥0.072 | $0.072 | 1 | gemini_studio_18 | gemini-2.5-flash-image |
-| 38 | `api.relayrouter.ai` | ¥0.0741 | $0.0110295 | 6.718 | Discounted-Banana-1 | gemini-2.5-flash-image |
-| 39 | `openlux.zhongzhuan.chat` | ¥0.0741 | $0.0110295 | 6.718 | Discounted-Banana-1 | gemini-2.5-flash-image |
-| 40 | `ai.soruxgpt.com` | ¥0.08 | $0.08 | 1 | default | gemini-2.5-flash-image |
-| 41 | `api.bltcy.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image |
-| 42 | `api.openai-labs.com` | ¥0.08 | $0.08 | 1 | gemini-pro | gemini-2.5-flash-image |
-| 43 | `api.xgapi.top` | ¥0.08 | $0.08 | 1 | Gemini-优质 | gemini-2.5-flash-image |
-| 44 | `apilio.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image |
-| 45 | `linkapi.ai` | ¥0.08 | $0.08 | 1 | gemini | gemini-2.5-flash-image |
-| 46 | `nova.vcrauo.com` | ¥0.08 | $0.08 | 1 | Gemini·image Adobe节点 | gemini-2.5-flash-image |
-| 47 | `test-ssl.bltcy.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image |
-| 48 | `tiantianai.pro` | ¥0.08 | $0.08 | 1 | default | gemini-2.5-flash-image |
-| 49 | `zen-ai.top` | ¥0.08 | $0.08 | 1 | 优质gemini | gemini-2.5-flash-image |
-| 50 | `www.ggwk1.online` | ¥0.081 | $0.081 | 1 | 绘画base64 | gemini-2.5-flash-image |
+| 13 | `goapi.gptnb.ai` | ¥0.039 | $0.039 | 1 | API | gemini-2.5-flash-image |
+| 14 | `gptnb.ai` | ¥0.039 | $0.039 | 1 | API | gemini-2.5-flash-image |
+| 15 | `oneapi.gptnb.ai` | ¥0.039 | $0.039 | 1 | API | gemini-2.5-flash-image |
+| 16 | `vakv.cn` | ¥0.039 | $0.039 | 1 | 生图专用 | gemini-2.5-flash-image |
+| 17 | `api.hopeai.cc` | ¥0.04 | $0.04 | 1 | default | gemini-2.5-flash-image |
+| 18 | `api.zyai.online` | ¥0.04 | $0.04 | 1 | mini | gemini-2.5-flash-image |
+| 19 | `vibecodingapi.ai` | ¥0.04 | $0.04 | 1 | default | gemini-2.5-flash-image |
+| 20 | `api.viviai.cc` | ¥0.045 | $0.045 | 1 | nanobanana | gemini-2.5-flash-image |
+| 21 | `learn-ai.top` | ¥0.04571 | $0.0457136 | 1 | gemini | gemini-2.5-flash-image |
+| 22 | `api.yhlxj.ai` | ¥0.048 | $0.048 | 1 | nanobanana | gemini-2.5-flash-image |
+| 23 | `apinebula.ai` | ¥0.048 | $0.048 | 1 | nanobanana | gemini-2.5-flash-image |
+| 24 | `new.omniakey.com` | ¥0.049 | $0.049 | 1 | default | gemini-2.5-flash-image |
+| 25 | `code28.ccwu.cc` | ¥0.05 | $0.05 | 1 | 生图分组-nanobanana | gemini-2.5-flash-image |
+| 26 | `magic666.top` | ¥0.05 | $0.05 | 1 | default | gemini-2.5-flash-image |
+| 27 | `gpt777.top` | ¥0.0585 | $0.0585 | 1 | Gemini-VIP | gemini-2.5-flash-image |
+| 28 | `1.cnmz.de` | ¥0.06 | $0.06 | 1 | 图片视频分组 | gemini-2.5-flash-image |
+| 29 | `cnapi.kksj.org` | ¥0.06 | $0.06 | 1 | gemini稳定 | gemini-2.5-flash-image |
+| 30 | `getezo.com` | ¥0.06 | $0.06 | 1 | 图片视频分组 | gemini-2.5-flash-image |
+| 31 | `api.aabao.ai` | ¥0.064 | $0.032 | 2 | Gemini直连-3 | gemini-2.5-flash-image |
+| 32 | `api.hoxkai.top` | ¥0.0663 | $0.0663 | 1 | gemini | gemini-2.5-flash-image |
+| 33 | `newapi.aiopus.org` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
+| 34 | `newapi.aisonnet.org` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
+| 35 | `pay.magic666.top` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
+| 36 | `pro.gemai.cc` | ¥0.07 | $0.07 | 1 | default | gemini-2.5-flash-image |
+| 37 | `ai.xfws88.com` | ¥0.072 | $0.072 | 1 | AGENT | gemini-2.5-flash-image |
+| 38 | `api.routeeasy.ai` | ¥0.072 | $0.072 | 1 | gemini_studio_18 | gemini-2.5-flash-image |
+| 39 | `api.relayrouter.ai` | ¥0.0741 | $0.0110295 | 6.718 | Discounted-Banana-1 | gemini-2.5-flash-image |
+| 40 | `openlux.zhongzhuan.chat` | ¥0.0741 | $0.0110295 | 6.718 | Discounted-Banana-1 | gemini-2.5-flash-image |
+| 41 | `ai.soruxgpt.com` | ¥0.08 | $0.08 | 1 | default | gemini-2.5-flash-image |
+| 42 | `api.bltcy.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image |
+| 43 | `api.openai-labs.com` | ¥0.08 | $0.08 | 1 | gemini-pro | gemini-2.5-flash-image |
+| 44 | `api.xgapi.top` | ¥0.08 | $0.08 | 1 | Gemini-优质 | gemini-2.5-flash-image |
+| 45 | `apilio.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image |
+| 46 | `linkapi.ai` | ¥0.08 | $0.08 | 1 | gemini | gemini-2.5-flash-image |
+| 47 | `nova.vcrauo.com` | ¥0.08 | $0.08 | 1 | Gemini·image Adobe节点 | gemini-2.5-flash-image |
+| 48 | `test-ssl.bltcy.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image |
+| 49 | `tiantianai.pro` | ¥0.08 | $0.08 | 1 | default | gemini-2.5-flash-image |
+| 50 | `zen-ai.top` | ¥0.08 | $0.08 | 1 | 优质gemini | gemini-2.5-flash-image |
 
-> 另有 151 站未列出。
+> 另有 158 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `startapi.top` | $0.36 | 优质gemini | 2.4 | gemini-2.5-flash-image |
 | 50 | `uouo.fun` | $0.36 | 优质gemini | 2.4 | gemini-2.5-flash-image |
 
-> 另有 20 站未列出。
+> 另有 21 站未列出。
 
-> 239 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 250 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

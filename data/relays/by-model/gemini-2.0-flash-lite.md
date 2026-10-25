@@ -1,6 +1,6 @@
 # gemini-2.0-flash-lite
 
-> 165 站提供 · 正常价 142 站 · 名义中位价 **$0.27**/1M 输入 · 实付中位价 **¥0.56**/1M 输入（75 站公开充值价） · 推算，未对账
+> 169 站提供 · 正常价 146 站 · 名义中位价 **$0.27**/1M 输入 · 实付中位价 **¥0.56**/1M 输入（79 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,36 +32,36 @@
 | 20 | `api.openlux.ai` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
 | 21 | `api.relayrouter.ai` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
 | 22 | `openlux.zhongzhuan.chat` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 23 | `api.tidewhisper-ai.xyz` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 24 | `gzxbykj.com` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 25 | `infai.cc` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 26 | `yunwu.org` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 27 | `v2.cloudmist.cloud` | ¥0.5215 | $0.077625 / $0.3105 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 28 | `api.apib.ai` | ¥0.525 | $0.075 / $0.3 | 7 | - | gemini-2.0-flash-lite |
-| 29 | `layso.ai` | ¥0.5363 | $0.53625 / $2.145 | 1 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 30 | `laysoai.com` | ¥0.5363 | $0.53625 / $2.145 | 1 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 31 | `www.vectronode.com` | ¥0.5442 | $0.081 / $0.324 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 32 | `api.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite |
-| 33 | `gemini.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite |
-| 34 | `apiclaw.cn` | ¥0.5487 | $0.081675 / $0.3267 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 35 | `newapi.xueai.me` | ¥0.5487 | $0.081675 / $0.3267 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 36 | `wodapis.com` | ¥0.5487 | $0.081675 / $0.3267 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 37 | `cn.gptapi.asia` | ¥0.56 | $0.56 / $2.24 | 1 | enterprise | gemini-2.0-flash-lite |
-| 38 | `yutoapi.com` | ¥0.56 | $0.56 / $2.24 | 1 | enterprise | gemini-2.0-flash-lite |
-| 39 | `ciyuan.today` | ¥0.5668 | $0.084375 / $0.3375 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 40 | `gptapi.top` | ¥0.5668 | $0.084375 / $0.3375 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 41 | `makerend.com` | ¥0.5668 | $0.084375 / $0.3375 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 42 | `moliapi.com` | ¥0.5714 | $0.08505 / $0.3402 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 43 | `ai-api.cc` | ¥0.5895 | $0.08775 / $0.351 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 44 | `nodapi.com` | ¥0.5986 | $0.0891 / $0.3564 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 45 | `anyaigc.ai` | ¥0.6122 | $0.091125 / $0.3645 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 46 | `sheepaiplus.top` | ¥0.6349 | $0.0945 / $0.378 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 47 | `xiguapi.icu` | ¥0.6349 | $0.0945 / $0.378 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 48 | `new.gateway.icu` | ¥0.65 | $0.65 / $2.6 | 1 | gemini-aistudio-o | gemini-2.0-flash-lite |
-| 49 | `api.88api.chat` | ¥0.6802 | $0.10125 / $0.405 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 50 | `api.88api.shop` | ¥0.6802 | $0.10125 / $0.405 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 23 | `4zapi.com` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 24 | `api.tidewhisper-ai.xyz` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 25 | `gzxbykj.com` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 26 | `infai.cc` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 27 | `yunwu.org` | ¥0.4988 | $0.07425 / $0.297 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 28 | `api.antmoo.cc` | ¥0.5215 | $0.077625 / $0.3105 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 29 | `v2.cloudmist.cloud` | ¥0.5215 | $0.077625 / $0.3105 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 30 | `api.apib.ai` | ¥0.525 | $0.075 / $0.3 | 7 | - | gemini-2.0-flash-lite |
+| 31 | `layso.ai` | ¥0.5363 | $0.53625 / $2.145 | 1 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 32 | `laysoai.com` | ¥0.5363 | $0.53625 / $2.145 | 1 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 33 | `www.vectronode.com` | ¥0.5442 | $0.081 / $0.324 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 34 | `api.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite |
+| 35 | `gemini.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite |
+| 36 | `apiclaw.cn` | ¥0.5487 | $0.081675 / $0.3267 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 37 | `newapi.xueai.me` | ¥0.5487 | $0.081675 / $0.3267 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 38 | `wodapis.com` | ¥0.5487 | $0.081675 / $0.3267 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 39 | `cn.gptapi.asia` | ¥0.56 | $0.56 / $2.24 | 1 | enterprise | gemini-2.0-flash-lite |
+| 40 | `yutoapi.com` | ¥0.56 | $0.56 / $2.24 | 1 | enterprise | gemini-2.0-flash-lite |
+| 41 | `ciyuan.today` | ¥0.5668 | $0.084375 / $0.3375 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 42 | `gptapi.top` | ¥0.5668 | $0.084375 / $0.3375 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 43 | `makerend.com` | ¥0.5668 | $0.084375 / $0.3375 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 44 | `moliapi.com` | ¥0.5714 | $0.08505 / $0.3402 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 45 | `ai-api.cc` | ¥0.5895 | $0.08775 / $0.351 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 46 | `nodapi.com` | ¥0.5986 | $0.0891 / $0.3564 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 47 | `anyaigc.ai` | ¥0.6122 | $0.091125 / $0.3645 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 48 | `sheepaiplus.top` | ¥0.6349 | $0.0945 / $0.378 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 49 | `xiguapi.icu` | ¥0.6349 | $0.0945 / $0.378 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
+| 50 | `new.gateway.icu` | ¥0.65 | $0.65 / $2.6 | 1 | gemini-aistudio-o | gemini-2.0-flash-lite |
 
-> 另有 25 站未列出。
+> 另有 29 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

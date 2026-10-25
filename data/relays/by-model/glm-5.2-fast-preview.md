@@ -1,6 +1,6 @@
 # glm-5.2-fast-preview
 
-> 44 站提供 · 正常价 32 站 · 名义中位价 **$6.4**/1M 输入 · 实付中位价 **¥6.8**/1M 输入（20 站公开充值价） · 推算，未对账
+> 47 站提供 · 正常价 34 站 · 名义中位价 **$6.4**/1M 输入 · 实付中位价 **¥7.2**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -29,23 +29,25 @@
 | 17 | `ai-model.chinaz.net` | ¥16 | $2.19178 / $7.67123 | 7.3 | default | glm-5.2-fast-preview |
 | 18 | `e.fishxcode.com` | ¥16 | $16 / $56 | 1 | default | glm-5.2-fast-preview |
 | 19 | `tokenworldapi.com` | ¥16 | $16 / $56 | 1 | default | glm-5.2-fast-preview |
-| 20 | `unorouter.net` | ¥116.8 | $16 / $56 | 7.3 | default | glm-5.2-fast-preview |
+| 20 | `www.nuwaflux.com` | ¥16 | $16 / $56 | 1 | 国产模型专线 | glm-5.2-fast-preview |
+| 21 | `unorouter.net` | ¥116.8 | $16 / $56 | 7.3 | default | glm-5.2-fast-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `sub.skypoem.top` | $4 / $14 | Muse | 0.25 | glm-5.2-fast-preview |
-| 2 | `worldcodes.online` | $5.12 / $17.92 | 【国模聚合4】官Key直连 | 0.32 | glm-5.2-fast-preview |
-| 3 | `codexauv.com` | $5.28 / $18.48 | 国产模型聚合-阿里满血渠道 | 0.33 | glm-5.2-fast-preview |
-| 4 | `goforai.top` | $6.4 / $22.4 | Kimi K3 | 0.4 | glm-5.2-fast-preview |
-| 5 | `wahaapi.top` | $6.4 / $22.4 | 国模--anthropic协议 | 0.4 | glm-5.2-fast-preview |
-| 6 | `x.ailzd.com` | $6.4 / $22.4 | 国模(Anthropic) | 0.4 | glm-5.2-fast-preview |
-| 7 | `aiapi.aiqji.cn` | $8 / $28 | 国模大杂烩 | 0.5 | glm-5.2-fast-preview |
-| 8 | `api.apikl.ai` | $8 / $28 | Zhipu | 0.5 | glm-5.2-fast-preview |
-| 9 | `hicccc.cc` | $8 / $28 | 国模大杂烩 | 0.5 | glm-5.2-fast-preview |
-| 10 | `api.bestai.chat` | $9.6 / $33.6 | 国产模型（Anthropic协议） | 0.6 | glm-5.2-fast-preview |
-| 11 | `api.tyasai.com` | $22.4 / $78.4 | DeepSeek | 0.35 | glm-5.2-fast-preview |
-| 12 | `longent.tech` | $80 / $280 | 国产模型 | 5 | glm-5.2-fast-preview |
+| 1 | `www.likeai520.cc` | $0.56 / $1.76 | 国模分组 | 0.4 | glm-5.2-fast-preview |
+| 2 | `sub.skypoem.top` | $4 / $14 | Muse | 0.25 | glm-5.2-fast-preview |
+| 3 | `worldcodes.online` | $5.12 / $17.92 | 【国模聚合4】官Key直连 | 0.32 | glm-5.2-fast-preview |
+| 4 | `codexauv.com` | $5.28 / $18.48 | 国产模型聚合-阿里满血渠道 | 0.33 | glm-5.2-fast-preview |
+| 5 | `goforai.top` | $6.4 / $22.4 | Kimi K3 | 0.4 | glm-5.2-fast-preview |
+| 6 | `wahaapi.top` | $6.4 / $22.4 | 国模--anthropic协议 | 0.4 | glm-5.2-fast-preview |
+| 7 | `x.ailzd.com` | $6.4 / $22.4 | 国模(Anthropic) | 0.4 | glm-5.2-fast-preview |
+| 8 | `aiapi.aiqji.cn` | $8 / $28 | 国模大杂烩 | 0.5 | glm-5.2-fast-preview |
+| 9 | `api.apikl.ai` | $8 / $28 | Zhipu | 0.5 | glm-5.2-fast-preview |
+| 10 | `hicccc.cc` | $8 / $28 | 国模大杂烩 | 0.5 | glm-5.2-fast-preview |
+| 11 | `api.bestai.chat` | $9.6 / $33.6 | 国产模型（Anthropic协议） | 0.6 | glm-5.2-fast-preview |
+| 12 | `api.tyasai.com` | $22.4 / $78.4 | DeepSeek | 0.35 | glm-5.2-fast-preview |
+| 13 | `longent.tech` | $80 / $280 | 国产模型 | 5 | glm-5.2-fast-preview |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

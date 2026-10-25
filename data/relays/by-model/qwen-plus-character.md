@@ -1,6 +1,6 @@
 # qwen-plus-character
 
-> 117 站提供 · 正常价 113 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥2.217**/1M 输入（49 站公开充值价） · 推算，未对账
+> 121 站提供 · 正常价 117 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥2.217**/1M 输入（53 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,44 +21,47 @@
 | 9 | `api.openlux.ai` | ¥1.679 | $0.25 / $0.7 | 6.718 | Alibaba-1 | qwen-plus-character |
 | 10 | `api.relayrouter.ai` | ¥1.679 | $0.25 / $0.7 | 6.718 | Alibaba-1 | qwen-plus-character |
 | 11 | `openlux.zhongzhuan.chat` | ¥1.679 | $0.25 / $0.7 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 12 | `api.tidewhisper-ai.xyz` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 13 | `gzxbykj.com` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 14 | `yunwu.org` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 15 | `v2.cloudmist.cloud` | ¥1.931 | $0.2875 / $0.805 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 16 | `www.vectronode.com` | ¥2.015 | $0.3 / $0.84 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 17 | `apiclaw.cn` | ¥2.032 | $0.3025 / $0.847 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 18 | `newapi.xueai.me` | ¥2.032 | $0.3025 / $0.847 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 19 | `wodapis.com` | ¥2.032 | $0.3025 / $0.847 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 20 | `ciyuan.today` | ¥2.099 | $0.3125 / $0.875 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 21 | `gptapi.top` | ¥2.099 | $0.3125 / $0.875 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 22 | `makerend.com` | ¥2.099 | $0.3125 / $0.875 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 23 | `moliapi.com` | ¥2.116 | $0.315 / $0.882 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 24 | `ai-api.cc` | ¥2.183 | $0.325 / $0.91 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 25 | `nodapi.com` | ¥2.217 | $0.33 / $0.924 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 26 | `anyaigc.ai` | ¥2.267 | $0.3375 / $0.945 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 27 | `sheepaiplus.top` | ¥2.351 | $0.35 / $0.98 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 28 | `xiguapi.icu` | ¥2.351 | $0.35 / $0.98 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 29 | `api.88api.chat` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 30 | `api.88api.shop` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 31 | `api.videocaptioner.cn` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 32 | `infai.cc` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 33 | `new.aigc2d.com` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 34 | `oyy-ai.xyz` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 35 | `api.nixapi.com` | ¥2.838 | $0.4225 / $1.183 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 36 | `aiwuje.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 37 | `api.cursorai.art` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 38 | `api.echoflowai.cc` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 39 | `api.n1n.ai` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 40 | `api.quickrouter.ai` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 41 | `jeniya.cn` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 42 | `linoapi.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 43 | `llm-api.net` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 44 | `quanzil.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 45 | `token173.net` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 46 | `tryallapi.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 47 | `wellapi.ai` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 48 | `thousandengine.com` | ¥3.418 | $0.50875 / $1.4245 | 6.718 | Alibaba-1 | qwen-plus-character |
-| 49 | `plusx.nyxos.shop` | ¥18.25 | $2.5 / $7 | 7.3 | Alibaba-1 | qwen-plus-character |
+| 12 | `4zapi.com` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 13 | `api.tidewhisper-ai.xyz` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 14 | `gzxbykj.com` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 15 | `yunwu.org` | ¥1.847 | $0.275 / $0.77 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 16 | `api.antmoo.cc` | ¥1.931 | $0.2875 / $0.805 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 17 | `v2.cloudmist.cloud` | ¥1.931 | $0.2875 / $0.805 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 18 | `www.vectronode.com` | ¥2.015 | $0.3 / $0.84 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 19 | `apiclaw.cn` | ¥2.032 | $0.3025 / $0.847 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 20 | `newapi.xueai.me` | ¥2.032 | $0.3025 / $0.847 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 21 | `wodapis.com` | ¥2.032 | $0.3025 / $0.847 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 22 | `ciyuan.today` | ¥2.099 | $0.3125 / $0.875 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 23 | `gptapi.top` | ¥2.099 | $0.3125 / $0.875 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 24 | `makerend.com` | ¥2.099 | $0.3125 / $0.875 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 25 | `moliapi.com` | ¥2.116 | $0.315 / $0.882 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 26 | `ai-api.cc` | ¥2.183 | $0.325 / $0.91 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 27 | `nodapi.com` | ¥2.217 | $0.33 / $0.924 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 28 | `anyaigc.ai` | ¥2.267 | $0.3375 / $0.945 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 29 | `sheepaiplus.top` | ¥2.351 | $0.35 / $0.98 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 30 | `xiguapi.icu` | ¥2.351 | $0.35 / $0.98 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 31 | `api.88api.chat` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 32 | `api.88api.shop` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 33 | `api.videocaptioner.cn` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 34 | `infai.cc` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 35 | `lanbuff.app` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 36 | `new.aigc2d.com` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 37 | `oyy-ai.xyz` | ¥2.519 | $0.375 / $1.05 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 38 | `api.nixapi.com` | ¥2.838 | $0.4225 / $1.183 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 39 | `aiwuje.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 40 | `api.cursorai.art` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 41 | `api.echoflowai.cc` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 42 | `api.n1n.ai` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 43 | `api.quickrouter.ai` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 44 | `jeniya.cn` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 45 | `linoapi.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 46 | `linoroute.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 47 | `llm-api.net` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 48 | `quanzil.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 49 | `token173.net` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+| 50 | `tryallapi.com` | ¥3.359 | $0.5 / $1.4 | 6.718 | Alibaba-1 | qwen-plus-character |
+
+> 另有 3 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

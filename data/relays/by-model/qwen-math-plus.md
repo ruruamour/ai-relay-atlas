@@ -1,6 +1,6 @@
 # qwen-math-plus
 
-> 43 站提供 · 正常价 32 站 · 名义中位价 **$2.04002**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（31 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 36 站 · 名义中位价 **$2.39717**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（35 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,31 +16,35 @@
 | 4 | `e.fishxcode.com` | ¥0.5714 | $0.571429 / $1.71429 | 1 | default | qwen-math-plus |
 | 5 | `api.zyai.online` | ¥1.429 | $1.4286 / $14.286 | 1 | mini | qwen-math-plus-latest |
 | 6 | `pay.magic666.top` | ¥1.429 | $1.4286 / $1.4286 | 1 | 国产 | qwen-math-plus |
-| 7 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-math-plus |
-| 8 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen-math-plus |
-| 9 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-math-plus-latest |
-| 10 | `magic666.top` | ¥2 | $2.00004 / $2.00004 | 1 | 国产模型 | qwen-math-plus |
-| 11 | `api.ocoolai.com` | ¥2.714 | $2.71434 / $8.14302 | 1 | cn | qwen-math-plus-latest |
-| 12 | `ocool.cn` | ¥2.714 | $2.71434 / $8.14302 | 1 | cn | qwen-math-plus-latest |
-| 13 | `kfcv50.link` | ¥2.857 | $2.8572 / $2.8572 | 1 | Domestic | qwen-math-plus-latest |
-| 14 | `mb.dmxapi.cn` | ¥3 | $0.6 / $0.522 | 5 | default | qwen-math-plus |
-| 15 | `580.4sapi.com` | ¥3.2 | $3.2 / $9.6 | 1 | qwen-claude | qwen-math-plus |
-| 16 | `cn.580ai.net` | ¥3.2 | $3.2 / $9.6 | 1 | qwen-claude | qwen-math-plus |
-| 17 | `gpt777.top` | ¥3.2 | $3.2 / $9.6 | 1 | opensource | qwen-math-plus |
-| 18 | `poloai.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen千问 | qwen-math-plus |
-| 19 | `api.ifopen.ai` | ¥3.64 | $1.04 / $3.12 | 3.5 | 通用大模型 | qwen-math-plus |
-| 20 | `api2.aigcbest.top` | ¥3.64 | $1.04 / $3.12 | 3.5 | 通用大模型 | qwen-math-plus |
-| 21 | `api.eido.top` | ¥4 | $4 / $12 | 1 | default | qwen-math-plus |
-| 22 | `cn.gptapi.asia` | ¥4.06 | $4.06 / $12.18 | 1 | enterprise | qwen-math-plus |
-| 23 | `yutoapi.com` | ¥4.06 | $4.06 / $12.18 | 1 | enterprise | qwen-math-plus |
-| 24 | `unorouter.net` | ¥4.171 | $0.571429 / $1.71429 | 7.3 | default | qwen-math-plus |
-| 25 | `www.hohoapi.com` | ¥6.24 | $2.08 / $6.24 | 3 | qwen | qwen-math-plus |
-| 26 | `cc.zhihuiapi.top` | ¥6.4 | $6.4 / $19.2 | 1 | qwen | qwen-math-plus |
-| 27 | `cn.zhihuiai.top` | ¥6.4 | $6.4 / $19.2 | 1 | qwen | qwen-math-plus |
-| 28 | `hy88.my` | ¥12.51 | $1.71432 / $17.1432 | 7.3 | qwen | qwen-math-plus-latest |
-| 29 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-math-plus |
-| 30 | `codeyy.top` | ¥29.2 | $4 / $12 | 7.3 | default | qwen-math-plus |
-| 31 | `wrduai.com` | ¥29.2 | $4 / $12 | 7.3 | 官转 | qwen-math-plus |
+| 7 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-math-plus |
+| 8 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-math-plus |
+| 9 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen-math-plus |
+| 10 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-math-plus-latest |
+| 11 | `magic666.top` | ¥2 | $2.00004 / $2.00004 | 1 | 国产模型 | qwen-math-plus |
+| 12 | `api.ocoolai.com` | ¥2.714 | $2.71434 / $8.14302 | 1 | cn | qwen-math-plus-latest |
+| 13 | `ocool.cn` | ¥2.714 | $2.71434 / $8.14302 | 1 | cn | qwen-math-plus-latest |
+| 14 | `one.ooo.cool` | ¥2.714 | $2.71434 / $8.14302 | 1 | cn | qwen-math-plus-latest |
+| 15 | `kfcv50.link` | ¥2.857 | $2.8572 / $2.8572 | 1 | Domestic | qwen-math-plus-latest |
+| 16 | `mb.dmxapi.cn` | ¥3 | $0.6 / $0.522 | 5 | default | qwen-math-plus |
+| 17 | `580.4sapi.com` | ¥3.2 | $3.2 / $9.6 | 1 | qwen-claude | qwen-math-plus |
+| 18 | `cn.580ai.net` | ¥3.2 | $3.2 / $9.6 | 1 | qwen-claude | qwen-math-plus |
+| 19 | `gpt777.top` | ¥3.2 | $3.2 / $9.6 | 1 | opensource | qwen-math-plus |
+| 20 | `poloai.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen千问 | qwen-math-plus |
+| 21 | `xy.poloapi.com` | ¥3.2 | $3.2 / $9.6 | 1 | qwen千问 | qwen-math-plus |
+| 22 | `api.ifopen.ai` | ¥3.64 | $1.04 / $3.12 | 3.5 | 通用大模型 | qwen-math-plus |
+| 23 | `api2.aigcbest.top` | ¥3.64 | $1.04 / $3.12 | 3.5 | 通用大模型 | qwen-math-plus |
+| 24 | `api.aiskt.com` | ¥4 | $4 / $12 | 1 | default | qwen-math-plus |
+| 25 | `api.eido.top` | ¥4 | $4 / $12 | 1 | default | qwen-math-plus |
+| 26 | `cn.gptapi.asia` | ¥4.06 | $4.06 / $12.18 | 1 | enterprise | qwen-math-plus |
+| 27 | `yutoapi.com` | ¥4.06 | $4.06 / $12.18 | 1 | enterprise | qwen-math-plus |
+| 28 | `unorouter.net` | ¥4.171 | $0.571429 / $1.71429 | 7.3 | default | qwen-math-plus |
+| 29 | `www.hohoapi.com` | ¥6.24 | $2.08 / $6.24 | 3 | qwen | qwen-math-plus |
+| 30 | `cc.zhihuiapi.top` | ¥6.4 | $6.4 / $19.2 | 1 | qwen | qwen-math-plus |
+| 31 | `cn.zhihuiai.top` | ¥6.4 | $6.4 / $19.2 | 1 | qwen | qwen-math-plus |
+| 32 | `hy88.my` | ¥12.51 | $1.71432 / $17.1432 | 7.3 | qwen | qwen-math-plus-latest |
+| 33 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-math-plus |
+| 34 | `codeyy.top` | ¥29.2 | $4 / $12 | 7.3 | default | qwen-math-plus |
+| 35 | `wrduai.com` | ¥29.2 | $4 / $12 | 7.3 | 官转 | qwen-math-plus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -48,4 +52,4 @@
 |---|---|---|---|---|---|
 | 1 | `poloapi.top` | $3.2 / $9.6 | qwen千问 | 0.8 | qwen-math-plus |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

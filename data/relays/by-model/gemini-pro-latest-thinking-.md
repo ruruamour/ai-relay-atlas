@@ -1,6 +1,6 @@
 # gemini-pro-latest-thinking-*
 
-> 30 站提供 · 正常价 17 站 · 名义中位价 **$2.1875**/1M 输入 · 实付中位价 **¥5.158**/1M 输入（14 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 19 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5.158**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,14 +16,16 @@
 | 4 | `api.qiqiai.top` | ¥3.2 | $1.6 / $9.6 | 2 | default | gemini-pro-latest-thinking-* |
 | 5 | `api.xiaoyaoxx.cn` | ¥3.8 | $3.8 / $22.8 | 1 | vt  geminni | gemini-pro-latest-thinking-* |
 | 6 | `botcf.com` | ¥4.4 | $4.4 / $26.4 | 1 | 💎gemini-official | gemini-pro-latest-thinking-* |
-| 7 | `www.hohoapi.com` | ¥4.875 | $1.625 / $13 | 3 | default | gemini-pro-latest-thinking-* |
-| 8 | `mgrouter.com` | ¥5.44 | $0.8 / $4.8 | 6.8 | Gemini-原厂标准版-4折 | gemini-pro-latest-thinking-* |
-| 9 | `poloai.top` | ¥7.5 | $7.5 / $75 | 1 | Gemini-优质临时分组 | gemini-pro-latest-thinking-* |
-| 10 | `api.4xapi.com` | ¥10.22 | $1.4 / $8.4 | 7.3 | gemini-官转 | gemini-pro-latest-thinking-* |
-| 11 | `console.qqqrouter.ai` | ¥14 | $2 / $12 | 7 | Gemini_Vertex直连 | gemini-pro-latest-thinking-* |
-| 12 | `nxaiapp.com` | ¥15.97 | $2.1875 / $17.5 | 7.3 | Gemini【稳】 | gemini-pro-latest-thinking-* |
-| 13 | `m78.newapi.botcf.com` | ¥31.8 | $4.356 / $26.136 | 7.3 | 😡Gemini-Vertex | gemini-pro-latest-thinking-* |
-| 14 | `api2.4xapi.com` | ¥36.5 | $5 / $30 | 7.3 | Gemini-vertex | gemini-pro-latest-thinking-* |
+| 7 | `xn--15q04w3tg4kio0a.com` | ¥4.4 | $4.4 / $26.4 | 1 | 💎gemini-official | gemini-pro-latest-thinking-* |
+| 8 | `www.hohoapi.com` | ¥4.875 | $1.625 / $13 | 3 | default | gemini-pro-latest-thinking-* |
+| 9 | `mgrouter.com` | ¥5.44 | $0.8 / $4.8 | 6.8 | Gemini-原厂标准版-4折 | gemini-pro-latest-thinking-* |
+| 10 | `poloai.top` | ¥7.5 | $7.5 / $75 | 1 | Gemini-优质临时分组 | gemini-pro-latest-thinking-* |
+| 11 | `xy.poloapi.com` | ¥7.5 | $7.5 / $75 | 1 | gemini-号池 | gemini-pro-latest-thinking-* |
+| 12 | `api.4xapi.com` | ¥10.22 | $1.4 / $8.4 | 7.3 | gemini-官转 | gemini-pro-latest-thinking-* |
+| 13 | `console.qqqrouter.ai` | ¥14 | $2 / $12 | 7 | Gemini_Vertex直连 | gemini-pro-latest-thinking-* |
+| 14 | `nxaiapp.com` | ¥15.97 | $2.1875 / $17.5 | 7.3 | Gemini【稳】 | gemini-pro-latest-thinking-* |
+| 15 | `m78.newapi.botcf.com` | ¥31.8 | $4.356 / $26.136 | 7.3 | 😡Gemini-Vertex | gemini-pro-latest-thinking-* |
+| 16 | `api2.4xapi.com` | ¥36.5 | $5 / $30 | 7.3 | Gemini-vertex | gemini-pro-latest-thinking-* |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # gemini-2.5-flash-preview
 
-> 70 站提供 · 正常价 57 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.49**/1M 输入（52 站公开充值价） · 推算，未对账
+> 72 站提供 · 正常价 58 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.48**/1M 输入（53 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -35,33 +35,33 @@
 | 23 | `yun.v1api.cc` | ¥0.45 | $0.3 / $2.4999 | 1.5 | default | gemini-2.5-flash-preview-04-17 |
 | 24 | `api.ocoolai.com` | ¥0.45 | $0.45 / $3.75003 | 1 | default | gemini-2.5-flash-preview-04-17 |
 | 25 | `ocool.cn` | ¥0.45 | $0.45 / $3.75003 | 1 | default | gemini-2.5-flash-preview-04-17 |
-| 26 | `www.cybersol.net` | ¥0.48 | $0.24 / $2 | 2 | Gemini Standard | gemini-2.5-flash-preview-05-20 |
-| 27 | `newapi.aiopus.org` | ¥0.5 | $0.5 / $1 | 1 | default | gemini-2.5-flash-preview-04-17 |
-| 28 | `newapi.aisonnet.org` | ¥0.5 | $0.5 / $1 | 1 | default | gemini-2.5-flash-preview-04-17 |
-| 29 | `api.147ai.cn` | ¥0.6 | $0.6 / $13.98 | 1 | gemini | gemini-2.5-flash-preview-05-20 |
-| 30 | `api.bltcy.ai` | ¥0.6 | $0.6 / $5 | 1 | gemini优质 | gemini-2.5-flash-preview-05-20 |
-| 31 | `apilio.ai` | ¥0.6 | $0.6 / $5 | 1 | gemini优质 | gemini-2.5-flash-preview-05-20 |
-| 32 | `gpt-api.cc` | ¥0.6 | $0.6 / $2.4 | 1 | default | gemini-2.5-flash-preview-04-17 |
-| 33 | `test-ssl.bltcy.ai` | ¥0.6 | $0.6 / $5 | 1 | gemini优质 | gemini-2.5-flash-preview-05-20 |
-| 34 | `ai.t8star.org` | ¥0.81 | $0.6 / $5 | 1.35 | gemini优质 | gemini-2.5-flash-preview-05-20 |
-| 35 | `api.xhuoai.com` | ¥0.9 | $0.6 / $4.9998 | 1.5 | gemini2 | gemini-2.5-flash-preview-04-17 |
-| 36 | `cn.gptapi.asia` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gemini-2.5-flash-preview-04-17 |
-| 37 | `yutoapi.com` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gemini-2.5-flash-preview-04-17 |
-| 38 | `gemini.ysaikeji.cn` | ¥1.095 | $0.15 / $3.5 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
-| 39 | `hk.apitoken.ai` | ¥1.095 | $0.15 / $0.6 | 7.3 | bi | gemini-2.5-flash-preview-05-20 |
-| 40 | `sogoodsmart.online` | ¥1.095 | $0.15 / $3.5 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
-| 41 | `ssvip.dmxapi.com` | ¥1.095 | $0.15 / $3.45 | 7.3 | default | gemini-2.5-flash-preview-05-20 |
-| 42 | `api.annyun.cn` | ¥2 | $2 / $46.6667 | 1 | default | gemini-2.5-flash-preview-04-17 |
-| 43 | `api.apib.ai` | ¥2.1 | $0.3 / $2.4999 | 7 | - | gemini-2.5-flash-preview-04-17 |
-| 44 | `api.bianxie.ai` | ¥2.19 | $0.3 / $2.4999 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
-| 45 | `api.bianxieai.com` | ¥2.19 | $0.3 / $2.4999 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
-| 46 | `api.ysaikeji.cn` | ¥2.19 | $0.3 / $1.2 | 7.3 | default | gemini-2.5-flash-preview-05-20 |
-| 47 | `i-sh.v1api.cc` | ¥2.4 | $2.4 / $19.9992 | 1 | other | gemini-2.5-flash-preview-04-17 |
-| 48 | `i.v1api.cc` | ¥2.4 | $2.4 / $19.9992 | 1 | other | gemini-2.5-flash-preview-04-17 |
-| 49 | `test.yibuapi.com` | ¥3 | $2 / $5 | 1.5 | default | gemini-2.5-flash-preview-05-20 |
-| 50 | `yibuapi.com` | ¥3 | $2 / $5 | 1.5 | default | gemini-2.5-flash-preview-05-20 |
+| 26 | `one.ooo.cool` | ¥0.45 | $0.45 / $3.75003 | 1 | default | gemini-2.5-flash-preview-04-17 |
+| 27 | `www.cybersol.net` | ¥0.48 | $0.24 / $2 | 2 | Gemini Standard | gemini-2.5-flash-preview-05-20 |
+| 28 | `newapi.aiopus.org` | ¥0.5 | $0.5 / $1 | 1 | default | gemini-2.5-flash-preview-04-17 |
+| 29 | `newapi.aisonnet.org` | ¥0.5 | $0.5 / $1 | 1 | default | gemini-2.5-flash-preview-04-17 |
+| 30 | `api.147ai.cn` | ¥0.6 | $0.6 / $13.98 | 1 | gemini | gemini-2.5-flash-preview-05-20 |
+| 31 | `api.bltcy.ai` | ¥0.6 | $0.6 / $5 | 1 | gemini优质 | gemini-2.5-flash-preview-05-20 |
+| 32 | `apilio.ai` | ¥0.6 | $0.6 / $5 | 1 | gemini优质 | gemini-2.5-flash-preview-05-20 |
+| 33 | `gpt-api.cc` | ¥0.6 | $0.6 / $2.4 | 1 | default | gemini-2.5-flash-preview-04-17 |
+| 34 | `test-ssl.bltcy.ai` | ¥0.6 | $0.6 / $5 | 1 | gemini优质 | gemini-2.5-flash-preview-05-20 |
+| 35 | `ai.t8star.org` | ¥0.81 | $0.6 / $5 | 1.35 | gemini优质 | gemini-2.5-flash-preview-05-20 |
+| 36 | `api.xhuoai.com` | ¥0.9 | $0.6 / $4.9998 | 1.5 | gemini2 | gemini-2.5-flash-preview-04-17 |
+| 37 | `cn.gptapi.asia` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gemini-2.5-flash-preview-04-17 |
+| 38 | `yutoapi.com` | ¥1.05 | $1.05 / $4.2 | 1 | enterprise | gemini-2.5-flash-preview-04-17 |
+| 39 | `gemini.ysaikeji.cn` | ¥1.095 | $0.15 / $3.5 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
+| 40 | `hk.apitoken.ai` | ¥1.095 | $0.15 / $0.6 | 7.3 | bi | gemini-2.5-flash-preview-05-20 |
+| 41 | `sogoodsmart.online` | ¥1.095 | $0.15 / $3.5 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
+| 42 | `ssvip.dmxapi.com` | ¥1.095 | $0.15 / $3.45 | 7.3 | default | gemini-2.5-flash-preview-05-20 |
+| 43 | `api.annyun.cn` | ¥2 | $2 / $46.6667 | 1 | default | gemini-2.5-flash-preview-04-17 |
+| 44 | `api.apib.ai` | ¥2.1 | $0.3 / $2.4999 | 7 | - | gemini-2.5-flash-preview-04-17 |
+| 45 | `api.bianxie.ai` | ¥2.19 | $0.3 / $2.4999 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
+| 46 | `api.bianxieai.com` | ¥2.19 | $0.3 / $2.4999 | 7.3 | default | gemini-2.5-flash-preview-04-17 |
+| 47 | `api.ysaikeji.cn` | ¥2.19 | $0.3 / $1.2 | 7.3 | default | gemini-2.5-flash-preview-05-20 |
+| 48 | `i-sh.v1api.cc` | ¥2.4 | $2.4 / $19.9992 | 1 | other | gemini-2.5-flash-preview-04-17 |
+| 49 | `i.v1api.cc` | ¥2.4 | $2.4 / $19.9992 | 1 | other | gemini-2.5-flash-preview-04-17 |
+| 50 | `test.yibuapi.com` | ¥3 | $2 / $5 | 1.5 | default | gemini-2.5-flash-preview-05-20 |
 
-> 另有 2 站未列出。
+> 另有 3 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -73,4 +73,4 @@
 | 4 | `ai.comfly.org` | $0.6 / $5 | gemini优质 | 2 | gemini-2.5-flash-preview-05-20 |
 | 5 | `happyapi.org` | $0.6 / $2.4 | default | 1 | gemini-2.5-flash-preview-04-17 |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

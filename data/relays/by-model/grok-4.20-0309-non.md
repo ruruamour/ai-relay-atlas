@@ -1,6 +1,6 @@
 # grok-4.20-0309-non
 
-> 258 站提供 · 正常价 180 站 · 名义中位价 **$0.8125**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（114 站公开充值价） · 推算，未对账
+> 266 站提供 · 正常价 187 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（120 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -33,51 +33,51 @@
 | 21 | `new-cdn.dg8.site` | ¥0.4375 | $0.4375 / $0.875 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
 | 22 | `codexplus.shop` | ¥0.4562 | $0.0625 / $0.125 | 7.3 | Grok | grok-4.20-0309-non-reasoning |
 | 23 | `mail.codexplus.shop` | ¥0.4562 | $0.0625 / $0.125 | 7.3 | Grok | grok-4.20-0309-non-reasoning |
-| 24 | `api.rua.chat` | ¥0.5 | $0.5 / $6.25 | 1 | Grok-按量 | grok-4.20-0309-non-reasoning |
-| 25 | `newapi.ailyyzdk.xyz` | ¥0.5 | $0.5 / $1.5 | 1 | grok | grok-4.20-0309-non-reasoning |
-| 26 | `new.yihubang.top` | ¥0.6 | $0.6 / $1.8 | 1 | gork 4.5 | grok-4.20-0309-non-reasoning |
-| 27 | `ai2api.cn` | ¥0.625 | $0.625 / $1.25 | 1 | Grok | grok-4.20-0309-non-reasoning |
-| 28 | `api.aliyunfuwu.top` | ¥0.625 | $0.625 / $1.25 | 1 | relay | grok-4.20-0309-non-reasoning |
-| 29 | `clauddy.com` | ¥0.625 | $0.625 / $1.25 | 1 | Grok | grok-4.20-0309-non-reasoning |
-| 30 | `tokenflux.cloud` | ¥0.625 | $0.625 / $1.25 | 1 | Gork | grok-4.20-0309-non-reasoning |
-| 31 | `grok101.site` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
-| 32 | `llm-all.pro` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
-| 33 | `model101.site` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
-| 34 | `o-ai.me` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
-| 35 | `token101.site` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
-| 36 | `u-ai.me` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
-| 37 | `api.mkapi.top` | ¥0.9125 | $0.125 / $0.25 | 7.3 | grok分组 | grok-4.20-0309-non-reasoning |
-| 38 | `lanxiu.cc` | ¥0.9125 | $0.125 / $0.25 | 7.3 | default | grok-4.20-0309-non-reasoning |
-| 39 | `sub2api.closeapi.top` | ¥0.9125 | $0.125 / $0.25 | 7.3 | grok | grok-4.20-0309-non-reasoning |
-| 40 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-4.20-0309-non-reasoning |
-| 41 | `123api.co` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4.20-0309-non-reasoning |
-| 42 | `airouter.mxyhi.com` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
-| 43 | `api.xixixixi.cloud` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
-| 44 | `easymax.ai` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
-| 45 | `hk-api.shqbb.com` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
-| 46 | `otoken.pro` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4.20-0309-non-reasoning |
-| 47 | `wzw.pp.ua` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4.20-0309-non-reasoning |
-| 48 | `linkapi.ai` | ¥1.6 | $1.6 / $4.8 | 1 | Grok | grok-4.20-0309-non-reasoning |
-| 49 | `botcf.com` | ¥1.875 | $1.875 / $3.75 | 1 | ❎grok-official | grok-4.20-0309-non-reasoning |
-| 50 | `ioll.pp.ua` | ¥1.875 | $0.625 / $1.25 | 3 | grok专属喵 | grok-4.20-0309-non-reasoning |
+| 24 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | grok-4.20-0309-non-reasoning |
+| 25 | `api.rua.chat` | ¥0.5 | $0.5 / $6.25 | 1 | Grok-按量 | grok-4.20-0309-non-reasoning |
+| 26 | `newapi.ailyyzdk.xyz` | ¥0.5 | $0.5 / $1.5 | 1 | grok | grok-4.20-0309-non-reasoning |
+| 27 | `new.yihubang.top` | ¥0.6 | $0.6 / $1.8 | 1 | gork 4.5 | grok-4.20-0309-non-reasoning |
+| 28 | `ai2api.cn` | ¥0.625 | $0.625 / $1.25 | 1 | Grok | grok-4.20-0309-non-reasoning |
+| 29 | `api.aliyunfuwu.top` | ¥0.625 | $0.625 / $1.25 | 1 | relay | grok-4.20-0309-non-reasoning |
+| 30 | `clauddy.com` | ¥0.625 | $0.625 / $1.25 | 1 | Grok | grok-4.20-0309-non-reasoning |
+| 31 | `tokenflux.cloud` | ¥0.625 | $0.625 / $1.25 | 1 | Gork | grok-4.20-0309-non-reasoning |
+| 32 | `grok101.site` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
+| 33 | `llm-all.pro` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
+| 34 | `model101.site` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
+| 35 | `o-ai.me` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
+| 36 | `token101.site` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
+| 37 | `u-ai.me` | ¥0.6875 | $0.6875 / $1.375 | 1 | grok-官转 | grok-4.20-0309-non-reasoning |
+| 38 | `api.mkapi.top` | ¥0.9125 | $0.125 / $0.25 | 7.3 | grok分组 | grok-4.20-0309-non-reasoning |
+| 39 | `lanxiu.cc` | ¥0.9125 | $0.125 / $0.25 | 7.3 | default | grok-4.20-0309-non-reasoning |
+| 40 | `sub2api.closeapi.top` | ¥0.9125 | $0.125 / $0.25 | 7.3 | grok | grok-4.20-0309-non-reasoning |
+| 41 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-4.20-0309-non-reasoning |
+| 42 | `123api.co` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4.20-0309-non-reasoning |
+| 43 | `airouter.mxyhi.com` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
+| 44 | `api.xixixixi.cloud` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
+| 45 | `easymax.ai` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
+| 46 | `hk-api.shqbb.com` | ¥1.25 | $1.25 / $2.5 | 1 | grok | grok-4.20-0309-non-reasoning |
+| 47 | `otoken.pro` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4.20-0309-non-reasoning |
+| 48 | `wzw.pp.ua` | ¥1.25 | $1.25 / $2.5 | 1 | default | grok-4.20-0309-non-reasoning |
+| 49 | `linkapi.ai` | ¥1.6 | $1.6 / $4.8 | 1 | Grok | grok-4.20-0309-non-reasoning |
+| 50 | `botcf.com` | ¥1.875 | $1.875 / $3.75 | 1 | ❎grok-official | grok-4.20-0309-non-reasoning |
 
-> 另有 64 站未列出。
+> 另有 70 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `nodeai.cc` | $0.0375 / $0.075 | Grok | 0.03 | grok-4.20-0309-non-reasoning |
-| 2 | `bbapi.ainivox.cn` | $0.0625 / $0.125 | Grok分组0.05 | 0.05 | grok-4.20-0309-non-reasoning |
-| 3 | `canana.vcnovb.cn` | $0.0625 / $0.125 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.20-0309-non-reasoning |
-| 4 | `sub.vcnovb.cn` | $0.0625 / $0.125 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.20-0309-non-reasoning |
-| 5 | `api.apikl.ai` | $0.1 / $0.2 | Grok-Heavy | 0.08 | grok-4.20-0309-non-reasoning |
-| 6 | `api.socode.cc` | $0.1 / $0.2 | Grok-[Havry]  | 0.08 | grok-4.20-0309-non-reasoning |
-| 7 | `www.xmapi.cc` | $0.1 / $0.2 | grok | 0.08 | grok-4.20-0309-non-reasoning |
-| 8 | `kimera.cc` | $0.1125 / $0.225 | Grok heavy | 0.09 | grok-4.20-0309-non-reasoning |
-| 9 | `ai.bayunzi.shop` | $0.125 / $0.25 | Grok Heavy | 0.1 | grok-4.20-0309-non-reasoning |
-| 10 | `api.9m8m.com` | $0.125 / $0.25 | Grok heavy 分组 | 0.1 | grok-4.20-0309-non-reasoning |
-| 11 | `salcara.top` | $0.1375 / $0.275 | grok | 0.11 | grok-4.20-0309-non-reasoning |
+| 1 | `bbapi.ainivox.cn` | $0.0625 / $0.125 | Grok分组0.05 | 0.05 | grok-4.20-0309-non-reasoning |
+| 2 | `canana.vcnovb.cn` | $0.0625 / $0.125 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.20-0309-non-reasoning |
+| 3 | `sub.vcnovb.cn` | $0.0625 / $0.125 | Grokk(下午会慢，老马不行) | 0.05 | grok-4.20-0309-non-reasoning |
+| 4 | `api.apikl.ai` | $0.1 / $0.2 | Grok-Heavy | 0.08 | grok-4.20-0309-non-reasoning |
+| 5 | `api.socode.cc` | $0.1 / $0.2 | Grok-[Havry]  | 0.08 | grok-4.20-0309-non-reasoning |
+| 6 | `www.xmapi.cc` | $0.1 / $0.2 | grok | 0.08 | grok-4.20-0309-non-reasoning |
+| 7 | `kimera.cc` | $0.1125 / $0.225 | Grok heavy | 0.09 | grok-4.20-0309-non-reasoning |
+| 8 | `ai.bayunzi.shop` | $0.125 / $0.25 | Grok Heavy | 0.1 | grok-4.20-0309-non-reasoning |
+| 9 | `api.9m8m.com` | $0.125 / $0.25 | Grok heavy 分组 | 0.1 | grok-4.20-0309-non-reasoning |
+| 10 | `salcara.top` | $0.1375 / $0.275 | grok | 0.11 | grok-4.20-0309-non-reasoning |
+| 11 | `api.168box.xyz` | $0.15 / $0.3 | grok | 0.12 | grok-4.20-0309-non-reasoning |
 | 12 | `sub2api.luciferai.cc` | $0.15 / $0.3 | grok-heavy | 0.12 | grok-4.20-0309-non-reasoning |
 | 13 | `fengchao-api.com` | $0.1625 / $0.325 | Super Grok | 0.13 | grok-4.20-0309-non-reasoning |
 | 14 | `sub.skypoem.top` | $0.1625 / $0.325 | grok-heavy | 0.13 | grok-4.20-0309-non-reasoning |
@@ -115,9 +115,9 @@
 | 46 | `api.clawhud.com` | $1.25 / $2.5 | Grok | 1 | grok-4.20-0309-non-reasoning |
 | 47 | `api.networkcloak.xyz` | $1.25 / $2.5 | grok | 1 | grok-4.20-0309-non-reasoning |
 | 48 | `ent.mmkg.cloud` | $1.25 / $2.5 | Grok | 1 | grok-4.20-0309-non-reasoning |
-| 49 | `primerelay.online` | $1.25 / $2.5 | Grok-Heavy【旗舰】 0.1x | 1 | grok-4.20-0309-non-reasoning |
-| 50 | `api.fxisv.com` | $1.5 / $3 | Grok-Heavy-多模态模型 | 1 | grok-4.20-0309-non-reasoning |
+| 49 | `magicai.click` | $1.25 / $2.5 | Grok-外接 | 1 | grok-4.20-0309-non-reasoning |
+| 50 | `primerelay.online` | $1.25 / $2.5 | Grok-Heavy【旗舰】 0.1x | 1 | grok-4.20-0309-non-reasoning |
 
-> 另有 16 站未列出。
+> 另有 17 站未列出。
 
-> 78 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 79 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3-reranker-4b
 
-> 29 站提供 · 正常价 16 站 · 名义中位价 **$0.122**/1M 输入 · 实付中位价 **¥0.24**/1M 输入（14 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 17 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.27**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,7 +23,8 @@
 | 11 | `api.ifopen.ai` | ¥0.364 | $0.104 / $0.104 | 3.5 | 通用大模型 | Qwen/Qwen3-Reranker-4B |
 | 12 | `api2.aigcbest.top` | ¥0.364 | $0.104 / $0.104 | 3.5 | 通用大模型 | Qwen/Qwen3-Reranker-4B |
 | 13 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen3-Reranker-4B |
-| 14 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🔎Reranker | Qwen3-Reranker-4B |
+| 14 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen3-Reranker-4B |
+| 15 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🔎Reranker | Qwen3-Reranker-4B |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +33,4 @@
 | 1 | `api.akko.space` | $0.1 / - | Rerank | 1 | rerank-Qwen/Qwen3-Reranker-4B |
 | 2 | `api.luoqianyi.qzz.io` | $1 / $1 | default | 1 | Qwen/Qwen3-Reranker-4B |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

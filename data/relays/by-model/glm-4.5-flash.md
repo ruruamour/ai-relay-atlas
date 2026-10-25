@@ -1,6 +1,6 @@
 # glm-4.5-flash
 
-> 68 站提供 · 正常价 47 站 · 名义中位价 **$0.02**/1M 输入 · 实付中位价 **¥0.191**/1M 输入（28 站公开充值价） · 推算，未对账
+> 72 站提供 · 正常价 48 站 · 名义中位价 **$0.02**/1M 输入 · 实付中位价 **¥0.182**/1M 输入（29 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,30 +14,31 @@
 | 2 | `kfcv50.link` | ¥0.016 | $0.016 / $0.064 | 1 | Domestic_act_08 | glm-4.5-flash |
 | 3 | `api.ocoolai.com` | ¥0.019 | $0.019 / $0.076 | 1 | cn | glm-4.5-flash |
 | 4 | `ocool.cn` | ¥0.019 | $0.019 / $0.076 | 1 | cn | glm-4.5-flash |
-| 5 | `api.hopeai.cc` | ¥0.02 | $0.02 / $0.02 | 1 | default | glm-4.5-flash |
-| 6 | `api.new.bi` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
-| 7 | `api.openai-hub.net` | ¥0.02 | $0.02 / $0.08 | 1 | cheap | glm-4.5-flash |
-| 8 | `keypool.space` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
-| 9 | `xinsuanai.com` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
-| 10 | `zen-ai.top` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
-| 11 | `www.hohoapi.com` | ¥0.039 | $0.013 / $0.013 | 3 | default | glm-4.5-flash |
-| 12 | `gpt777.top` | ¥0.16 | $0.16 / $0.64 | 1 | opensource | glm-4.5-flash |
-| 13 | `api.ifopen.ai` | ¥0.182 | $0.052 / $0.208 | 3.5 | 通用大模型 | glm-4.5-flash |
-| 14 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.208 | 3.5 | 通用大模型 | glm-4.5-flash |
-| 15 | `ai.soruxgpt.com` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
-| 16 | `api.bltcy.ai` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
-| 17 | `api.eido.top` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
-| 18 | `apilio.ai` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
-| 19 | `go.sbgpt.site` | ¥0.2 | $0.2 / $0.8 | 1 | glm | glm-4.5-flash |
-| 20 | `test-ssl.bltcy.ai` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
-| 21 | `api.34ku.com` | ¥0.26 | $0.26 / $0.78 | 1 | default | glm-4.5-flash |
-| 22 | `ai.t8star.org` | ¥0.27 | $0.2 / $0.6 | 1.35 | default | glm-4.5-flash |
-| 23 | `api.aliyunfuwu.top` | ¥0.3 | $0.3 / $1.101 | 1 | relay | GLM-4.5-Flash |
-| 24 | `api.camel-hub.cn` | ¥1.12 | $1.4 / $1.4 | 0.8 | OFC | glm-4.5-flash |
-| 25 | `api.camel-hub.com` | ¥1.12 | $1.4 / $1.4 | 0.8 | OFC | glm-4.5-flash |
-| 26 | `api.kr777.top` | ¥1.12 | $1.4 / $1.4 | 0.8 | OFC | glm-4.5-flash |
-| 27 | `wzw.pp.ua` | ¥2 | $2 / $8 | 1 | claude code | glm-4.5-flash |
-| 28 | `fastapi.top` | ¥14.6 | $2 / $6 | 7.3 | default | glm-4.5-flash |
+| 5 | `one.ooo.cool` | ¥0.019 | $0.019 / $0.076 | 1 | cn | glm-4.5-flash |
+| 6 | `api.hopeai.cc` | ¥0.02 | $0.02 / $0.02 | 1 | default | glm-4.5-flash |
+| 7 | `api.new.bi` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
+| 8 | `api.openai-hub.net` | ¥0.02 | $0.02 / $0.08 | 1 | cheap | glm-4.5-flash |
+| 9 | `keypool.space` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
+| 10 | `xinsuanai.com` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
+| 11 | `zen-ai.top` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
+| 12 | `www.hohoapi.com` | ¥0.039 | $0.013 / $0.013 | 3 | default | glm-4.5-flash |
+| 13 | `gpt777.top` | ¥0.16 | $0.16 / $0.64 | 1 | opensource | glm-4.5-flash |
+| 14 | `api.ifopen.ai` | ¥0.182 | $0.052 / $0.208 | 3.5 | 通用大模型 | glm-4.5-flash |
+| 15 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.208 | 3.5 | 通用大模型 | glm-4.5-flash |
+| 16 | `ai.soruxgpt.com` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
+| 17 | `api.bltcy.ai` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
+| 18 | `api.eido.top` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
+| 19 | `apilio.ai` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
+| 20 | `go.sbgpt.site` | ¥0.2 | $0.2 / $0.8 | 1 | glm | glm-4.5-flash |
+| 21 | `test-ssl.bltcy.ai` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4.5-flash |
+| 22 | `api.34ku.com` | ¥0.26 | $0.26 / $0.78 | 1 | default | glm-4.5-flash |
+| 23 | `ai.t8star.org` | ¥0.27 | $0.2 / $0.6 | 1.35 | default | glm-4.5-flash |
+| 24 | `api.aliyunfuwu.top` | ¥0.3 | $0.3 / $1.101 | 1 | relay | GLM-4.5-Flash |
+| 25 | `api.camel-hub.cn` | ¥1.12 | $1.4 / $1.4 | 0.8 | OFC | glm-4.5-flash |
+| 26 | `api.camel-hub.com` | ¥1.12 | $1.4 / $1.4 | 0.8 | OFC | glm-4.5-flash |
+| 27 | `api.kr777.top` | ¥1.12 | $1.4 / $1.4 | 0.8 | OFC | glm-4.5-flash |
+| 28 | `wzw.pp.ua` | ¥2 | $2 / $8 | 1 | claude code | glm-4.5-flash |
+| 29 | `fastapi.top` | ¥14.6 | $2 / $6 | 7.3 | default | glm-4.5-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -63,4 +64,4 @@
 | 18 | `yuli.host` | $0.02 / $0.08 | default | 1 | glm-4.5-flash |
 | 19 | `ai.comfly.org` | $0.2 / $0.6 | default | 1 | glm-4.5-flash |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # minimax-h3-768p
 
-> 32 站提供 · 正常价 21 站 · 名义中位价 **$0.13**/次 · 实付中位价 **¥0.147**/次（20 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 22 站 · 名义中位价 **$0.125**/次 · 实付中位价 **¥0.16**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,10 +26,11 @@
 | 14 | `api.new.bi` | ¥0.3 | $0.3 | 1 | New.bi-视频 | minimax-h3-768p |
 | 15 | `magic666.top` | ¥0.3 | $0.3 | 1 | default | minimax-h3-768p |
 | 16 | `mydamoxing.cn` | ¥0.425 | $0.425 | 1 | minimax-video | MiniMax-H3-768p |
-| 17 | `tu.988236.xyz` | ¥0.584 | $0.08 | 7.3 | minimax系列视频 | minimax_h3-768p |
-| 18 | `us.pomoai.xyz` | ¥0.803 | $0.11 | 7.3 | MiniMax视频按(次\|秒) | minimax-h3-768p |
-| 19 | `www.fmgo.top` | ¥10.95 | $1.5 | 7.3 | default | minimax-h3-768p |
-| 20 | `api.supertoken.cc` | ¥199.8 | $399.6 | 0.5 | default | leonardo-minimax-h3-768p |
+| 17 | `clawrouter.com` | ¥0.45 | $0.061644 | 7.3 | multipurpose | minimax-h3-768p |
+| 18 | `tu.988236.xyz` | ¥0.584 | $0.08 | 7.3 | minimax系列视频 | minimax_h3-768p |
+| 19 | `us.pomoai.xyz` | ¥0.803 | $0.11 | 7.3 | MiniMax视频按(次\|秒) | minimax-h3-768p |
+| 20 | `www.fmgo.top` | ¥10.95 | $1.5 | 7.3 | default | minimax-h3-768p |
+| 21 | `api.supertoken.cc` | ¥199.8 | $399.6 | 0.5 | default | leonardo-minimax-h3-768p |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -37,4 +38,4 @@
 |---|---|---|---|---|---|
 | 1 | `coloful-rose.com` | $100 | 视频模型 | 1 | minimax-h3-768p |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

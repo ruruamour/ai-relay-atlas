@@ -1,6 +1,6 @@
 # gpt-audio
 
-> 228 站提供 · 正常价 123 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（98 站公开充值价） · 推算，未对账
+> 238 站提供 · 正常价 129 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（104 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api.openlux.ai` | ¥0.739 | $0.11 / $0.22 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
 | 2 | `api.relayrouter.ai` | ¥0.739 | $0.11 / $0.22 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.739 | $0.11 / $0.22 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 5 | `gzxbykj.com` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 6 | `yunwu.org` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 7 | `v2.cloudmist.cloud` | ¥0.8498 | $0.1265 / $0.253 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 8 | `www.vectronode.com` | ¥0.8868 | $0.132 / $0.264 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 9 | `apiclaw.cn` | ¥0.8942 | $0.1331 / $0.2662 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 10 | `newapi.xueai.me` | ¥0.8942 | $0.1331 / $0.2662 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 11 | `wodapis.com` | ¥0.8942 | $0.1331 / $0.2662 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 12 | `ciyuan.today` | ¥0.9237 | $0.1375 / $0.275 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 13 | `gptapi.top` | ¥0.9237 | $0.1375 / $0.275 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 14 | `makerend.com` | ¥0.9237 | $0.1375 / $0.275 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 15 | `moliapi.com` | ¥0.9311 | $0.1386 / $0.2772 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 16 | `ai-api.cc` | ¥0.9607 | $0.143 / $0.286 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 17 | `nodapi.com` | ¥0.9755 | $0.1452 / $0.2904 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 18 | `anyaigc.ai` | ¥0.9976 | $0.1485 / $0.297 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 19 | `sheepaiplus.top` | ¥1.035 | $0.154 / $0.308 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 20 | `xiguapi.icu` | ¥1.035 | $0.154 / $0.308 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 21 | `api.88api.chat` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 22 | `api.88api.shop` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 23 | `api.videocaptioner.cn` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 24 | `new.aigc2d.com` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 25 | `oyy-ai.xyz` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 26 | `infai.cc` | ¥1.168 | $0.1738 / $0.3476 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 27 | `api.nixapi.com` | ¥1.249 | $0.1859 / $0.3718 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 28 | `api.zyai.online` | ¥1.25 | $1.25 / $5 | 1 | mini | gpt-audio-2025-08-28 |
-| 29 | `kfcv50.link` | ¥1.25 | $1.25 / $5 | 1 | az_act05 | gpt-audio |
-| 30 | `aiwuje.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 31 | `api.cursorai.art` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 32 | `api.echoflowai.cc` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 33 | `api.n1n.ai` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 34 | `api.quickrouter.ai` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 35 | `jeniya.cn` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 36 | `linoapi.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 37 | `llm-api.net` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 38 | `quanzil.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 39 | `token173.net` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 40 | `tryallapi.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 41 | `wellapi.ai` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 42 | `thousandengine.com` | ¥1.504 | $0.22385 / $0.4477 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 43 | `cn.gptapi.asia` | ¥2 | $2 / $8 | 1 | default | gpt-audio |
-| 44 | `yutoapi.com` | ¥2 | $2 / $8 | 1 | default | gpt-audio |
-| 45 | `layso.ai` | ¥2.438 | $2.4375 / $4.875 | 1 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 46 | `laysoai.com` | ¥2.438 | $2.4375 / $4.875 | 1 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
-| 47 | `api.bltcy.ai` | ¥2.5 | $2.5 / $10 | 1 | svip | gpt-audio |
-| 48 | `api.qinzhiai.com` | ¥2.5 | $2.5 / $10 | 1 | az | gpt-audio |
-| 49 | `api.routeeasy.ai` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-audio |
-| 50 | `api.yourapi.cn` | ¥2.5 | $2.5 / $10 | 1 | az-special | gpt-audio |
+| 4 | `4zapi.com` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 6 | `gzxbykj.com` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 7 | `yunwu.org` | ¥0.8129 | $0.121 / $0.242 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 8 | `api.antmoo.cc` | ¥0.8498 | $0.1265 / $0.253 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 9 | `v2.cloudmist.cloud` | ¥0.8498 | $0.1265 / $0.253 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 10 | `www.vectronode.com` | ¥0.8868 | $0.132 / $0.264 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 11 | `apiclaw.cn` | ¥0.8942 | $0.1331 / $0.2662 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 12 | `newapi.xueai.me` | ¥0.8942 | $0.1331 / $0.2662 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 13 | `wodapis.com` | ¥0.8942 | $0.1331 / $0.2662 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 14 | `ciyuan.today` | ¥0.9237 | $0.1375 / $0.275 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 15 | `gptapi.top` | ¥0.9237 | $0.1375 / $0.275 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 16 | `makerend.com` | ¥0.9237 | $0.1375 / $0.275 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 17 | `moliapi.com` | ¥0.9311 | $0.1386 / $0.2772 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 18 | `ai-api.cc` | ¥0.9607 | $0.143 / $0.286 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 19 | `nodapi.com` | ¥0.9755 | $0.1452 / $0.2904 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 20 | `anyaigc.ai` | ¥0.9976 | $0.1485 / $0.297 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 21 | `sheepaiplus.top` | ¥1.035 | $0.154 / $0.308 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 22 | `xiguapi.icu` | ¥1.035 | $0.154 / $0.308 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 23 | `api.88api.chat` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 24 | `api.88api.shop` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 25 | `api.videocaptioner.cn` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 26 | `lanbuff.app` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 27 | `new.aigc2d.com` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 28 | `oyy-ai.xyz` | ¥1.108 | $0.165 / $0.33 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 29 | `infai.cc` | ¥1.168 | $0.1738 / $0.3476 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 30 | `api.nixapi.com` | ¥1.249 | $0.1859 / $0.3718 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 31 | `api.zyai.online` | ¥1.25 | $1.25 / $5 | 1 | mini | gpt-audio-2025-08-28 |
+| 32 | `kfcv50.link` | ¥1.25 | $1.25 / $5 | 1 | az_act05 | gpt-audio |
+| 33 | `aiwuje.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 34 | `api.cursorai.art` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 35 | `api.echoflowai.cc` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 36 | `api.n1n.ai` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 37 | `api.quickrouter.ai` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 38 | `jeniya.cn` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 39 | `linoapi.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 40 | `linoroute.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 41 | `llm-api.net` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 42 | `quanzil.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 43 | `token173.net` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 44 | `tryallapi.com` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 45 | `wellapi.ai` | ¥1.478 | $0.22 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 46 | `thousandengine.com` | ¥1.504 | $0.22385 / $0.4477 | 6.718 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 47 | `cn.gptapi.asia` | ¥2 | $2 / $8 | 1 | default | gpt-audio |
+| 48 | `yutoapi.com` | ¥2 | $2 / $8 | 1 | default | gpt-audio |
+| 49 | `layso.ai` | ¥2.438 | $2.4375 / $4.875 | 1 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
+| 50 | `laysoai.com` | ¥2.438 | $2.4375 / $4.875 | 1 | Azure-Gpt-1 | gpt-audio-2025-08-28 |
 
-> 另有 48 站未列出。
+> 另有 54 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -93,4 +93,4 @@
 | 24 | `vip.zen-ai.top` | $7.5 / $15 | default | 3 | gpt-audio-2025-08-28 |
 | 25 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-audio |
 
-> 105 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 109 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

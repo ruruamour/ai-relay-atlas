@@ -1,6 +1,6 @@
 # gpt-4o-mini-realtime-preview
 
-> 122 站提供 · 正常价 104 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（64 站公开充值价） · 推算，未对账
+> 128 站提供 · 正常价 107 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（67 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `zhangsan.yun` | ¥0.09 | $0.09 / $0.36 | 1 | image-2分组 | gpt-4o-mini-realtime-preview |
-| 2 | `monking.ai` | ¥0.21 | $0.21 / $0.84 | 1 | codex-Pro | gpt-4o-mini-realtime-preview |
-| 3 | `big.sbgpt.site` | ¥0.288 | $0.288 / $1.152 | 1 | az-0.4 | gpt-4o-mini-realtime-preview |
-| 4 | `go.sbgpt.site` | ¥0.288 | $0.288 / $1.152 | 1 | 无审核az-0.4倍率 | gpt-4o-mini-realtime-preview |
-| 5 | `api.zyai.online` | ¥0.3 | $0.3 / $1.2 | 1 | mini | gpt-4o-mini-realtime-preview |
-| 6 | `newapi.link` | ¥0.3 | $0.3 / $1.2 | 1 | default | gpt-4o-mini-realtime-preview |
-| 7 | `kfcv50.link` | ¥0.48 | $0.48 / $1.92 | 1 | pure_az | gpt-4o-mini-realtime-preview |
-| 8 | `123api.co` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-4o-mini-realtime-preview |
-| 9 | `keypool.space` | ¥0.6 | $0.6 / $2.4 | 1 | vip | gpt-4o-mini-realtime-preview |
-| 10 | `xinsuanai.com` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-4o-mini-realtime-preview |
-| 11 | `zen-ai.top` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-4o-mini-realtime-preview |
-| 12 | `api.routeeasy.ai` | ¥0.84 | $0.84 / $3.36 | 1 | az-gpt-1007-1.4 | gpt-4o-mini-realtime-preview |
-| 13 | `35.aigcbest.top` | ¥0.9 | $0.6 / $2.4 | 1.5 | default | gpt-4o-mini-realtime-preview |
-| 14 | `api.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-4o-mini-realtime-preview |
-| 15 | `api.vakv.cn` | ¥0.9 | $0.9 / $3.6 | 1 | az-gpt-新渠道 | gpt-4o-mini-realtime-preview |
-| 16 | `apilio.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-4o-mini-realtime-preview |
-| 17 | `test-ssl.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-4o-mini-realtime-preview |
-| 18 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | Azure | gpt-4o-mini-realtime-preview |
-| 19 | `ai.t8star.org` | ¥1.215 | $0.9 / $3.6 | 1.35 | AZ-优质 | gpt-4o-mini-realtime-preview |
-| 20 | `koalaapi.com` | ¥1.26 | $0.18 / $0.09 | 7 | default | gpt-4o-mini-realtime-preview |
-| 21 | `test-api.apiqik.online` | ¥1.26 | $0.18 / $0.72 | 7 | openai | gpt-4o-mini-realtime-preview |
-| 22 | `api.qinzhiai.com` | ¥1.5 | $1.5 / $6 | 1 | openai | gpt-4o-mini-realtime-preview |
-| 23 | `layso.ai` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-3 | gpt-4o-mini-realtime-preview |
-| 24 | `laysoai.com` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-3 | gpt-4o-mini-realtime-preview |
-| 25 | `api1.uiuiapi.com` | ¥2.022 | $0.6 / $2.4 | 3.37 | default | gpt-4o-mini-realtime-preview |
-| 26 | `api.ifopen.ai` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-4o-mini-realtime-preview |
-| 27 | `api2.aigcbest.top` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-4o-mini-realtime-preview |
-| 28 | `poloai.top` | ¥2.1 | $2.1 / $8.4 | 1 | gpt-vip | gpt-4o-mini-realtime-preview |
-| 29 | `www.cybersol.net` | ¥2.16 | $1.08 / $4.32 | 2 | GPT Advance | gpt-4o-mini-realtime-preview |
-| 30 | `api.wukong.support` | ¥2.25 | $2.25 / $9 | 1 | gemini官渠 | gpt-4o-mini-realtime-preview |
-| 31 | `deepkey.top` | ¥2.4 | $2.4 / $9.6 | 1 | gpt-openai2 | gpt-4o-mini-realtime-preview |
-| 32 | `i-sh.v1api.cc` | ¥2.4 | $2.4 / $9.6 | 1 | gpt官 | gpt-4o-mini-realtime-preview |
-| 33 | `i.v1api.cc` | ¥2.4 | $2.4 / $9.6 | 1 | gpt官 | gpt-4o-mini-realtime-preview |
-| 34 | `api1.147ai.com` | ¥3 | $3 / $12 | 1 | openai | gpt-4o-mini-realtime-preview |
-| 35 | `ai2.qiqiai.top` | ¥3.504 | $0.48 / $1.92 | 7.3 | azure | gpt-4o-mini-realtime-preview |
-| 36 | `treerouter.com` | ¥3.57 | $0.51 / $0.255 | 7 | 企业推荐全模型分组 | gpt-4o-mini-realtime-preview |
-| 37 | `api.ycapi.xyz` | ¥3.652 | $3.65217 / $14.6087 | 1 | gpt-openai2 | gpt-4o-mini-realtime-preview |
-| 38 | `api.ocoolai.com` | ¥3.78 | $3.78 / $15.12 | 1 | claude_official | gpt-4o-mini-realtime-preview |
-| 39 | `ocool.cn` | ¥3.78 | $3.78 / $15.12 | 1 | claude_official | gpt-4o-mini-realtime-preview |
-| 40 | `apicdn.xyc.ai` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-4o-mini-realtime-preview |
-| 41 | `apicdn.xycai.us` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-4o-mini-realtime-preview |
-| 42 | `claudecn.ai` | ¥4.2 | $4.2 / $16.8 | 1 | 正价Openai | gpt-4o-mini-realtime-preview |
-| 43 | `cn.gptapi.asia` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-4o-mini-realtime-preview |
-| 44 | `yutoapi.com` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-4o-mini-realtime-preview |
-| 45 | `api.bianxie.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-4o-mini-realtime-preview |
-| 46 | `api.bianxieai.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-4o-mini-realtime-preview |
-| 47 | `api.bita-api.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | gpt-origin | gpt-4o-mini-realtime-preview |
-| 48 | `bita-api-production.up.railway.app` | ¥4.38 | $0.6 / $2.4 | 7.3 | gpt-origin | gpt-4o-mini-realtime-preview |
-| 49 | `freeapi.club` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-4o-mini-realtime-preview |
-| 50 | `kubernetes-test-api.apiqik.online` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-4o-mini-realtime-preview |
+| 1 | `comput.chat` | ¥0.06 | $0.06 / $0.24 | 1 | default | gpt-4o-mini-realtime-preview |
+| 2 | `zhangsan.yun` | ¥0.09 | $0.09 / $0.36 | 1 | image-2分组 | gpt-4o-mini-realtime-preview |
+| 3 | `monking.ai` | ¥0.21 | $0.21 / $0.84 | 1 | codex-Pro | gpt-4o-mini-realtime-preview |
+| 4 | `big.sbgpt.site` | ¥0.288 | $0.288 / $1.152 | 1 | az-0.4 | gpt-4o-mini-realtime-preview |
+| 5 | `go.sbgpt.site` | ¥0.288 | $0.288 / $1.152 | 1 | 无审核az-0.4倍率 | gpt-4o-mini-realtime-preview |
+| 6 | `api.zyai.online` | ¥0.3 | $0.3 / $1.2 | 1 | mini | gpt-4o-mini-realtime-preview |
+| 7 | `newapi.link` | ¥0.3 | $0.3 / $1.2 | 1 | default | gpt-4o-mini-realtime-preview |
+| 8 | `kfcv50.link` | ¥0.48 | $0.48 / $1.92 | 1 | pure_az | gpt-4o-mini-realtime-preview |
+| 9 | `123api.co` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-4o-mini-realtime-preview |
+| 10 | `keypool.space` | ¥0.6 | $0.6 / $2.4 | 1 | vip | gpt-4o-mini-realtime-preview |
+| 11 | `xinsuanai.com` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-4o-mini-realtime-preview |
+| 12 | `zen-ai.top` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-4o-mini-realtime-preview |
+| 13 | `api.routeeasy.ai` | ¥0.84 | $0.84 / $3.36 | 1 | az-gpt-1007-1.4 | gpt-4o-mini-realtime-preview |
+| 14 | `35.aigcbest.top` | ¥0.9 | $0.6 / $2.4 | 1.5 | default | gpt-4o-mini-realtime-preview |
+| 15 | `api.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-4o-mini-realtime-preview |
+| 16 | `api.vakv.cn` | ¥0.9 | $0.9 / $3.6 | 1 | az-gpt-新渠道 | gpt-4o-mini-realtime-preview |
+| 17 | `apilio.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-4o-mini-realtime-preview |
+| 18 | `test-ssl.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-4o-mini-realtime-preview |
+| 19 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | Azure | gpt-4o-mini-realtime-preview |
+| 20 | `ai.t8star.org` | ¥1.215 | $0.9 / $3.6 | 1.35 | AZ-优质 | gpt-4o-mini-realtime-preview |
+| 21 | `koalaapi.com` | ¥1.26 | $0.18 / $0.09 | 7 | default | gpt-4o-mini-realtime-preview |
+| 22 | `test-api.apiqik.online` | ¥1.26 | $0.18 / $0.72 | 7 | openai | gpt-4o-mini-realtime-preview |
+| 23 | `api.qinzhiai.com` | ¥1.5 | $1.5 / $6 | 1 | openai | gpt-4o-mini-realtime-preview |
+| 24 | `layso.ai` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-3 | gpt-4o-mini-realtime-preview |
+| 25 | `laysoai.com` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-3 | gpt-4o-mini-realtime-preview |
+| 26 | `api1.uiuiapi.com` | ¥2.022 | $0.6 / $2.4 | 3.37 | default | gpt-4o-mini-realtime-preview |
+| 27 | `api.ifopen.ai` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-4o-mini-realtime-preview |
+| 28 | `api2.aigcbest.top` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-4o-mini-realtime-preview |
+| 29 | `poloai.top` | ¥2.1 | $2.1 / $8.4 | 1 | gpt-vip | gpt-4o-mini-realtime-preview |
+| 30 | `xy.poloapi.com` | ¥2.1 | $2.1 / $8.4 | 1 | gpt-vip | gpt-4o-mini-realtime-preview |
+| 31 | `www.cybersol.net` | ¥2.16 | $1.08 / $4.32 | 2 | GPT Advance | gpt-4o-mini-realtime-preview |
+| 32 | `api.wukong.support` | ¥2.25 | $2.25 / $9 | 1 | gemini官渠 | gpt-4o-mini-realtime-preview |
+| 33 | `deepkey.top` | ¥2.4 | $2.4 / $9.6 | 1 | gpt-openai2 | gpt-4o-mini-realtime-preview |
+| 34 | `i-sh.v1api.cc` | ¥2.4 | $2.4 / $9.6 | 1 | gpt官 | gpt-4o-mini-realtime-preview |
+| 35 | `i.v1api.cc` | ¥2.4 | $2.4 / $9.6 | 1 | gpt官 | gpt-4o-mini-realtime-preview |
+| 36 | `api1.147ai.com` | ¥3 | $3 / $12 | 1 | openai | gpt-4o-mini-realtime-preview |
+| 37 | `ai2.qiqiai.top` | ¥3.504 | $0.48 / $1.92 | 7.3 | azure | gpt-4o-mini-realtime-preview |
+| 38 | `treerouter.com` | ¥3.57 | $0.51 / $0.255 | 7 | 企业推荐全模型分组 | gpt-4o-mini-realtime-preview |
+| 39 | `api.ycapi.xyz` | ¥3.652 | $3.65217 / $14.6087 | 1 | gpt-openai2 | gpt-4o-mini-realtime-preview |
+| 40 | `api.ocoolai.com` | ¥3.78 | $3.78 / $15.12 | 1 | claude_official | gpt-4o-mini-realtime-preview |
+| 41 | `ocool.cn` | ¥3.78 | $3.78 / $15.12 | 1 | claude_official | gpt-4o-mini-realtime-preview |
+| 42 | `one.ooo.cool` | ¥3.78 | $3.78 / $15.12 | 1 | claude_official | gpt-4o-mini-realtime-preview |
+| 43 | `apicdn.xyc.ai` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-4o-mini-realtime-preview |
+| 44 | `apicdn.xycai.us` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-4o-mini-realtime-preview |
+| 45 | `claudecn.ai` | ¥4.2 | $4.2 / $16.8 | 1 | 正价Openai | gpt-4o-mini-realtime-preview |
+| 46 | `cn.gptapi.asia` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-4o-mini-realtime-preview |
+| 47 | `yutoapi.com` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-4o-mini-realtime-preview |
+| 48 | `api.bianxie.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-4o-mini-realtime-preview |
+| 49 | `api.bianxieai.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-4o-mini-realtime-preview |
+| 50 | `api.bita-api.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | gpt-origin | gpt-4o-mini-realtime-preview |
 
-> 另有 14 站未列出。
+> 另有 17 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -108,4 +108,4 @@
 | 39 | `poloapi.top` | $2.1 / $8.4 | gpt-vip | 3.5 | gpt-4o-mini-realtime-preview |
 | 40 | `sub.hongyun.chat` | $4.5 / $18 | gpt | 7.5 | gpt-4o-mini-realtime-preview |
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

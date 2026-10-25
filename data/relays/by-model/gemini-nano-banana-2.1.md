@@ -1,6 +1,6 @@
 # gemini-nano-banana-2.1
 
-> 365 站提供 · 正常价 193 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1341**/次（156 站公开充值价） · 推算，未对账
+> 377 站提供 · 正常价 201 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1341**/次（164 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,51 +17,51 @@
 | 5 | `api.klong.lat` | ¥0.05 | $0.05 | 1 | 香蕉分组 | gemini-nano-banana-2.1 |
 | 6 | `meinianda.top` | ¥0.05 | $0.05 | 1 | 画图分组 | gemini-nano-banana-2.1 |
 | 7 | `ai.cangyuansuanli.cn` | ¥0.06 | $0.06 | 1 | 全模型-无claude/gpt | gemini-nano-banana-2.1 |
-| 8 | `api.satuo66.online` | ¥0.06 | $0.06 | 1 | 生图专用 | gemini-nano-banana-2.1 |
-| 9 | `direct-api.cangyuansuanli.cn` | ¥0.06 | $0.06 | 1 | IMAGE | gemini-nano-banana-2.1 |
-| 10 | `hetune.top` | ¥0.06 | $0.06 | 1 | 生图统一分组 | gemini-nano-banana-2.1 |
-| 11 | `momoapi.xin` | ¥0.06 | $0.06 | 1 | img | gemini-nano-banana-2.1 |
-| 12 | `api.openlux.ai` | ¥0.06384 | $0.00950228 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
-| 13 | `api.manxiaobai.online` | ¥0.065 | $0.065 | 1 | default | gemini-nano-banana-2.1 |
-| 14 | `api.vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-nano-banana-2.1 |
-| 15 | `apiddt.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-nano-banana-2.1 |
-| 16 | `vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-nano-banana-2.1 |
-| 17 | `www.ddtnew.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-nano-banana-2.1 |
-| 18 | `buliangrenai.com` | ¥0.075 | $0.075 | 1 | banana-image | gemini-nano-banana-2.1 |
-| 19 | `wodapis.com` | ¥0.07724 | $0.0114978 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
-| 20 | `cdn.12ai.org` | ¥0.078 | $0.078 | 1 | Mini | gemini-nano-banana-2.1 |
-| 21 | `aipaiai.cn` | ¥0.08 | $0.08 | 1 | Nanobanana接口调用 | gemini-nano-banana-2.1 |
-| 22 | `api.zyai.online` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
-| 23 | `aruhub.com` | ¥0.08 | $0.08 | 1 | Gemini-nano-bunana2/2Pro/2.1，1-4K同价 | gemini-nano-banana-2.1 |
-| 24 | `miaochuang.setbug.cn` | ¥0.08 | $0.08 | 1 | 【香蕉】1-4k | gemini-nano-banana-2.1 |
-| 25 | `new.97api.com` | ¥0.08 | $0.08 | 1 | defalut | gemini-nano-banana-2.1 |
-| 26 | `newapi.aiopus.org` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
-| 27 | `newapi.aisonnet.org` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
-| 28 | `tokencount.aigemini.org` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
-| 29 | `www.ggwk1.online` | ¥0.08 | $0.08 | 1 | gpt-绘画4k专用 | gemini-nano-banana-2.1 |
-| 30 | `easy88ai.com` | ¥0.08739 | $0.012852 | 6.8 | 0.17x生图 | gemini-nano-banana-2.1 |
-| 31 | `api.relayrouter.ai` | ¥0.08938 | $0.0133042 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
-| 32 | `openlux.zhongzhuan.chat` | ¥0.08938 | $0.0133042 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
-| 33 | `api.88api.shop` | ¥0.09575 | $0.0142534 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
-| 34 | `api.tidewhisper-ai.xyz` | ¥0.09832 | $0.0146347 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
-| 35 | `gzxbykj.com` | ¥0.09832 | $0.0146347 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
-| 36 | `yunwu.org` | ¥0.09832 | $0.0146347 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
-| 37 | `ai.centos.hk` | ¥0.1 | $0.1 | 1 | 生图/视频分组 | gemini-nano-banana-2.1 |
-| 38 | `api.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 39 | `api.juaihub.cn` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 40 | `api.xgapi.top` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 41 | `api2.yoshub.com` | ¥0.1 | $0.1 | 1 | 生图/视频专用 | gemini-nano-banana-2.1 |
-| 42 | `apilio.ai` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 43 | `chrisapivip.com` | ¥0.1 | $0.1 | 1 | gemini-image-nx | gemini-nano-banana-2.1 |
-| 44 | `linapi.net` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 45 | `moeapi.cloud` | ¥0.1 | $0.1 | 1 | 自营Gemini生图 | gemini-nano-banana-2.1 |
-| 46 | `test-ssl.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 47 | `www.youzi11.com` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
-| 48 | `infai.cc` | ¥0.1009 | $0.0150136 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
-| 49 | `v2.cloudmist.cloud` | ¥0.1028 | $0.0152999 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
-| 50 | `toapis.com` | ¥0.105 | $0.015 | 7 | default | gemini-nano-banana-2.1 |
+| 8 | `api.foo` | ¥0.06 | $0.06 | 1 | gemini-nano-banana-2.1（香蕉生图） | gemini-nano-banana-2.1 |
+| 9 | `api.satuo66.online` | ¥0.06 | $0.06 | 1 | 生图专用 | gemini-nano-banana-2.1 |
+| 10 | `direct-api.cangyuansuanli.cn` | ¥0.06 | $0.06 | 1 | IMAGE | gemini-nano-banana-2.1 |
+| 11 | `hetune.top` | ¥0.06 | $0.06 | 1 | 生图统一分组 | gemini-nano-banana-2.1 |
+| 12 | `momoapi.xin` | ¥0.06 | $0.06 | 1 | img | gemini-nano-banana-2.1 |
+| 13 | `api.openlux.ai` | ¥0.06384 | $0.00950228 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
+| 14 | `api.manxiaobai.online` | ¥0.065 | $0.065 | 1 | default | gemini-nano-banana-2.1 |
+| 15 | `api.vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-nano-banana-2.1 |
+| 16 | `apiddt.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-nano-banana-2.1 |
+| 17 | `vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-nano-banana-2.1 |
+| 18 | `www.ddtnew.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-nano-banana-2.1 |
+| 19 | `4zapi.com` | ¥0.07022 | $0.0104525 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
+| 20 | `api.antmoo.cc` | ¥0.07341 | $0.0109276 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
+| 21 | `buliangrenai.com` | ¥0.075 | $0.075 | 1 | banana-image | gemini-nano-banana-2.1 |
+| 22 | `wodapis.com` | ¥0.07724 | $0.0114978 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
+| 23 | `cdn.12ai.org` | ¥0.078 | $0.078 | 1 | Mini | gemini-nano-banana-2.1 |
+| 24 | `aipaiai.cn` | ¥0.08 | $0.08 | 1 | Nanobanana接口调用 | gemini-nano-banana-2.1 |
+| 25 | `api.zyai.online` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
+| 26 | `aruhub.com` | ¥0.08 | $0.08 | 1 | Gemini-nano-bunana2/2Pro/2.1，1-4K同价 | gemini-nano-banana-2.1 |
+| 27 | `miaochuang.setbug.cn` | ¥0.08 | $0.08 | 1 | 【香蕉】1-4k | gemini-nano-banana-2.1 |
+| 28 | `new.97api.com` | ¥0.08 | $0.08 | 1 | defalut | gemini-nano-banana-2.1 |
+| 29 | `newapi.aiopus.org` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
+| 30 | `newapi.aisonnet.org` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
+| 31 | `tokencount.aigemini.org` | ¥0.08 | $0.08 | 1 | default | gemini-nano-banana-2.1 |
+| 32 | `www.ggwk1.online` | ¥0.08 | $0.08 | 1 | gpt-绘画4k专用 | gemini-nano-banana-2.1 |
+| 33 | `easy88ai.com` | ¥0.08739 | $0.012852 | 6.8 | 0.17x生图 | gemini-nano-banana-2.1 |
+| 34 | `api.relayrouter.ai` | ¥0.08938 | $0.0133042 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
+| 35 | `openlux.zhongzhuan.chat` | ¥0.08938 | $0.0133042 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
+| 36 | `api.88api.shop` | ¥0.09575 | $0.0142534 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
+| 37 | `lanbuff.app` | ¥0.09575 | $0.0142534 | 6.718 | Discounted-Banana-1 | gemini-nano-banana-2.1 |
+| 38 | `api.tidewhisper-ai.xyz` | ¥0.09832 | $0.0146347 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
+| 39 | `gzxbykj.com` | ¥0.09832 | $0.0146347 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
+| 40 | `yunwu.org` | ¥0.09832 | $0.0146347 | 6.718 | Discounted-Banana-2 | gemini-nano-banana-2.1 |
+| 41 | `ai.centos.hk` | ¥0.1 | $0.1 | 1 | 生图/视频分组 | gemini-nano-banana-2.1 |
+| 42 | `api.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
+| 43 | `api.juaihub.cn` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
+| 44 | `api.xgapi.top` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
+| 45 | `api2.yoshub.com` | ¥0.1 | $0.1 | 1 | 生图/视频专用 | gemini-nano-banana-2.1 |
+| 46 | `apilio.ai` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
+| 47 | `chrisapivip.com` | ¥0.1 | $0.1 | 1 | gemini-image-nx | gemini-nano-banana-2.1 |
+| 48 | `linapi.net` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
+| 49 | `moeapi.cloud` | ¥0.1 | $0.1 | 1 | 自营Gemini生图 | gemini-nano-banana-2.1 |
+| 50 | `test-ssl.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | gemini-nano-banana-2.1 |
 
-> 另有 106 站未列出。
+> 另有 114 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -105,4 +105,4 @@
 | 36 | `www.juapi.net` | $7.5 | nano-banana-2 | 10 | gemini-nano-banana-2.1 |
 | 37 | `www.tokenrouter.tech` | $7.5 | nano-banana-2 | 10 | gemini-nano-banana-2.1 |
 
-> 172 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 176 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

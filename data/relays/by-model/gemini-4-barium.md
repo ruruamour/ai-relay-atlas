@@ -1,6 +1,6 @@
 # gemini-4-barium
 
-> 34 站提供 · 正常价 17 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1.267**/1M 输入（16 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 18 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,20 +12,21 @@
 |---|---|---|---|---|---|---|
 | 1 | `botcf.com` | ¥0.56 | $0.56 / $2.8 | 1 | 🪐gemini-antigravity | gemini-4-barium |
 | 2 | `deepkey.top` | ¥0.6 | $0.6 / $3 | 1 | gemini | gemini-4-barium |
-| 3 | `yilian.space` | ¥0.8 | $0.8 / $4 | 1 | Gemini | gemini-4-barium |
-| 4 | `api.zyai.online` | ¥1 | $1 / $5 | 1 | mini | gemini-4-barium |
-| 5 | `cn.jbbt.cc` | ¥1 | $1 / $5 | 1 | 专用gemini | gemini-4-barium |
-| 6 | `gptch.cloud` | ¥1 | $1 / $5 | 1 | gemini按量 | gemini-4-barium |
-| 7 | `origin.novai.su` | ¥1 | $1 / $5 | 1 | gemini ant | gemini-4-barium |
-| 8 | `vibeapi.cc` | ¥1.2 | $1.2 / $6 | 1 | gemini | gemini-4-barium |
-| 9 | `api.ycapi.xyz` | ¥1.333 | $1.33333 / $6.66667 | 1 | gemini | gemini-4-barium |
-| 10 | `api.yhlxj.ai` | ¥1.6 | $1.6 / $8 | 1 | Gemini-反重力 | gemini-4-barium |
-| 11 | `api.aigc.bar` | ¥2 | $2 / $10 | 1 | Gemini | gemini-4-barium |
-| 12 | `qxy.jbbt.cc` | ¥2 | $2 / $10 | 1 | 专用gemini | gemini-4-barium |
-| 13 | `toapis.com` | ¥2.8 | $0.4 / $2 | 7 | default | gemini-4-barium |
-| 14 | `code0.ai` | ¥3 | $3 / $15 | 1 | Gemini-hybird | gemini-4-barium |
-| 15 | `console.apito.ai` | ¥8.4 | $1.2 / $6 | 7 | default | gemini-4-barium |
-| 16 | `gw.claudeapi.com` | ¥8.4 | $1.2 / $6 | 7 | default | gemini-4-barium |
+| 3 | `xn--15q04w3tg4kio0a.com` | ¥0.6 | $0.6 / $3 | 1 | 🪐gemini-antigravity | gemini-4-barium |
+| 4 | `yilian.space` | ¥0.8 | $0.8 / $4 | 1 | Gemini | gemini-4-barium |
+| 5 | `api.zyai.online` | ¥1 | $1 / $5 | 1 | mini | gemini-4-barium |
+| 6 | `cn.jbbt.cc` | ¥1 | $1 / $5 | 1 | 专用gemini | gemini-4-barium |
+| 7 | `gptch.cloud` | ¥1 | $1 / $5 | 1 | gemini按量 | gemini-4-barium |
+| 8 | `origin.novai.su` | ¥1 | $1 / $5 | 1 | gemini ant | gemini-4-barium |
+| 9 | `vibeapi.cc` | ¥1.2 | $1.2 / $6 | 1 | gemini | gemini-4-barium |
+| 10 | `api.ycapi.xyz` | ¥1.333 | $1.33333 / $6.66667 | 1 | gemini | gemini-4-barium |
+| 11 | `api.yhlxj.ai` | ¥1.6 | $1.6 / $8 | 1 | Gemini-反重力 | gemini-4-barium |
+| 12 | `api.aigc.bar` | ¥2 | $2 / $10 | 1 | Gemini | gemini-4-barium |
+| 13 | `qxy.jbbt.cc` | ¥2 | $2 / $10 | 1 | 专用gemini | gemini-4-barium |
+| 14 | `toapis.com` | ¥2.8 | $0.4 / $2 | 7 | default | gemini-4-barium |
+| 15 | `code0.ai` | ¥3 | $3 / $15 | 1 | Gemini-hybird | gemini-4-barium |
+| 16 | `console.apito.ai` | ¥8.4 | $1.2 / $6 | 7 | default | gemini-4-barium |
+| 17 | `gw.claudeapi.com` | ¥8.4 | $1.2 / $6 | 7 | default | gemini-4-barium |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

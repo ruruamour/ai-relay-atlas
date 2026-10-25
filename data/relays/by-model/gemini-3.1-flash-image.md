@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image
 
-> 754 站提供 · 正常价 407 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.1635**/次（298 站公开充值价） · 推算，未对账
+> 777 站提供 · 正常价 420 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.1635**/次（311 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -38,30 +38,30 @@
 | 26 | `meinianda.top` | ¥0.05 | $0.05 | 1 | 画图分组 | gemini-3.1-flash-image |
 | 27 | `tk.8t.chat` | ¥0.05 | $0.05 | 1 | nanobanana | gemini-3.1-flash-image |
 | 28 | `kfcv50.link` | ¥0.05738 | $0.05738 | 1 | gemini_cli_0401_038 | gemini-3.1-flash-image |
-| 29 | `api.satuo66.online` | ¥0.06 | $0.06 | 1 | 生图专用 | gemini-3.1-flash-image |
-| 30 | `llm-api.aigw2.cn` | ¥0.06 | $0.06 | 1 | 生图渠道 | gemini-3.1-flash-image |
-| 31 | `llmai.freebird2913.tech` | ¥0.06 | $0.2 | 0.3 | Antigravity逆向 | gemini-3.1-flash-image |
-| 32 | `open.selart.cc` | ¥0.06 | $0.06 | 1 | default | [丁香花]gemini-3.1-flash-image |
-| 33 | `vaelo.8t.chat` | ¥0.06 | $0.06 | 1 | nanobanana | gemini-3.1-flash-image |
-| 34 | `xl.8t.chat` | ¥0.06 | $0.06 | 1 | nanobanana | gemini-3.1-flash-image |
-| 35 | `zhangyuapi.com` | ¥0.064 | $0.064 | 1 | 生图 | gemini-3.1-flash-image |
-| 36 | `moyuu.cc` | ¥0.0675 | $0.0675 | 1 | gemini | gemini-3.1-flash-image-1K |
-| 37 | `new.omniakey.com` | ¥0.068 | $0.068 | 1 | default | gemini-3.1-flash-image |
-| 38 | `api.vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-3.1-flash-image |
-| 39 | `apiddt.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3.1-flash-image |
-| 40 | `new.ddpapi.top` | ¥0.07 | $0.07 | 1 | default | gemini-3.1-flash-image |
-| 41 | `vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-3.1-flash-image |
-| 42 | `www.ddtnew.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3.1-flash-image |
-| 43 | `via.8t.chat` | ¥0.072 | $0.072 | 1 | nanobanana | gemini-3.1-flash-image |
-| 44 | `yinziapi.top` | ¥0.075 | $0.075 | 1 | gemini-生图专用 | gemini-3.1-flash-image-1K |
-| 45 | `topapi.link` | ¥0.077 | $0.077 | 1 | 生图专用 | gemini-3.1-flash-image |
-| 46 | `cdn.12ai.org` | ¥0.078 | $0.078 | 1 | Mini | gemini-3.1-flash-image |
-| 47 | `cheapai.io` | ¥0.07884 | $0.0108 | 7.3 | vip | gemini-3.1-flash-image |
-| 48 | `api.mooko.ai` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image |
-| 49 | `api.muxllm.com` | ¥0.08 | $0.08 | 1 | Gemini图片/视频模型 | gemini-3.1-flash-image |
-| 50 | `newapi.qianqianye.com` | ¥0.08 | $0.08 | 1 | 专属-gemini反重力 | gemini-3.1-flash-image |
+| 29 | `api.foo` | ¥0.06 | $0.06 | 1 | gemini-3.1-flash-image（香蕉生图） | gemini-3.1-flash-image |
+| 30 | `api.satuo66.online` | ¥0.06 | $0.06 | 1 | 生图专用 | gemini-3.1-flash-image |
+| 31 | `kapibala.asia` | ¥0.06 | $0.2 | 0.3 | codex | gemini-3.1-flash-image |
+| 32 | `llm-api.aigw2.cn` | ¥0.06 | $0.06 | 1 | 生图渠道 | gemini-3.1-flash-image |
+| 33 | `llmai.freebird2913.tech` | ¥0.06 | $0.2 | 0.3 | Antigravity逆向 | gemini-3.1-flash-image |
+| 34 | `open.selart.cc` | ¥0.06 | $0.06 | 1 | default | [丁香花]gemini-3.1-flash-image |
+| 35 | `vaelo.8t.chat` | ¥0.06 | $0.06 | 1 | nanobanana | gemini-3.1-flash-image |
+| 36 | `xl.8t.chat` | ¥0.06 | $0.06 | 1 | nanobanana | gemini-3.1-flash-image |
+| 37 | `zhangyuapi.com` | ¥0.064 | $0.064 | 1 | 生图 | gemini-3.1-flash-image |
+| 38 | `moyuu.cc` | ¥0.0675 | $0.0675 | 1 | gemini | gemini-3.1-flash-image-1K |
+| 39 | `new.omniakey.com` | ¥0.068 | $0.068 | 1 | default | gemini-3.1-flash-image |
+| 40 | `api.vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-3.1-flash-image |
+| 41 | `apiddt.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3.1-flash-image |
+| 42 | `new.ddpapi.top` | ¥0.07 | $0.07 | 1 | default | gemini-3.1-flash-image |
+| 43 | `vakv.cn` | ¥0.07 | $0.07 | 1 | 生图专用 | gemini-3.1-flash-image |
+| 44 | `www.ddtnew.com` | ¥0.07 | $0.07 | 1 | Banana | gemini-3.1-flash-image |
+| 45 | `via.8t.chat` | ¥0.072 | $0.072 | 1 | nanobanana | gemini-3.1-flash-image |
+| 46 | `yinziapi.top` | ¥0.075 | $0.075 | 1 | gemini-生图专用 | gemini-3.1-flash-image-1K |
+| 47 | `topapi.link` | ¥0.077 | $0.077 | 1 | 生图专用 | gemini-3.1-flash-image |
+| 48 | `cdn.12ai.org` | ¥0.078 | $0.078 | 1 | Mini | gemini-3.1-flash-image |
+| 49 | `cheapai.io` | ¥0.07884 | $0.0108 | 7.3 | vip | gemini-3.1-flash-image |
+| 50 | `api-models.com` | ¥0.08 | $0.08 | 1 | Image | gemini-3.1-flash-image |
 
-> 另有 248 站未列出。
+> 另有 261 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 59 站未列出。
 
-> 347 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 357 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

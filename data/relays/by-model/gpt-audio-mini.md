@@ -1,6 +1,6 @@
 # gpt-audio-mini
 
-> 99 站提供 · 正常价 58 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.1**/1M 输入（36 站公开充值价） · 推算，未对账
+> 104 站提供 · 正常价 60 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.1**/1M 输入（38 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,40 +12,42 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.qinzhiai.com` | ¥0.375 | $0.375 / $1.5 | 1 | openai | gpt-audio-mini |
 | 2 | `kfcv50.link` | ¥0.48 | $0.48 / $1.92 | 1 | pure_az | gpt-audio-mini |
-| 3 | `dev.novaapi.ai` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-audio-mini |
-| 4 | `novaapi.ai` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-audio-mini |
-| 5 | `zen-ai.top` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-audio-mini |
-| 6 | `api.34ku.com` | ¥0.78 | $0.78 / $3.12 | 1 | default | gpt-audio-mini |
-| 7 | `api.routeeasy.ai` | ¥0.84 | $0.84 / $3.36 | 1 | az-gpt-1007-1.4 | gpt-audio-mini |
-| 8 | `35.aigcbest.top` | ¥0.9 | $0.6 / $2.4 | 1.5 | default | gpt-audio-mini |
-| 9 | `api.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-audio-mini |
-| 10 | `api.ocoolai.com` | ¥0.9 | $0.9 / $3.6 | 1 | default | gpt-audio-mini-2025-12-15 |
-| 11 | `apilio.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-audio-mini |
-| 12 | `ocool.cn` | ¥0.9 | $0.9 / $3.6 | 1 | default | gpt-audio-mini-2025-12-15 |
-| 13 | `test-ssl.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-audio-mini |
-| 14 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | Azure | gpt-audio-mini |
-| 15 | `ai.t8star.org` | ¥1.215 | $0.9 / $3.6 | 1.35 | AZ-优质 | gpt-audio-mini |
-| 16 | `test-api.apiqik.online` | ¥1.26 | $0.18 / $0.72 | 7 | openai | gpt-audio-mini |
-| 17 | `api.ifopen.ai` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-audio-mini |
-| 18 | `api.openai-labs.com` | ¥2.1 | $2.1 / $8.4 | 1 | openai-max | gpt-audio-mini |
-| 19 | `api2.aigcbest.top` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-audio-mini |
-| 20 | `poloai.top` | ¥2.1 | $2.1 / $8.4 | 1 | gpt-vip | gpt-audio-mini |
-| 21 | `llm.kagu.one` | ¥2.19 | $0.3 / $1.2 | 7.3 | 大杂烩 | gpt-audio-mini |
-| 22 | `mux.la` | ¥3.504 | $0.48 / $1.92 | 7.3 | Openrouter-Anthropic | openai/gpt-audio-mini |
-| 23 | `hk.moleapi.com` | ¥4.08 | $0.6 / $2.4 | 6.8 | default | gpt-audio-mini |
-| 24 | `apicdn.xyc.ai` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-audio-mini |
-| 25 | `apicdn.xycai.us` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-audio-mini |
-| 26 | `api.tokenrouter.com` | ¥4.2 | $0.6 / $2.4 | 7 | default | openai/gpt-audio-mini |
-| 27 | `cn.gptapi.asia` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-audio-mini |
-| 28 | `yutoapi.com` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-audio-mini |
-| 29 | `token.nexhina.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-audio-mini |
-| 30 | `v3.yunai.link` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-audio-mini-2025-12-15 |
-| 31 | `api.tacklekey.com` | ¥6.738 | $0.923077 / $3.69231 | 7.3 | default | openai/gpt-audio-mini |
-| 32 | `ai2.qiqiai.top` | ¥7.884 | $1.08 / $4.32 | 7.3 | 官方合作渠道 | openai/gpt-audio-mini |
-| 33 | `147ai.online` | ¥16 | $20 / $40 | 0.8 | default | gpt-audio-mini |
-| 34 | `us.pomoai.xyz` | ¥17.52 | $2.4 / $9.6 | 7.3 | gpt-官转-40 | gpt-audio-mini |
-| 35 | `wrduai.com` | ¥30.66 | $4.2 / $16.8 | 7.3 | 优质官转 | gpt-audio-mini |
-| 36 | `api1.147ai.com` | ¥50 | $50 / $100 | 1 | openai | gpt-audio-mini |
+| 3 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.149495 | 6.6892 | default | gpt-audio-mini |
+| 4 | `dev.novaapi.ai` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-audio-mini |
+| 5 | `novaapi.ai` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-audio-mini |
+| 6 | `zen-ai.top` | ¥0.6 | $0.6 / $2.4 | 1 | default | gpt-audio-mini |
+| 7 | `api.34ku.com` | ¥0.78 | $0.78 / $3.12 | 1 | default | gpt-audio-mini |
+| 8 | `api.routeeasy.ai` | ¥0.84 | $0.84 / $3.36 | 1 | az-gpt-1007-1.4 | gpt-audio-mini |
+| 9 | `35.aigcbest.top` | ¥0.9 | $0.6 / $2.4 | 1.5 | default | gpt-audio-mini |
+| 10 | `api.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-audio-mini |
+| 11 | `api.ocoolai.com` | ¥0.9 | $0.9 / $3.6 | 1 | default | gpt-audio-mini-2025-12-15 |
+| 12 | `apilio.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-audio-mini |
+| 13 | `ocool.cn` | ¥0.9 | $0.9 / $3.6 | 1 | default | gpt-audio-mini-2025-12-15 |
+| 14 | `one.ooo.cool` | ¥0.9 | $0.9 / $3.6 | 1 | default | gpt-audio-mini-2025-12-15 |
+| 15 | `test-ssl.bltcy.ai` | ¥0.9 | $0.9 / $3.6 | 1 | AZ-优质 | gpt-audio-mini |
+| 16 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | Azure | gpt-audio-mini |
+| 17 | `ai.t8star.org` | ¥1.215 | $0.9 / $3.6 | 1.35 | AZ-优质 | gpt-audio-mini |
+| 18 | `test-api.apiqik.online` | ¥1.26 | $0.18 / $0.72 | 7 | openai | gpt-audio-mini |
+| 19 | `api.ifopen.ai` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-audio-mini |
+| 20 | `api.openai-labs.com` | ¥2.1 | $2.1 / $8.4 | 1 | openai-max | gpt-audio-mini |
+| 21 | `api2.aigcbest.top` | ¥2.1 | $0.6 / $2.4 | 3.5 | default | gpt-audio-mini |
+| 22 | `poloai.top` | ¥2.1 | $2.1 / $8.4 | 1 | gpt-vip | gpt-audio-mini |
+| 23 | `llm.kagu.one` | ¥2.19 | $0.3 / $1.2 | 7.3 | 大杂烩 | gpt-audio-mini |
+| 24 | `mux.la` | ¥3.504 | $0.48 / $1.92 | 7.3 | Openrouter-Anthropic | openai/gpt-audio-mini |
+| 25 | `hk.moleapi.com` | ¥4.08 | $0.6 / $2.4 | 6.8 | default | gpt-audio-mini |
+| 26 | `apicdn.xyc.ai` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-audio-mini |
+| 27 | `apicdn.xycai.us` | ¥4.14 | $0.6 / $2.4 | 6.9 | gpt-flow | gpt-audio-mini |
+| 28 | `api.tokenrouter.com` | ¥4.2 | $0.6 / $2.4 | 7 | default | openai/gpt-audio-mini |
+| 29 | `cn.gptapi.asia` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-audio-mini |
+| 30 | `yutoapi.com` | ¥4.2 | $4.2 / $16.8 | 1 | enterprise | gpt-audio-mini |
+| 31 | `token.nexhina.ai` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-audio-mini |
+| 32 | `v3.yunai.link` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gpt-audio-mini-2025-12-15 |
+| 33 | `api.tacklekey.com` | ¥6.738 | $0.923077 / $3.69231 | 7.3 | default | openai/gpt-audio-mini |
+| 34 | `ai2.qiqiai.top` | ¥7.884 | $1.08 / $4.32 | 7.3 | 官方合作渠道 | openai/gpt-audio-mini |
+| 35 | `147ai.online` | ¥16 | $20 / $40 | 0.8 | default | gpt-audio-mini |
+| 36 | `us.pomoai.xyz` | ¥17.52 | $2.4 / $9.6 | 7.3 | gpt-官转-40 | gpt-audio-mini |
+| 37 | `wrduai.com` | ¥30.66 | $4.2 / $16.8 | 7.3 | 优质官转 | gpt-audio-mini |
+| 38 | `api1.147ai.com` | ¥50 | $50 / $100 | 1 | openai | gpt-audio-mini |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -74,4 +76,4 @@
 | 21 | `sub.hongyun.chat` | $4.5 / $18 | gpt | 7.5 | gpt-audio-mini |
 | 22 | `vip.zen-ai.top` | $6 / $24 | AZ | 10 | gpt-audio-mini |
 
-> 41 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 44 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

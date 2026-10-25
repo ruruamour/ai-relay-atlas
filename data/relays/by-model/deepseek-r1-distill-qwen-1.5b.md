@@ -1,6 +1,6 @@
 # deepseek-r1-distill-qwen-1.5b
 
-> 30 站提供 · 正常价 12 站 · 名义中位价 **$0.92**/1M 输入 · 实付中位价 **¥0.5015**/1M 输入（10 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 14 站 · 名义中位价 **$1.3**/1M 输入 · 实付中位价 **¥0.865**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,10 +16,12 @@
 | 4 | `api.ifopen.ai` | ¥0.273 | $0.078 / $0.312 | 3.5 | 通用大模型 | deepseek-r1-distill-qwen-1.5b |
 | 5 | `api2.aigcbest.top` | ¥0.273 | $0.078 / $0.312 | 3.5 | 通用大模型 | deepseek-r1-distill-qwen-1.5b |
 | 6 | `api.pie-xian.com` | ¥0.73 | $0.1 / $0.3 | 7.3 | 无限制 | deepseek-r1-distill-qwen-1.5b |
-| 7 | `580.4sapi.com` | ¥1.6 | $1.6 / $4.8 | 1 | deepseek | deepseek-r1-distill-qwen-1.5b |
-| 8 | `cn.580ai.net` | ¥1.6 | $1.6 / $4.8 | 1 | deepseek | deepseek-r1-distill-qwen-1.5b |
-| 9 | `poloai.top` | ¥1.6 | $1.6 / $4.8 | 1 | Deepseek | deepseek-r1-distill-qwen-1.5b |
-| 10 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-1.5b |
+| 7 | `api.aiskt.com` | ¥1 | $1 / $3 | 1 | default | deepseek-r1-distill-qwen-1.5b |
+| 8 | `580.4sapi.com` | ¥1.6 | $1.6 / $4.8 | 1 | deepseek | deepseek-r1-distill-qwen-1.5b |
+| 9 | `cn.580ai.net` | ¥1.6 | $1.6 / $4.8 | 1 | deepseek | deepseek-r1-distill-qwen-1.5b |
+| 10 | `poloai.top` | ¥1.6 | $1.6 / $4.8 | 1 | Deepseek | deepseek-r1-distill-qwen-1.5b |
+| 11 | `xy.poloapi.com` | ¥1.6 | $1.6 / $4.8 | 1 | Deepseek | deepseek-r1-distill-qwen-1.5b |
+| 12 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-1.5b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -28,4 +30,4 @@
 | 1 | `poloapi.top` | $1.6 / $4.8 | Deepseek | 0.8 | deepseek-r1-distill-qwen-1.5b |
 | 2 | `azapi.com.cn` | $2 / $6 | default | 1 | deepseek-r1-distill-qwen-1.5b |
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

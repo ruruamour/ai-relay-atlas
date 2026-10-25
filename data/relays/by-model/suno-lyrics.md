@@ -1,6 +1,6 @@
 # suno-lyrics
 
-> 52 站提供 · 正常价 47 站 · 名义中位价 **$0.0400005**/次 · 实付中位价 **¥0.05**/次（27 站公开充值价） · 推算，未对账
+> 54 站提供 · 正常价 48 站 · 名义中位价 **$0.0400005**/次 · 实付中位价 **¥0.05**/次（28 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,16 +27,17 @@
 | 15 | `api.xgapi.top` | ¥0.05 | $0.05 | 1 | default | suno_lyrics |
 | 16 | `ccapi.ai` | ¥0.0552 | $0.008 | 6.9 | suno-A | suno_lyrics |
 | 17 | `poloai.top` | ¥0.06 | $0.06 | 1 | suno | suno_lyrics |
-| 18 | `cn.gptapi.asia` | ¥0.07 | $0.07 | 1 | enterprise | suno_lyrics |
-| 19 | `yutoapi.com` | ¥0.07 | $0.07 | 1 | enterprise | suno_lyrics |
-| 20 | `n.lconai.com` | ¥0.08 | $0.08 | 1 | B1 | suno_lyrics |
-| 21 | `api.annyun.cn` | ¥0.1 | $0.1 | 1 | default | suno_lyrics |
-| 22 | `cnapi.kksj.org` | ¥0.135 | $0.135 | 1 | default | suno_lyrics |
-| 23 | `api.gstrad.top` | ¥0.2 | $0.2 | 1 | default | suno_lyrics |
-| 24 | `nbapi.net` | ¥0.219 | $0.03 | 7.3 | default | suno_lyrics |
-| 25 | `api.ifopen.ai` | ¥0.245 | $0.07 | 3.5 | default | suno_lyrics |
-| 26 | `api2.aigcbest.top` | ¥0.245 | $0.07 | 3.5 | default | suno_lyrics |
-| 27 | `api.apipro.ai` | ¥2.1 | $0.3 | 7 | default | suno_lyrics |
+| 18 | `xy.poloapi.com` | ¥0.06 | $0.06 | 1 | suno | suno_lyrics |
+| 19 | `cn.gptapi.asia` | ¥0.07 | $0.07 | 1 | enterprise | suno_lyrics |
+| 20 | `yutoapi.com` | ¥0.07 | $0.07 | 1 | enterprise | suno_lyrics |
+| 21 | `n.lconai.com` | ¥0.08 | $0.08 | 1 | B1 | suno_lyrics |
+| 22 | `api.annyun.cn` | ¥0.1 | $0.1 | 1 | default | suno_lyrics |
+| 23 | `cnapi.kksj.org` | ¥0.135 | $0.135 | 1 | default | suno_lyrics |
+| 24 | `api.gstrad.top` | ¥0.2 | $0.2 | 1 | default | suno_lyrics |
+| 25 | `nbapi.net` | ¥0.219 | $0.03 | 7.3 | default | suno_lyrics |
+| 26 | `api.ifopen.ai` | ¥0.245 | $0.07 | 3.5 | default | suno_lyrics |
+| 27 | `api2.aigcbest.top` | ¥0.245 | $0.07 | 3.5 | default | suno_lyrics |
+| 28 | `api.apipro.ai` | ¥2.1 | $0.3 | 7 | default | suno_lyrics |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -63,4 +64,4 @@
 | 19 | `yuli.host` | $0.0400005 | 纯AZ | 1.5 | suno_lyrics |
 | 20 | `poloapi.top` | $0.06 | suno | 1 | suno_lyrics |
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

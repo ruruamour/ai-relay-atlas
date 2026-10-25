@@ -1,6 +1,6 @@
 # bge-reranker-v2-m3
 
-> 166 站提供 · 正常价 142 站 · 名义中位价 **$0.01**/1M 输入 · 实付中位价 **¥0.01481**/1M 输入（73 站公开充值价） · 推算，未对账
+> 174 站提供 · 正常价 150 站 · 名义中位价 **$0.01**/1M 输入 · 实付中位价 **¥0.01481**/1M 输入（81 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api.openlux.ai` | ¥0.007407 | $0.0011025 / $0.0011025 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
 | 2 | `api.relayrouter.ai` | ¥0.007407 | $0.0011025 / $0.0011025 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.007407 | $0.0011025 / $0.0011025 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 5 | `gzxbykj.com` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 6 | `yunwu.org` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 7 | `v2.cloudmist.cloud` | ¥0.008518 | $0.00126787 / $0.00126787 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 8 | `www.vectronode.com` | ¥0.008888 | $0.001323 / $0.001323 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 9 | `apiclaw.cn` | ¥0.008962 | $0.00133403 / $0.00133403 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 10 | `newapi.xueai.me` | ¥0.008962 | $0.00133403 / $0.00133403 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 11 | `wodapis.com` | ¥0.008962 | $0.00133403 / $0.00133403 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 12 | `ciyuan.today` | ¥0.009258 | $0.00137813 / $0.00137813 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 13 | `gptapi.top` | ¥0.009258 | $0.00137813 / $0.00137813 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 14 | `makerend.com` | ¥0.009258 | $0.00137813 / $0.00137813 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 15 | `moliapi.com` | ¥0.009332 | $0.00138915 / $0.00138915 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 16 | `ai-api.cc` | ¥0.009629 | $0.00143325 / $0.00143325 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 17 | `infai.cc` | ¥0.009629 | $0.00143325 / $0.00143325 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 18 | `nodapi.com` | ¥0.009777 | $0.0014553 / $0.0014553 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 19 | `anyaigc.ai` | ¥0.009999 | $0.00148838 / $0.00148838 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 20 | `api.new.bi` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
-| 21 | `botcf.com` | ¥0.01 | $0.01 / $0.01 | 1 | 🔎reranker | BAAI/bge-reranker-v2-m3 |
-| 22 | `keypool.space` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
-| 23 | `new.foxi-api.cn` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
-| 24 | `xinsuanai.com` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
-| 25 | `sheepaiplus.top` | ¥0.01037 | $0.0015435 / $0.0015435 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 26 | `xiguapi.icu` | ¥0.01037 | $0.0015435 / $0.0015435 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 27 | `api.88api.chat` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 28 | `api.88api.shop` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 29 | `api.videocaptioner.cn` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 30 | `new.aigc2d.com` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 31 | `oyy-ai.xyz` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 32 | `api.nixapi.com` | ¥0.01252 | $0.00186323 / $0.00186323 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 33 | `aiwuje.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 34 | `api.cursorai.art` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 35 | `api.echoflowai.cc` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 36 | `api.n1n.ai` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 37 | `api.quickrouter.ai` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 38 | `jeniya.cn` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 39 | `linoapi.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 40 | `llm-api.net` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 41 | `quanzil.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 42 | `token173.net` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 43 | `tryallapi.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 44 | `wellapi.ai` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 45 | `thousandengine.com` | ¥0.01507 | $0.00224359 / $0.00224359 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
-| 46 | `daoxe.com` | ¥0.01545 | $0.015 / $0 | 1.03 | Embedding & Reranker | BAAI/bge-reranker-v2-m3 |
-| 47 | `gpt777.top` | ¥0.016 | $0.016 / $0.016 | 1 | opensource | BAAI/bge-reranker-v2-m3 |
-| 48 | `api.ifopen.ai` | ¥0.0182 | $0.0052 / $0.0052 | 3.5 | 通用大模型 | BAAI/bge-reranker-v2-m3 |
-| 49 | `api2.aigcbest.top` | ¥0.0182 | $0.0052 / $0.0052 | 3.5 | 通用大模型 | BAAI/bge-reranker-v2-m3 |
-| 50 | `pro.gemai.cc` | ¥0.03 | $0.03 / $0.03 | 1 | Chinese Model | bge-reranker-v2-m3 |
+| 4 | `4zapi.com` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 6 | `gzxbykj.com` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 7 | `yunwu.org` | ¥0.008147 | $0.00121275 / $0.00121275 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 8 | `api.antmoo.cc` | ¥0.008518 | $0.00126787 / $0.00126787 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 9 | `v2.cloudmist.cloud` | ¥0.008518 | $0.00126787 / $0.00126787 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 10 | `www.vectronode.com` | ¥0.008888 | $0.001323 / $0.001323 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 11 | `apiclaw.cn` | ¥0.008962 | $0.00133403 / $0.00133403 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 12 | `newapi.xueai.me` | ¥0.008962 | $0.00133403 / $0.00133403 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 13 | `wodapis.com` | ¥0.008962 | $0.00133403 / $0.00133403 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 14 | `ciyuan.today` | ¥0.009258 | $0.00137813 / $0.00137813 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 15 | `gptapi.top` | ¥0.009258 | $0.00137813 / $0.00137813 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 16 | `makerend.com` | ¥0.009258 | $0.00137813 / $0.00137813 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 17 | `moliapi.com` | ¥0.009332 | $0.00138915 / $0.00138915 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 18 | `ai-api.cc` | ¥0.009629 | $0.00143325 / $0.00143325 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 19 | `infai.cc` | ¥0.009629 | $0.00143325 / $0.00143325 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 20 | `nodapi.com` | ¥0.009777 | $0.0014553 / $0.0014553 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 21 | `anyaigc.ai` | ¥0.009999 | $0.00148838 / $0.00148838 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 22 | `api.new.bi` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
+| 23 | `botcf.com` | ¥0.01 | $0.01 / $0.01 | 1 | 🔎reranker | BAAI/bge-reranker-v2-m3 |
+| 24 | `keypool.space` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
+| 25 | `new.foxi-api.cn` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
+| 26 | `xinsuanai.com` | ¥0.01 | $0.01 / $0.01 | 1 | default | BAAI/bge-reranker-v2-m3 |
+| 27 | `xn--15q04w3tg4kio0a.com` | ¥0.01 | $0.01 / $0.01 | 1 | 🔎reranker | BAAI/bge-reranker-v2-m3 |
+| 28 | `sheepaiplus.top` | ¥0.01037 | $0.0015435 / $0.0015435 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 29 | `xiguapi.icu` | ¥0.01037 | $0.0015435 / $0.0015435 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 30 | `api.88api.chat` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 31 | `api.88api.shop` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 32 | `api.videocaptioner.cn` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 33 | `lanbuff.app` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 34 | `new.aigc2d.com` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 35 | `oyy-ai.xyz` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 36 | `api.nixapi.com` | ¥0.01252 | $0.00186323 / $0.00186323 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 37 | `aiwuje.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 38 | `api.cursorai.art` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 39 | `api.echoflowai.cc` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 40 | `api.n1n.ai` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 41 | `api.quickrouter.ai` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 42 | `jeniya.cn` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 43 | `linoapi.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 44 | `linoroute.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 45 | `llm-api.net` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 46 | `quanzil.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 47 | `token173.net` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 48 | `tryallapi.com` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 49 | `wellapi.ai` | ¥0.01481 | $0.002205 / $0.002205 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
+| 50 | `thousandengine.com` | ¥0.01507 | $0.00224359 / $0.00224359 | 6.718 | SiliconFlow-1 | BAAI/bge-reranker-v2-m3 |
 
-> 另有 23 站未列出。
+> 另有 31 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

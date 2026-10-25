@@ -1,6 +1,6 @@
 # ernie-character
 
-> 24 站提供 · 正常价 24 站 · 名义中位价 **$0.9716**/1M 输入 · 实付中位价 **¥0.448**/1M 输入（6 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 25 站 · 名义中位价 **$0.9716**/1M 输入 · 实付中位价 **¥0.448**/1M 输入（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,10 +12,11 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.ocoolai.com` | ¥0.285 | $0.285 / $0.57 | 1 | cn | ERNIE-Character-8K |
 | 2 | `ocool.cn` | ¥0.285 | $0.285 / $0.57 | 1 | cn | ERNIE-Character-8K |
-| 3 | `api.camel-hub.cn` | ¥0.448 | $0.56 / $1.12 | 0.8 | default | ERNIE-Character-8K |
-| 4 | `api.camel-hub.com` | ¥0.448 | $0.56 / $1.12 | 0.8 | default | ERNIE-Character-8K |
-| 5 | `api.kr777.top` | ¥0.448 | $0.56 / $1.12 | 0.8 | default | ERNIE-Character-8K |
-| 6 | `api.new.bi` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Character-8K |
+| 3 | `one.ooo.cool` | ¥0.285 | $0.285 / $0.57 | 1 | cn | ERNIE-Character-8K |
+| 4 | `api.camel-hub.cn` | ¥0.448 | $0.56 / $1.12 | 0.8 | default | ERNIE-Character-8K |
+| 5 | `api.camel-hub.com` | ¥0.448 | $0.56 / $1.12 | 0.8 | default | ERNIE-Character-8K |
+| 6 | `api.kr777.top` | ¥0.448 | $0.56 / $1.12 | 0.8 | default | ERNIE-Character-8K |
+| 7 | `api.new.bi` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Character-8K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

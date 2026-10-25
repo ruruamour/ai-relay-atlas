@@ -1,6 +1,6 @@
 # hy3
 
-> 263 站提供 · 正常价 167 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（123 站公开充值价） · 推算，未对账
+> 273 站提供 · 正常价 170 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（126 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api3.kscsnkli.site` | ¥0.02 | $0.02 / $0.08 | 1 | 低价国模 | hy3 |
 | 2 | `cortexlane.cloud` | ¥0.042 | $0.042 / $0.084 | 1 | 国模 | hy3 |
 | 3 | `closedai.kylenqaq.com` | ¥0.045 | $0.045 / $0.18 | 1 | 国模2 | hy3 |
-| 4 | `us-api.x5m5x.com` | ¥0.05 | $0.05 / $0.2 | 1 | 国模自营（1号主力池） | hy3 |
-| 5 | `ikun.love` | ¥0.0528 | $0.0528 / $0.2112 | 1 | 国模 | hy3 |
-| 6 | `aizzz.vip` | ¥0.072 | $0.18 / $0.72 | 0.4 | China | hy3 |
-| 7 | `kuaipao.ai` | ¥0.072 | $0.18 / $0.72 | 0.4 | China | hy3 |
-| 8 | `cn.gptapi.asia` | ¥0.08 | $0.08 / $0.32 | 1 | default | hy3 |
-| 9 | `momoapi.xin` | ¥0.08 | $0.08 / $0.32 | 1 | 自部署国模合集 | hy3 |
-| 10 | `yutoapi.com` | ¥0.08 | $0.08 / $0.32 | 1 | default | hy3 |
-| 11 | `ai-one.vip` | ¥0.09 | $0.18 / $0.72 | 0.5 | China | hy3 |
-| 12 | `ai.furry.vg` | ¥0.09 | $0.09 / $0.36 | 1 | default | hy3 |
-| 13 | `www.fastapi.ltd` | ¥0.1 | $0.1 / $0.4 | 1 | 2-国产混合 | hy3 |
-| 14 | `api.unorouter.com` | ¥0.1 | $0.100002 / $0.414298 | 1 | kdy1-hy3 | hy3 |
-| 15 | `routerra.ai` | ¥0.104 | $0.104 / $0.416 | 1 | default | hy3 |
-| 16 | `new.omniakey.com` | ¥0.11 | $0.11 / $0.439 | 1 | default | hy3 |
-| 17 | `www.ainzy.net` | ¥0.11 | $0.11 / $0.31 | 1 | chinese-model-niche | hy3 |
-| 18 | `tako.shiroha.tech` | ¥0.1278 | $0.0175 / $0.0725 | 7.3 | 按量计费 | hy3 |
-| 19 | `crowllm.com` | ¥0.13 | $0.13 / $0.499 | 1 | pro | hy3 |
-| 20 | `hetune.top` | ¥0.13 | $0.13 / $0.52 | 1 | 国模统一分组 | hy3 |
-| 21 | `relay.fast` | ¥0.132 | $0.132 / $0.528 | 1 | default | hy3 |
-| 22 | `router.cheap` | ¥0.132 | $0.132 / $0.528 | 1 | default | hy3 |
-| 23 | `coneverse.com` | ¥0.137 | $0.136986 / $0.547945 | 1 | supply-2586e51ab0a039a7cbf3cfa2 | hy3 |
-| 24 | `infistar.ai` | ¥0.137 | $0.136986 / $0.547945 | 1 | supply-2586e51ab0a039a7cbf3cfa2 | hy3 |
-| 25 | `1.cnmz.de` | ¥0.15 | $0.15 / $0.6 | 1 | 国模精品极致速度分组 | hy3 |
-| 26 | `autorouter.top` | ¥0.15 | $0.15 / $0.6 | 1 | default | hy3 |
-| 27 | `dragon3api.com` | ¥0.15 | $0.15 / $0.6 | 1 | 国模 | hy3 |
-| 28 | `getezo.com` | ¥0.15 | $0.15 / $0.6 | 1 | 国模精品极致速度分组 | hy3 |
-| 29 | `www.xpivot.top` | ¥0.15 | $0.15 / $0.6 | 1 | 国模二梯队 | hy3 |
-| 30 | `ifapi.org` | ¥0.196 | $0.02904 / $0.11616 | 6.75 | 智能熔断 | hy3 |
-| 31 | `api.0elog.com` | ¥0.2 | $0.2 / $0.8 | 1 | 混合模型 | hy3 |
-| 32 | `api.slomerex.xyz` | ¥0.2 | $0.2 / $0.8 | 1 | Hy | hy3 |
-| 33 | `api.tuftech.org` | ¥0.2 | $0.2 / $0.8 | 1 | HY-sale | hy3 |
-| 34 | `tk.8t.chat` | ¥0.2 | $0.2 / $1 | 1 | 国模 | Hy3 |
-| 35 | `www.shenlanqaq.com` | ¥0.2 | $0.2 / $0.8 | 1 | 国模 | hy3 |
-| 36 | `2api.me` | ¥0.219 | $0.03 / $0.12 | 7.3 | default | tencent/hy3 |
-| 37 | `api.aihub8.top` | ¥0.24 | $0.24 / $0.96 | 1 | 国模超低价_浮动倍率 | hy3 |
-| 38 | `xl.8t.chat` | ¥0.24 | $0.24 / $1.2 | 1 | 国模 | Hy3 |
-| 39 | `api.shayugpt.top` | ¥0.25 | $0.25 / $1 | 1 | 官转-deepseek | hy3 |
-| 40 | `beehears.com` | ¥0.25 | $0.25 / $1 | 1 | 🇨🇳 Made in China | hy3 |
-| 41 | `code.oai1.online` | ¥0.25 | $0.25 / $1 | 1 | 国产模型 | hy3 |
-| 42 | `codeworksta.com` | ¥0.25 | $0.25 / $1 | 1 | 国产模型-额度计费 | hy3 |
-| 43 | `codex101.cf-cdn.site` | ¥0.25 | $0.25 / $1 | 1 | 国产模型-额度计费 | hy3 |
-| 44 | `images.beehears.com` | ¥0.25 | $0.25 / $1 | 1 | 🇨🇳 Made in China | hy3 |
-| 45 | `new-cdn.dg8.site` | ¥0.25 | $0.25 / $1 | 1 | 国产模型-额度计费 | hy3 |
-| 46 | `ucenter.beehears.com` | ¥0.25 | $0.25 / $1 | 1 | 🇨🇳 Made in China | hy3 |
-| 47 | `liangxinapi.top` | ¥0.3 | $0.3 / $1.23 | 1 | 低价国模 | hy3 |
-| 48 | `topapi.link` | ¥0.3 | $0.3 / $1.2 | 1 | 国产 | hy3 |
-| 49 | `api.68886868.xyz` | ¥0.3276 | $0.3276 / $1.3572 | 1 | 国模3 | hy3 |
-| 50 | `ckff.dev` | ¥0.3276 | $0.3276 / $1.3572 | 1 | 国模3 | hy3 |
+| 4 | `api.tokenfreeperday.com` | ¥0.049 | $0.049 / $0.203 | 1 | ALL | hy3 |
+| 5 | `us-api.x5m5x.com` | ¥0.05 | $0.05 / $0.2 | 1 | 国模自营（1号主力池） | hy3 |
+| 6 | `ikun.love` | ¥0.0528 | $0.0528 / $0.2112 | 1 | 国模 | hy3 |
+| 7 | `aizzz.vip` | ¥0.072 | $0.18 / $0.72 | 0.4 | China | hy3 |
+| 8 | `kuaipao.ai` | ¥0.072 | $0.18 / $0.72 | 0.4 | China | hy3 |
+| 9 | `cn.gptapi.asia` | ¥0.08 | $0.08 / $0.32 | 1 | default | hy3 |
+| 10 | `momoapi.xin` | ¥0.08 | $0.08 / $0.32 | 1 | 自部署国模合集 | hy3 |
+| 11 | `yutoapi.com` | ¥0.08 | $0.08 / $0.32 | 1 | default | hy3 |
+| 12 | `ai-one.vip` | ¥0.09 | $0.18 / $0.72 | 0.5 | China | hy3 |
+| 13 | `ai.furry.vg` | ¥0.09 | $0.09 / $0.36 | 1 | default | hy3 |
+| 14 | `www.fastapi.ltd` | ¥0.1 | $0.1 / $0.4 | 1 | 2-国产混合 | hy3 |
+| 15 | `api.unorouter.com` | ¥0.1 | $0.100002 / $0.414298 | 1 | kdy1-hy3 | hy3 |
+| 16 | `routerra.ai` | ¥0.104 | $0.104 / $0.416 | 1 | default | hy3 |
+| 17 | `new.omniakey.com` | ¥0.11 | $0.11 / $0.439 | 1 | default | hy3 |
+| 18 | `www.ainzy.net` | ¥0.11 | $0.11 / $0.31 | 1 | chinese-model-niche | hy3 |
+| 19 | `tako.shiroha.tech` | ¥0.1278 | $0.0175 / $0.0725 | 7.3 | 按量计费 | hy3 |
+| 20 | `crowllm.com` | ¥0.13 | $0.13 / $0.499 | 1 | pro | hy3 |
+| 21 | `hetune.top` | ¥0.13 | $0.13 / $0.52 | 1 | 国模统一分组 | hy3 |
+| 22 | `relay.fast` | ¥0.132 | $0.132 / $0.528 | 1 | default | hy3 |
+| 23 | `router.cheap` | ¥0.132 | $0.132 / $0.528 | 1 | default | hy3 |
+| 24 | `coneverse.com` | ¥0.137 | $0.136986 / $0.547945 | 1 | supply-2586e51ab0a039a7cbf3cfa2 | hy3 |
+| 25 | `infistar.ai` | ¥0.137 | $0.136986 / $0.547945 | 1 | supply-2586e51ab0a039a7cbf3cfa2 | hy3 |
+| 26 | `1.cnmz.de` | ¥0.15 | $0.15 / $0.6 | 1 | 国模精品极致速度分组 | hy3 |
+| 27 | `autorouter.top` | ¥0.15 | $0.15 / $0.6 | 1 | default | hy3 |
+| 28 | `dragon3api.com` | ¥0.15 | $0.15 / $0.6 | 1 | 国模 | hy3 |
+| 29 | `getezo.com` | ¥0.15 | $0.15 / $0.6 | 1 | 国模精品极致速度分组 | hy3 |
+| 30 | `www.xpivot.top` | ¥0.15 | $0.15 / $0.6 | 1 | 国模二梯队 | hy3 |
+| 31 | `ifapi.org` | ¥0.196 | $0.02904 / $0.11616 | 6.75 | 智能熔断 | hy3 |
+| 32 | `api.0elog.com` | ¥0.2 | $0.2 / $0.8 | 1 | 混合模型 | hy3 |
+| 33 | `api.slomerex.xyz` | ¥0.2 | $0.2 / $0.8 | 1 | Hy | hy3 |
+| 34 | `api.tuftech.org` | ¥0.2 | $0.2 / $0.8 | 1 | HY-sale | hy3 |
+| 35 | `tk.8t.chat` | ¥0.2 | $0.2 / $1 | 1 | 国模 | Hy3 |
+| 36 | `www.shenlanqaq.com` | ¥0.2 | $0.2 / $0.8 | 1 | 国模 | hy3 |
+| 37 | `2api.me` | ¥0.219 | $0.03 / $0.12 | 7.3 | default | tencent/hy3 |
+| 38 | `api.aihub8.top` | ¥0.24 | $0.24 / $0.96 | 1 | 国模超低价_浮动倍率 | hy3 |
+| 39 | `xl.8t.chat` | ¥0.24 | $0.24 / $1.2 | 1 | 国模 | Hy3 |
+| 40 | `api.shayugpt.top` | ¥0.25 | $0.25 / $1 | 1 | 官转-deepseek | hy3 |
+| 41 | `beehears.com` | ¥0.25 | $0.25 / $1 | 1 | 🇨🇳 Made in China | hy3 |
+| 42 | `code.oai1.online` | ¥0.25 | $0.25 / $1 | 1 | 国产模型 | hy3 |
+| 43 | `codeworksta.com` | ¥0.25 | $0.25 / $1 | 1 | 国产模型-额度计费 | hy3 |
+| 44 | `codex101.cf-cdn.site` | ¥0.25 | $0.25 / $1 | 1 | 国产模型-额度计费 | hy3 |
+| 45 | `images.beehears.com` | ¥0.25 | $0.25 / $1 | 1 | 🇨🇳 Made in China | hy3 |
+| 46 | `new-cdn.dg8.site` | ¥0.25 | $0.25 / $1 | 1 | 国产模型-额度计费 | hy3 |
+| 47 | `ucenter.beehears.com` | ¥0.25 | $0.25 / $1 | 1 | 🇨🇳 Made in China | hy3 |
+| 48 | `liangxinapi.top` | ¥0.3 | $0.3 / $1.23 | 1 | 低价国模 | hy3 |
+| 49 | `topapi.link` | ¥0.3 | $0.3 / $1.2 | 1 | 国产 | hy3 |
+| 50 | `api.68886868.xyz` | ¥0.3276 | $0.3276 / $1.3572 | 1 | 国模3 | hy3 |
 
-> 另有 73 站未列出。
+> 另有 76 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -112,4 +112,4 @@
 | 43 | `api.passionapi.com` | $2 / $8 | 按量【国模渠道】 | 1 | hy3 |
 | 44 | `openclawroot.com` | $5 / $20 | default | 1 | hy3 |
 
-> 96 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 103 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-robotics-er-1.5-preview
 
-> 55 站提供 · 正常价 34 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.05**/1M 输入（29 站公开充值价） · 推算，未对账
+> 56 站提供 · 正常价 34 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.05**/1M 输入（29 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -50,4 +50,4 @@
 | 4 | `officesai.top` | $8.4 / $84 | Image绘图 4K | 1 | gemini-robotics-er-1.5-preview |
 | 5 | `api.rcouyi.com` | $60 / $240 | default | 1 | gemini-robotics-er-1.5-preview |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

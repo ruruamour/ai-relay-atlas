@@ -1,6 +1,6 @@
 # gpt-5.3-codex
 
-> 555 站提供 · 正常价 398 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（335 站公开充值价） · 推算，未对账
+> 579 站提供 · 正常价 418 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥2.625**/1M 输入（352 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,56 +12,56 @@
 |---|---|---|---|---|---|---|
 | 1 | `orange-ai.online` | ¥0.105 | $0.105 / $0.84 | 1 | 🍊-GPT-Sale (0.06-0.1) | gpt-5.3-codex |
 | 2 | `www.kamiapi.top` | ¥0.1138 | $0.11375 / $0.91 | 1 | GPT Standard 标准号池 | gpt-5.3-codex |
-| 3 | `gpt.api456.me` | ¥0.175 | $0.175 / $1.4 | 1 | default | gpt-5.3-codex |
-| 4 | `ai-kfc.nervers.com` | ¥0.2625 | $0.2625 / $2.1 | 1 | s19:gpt-pro外接 | gpt-5.3-codex |
-| 5 | `freegiand.com` | ¥0.2625 | $0.2625 / $2.1 | 1 | GPTPro | gpt-5.3-codex |
-| 6 | `qiyueqiai.router.nerver.cc` | ¥0.2625 | $0.2625 / $2.1 | 1 | s12:gptpro2号 | gpt-5.3-codex |
-| 7 | `wuyunai.nervers.com` | ¥0.2625 | $0.2625 / $2.1 | 1 | s6:gpt-pro | gpt-5.3-codex |
-| 8 | `daoxe.com` | ¥0.2704 | $0.2625 / $2.1 | 1.03 | codex | gpt-5.3-codex |
-| 9 | `guaidada.nervers.com` | ¥0.28 | $0.28 / $2.24 | 1 | s10:gpt-pro-稳定组 | gpt-5.3-codex |
-| 10 | `router.nerver.cc` | ¥0.28 | $0.28 / $2.24 | 1 | gpt pro(外接) | gpt-5.3-codex |
-| 11 | `zhangheizi.nervers.com` | ¥0.28 | $0.28 / $2.24 | 1 | s8:gptpro016 | gpt-5.3-codex |
-| 12 | `maxapi.nervers.com` | ¥0.315 | $0.315 / $2.52 | 1 | s48:gpt-pro | gpt-5.3-codex |
-| 13 | `mv88.cn` | ¥0.315 | $0.315 / $2.52 | 1 | Codex-Pro | gpt-5.3-codex |
-| 14 | `weishaxdev.nervers.com` | ¥0.315 | $0.315 / $2.52 | 1 | s40:gpt-pro(外接)下游 | gpt-5.3-codex |
-| 15 | `www.sjapi.top` | ¥0.315 | $0.315 / $2.52 | 1 | GPT Plus | gpt-5.3-codex |
-| 16 | `api-x.vip` | ¥0.35 | $0.35 / $2.8 | 1 | openai-low | gpt-5.3-codex |
-| 17 | `api.tccxy.top` | ¥0.35 | $0.35 / $2.8 | 1 | Pro | gpt-5.3-codex |
-| 18 | `www.ainzy.net` | ¥0.35 | $0.35 / $2.8 | 1 | codex-official | gpt-5.3-codex |
-| 19 | `api.ethancode.xyz` | ¥0.4375 | $0.4375 / $3.5 | 1 | Openai官key-98%缓 | gpt-5.3-codex |
-| 20 | `beehears.com` | ¥0.4375 | $0.4375 / $3.5 | 1 | 🆙 GPT - Codex - Pro | gpt-5.3-codex |
-| 21 | `images.beehears.com` | ¥0.4375 | $0.4375 / $3.5 | 1 | 🆙 GPT - Codex - Pro | gpt-5.3-codex |
-| 22 | `sub2api.atomflow.vip` | ¥0.4375 | $0.4375 / $3.5 | 1 | default | gpt-5.3-codex |
-| 23 | `ucenter.beehears.com` | ¥0.4375 | $0.4375 / $3.5 | 1 | 🆙 GPT - Codex - Pro | gpt-5.3-codex |
-| 24 | `kelaiapi.cc` | ¥0.455 | $0.455 / $3.64 | 1 | vip_1_plus | gpt-5.3-codex |
-| 25 | `token.nervers.com` | ¥0.455 | $0.455 / $3.64 | 1 | s3:gpt-pro（外接）下游 | gpt-5.3-codex |
-| 26 | `jbbtoken.cn` | ¥0.5 | $0.5 / $3 | 1 | 专用gpt | gpt-5.3-codex |
-| 27 | `uo.mentoe.com` | ¥0.5 | $0.5 / $4 | 1 | gptpro | gpt-5.3-codex |
-| 28 | `us.uocode.com` | ¥0.5 | $0.5 / $4 | 1 | gptpro | gpt-5.3-codex |
-| 29 | `apijing.com` | ¥0.525 | $0.525 / $4.2 | 1 | codex充值渠道 | gpt-5.3-codex |
-| 30 | `new.gateway.icu` | ¥0.525 | $0.525 / $4.2 | 1 | codex | gpt-5.3-codex |
-| 31 | `wyh.apijing.com` | ¥0.525 | $0.525 / $4.2 | 1 | codex充值渠道 | gpt-5.3-codex |
-| 32 | `api.gettoken.cn` | ¥0.526 | $0.526 / $4.208 | 1 | GPT | gpt-5.3-codex |
-| 33 | `api.nbility.ai` | ¥0.56 | $0.56 / $4.48 | 1 | codex | gpt-5.3-codex |
-| 34 | `zhangsan.yun` | ¥0.5625 | $0.5625 / $4.5 | 1 | image-2分组 | gpt-5.3-codex |
-| 35 | `newapi.prorisehub.com` | ¥0.6125 | $0.6125 / $4.9 | 1 | GPT-官-Key-正价 | gpt-5.3-codex |
-| 36 | `www.thinkai.tv` | ¥0.7 | $0.7 / $5.6 | 1 | default | gpt-5.3-codex |
-| 37 | `test-api.apiqik.online` | ¥0.735 | $0.105 / $0.84 | 7 | codex | gpt-5.3-codex |
-| 38 | `ent.yoct.cn` | ¥0.75 | $0.75 / $6 | 1 | Codex Pro | gpt-5.3-codex |
-| 39 | `1.cnmz.de` | ¥0.7875 | $0.7875 / $6.3 | 1 | GPT-官key-正价 | gpt-5.3-codex |
-| 40 | `getezo.com` | ¥0.7875 | $0.7875 / $6.3 | 1 | GPT-官key-正价 | gpt-5.3-codex |
-| 41 | `91token.ai` | ¥0.875 | $0.875 / $7 | 1 | 个人编码任务组 | gpt-5.3-codex |
-| 42 | `bridge.pulseneko.com` | ¥0.875 | $0.875 / $7 | 1 | codex | gpt-5.3-codex |
-| 43 | `cn.liantongapi.com` | ¥0.875 | $0.875 / $7 | 1 | gpt | gpt-5.3-codex |
-| 44 | `n.lconai.com` | ¥0.875 | $0.875 / $7 | 1 | A1 | gpt-5.3-codex |
-| 45 | `test.thinkai.tv` | ¥0.9 | $1.8 / $14.4 | 0.5 | default | gpt-5.3-codex |
-| 46 | `anylink.top` | ¥1 | $1 / $8 | 1 | codex | gpt-5.3-codex |
-| 47 | `newapi.zone` | ¥1 | $1 / $0.5 | 1 | codex | gpt-5.3-codex |
-| 48 | `www.qhaigc.net` | ¥1 | $1 / $8 | 1 | default | gpt-5.3-codex |
-| 49 | `getmodel.ai` | ¥1.008 | $1.008 / $8.064 | 1 | codex-pro | gpt-5.3-codex |
-| 50 | `business.wanxiaot.com` | ¥1.008 | $0.138092 / $1.10474 | 7.3 | GPT-1号 主力 | gpt-5.3-codex |
+| 3 | `comput.chat` | ¥0.175 | $0.175 / $1.4 | 1 | default | gpt-5.3-codex |
+| 4 | `gpt.api456.me` | ¥0.175 | $0.175 / $1.4 | 1 | default | gpt-5.3-codex |
+| 5 | `ai-kfc.nervers.com` | ¥0.2625 | $0.2625 / $2.1 | 1 | s19:gpt-pro外接 | gpt-5.3-codex |
+| 6 | `freegiand.com` | ¥0.2625 | $0.2625 / $2.1 | 1 | GPTPro | gpt-5.3-codex |
+| 7 | `qiyueqiai.router.nerver.cc` | ¥0.2625 | $0.2625 / $2.1 | 1 | s12:gptpro2号 | gpt-5.3-codex |
+| 8 | `wuyunai.nervers.com` | ¥0.2625 | $0.2625 / $2.1 | 1 | s6:gpt-pro | gpt-5.3-codex |
+| 9 | `daoxe.com` | ¥0.2704 | $0.2625 / $2.1 | 1.03 | codex | gpt-5.3-codex |
+| 10 | `guaidada.nervers.com` | ¥0.28 | $0.28 / $2.24 | 1 | s10:gpt-pro-稳定组 | gpt-5.3-codex |
+| 11 | `router.nerver.cc` | ¥0.28 | $0.28 / $2.24 | 1 | gpt pro(外接) | gpt-5.3-codex |
+| 12 | `zhangheizi.nervers.com` | ¥0.28 | $0.28 / $2.24 | 1 | s8:gptpro016 | gpt-5.3-codex |
+| 13 | `maxapi.nervers.com` | ¥0.315 | $0.315 / $2.52 | 1 | s48:gpt-pro | gpt-5.3-codex |
+| 14 | `mv88.cn` | ¥0.315 | $0.315 / $2.52 | 1 | Codex-Pro | gpt-5.3-codex |
+| 15 | `weishaxdev.nervers.com` | ¥0.315 | $0.315 / $2.52 | 1 | s40:gpt-pro(外接)下游 | gpt-5.3-codex |
+| 16 | `www.sjapi.top` | ¥0.315 | $0.315 / $2.52 | 1 | GPT Plus | gpt-5.3-codex |
+| 17 | `api-x.vip` | ¥0.35 | $0.35 / $2.8 | 1 | openai-low | gpt-5.3-codex |
+| 18 | `api.tccxy.top` | ¥0.35 | $0.35 / $2.8 | 1 | Pro | gpt-5.3-codex |
+| 19 | `api.xi-ai.cn` | ¥0.35 | $0.35 / $2.8 | 1 | gpt_codex_0 | gpt-5.3-codex |
+| 20 | `www.ainzy.net` | ¥0.35 | $0.35 / $2.8 | 1 | codex-official | gpt-5.3-codex |
+| 21 | `api.ethancode.xyz` | ¥0.4375 | $0.4375 / $3.5 | 1 | Openai官key-98%缓 | gpt-5.3-codex |
+| 22 | `beehears.com` | ¥0.4375 | $0.4375 / $3.5 | 1 | 🆙 GPT - Codex - Pro | gpt-5.3-codex |
+| 23 | `images.beehears.com` | ¥0.4375 | $0.4375 / $3.5 | 1 | 🆙 GPT - Codex - Pro | gpt-5.3-codex |
+| 24 | `sub2api.atomflow.vip` | ¥0.4375 | $0.4375 / $3.5 | 1 | default | gpt-5.3-codex |
+| 25 | `ucenter.beehears.com` | ¥0.4375 | $0.4375 / $3.5 | 1 | 🆙 GPT - Codex - Pro | gpt-5.3-codex |
+| 26 | `kelaiapi.cc` | ¥0.455 | $0.455 / $3.64 | 1 | vip_1_plus | gpt-5.3-codex |
+| 27 | `token.nervers.com` | ¥0.455 | $0.455 / $3.64 | 1 | s3:gpt-pro（外接）下游 | gpt-5.3-codex |
+| 28 | `jbbtoken.cn` | ¥0.5 | $0.5 / $3 | 1 | 专用gpt | gpt-5.3-codex |
+| 29 | `uo.mentoe.com` | ¥0.5 | $0.5 / $4 | 1 | gptpro | gpt-5.3-codex |
+| 30 | `us.uocode.com` | ¥0.5 | $0.5 / $4 | 1 | gptpro | gpt-5.3-codex |
+| 31 | `www.aitoke.top` | ¥0.5 | $0.5 / $4 | 1 | gptpro | gpt-5.3-codex |
+| 32 | `apijing.com` | ¥0.525 | $0.525 / $4.2 | 1 | codex充值渠道 | gpt-5.3-codex |
+| 33 | `new.gateway.icu` | ¥0.525 | $0.525 / $4.2 | 1 | codex | gpt-5.3-codex |
+| 34 | `wyh.apijing.com` | ¥0.525 | $0.525 / $4.2 | 1 | codex充值渠道 | gpt-5.3-codex |
+| 35 | `api.gettoken.cn` | ¥0.526 | $0.526 / $4.208 | 1 | GPT | gpt-5.3-codex |
+| 36 | `api.nbility.ai` | ¥0.56 | $0.56 / $4.48 | 1 | codex | gpt-5.3-codex |
+| 37 | `zhangsan.yun` | ¥0.5625 | $0.5625 / $4.5 | 1 | image-2分组 | gpt-5.3-codex |
+| 38 | `newapi.prorisehub.com` | ¥0.6125 | $0.6125 / $4.9 | 1 | GPT-官-Key-正价 | gpt-5.3-codex |
+| 39 | `www.thinkai.tv` | ¥0.7 | $0.7 / $5.6 | 1 | default | gpt-5.3-codex |
+| 40 | `test-api.apiqik.online` | ¥0.735 | $0.105 / $0.84 | 7 | codex | gpt-5.3-codex |
+| 41 | `ent.yoct.cn` | ¥0.75 | $0.75 / $6 | 1 | Codex Pro | gpt-5.3-codex |
+| 42 | `1.cnmz.de` | ¥0.7875 | $0.7875 / $6.3 | 1 | GPT-官key-正价 | gpt-5.3-codex |
+| 43 | `getezo.com` | ¥0.7875 | $0.7875 / $6.3 | 1 | GPT-官key-正价 | gpt-5.3-codex |
+| 44 | `91token.ai` | ¥0.875 | $0.875 / $7 | 1 | 个人编码任务组 | gpt-5.3-codex |
+| 45 | `api.xingnian.vip` | ¥0.875 | $0.875 / $7 | 1 | default | gpt-5.3-codex |
+| 46 | `bridge.pulseneko.com` | ¥0.875 | $0.875 / $7 | 1 | codex | gpt-5.3-codex |
+| 47 | `cn.liantongapi.com` | ¥0.875 | $0.875 / $7 | 1 | gpt | gpt-5.3-codex |
+| 48 | `n.lconai.com` | ¥0.875 | $0.875 / $7 | 1 | A1 | gpt-5.3-codex |
+| 49 | `test.thinkai.tv` | ¥0.9 | $1.8 / $14.4 | 0.5 | default | gpt-5.3-codex |
+| 50 | `anylink.top` | ¥1 | $1 / $8 | 1 | codex | gpt-5.3-codex |
 
-> 另有 285 站未列出。
+> 另有 302 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -75,49 +75,49 @@
 | 6 | `api.socode.cc` | $0.175 / $1.4 | GPT[Main] | 0.1 | gpt-5.3-codex |
 | 7 | `ai.mggoo.com` | $0.21 / $1.68 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-5.3-codex |
 | 8 | `mgoole.com` | $0.21 / $1.68 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-5.3-codex |
-| 9 | `test-sub2.sjapi.top` | $0.2625 / $2.1 | plus | 0.15 | gpt-5.3-codex |
-| 10 | `api.bingoapi.top` | $0.28 / $2.24 | gpt pro （主推） | 0.16 | gpt-5.3-codex |
-| 11 | `8888.name` | $0.35 / $2.8 | GPT—官key | 0.2 | gpt-5.3-codex |
-| 12 | `new.yunai.link` | $0.35 / $2.8 | AzuerPromo | 0.2 | gpt-5.3-codex |
-| 13 | `saletoken.org` | $0.35 / $2.8 | CODEX-pro | 0.2 | gpt-5.3-codex |
-| 14 | `sub2api.hyl2api.com` | $0.35 / $2.8 | GPT  | 0.2 | gpt-5.3-codex |
-| 15 | `sub2api.simplaj.top` | $0.35 / $2.8 | GPT 纯血Pro 余额分组 | 0.2 | gpt-5.3-codex |
-| 16 | `ai.kunkun.chat` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.3-codex |
-| 17 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.3-codex |
-| 18 | `dev.aiberm.com` | $0.4025 / $3.22 | default | 0.23 | openai/gpt-5.3-codex |
-| 19 | `officesai.top` | $0.4025 / $3.22 | Claude - Codex 代码专线 | 0.23 | gpt-5.3-codex |
-| 20 | `aegisy.cc` | $0.42 / $3.36 | GPT稳定分组 | 0.24 | gpt-5.3-codex |
-| 21 | `api.geniuscoder.net` | $0.4375 / $3.5 | gpt优惠 | 0.25 | gpt-5.3-codex |
-| 22 | `api.999555999.com` | $0.49 / $3.92 | openai官key(强制开启fast模式）支持ultrafast | 0.28 | gpt-5.3-codex |
-| 23 | `api.gohok.top` | $0.525 / $4.2 | gpt-pro订阅 | 0.35 | gpt-5.3-codex |
-| 24 | `api.tameac.com` | $0.6125 / $4.9 | ChatGPT 官key不 降智分组(0.35倍率) | 0.35 | gpt-5.3-codex |
-| 25 | `dmit.yyrouter.cc` | $0.6125 / $4.9 | OpenAI-Pro稳定版 | 0.35 | gpt-5.3-codex |
-| 26 | `www.mttie.com` | $0.6125 / $3.675 | codex文本 | 0.35 | gpt-5.3-codex |
-| 27 | `aichronos.xyz` | $0.7875 / $6.3 | GPT | 0.45 | gpt-5.3-codex |
-| 28 | `supersubscribe689.com` | $0.875 / $7 | chatgpt美区版 | 0.5 | gpt-5.3-codex |
-| 29 | `www.alaiapi.top` | $0.875 / $7 | GLM全能按量组 | 0.5 | gpt-5.3-codex |
-| 30 | `azapi.com.cn` | $1.05 / $8.4 | Azure | 0.6 | gpt-5.3-codex |
-| 31 | `api.77port.com` | $1.225 / $9.8 | OpenAI | 0.7 | gpt-5.3-codex |
-| 32 | `api.hy88.my` | $1.4 / $11.2 | gpt_max | 0.8 | gpt-5.3-codex |
-| 33 | `api.zhiyikeji.cn` | $1.4 / $11.2 | Codex专属 | 0.8 | gpt-5.3-codex |
-| 34 | `ai.comfly.org` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
-| 35 | `api.feifeimiao.top` | $1.75 / $14 | 生图 | 1 | gpt-5.3-codex |
-| 36 | `api.xistree.hk` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
-| 37 | `api.yescale.io` | $1.75 / $14 | normal | 1 | gpt-5.3-codex |
-| 38 | `expapi.echoflowai.cc` | $1.75 / $14 | OpenAI-Pro渠道 | 1 | gpt-5.3-codex |
-| 39 | `hyueapi.com` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
-| 40 | `inferaichat.com` | $1.75 / $14 | auto分组 | 1 | gpt-5.3-codex |
-| 41 | `lobe.zen-ai.top` | $1.75 / $14 | momo | 1 | gpt-5.3-codex |
-| 42 | `newapi.zaiwenai.com` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
-| 43 | `or.mux.la` | $1.75 / $14 | default | 1 | openai/gpt-5.3-codex |
-| 44 | `api.passionapi.com` | $2.625 / $21 | 余额【Pro稳定号池】综合低至 ¥0.24-0.30 / 刀 | 1.5 | gpt-5.3-codex |
-| 45 | `poloapi.top` | $2.625 / $21 | az | 1.5 | gpt-5.3-codex |
-| 46 | `tokenn.site` | $2.625 / $21 | codex | 1.5 | gpt-5.3-codex |
-| 47 | `api.zhimigy.cn` | $2.8 / $22.4 | pro | 1.6 | gpt-5.3-codex |
-| 48 | `codexauv.com` | $3.5 / $28 | GPT-Azure | 2 | gpt-5.3-codex |
-| 49 | `relaybases.com` | $3.5 / $28 | azure-gpt | 2 | gpt-5.3-codex |
-| 50 | `canana.vcnovb.cn` | $4.2 / $33.6 | Az-gpt | 2.4 | gpt-5.3-codex |
+| 9 | `hahacode.com` | $0.25 / $1.5 | gpt-不稳定 | 0.1 | gpt-5.3-codex |
+| 10 | `api.168box.xyz` | $0.259 / $2.072 | codex | 0.148 | gpt-5.3-codex |
+| 11 | `test-sub2.sjapi.top` | $0.2625 / $2.1 | plus | 0.15 | gpt-5.3-codex |
+| 12 | `api.bingoapi.top` | $0.28 / $2.24 | gpt pro （主推） | 0.16 | gpt-5.3-codex |
+| 13 | `8888.name` | $0.35 / $2.8 | GPT—官key | 0.2 | gpt-5.3-codex |
+| 14 | `new.yunai.link` | $0.35 / $2.8 | AzuerPromo | 0.2 | gpt-5.3-codex |
+| 15 | `saletoken.org` | $0.35 / $2.8 | CODEX-pro | 0.2 | gpt-5.3-codex |
+| 16 | `sub2api.hyl2api.com` | $0.35 / $2.8 | GPT  | 0.2 | gpt-5.3-codex |
+| 17 | `sub2api.simplaj.top` | $0.35 / $2.8 | GPT 纯血Pro 余额分组 | 0.2 | gpt-5.3-codex |
+| 18 | `ai.kunkun.chat` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.3-codex |
+| 19 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-5.3-codex |
+| 20 | `dev.aiberm.com` | $0.4025 / $3.22 | default | 0.23 | openai/gpt-5.3-codex |
+| 21 | `officesai.top` | $0.4025 / $3.22 | Claude - Codex 代码专线 | 0.23 | gpt-5.3-codex |
+| 22 | `aegisy.cc` | $0.42 / $3.36 | GPT稳定分组 | 0.24 | gpt-5.3-codex |
+| 23 | `api.geniuscoder.net` | $0.4375 / $3.5 | gpt优惠 | 0.25 | gpt-5.3-codex |
+| 24 | `api.999555999.com` | $0.49 / $3.92 | openai官key(强制开启fast模式）支持ultrafast | 0.28 | gpt-5.3-codex |
+| 25 | `api.gohok.top` | $0.525 / $4.2 | gpt-pro订阅 | 0.35 | gpt-5.3-codex |
+| 26 | `api.tameac.com` | $0.6125 / $4.9 | ChatGPT 官key不 降智分组(0.35倍率) | 0.35 | gpt-5.3-codex |
+| 27 | `dmit.yyrouter.cc` | $0.6125 / $4.9 | OpenAI-Pro稳定版 | 0.35 | gpt-5.3-codex |
+| 28 | `www.mttie.com` | $0.6125 / $3.675 | codex文本 | 0.35 | gpt-5.3-codex |
+| 29 | `aichronos.xyz` | $0.7875 / $6.3 | GPT | 0.45 | gpt-5.3-codex |
+| 30 | `supersubscribe689.com` | $0.875 / $7 | chatgpt美区版 | 0.5 | gpt-5.3-codex |
+| 31 | `www.alaiapi.top` | $0.875 / $7 | GLM全能按量组 | 0.5 | gpt-5.3-codex |
+| 32 | `azapi.com.cn` | $1.05 / $8.4 | Azure | 0.6 | gpt-5.3-codex |
+| 33 | `api.77port.com` | $1.225 / $9.8 | OpenAI | 0.7 | gpt-5.3-codex |
+| 34 | `api.hy88.my` | $1.4 / $11.2 | gpt_max | 0.8 | gpt-5.3-codex |
+| 35 | `api.zhiyikeji.cn` | $1.4 / $11.2 | Codex专属 | 0.8 | gpt-5.3-codex |
+| 36 | `ai.comfly.org` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
+| 37 | `api.feifeimiao.top` | $1.75 / $14 | 生图 | 1 | gpt-5.3-codex |
+| 38 | `api.xistree.hk` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
+| 39 | `api.yescale.io` | $1.75 / $14 | normal | 1 | gpt-5.3-codex |
+| 40 | `expapi.echoflowai.cc` | $1.75 / $14 | OpenAI-Pro渠道 | 1 | gpt-5.3-codex |
+| 41 | `hyueapi.com` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
+| 42 | `inferaichat.com` | $1.75 / $14 | auto分组 | 1 | gpt-5.3-codex |
+| 43 | `lobe.zen-ai.top` | $1.75 / $14 | momo | 1 | gpt-5.3-codex |
+| 44 | `newapi.zaiwenai.com` | $1.75 / $14 | default | 1 | gpt-5.3-codex |
+| 45 | `or.mux.la` | $1.75 / $14 | default | 1 | openai/gpt-5.3-codex |
+| 46 | `api.passionapi.com` | $2.625 / $21 | 余额【Pro稳定号池】综合低至 ¥0.24-0.30 / 刀 | 1.5 | gpt-5.3-codex |
+| 47 | `poloapi.top` | $2.625 / $21 | az | 1.5 | gpt-5.3-codex |
+| 48 | `tokenn.site` | $2.625 / $21 | codex | 1.5 | gpt-5.3-codex |
+| 49 | `api.zhimigy.cn` | $2.8 / $22.4 | pro | 1.6 | gpt-5.3-codex |
+| 50 | `codexauv.com` | $3.5 / $28 | GPT-Azure | 2 | gpt-5.3-codex |
 
-> 另有 13 站未列出。
+> 另有 16 站未列出。
 
-> 157 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 161 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

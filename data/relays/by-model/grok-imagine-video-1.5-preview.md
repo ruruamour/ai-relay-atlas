@@ -1,6 +1,6 @@
 # grok-imagine-video-1.5-preview
 
-> 214 站提供 · 正常价 167 站 · 名义中位价 **$0.06**/次 · 实付中位价 **¥0.075**/次（92 站公开充值价） · 推算，未对账
+> 220 站提供 · 正常价 173 站 · 名义中位价 **$0.06**/次 · 实付中位价 **¥0.06516**/次（98 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,53 +15,53 @@
 | 3 | `api.openlux.ai` | ¥0.02964 | $0.0044118 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
 | 4 | `api.relayrouter.ai` | ¥0.02964 | $0.0044118 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
 | 5 | `openlux.zhongzhuan.chat` | ¥0.02964 | $0.0044118 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 6 | `api.tidewhisper-ai.xyz` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 7 | `gzxbykj.com` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 8 | `yunwu.org` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 9 | `v2.cloudmist.cloud` | ¥0.03408 | $0.00507357 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 10 | `www.vectronode.com` | ¥0.03557 | $0.00529416 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 11 | `apiclaw.cn` | ¥0.03586 | $0.00533828 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 12 | `newapi.xueai.me` | ¥0.03586 | $0.00533828 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 13 | `wodapis.com` | ¥0.03586 | $0.00533828 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 14 | `ciyuan.today` | ¥0.03705 | $0.00551475 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 15 | `gptapi.top` | ¥0.03705 | $0.00551475 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 16 | `makerend.com` | ¥0.03705 | $0.00551475 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 17 | `moliapi.com` | ¥0.03734 | $0.00555887 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 18 | `ai-api.cc` | ¥0.03853 | $0.00573534 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 19 | `nodapi.com` | ¥0.03912 | $0.00582358 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 20 | `anyaigc.ai` | ¥0.04001 | $0.00595593 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 21 | `sheepaiplus.top` | ¥0.04149 | $0.00617652 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 22 | `xiguapi.icu` | ¥0.04149 | $0.00617652 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 23 | `api.88api.chat` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 24 | `api.88api.shop` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 25 | `api.videocaptioner.cn` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 26 | `new.aigc2d.com` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 27 | `oyy-ai.xyz` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 28 | `infai.cc` | ¥0.04683 | $0.00697064 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 29 | `api.nixapi.com` | ¥0.05009 | $0.00745594 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 30 | `aiwuje.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 31 | `api.cursorai.art` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 32 | `api.echoflowai.cc` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 33 | `api.n1n.ai` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 34 | `api.quickrouter.ai` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 35 | `jeniya.cn` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 36 | `linoapi.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 37 | `llm-api.net` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 38 | `quanzil.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 39 | `token173.net` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 40 | `tryallapi.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 41 | `wellapi.ai` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 42 | `jbbtoken.cn` | ¥0.06 | $0.06 | 1 | seedence官key | grok-imagine-video-1.5-preview |
-| 43 | `new.foxi-api.cn` | ¥0.06 | $0.06 | 1 | 优质grok | grok-imagine-video-1.5-preview |
-| 44 | `pay.magic666.top` | ¥0.06 | $0.06 | 1 | default | grok-imagine-video-1.5-preview |
-| 45 | `thousandengine.com` | ¥0.06031 | $0.00897801 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
-| 46 | `magic666.top` | ¥0.07 | $0.07 | 1 | default | grok-imagine-video-1.5-preview |
-| 47 | `api.aiyxgaw.com` | ¥0.08 | $0.0109589 | 7.3 | 批量 | grok-imagine-video-1.5-preview |
-| 48 | `multimodal.aicodeyy.top` | ¥0.08 | $0.08 | 1 | grok | grok-imagine-video-1.5-preview |
-| 49 | `windapi.cc` | ¥0.08 | $0.08 | 1 | grok | grok-imagine-video-1.5-preview |
-| 50 | `aizzz.vip` | ¥0.1 | $0.25 | 0.4 | 视频 | grok-imagine-video-1.5-preview |
+| 6 | `4zapi.com` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 7 | `api.tidewhisper-ai.xyz` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 8 | `gzxbykj.com` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 9 | `yunwu.org` | ¥0.0326 | $0.00485298 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 10 | `api.antmoo.cc` | ¥0.03408 | $0.00507357 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 11 | `v2.cloudmist.cloud` | ¥0.03408 | $0.00507357 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 12 | `www.vectronode.com` | ¥0.03557 | $0.00529416 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 13 | `apiclaw.cn` | ¥0.03586 | $0.00533828 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 14 | `newapi.xueai.me` | ¥0.03586 | $0.00533828 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 15 | `wodapis.com` | ¥0.03586 | $0.00533828 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 16 | `ciyuan.today` | ¥0.03705 | $0.00551475 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 17 | `gptapi.top` | ¥0.03705 | $0.00551475 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 18 | `makerend.com` | ¥0.03705 | $0.00551475 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 19 | `moliapi.com` | ¥0.03734 | $0.00555887 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 20 | `ai-api.cc` | ¥0.03853 | $0.00573534 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 21 | `nodapi.com` | ¥0.03912 | $0.00582358 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 22 | `anyaigc.ai` | ¥0.04001 | $0.00595593 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 23 | `sheepaiplus.top` | ¥0.04149 | $0.00617652 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 24 | `xiguapi.icu` | ¥0.04149 | $0.00617652 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 25 | `api.88api.chat` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 26 | `api.88api.shop` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 27 | `api.videocaptioner.cn` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 28 | `lanbuff.app` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 29 | `new.aigc2d.com` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 30 | `oyy-ai.xyz` | ¥0.04446 | $0.0066177 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 31 | `infai.cc` | ¥0.04683 | $0.00697064 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 32 | `api.nixapi.com` | ¥0.05009 | $0.00745594 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 33 | `aiwuje.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 34 | `api.cursorai.art` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 35 | `api.echoflowai.cc` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 36 | `api.n1n.ai` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 37 | `api.quickrouter.ai` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 38 | `jeniya.cn` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 39 | `linoapi.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 40 | `linoroute.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 41 | `llm-api.net` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 42 | `quanzil.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 43 | `token173.net` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 44 | `tryallapi.com` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 45 | `wellapi.ai` | ¥0.05928 | $0.0088236 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 46 | `jbbtoken.cn` | ¥0.06 | $0.06 | 1 | seedence官key | grok-imagine-video-1.5-preview |
+| 47 | `new.foxi-api.cn` | ¥0.06 | $0.06 | 1 | 优质grok | grok-imagine-video-1.5-preview |
+| 48 | `pay.magic666.top` | ¥0.06 | $0.06 | 1 | default | grok-imagine-video-1.5-preview |
+| 49 | `thousandengine.com` | ¥0.06031 | $0.00897801 | 6.718 | Xai-Grok-1 | grok-imagine-video-1.5-preview |
+| 50 | `magic666.top` | ¥0.07 | $0.07 | 1 | default | grok-imagine-video-1.5-preview |
 
-> 另有 42 站未列出。
+> 另有 48 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

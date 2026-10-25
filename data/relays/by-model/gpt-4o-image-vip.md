@@ -1,6 +1,6 @@
 # gpt-4o-image-vip
 
-> 72 站提供 · 正常价 51 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.16**/次（47 站公开充值价） · 推算，未对账
+> 75 站提供 · 正常价 53 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.16**/次（49 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,31 +32,33 @@
 | 20 | `go.sbgpt.site` | ¥0.14 | $0.14 | 1 | openai逆向 | gpt-4o-image-vip |
 | 21 | `api.ocoolai.com` | ¥0.15 | $0.15 | 1 | default | gpt-4o-image-vip |
 | 22 | `ocool.cn` | ¥0.15 | $0.15 | 1 | default | gpt-4o-image-vip |
-| 23 | `35.aigcbest.top` | ¥0.15 | $0.1 | 1.5 | default | gpt-4o-image-vip |
-| 24 | `nexaxis.ai` | ¥0.16 | $0.16 | 1 | ChatGPT_AZ 5.5专用 | gpt-4o-image-vip |
-| 25 | `botcf.com` | ¥0.18 | $0.18 | 1 | 🏢openai-azure | gpt-4o-image-vip |
-| 26 | `api.hoxkai.top` | ¥0.2 | $0.2 | 1 | openai-az-l | gpt-4o-image-vip |
-| 27 | `gpt777.top` | ¥0.2 | $0.2 | 1 | Azure | gpt-4o-image-vip |
-| 28 | `api.uiuihao.com` | ¥0.2552 | $0.08 | 3.19 | default | gpt-4o-image-vip |
-| 29 | `sg.uiuiapi.com` | ¥0.2552 | $0.08 | 3.19 | default | gpt-4o-image-vip |
-| 30 | `api.ifopen.ai` | ¥0.35 | $0.1 | 3.5 | default | gpt-4o-image-vip |
-| 31 | `api2.aigcbest.top` | ¥0.35 | $0.1 | 3.5 | default | gpt-4o-image-vip |
-| 32 | `test.yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image-vip |
-| 33 | `yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image-vip |
-| 34 | `api1.uiuiapi.com` | ¥0.3707 | $0.11 | 3.37 | default | gpt-4o-image-vip |
-| 35 | `api3.4xapi.cn` | ¥0.48 | $0.48 | 1 | gpt-api-enterprise | gpt-4o-image-vip |
-| 36 | `hightpm.aiearth.dev` | ¥0.5475 | $0.075 | 7.3 | 官方直连-Azure-Claude-Gemini | gpt-4o-image-vip |
-| 37 | `ai2.qiqiai.top` | ¥0.73 | $0.1 | 7.3 | azure高并发 | gpt-4o-image-vip |
-| 38 | `api.bianxie.ai` | ¥0.73 | $0.1 | 7.3 | default | gpt-4o-image-vip |
-| 39 | `api.bianxieai.com` | ¥0.73 | $0.1 | 7.3 | default | gpt-4o-image-vip |
-| 40 | `api.ai-gaochao.cn` | ¥1.095 | $0.15 | 7.3 | Premium | gpt-4o-image-vip |
-| 41 | `apius.shubiaobiao.cn` | ¥1.095 | $0.15 | 7.3 | Premium | gpt-4o-image-vip |
-| 42 | `m78.newapi.botcf.com` | ¥1.285 | $0.176 | 7.3 | 🃏Openai-Azure | gpt-4o-image-vip |
-| 43 | `abc.cykjzz.cn` | ¥1.402 | $0.192 | 7.3 | az-gpt | gpt-4o-image-vip |
-| 44 | `to-relay.com` | ¥1.679 | $0.23 | 7.3 | AZ-GPT | gpt-4o-image-vip |
-| 45 | `api.ysaikeji.cn` | ¥2.628 | $0.36 | 7.3 | Gpt官转(3倍消耗) | gpt-4o-image-vip |
-| 46 | `nbapi.net` | ¥3.65 | $0.5 | 7.3 | default | gpt-4o-image-vip |
-| 47 | `max.openai365.top` | ¥160.6 | $22 | 7.3 | default | gpt-4o-image-vip |
+| 23 | `one.ooo.cool` | ¥0.15 | $0.15 | 1 | default | gpt-4o-image-vip |
+| 24 | `35.aigcbest.top` | ¥0.15 | $0.1 | 1.5 | default | gpt-4o-image-vip |
+| 25 | `nexaxis.ai` | ¥0.16 | $0.16 | 1 | ChatGPT_AZ 5.5专用 | gpt-4o-image-vip |
+| 26 | `botcf.com` | ¥0.18 | $0.18 | 1 | 🏢openai-azure | gpt-4o-image-vip |
+| 27 | `xn--15q04w3tg4kio0a.com` | ¥0.18 | $0.18 | 1 | 🏢openai-azure | gpt-4o-image-vip |
+| 28 | `api.hoxkai.top` | ¥0.2 | $0.2 | 1 | openai-az-l | gpt-4o-image-vip |
+| 29 | `gpt777.top` | ¥0.2 | $0.2 | 1 | Azure | gpt-4o-image-vip |
+| 30 | `api.uiuihao.com` | ¥0.2552 | $0.08 | 3.19 | default | gpt-4o-image-vip |
+| 31 | `sg.uiuiapi.com` | ¥0.2552 | $0.08 | 3.19 | default | gpt-4o-image-vip |
+| 32 | `api.ifopen.ai` | ¥0.35 | $0.1 | 3.5 | default | gpt-4o-image-vip |
+| 33 | `api2.aigcbest.top` | ¥0.35 | $0.1 | 3.5 | default | gpt-4o-image-vip |
+| 34 | `test.yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image-vip |
+| 35 | `yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image-vip |
+| 36 | `api1.uiuiapi.com` | ¥0.3707 | $0.11 | 3.37 | default | gpt-4o-image-vip |
+| 37 | `api3.4xapi.cn` | ¥0.48 | $0.48 | 1 | gpt-api-enterprise | gpt-4o-image-vip |
+| 38 | `hightpm.aiearth.dev` | ¥0.5475 | $0.075 | 7.3 | 官方直连-Azure-Claude-Gemini | gpt-4o-image-vip |
+| 39 | `ai2.qiqiai.top` | ¥0.73 | $0.1 | 7.3 | azure高并发 | gpt-4o-image-vip |
+| 40 | `api.bianxie.ai` | ¥0.73 | $0.1 | 7.3 | default | gpt-4o-image-vip |
+| 41 | `api.bianxieai.com` | ¥0.73 | $0.1 | 7.3 | default | gpt-4o-image-vip |
+| 42 | `api.ai-gaochao.cn` | ¥1.095 | $0.15 | 7.3 | Premium | gpt-4o-image-vip |
+| 43 | `apius.shubiaobiao.cn` | ¥1.095 | $0.15 | 7.3 | Premium | gpt-4o-image-vip |
+| 44 | `m78.newapi.botcf.com` | ¥1.285 | $0.176 | 7.3 | 🃏Openai-Azure | gpt-4o-image-vip |
+| 45 | `abc.cykjzz.cn` | ¥1.402 | $0.192 | 7.3 | az-gpt | gpt-4o-image-vip |
+| 46 | `to-relay.com` | ¥1.679 | $0.23 | 7.3 | AZ-GPT | gpt-4o-image-vip |
+| 47 | `api.ysaikeji.cn` | ¥2.628 | $0.36 | 7.3 | Gpt官转(3倍消耗) | gpt-4o-image-vip |
+| 48 | `nbapi.net` | ¥3.65 | $0.5 | 7.3 | default | gpt-4o-image-vip |
+| 49 | `max.openai365.top` | ¥160.6 | $22 | 7.3 | default | gpt-4o-image-vip |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -67,4 +69,4 @@
 | 3 | `aizex.top` | $0.1 | default | 1 | gpt-4o-image-vip |
 | 4 | `vip.zen-ai.top` | $1.2 | 逆向 | 10 | gpt-4o-image-vip |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

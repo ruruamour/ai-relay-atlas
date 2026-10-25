@@ -1,6 +1,6 @@
 # qwen3-vl-8b-instruct
 
-> 114 站提供 · 正常价 92 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.455**/1M 输入（27 站公开充值价） · 推算，未对账
+> 119 站提供 · 正常价 96 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（31 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,27 +16,31 @@
 | 4 | `api.eido.top` | ¥0.2 | $0.2 / $2 | 1 | default | qwen3-vl-8b-instruct |
 | 5 | `api.zyai.online` | ¥0.25 | $0.25 / $1 | 1 | mini | qwen3-vl-8b-instruct |
 | 6 | `llm.kagu.one` | ¥0.2628 | $0.036 / $0.1435 | 7.3 | 大杂烩 | qwen/qwen3-vl-8b-instruct |
-| 7 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 / $1.2 | 1 | aliyun | qwen3-vl-8b-instruct |
-| 8 | `api.camel-hub.cn` | ¥0.3 | $0.375 / $1.5 | 0.8 | default | qwen3-vl-8b-instruct |
-| 9 | `api.camel-hub.com` | ¥0.3 | $0.375 / $1.5 | 0.8 | default | qwen3-vl-8b-instruct |
-| 10 | `api.kr777.top` | ¥0.3 | $0.375 / $1.5 | 0.8 | default | qwen3-vl-8b-instruct |
-| 11 | `gpt777.top` | ¥0.4 | $0.4 / $1.6 | 1 | opensource | Qwen/Qwen3-VL-8B-Instruct |
-| 12 | `claudecn.ai` | ¥0.45 | $0.45 / $1.8 | 1 | 国产模型 | qwen3-vl-8b-instruct |
-| 13 | `api.ifopen.ai` | ¥0.455 | $0.13 / $0.52 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Instruct |
-| 14 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $0.52 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Instruct |
-| 15 | `keypool.space` | ¥0.5 | $0.5 / $2 | 1 | vip | qwen3-vl-8b-instruct |
-| 16 | `kfcv50.link` | ¥0.5 | $0.5 / $2 | 1 | Domestic | qwen3-vl-8b-instruct |
-| 17 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-vl-8b-instruct |
-| 18 | `xinsuanai.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-vl-8b-instruct |
-| 19 | `www.ggwk1.online` | ¥0.504 | $0.504 / $1.93032 | 1 | 开源模型组 | Qwen/Qwen3-VL-8B-Instruct |
-| 20 | `yibuapi.com` | ¥0.6 | $0.4 / $1.6 | 1.5 | default | qwen3-vl-8b-instruct |
-| 21 | `www.hohoapi.com` | ¥0.78 | $0.26 / $1.04 | 3 | qwen | qwen3-vl-8b-instruct |
-| 22 | `api.qinzhiai.com` | ¥0.875 | $0.875 / $2.625 | 1 | openrouter | qwen/qwen3-vl-8b-instruct |
-| 23 | `ai2.qiqiai.top` | ¥1.051 | $0.144 / $0.9 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-instruct |
-| 24 | `ai.191800.xyz` | ¥1.314 | $0.18 / $0.68 | 7.3 | 魔搭 | Qwen/Qwen3-VL-8B-Instruct |
-| 25 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $0.7 | 7.3 | vip | qwen/qwen3-vl-8b-instruct |
-| 26 | `hy88.my` | ¥2.19 | $0.3 / $1.2 | 7.3 | qwen | qwen3-vl-8b-instruct |
-| 27 | `api.tacklekey.com` | ¥2.808 | $0.384615 / $1.15385 | 7.3 | default | qwen/qwen3-vl-8b-instruct |
+| 7 | `goapi.gptnb.ai` | ¥0.3 | $0.3 / $1.2 | 1 | cn_official | qwen3-vl-8b-instruct |
+| 8 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 / $1.2 | 1 | aliyun | qwen3-vl-8b-instruct |
+| 9 | `api.camel-hub.cn` | ¥0.3 | $0.375 / $1.5 | 0.8 | default | qwen3-vl-8b-instruct |
+| 10 | `api.camel-hub.com` | ¥0.3 | $0.375 / $1.5 | 0.8 | default | qwen3-vl-8b-instruct |
+| 11 | `api.kr777.top` | ¥0.3 | $0.375 / $1.5 | 0.8 | default | qwen3-vl-8b-instruct |
+| 12 | `gpt777.top` | ¥0.4 | $0.4 / $1.6 | 1 | opensource | Qwen/Qwen3-VL-8B-Instruct |
+| 13 | `claudecn.ai` | ¥0.45 | $0.45 / $1.8 | 1 | 国产模型 | qwen3-vl-8b-instruct |
+| 14 | `api.ifopen.ai` | ¥0.455 | $0.13 / $0.52 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Instruct |
+| 15 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $0.52 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Instruct |
+| 16 | `api.aiskt.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-vl-8b-instruct |
+| 17 | `keypool.space` | ¥0.5 | $0.5 / $2 | 1 | vip | qwen3-vl-8b-instruct |
+| 18 | `kfcv50.link` | ¥0.5 | $0.5 / $2 | 1 | Domestic | qwen3-vl-8b-instruct |
+| 19 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-vl-8b-instruct |
+| 20 | `xinsuanai.com` | ¥0.5 | $0.5 / $2 | 1 | default | qwen3-vl-8b-instruct |
+| 21 | `www.ggwk1.online` | ¥0.504 | $0.504 / $1.93032 | 1 | 开源模型组 | Qwen/Qwen3-VL-8B-Instruct |
+| 22 | `yibuapi.com` | ¥0.6 | $0.4 / $1.6 | 1.5 | default | qwen3-vl-8b-instruct |
+| 23 | `ai.mowen.vip` | ¥0.602 | $0.09 / $0.09 | 6.6892 | default | Qwen3-VL-8B-Instruct |
+| 24 | `ai.bytonsec.com` | ¥0.702 | $0.702 / $2.73 | 1 | OpenRouter | qwen/qwen3-vl-8b-instruct |
+| 25 | `www.hohoapi.com` | ¥0.78 | $0.26 / $1.04 | 3 | qwen | qwen3-vl-8b-instruct |
+| 26 | `api.qinzhiai.com` | ¥0.875 | $0.875 / $2.625 | 1 | openrouter | qwen/qwen3-vl-8b-instruct |
+| 27 | `ai2.qiqiai.top` | ¥1.051 | $0.144 / $0.9 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-instruct |
+| 28 | `ai.191800.xyz` | ¥1.314 | $0.18 / $0.68 | 7.3 | 魔搭 | Qwen/Qwen3-VL-8B-Instruct |
+| 29 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $0.7 | 7.3 | vip | qwen/qwen3-vl-8b-instruct |
+| 30 | `hy88.my` | ¥2.19 | $0.3 / $1.2 | 7.3 | qwen | qwen3-vl-8b-instruct |
+| 31 | `api.tacklekey.com` | ¥2.808 | $0.384615 / $1.15385 | 7.3 | default | qwen/qwen3-vl-8b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -95,4 +99,4 @@
 
 > 另有 15 站未列出。
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # claude-fable-5-1
 
-> 1510 站提供 · 正常价 1159 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥15**/1M 输入（880 站公开充值价） · 推算，未对账
+> 1562 站提供 · 正常价 1203 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥15**/1M 输入（916 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -46,22 +46,22 @@
 | 34 | `aceoai.com` | ¥1.35 | $1.35 / $6.75 | 1 | claude专用 | claude-fable-5-1 |
 | 35 | `uo.mentoe.com` | ¥1.4 | $1.4 / $7 | 1 | Claude_AG | claude-fable-5-1 |
 | 36 | `us.uocode.com` | ¥1.4 | $1.4 / $7 | 1 | Claude_AG | claude-fable-5-1 |
-| 37 | `ahhilai.top` | ¥1.5 | $1.5 / $7.5 | 1 | Claude-kiro(90%缓存) | claude-fable-5-1 |
-| 38 | `aimoniker.top` | ¥1.5 | $1.5 / $7.5 | 1 | claude-pro-cheap | claude-fable-5-1 |
-| 39 | `aipaiai.cn` | ¥1.5 | $1.5 / $7.5 | 1 | Claude（Kiro企业渠道） | claude-fable-5-1 |
-| 40 | `api.changsf.top` | ¥1.5 | $1.5 / $7.5 | 1 | claude | claude-fable-5-1 |
-| 41 | `api.flashcode.cc` | ¥1.5 | $1.5 / $7.5 | 1 | Claude Kiro 反代 | claude-fable-5-1 |
-| 42 | `api.routeeasy.ai` | ¥1.5 | $1.5 / $7.5 | 1 | kiro-0.15-0930 | claude-fable-5.1 |
-| 43 | `claudeaihub.cloud` | ¥1.5 | $1.5 / $7.5 | 1 | Cursor | claude-fable-5-1 |
-| 44 | `faojzoo.cn` | ¥1.5 | $3 / $15 | 0.5 | Claude【备用CC-Kiro华强北分组】 | claude-fable-5.1 |
-| 45 | `freegiand.com` | ¥1.5 | $1.5 / $7.5 | 1 | CCKiro | claude-fable-5-1 |
-| 46 | `www.weekly-day.top` | ¥1.5 | $1.5 / $7.5 | 1 | claude超低价 | claude-fable-5-1 |
-| 47 | `fluxa.camila.qzz.io` | ¥1.545 | $1.5 / $7.5 | 1.03 | kiro分组 | claude-fable-5-1 |
-| 48 | `api.aihub8.top` | ¥1.6 | $1.6 / $8 | 1 | 【Claude】性能组_0.16倍率 | claude-fable-5-1 |
-| 49 | `api.arithcore.com` | ¥1.6 | $1.6 / $8 | 1 | claude-kiro超缓95 | claude-fable-5-1 |
-| 50 | `api.aisz.mom` | ¥1.66 | $1.66 / $8.3 | 1 | claude-3 | claude-fable-5-1 |
+| 37 | `www.aitoke.top` | ¥1.4 | $1.4 / $7 | 1 | Claude_AG | claude-fable-5-1 |
+| 38 | `ahhilai.top` | ¥1.5 | $1.5 / $7.5 | 1 | Claude-kiro(90%缓存) | claude-fable-5-1 |
+| 39 | `aimoniker.top` | ¥1.5 | $1.5 / $7.5 | 1 | claude-pro-cheap | claude-fable-5-1 |
+| 40 | `aipaiai.cn` | ¥1.5 | $1.5 / $7.5 | 1 | Claude（Kiro企业渠道） | claude-fable-5-1 |
+| 41 | `api.changsf.top` | ¥1.5 | $1.5 / $7.5 | 1 | claude | claude-fable-5-1 |
+| 42 | `api.flashcode.cc` | ¥1.5 | $1.5 / $7.5 | 1 | Claude Kiro 反代 | claude-fable-5-1 |
+| 43 | `api.routeeasy.ai` | ¥1.5 | $1.5 / $7.5 | 1 | kiro-0.15-0930 | claude-fable-5.1 |
+| 44 | `claudeaihub.cloud` | ¥1.5 | $1.5 / $7.5 | 1 | Cursor | claude-fable-5-1 |
+| 45 | `faojzoo.cn` | ¥1.5 | $3 / $15 | 0.5 | Claude【备用CC-Kiro华强北分组】 | claude-fable-5.1 |
+| 46 | `freegiand.com` | ¥1.5 | $1.5 / $7.5 | 1 | CCKiro | claude-fable-5-1 |
+| 47 | `www.weekly-day.top` | ¥1.5 | $1.5 / $7.5 | 1 | claude超低价 | claude-fable-5-1 |
+| 48 | `fluxa.camila.qzz.io` | ¥1.545 | $1.5 / $7.5 | 1.03 | kiro分组 | claude-fable-5-1 |
+| 49 | `api.aihub8.top` | ¥1.6 | $1.6 / $8 | 1 | 【Claude】性能组_0.16倍率 | claude-fable-5-1 |
+| 50 | `api.arithcore.com` | ¥1.6 | $1.6 / $8 | 1 | claude-kiro超缓95 | claude-fable-5-1 |
 
-> 另有 830 站未列出。
+> 另有 866 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -85,39 +85,39 @@
 | 16 | `api.999555999.com` | $0.8 / $4 | Claude-Kiro(稳定) | 0.08 | claude-fable-5-1 |
 | 17 | `api.socode.cc` | $0.8 / $4 | Claude[Kiro] | 0.08 | claude-fable-5-1 |
 | 18 | `apipaths.com` | $0.8 / $4 | Claude-kiro-高缓 | 0.08 | claude-fable-5-1 |
-| 19 | `halion.asia` | $0.8 / $4 | Claude-kiro-华强北 | 0.08 | claude-fable-5-1 |
-| 20 | `kedaya.ai` | $0.8 / $4 | Kiro | 0.08 | claude-fable-5-1 |
-| 21 | `www.civilian.asia` | $0.8 / $4 | claude-kiro | 0.08 | claude-fable-5-1 |
-| 22 | `xinyue.mom` | $0.8 / $4 | Claude-Kiro | 0.08 | claude-fable-5-1 |
-| 23 | `api.hzapi.vip` | $0.889 / $4.45 | Claude Code低价｜007 | 0.07 | claude-fable-5.1 |
-| 24 | `dmit.yyrouter.cc` | $0.9 / $4.5 | Claude Kiro 95缓 | 0.09 | claude-fable-5-1 |
-| 25 | `new.984275579.xyz` | $0.9 / $4.5 | claude kiro 99缓 | 0.09 | claude-fable-5-1 |
-| 26 | `www.digitalcats.cc` | $0.9 / $4.5 | kiro高缓存 | 0.09 | claude-fable-5-1 |
-| 27 | `ahao.online` | $1 / $5 | Claude-kiro[高井发-高缓存】 | 0.1 | claude-fable-5-1 |
-| 28 | `aigw.store` | $1 / $5 | Claude Kiro | 0.1 | claude-fable-5-1 |
-| 29 | `aixhub.shop` | $1 / $5 | Claude Code | 0.1 | claude-fable-5.1 |
-| 30 | `api.kcne.top` | $1 / $5 | Claude-Kiro | 0.1 | claude-fable-5-1 |
-| 31 | `pureai.ink` | $1 / $5 | B-Kiro-Cache 90+ | 0.1 | claude-fable-5-1 |
-| 32 | `sub.skypoem.top` | $1 / $5 | claude-kiro | 0.1 | claude-fable-5-1 |
-| 33 | `yyds.chybenzun.top` | $1 / $5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-fable-5-1 |
-| 34 | `zhiyuanapis.top` | $1 / $5 | Claude-Kiro | 0.1 | claude-fable-5.1 |
-| 35 | `jd14l2.auto-code.net` | $1.04 / $5.2 | 通用 | 1 | claude-fable-5-1 |
-| 36 | `api.robinsonai.shop` | $1.08 / $5.4 | Claude Pro 订阅 | 0.702 | claude-fable-5-1 |
-| 37 | `kktyh.com` | $1.1 / $5.5 | Kiro Claude | 0.11 | claude-fable-5-1 |
-| 38 | `77api.top` | $1.2 / $6 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-fable-5-1 |
-| 39 | `99ai.club` | $1.2 / $6 | Kiro | 0.12 | claude-fable-5-1 |
-| 40 | `api.relaylink.cloud` | $1.2 / $6 | claude kiro组 | 0.12 | claude-fable-5-1 |
-| 41 | `api.tmiaow.cn` | $1.2 / $6 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-fable-5-1 |
-| 42 | `create.99ai.club` | $1.2 / $6 | Kiro | 0.12 | claude-fable-5-1 |
-| 43 | `yzstudio.vip` | $1.2 / $6 | claude kiro反代 95缓 | 0.12 | claude-fable-5-1 |
-| 44 | `all-api.ccode.dev` | $1.3 / $6.5 | Claude-Lite | 0.13 | claude-fable-5-1 |
-| 45 | `bbapi.ainivox.cn` | $1.3 / $6.5 | Claude-Kiro(高缓存外接用前自测) | 0.13 | claude-fable-5-1 |
-| 46 | `toknex.ai` | $1.3 / $6.5 | claude | 0.13 | claude-fable-5-1 |
-| 47 | `subapi.ishuhang.top` | $1.32 / $6.6 | kiro | 0.132 | claude-fable-5-1 |
-| 48 | `ai.blue1.top` | $1.35 / $6.75 | Kiro（高缓存） | 0.135 | claude-fable-5-1 |
-| 49 | `ai.sofurry.cloud` | $1.4 / $7 | Claude 标准版，kiro号池 | 0.14 | claude-fable-5-1 |
-| 50 | `aus.aivra.lat` | $1.4 / $7 | Kiro | 0.14 | claude-fable-5-1 |
+| 19 | `hahacode.com` | $0.8 / $4 | claude-kiro-有缓 | 0.08 | claude-fable-5-1 |
+| 20 | `halion.asia` | $0.8 / $4 | Claude-kiro-华强北 | 0.08 | claude-fable-5-1 |
+| 21 | `kedaya.ai` | $0.8 / $4 | Kiro | 0.08 | claude-fable-5-1 |
+| 22 | `www.civilian.asia` | $0.8 / $4 | claude-kiro | 0.08 | claude-fable-5-1 |
+| 23 | `xinyue.mom` | $0.8 / $4 | Claude-Kiro | 0.08 | claude-fable-5-1 |
+| 24 | `api.hzapi.vip` | $0.889 / $4.45 | Claude Code低价｜007 | 0.07 | claude-fable-5.1 |
+| 25 | `dmit.yyrouter.cc` | $0.9 / $4.5 | Claude Kiro 95缓 | 0.09 | claude-fable-5-1 |
+| 26 | `new.984275579.xyz` | $0.9 / $4.5 | claude kiro 99缓 | 0.09 | claude-fable-5-1 |
+| 27 | `www.digitalcats.cc` | $0.9 / $4.5 | kiro高缓存 | 0.09 | claude-fable-5-1 |
+| 28 | `ahao.online` | $1 / $5 | Claude-kiro[高井发-高缓存】 | 0.1 | claude-fable-5-1 |
+| 29 | `aigw.store` | $1 / $5 | Claude Kiro | 0.1 | claude-fable-5-1 |
+| 30 | `aixhub.shop` | $1 / $5 | Claude Code | 0.1 | claude-fable-5.1 |
+| 31 | `api.kcne.top` | $1 / $5 | Claude-Kiro | 0.1 | claude-fable-5-1 |
+| 32 | `pureai.ink` | $1 / $5 | B-Kiro-Cache 90+ | 0.1 | claude-fable-5-1 |
+| 33 | `sub.skypoem.top` | $1 / $5 | claude-kiro | 0.1 | claude-fable-5-1 |
+| 34 | `yyds.chybenzun.top` | $1 / $5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-fable-5-1 |
+| 35 | `zhiyuanapis.top` | $1 / $5 | Claude-Kiro | 0.1 | claude-fable-5.1 |
+| 36 | `jd14l2.auto-code.net` | $1.04 / $5.2 | 通用 | 1 | claude-fable-5-1 |
+| 37 | `api.robinsonai.shop` | $1.08 / $5.4 | Claude Pro 订阅 | 0.702 | claude-fable-5-1 |
+| 38 | `kktyh.com` | $1.1 / $5.5 | Kiro Claude | 0.11 | claude-fable-5-1 |
+| 39 | `77api.top` | $1.2 / $6 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-fable-5-1 |
+| 40 | `99ai.club` | $1.2 / $6 | Kiro | 0.12 | claude-fable-5-1 |
+| 41 | `api.relaylink.cloud` | $1.2 / $6 | claude kiro组 | 0.12 | claude-fable-5-1 |
+| 42 | `api.tmiaow.cn` | $1.2 / $6 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-fable-5-1 |
+| 43 | `create.99ai.club` | $1.2 / $6 | Kiro | 0.12 | claude-fable-5-1 |
+| 44 | `yzstudio.vip` | $1.2 / $6 | claude kiro反代 95缓 | 0.12 | claude-fable-5-1 |
+| 45 | `all-api.ccode.dev` | $1.3 / $6.5 | Claude-Lite | 0.13 | claude-fable-5-1 |
+| 46 | `bbapi.ainivox.cn` | $1.3 / $6.5 | Claude-Kiro(高缓存外接用前自测) | 0.13 | claude-fable-5-1 |
+| 47 | `toknex.ai` | $1.3 / $6.5 | claude | 0.13 | claude-fable-5-1 |
+| 48 | `subapi.ishuhang.top` | $1.32 / $6.6 | kiro | 0.132 | claude-fable-5-1 |
+| 49 | `ai.blue1.top` | $1.35 / $6.75 | Kiro（高缓存） | 0.135 | claude-fable-5-1 |
+| 50 | `ai.sofurry.cloud` | $1.4 / $7 | Claude 标准版，kiro号池 | 0.14 | claude-fable-5-1 |
 
-> 另有 229 站未列出。
+> 另有 237 站未列出。
 
-> 351 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 359 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

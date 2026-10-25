@@ -1,6 +1,6 @@
 # gemini-3.7-flash-tiered
 
-> 86 站提供 · 正常价 46 站 · 名义中位价 **$0.24375**/1M 输入 · 实付中位价 **¥0.225**/1M 输入（32 站公开充值价） · 推算，未对账
+> 90 站提供 · 正常价 49 站 · 名义中位价 **$0.225**/1M 输入 · 实付中位价 **¥0.225**/1M 输入（35 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,23 +25,26 @@
 | 13 | `moeapi.cloud` | ¥0.1875 | $0.1875 / $0.9375 | 1 | Gemini自营号池 | gemini-3.7-flash-tiered |
 | 14 | `ai.711ev.com` | ¥0.195 | $0.195 / $0.975 | 1 | 【Gemini】Ultra号池 | gemini-3.7-flash-tiered |
 | 15 | `botcf.com` | ¥0.21 | $0.21 / $1.05 | 1 | 🪐gemini-antigravity | gemini-3.7-flash-tiered |
-| 16 | `bajie-api.com` | ¥0.225 | $0.225 / $1.125 | 1 | gemini | gemini-3.7-flash-tiered |
-| 17 | `deepkey.top` | ¥0.225 | $0.225 / $1.125 | 1 | gemini | gemini-3.7-flash-tiered |
-| 18 | `xxapi.info` | ¥0.225 | $0.225 / $1.125 | 1 | Gemini稳定 | gemini-3.7-flash-tiered |
-| 19 | `api.cloudpass.space` | ¥0.2678 | $0.2625 / $1.3125 | 1.02 | Gemini | gemini-3.7-flash-tiered |
-| 20 | `kitty.cloudpass.space` | ¥0.2678 | $0.2625 / $1.3125 | 1.02 | Gemini | gemini-3.7-flash-tiered |
-| 21 | `new.tianluo.ccwu.cc` | ¥0.285 | $0.285 / $1.425 | 1 | Genmi | gemini-3.7-flash-tiered |
-| 22 | `cheapi.cc` | ¥0.3 | $0.3 / $1.5 | 1 | gemini | gemini-3.7-flash-tiered |
-| 23 | `yilian.space` | ¥0.3 | $0.3 / $1.5 | 1 | Gemini | gemini-3.7-flash-tiered |
-| 24 | `daoxe.com` | ¥0.4635 | $0.45 / $2.25 | 1.03 | Ant-Gemini | gemini-3.7-flash-tiered |
-| 25 | `api.ycapi.xyz` | ¥0.5 | $0.5 / $2.5 | 1 | gemini | gemini-3.7-flash-tiered |
-| 26 | `api.openai-labs.com` | ¥0.525 | $0.525 / $2.625 | 1 | ge07 | gemini-3.7-flash-tiered |
-| 27 | `newapi.prorisehub.com` | ¥0.525 | $0.525 / $2.625 | 1 | Ant-Gemini | gemini-3.7-flash-tiered |
-| 28 | `cc.anyroute.io` | ¥0.75 | $0.75 / $3.75 | 1 | Gemini 企业渠道 | gemini-3.7-flash-tiered |
-| 29 | `api.flymeteor.xyz` | ¥2.737 | $0.375 / $1.875 | 7.3 | 🤖antigravity | gemini-3.7-flash-tiered |
-| 30 | `127api.top` | ¥36.5 | $5 / $40 | 7.3 | Gemini渠道 | gemini-3.7-flash-tiered |
-| 31 | `127key.top` | ¥36.5 | $5 / $40 | 7.3 | Gemini渠道 | gemini-3.7-flash-tiered |
-| 32 | `4k.128api.cn` | ¥36.5 | $5 / $80 | 7.3 | default | gemini-3.7-flash-tiered |
+| 16 | `ai.bytonsec.com` | ¥0.225 | $0.225 / $1.125 | 1 | gemini | gemini-3.7-flash-tiered |
+| 17 | `bajie-api.com` | ¥0.225 | $0.225 / $1.125 | 1 | gemini | gemini-3.7-flash-tiered |
+| 18 | `deepkey.top` | ¥0.225 | $0.225 / $1.125 | 1 | gemini | gemini-3.7-flash-tiered |
+| 19 | `xn--15q04w3tg4kio0a.com` | ¥0.225 | $0.225 / $1.125 | 1 | 🪐gemini-antigravity | gemini-3.7-flash-tiered |
+| 20 | `xxapi.info` | ¥0.225 | $0.225 / $1.125 | 1 | Gemini稳定 | gemini-3.7-flash-tiered |
+| 21 | `api.cloudpass.space` | ¥0.2678 | $0.2625 / $1.3125 | 1.02 | Gemini | gemini-3.7-flash-tiered |
+| 22 | `kitty.cloudpass.space` | ¥0.2678 | $0.2625 / $1.3125 | 1.02 | Gemini | gemini-3.7-flash-tiered |
+| 23 | `new.tianluo.ccwu.cc` | ¥0.285 | $0.285 / $1.425 | 1 | Genmi | gemini-3.7-flash-tiered |
+| 24 | `cheapi.cc` | ¥0.3 | $0.3 / $1.5 | 1 | gemini | gemini-3.7-flash-tiered |
+| 25 | `yilian.space` | ¥0.3 | $0.3 / $1.5 | 1 | Gemini | gemini-3.7-flash-tiered |
+| 26 | `daoxe.com` | ¥0.4635 | $0.45 / $2.25 | 1.03 | Ant-Gemini | gemini-3.7-flash-tiered |
+| 27 | `api.ycapi.xyz` | ¥0.5 | $0.5 / $2.5 | 1 | gemini | gemini-3.7-flash-tiered |
+| 28 | `api.openai-labs.com` | ¥0.525 | $0.525 / $2.625 | 1 | ge07 | gemini-3.7-flash-tiered |
+| 29 | `newapi.prorisehub.com` | ¥0.525 | $0.525 / $2.625 | 1 | Ant-Gemini | gemini-3.7-flash-tiered |
+| 30 | `www.dayueai.fun` | ¥0.6 | $0.6 / $1.5 | 1 | vip | gemini-3.7-flash-tiered |
+| 31 | `cc.anyroute.io` | ¥0.75 | $0.75 / $3.75 | 1 | Gemini 企业渠道 | gemini-3.7-flash-tiered |
+| 32 | `api.flymeteor.xyz` | ¥2.737 | $0.375 / $1.875 | 7.3 | 🤖antigravity | gemini-3.7-flash-tiered |
+| 33 | `127api.top` | ¥36.5 | $5 / $40 | 7.3 | Gemini渠道 | gemini-3.7-flash-tiered |
+| 34 | `127key.top` | ¥36.5 | $5 / $40 | 7.3 | Gemini渠道 | gemini-3.7-flash-tiered |
+| 35 | `4k.128api.cn` | ¥36.5 | $5 / $80 | 7.3 | default | gemini-3.7-flash-tiered |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -62,4 +65,4 @@
 | 13 | `ai.xem8k5.top` | $4.05 / $20.25 | gemini | 18 | gemini-3.7-flash-tiered |
 | 14 | `128api.cn` | $5 / $80 | default | 1 | gemini-3.7-flash-tiered |
 
-> 40 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 41 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

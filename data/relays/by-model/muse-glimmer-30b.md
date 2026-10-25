@@ -1,6 +1,6 @@
 # muse-glimmer-30b
 
-> 33 站提供 · 正常价 10 站 · 名义中位价 **$0.430769**/1M 输入 · 实付中位价 **¥2.595**/1M 输入（8 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 12 站 · 名义中位价 **$0.480769**/1M 输入 · 实付中位价 **¥2.595**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,11 +13,13 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $0.6 | 1 | relay | meta/muse-glimmer-30b |
 | 2 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | meta/muse-glimmer-30b |
 | 3 | `api.pie-xian.com` | ¥0.73 | $0.1 / $0.3 | 7.3 | 无限制 | muse-glimmer-30b |
-| 4 | `newapi.gancmcs.top` | ¥2.19 | $0.3 / $1.1 | 7.3 | 英伟达 | meta/muse-glimmer-30b |
-| 5 | `elysia.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | nvidia/muse-glimmer-30b(fingerprint≈k17) |
-| 6 | `elysiver.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | nvidia/muse-glimmer-30b(fingerprint≈k17) |
-| 7 | `api.tacklekey.com` | ¥3.369 | $0.461538 / $1.84615 | 7.3 | default | meta/muse-glimmer-30b |
-| 8 | `api.wapq.cn` | ¥36.5 | $5 / $5 | 7.3 | default | muse-glimmer-30b |
+| 4 | `ai.bytonsec.com` | ¥1.8 | $1.8 / $6.6 | 1 | OpenRouter | meta/muse-glimmer-30b |
+| 5 | `newapi.gancmcs.top` | ¥2.19 | $0.3 / $1.1 | 7.3 | 英伟达 | meta/muse-glimmer-30b |
+| 6 | `elysia.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | nvidia/muse-glimmer-30b(fingerprint≈k17) |
+| 7 | `elysiver.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | nvidia/muse-glimmer-30b(fingerprint≈k17) |
+| 8 | `ai.mowen.vip` | ¥3.345 | $0.5 / $1 | 6.6892 | default | muse-glimmer-30b |
+| 9 | `api.tacklekey.com` | ¥3.369 | $0.461538 / $1.84615 | 7.3 | default | meta/muse-glimmer-30b |
+| 10 | `api.wapq.cn` | ¥36.5 | $5 / $5 | 7.3 | default | muse-glimmer-30b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

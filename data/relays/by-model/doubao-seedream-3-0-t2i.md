@@ -1,6 +1,6 @@
 # doubao-seedream-3-0-t2i
 
-> 141 站提供 · 正常价 136 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1**/次（69 站公开充值价） · 推算，未对账
+> 146 站提供 · 正常价 141 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.095**/次（74 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,51 +17,51 @@
 | 5 | `api.openlux.ai` | ¥0.05038 | $0.0075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
 | 6 | `api.relayrouter.ai` | ¥0.05038 | $0.0075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
 | 7 | `openlux.zhongzhuan.chat` | ¥0.05038 | $0.0075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 8 | `api.tidewhisper-ai.xyz` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 9 | `gzxbykj.com` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 10 | `yunwu.org` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 11 | `v2.cloudmist.cloud` | ¥0.05794 | $0.008625 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 12 | `www.vectronode.com` | ¥0.06046 | $0.009 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 13 | `apiclaw.cn` | ¥0.06097 | $0.009075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 14 | `newapi.xueai.me` | ¥0.06097 | $0.009075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 15 | `wodapis.com` | ¥0.06097 | $0.009075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 16 | `ciyuan.today` | ¥0.06298 | $0.009375 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 17 | `gptapi.top` | ¥0.06298 | $0.009375 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 18 | `makerend.com` | ¥0.06298 | $0.009375 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 19 | `moliapi.com` | ¥0.06349 | $0.00945 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 20 | `ai-api.cc` | ¥0.0655 | $0.00975 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 21 | `infai.cc` | ¥0.0655 | $0.00975 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 22 | `nodapi.com` | ¥0.06651 | $0.0099 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 23 | `anyaigc.ai` | ¥0.06802 | $0.010125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 24 | `top.qingyuntop.top` | ¥0.07 | $0.07 | 1 | 国内模型 | doubao-seedream-3-0-t2i-250415 |
-| 25 | `sheepaiplus.top` | ¥0.07054 | $0.0105 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 26 | `xiguapi.icu` | ¥0.07054 | $0.0105 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 27 | `api.88api.chat` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 28 | `api.88api.shop` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 29 | `api.videocaptioner.cn` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 30 | `new.aigc2d.com` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 31 | `oyy-ai.xyz` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 32 | `laysoai.com` | ¥0.08288 | $0.082875 | 1 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 33 | `api.nixapi.com` | ¥0.08515 | $0.012675 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 34 | `claudecn.ai` | ¥0.09 | $0.09 | 1 | 国产模型 | doubao-seedream-3-0-t2i-250415 |
-| 35 | `api.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
-| 36 | `api.new.bi` | ¥0.1 | $0.1 | 1 | 企业级高可用大模型 | doubao-seedream-3-0-t2i-250415 |
-| 37 | `apilio.ai` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
-| 38 | `keypool.space` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
-| 39 | `kfcv50.link` | ¥0.1 | $0.1 | 1 | Domestic | doubao-seedream-3-0-t2i-250415 |
-| 40 | `new.foxi-api.cn` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
-| 41 | `test-ssl.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
-| 42 | `xinsuanai.com` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
-| 43 | `aiwuje.com` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 44 | `api.cursorai.art` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 45 | `api.echoflowai.cc` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 46 | `api.n1n.ai` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 47 | `api.quickrouter.ai` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 48 | `jeniya.cn` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 49 | `linoapi.com` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
-| 50 | `llm-api.net` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 8 | `4zapi.com` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 9 | `api.tidewhisper-ai.xyz` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 10 | `gzxbykj.com` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 11 | `yunwu.org` | ¥0.05542 | $0.00825 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 12 | `api.antmoo.cc` | ¥0.05794 | $0.008625 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 13 | `v2.cloudmist.cloud` | ¥0.05794 | $0.008625 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 14 | `www.vectronode.com` | ¥0.06046 | $0.009 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 15 | `apiclaw.cn` | ¥0.06097 | $0.009075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 16 | `newapi.xueai.me` | ¥0.06097 | $0.009075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 17 | `wodapis.com` | ¥0.06097 | $0.009075 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 18 | `ciyuan.today` | ¥0.06298 | $0.009375 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 19 | `gptapi.top` | ¥0.06298 | $0.009375 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 20 | `makerend.com` | ¥0.06298 | $0.009375 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 21 | `moliapi.com` | ¥0.06349 | $0.00945 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 22 | `ai-api.cc` | ¥0.0655 | $0.00975 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 23 | `infai.cc` | ¥0.0655 | $0.00975 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 24 | `nodapi.com` | ¥0.06651 | $0.0099 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 25 | `anyaigc.ai` | ¥0.06802 | $0.010125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 26 | `top.qingyuntop.top` | ¥0.07 | $0.07 | 1 | 国内模型 | doubao-seedream-3-0-t2i-250415 |
+| 27 | `sheepaiplus.top` | ¥0.07054 | $0.0105 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 28 | `xiguapi.icu` | ¥0.07054 | $0.0105 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 29 | `api.88api.chat` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 30 | `api.88api.shop` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 31 | `api.videocaptioner.cn` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 32 | `lanbuff.app` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 33 | `new.aigc2d.com` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 34 | `oyy-ai.xyz` | ¥0.07558 | $0.01125 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 35 | `laysoai.com` | ¥0.08288 | $0.082875 | 1 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 36 | `api.nixapi.com` | ¥0.08515 | $0.012675 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 37 | `claudecn.ai` | ¥0.09 | $0.09 | 1 | 国产模型 | doubao-seedream-3-0-t2i-250415 |
+| 38 | `api.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
+| 39 | `api.new.bi` | ¥0.1 | $0.1 | 1 | 企业级高可用大模型 | doubao-seedream-3-0-t2i-250415 |
+| 40 | `apilio.ai` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
+| 41 | `keypool.space` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
+| 42 | `kfcv50.link` | ¥0.1 | $0.1 | 1 | Domestic | doubao-seedream-3-0-t2i-250415 |
+| 43 | `new.foxi-api.cn` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
+| 44 | `test-ssl.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
+| 45 | `xinsuanai.com` | ¥0.1 | $0.1 | 1 | default | doubao-seedream-3-0-t2i-250415 |
+| 46 | `aiwuje.com` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 47 | `api.cursorai.art` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 48 | `api.echoflowai.cc` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 49 | `api.n1n.ai` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
+| 50 | `api.quickrouter.ai` | ¥0.1008 | $0.015 | 6.718 | Doubao-1 | doubao-seedream-3-0-t2i-250415 |
 
-> 另有 19 站未列出。
+> 另有 24 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

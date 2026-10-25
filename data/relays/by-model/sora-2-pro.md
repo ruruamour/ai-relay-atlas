@@ -1,6 +1,6 @@
 # sora-2-pro
 
-> 67 站提供 · 正常价 47 站 · 名义中位价 **$1.2**/次 · 实付中位价 **¥1.9**/次（42 站公开充值价） · 推算，未对账
+> 69 站提供 · 正常价 48 站 · 名义中位价 **$1.2**/次 · 实付中位价 **¥2**/次（43 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -49,9 +49,10 @@
 | 37 | `to-relay.com` | ¥8.395 | $1.15 | 7.3 | AZ-GPT | sora-2-pro |
 | 38 | `test.yibuapi.com` | ¥10.35 | $6.9 | 1.5 | default | sora-2-pro |
 | 39 | `gptnb.ai` | ¥15.3 | $15.3 | 1 | official | sora-2-pro |
-| 40 | `oneapi.gptnb.ai` | ¥20.7 | $20.7 | 1 | official | sora-2-pro |
-| 41 | `nbapi.net` | ¥26.28 | $3.6 | 7.3 | default | sora-2-pro-all |
-| 42 | `api.zyai.online` | ¥37.5 | $37.5 | 1 | guan | sora-2-pro |
+| 40 | `goapi.gptnb.ai` | ¥20.7 | $20.7 | 1 | official | sora-2-pro |
+| 41 | `oneapi.gptnb.ai` | ¥20.7 | $20.7 | 1 | official | sora-2-pro |
+| 42 | `nbapi.net` | ¥26.28 | $3.6 | 7.3 | default | sora-2-pro-all |
+| 43 | `api.zyai.online` | ¥37.5 | $37.5 | 1 | guan | sora-2-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -63,4 +64,4 @@
 | 4 | `ai.juguang.chat` | $16.5 | default | 4 | sora-2-pro |
 | 5 | `www.redbox.ink` | $16.5 | default | 4 | sora-2-pro |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

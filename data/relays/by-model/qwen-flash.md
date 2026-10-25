@@ -1,6 +1,6 @@
 # qwen-flash
 
-> 178 站提供 · 正常价 155 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.2519**/1M 输入（87 站公开充值价） · 推算，未对账
+> 190 站提供 · 正常价 165 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.2519**/1M 输入（97 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,49 +19,49 @@
 | 7 | `api.lingyaai.cn` | ¥0.1185 | $0.1185 / $1.185 | 1 | 国产普惠·源力计划 | qwen-flash |
 | 8 | `beeroute.ai` | ¥0.1185 | $0.1185 / $1.185 | 1 | CN-Model-Special​ | qwen-flash |
 | 9 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.1185 | $0.1185 / $1.185 | 1 | CN-Model-Special​ | qwen-flash |
-| 10 | `aws.baby` | ¥0.15 | $0.15 / $1.5 | 1 | 阿里云百炼大客户 | qwen-flash |
-| 11 | `biezou.com` | ¥0.15 | $0.15 / $1.5 | 1 | 阿里云百炼大客户 | qwen-flash |
-| 12 | `coneverse.com` | ¥0.15 | $0.15 / $1.5 | 1 | qwen-official | qwen-flash |
-| 13 | `infistar.ai` | ¥0.15 | $0.15 / $1.5 | 1 | qwen-official | qwen-flash |
-| 14 | `keypool.space` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen-flash |
-| 15 | `mb.dmxapi.cn` | ¥0.15 | $0.03 / $0.3 | 5 | default | qwen-flash |
-| 16 | `new.foxi-api.cn` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen-flash |
-| 17 | `onetoken.one` | ¥0.15 | $0.15 / $1.5 | 1 | 官方原生通道 | qwen-flash |
-| 18 | `xinsuanai.com` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen-flash |
-| 19 | `unorouter.net` | ¥0.1606 | $0.022 / $0.22 | 7.3 | default | qwen-flash |
-| 20 | `api.openlux.ai` | ¥0.168 | $0.025 / $0.2 | 6.718 | Alibaba-1 | qwen-flash |
-| 21 | `api.relayrouter.ai` | ¥0.168 | $0.025 / $0.2 | 6.718 | Alibaba-1 | qwen-flash |
-| 22 | `openlux.zhongzhuan.chat` | ¥0.168 | $0.025 / $0.2 | 6.718 | Alibaba-1 | qwen-flash |
-| 23 | `api.tidewhisper-ai.xyz` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
-| 24 | `gzxbykj.com` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
-| 25 | `yunwu.org` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
-| 26 | `v2.cloudmist.cloud` | ¥0.1931 | $0.02875 / $0.23 | 6.718 | Alibaba-1 | qwen-flash |
-| 27 | `www.vectronode.com` | ¥0.2015 | $0.03 / $0.24 | 6.718 | Alibaba-1 | qwen-flash |
-| 28 | `apiclaw.cn` | ¥0.2032 | $0.03025 / $0.242 | 6.718 | Alibaba-1 | qwen-flash |
-| 29 | `newapi.xueai.me` | ¥0.2032 | $0.03025 / $0.242 | 6.718 | Alibaba-1 | qwen-flash |
-| 30 | `wodapis.com` | ¥0.2032 | $0.03025 / $0.242 | 6.718 | Alibaba-1 | qwen-flash |
-| 31 | `ciyuan.today` | ¥0.2099 | $0.03125 / $0.25 | 6.718 | Alibaba-1 | qwen-flash |
-| 32 | `gptapi.top` | ¥0.2099 | $0.03125 / $0.25 | 6.718 | Alibaba-1 | qwen-flash |
-| 33 | `makerend.com` | ¥0.2099 | $0.03125 / $0.25 | 6.718 | Alibaba-1 | qwen-flash |
-| 34 | `moliapi.com` | ¥0.2116 | $0.0315 / $0.252 | 6.718 | Alibaba-1 | qwen-flash |
-| 35 | `ai-api.cc` | ¥0.2183 | $0.0325 / $0.26 | 6.718 | Alibaba-1 | qwen-flash |
-| 36 | `nodapi.com` | ¥0.2217 | $0.033 / $0.264 | 6.718 | Alibaba-1 | qwen-flash |
-| 37 | `anyaigc.ai` | ¥0.2267 | $0.03375 / $0.27 | 6.718 | Alibaba-1 | qwen-flash |
-| 38 | `sheepaiplus.top` | ¥0.2351 | $0.035 / $0.28 | 6.718 | Alibaba-1 | qwen-flash |
-| 39 | `xiguapi.icu` | ¥0.2351 | $0.035 / $0.28 | 6.718 | Alibaba-1 | qwen-flash |
-| 40 | `linksapi.cn` | ¥0.2452 | $0.30651 / $3.0651 | 0.8 | 阿里云国产大模型（Qwen） | qwen-flash |
-| 41 | `api.88api.chat` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
-| 42 | `api.88api.shop` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
-| 43 | `api.videocaptioner.cn` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
-| 44 | `infai.cc` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
-| 45 | `new.aigc2d.com` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
-| 46 | `oyy-ai.xyz` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
-| 47 | `api.nixapi.com` | ¥0.2838 | $0.04225 / $0.338 | 6.718 | Alibaba-1 | qwen-flash |
-| 48 | `ssvip.dmxapi.com` | ¥0.3066 | $0.042 / $0.42 | 7.3 | default | qwen-flash |
-| 49 | `aiwuje.com` | ¥0.3359 | $0.05 / $0.4 | 6.718 | Alibaba-1 | qwen-flash |
-| 50 | `api.cursorai.art` | ¥0.3359 | $0.05 / $0.4 | 6.718 | Alibaba-1 | qwen-flash |
+| 10 | `tokensmind.ai` | ¥0.146 | $0.02 / $0.2 | 7.3 | default | qwen-flash |
+| 11 | `aws.baby` | ¥0.15 | $0.15 / $1.5 | 1 | 阿里云百炼大客户 | qwen-flash |
+| 12 | `biezou.com` | ¥0.15 | $0.15 / $1.5 | 1 | 阿里云百炼大客户 | qwen-flash |
+| 13 | `coneverse.com` | ¥0.15 | $0.15 / $1.5 | 1 | qwen-official | qwen-flash |
+| 14 | `infistar.ai` | ¥0.15 | $0.15 / $1.5 | 1 | qwen-official | qwen-flash |
+| 15 | `keypool.space` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen-flash |
+| 16 | `mb.dmxapi.cn` | ¥0.15 | $0.03 / $0.3 | 5 | default | qwen-flash |
+| 17 | `new.foxi-api.cn` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen-flash |
+| 18 | `onetoken.one` | ¥0.15 | $0.15 / $1.5 | 1 | 官方原生通道 | qwen-flash |
+| 19 | `xinsuanai.com` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen-flash |
+| 20 | `www.tokenage.ai` | ¥0.1572 | $0.0215296 / $0.215299 | 7.3 | vip | qwen-flash |
+| 21 | `unorouter.net` | ¥0.1606 | $0.022 / $0.22 | 7.3 | default | qwen-flash |
+| 22 | `api.openlux.ai` | ¥0.168 | $0.025 / $0.2 | 6.718 | Alibaba-1 | qwen-flash |
+| 23 | `api.relayrouter.ai` | ¥0.168 | $0.025 / $0.2 | 6.718 | Alibaba-1 | qwen-flash |
+| 24 | `openlux.zhongzhuan.chat` | ¥0.168 | $0.025 / $0.2 | 6.718 | Alibaba-1 | qwen-flash |
+| 25 | `4zapi.com` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
+| 26 | `api.tidewhisper-ai.xyz` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
+| 27 | `gzxbykj.com` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
+| 28 | `yunwu.org` | ¥0.1847 | $0.0275 / $0.22 | 6.718 | Alibaba-1 | qwen-flash |
+| 29 | `api.antmoo.cc` | ¥0.1931 | $0.02875 / $0.23 | 6.718 | Alibaba-1 | qwen-flash |
+| 30 | `v2.cloudmist.cloud` | ¥0.1931 | $0.02875 / $0.23 | 6.718 | Alibaba-1 | qwen-flash |
+| 31 | `www.vectronode.com` | ¥0.2015 | $0.03 / $0.24 | 6.718 | Alibaba-1 | qwen-flash |
+| 32 | `apiclaw.cn` | ¥0.2032 | $0.03025 / $0.242 | 6.718 | Alibaba-1 | qwen-flash |
+| 33 | `newapi.xueai.me` | ¥0.2032 | $0.03025 / $0.242 | 6.718 | Alibaba-1 | qwen-flash |
+| 34 | `wodapis.com` | ¥0.2032 | $0.03025 / $0.242 | 6.718 | Alibaba-1 | qwen-flash |
+| 35 | `ciyuan.today` | ¥0.2099 | $0.03125 / $0.25 | 6.718 | Alibaba-1 | qwen-flash |
+| 36 | `gptapi.top` | ¥0.2099 | $0.03125 / $0.25 | 6.718 | Alibaba-1 | qwen-flash |
+| 37 | `makerend.com` | ¥0.2099 | $0.03125 / $0.25 | 6.718 | Alibaba-1 | qwen-flash |
+| 38 | `moliapi.com` | ¥0.2116 | $0.0315 / $0.252 | 6.718 | Alibaba-1 | qwen-flash |
+| 39 | `ai-api.cc` | ¥0.2183 | $0.0325 / $0.26 | 6.718 | Alibaba-1 | qwen-flash |
+| 40 | `nodapi.com` | ¥0.2217 | $0.033 / $0.264 | 6.718 | Alibaba-1 | qwen-flash |
+| 41 | `anyaigc.ai` | ¥0.2267 | $0.03375 / $0.27 | 6.718 | Alibaba-1 | qwen-flash |
+| 42 | `sheepaiplus.top` | ¥0.2351 | $0.035 / $0.28 | 6.718 | Alibaba-1 | qwen-flash |
+| 43 | `xiguapi.icu` | ¥0.2351 | $0.035 / $0.28 | 6.718 | Alibaba-1 | qwen-flash |
+| 44 | `linksapi.cn` | ¥0.2452 | $0.30651 / $3.0651 | 0.8 | 阿里云国产大模型（Qwen） | qwen-flash |
+| 45 | `api.88api.chat` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
+| 46 | `api.88api.shop` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
+| 47 | `api.videocaptioner.cn` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
+| 48 | `infai.cc` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
+| 49 | `lanbuff.app` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
+| 50 | `new.aigc2d.com` | ¥0.2519 | $0.0375 / $0.3 | 6.718 | Alibaba-1 | qwen-flash |
 
-> 另有 37 站未列出。
+> 另有 47 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 18 站未列出。
 
-> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

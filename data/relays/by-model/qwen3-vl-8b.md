@@ -1,6 +1,6 @@
 # qwen3-vl-8b
 
-> 104 站提供 · 正常价 82 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.455**/1M 输入（17 站公开充值价） · 推算，未对账
+> 106 站提供 · 正常价 84 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,9 +24,11 @@
 | 12 | `xinsuanai.com` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
 | 13 | `www.ggwk1.online` | ¥0.504 | $0.504 / $5.85144 | 1 | 开源模型组 | Qwen/Qwen3-VL-8B-Thinking |
 | 14 | `yibuapi.com` | ¥0.6 | $0.4 / $4 | 1.5 | claude-code | qwen3-vl-8b-thinking |
-| 15 | `www.hohoapi.com` | ¥0.78 | $0.26 / $2.6 | 3 | qwen | qwen3-vl-8b-thinking |
-| 16 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $2.1 | 7.3 | vip | qwen/qwen3-vl-8b-thinking |
-| 17 | `ai2.qiqiai.top` | ¥1.537 | $0.2106 / $2.457 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-thinking |
+| 15 | `ai.mowen.vip` | ¥0.602 | $0.09 / $0.09 | 6.6892 | default | Qwen3-VL-8B-Thinking |
+| 16 | `www.hohoapi.com` | ¥0.78 | $0.26 / $2.6 | 3 | qwen | qwen3-vl-8b-thinking |
+| 17 | `ai.bytonsec.com` | ¥1.08 | $1.08 / $12.6 | 1 | OpenRouter | qwen/qwen3-vl-8b-thinking |
+| 18 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $2.1 | 7.3 | vip | qwen/qwen3-vl-8b-thinking |
+| 19 | `ai2.qiqiai.top` | ¥1.537 | $0.2106 / $2.457 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

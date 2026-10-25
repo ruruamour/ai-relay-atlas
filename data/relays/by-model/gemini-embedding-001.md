@@ -1,6 +1,6 @@
 # gemini-embedding-001
 
-> 252 站提供 · 正常价 222 站 · 名义中位价 **$0.2475**/1M 输入 · 实付中位价 **¥0.4535**/1M 输入（149 站公开充值价） · 推算，未对账
+> 260 站提供 · 正常价 229 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.4535**/1M 输入（156 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -30,38 +30,38 @@
 | 18 | `kfcv50.link` | ¥0.15 | $0.15 / $0.6 | 1 | Gemini_vip | gemini-embedding-001 |
 | 19 | `www.micuapi.ai` | ¥0.15 | $0.15 / $0.6 | 1 | - | gemini-embedding-001 |
 | 20 | `xinsuanai.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-embedding-001 |
-| 21 | `cf-api.o1key.com` | ¥0.1524 | $0.15 / - | 1.016 | - | gemini-embedding-001 |
-| 22 | `gpt777.top` | ¥0.225 | $0.225 / $0.225 | 1 | Gemini-VIP | gemini-embedding-001 |
-| 23 | `api.qiqiai.top` | ¥0.24 | $0.12 / $0 | 2 | default | gemini-embedding-001 |
-| 24 | `linkapi.ai` | ¥0.24 | $0.24 / $0 | 1 | gemini | gemini-embedding-001 |
-| 25 | `www.xpivot.top` | ¥0.24 | $0.24 / $0 | 1 | Gemini | gemini-embedding-001 |
-| 26 | `api.hoxkai.top` | ¥0.255 | $0.255 / $1.02 | 1 | gemini | gemini-embedding-001 |
-| 27 | `api.openlux.ai` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-embedding-001 |
-| 28 | `api.routeeasy.ai` | ¥0.27 | $0.27 / $1.08 | 1 | gemini_studio_18 | gemini-embedding-001 |
-| 29 | `autorouter.net` | ¥0.27 | $0.27 / $0 | 1 | Gemini官转 | gemini-embedding-001 |
-| 30 | `api.xiaoyaoxx.cn` | ¥0.285 | $0.285 / $0 | 1 | vt  geminni | gemini-embedding-001 |
-| 31 | `api.yourapi.cn` | ¥0.285 | $0.285 / $0 | 1 | 企业池-gemini-官key | gemini-embedding-001 |
-| 32 | `chat.cloudapi.vip` | ¥0.3 | $0.15 / $0.6 | 2 | vip | gemini-embedding-001 |
-| 33 | `zen-ai.top` | ¥0.3 | $0.3 / $0.3 | 1 | 优质gemini | gemini-embedding-001 |
-| 34 | `api.relayrouter.ai` | ¥0.3023 | $0.045 / $0.18 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 35 | `openlux.zhongzhuan.chat` | ¥0.3023 | $0.045 / $0.18 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 36 | `api.cloudpass.space` | ¥0.306 | $0.3 / $0 | 1.02 | gemini官转 | gemini-embedding-001 |
-| 37 | `wodapis.com` | ¥0.3228 | $0.0480449 / $0.192179 | 6.718 | Aistudio-Gemini-2 | gemini-embedding-001 |
-| 38 | `api.tidewhisper-ai.xyz` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 39 | `gzxbykj.com` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 40 | `yunwu.org` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 41 | `v2.cloudmist.cloud` | ¥0.3477 | $0.05175 / $0.207 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 42 | `test-api.apiqik.online` | ¥0.357 | $0.051 / $0.204 | 7 | vertex/sp/gemini | gemini-embedding-001 |
-| 43 | `api.new.bi` | ¥0.36 | $0.36 / $1.44 | 1 | 优质gemini | gemini-embedding-001 |
-| 44 | `hk.chenmoai.cn` | ¥0.36 | $0.36 / $0.36 | 1 | default | gemini-embedding-001 |
-| 45 | `www.vectronode.com` | ¥0.3628 | $0.054 / $0.216 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 46 | `api.pie-xian.com` | ¥0.365 | $0.05 / $0.2 | 7.3 | model | gemini-embedding-001 |
-| 47 | `apiclaw.cn` | ¥0.3658 | $0.05445 / $0.2178 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 48 | `newapi.xueai.me` | ¥0.3658 | $0.05445 / $0.2178 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
-| 49 | `api.novaris.com.cn` | ¥0.375 | $0.375 / $1.5 | 1 | Gemini 官转 | gemini-embedding-001 |
-| 50 | `kelaiapi.cc` | ¥0.375 | $0.375 / $1.5 | 1 | Gemini | gemini-embedding-001 |
+| 21 | `xn--15q04w3tg4kio0a.com` | ¥0.15 | $0.15 / $0.6 | 1 | 🧬embedding | gemini-embedding-001 |
+| 22 | `cf-api.o1key.com` | ¥0.1524 | $0.15 / - | 1.016 | - | gemini-embedding-001 |
+| 23 | `gpt777.top` | ¥0.225 | $0.225 / $0.225 | 1 | Gemini-VIP | gemini-embedding-001 |
+| 24 | `api.qiqiai.top` | ¥0.24 | $0.12 / $0 | 2 | default | gemini-embedding-001 |
+| 25 | `linkapi.ai` | ¥0.24 | $0.24 / $0 | 1 | gemini | gemini-embedding-001 |
+| 26 | `www.xpivot.top` | ¥0.24 | $0.24 / $0 | 1 | Gemini | gemini-embedding-001 |
+| 27 | `api.hoxkai.top` | ¥0.255 | $0.255 / $1.02 | 1 | gemini | gemini-embedding-001 |
+| 28 | `api.openlux.ai` | ¥0.2667 | $0.0397065 / $0.158826 | 6.718 | Aistudio-Gemini-2 | gemini-embedding-001 |
+| 29 | `api.routeeasy.ai` | ¥0.27 | $0.27 / $1.08 | 1 | gemini_studio_18 | gemini-embedding-001 |
+| 30 | `autorouter.net` | ¥0.27 | $0.27 / $0 | 1 | Gemini官转 | gemini-embedding-001 |
+| 31 | `api.xiaoyaoxx.cn` | ¥0.285 | $0.285 / $0 | 1 | vt  geminni | gemini-embedding-001 |
+| 32 | `api.yourapi.cn` | ¥0.285 | $0.285 / $0 | 1 | 企业池-gemini-官key | gemini-embedding-001 |
+| 33 | `4zapi.com` | ¥0.2934 | $0.0436772 / $0.174709 | 6.718 | Aistudio-Gemini-2 | gemini-embedding-001 |
+| 34 | `chat.cloudapi.vip` | ¥0.3 | $0.15 / $0.6 | 2 | vip | gemini-embedding-001 |
+| 35 | `zen-ai.top` | ¥0.3 | $0.3 / $0.3 | 1 | 优质gemini | gemini-embedding-001 |
+| 36 | `api.relayrouter.ai` | ¥0.3023 | $0.045 / $0.18 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 37 | `openlux.zhongzhuan.chat` | ¥0.3023 | $0.045 / $0.18 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 38 | `api.cloudpass.space` | ¥0.306 | $0.3 / $0 | 1.02 | gemini官转 | gemini-embedding-001 |
+| 39 | `api.antmoo.cc` | ¥0.3068 | $0.0456625 / $0.18265 | 6.718 | Aistudio-Gemini-2 | gemini-embedding-001 |
+| 40 | `wodapis.com` | ¥0.3228 | $0.0480449 / $0.192179 | 6.718 | Aistudio-Gemini-2 | gemini-embedding-001 |
+| 41 | `api.tidewhisper-ai.xyz` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 42 | `gzxbykj.com` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 43 | `yunwu.org` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 44 | `v2.cloudmist.cloud` | ¥0.3477 | $0.05175 / $0.207 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 45 | `test-api.apiqik.online` | ¥0.357 | $0.051 / $0.204 | 7 | vertex/sp/gemini | gemini-embedding-001 |
+| 46 | `api.new.bi` | ¥0.36 | $0.36 / $1.44 | 1 | 优质gemini | gemini-embedding-001 |
+| 47 | `hk.chenmoai.cn` | ¥0.36 | $0.36 / $0.36 | 1 | default | gemini-embedding-001 |
+| 48 | `www.vectronode.com` | ¥0.3628 | $0.054 / $0.216 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
+| 49 | `api.pie-xian.com` | ¥0.365 | $0.05 / $0.2 | 7.3 | model | gemini-embedding-001 |
+| 50 | `apiclaw.cn` | ¥0.3658 | $0.05445 / $0.2178 | 6.718 | Vertex-Gemini-2 | gemini-embedding-001 |
 
-> 另有 99 站未列出。
+> 另有 106 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 23 站未列出。
 
-> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

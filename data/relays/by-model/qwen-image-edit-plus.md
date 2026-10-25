@@ -1,6 +1,6 @@
 # qwen-image-edit-plus
 
-> 40 站提供 · 正常价 20 站 · 名义中位价 **$0.076**/次 · 实付中位价 **¥0.182**/次（17 站公开充值价） · 推算，未对账
+> 44 站提供 · 正常价 22 站 · 名义中位价 **$0.076**/次 · 实付中位价 **¥0.2**/次（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,13 +20,15 @@
 | 8 | `api.ifopen.ai` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | qwen-image-edit-plus |
 | 9 | `api2.aigcbest.top` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | qwen-image-edit-plus |
 | 10 | `ai.hwdrama.com` | ¥0.2 | $0.2 | 1 | default | qwen-image-edit-plus |
-| 11 | `kfcv50.link` | ¥0.2 | $0.2 | 1 | Domestic | qwen-image-edit-plus |
-| 12 | `onetoken.one` | ¥0.2 | $0.2 | 1 | 官方原生通道 | qwen-image-edit-plus |
-| 13 | `unorouter.net` | ¥0.2086 | $0.0285714 | 7.3 | default | qwen-image-edit-plus |
-| 14 | `tokenflux.ai` | ¥0.21 | $0.03 | 7 | default | image/qwen/qwen-image-edit-plus |
-| 15 | `api.bianxie.ai` | ¥0.219 | $0.03 | 7.3 | default | qwen-image-edit-plus |
-| 16 | `api.bianxieai.com` | ¥0.219 | $0.03 | 7.3 | default | qwen-image-edit-plus |
-| 17 | `hy88.my` | ¥0.876 | $0.12 | 7.3 | qwen | qwen-image-edit-plus |
+| 11 | `api.xi-ai.cn` | ¥0.2 | $0.2 | 1 | 国产模型 | qwen-image-edit-plus |
+| 12 | `kfcv50.link` | ¥0.2 | $0.2 | 1 | Domestic | qwen-image-edit-plus |
+| 13 | `onetoken.one` | ¥0.2 | $0.2 | 1 | 官方原生通道 | qwen-image-edit-plus |
+| 14 | `unorouter.net` | ¥0.2086 | $0.0285714 | 7.3 | default | qwen-image-edit-plus |
+| 15 | `tokenflux.ai` | ¥0.21 | $0.03 | 7 | default | image/qwen/qwen-image-edit-plus |
+| 16 | `tokensmind.ai` | ¥0.2117 | $0.029 | 7.3 | default | qwen-image-edit-plus |
+| 17 | `api.bianxie.ai` | ¥0.219 | $0.03 | 7.3 | default | qwen-image-edit-plus |
+| 18 | `api.bianxieai.com` | ¥0.219 | $0.03 | 7.3 | default | qwen-image-edit-plus |
+| 19 | `hy88.my` | ¥0.876 | $0.12 | 7.3 | qwen | qwen-image-edit-plus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -36,4 +38,4 @@
 | 2 | `www.juapi.net` | $4.99975 | Qwen | 175 | qwen-image-edit-plus-2025-10-30 |
 | 3 | `www.tokenrouter.tech` | $4.99975 | Qwen | 175 | qwen-image-edit-plus-2025-10-30 |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

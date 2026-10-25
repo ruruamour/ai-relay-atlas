@@ -1,6 +1,6 @@
 # claude-sonnet-4-5
 
-> 1230 站提供 · 正常价 1011 站 · 名义中位价 **$2.4**/1M 输入 · 实付中位价 **¥3.3**/1M 输入（727 站公开充值价） · 推算，未对账
+> 1266 站提供 · 正常价 1037 站 · 名义中位价 **$2.4**/1M 输入 · 实付中位价 **¥3.3**/1M 输入（748 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -57,11 +57,11 @@
 | 45 | `business.newcli.com` | ¥0.36 | $0.36 / $1.8 | 1 | svip | claude-sonnet-4-5-20250929 |
 | 46 | `code.tachira.cn` | ¥0.36 | $0.36 / $1.8 | 1 | ClaudeCode-Kiro | claude-sonnet-4-5-20250929 |
 | 47 | `getezo.com` | ¥0.36 | $0.36 / $1.8 | 1 | 企业级kiro高缓 | claude-sonnet-4-5-20250929 |
-| 48 | `openoneapi.com` | ¥0.36 | $0.36 / $1.8 | 1 | kiro-99缓 | claude-sonnet-4-5 |
-| 49 | `suanlitaikong.com` | ¥0.36 | $0.36 / $1.8 | 1 | claude-额度计费 | claude-sonnet-4-5-20250929 |
-| 50 | `tsohbcwjd6in7jpw.eihhu.com` | ¥0.36 | $0.36 / $1.8 | 1 | kiro | claude-sonnet-4-5 |
+| 48 | `kapibala.asia` | ¥0.36 | $1.2 / $6 | 0.3 | kiro | claude-sonnet-4-5 |
+| 49 | `openoneapi.com` | ¥0.36 | $0.36 / $1.8 | 1 | kiro-99缓 | claude-sonnet-4-5 |
+| 50 | `suanlitaikong.com` | ¥0.36 | $0.36 / $1.8 | 1 | claude-额度计费 | claude-sonnet-4-5-20250929 |
 
-> 另有 677 站未列出。
+> 另有 698 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `api.boluomiapi.cc` | $0.45 / $2.25 | C01-Kiro高缓 | 0.15 | claude-sonnet-4-5-20250929 |
 | 50 | `api.dreamaitoken.cloud` | $0.45 / $2.25 | Kiro超高缓存 | 0.15 | claude-sonnet-4-5 |
 
-> 另有 234 站未列出。
+> 另有 239 站未列出。
 
-> 219 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 229 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

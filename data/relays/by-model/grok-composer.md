@@ -1,6 +1,6 @@
 # grok-composer
 
-> 34 站提供 · 正常价 20 站 · 名义中位价 **$1.575**/1M 输入 · 实付中位价 **¥1.65**/1M 输入（15 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 21 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥1.65**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -30,10 +30,11 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `sub.hotapi.top` | $0.14 / $0.28 | grok heavy | 0.14 | grok-composer |
-| 2 | `create.99ai.club` | $0.15 / $0.3 | Grok Heavy | 0.15 | grok-composer |
-| 3 | `ovo1.vip` | $0.25 / $0.5 | Grok Heavy+ | 0.25 | grok-composer |
-| 4 | `big-model.smart-agi.com` | $1.5 / $3 | Gork 年费账户【短期-稳定】 | 1.5 | grok-composer |
-| 5 | `api.luoqianyi.qzz.io` | $3 / $3 | default | 1 | grok-composer |
+| 1 | `api.168box.xyz` | $0.12 / $0.24 | grok | 0.12 | grok-composer |
+| 2 | `sub.hotapi.top` | $0.14 / $0.28 | grok heavy | 0.14 | grok-composer |
+| 3 | `create.99ai.club` | $0.15 / $0.3 | Grok Heavy | 0.15 | grok-composer |
+| 4 | `ovo1.vip` | $0.25 / $0.5 | Grok Heavy+ | 0.25 | grok-composer |
+| 5 | `big-model.smart-agi.com` | $1.5 / $3 | Gork 年费账户【短期-稳定】 | 1.5 | grok-composer |
+| 6 | `api.luoqianyi.qzz.io` | $3 / $3 | default | 1 | grok-composer |
 
 > 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

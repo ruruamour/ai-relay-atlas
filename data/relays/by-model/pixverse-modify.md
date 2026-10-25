@@ -1,6 +1,6 @@
 # pixverse-modify
 
-> 108 站提供 · 正常价 107 站 · 名义中位价 **$0.014**/次 · 实付中位价 **¥0.01038**/次（43 站公开充值价） · 推算，未对账
+> 112 站提供 · 正常价 111 站 · 名义中位价 **$0.014**/次 · 实付中位价 **¥0.01038**/次（47 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,46 +13,50 @@
 | 1 | `api.openlux.ai` | ¥0.006918 | $0.0010297 | 6.718 | Pix-CN-1 | pixverse-modify |
 | 2 | `api.relayrouter.ai` | ¥0.006918 | $0.0010297 | 6.718 | Pix-CN-1 | pixverse-modify |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.006918 | $0.0010297 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 5 | `gzxbykj.com` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 6 | `yunwu.org` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 7 | `v2.cloudmist.cloud` | ¥0.007955 | $0.00118415 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 8 | `www.vectronode.com` | ¥0.008301 | $0.00123564 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 9 | `apiclaw.cn` | ¥0.00837 | $0.00124594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 10 | `newapi.xueai.me` | ¥0.00837 | $0.00124594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 11 | `wodapis.com` | ¥0.00837 | $0.00124594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 12 | `ciyuan.today` | ¥0.008647 | $0.00128713 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 13 | `gptapi.top` | ¥0.008647 | $0.00128713 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 14 | `makerend.com` | ¥0.008647 | $0.00128713 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 15 | `moliapi.com` | ¥0.008716 | $0.00129742 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 16 | `ai-api.cc` | ¥0.008993 | $0.00133861 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 17 | `infai.cc` | ¥0.008993 | $0.00133861 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 18 | `nodapi.com` | ¥0.009131 | $0.0013592 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 19 | `anyaigc.ai` | ¥0.009339 | $0.0013901 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 20 | `sheepaiplus.top` | ¥0.009685 | $0.00144158 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 21 | `xiguapi.icu` | ¥0.009685 | $0.00144158 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 22 | `api.88api.chat` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 23 | `api.88api.shop` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 24 | `api.videocaptioner.cn` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 25 | `new.aigc2d.com` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 26 | `oyy-ai.xyz` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 27 | `api.nixapi.com` | ¥0.01169 | $0.00174019 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 28 | `aiwuje.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 29 | `api.cursorai.art` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 30 | `api.echoflowai.cc` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 31 | `api.n1n.ai` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 32 | `api.quickrouter.ai` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 33 | `jeniya.cn` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 34 | `linoapi.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 35 | `llm-api.net` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 36 | `quanzil.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 37 | `token173.net` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 38 | `tryallapi.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 39 | `wellapi.ai` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 40 | `new.foxi-api.cn` | ¥0.014 | $0.014 | 1 | default | pixverse-modify |
-| 41 | `thousandengine.com` | ¥0.01408 | $0.00209544 | 6.718 | Pix-CN-1 | pixverse-modify |
-| 42 | `plusx.nyxos.shop` | ¥0.07517 | $0.010297 | 7.3 | Pix-GL-1 | pixverse-modify |
-| 43 | `api.camel-hub.com` | ¥1.2 | $1.5 | 0.8 | default | pixverse-modify |
+| 4 | `4zapi.com` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 6 | `gzxbykj.com` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 7 | `yunwu.org` | ¥0.007609 | $0.00113267 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 8 | `api.antmoo.cc` | ¥0.007955 | $0.00118415 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 9 | `v2.cloudmist.cloud` | ¥0.007955 | $0.00118415 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 10 | `www.vectronode.com` | ¥0.008301 | $0.00123564 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 11 | `apiclaw.cn` | ¥0.00837 | $0.00124594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 12 | `newapi.xueai.me` | ¥0.00837 | $0.00124594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 13 | `wodapis.com` | ¥0.00837 | $0.00124594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 14 | `ciyuan.today` | ¥0.008647 | $0.00128713 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 15 | `gptapi.top` | ¥0.008647 | $0.00128713 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 16 | `makerend.com` | ¥0.008647 | $0.00128713 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 17 | `moliapi.com` | ¥0.008716 | $0.00129742 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 18 | `ai-api.cc` | ¥0.008993 | $0.00133861 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 19 | `infai.cc` | ¥0.008993 | $0.00133861 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 20 | `nodapi.com` | ¥0.009131 | $0.0013592 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 21 | `anyaigc.ai` | ¥0.009339 | $0.0013901 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 22 | `sheepaiplus.top` | ¥0.009685 | $0.00144158 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 23 | `xiguapi.icu` | ¥0.009685 | $0.00144158 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 24 | `api.88api.chat` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 25 | `api.88api.shop` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 26 | `api.videocaptioner.cn` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 27 | `lanbuff.app` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 28 | `new.aigc2d.com` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 29 | `oyy-ai.xyz` | ¥0.01038 | $0.00154455 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 30 | `api.nixapi.com` | ¥0.01169 | $0.00174019 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 31 | `aiwuje.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 32 | `api.cursorai.art` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 33 | `api.echoflowai.cc` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 34 | `api.n1n.ai` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 35 | `api.quickrouter.ai` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 36 | `jeniya.cn` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 37 | `linoapi.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 38 | `linoroute.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 39 | `llm-api.net` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 40 | `quanzil.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 41 | `token173.net` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 42 | `tryallapi.com` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 43 | `wellapi.ai` | ¥0.01384 | $0.0020594 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 44 | `new.foxi-api.cn` | ¥0.014 | $0.014 | 1 | default | pixverse-modify |
+| 45 | `thousandengine.com` | ¥0.01408 | $0.00209544 | 6.718 | Pix-CN-1 | pixverse-modify |
+| 46 | `plusx.nyxos.shop` | ¥0.07517 | $0.010297 | 7.3 | Pix-GL-1 | pixverse-modify |
+| 47 | `api.camel-hub.com` | ¥1.2 | $1.5 | 0.8 | default | pixverse-modify |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # gemini-embedding-2
 
-> 56 站提供 · 正常价 36 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.69**/1M 输入（32 站公开充值价） · 推算，未对账
+> 59 站提供 · 正常价 39 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.68**/1M 输入（35 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,25 +23,28 @@
 | 11 | `api.xiaoyaoxx.cn` | ¥0.38 | $0.38 / $1.52 | 1 | vt  geminni | gemini-embedding-2 |
 | 12 | `api.yourapi.cn` | ¥0.38 | $0.38 / $1.52 | 1 | 企业池-gemini-官key | gemini-embedding-2 |
 | 13 | `botcf.com` | ¥0.396 | $0.396 / $1.584 | 1 | 📐gemini-vertex | gemini-embedding-2 |
-| 14 | `easymax.ai` | ¥0.6 | $0.6 / $2.4 | 1 | gemini | gemini-embedding-2 |
-| 15 | `hk-api.shqbb.com` | ¥0.6 | $0.6 / $2.4 | 1 | gemini | gemini-embedding-2 |
-| 16 | `modelsell.com` | ¥0.68 | $0.1 / $0.4 | 6.8 | Google AI Studio | gemini-embedding-2 |
-| 17 | `api.ifopen.ai` | ¥0.7 | $0.2 / $0.8 | 3.5 | default | gemini-embedding-2 |
-| 18 | `api2.aigcbest.top` | ¥0.7 | $0.2 / $0.8 | 3.5 | default | gemini-embedding-2 |
-| 19 | `api.bita-api.com` | ¥0.7008 | $0.096 / $0.384 | 7.3 | gemini-蒸馏 | gemini-embedding-2 |
-| 20 | `bita-api-production.up.railway.app` | ¥0.7008 | $0.096 / $0.384 | 7.3 | gemini-蒸馏 | gemini-embedding-2 |
-| 21 | `hk.chenmoai.cn` | ¥0.72 | $0.72 / $2.88 | 1 | default | gemini-embedding-2 |
-| 22 | `www.kittyrouter.com` | ¥1 | $1 / $4 | 1 | Gemini-Official | gemini-embedding-2 |
-| 23 | `api.4xapi.com` | ¥1.022 | $0.14 / $0.56 | 7.3 | gemini-官转 | gemini-embedding-2 |
-| 24 | `getgoapi.com` | ¥1.152 | $0.16 / $0 | 7.2 | default | gemini-embedding-2 |
-| 25 | `api.apipro.ai` | ¥1.4 | $0.2 / $0.8 | 7 | banana | gemini-embedding-2 |
-| 26 | `api.apiyi.com` | ¥1.4 | $0.2 / $0.2 | 7 | default | gemini-embedding-2 |
-| 27 | `llmhub.net` | ¥1.6 | $0.2 / $0 | 8 | default | gemini-embedding-2 |
-| 28 | `www.amutes.com` | ¥2.19 | $0.3 / $1.2 | 7.3 | gemini-flash | gemini-embedding-2 |
-| 29 | `cdn.sta1n.cn` | ¥2.4 | $2.4 / $0 | 1 | default | gemini-embedding-2 |
-| 30 | `api2.4xapi.com` | ¥3.65 | $0.5 / $2 | 7.3 | Gemini-vertex | gemini-embedding-2 |
-| 31 | `ai.hebox.net` | ¥49.27 | $6.75 / $6.75 | 7.3 | 官转 | gemini-embedding-2 |
-| 32 | `api.humanwill.xyz` | ¥75.92 | $10.4 / $41.6 | 7.3 | Gemini | gemini-embedding-2 |
+| 14 | `xn--15q04w3tg4kio0a.com` | ¥0.396 | $0.396 / $1.584 | 1 | 📐gemini-vertex | gemini-embedding-2 |
+| 15 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.298989 | 6.6892 | default | gemini-embedding-2 |
+| 16 | `easymax.ai` | ¥0.6 | $0.6 / $2.4 | 1 | gemini | gemini-embedding-2 |
+| 17 | `hk-api.shqbb.com` | ¥0.6 | $0.6 / $2.4 | 1 | gemini | gemini-embedding-2 |
+| 18 | `modelsell.com` | ¥0.68 | $0.1 / $0.4 | 6.8 | Google AI Studio | gemini-embedding-2 |
+| 19 | `api.ifopen.ai` | ¥0.7 | $0.2 / $0.8 | 3.5 | default | gemini-embedding-2 |
+| 20 | `api2.aigcbest.top` | ¥0.7 | $0.2 / $0.8 | 3.5 | default | gemini-embedding-2 |
+| 21 | `api.bita-api.com` | ¥0.7008 | $0.096 / $0.384 | 7.3 | gemini-蒸馏 | gemini-embedding-2 |
+| 22 | `bita-api-production.up.railway.app` | ¥0.7008 | $0.096 / $0.384 | 7.3 | gemini-蒸馏 | gemini-embedding-2 |
+| 23 | `hk.chenmoai.cn` | ¥0.72 | $0.72 / $2.88 | 1 | default | gemini-embedding-2 |
+| 24 | `www.kittyrouter.com` | ¥1 | $1 / $4 | 1 | Gemini-Official | gemini-embedding-2 |
+| 25 | `api.4xapi.com` | ¥1.022 | $0.14 / $0.56 | 7.3 | gemini-官转 | gemini-embedding-2 |
+| 26 | `getgoapi.com` | ¥1.152 | $0.16 / $0 | 7.2 | default | gemini-embedding-2 |
+| 27 | `ai.bytonsec.com` | ¥1.2 | $1.2 / $0 | 1 | VERCEL | vercel/google/gemini-embedding-2 |
+| 28 | `api.apipro.ai` | ¥1.4 | $0.2 / $0.8 | 7 | banana | gemini-embedding-2 |
+| 29 | `api.apiyi.com` | ¥1.4 | $0.2 / $0.2 | 7 | default | gemini-embedding-2 |
+| 30 | `llmhub.net` | ¥1.6 | $0.2 / $0 | 8 | default | gemini-embedding-2 |
+| 31 | `www.amutes.com` | ¥2.19 | $0.3 / $1.2 | 7.3 | gemini-flash | gemini-embedding-2 |
+| 32 | `cdn.sta1n.cn` | ¥2.4 | $2.4 / $0 | 1 | default | gemini-embedding-2 |
+| 33 | `api2.4xapi.com` | ¥3.65 | $0.5 / $2 | 7.3 | Gemini-vertex | gemini-embedding-2 |
+| 34 | `ai.hebox.net` | ¥49.27 | $6.75 / $6.75 | 7.3 | 官转 | gemini-embedding-2 |
+| 35 | `api.humanwill.xyz` | ¥75.92 | $10.4 / $41.6 | 7.3 | Gemini | gemini-embedding-2 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

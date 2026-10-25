@@ -1,6 +1,6 @@
 # deepseek-v4-flash-vision-exp
 
-> 358 站提供 · 正常价 224 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.05**/1M 输入（141 站公开充值价） · 推算，未对账
+> 370 站提供 · 正常价 233 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.05**/1M 输入（146 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -39,29 +39,29 @@
 | 27 | `buzzai.cc` | ¥0.45 | $0.45 / $1.35 | 1 | DeepSeek | deepseek-v4-flash-vision-exp |
 | 28 | `claude.buzz7.top` | ¥0.45 | $0.45 / $1.35 | 1 | DeepSeek | deepseek-v4-flash-vision-exp |
 | 29 | `newapi.akiyo.fun` | ¥0.45 | $0.45 / $1.35 | 1 | 浅夜-DS-官key | deepseek-v4-flash-vision-exp |
-| 30 | `api.shuaiapi.com` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | deepseek-v4-flash-vision-exp |
-| 31 | `api.wanapis.com` | ¥0.5 | $0.5 / $6 | 1 | default | deepseek-v4-flash-vision-exp |
-| 32 | `beehears.com` | ¥0.5 | $0.5 / $2 | 1 | 🇨🇳 Made in China | deepseek-v4-flash-vision-exp |
-| 33 | `cdn.hlool.top` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | deepseek-v4-flash-vision-exp |
-| 34 | `images.beehears.com` | ¥0.5 | $0.5 / $2 | 1 | 🇨🇳 Made in China | deepseek-v4-flash-vision-exp |
-| 35 | `oai.sb` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | deepseek-v4-flash-vision-exp |
-| 36 | `ucenter.beehears.com` | ¥0.5 | $0.5 / $2 | 1 | 🇨🇳 Made in China | deepseek-v4-flash-vision-exp |
-| 37 | `www.fastapi.ltd` | ¥0.5 | $0.5 / $1.2 | 1 | 2-国产混合 | DeepSeek-V4-Flash-Vision-Exp |
-| 38 | `daoxe.com` | ¥0.515 | $0.5 / $1 | 1.03 | 海外国产模型 | deepseek-v4-flash-vision-exp |
-| 39 | `aircola.top` | ¥0.5184 | $0.5184 / $2.0736 | 1 | A国模分组 | deepseek-v4-flash-vision-exp |
-| 40 | `api.llmgw.xyz` | ¥0.525 | $0.525 / $1.575 | 1 | 自部署国模 | deepseek-v4-flash-vision-exp |
-| 41 | `tokenus.net` | ¥0.5466 | $0.0805 / $0.2765 | 6.79 | default | deepseek-v4-flash-vision-exp |
-| 42 | `moliapi.cloud` | ¥0.5718 | $0.571824 / $1.60113 | 1 | 国产model-deepseek | deepseek-v4-flash-vision-exp |
-| 43 | `tokeness.io` | ¥0.588 | $0.084 / $0.168 | 7 | default | deepseek-v4-flash-vision-exp |
-| 44 | `api.renice.cc` | ¥0.6 | $0.6 / $1.8 | 1 | openllm | deepseek-v4-flash-vision-exp |
-| 45 | `api.yunhe.one` | ¥0.6 | $0.6 / $1.2 | 1 | 自部署国产模型 | deepseek-v4-flash-vision-exp |
-| 46 | `dahlo.live` | ¥0.6 | $0.6 / $1.8 | 1 | DeepSeek | deepseek-v4-flash-vision-exp |
-| 47 | `www.onetopai.com` | ¥0.6 | $0.6 / $0.6 | 1 | 国模分组 | deepseek-v4-flash-vision-exp |
-| 48 | `api.kbq.de5.net` | ¥0.6937 | $0.69375 / $2.08125 | 1 | default | [外审]deepseek-v4-flash-vision-exp |
-| 49 | `hk.xn--0xv303ar5c.com` | ¥0.6937 | $0.69375 / $2.08125 | 1 | default | [外审]deepseek-v4-flash-vision-exp |
-| 50 | `xn--vduyey89e.com` | ¥0.6937 | $0.69375 / $2.08125 | 1 | default | [外审]deepseek-v4-flash-vision-exp |
+| 30 | `ai.mowen.vip` | ¥0.4682 | $0.07 / $0.14 | 6.6892 | default | DeepSeek-V4-Flash-Vision-Exp |
+| 31 | `api.shuaiapi.com` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | deepseek-v4-flash-vision-exp |
+| 32 | `api.wanapis.com` | ¥0.5 | $0.5 / $6 | 1 | default | deepseek-v4-flash-vision-exp |
+| 33 | `beehears.com` | ¥0.5 | $0.5 / $2 | 1 | 🇨🇳 Made in China | deepseek-v4-flash-vision-exp |
+| 34 | `cdn.hlool.top` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | deepseek-v4-flash-vision-exp |
+| 35 | `images.beehears.com` | ¥0.5 | $0.5 / $2 | 1 | 🇨🇳 Made in China | deepseek-v4-flash-vision-exp |
+| 36 | `oai.sb` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | deepseek-v4-flash-vision-exp |
+| 37 | `ucenter.beehears.com` | ¥0.5 | $0.5 / $2 | 1 | 🇨🇳 Made in China | deepseek-v4-flash-vision-exp |
+| 38 | `www.fastapi.ltd` | ¥0.5 | $0.5 / $1.2 | 1 | 2-国产混合 | DeepSeek-V4-Flash-Vision-Exp |
+| 39 | `daoxe.com` | ¥0.515 | $0.5 / $1 | 1.03 | 海外国产模型 | deepseek-v4-flash-vision-exp |
+| 40 | `aircola.top` | ¥0.5184 | $0.5184 / $2.0736 | 1 | A国模分组 | deepseek-v4-flash-vision-exp |
+| 41 | `api.llmgw.xyz` | ¥0.525 | $0.525 / $1.575 | 1 | 自部署国模 | deepseek-v4-flash-vision-exp |
+| 42 | `tokenus.net` | ¥0.5466 | $0.0805 / $0.2765 | 6.79 | default | deepseek-v4-flash-vision-exp |
+| 43 | `moliapi.cloud` | ¥0.5718 | $0.571824 / $1.60113 | 1 | 国产model-deepseek | deepseek-v4-flash-vision-exp |
+| 44 | `tokeness.io` | ¥0.588 | $0.084 / $0.168 | 7 | default | deepseek-v4-flash-vision-exp |
+| 45 | `api.renice.cc` | ¥0.6 | $0.6 / $1.8 | 1 | openllm | deepseek-v4-flash-vision-exp |
+| 46 | `api.yunhe.one` | ¥0.6 | $0.6 / $1.2 | 1 | 自部署国产模型 | deepseek-v4-flash-vision-exp |
+| 47 | `dahlo.live` | ¥0.6 | $0.6 / $1.8 | 1 | DeepSeek | deepseek-v4-flash-vision-exp |
+| 48 | `www.onetopai.com` | ¥0.6 | $0.6 / $0.6 | 1 | 国模分组 | deepseek-v4-flash-vision-exp |
+| 49 | `api-models.com` | ¥0.66 | $0.66 / $1.98 | 1 | DeepSeek | deepseek-v4-flash-vision-exp |
+| 50 | `api.kbq.de5.net` | ¥0.6937 | $0.69375 / $2.08125 | 1 | default | [外审]deepseek-v4-flash-vision-exp |
 
-> 另有 91 站未列出。
+> 另有 96 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -76,48 +76,48 @@
 | 7 | `www.largechestnut.com` | $0.1 / $0.4 | DeepSeek | 0.1 | deepseek-v4-flash-vision-exp |
 | 8 | `api.xyapi.club` | $0.11 / $0.33 | Chinese AI Model 0.5X | 0.5 | deepseek-v4-flash-vision-exp |
 | 9 | `newapi.relayport17.asia` | $0.11 / $0.33 | 国产模型 | 0.5 | deepseek-v4-flash-vision-exp |
-| 10 | `luckyapi.online` | $0.12 / $0.48 | LuckyAPI | 0.8 | deepseek-v4-flash-vision-exp |
-| 11 | `kukuai.ai` | $0.137081 / $0.548321 | 线路4 | 1 | deepseek-v4-flash-vision-exp |
-| 12 | `88.scxai.top` | $0.15 / $0.6 | 创世の鑫元 | 0.15 | deepseek-v4-flash-vision-exp |
-| 13 | `api.clawhud.com` | $0.15 / $0.6 | DeepSeek | 1 | deepseek-v4-flash-vision-exp |
-| 14 | `api.l4dder.dpdns.org` | $0.15 / $0.6 | deepseek-官key-0.15x | 0.15 | deepseek-v4-flash-vision-exp |
-| 15 | `api.xshulab.com` | $0.15 / $0.6 | DeepSeek | 1 | deepseek-v4-flash-vision-exp |
-| 16 | `abinapi.com` | $0.16 / $0.64 | 国模系列 | 0.08 | DeepSeek-V4-Flash-Vision-Exp |
-| 17 | `api.999555999.com` | $0.165 / $0.495 | Deepseek | 0.055 | deepseek-v4-flash-vision-exp |
-| 18 | `tokenkey.vip` | $0.168 / $0.49 | 【国模大全分组】 | 1 | deepseek-v4-flash-vision-exp |
-| 19 | `api.nornless.com` | $0.17 / $0.68 | 国产模型 按量 | 1 | deepseek-v4-flash-vision-exp |
-| 20 | `sub2api.xybbz.xyz` | $0.18 / $0.54 | Kimi-k3 | 0.06 | deepseek-v4-flash-vision-exp |
-| 21 | `sub.geiliapi.com` | $0.1875 / $0.5625 | 国模 Flex | 0.25 | deepseek-v4-flash-vision-exp |
-| 22 | `api.hyhawang.com` | $0.2 / $0.8 | 国模低价 | 0.2 | deepseek-v4-flash-vision-exp |
-| 23 | `api.relaylink.cloud` | $0.2 / $0.8 | 国模分组 | 0.2 | deepseek-v4-flash-vision-exp |
-| 24 | `heilovehei.com` | $0.2 / $0.8 | DeepSeek | 0.1 | deepseek-v4-flash-vision-exp |
-| 25 | `rapidapi.cc` | $0.2 / $0.8 | 科学家大雄 | 0.1 | deepseek-v4-flash-vision-exp |
-| 26 | `tokai.cc` | $0.2 / $0.8 | 国模 | 0.2 | deepseek-v4-flash-vision-exp |
-| 27 | `pro.fan142.top` | $0.22 / $0.66 | coding api | 1 | deepseek/deepseek-v4-flash-vision-exp |
-| 28 | `superxihe.com` | $0.225 / $0.675 | deepseek | 0.075 | deepseek-v4-flash-vision-exp |
-| 29 | `api.tcvps.cn` | $0.24 / $0.72 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | deepseek-v4-flash-vision-exp |
-| 30 | `api.wopally.cn` | $0.25 / $1 | Claude-DS｜0.25x | 0.25 | deepseek-v4-flash-vision-exp |
-| 31 | `ltgpt.xyz` | $0.27 / $0.81 | 国模分组A 0.18 | 0.18 | deepseek-v4-flash-vision-exp |
-| 32 | `chat-api4.087654.xyz` | $0.28 / $0.56 | default | 2 | deepseek-v4-flash-vision-exp |
-| 33 | `ahao.online` | $0.3 / $0.9 | DeepSeek-全系列 | 0.1 | deepseek-v4-flash-vision-exp |
-| 34 | `ai.blue1.top` | $0.3 / $0.9 | 国模（定价看右上角模型广场 ） | 0.1 | deepseek-v4-flash-vision-exp |
-| 35 | `ai.kdysite.cloud` | $0.3 / $0.9 | 国产经济区 | 0.1 | deepseek-v4-flash-vision-exp |
-| 36 | `aiapibank.com` | $0.3 / $1.2 | DeepSeek分组 | 0.3 | deepseek-v4-flash-vision-exp |
-| 37 | `api.opkaa.com` | $0.3 / $1.2 | DeepSeek | 0.3 | DeepSeek-V4-Flash-Vision-Exp |
-| 38 | `apipaths.com` | $0.3 / $0.9 | deepseek | 0.2 | deepseek-v4-flash-vision-exp |
-| 39 | `kedaya.ai` | $0.3 / $1.2 | DeepSeek | 0.15 | deepseek-v4-flash-vision-exp |
-| 40 | `nexapi.store` | $0.3 / $0.9 | deepseek | 0.2 | deepseek-v4-flash-vision-exp |
-| 41 | `wanfaai.com` | $0.3 / $1.2 | ds 4.1 | 0.3 | deepseek-v4-flash-vision-exp |
-| 42 | `www.yydsapi.uno` | $0.3 / $0.9 | DeepSeek | 0.1 | deepseek-v4-flash-vision-exp |
-| 43 | `api.kcne.top` | $0.308 / $0.924 | 国模组 | 1.4 | deepseek-v4-flash-vision-exp |
-| 44 | `weilai.chat` | $0.32 / $1.28 | DeepSeek | 0.16 | deepseek-v4-flash-vision-exp |
-| 45 | `okmcode.com` | $0.336 / $0.98 | 国模cc兼容 | 0.2 | deepseek-v4-flash-vision-exp |
-| 46 | `api.schyler.top` | $0.35 / $1.4 | DeepSeek | 0.35 | deepseek-v4-flash-vision-exp |
-| 47 | `sub.skypoem.top` | $0.375 / $1.125 | Muse | 0.25 | deepseek-v4-flash-vision-exp |
-| 48 | `api.binzzz.xyz` | $0.4 / $1.6 | 国模蒸馏专用分组【支持高并发】 | 0.2 | deepseek-v4-flash-vision-exp |
-| 49 | `api.tokenfree.chat` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4-flash-vision-exp |
-| 50 | `nmzz.wonderful.edu.kg` | $0.4 / $1.6 | 国模官key | 0.4 | deepseek-v4-flash-vision-exp |
+| 10 | `flashcoding.ai` | $0.12 / $0.48 | 国产低价-均价0.1x | 1 | deepseek-v4-flash-vision-exp |
+| 11 | `luckyapi.online` | $0.12 / $0.48 | LuckyAPI | 0.8 | deepseek-v4-flash-vision-exp |
+| 12 | `api.168box.xyz` | $0.135 / $0.54 | deepseek | 0.45 | deepseek-v4-flash-vision-exp |
+| 13 | `kukuai.ai` | $0.137081 / $0.548321 | 线路4 | 1 | deepseek-v4-flash-vision-exp |
+| 14 | `88.scxai.top` | $0.15 / $0.6 | 创世の鑫元 | 0.15 | deepseek-v4-flash-vision-exp |
+| 15 | `api.clawhud.com` | $0.15 / $0.6 | DeepSeek | 1 | deepseek-v4-flash-vision-exp |
+| 16 | `api.l4dder.dpdns.org` | $0.15 / $0.6 | deepseek-官key-0.15x | 0.15 | deepseek-v4-flash-vision-exp |
+| 17 | `api.xshulab.com` | $0.15 / $0.6 | DeepSeek | 1 | deepseek-v4-flash-vision-exp |
+| 18 | `abinapi.com` | $0.16 / $0.64 | 国模系列 | 0.08 | DeepSeek-V4-Flash-Vision-Exp |
+| 19 | `api.999555999.com` | $0.165 / $0.495 | Deepseek | 0.055 | deepseek-v4-flash-vision-exp |
+| 20 | `tokenkey.vip` | $0.168 / $0.49 | 【国模大全分组】 | 1 | deepseek-v4-flash-vision-exp |
+| 21 | `api.nornless.com` | $0.17 / $0.68 | 国产模型 按量 | 1 | deepseek-v4-flash-vision-exp |
+| 22 | `sub2api.xybbz.xyz` | $0.18 / $0.54 | Kimi-k3 | 0.06 | deepseek-v4-flash-vision-exp |
+| 23 | `sub.geiliapi.com` | $0.1875 / $0.5625 | 国模 Flex | 0.25 | deepseek-v4-flash-vision-exp |
+| 24 | `api.hyhawang.com` | $0.2 / $0.8 | 国模低价 | 0.2 | deepseek-v4-flash-vision-exp |
+| 25 | `api.relaylink.cloud` | $0.2 / $0.8 | 国模分组 | 0.2 | deepseek-v4-flash-vision-exp |
+| 26 | `heilovehei.com` | $0.2 / $0.8 | DeepSeek | 0.1 | deepseek-v4-flash-vision-exp |
+| 27 | `rapidapi.cc` | $0.2 / $0.8 | 科学家大雄 | 0.1 | deepseek-v4-flash-vision-exp |
+| 28 | `tokai.cc` | $0.2 / $0.8 | 国模 | 0.2 | deepseek-v4-flash-vision-exp |
+| 29 | `pro.fan142.top` | $0.22 / $0.66 | coding api | 1 | deepseek/deepseek-v4-flash-vision-exp |
+| 30 | `superxihe.com` | $0.225 / $0.675 | deepseek | 0.075 | deepseek-v4-flash-vision-exp |
+| 31 | `api.tcvps.cn` | $0.24 / $0.72 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | deepseek-v4-flash-vision-exp |
+| 32 | `api.wopally.cn` | $0.25 / $1 | Claude-DS｜0.25x | 0.25 | deepseek-v4-flash-vision-exp |
+| 33 | `ltgpt.xyz` | $0.27 / $0.81 | 国模分组A 0.18 | 0.18 | deepseek-v4-flash-vision-exp |
+| 34 | `chat-api4.087654.xyz` | $0.28 / $0.56 | default | 2 | deepseek-v4-flash-vision-exp |
+| 35 | `ahao.online` | $0.3 / $0.9 | DeepSeek-全系列 | 0.1 | deepseek-v4-flash-vision-exp |
+| 36 | `ai.blue1.top` | $0.3 / $0.9 | 国模（定价看右上角模型广场 ） | 0.1 | deepseek-v4-flash-vision-exp |
+| 37 | `ai.kdysite.cloud` | $0.3 / $0.9 | 国产经济区 | 0.1 | deepseek-v4-flash-vision-exp |
+| 38 | `aiapibank.com` | $0.3 / $1.2 | DeepSeek分组 | 0.3 | deepseek-v4-flash-vision-exp |
+| 39 | `api.opkaa.com` | $0.3 / $1.2 | DeepSeek | 0.3 | DeepSeek-V4-Flash-Vision-Exp |
+| 40 | `apipaths.com` | $0.3 / $0.9 | deepseek | 0.2 | deepseek-v4-flash-vision-exp |
+| 41 | `kedaya.ai` | $0.3 / $1.2 | DeepSeek | 0.15 | deepseek-v4-flash-vision-exp |
+| 42 | `nexapi.store` | $0.3 / $0.9 | deepseek | 0.2 | deepseek-v4-flash-vision-exp |
+| 43 | `wanfaai.com` | $0.3 / $1.2 | ds 4.1 | 0.3 | deepseek-v4-flash-vision-exp |
+| 44 | `www.yydsapi.uno` | $0.3 / $0.9 | DeepSeek | 0.1 | deepseek-v4-flash-vision-exp |
+| 45 | `api.kcne.top` | $0.308 / $0.924 | 国模组 | 1.4 | deepseek-v4-flash-vision-exp |
+| 46 | `weilai.chat` | $0.32 / $1.28 | DeepSeek | 0.16 | deepseek-v4-flash-vision-exp |
+| 47 | `okmcode.com` | $0.336 / $0.98 | 国模cc兼容 | 0.2 | deepseek-v4-flash-vision-exp |
+| 48 | `api.schyler.top` | $0.35 / $1.4 | DeepSeek | 0.35 | deepseek-v4-flash-vision-exp |
+| 49 | `magicai.click` | $0.375 / $1.5 | 国模-聚合 | 2.5 | deepseek-v4-flash-vision-exp |
+| 50 | `sub.skypoem.top` | $0.375 / $1.125 | Muse | 0.25 | deepseek-v4-flash-vision-exp |
 
-> 另有 33 站未列出。
+> 另有 37 站未列出。
 
-> 134 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 137 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

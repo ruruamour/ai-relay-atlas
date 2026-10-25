@@ -1,6 +1,6 @@
 # claude-opus-4-8-max
 
-> 27 站提供 · 正常价 17 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥9.125**/1M 输入（16 站公开充值价） · 推算，未对账
+> 29 站提供 · 正常价 19 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥11.06**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,9 +23,11 @@
 | 11 | `test.yibuapi.com` | ¥15 | $10 / $50 | 1.5 | default | claude-opus-4-8-max |
 | 12 | `uo.mentoe.com` | ¥15 | $15 / $75 | 1 | Claude_K1通道 | claude-opus-4-8-max |
 | 13 | `us.uocode.com` | ¥15 | $15 / $75 | 1 | Claude_K1通道 | claude-opus-4-8-max |
-| 14 | `yuandianapi.com` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-8-max |
-| 15 | `yunqiaoapi.com` | ¥36.5 | $5 / $25 | 7.3 | hvip | claude-opus-4-8-max |
-| 16 | `api.humanwill.xyz` | ¥219 | $30 / $150 | 7.3 | Claude_pro | claude-opus-4-8-max |
+| 14 | `www.aitoke.top` | ¥15 | $15 / $75 | 1 | Claude_K1通道 | claude-opus-4-8-max |
+| 15 | `ai.mowen.vip` | ¥16.72 | $2.5 / $12.5 | 6.6892 | default | claude-opus-4-8-max |
+| 16 | `yuandianapi.com` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-8-max |
+| 17 | `yunqiaoapi.com` | ¥36.5 | $5 / $25 | 7.3 | hvip | claude-opus-4-8-max |
+| 18 | `api.humanwill.xyz` | ¥219 | $30 / $150 | 7.3 | Claude_pro | claude-opus-4-8-max |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

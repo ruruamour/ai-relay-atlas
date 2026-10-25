@@ -1,6 +1,6 @@
 # glm-5
 
-> 415 站提供 · 正常价 314 站 · 名义中位价 **$2.74**/1M 输入 · 实付中位价 **¥4.064**/1M 输入（217 站公开充值价） · 推算，未对账
+> 436 站提供 · 正常价 330 站 · 名义中位价 **$2.48**/1M 输入 · 实付中位价 **¥4.035**/1M 输入（233 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,48 +20,48 @@
 | 8 | `apiv3.52codeflow.top` | ¥0.573 | $0.573 / $2.58 | 1 | kiro-claude-个人号-按次 | glm-5 |
 | 9 | `tokenworldapi.com` | ¥0.573 | $0.573 / $2.58 | 1 | default | ZHIPU/GLM-5 |
 | 10 | `www.kamiapi.top` | ¥0.64 | $0.64 / $2.88 | 1 | 国模分组 | glm-5 |
-| 11 | `routerra.ai` | ¥0.7059 | $0.705882 / $2.58776 | 1 | default | glm-5 |
-| 12 | `ioll.pp.ua` | ¥0.72 | $0.24 / $0.95 | 3 | 聊天专属喵 | glm-5 |
-| 13 | `e.fishxcode.com` | ¥0.8571 | $0.857143 / $3.14286 | 1 | default | ZHIPU/GLM-5 |
-| 14 | `www.mrouter.com` | ¥0.858 | $0.858 / $3.143 | 1 | cn | glm-5 |
-| 15 | `tokensupply.ai` | ¥0.86 | $0.86 / $3.15 | 1 | default | glm-5 |
-| 16 | `novaapi.ai` | ¥0.89 | $0.89 / $3.26 | 1 | default | glm-5 |
-| 17 | `ai.38yun.cn` | ¥0.9975 | $0.9975 / $3.3075 | 1 | 官方全系稳定渠道 | z-ai/glm-5 |
-| 18 | `api.tokenreply.com` | ¥1 | $1 / $3.2 | 1 | default | glm-5 |
-| 19 | `easyrouter.io` | ¥1 | $1 / $3.2 | 1 | default | glm-5 |
-| 20 | `gptapi.app` | ¥1 | $1 / $3.2 | 1 | default | glm-5 |
-| 21 | `feiniu-ai.xyz` | ¥1.08 | $1.08 / $3.44 | 1 | default | glm-5 |
-| 22 | `jiugx.com` | ¥1.1 | $1.1 / $3.52 | 1 | default | z-ai/glm-5 |
-| 23 | `hk.moleapi.com` | ¥1.183 | $0.174 / $0.783 | 6.8 | relay | glm-5 |
-| 24 | `new.tianluo.ccwu.cc` | ¥1.2 | $1.2 / $5.4 | 1 | 国产小分队 | glm-5 |
-| 25 | `rockapi.cn` | ¥1.2 | $1.2 / $5.4 | 1 | 国产模型 | glm-5 |
-| 26 | `x-llm.net` | ¥1.2 | $1.2 / $5.4 | 1 | 国产模型 | glm-5 |
-| 27 | `api.aliyunfuwu.top` | ¥1.26 | $1.26 / $3.96 | 1 | Mistral | zai-glm-5 |
-| 28 | `gpt-api.cc` | ¥1.6 | $1.6 / $6.4 | 1 | default | glm-5 |
-| 29 | `newapi.zone` | ¥1.6 | $1.6 / $1.6 | 1 | glm | GLM-5 |
-| 30 | `tokenflowsolution.com` | ¥1.8 | $1.8 / $7.2 | 1 | 国模通用 | glm-5 |
-| 31 | `api-x.top` | ¥2 | $0.285714 / $1.28571 | 7 | default | glm-5 |
-| 32 | `aidianwo.com` | ¥2 | $2 / $8 | 1 | default | glm-5 |
-| 33 | `api.996444.cn` | ¥2 | $2 / $9 | 1 | default | glm-5 |
-| 34 | `api.openai-labs.com` | ¥2 | $2 / $9 | 1 | g1 | glm-5 |
-| 35 | `api.qfgapi.com` | ¥2 | $2 / $9 | 1 | default | glm-5 |
-| 36 | `api.qiqiai.top` | ¥2 | $1 / $4.5 | 2 | 国产模型系列 | glm-5 |
-| 37 | `slb-v1.api.fan` | ¥2 | $2 / $9 | 1 | bailian | glm-5 |
-| 38 | `www.packyapi.com` | ¥2 | $2 / $9 | 1 | bailian | glm-5 |
-| 39 | `airouter.dev` | ¥2.01 | $0.3 / $0.96 | 6.7 | default | glm-5 |
-| 40 | `rivoapi.com` | ¥2.078 | $2.0783 / $9.35235 | 1 | 智谱GLM | glm-5 |
-| 41 | `tokenfree.cc` | ¥2.19 | $0.3 / $1.35 | 7.3 | default | kr/glm-5 |
-| 42 | `getmodel.ai` | ¥2.2 | $2.2 / $9.9 | 1 | 国产模型 | glm-5 |
-| 43 | `hk.chenmoai.cn` | ¥2.25 | $2.25 / $8.25 | 1 | default | [正向量2]glm-5 |
-| 44 | `api.banyane.top` | ¥2.4 | $2.4 / $10.8 | 1 | 精品国产模型 | glm-5 |
-| 45 | `gptnb.ai` | ¥2.4 | $2.4 / $10.8 | 1 | cn_official | glm-5 |
-| 46 | `infistar.ai` | ¥2.4 | $2.4 / $10.8 | 1 | zhipu-zhipu-plan | glm-5 |
-| 47 | `platform.anyrouter.ai` | ¥2.4 | $2.4 / $10.8 | 1 | official_cn | glm-5 |
-| 48 | `www.moxin.plus` | ¥2.4 | $4.8 / $21.6 | 0.5 | 国产模型 | glm-5 |
-| 49 | `www.moxin.studio` | ¥2.4 | $2.4 / $10.8 | 1 | 国产模型[高质] | glm-5 |
-| 50 | `zen-ai.top` | ¥2.4 | $2.4 / $8.808 | 1 | 开源 | glm-5 |
+| 11 | `www.dayueai.fun` | ¥0.7 | $0.7 / $1 | 1 | vip | glm-5 |
+| 12 | `routerra.ai` | ¥0.7059 | $0.705882 / $2.58776 | 1 | default | glm-5 |
+| 13 | `ioll.pp.ua` | ¥0.72 | $0.24 / $0.95 | 3 | 聊天专属喵 | glm-5 |
+| 14 | `e.fishxcode.com` | ¥0.8571 | $0.857143 / $3.14286 | 1 | default | ZHIPU/GLM-5 |
+| 15 | `www.mrouter.com` | ¥0.858 | $0.858 / $3.143 | 1 | cn | glm-5 |
+| 16 | `tokensupply.ai` | ¥0.86 | $0.86 / $3.15 | 1 | default | glm-5 |
+| 17 | `novaapi.ai` | ¥0.89 | $0.89 / $3.26 | 1 | default | glm-5 |
+| 18 | `ai.38yun.cn` | ¥0.9975 | $0.9975 / $3.3075 | 1 | 官方全系稳定渠道 | z-ai/glm-5 |
+| 19 | `api.tokenreply.com` | ¥1 | $1 / $3.2 | 1 | default | glm-5 |
+| 20 | `easyrouter.io` | ¥1 | $1 / $3.2 | 1 | default | glm-5 |
+| 21 | `gptapi.app` | ¥1 | $1 / $3.2 | 1 | default | glm-5 |
+| 22 | `feiniu-ai.xyz` | ¥1.08 | $1.08 / $3.44 | 1 | default | glm-5 |
+| 23 | `jiugx.com` | ¥1.1 | $1.1 / $3.52 | 1 | default | z-ai/glm-5 |
+| 24 | `hk.moleapi.com` | ¥1.183 | $0.174 / $0.783 | 6.8 | relay | glm-5 |
+| 25 | `new.tianluo.ccwu.cc` | ¥1.2 | $1.2 / $5.4 | 1 | 国产小分队 | glm-5 |
+| 26 | `rockapi.cn` | ¥1.2 | $1.2 / $5.4 | 1 | 国产模型 | glm-5 |
+| 27 | `x-llm.net` | ¥1.2 | $1.2 / $5.4 | 1 | 国产模型 | glm-5 |
+| 28 | `api.aliyunfuwu.top` | ¥1.26 | $1.26 / $3.96 | 1 | Mistral | zai-glm-5 |
+| 29 | `gpt-api.cc` | ¥1.6 | $1.6 / $6.4 | 1 | default | glm-5 |
+| 30 | `newapi.zone` | ¥1.6 | $1.6 / $1.6 | 1 | glm | GLM-5 |
+| 31 | `tokenflowsolution.com` | ¥1.8 | $1.8 / $7.2 | 1 | 国模通用 | glm-5 |
+| 32 | `api-x.top` | ¥2 | $0.285714 / $1.28571 | 7 | default | glm-5 |
+| 33 | `aidianwo.com` | ¥2 | $2 / $8 | 1 | default | glm-5 |
+| 34 | `api.996444.cn` | ¥2 | $2 / $9 | 1 | default | glm-5 |
+| 35 | `api.openai-labs.com` | ¥2 | $2 / $9 | 1 | g1 | glm-5 |
+| 36 | `api.qfgapi.com` | ¥2 | $2 / $9 | 1 | default | glm-5 |
+| 37 | `api.qiqiai.top` | ¥2 | $1 / $4.5 | 2 | 国产模型系列 | glm-5 |
+| 38 | `slb-v1.api.fan` | ¥2 | $2 / $9 | 1 | bailian | glm-5 |
+| 39 | `www.packyapi.com` | ¥2 | $2 / $9 | 1 | bailian | glm-5 |
+| 40 | `airouter.dev` | ¥2.01 | $0.3 / $0.96 | 6.7 | default | glm-5 |
+| 41 | `rivoapi.com` | ¥2.078 | $2.0783 / $9.35235 | 1 | 智谱GLM | glm-5 |
+| 42 | `tokenfree.cc` | ¥2.19 | $0.3 / $1.35 | 7.3 | default | kr/glm-5 |
+| 43 | `getmodel.ai` | ¥2.2 | $2.2 / $9.9 | 1 | 国产模型 | glm-5 |
+| 44 | `hk.chenmoai.cn` | ¥2.25 | $2.25 / $8.25 | 1 | default | [正向量2]glm-5 |
+| 45 | `omnixai.cn` | ¥2.301 | $0.328767 / $0.328767 | 7 | deepseek | glm-5 |
+| 46 | `api.banyane.top` | ¥2.4 | $2.4 / $10.8 | 1 | 精品国产模型 | glm-5 |
+| 47 | `gptnb.ai` | ¥2.4 | $2.4 / $10.8 | 1 | cn_official | glm-5 |
+| 48 | `infistar.ai` | ¥2.4 | $2.4 / $10.8 | 1 | zhipu-zhipu-plan | glm-5 |
+| 49 | `platform.anyrouter.ai` | ¥2.4 | $2.4 / $10.8 | 1 | official_cn | glm-5 |
+| 50 | `www.moxin.plus` | ¥2.4 | $4.8 / $21.6 | 0.5 | 国产模型 | glm-5 |
 
-> 另有 167 站未列出。
+> 另有 183 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 47 站未列出。
 
-> 101 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 106 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

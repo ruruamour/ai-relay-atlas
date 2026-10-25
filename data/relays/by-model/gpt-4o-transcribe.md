@@ -1,6 +1,6 @@
 # gpt-4o-transcribe
 
-> 239 站提供 · 正常价 136 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3.75**/1M 输入（111 站公开充值价） · 推算，未对账
+> 251 站提供 · 正常价 144 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3.75**/1M 输入（119 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `v2.cloudmist.cloud` | ¥0.8498 | $0.1265 / $0.506 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 2 | `www.vectronode.com` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 3 | `apiclaw.cn` | ¥0.8942 | $0.1331 / $0.5324 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 4 | `newapi.xueai.me` | ¥0.8942 | $0.1331 / $0.5324 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 5 | `wodapis.com` | ¥0.8942 | $0.1331 / $0.5324 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 6 | `ciyuan.today` | ¥0.9237 | $0.1375 / $0.55 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 7 | `gptapi.top` | ¥0.9237 | $0.1375 / $0.55 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 8 | `makerend.com` | ¥0.9237 | $0.1375 / $0.55 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 9 | `moliapi.com` | ¥0.9311 | $0.1386 / $0.5544 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 10 | `ai-api.cc` | ¥0.9607 | $0.143 / $0.572 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 11 | `nodapi.com` | ¥0.9755 | $0.1452 / $0.5808 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 12 | `anyaigc.ai` | ¥0.9976 | $0.1485 / $0.594 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 13 | `sheepaiplus.top` | ¥1.035 | $0.154 / $0.616 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 14 | `xiguapi.icu` | ¥1.035 | $0.154 / $0.616 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 15 | `api.88api.chat` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 16 | `api.88api.shop` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 17 | `api.videocaptioner.cn` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 18 | `new.aigc2d.com` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 19 | `oyy-ai.xyz` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 20 | `infai.cc` | ¥1.168 | $0.1738 / $0.6952 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 21 | `big.sbgpt.site` | ¥1.2 | $1.2 / $4.8 | 1 | az-0.4 | gpt-4o-transcribe |
-| 22 | `go.sbgpt.site` | ¥1.2 | $1.2 / $4.8 | 1 | az-3 | gpt-4o-transcribe |
-| 23 | `api.nixapi.com` | ¥1.249 | $0.1859 / $0.7436 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 24 | `api.openai-labs.com` | ¥1.25 | $1.25 / $5 | 1 | g1 | gpt-4o-transcribe |
-| 25 | `api.zyai.online` | ¥1.25 | $1.25 / $5 | 1 | mini | gpt-4o-transcribe |
-| 26 | `kfcv50.link` | ¥1.25 | $1.25 / $5 | 1 | az_act05 | gpt-4o-transcribe |
-| 27 | `aiwuje.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 28 | `api.cursorai.art` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 29 | `api.echoflowai.cc` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 30 | `api.n1n.ai` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 31 | `api.quickrouter.ai` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 32 | `jeniya.cn` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 33 | `linoapi.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 34 | `llm-api.net` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 35 | `quanzil.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 36 | `token173.net` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 37 | `tryallapi.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 38 | `wellapi.ai` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 39 | `thousandengine.com` | ¥1.504 | $0.22385 / $0.8954 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 40 | `api.wanapis.com` | ¥2 | $2 / $8 | 1 | default | gpt-4o-transcribe |
-| 41 | `cn.gptapi.asia` | ¥2 | $2 / $8 | 1 | default | gpt-4o-transcribe |
-| 42 | `yutoapi.com` | ¥2 | $2 / $8 | 1 | default | gpt-4o-transcribe |
-| 43 | `layso.ai` | ¥2.438 | $2.4375 / $9.75 | 1 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 44 | `laysoai.com` | ¥2.438 | $2.4375 / $9.75 | 1 | Azure-Gpt-1 | gpt-4o-transcribe |
-| 45 | `api-x.vip` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-4o-transcribe |
-| 46 | `api.qinzhiai.com` | ¥2.5 | $2.5 / $10 | 1 | az | gpt-4o-transcribe |
-| 47 | `api.routeeasy.ai` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-4o-transcribe |
-| 48 | `api.yuboar.com` | ¥2.5 | $2.5 / $10 | 1 | AzureOpenAI | gpt-4o-transcribe |
-| 49 | `gptimgaz.aiearth.dev` | ¥2.5 | $2.5 / $10 | 1 | AzureOpenAI | gpt-4o-transcribe |
-| 50 | `keypool.space` | ¥2.5 | $2.5 / $10 | 1 | vip | gpt-4o-transcribe |
+| 1 | `api.antmoo.cc` | ¥0.8498 | $0.1265 / $0.506 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 2 | `v2.cloudmist.cloud` | ¥0.8498 | $0.1265 / $0.506 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 3 | `www.vectronode.com` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 4 | `apiclaw.cn` | ¥0.8942 | $0.1331 / $0.5324 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 5 | `newapi.xueai.me` | ¥0.8942 | $0.1331 / $0.5324 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 6 | `wodapis.com` | ¥0.8942 | $0.1331 / $0.5324 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 7 | `ciyuan.today` | ¥0.9237 | $0.1375 / $0.55 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 8 | `gptapi.top` | ¥0.9237 | $0.1375 / $0.55 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 9 | `makerend.com` | ¥0.9237 | $0.1375 / $0.55 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 10 | `moliapi.com` | ¥0.9311 | $0.1386 / $0.5544 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 11 | `ai-api.cc` | ¥0.9607 | $0.143 / $0.572 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 12 | `nodapi.com` | ¥0.9755 | $0.1452 / $0.5808 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 13 | `anyaigc.ai` | ¥0.9976 | $0.1485 / $0.594 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 14 | `sheepaiplus.top` | ¥1.035 | $0.154 / $0.616 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 15 | `xiguapi.icu` | ¥1.035 | $0.154 / $0.616 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 16 | `api.88api.chat` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 17 | `api.88api.shop` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 18 | `api.videocaptioner.cn` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 19 | `lanbuff.app` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 20 | `new.aigc2d.com` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 21 | `oyy-ai.xyz` | ¥1.108 | $0.165 / $0.66 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 22 | `infai.cc` | ¥1.168 | $0.1738 / $0.6952 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 23 | `big.sbgpt.site` | ¥1.2 | $1.2 / $4.8 | 1 | az-0.4 | gpt-4o-transcribe |
+| 24 | `go.sbgpt.site` | ¥1.2 | $1.2 / $4.8 | 1 | az-3 | gpt-4o-transcribe |
+| 25 | `api.nixapi.com` | ¥1.249 | $0.1859 / $0.7436 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 26 | `api.openai-labs.com` | ¥1.25 | $1.25 / $5 | 1 | g1 | gpt-4o-transcribe |
+| 27 | `api.zyai.online` | ¥1.25 | $1.25 / $5 | 1 | mini | gpt-4o-transcribe |
+| 28 | `kfcv50.link` | ¥1.25 | $1.25 / $5 | 1 | az_act05 | gpt-4o-transcribe |
+| 29 | `aiwuje.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 30 | `api.cursorai.art` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 31 | `api.echoflowai.cc` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 32 | `api.n1n.ai` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 33 | `api.quickrouter.ai` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 34 | `jeniya.cn` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 35 | `linoapi.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 36 | `linoroute.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 37 | `llm-api.net` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 38 | `quanzil.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 39 | `token173.net` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 40 | `tryallapi.com` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 41 | `wellapi.ai` | ¥1.478 | $0.22 / $0.88 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 42 | `thousandengine.com` | ¥1.504 | $0.22385 / $0.8954 | 6.718 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 43 | `api.wanapis.com` | ¥2 | $2 / $8 | 1 | default | gpt-4o-transcribe |
+| 44 | `cn.gptapi.asia` | ¥2 | $2 / $8 | 1 | default | gpt-4o-transcribe |
+| 45 | `yutoapi.com` | ¥2 | $2 / $8 | 1 | default | gpt-4o-transcribe |
+| 46 | `layso.ai` | ¥2.438 | $2.4375 / $9.75 | 1 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 47 | `laysoai.com` | ¥2.438 | $2.4375 / $9.75 | 1 | Azure-Gpt-1 | gpt-4o-transcribe |
+| 48 | `api-x.vip` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-4o-transcribe |
+| 49 | `api.qinzhiai.com` | ¥2.5 | $2.5 / $10 | 1 | az | gpt-4o-transcribe |
+| 50 | `api.routeeasy.ai` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-4o-transcribe |
 
-> 另有 61 站未列出。
+> 另有 69 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -93,4 +93,4 @@
 | 24 | `vip.zen-ai.top` | $7.5 / $30 | default | 3 | gpt-4o-transcribe |
 | 25 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-4o-transcribe |
 
-> 103 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 107 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

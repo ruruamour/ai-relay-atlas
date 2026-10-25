@@ -1,6 +1,6 @@
 # gemini-2.0-flash
 
-> 110 站提供 · 正常价 91 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（74 站公开充值价） · 推算，未对账
+> 112 站提供 · 正常价 93 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（76 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -34,34 +34,34 @@
 | 22 | `api.ocoolai.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash |
 | 23 | `api.wanapis.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash |
 | 24 | `ocool.cn` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash |
-| 25 | `yun.v1api.cc` | ¥0.15 | $0.1 / $0.4 | 1.5 | default | gemini-2.0-flash |
-| 26 | `mt.ccapi.ai` | ¥0.1516 | $0.021978 / $0.087912 | 6.9 | gemini-C | gemini-2.0-flash |
-| 27 | `proaiapi.tech` | ¥0.195 | $0.195 / $0.78 | 1 | Gemini 优质 | gemini-2.0-flash |
-| 28 | `8s.hk` | ¥0.2 | $0.2 / $0.8 | 1 | 全模型自动 | gemini-2.0-flash |
-| 29 | `aio-api-ssvip.aiearth.dev` | ¥0.219 | $0.03 / $0.12 | 7.3 | nx | gemini-2.0-flash |
-| 30 | `test-api.apiqik.online` | ¥0.238 | $0.034 / $0.136 | 7 | vertex/sp/gemini | gemini-2.0-flash |
-| 31 | `new.gateway.icu` | ¥0.24 | $0.24 / $0.96 | 1 | gemini-cli | gemini-2.0-flash |
-| 32 | `kelaiapi.cc` | ¥0.25 | $0.25 / $1 | 1 | Gemini | gemini-2.0-flash |
-| 33 | `api.34ku.com` | ¥0.26 | $0.26 / $1.04 | 1 | default | gemini-2.0-flash |
-| 34 | `api.vakv.cn` | ¥0.26 | $0.26 / $1.04 | 1 | 9999 | gemini-2.0-flash |
-| 35 | `wcnbai.com` | ¥0.3 | $0.3 / $2.5 | 1 | - | gemini-2.0-flash |
-| 36 | `api.xhuoai.com` | ¥0.3 | $0.2 / $0.8 | 1.5 | gemini2 | gemini-2.0-flash |
-| 37 | `test.yibuapi.com` | ¥0.3 | $0.2 / $0.8 | 1.5 | default | gemini-2.0-flash |
-| 38 | `webapi.xjai.cc` | ¥0.3 | $0.1 / $0.4 | 3 | default | gemini-2.0-flash |
-| 39 | `hightpm.aiearth.dev` | ¥0.365 | $0.05 / $0.2 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-2.0-flash |
-| 40 | `api.147ai.cn` | ¥0.4 | $0.4 / $1.6 | 1 | gemini | gemini-2.0-flash |
-| 41 | `api.camel-hub.com` | ¥0.4 | $0.5 / $2 | 0.8 | OFC | gemini-2.0-flash |
-| 42 | `www.qhaigc.net` | ¥0.4 | $0.4 / $1.6 | 1 | default | gemini-2.0-flash |
-| 43 | `mb.dmxapi.cn` | ¥0.5 | $0.1 / $0.4 | 5 | default | gemini-2.0-flash |
-| 44 | `tk.dmxapi.cn` | ¥0.5 | $0.1 / $0.4 | 5 | default | gemini-2.0-flash |
-| 45 | `cn.gptapi.asia` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.0-flash |
-| 46 | `yutoapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.0-flash |
-| 47 | `api.apib.ai` | ¥0.7 | $0.1 / $0.4 | 7 | - | gemini-2.0-flash |
-| 48 | `api.pezayo.com` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
-| 49 | `gemini.ysaikeji.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
-| 50 | `kubernetes-test-api.apiqik.online` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
+| 25 | `one.ooo.cool` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash |
+| 26 | `yun.v1api.cc` | ¥0.15 | $0.1 / $0.4 | 1.5 | default | gemini-2.0-flash |
+| 27 | `mt.ccapi.ai` | ¥0.1516 | $0.021978 / $0.087912 | 6.9 | gemini-C | gemini-2.0-flash |
+| 28 | `proaiapi.tech` | ¥0.195 | $0.195 / $0.78 | 1 | Gemini 优质 | gemini-2.0-flash |
+| 29 | `8s.hk` | ¥0.2 | $0.2 / $0.8 | 1 | 全模型自动 | gemini-2.0-flash |
+| 30 | `aio-api-ssvip.aiearth.dev` | ¥0.219 | $0.03 / $0.12 | 7.3 | nx | gemini-2.0-flash |
+| 31 | `test-api.apiqik.online` | ¥0.238 | $0.034 / $0.136 | 7 | vertex/sp/gemini | gemini-2.0-flash |
+| 32 | `new.gateway.icu` | ¥0.24 | $0.24 / $0.96 | 1 | gemini-cli | gemini-2.0-flash |
+| 33 | `kelaiapi.cc` | ¥0.25 | $0.25 / $1 | 1 | Gemini | gemini-2.0-flash |
+| 34 | `api.34ku.com` | ¥0.26 | $0.26 / $1.04 | 1 | default | gemini-2.0-flash |
+| 35 | `api.vakv.cn` | ¥0.26 | $0.26 / $1.04 | 1 | 9999 | gemini-2.0-flash |
+| 36 | `wcnbai.com` | ¥0.3 | $0.3 / $2.5 | 1 | - | gemini-2.0-flash |
+| 37 | `api.xhuoai.com` | ¥0.3 | $0.2 / $0.8 | 1.5 | gemini2 | gemini-2.0-flash |
+| 38 | `test.yibuapi.com` | ¥0.3 | $0.2 / $0.8 | 1.5 | default | gemini-2.0-flash |
+| 39 | `webapi.xjai.cc` | ¥0.3 | $0.1 / $0.4 | 3 | default | gemini-2.0-flash |
+| 40 | `hightpm.aiearth.dev` | ¥0.365 | $0.05 / $0.2 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-2.0-flash |
+| 41 | `api.147ai.cn` | ¥0.4 | $0.4 / $1.6 | 1 | gemini | gemini-2.0-flash |
+| 42 | `api.camel-hub.com` | ¥0.4 | $0.5 / $2 | 0.8 | OFC | gemini-2.0-flash |
+| 43 | `www.qhaigc.net` | ¥0.4 | $0.4 / $1.6 | 1 | default | gemini-2.0-flash |
+| 44 | `mb.dmxapi.cn` | ¥0.5 | $0.1 / $0.4 | 5 | default | gemini-2.0-flash |
+| 45 | `tk.dmxapi.cn` | ¥0.5 | $0.1 / $0.4 | 5 | default | gemini-2.0-flash |
+| 46 | `cn.gptapi.asia` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.0-flash |
+| 47 | `yutoapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.0-flash |
+| 48 | `api.apib.ai` | ¥0.7 | $0.1 / $0.4 | 7 | - | gemini-2.0-flash |
+| 49 | `api.pezayo.com` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
+| 50 | `gemini.ysaikeji.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
 
-> 另有 24 站未列出。
+> 另有 26 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

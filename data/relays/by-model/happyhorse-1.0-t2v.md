@@ -1,6 +1,6 @@
 # happyhorse-1.0-t2v
 
-> 144 站提供 · 正常价 123 站 · 名义中位价 **$0.014**/次 · 实付中位价 **¥0.01284**/次（59 站公开充值价） · 推算，未对账
+> 149 站提供 · 正常价 127 站 · 名义中位价 **$0.014**/次 · 实付中位价 **¥0.01284**/次（63 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api.openlux.ai` | ¥0.006422 | $0.00095589 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
 | 2 | `api.relayrouter.ai` | ¥0.006422 | $0.00095589 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.006422 | $0.00095589 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 5 | `gzxbykj.com` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 6 | `yunwu.org` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 7 | `v2.cloudmist.cloud` | ¥0.007385 | $0.00109927 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 8 | `www.vectronode.com` | ¥0.007706 | $0.00114707 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 9 | `apiclaw.cn` | ¥0.00777 | $0.00115663 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 10 | `newapi.xueai.me` | ¥0.00777 | $0.00115663 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 11 | `wodapis.com` | ¥0.00777 | $0.00115663 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 12 | `ciyuan.today` | ¥0.008027 | $0.00119486 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 13 | `gptapi.top` | ¥0.008027 | $0.00119486 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 14 | `makerend.com` | ¥0.008027 | $0.00119486 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 15 | `moliapi.com` | ¥0.008091 | $0.00120442 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 16 | `ai-api.cc` | ¥0.008348 | $0.00124266 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 17 | `infai.cc` | ¥0.008348 | $0.00124266 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 18 | `nodapi.com` | ¥0.008477 | $0.00126177 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 19 | `anyaigc.ai` | ¥0.008669 | $0.00129045 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 20 | `sheepaiplus.top` | ¥0.00899 | $0.00133825 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 21 | `xiguapi.icu` | ¥0.00899 | $0.00133825 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 22 | `api.88api.chat` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 23 | `api.88api.shop` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 24 | `api.videocaptioner.cn` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 25 | `new.aigc2d.com` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 26 | `oyy-ai.xyz` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 27 | `api.nixapi.com` | ¥0.01085 | $0.00161545 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 28 | `aiwuje.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 29 | `api.cursorai.art` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 30 | `api.echoflowai.cc` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 31 | `api.n1n.ai` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 32 | `api.quickrouter.ai` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 33 | `jeniya.cn` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 34 | `linoapi.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 35 | `llm-api.net` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 36 | `quanzil.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 37 | `token173.net` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 38 | `tryallapi.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 39 | `wellapi.ai` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 40 | `thousandengine.com` | ¥0.01307 | $0.00194524 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
-| 41 | `api.new.bi` | ¥0.014 | $0.014 | 1 | 企业级高可用大模型 | happyhorse-1.0-t2v |
-| 42 | `new.foxi-api.cn` | ¥0.014 | $0.014 | 1 | default | happyhorse-1.0-t2v |
-| 43 | `plusx.nyxos.shop` | ¥0.07515 | $0.0102942 | 7.3 | Alibaba-Video-2 | happyhorse-1.0-t2v |
-| 44 | `www.aiide.com` | ¥0.1029 | $0.10288 | 1 | happyhorse | happyhorse-1.0-t2v |
-| 45 | `api.camel-hub.com` | ¥0.16 | $0.2 | 0.8 | default | happyhorse-1.0-t2v |
-| 46 | `nat.gbotai.cn` | ¥0.292 | $0.04 | 7.3 | default | happyhorse-1.0-t2v |
-| 47 | `test-api.apiqik.online` | ¥0.441 | $0.063 | 7 | aliyun/official | happyhorse-1.0-t2v |
-| 48 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.7 | $0.7 | 1 | default | happyhorse-1.0-t2v |
-| 49 | `linksapi.cn` | ¥0.8308 | $1.0385 | 0.8 | 国产生图 | happyhorse-1.0-t2v |
-| 50 | `ai.amaxsmp.com` | ¥0.9 | $0.9 | 1 | 原厂直供 | happyhorse-1.0-t2v |
+| 4 | `4zapi.com` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 6 | `gzxbykj.com` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 7 | `yunwu.org` | ¥0.007064 | $0.00105148 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 8 | `api.antmoo.cc` | ¥0.007385 | $0.00109927 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 9 | `v2.cloudmist.cloud` | ¥0.007385 | $0.00109927 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 10 | `www.vectronode.com` | ¥0.007706 | $0.00114707 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 11 | `apiclaw.cn` | ¥0.00777 | $0.00115663 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 12 | `newapi.xueai.me` | ¥0.00777 | $0.00115663 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 13 | `wodapis.com` | ¥0.00777 | $0.00115663 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 14 | `ciyuan.today` | ¥0.008027 | $0.00119486 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 15 | `gptapi.top` | ¥0.008027 | $0.00119486 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 16 | `makerend.com` | ¥0.008027 | $0.00119486 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 17 | `moliapi.com` | ¥0.008091 | $0.00120442 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 18 | `ai-api.cc` | ¥0.008348 | $0.00124266 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 19 | `infai.cc` | ¥0.008348 | $0.00124266 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 20 | `nodapi.com` | ¥0.008477 | $0.00126177 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 21 | `anyaigc.ai` | ¥0.008669 | $0.00129045 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 22 | `sheepaiplus.top` | ¥0.00899 | $0.00133825 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 23 | `xiguapi.icu` | ¥0.00899 | $0.00133825 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 24 | `api.88api.chat` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 25 | `api.88api.shop` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 26 | `api.videocaptioner.cn` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 27 | `lanbuff.app` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 28 | `new.aigc2d.com` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 29 | `oyy-ai.xyz` | ¥0.009633 | $0.00143384 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 30 | `api.nixapi.com` | ¥0.01085 | $0.00161545 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 31 | `aiwuje.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 32 | `api.cursorai.art` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 33 | `api.echoflowai.cc` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 34 | `api.n1n.ai` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 35 | `api.quickrouter.ai` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 36 | `jeniya.cn` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 37 | `linoapi.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 38 | `linoroute.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 39 | `llm-api.net` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 40 | `quanzil.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 41 | `token173.net` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 42 | `tryallapi.com` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 43 | `wellapi.ai` | ¥0.01284 | $0.00191178 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 44 | `thousandengine.com` | ¥0.01307 | $0.00194524 | 6.718 | Alibaba-video-1 | happyhorse-1.0-t2v |
+| 45 | `api.new.bi` | ¥0.014 | $0.014 | 1 | 企业级高可用大模型 | happyhorse-1.0-t2v |
+| 46 | `new.foxi-api.cn` | ¥0.014 | $0.014 | 1 | default | happyhorse-1.0-t2v |
+| 47 | `plusx.nyxos.shop` | ¥0.07515 | $0.0102942 | 7.3 | Alibaba-Video-2 | happyhorse-1.0-t2v |
+| 48 | `www.aiide.com` | ¥0.1029 | $0.10288 | 1 | happyhorse | happyhorse-1.0-t2v |
+| 49 | `api.camel-hub.com` | ¥0.16 | $0.2 | 0.8 | default | happyhorse-1.0-t2v |
+| 50 | `nat.gbotai.cn` | ¥0.292 | $0.04 | 7.3 | default | happyhorse-1.0-t2v |
 
-> 另有 9 站未列出。
+> 另有 13 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 14 站未列出。
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # wan2.7-image-pro
 
-> 181 站提供 · 正常价 157 站 · 名义中位价 **$0.5**/次 · 实付中位价 **¥0.4816**/次（91 站公开充值价） · 推算，未对账
+> 186 站提供 · 正常价 162 站 · 名义中位价 **$0.486472**/次 · 实付中位价 **¥0.4816**/次（96 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,51 +17,51 @@
 | 5 | `api.dogrouter.ai` | ¥0.075 | $0.075 | 1 | default | wan2.7-image-pro |
 | 6 | `easyrouter.io` | ¥0.075 | $0.075 | 1 | default | wan2.7-image-pro |
 | 7 | `wetoken.ai` | ¥0.075 | $0.075 | 1 | default | wan2.7-image-pro |
-| 8 | `api.zyai.online` | ¥0.3 | $0.3 | 1 | AaLI | wan2.7-image-pro |
-| 9 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 | 1 | aliyun | wan2.7-image-pro |
-| 10 | `test-api.apiqik.online` | ¥0.3131 | $0.04473 | 7 | aliyun/official | wan2.7-image-pro |
-| 11 | `api.openlux.ai` | ¥0.3211 | $0.0477945 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 12 | `api.relayrouter.ai` | ¥0.3211 | $0.0477945 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 13 | `openlux.zhongzhuan.chat` | ¥0.3211 | $0.0477945 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 14 | `api.tidewhisper-ai.xyz` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 15 | `gzxbykj.com` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 16 | `yunwu.org` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 17 | `aizzz.vip` | ¥0.36 | $0.9 | 0.4 | China | wan2.7-image-pro |
-| 18 | `kuaipao.ai` | ¥0.36 | $0.9 | 0.4 | China | wan2.7-image-pro |
-| 19 | `v2.cloudmist.cloud` | ¥0.3692 | $0.0549637 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 20 | `www.vectronode.com` | ¥0.3853 | $0.0573534 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 21 | `apiclaw.cn` | ¥0.3885 | $0.0578313 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 22 | `newapi.xueai.me` | ¥0.3885 | $0.0578313 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 23 | `wodapis.com` | ¥0.3885 | $0.0578313 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 24 | `api.lingyaai.cn` | ¥0.395 | $0.395 | 1 | 国产普惠·源力计划 | wan2.7-image-pro |
-| 25 | `beeroute.ai` | ¥0.395 | $0.395 | 1 | CN-Model-Special​ | wan2.7-image-pro |
-| 26 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.395 | $0.395 | 1 | CN-Model-Special​ | wan2.7-image-pro |
-| 27 | `ciyuan.today` | ¥0.4014 | $0.0597431 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 28 | `gptapi.top` | ¥0.4014 | $0.0597431 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 29 | `makerend.com` | ¥0.4014 | $0.0597431 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 30 | `dreamrouter.ai` | ¥0.4032 | $0.0576 | 7 | ali-image | wan2.7-image-pro |
-| 31 | `moliapi.com` | ¥0.4046 | $0.0602211 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 32 | `yinziapi.top` | ¥0.41 | $0.41 | 1 | 官方国模分组 | wan2.7-image-pro |
-| 33 | `ai-api.cc` | ¥0.4174 | $0.0621329 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 34 | `infai.cc` | ¥0.4174 | $0.0621329 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 35 | `nodapi.com` | ¥0.4238 | $0.0630887 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 36 | `layso.ai` | ¥0.4301 | $0.43015 | 1 | Alibaba-image-1 | wan2.7-image-pro |
-| 37 | `laysoai.com` | ¥0.4301 | $0.43015 | 1 | Alibaba-image-1 | wan2.7-image-pro |
-| 38 | `anyaigc.ai` | ¥0.4335 | $0.0645226 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 39 | `sheepaiplus.top` | ¥0.4495 | $0.0669123 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 40 | `xiguapi.icu` | ¥0.4495 | $0.0669123 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 41 | `ai-one.vip` | ¥0.45 | $0.9 | 0.5 | China | wan2.7-image-pro |
-| 42 | `api.ifopen.ai` | ¥0.455 | $0.13 | 3.5 | 通用大模型 | wan2.7-image-pro |
-| 43 | `api2.aigcbest.top` | ¥0.455 | $0.13 | 3.5 | 通用大模型 | wan2.7-image-pro |
-| 44 | `open.cherryin.ai` | ¥0.4644 | $0.0684932 | 6.78 | default | wan/wan2.7-image-pro |
-| 45 | `api.88api.chat` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 46 | `api.88api.shop` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 47 | `api.videocaptioner.cn` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 48 | `new.aigc2d.com` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 49 | `oyy-ai.xyz` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
-| 50 | `express-ent-admin.cherryin.net` | ¥0.4932 | $0.0684932 | 7.2 | default | wan/wan2.7-image-pro |
+| 8 | `ai.mowen.vip` | ¥0.2291 | $0.0342466 | 6.6892 | default | wan2.7-image-pro |
+| 9 | `api.zyai.online` | ¥0.3 | $0.3 | 1 | AaLI | wan2.7-image-pro |
+| 10 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 | 1 | aliyun | wan2.7-image-pro |
+| 11 | `test-api.apiqik.online` | ¥0.3131 | $0.04473 | 7 | aliyun/official | wan2.7-image-pro |
+| 12 | `api.openlux.ai` | ¥0.3211 | $0.0477945 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 13 | `api.relayrouter.ai` | ¥0.3211 | $0.0477945 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 14 | `openlux.zhongzhuan.chat` | ¥0.3211 | $0.0477945 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 15 | `4zapi.com` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 16 | `api.tidewhisper-ai.xyz` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 17 | `gzxbykj.com` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 18 | `yunwu.org` | ¥0.3532 | $0.052574 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 19 | `aizzz.vip` | ¥0.36 | $0.9 | 0.4 | China | wan2.7-image-pro |
+| 20 | `kuaipao.ai` | ¥0.36 | $0.9 | 0.4 | China | wan2.7-image-pro |
+| 21 | `api.antmoo.cc` | ¥0.3692 | $0.0549637 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 22 | `v2.cloudmist.cloud` | ¥0.3692 | $0.0549637 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 23 | `www.vectronode.com` | ¥0.3853 | $0.0573534 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 24 | `apiclaw.cn` | ¥0.3885 | $0.0578313 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 25 | `newapi.xueai.me` | ¥0.3885 | $0.0578313 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 26 | `wodapis.com` | ¥0.3885 | $0.0578313 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 27 | `api.lingyaai.cn` | ¥0.395 | $0.395 | 1 | 国产普惠·源力计划 | wan2.7-image-pro |
+| 28 | `beeroute.ai` | ¥0.395 | $0.395 | 1 | CN-Model-Special​ | wan2.7-image-pro |
+| 29 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.395 | $0.395 | 1 | CN-Model-Special​ | wan2.7-image-pro |
+| 30 | `ciyuan.today` | ¥0.4014 | $0.0597431 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 31 | `gptapi.top` | ¥0.4014 | $0.0597431 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 32 | `makerend.com` | ¥0.4014 | $0.0597431 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 33 | `dreamrouter.ai` | ¥0.4032 | $0.0576 | 7 | ali-image | wan2.7-image-pro |
+| 34 | `moliapi.com` | ¥0.4046 | $0.0602211 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 35 | `yinziapi.top` | ¥0.41 | $0.41 | 1 | 官方国模分组 | wan2.7-image-pro |
+| 36 | `ai-api.cc` | ¥0.4174 | $0.0621329 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 37 | `infai.cc` | ¥0.4174 | $0.0621329 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 38 | `nodapi.com` | ¥0.4238 | $0.0630887 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 39 | `layso.ai` | ¥0.4301 | $0.43015 | 1 | Alibaba-image-1 | wan2.7-image-pro |
+| 40 | `laysoai.com` | ¥0.4301 | $0.43015 | 1 | Alibaba-image-1 | wan2.7-image-pro |
+| 41 | `anyaigc.ai` | ¥0.4335 | $0.0645226 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 42 | `sheepaiplus.top` | ¥0.4495 | $0.0669123 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 43 | `xiguapi.icu` | ¥0.4495 | $0.0669123 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 44 | `ai-one.vip` | ¥0.45 | $0.9 | 0.5 | China | wan2.7-image-pro |
+| 45 | `api.ifopen.ai` | ¥0.455 | $0.13 | 3.5 | 通用大模型 | wan2.7-image-pro |
+| 46 | `api2.aigcbest.top` | ¥0.455 | $0.13 | 3.5 | 通用大模型 | wan2.7-image-pro |
+| 47 | `open.cherryin.ai` | ¥0.4644 | $0.0684932 | 6.78 | default | wan/wan2.7-image-pro |
+| 48 | `api.88api.chat` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 49 | `api.88api.shop` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
+| 50 | `api.videocaptioner.cn` | ¥0.4816 | $0.0716917 | 6.718 | Alibaba-image-1 | wan2.7-image-pro |
 
-> 另有 41 站未列出。
+> 另有 46 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

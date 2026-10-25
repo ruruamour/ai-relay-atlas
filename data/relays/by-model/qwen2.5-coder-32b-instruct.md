@@ -1,6 +1,6 @@
 # qwen2.5-coder-32b-instruct
 
-> 48 站提供 · 正常价 32 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.75**/1M 输入（14 站公开充值价） · 推算，未对账
+> 52 站提供 · 正常价 35 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.9**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,11 +19,14 @@
 | 7 | `gpt777.top` | ¥1.6 | $1.6 / $4.8 | 1 | opensource | qwen2.5-coder-32b-instruct |
 | 8 | `api.ocoolai.com` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-coder-32b-instruct |
 | 9 | `ocool.cn` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-coder-32b-instruct |
-| 10 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-32b-instruct |
-| 11 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwen2.5-coder-32b-instruct |
-| 12 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-32b-instruct |
-| 13 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen2.5-coder-32b-instruct |
-| 14 | `ai.nodeloc.com` | ¥10.64 | $1.4572 / $2.9144 | 7.3 | default | Qwen/Qwen2.5-Coder-32B-Instruct |
+| 10 | `one.ooo.cool` | ¥1.9 | $1.9 / $5.7 | 1 | cn | qwen2.5-coder-32b-instruct |
+| 11 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-32b-instruct |
+| 12 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwen2.5-coder-32b-instruct |
+| 13 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-32b-instruct |
+| 14 | `api.aiskt.com` | ¥2.857 | $2.8572 / $8.5716 | 1 | default | qwen2.5-coder-32b-instruct |
+| 15 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen2.5-coder-32b-instruct |
+| 16 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen2.5-coder-32b-instruct |
+| 17 | `ai.nodeloc.com` | ¥10.64 | $1.4572 / $2.9144 | 7.3 | default | Qwen/Qwen2.5-Coder-32B-Instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -48,4 +51,4 @@
 | 17 | `www.xiaoruiera.top` | $2 / $6 | default | 1 | qwen2.5-coder-32b-instruct |
 | 18 | `yuli.host` | $2 / $6 | default | 1 | qwen2.5-coder-32b-instruct |
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

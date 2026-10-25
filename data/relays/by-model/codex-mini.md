@@ -1,6 +1,6 @@
 # codex-mini
 
-> 29 站提供 · 正常价 15 站 · 名义中位价 **$2.25**/1M 输入 · 实付中位价 **¥3**/1M 输入（13 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 17 站 · 名义中位价 **$2.25**/1M 输入 · 实付中位价 **¥3**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,19 +10,21 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `go.sbgpt.site` | ¥1.5 | $1.5 / $1.5 | 1 | default | codex-mini-latest |
-| 2 | `zen-ai.top` | ¥1.5 | $1.5 / $6 | 1 | default | codex-mini |
-| 3 | `35.aigcbest.top` | ¥2.25 | $1.5 / $6 | 1.5 | default | codex-mini-latest |
-| 4 | `api.ocoolai.com` | ¥2.25 | $2.25 / $9 | 1 | default | codex-mini |
-| 5 | `ocool.cn` | ¥2.25 | $2.25 / $9 | 1 | default | codex-mini |
-| 6 | `big.sbgpt.site` | ¥3 | $3 / $3 | 1 | 官openai | codex-mini-latest |
-| 7 | `gpt777.top` | ¥3 | $3 / $12 | 1 | Azure | codex-mini-latest |
-| 8 | `api.ifopen.ai` | ¥5.25 | $1.5 / $6 | 3.5 | default | codex-mini-latest |
-| 9 | `api2.aigcbest.top` | ¥5.25 | $1.5 / $6 | 3.5 | default | codex-mini-latest |
-| 10 | `cn.gptapi.asia` | ¥10.5 | $10.5 / $42 | 1 | enterprise | codex-mini-2025-05-16 |
-| 11 | `yutoapi.com` | ¥10.5 | $10.5 / $42 | 1 | enterprise | codex-mini-2025-05-16 |
-| 12 | `v3.yunai.link` | ¥10.95 | $1.5 / $6 | 7.3 | default | codex-mini-2025-05-16 |
-| 13 | `api.34ku.com` | ¥52 | $52 / $78 | 1 | default | codex-mini-2025-05-16 |
+| 1 | `api.aiskt.com` | ¥1.5 | $1.5 / $6 | 1 | azure1 | codex-mini |
+| 2 | `go.sbgpt.site` | ¥1.5 | $1.5 / $1.5 | 1 | default | codex-mini-latest |
+| 3 | `zen-ai.top` | ¥1.5 | $1.5 / $6 | 1 | default | codex-mini |
+| 4 | `35.aigcbest.top` | ¥2.25 | $1.5 / $6 | 1.5 | default | codex-mini-latest |
+| 5 | `api.ocoolai.com` | ¥2.25 | $2.25 / $9 | 1 | default | codex-mini |
+| 6 | `ocool.cn` | ¥2.25 | $2.25 / $9 | 1 | default | codex-mini |
+| 7 | `one.ooo.cool` | ¥2.25 | $2.25 / $9 | 1 | default | codex-mini |
+| 8 | `big.sbgpt.site` | ¥3 | $3 / $3 | 1 | 官openai | codex-mini-latest |
+| 9 | `gpt777.top` | ¥3 | $3 / $12 | 1 | Azure | codex-mini-latest |
+| 10 | `api.ifopen.ai` | ¥5.25 | $1.5 / $6 | 3.5 | default | codex-mini-latest |
+| 11 | `api2.aigcbest.top` | ¥5.25 | $1.5 / $6 | 3.5 | default | codex-mini-latest |
+| 12 | `cn.gptapi.asia` | ¥10.5 | $10.5 / $42 | 1 | enterprise | codex-mini-2025-05-16 |
+| 13 | `yutoapi.com` | ¥10.5 | $10.5 / $42 | 1 | enterprise | codex-mini-2025-05-16 |
+| 14 | `v3.yunai.link` | ¥10.95 | $1.5 / $6 | 7.3 | default | codex-mini-2025-05-16 |
+| 15 | `api.34ku.com` | ¥52 | $52 / $78 | 1 | default | codex-mini-2025-05-16 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

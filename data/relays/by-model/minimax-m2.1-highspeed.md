@@ -1,6 +1,6 @@
 # minimax-m2.1-highspeed
 
-> 41 站提供 · 正常价 21 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3.591**/1M 输入（18 站公开充值价） · 推算，未对账
+> 43 站提供 · 正常价 21 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3.591**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -37,4 +37,4 @@
 | 2 | `baosiapi.com` | $1.8 / $14.4 | minimax | 6 | MiniMax-M2.1-highspeed |
 | 3 | `openclawroot.com` | $3.2 / $14.4 | default | 1 | MiniMax-M2.1-highspeed |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

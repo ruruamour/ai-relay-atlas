@@ -1,6 +1,6 @@
 # qwen3.6-max-preview
 
-> 144 站提供 · 正常价 107 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥7.486**/1M 输入（40 站公开充值价） · 推算，未对账
+> 154 站提供 · 正常价 112 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥7.592**/1M 输入（45 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,31 +25,36 @@
 | 13 | `www.packyapi.com` | ¥4.5 | $4.5 / $27 | 1 | bailian | qwen3.6-max-preview |
 | 14 | `www.wanmoapi.com` | ¥4.5 | $4.5 / $27 | 1 | bailian | qwen3.6-max-preview |
 | 15 | `llm.kagu.one` | ¥4.782 | $0.655 / $3.94 | 7.3 | 大杂烩 | qwen/qwen3.6-max-preview |
-| 16 | `sqz.favorais.com` | ¥6.282 | $0.8606 / $5.16165 | 7.3 | bailian | qwen3.6-max-preview |
-| 17 | `api.wukong.support` | ¥6.3 | $6.3 / $37.8 | 1 | 国模-openai格式 | qwen3.6-max-preview |
-| 18 | `xhaoo.com` | ¥6.3 | $6.3 / $37.8 | 1 | cn | qwen3.6-max-preview |
-| 19 | `kuaipao.ai` | ¥6.48 | $16.2 / $97.2 | 0.4 | China | qwen3.6-max-preview |
-| 20 | `yinziapi.top` | ¥7.38 | $7.38 / $44.28 | 1 | 官方国模分组 | qwen3.6-max-preview |
-| 21 | `x.one-origin.ai` | ¥7.592 | $1.04 / $6.24 | 7.3 | Lynx-ALL | qwen/qwen3.6-max-preview |
-| 22 | `api.new.bi` | ¥9 | $9 / $54 | 1 | default | qwen3.6-max-preview |
-| 23 | `new.foxi-api.cn` | ¥9 | $9 / $54 | 1 | default | qwen3.6-max-preview |
-| 24 | `hboom.ai` | ¥9 | $1.32353 / $7.94118 | 6.8 | default | qwen3.6-max-preview |
-| 25 | `hk.hbapis.com` | ¥9 | $1.32353 / $7.94118 | 6.8 | default | qwen3.6-max-preview |
-| 26 | `unorouter.net` | ¥9.271 | $1.27 / $7.61 | 7.3 | default | qwen3.6-max-preview |
-| 27 | `ai.kelly.cloud` | ¥9.49 | $1.3 / $7.8 | 7.3 | 国内模型组 | qwen3.6-max-preview |
-| 28 | `ai2.qiqiai.top` | ¥13.67 | $1.872 / $11.232 | 7.3 | 官方合作渠道 | qwen/qwen3.6-max-preview |
-| 29 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3.6-max-preview |
-| 30 | `kfcv50.link` | ¥15 | $15 / $90 | 1 | Domestic | qwen3.6-max-preview |
-| 31 | `poloai.top` | ¥15 | $15 / $90 | 1 | qwen-new-cc | qwen3.6-max-preview |
-| 32 | `api.34ku.com` | ¥26 | $26 / $156 | 1 | default | qwen3.6-max-preview |
-| 33 | `api.ai-gaochao.cn` | ¥32.85 | $4.5 / $27 | 7.3 | guo_chan | qwen3.6-max-preview |
-| 34 | `apius.shubiaobiao.cn` | ¥32.85 | $4.5 / $27 | 7.3 | guo_chan | qwen3.6-max-preview |
-| 35 | `www.hohoapi.com` | ¥35.1 | $11.7 / $70.2 | 3 | default | qwen3.6-max-preview |
-| 36 | `huoxingapi.com` | ¥43.2 | $43.2 / $256 | 1 | 国产模型 | qwen3.6-max-preview |
-| 37 | `hightpm.aiearth.dev` | ¥54.75 | $7.5 / $45 | 7.3 | 官方直连-Azure-Claude-Gemini | qwen3.6-max-preview |
-| 38 | `codeyy.top` | ¥65.7 | $9 / $54 | 7.3 | default | qwen3.6-max-preview |
-| 39 | `api.ifopen.ai` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.6-max-preview |
-| 40 | `api2.aigcbest.top` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.6-max-preview |
+| 16 | `ai.bytonsec.com` | ¥6.162 | $6.162 / $36.972 | 1 | OpenRouter | qwen/qwen3.6-max-preview |
+| 17 | `sqz.favorais.com` | ¥6.282 | $0.8606 / $5.16165 | 7.3 | bailian | qwen3.6-max-preview |
+| 18 | `api.wukong.support` | ¥6.3 | $6.3 / $37.8 | 1 | 国模-openai格式 | qwen3.6-max-preview |
+| 19 | `xhaoo.com` | ¥6.3 | $6.3 / $37.8 | 1 | cn | qwen3.6-max-preview |
+| 20 | `kuaipao.ai` | ¥6.48 | $16.2 / $97.2 | 0.4 | China | qwen3.6-max-preview |
+| 21 | `yinziapi.top` | ¥7.38 | $7.38 / $44.28 | 1 | 官方国模分组 | qwen3.6-max-preview |
+| 22 | `comput.chat` | ¥7.5 | $7.5 / $7.5 | 1 | default | Qwen/Qwen3.6-Max-Preview |
+| 23 | `x.one-origin.ai` | ¥7.592 | $1.04 / $6.24 | 7.3 | Lynx-ALL | qwen/qwen3.6-max-preview |
+| 24 | `api.new.bi` | ¥9 | $9 / $54 | 1 | default | qwen3.6-max-preview |
+| 25 | `new.foxi-api.cn` | ¥9 | $9 / $54 | 1 | default | qwen3.6-max-preview |
+| 26 | `hboom.ai` | ¥9 | $1.32353 / $7.94118 | 6.8 | default | qwen3.6-max-preview |
+| 27 | `hk.hbapis.com` | ¥9 | $1.32353 / $7.94118 | 6.8 | default | qwen3.6-max-preview |
+| 28 | `unorouter.net` | ¥9.271 | $1.27 / $7.61 | 7.3 | default | qwen3.6-max-preview |
+| 29 | `www.tokenage.ai` | ¥9.43 | $1.2918 / $1.2918 | 7.3 | vip | qwen3.6-max-preview |
+| 30 | `ai.kelly.cloud` | ¥9.49 | $1.3 / $7.8 | 7.3 | 国内模型组 | qwen3.6-max-preview |
+| 31 | `ai2.qiqiai.top` | ¥13.67 | $1.872 / $11.232 | 7.3 | 官方合作渠道 | qwen/qwen3.6-max-preview |
+| 32 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3.6-max-preview |
+| 33 | `kfcv50.link` | ¥15 | $15 / $90 | 1 | Domestic | qwen3.6-max-preview |
+| 34 | `poloai.top` | ¥15 | $15 / $90 | 1 | qwen-new-cc | qwen3.6-max-preview |
+| 35 | `xy.poloapi.com` | ¥15 | $15 / $90 | 1 | qwen-new-cc | qwen3.6-max-preview |
+| 36 | `www.dayueai.fun` | ¥16 | $16 / $91 | 1 | vip | qwen3.6-max-preview |
+| 37 | `api.34ku.com` | ¥26 | $26 / $156 | 1 | default | qwen3.6-max-preview |
+| 38 | `api.ai-gaochao.cn` | ¥32.85 | $4.5 / $27 | 7.3 | guo_chan | qwen3.6-max-preview |
+| 39 | `apius.shubiaobiao.cn` | ¥32.85 | $4.5 / $27 | 7.3 | guo_chan | qwen3.6-max-preview |
+| 40 | `www.hohoapi.com` | ¥35.1 | $11.7 / $70.2 | 3 | default | qwen3.6-max-preview |
+| 41 | `huoxingapi.com` | ¥43.2 | $43.2 / $256 | 1 | 国产模型 | qwen3.6-max-preview |
+| 42 | `hightpm.aiearth.dev` | ¥54.75 | $7.5 / $45 | 7.3 | 官方直连-Azure-Claude-Gemini | qwen3.6-max-preview |
+| 43 | `codeyy.top` | ¥65.7 | $9 / $54 | 7.3 | default | qwen3.6-max-preview |
+| 44 | `api.ifopen.ai` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.6-max-preview |
+| 45 | `api2.aigcbest.top` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3.6-max-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -108,4 +113,4 @@
 
 > 另有 17 站未列出。
 
-> 37 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 42 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

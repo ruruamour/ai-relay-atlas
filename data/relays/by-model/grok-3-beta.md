@@ -1,6 +1,6 @@
 # grok-3-beta
 
-> 27 站提供 · 正常价 24 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥12**/1M 输入（21 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 25 站 · 名义中位价 **$9**/1M 输入 · 实付中位价 **¥14.1**/1M 输入（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,11 +26,12 @@
 | 14 | `api.qinzhiai.com` | ¥17.5 | $17.5 / $87.5 | 1 | openrouter | x-ai/grok-3-beta |
 | 15 | `api.ocoolai.com` | ¥18.9 | $18.9 / $94.5 | 1 | claude_official | grok-3-beta |
 | 16 | `ocool.cn` | ¥18.9 | $18.9 / $94.5 | 1 | claude_official | grok-3-beta |
-| 17 | `api.ai-gaochao.cn` | ¥21.9 | $3 / $15 | 7.3 | Evan | grok-3-beta |
-| 18 | `apius.shubiaobiao.cn` | ¥21.9 | $3 / $15 | 7.3 | Evan | grok-3-beta |
-| 19 | `hy88.my` | ¥21.9 | $3 / $15 | 7.3 | grok_official | grok-3-beta |
-| 20 | `api.ysaikeji.cn` | ¥65.7 | $9 / $45 | 7.3 | grok官转 | grok-3-beta |
-| 21 | `wrduai.com` | ¥153.3 | $21 / $105 | 7.3 | 官转正价 | grok-3-beta |
+| 17 | `one.ooo.cool` | ¥18.9 | $18.9 / $94.5 | 1 | claude_official | grok-3-beta |
+| 18 | `api.ai-gaochao.cn` | ¥21.9 | $3 / $15 | 7.3 | Evan | grok-3-beta |
+| 19 | `apius.shubiaobiao.cn` | ¥21.9 | $3 / $15 | 7.3 | Evan | grok-3-beta |
+| 20 | `hy88.my` | ¥21.9 | $3 / $15 | 7.3 | grok_official | grok-3-beta |
+| 21 | `api.ysaikeji.cn` | ¥65.7 | $9 / $45 | 7.3 | grok官转 | grok-3-beta |
+| 22 | `wrduai.com` | ¥153.3 | $21 / $105 | 7.3 | 官转正价 | grok-3-beta |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

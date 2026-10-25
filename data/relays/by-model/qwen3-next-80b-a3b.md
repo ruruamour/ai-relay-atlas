@@ -1,6 +1,6 @@
 # qwen3-next-80b-a3b
 
-> 129 站提供 · 正常价 106 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（37 站公开充值价） · 推算，未对账
+> 136 站提供 · 正常价 109 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1**/1M 输入（40 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,35 +18,38 @@
 | 6 | `daoxe.com` | ¥0.2575 | $0.25 / $3 | 1.03 | 海外国产模型 | qwen3-next-80b-a3b-thinking |
 | 7 | `www.ggwk1.online` | ¥0.392 | $0.392 / $3.35944 | 1 | 开源模型组 | Qwen/Qwen3-Next-80B-A3B-Thinking |
 | 8 | `claudecn.ai` | ¥0.45 | $0.45 / $5.4 | 1 | 国产模型 | qwen3-next-80b-a3b-thinking |
-| 9 | `ai.38yun.cn` | ¥0.525 | $0.525 / $6.3 | 1 | 官方全系稳定渠道 | qwen3-next-80b-a3b-thinking |
-| 10 | `api.qinzhiai.com` | ¥0.525 | $0.525 / $4.2 | 1 | openrouter | qwen/qwen3-next-80b-a3b-thinking |
-| 11 | `llm.kagu.one` | ¥0.5256 | $0.072 / $0.717 | 7.3 | 大杂烩 | qwen/qwen3-next-80b-a3b-thinking |
-| 12 | `gpt777.top` | ¥0.8 | $0.8 / $8 | 1 | opensource | qwen3-next-80b-a3b-thinking |
-| 13 | `api.ifopen.ai` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | qwen3-next-80b-a3b-thinking |
-| 14 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | qwen3-next-80b-a3b-thinking |
-| 15 | `api.eido.top` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
-| 16 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-next-80b-a3b-thinking |
-| 17 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwen3-next-80b-a3b-thinking |
-| 18 | `keypool.space` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
-| 19 | `new.foxi-api.cn` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
-| 20 | `xinsuanai.com` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
-| 21 | `unorouter.net` | ¥1.043 | $0.142857 / $1.42857 | 7.3 | default | qwen3-next-80b-a3b-thinking |
-| 22 | `ai.191800.xyz` | ¥1.095 | $0.15 / $1.2 | 7.3 | 魔搭 | Qwen/Qwen3-Next-80B-A3B-Thinking |
-| 23 | `apiai.shop` | ¥1.2 | $1 / $4 | 1.2 | default | Qwen/Qwen3-Next-80B-A3B-Thinking |
-| 24 | `test.yibuapi.com` | ¥1.2 | $0.8 / $8 | 1.5 | default | qwen3-next-80b-a3b-thinking |
-| 25 | `yibuapi.com` | ¥1.2 | $0.8 / $8 | 1.5 | default | qwen3-next-80b-a3b-thinking |
-| 26 | `ai2.qiqiai.top` | ¥1.281 | $0.1755 / $1.404 | 7.3 | 官方合作渠道 | qwen/qwen3-next-80b-a3b-thinking |
-| 27 | `kfcv50.link` | ¥1.5 | $1.5 / $15 | 1 | cn_discount_0407_075 | qwen3-next-80b-a3b-thinking |
-| 28 | `yibuapi.cn` | ¥1.5 | $1 / $10 | 1.5 | claude-code | qwen3-next-80b-a3b-thinking |
-| 29 | `www.hohoapi.com` | ¥1.56 | $0.52 / $5.2 | 3 | qwen | qwen3-next-80b-a3b-thinking |
-| 30 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $1.84615 | 7.3 | default | qwen/qwen3-next-80b-a3b-thinking |
-| 31 | `ai.tiantoken.com` | ¥4.745 | $0.65 / $6.5 | 7.3 | 鹏宇国内模型1 | qwen3-next-80b-a3b-thinking |
-| 32 | `codeyy.top` | ¥5.196 | $0.71175 / $5.694 | 7.3 | default | qwen3-next-80b-a3b-thinking |
-| 33 | `cn.gptapi.asia` | ¥7 | $7 / $70 | 1 | enterprise | qwen3-next-80b-a3b-thinking |
-| 34 | `yutoapi.com` | ¥7 | $7 / $70 | 1 | enterprise | qwen3-next-80b-a3b-thinking |
-| 35 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | qwen3-next-80b-a3b-thinking |
-| 36 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-next-80b-a3b-thinking |
-| 37 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-next-80b-a3b-thinking |
+| 9 | `ai.mowen.vip` | ¥0.5017 | $0.075 / $0.75 | 6.6892 | default | Qwen3-Next-80B-A3B-Thinking |
+| 10 | `ai.38yun.cn` | ¥0.525 | $0.525 / $6.3 | 1 | 官方全系稳定渠道 | qwen3-next-80b-a3b-thinking |
+| 11 | `api.qinzhiai.com` | ¥0.525 | $0.525 / $4.2 | 1 | openrouter | qwen/qwen3-next-80b-a3b-thinking |
+| 12 | `llm.kagu.one` | ¥0.5256 | $0.072 / $0.717 | 7.3 | 大杂烩 | qwen/qwen3-next-80b-a3b-thinking |
+| 13 | `gpt777.top` | ¥0.8 | $0.8 / $8 | 1 | opensource | qwen3-next-80b-a3b-thinking |
+| 14 | `ai.bytonsec.com` | ¥0.9 | $0.9 / $7.2 | 1 | OpenRouter | qwen/qwen3-next-80b-a3b-thinking |
+| 15 | `api.ifopen.ai` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | qwen3-next-80b-a3b-thinking |
+| 16 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | qwen3-next-80b-a3b-thinking |
+| 17 | `api.eido.top` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
+| 18 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-next-80b-a3b-thinking |
+| 19 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwen3-next-80b-a3b-thinking |
+| 20 | `keypool.space` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
+| 21 | `new.foxi-api.cn` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
+| 22 | `xinsuanai.com` | ¥1 | $1 / $10 | 1 | default | qwen3-next-80b-a3b-thinking |
+| 23 | `unorouter.net` | ¥1.043 | $0.142857 / $1.42857 | 7.3 | default | qwen3-next-80b-a3b-thinking |
+| 24 | `ai.191800.xyz` | ¥1.095 | $0.15 / $1.2 | 7.3 | 魔搭 | Qwen/Qwen3-Next-80B-A3B-Thinking |
+| 25 | `apiai.shop` | ¥1.2 | $1 / $4 | 1.2 | default | Qwen/Qwen3-Next-80B-A3B-Thinking |
+| 26 | `test.yibuapi.com` | ¥1.2 | $0.8 / $8 | 1.5 | default | qwen3-next-80b-a3b-thinking |
+| 27 | `yibuapi.com` | ¥1.2 | $0.8 / $8 | 1.5 | default | qwen3-next-80b-a3b-thinking |
+| 28 | `ai2.qiqiai.top` | ¥1.281 | $0.1755 / $1.404 | 7.3 | 官方合作渠道 | qwen/qwen3-next-80b-a3b-thinking |
+| 29 | `kfcv50.link` | ¥1.5 | $1.5 / $15 | 1 | cn_discount_0407_075 | qwen3-next-80b-a3b-thinking |
+| 30 | `yibuapi.cn` | ¥1.5 | $1 / $10 | 1.5 | claude-code | qwen3-next-80b-a3b-thinking |
+| 31 | `www.hohoapi.com` | ¥1.56 | $0.52 / $5.2 | 3 | qwen | qwen3-next-80b-a3b-thinking |
+| 32 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $1.84615 | 7.3 | default | qwen/qwen3-next-80b-a3b-thinking |
+| 33 | `api.aiskt.com` | ¥2 | $2 / $20 | 1 | default | qwen3-next-80b-a3b-thinking |
+| 34 | `ai.tiantoken.com` | ¥4.745 | $0.65 / $6.5 | 7.3 | 鹏宇国内模型1 | qwen3-next-80b-a3b-thinking |
+| 35 | `codeyy.top` | ¥5.196 | $0.71175 / $5.694 | 7.3 | default | qwen3-next-80b-a3b-thinking |
+| 36 | `cn.gptapi.asia` | ¥7 | $7 / $70 | 1 | enterprise | qwen3-next-80b-a3b-thinking |
+| 37 | `yutoapi.com` | ¥7 | $7 / $70 | 1 | enterprise | qwen3-next-80b-a3b-thinking |
+| 38 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | qwen3-next-80b-a3b-thinking |
+| 39 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-next-80b-a3b-thinking |
+| 40 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-next-80b-a3b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -105,4 +108,4 @@
 
 > 另有 19 站未列出。
 
-> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

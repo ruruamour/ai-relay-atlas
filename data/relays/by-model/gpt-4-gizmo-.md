@@ -1,6 +1,6 @@
 # gpt-4-gizmo-*
 
-> 68 站提供 · 正常价 43 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.104**/次（22 站公开充值价） · 推算，未对账
+> 71 站提供 · 正常价 45 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.134**/次（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,16 +22,18 @@
 | 10 | `api.eido.top` | ¥0.1 | $0.1 | 1 | default | gpt-4-gizmo-* |
 | 11 | `api.hopeai.cc` | ¥0.1 | $0.1 | 1 | default | gpt-4-gizmo-* |
 | 12 | `ai.t8star.org` | ¥0.108 | $0.08 | 1.35 | vip | gpt-4-gizmo-* |
-| 13 | `gptnb.ai` | ¥0.16 | $0.16 | 1 | default | gpt-4-gizmo-* |
-| 14 | `oneapi.gptnb.ai` | ¥0.16 | $0.16 | 1 | default | gpt-4-gizmo-* |
-| 15 | `api.annyun.cn` | ¥0.2 | $0.2 | 1 | default | gpt-4-gizmo-* |
-| 16 | `www.hohoapi.com` | ¥0.39 | $0.13 | 3 | default | gpt-4-gizmo-* |
-| 17 | `fastapi.top` | ¥0.73 | $0.1 | 7.3 | default | gpt-4-gizmo-* |
-| 18 | `api.uiuihao.com` | ¥0.957 | $0.3 | 3.19 | AZ-T3-Openai | gpt-4-gizmo-* |
-| 19 | `sg.uiuiapi.com` | ¥0.957 | $0.3 | 3.19 | AZ-T3-Openai | gpt-4-gizmo-* |
-| 20 | `api1.uiuiapi.com` | ¥1.011 | $0.3 | 3.37 | AZ-T3-Openai | gpt-4-gizmo-* |
-| 21 | `api.aabao.ai` | ¥1.2 | $0.6 | 2 | OpenAI优质-1 | gpt-4-gizmo-* |
-| 22 | `ai2.qiqiai.top` | ¥1.277 | $0.175 | 7.3 | 纯官稳定分组 | gpt-4-gizmo-* |
+| 13 | `goapi.gptnb.ai` | ¥0.16 | $0.16 | 1 | default | gpt-4-gizmo-* |
+| 14 | `gptnb.ai` | ¥0.16 | $0.16 | 1 | default | gpt-4-gizmo-* |
+| 15 | `oneapi.gptnb.ai` | ¥0.16 | $0.16 | 1 | default | gpt-4-gizmo-* |
+| 16 | `api.annyun.cn` | ¥0.2 | $0.2 | 1 | default | gpt-4-gizmo-* |
+| 17 | `api.xi-ai.cn` | ¥0.2 | $0.2 | 1 | 优惠模型 | gpt-4-gizmo-* |
+| 18 | `www.hohoapi.com` | ¥0.39 | $0.13 | 3 | default | gpt-4-gizmo-* |
+| 19 | `fastapi.top` | ¥0.73 | $0.1 | 7.3 | default | gpt-4-gizmo-* |
+| 20 | `api.uiuihao.com` | ¥0.957 | $0.3 | 3.19 | AZ-T3-Openai | gpt-4-gizmo-* |
+| 21 | `sg.uiuiapi.com` | ¥0.957 | $0.3 | 3.19 | AZ-T3-Openai | gpt-4-gizmo-* |
+| 22 | `api1.uiuiapi.com` | ¥1.011 | $0.3 | 3.37 | AZ-T3-Openai | gpt-4-gizmo-* |
+| 23 | `api.aabao.ai` | ¥1.2 | $0.6 | 2 | OpenAI优质-1 | gpt-4-gizmo-* |
+| 24 | `ai2.qiqiai.top` | ¥1.277 | $0.175 | 7.3 | 纯官稳定分组 | gpt-4-gizmo-* |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -59,4 +61,4 @@
 | 20 | `chatapi.onechats.ai` | $1 | default | 1 | gpt-4-gizmo-* |
 | 21 | `api.openai365.top` | $17.5 | default | 1 | gpt-4-gizmo-* |
 
-> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

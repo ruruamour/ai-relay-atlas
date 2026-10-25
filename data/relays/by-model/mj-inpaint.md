@@ -1,6 +1,6 @@
 # mj-inpaint
 
-> 82 站提供 · 正常价 14 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.246**/次（12 站公开充值价） · 推算，未对账
+> 88 站提供 · 正常价 15 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.2**/次（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,15 +13,16 @@
 | 1 | `tian-shu.org` | ¥0.05 | $0.05 | 1 | midjourney | mj_inpaint |
 | 2 | `open.xiaojingai.com` | ¥0.1 | $0.1 | 1 | default | mj_inpaint |
 | 3 | `poloai.top` | ¥0.1 | $0.1 | 1 | MJ慢速 | mj_inpaint |
-| 4 | `chrisapivip.com` | ¥0.15 | $0.15 | 1 | mj_fast | mj_inpaint |
-| 5 | `modelsell.com` | ¥0.17 | $0.025 | 6.8 | 标准按次 | mj_inpaint |
-| 6 | `wolfai.top` | ¥0.2 | $0.1 | 2 | default | mj_inpaint |
-| 7 | `fastapi.top` | ¥0.292 | $0.04 | 7.3 | default | mj_inpaint |
-| 8 | `top.qingyuntop.top` | ¥0.45 | $0.45 | 1 | MJ系列 | mj_inpaint |
-| 9 | `api.aabao.ai` | ¥0.5 | $0.25 | 2 | default | mj_inpaint |
-| 10 | `api.annyun.cn` | ¥0.5 | $0.5 | 1 | default | mj_inpaint |
-| 11 | `api.apipro.ai` | ¥0.7 | $0.1 | 7 | default | mj_inpaint |
-| 12 | `aio-api-ssvip.aiearth.dev` | ¥3.651 | $0.5001 | 7.3 | midjourney | mj_inpaint |
+| 4 | `xy.poloapi.com` | ¥0.1 | $0.1 | 1 | MJ慢速 | mj_inpaint |
+| 5 | `chrisapivip.com` | ¥0.15 | $0.15 | 1 | mj_fast | mj_inpaint |
+| 6 | `modelsell.com` | ¥0.17 | $0.025 | 6.8 | 标准按次 | mj_inpaint |
+| 7 | `wolfai.top` | ¥0.2 | $0.1 | 2 | default | mj_inpaint |
+| 8 | `fastapi.top` | ¥0.292 | $0.04 | 7.3 | default | mj_inpaint |
+| 9 | `top.qingyuntop.top` | ¥0.45 | $0.45 | 1 | MJ系列 | mj_inpaint |
+| 10 | `api.aabao.ai` | ¥0.5 | $0.25 | 2 | default | mj_inpaint |
+| 11 | `api.annyun.cn` | ¥0.5 | $0.5 | 1 | default | mj_inpaint |
+| 12 | `api.apipro.ai` | ¥0.7 | $0.1 | 7 | default | mj_inpaint |
+| 13 | `aio-api-ssvip.aiearth.dev` | ¥3.651 | $0.5001 | 7.3 | midjourney | mj_inpaint |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -30,4 +31,4 @@
 | 1 | `poloapi.top` | $0.1 | MJ慢速 | 1 | mj_inpaint |
 | 2 | `chatapi.onechats.ai` | $3 | default | 1 | mj_inpaint |
 
-> 68 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 73 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

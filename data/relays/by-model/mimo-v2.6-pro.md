@@ -1,6 +1,6 @@
 # mimo-v2.6-pro
 
-> 258 站提供 · 正常价 169 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（132 站公开充值价） · 推算，未对账
+> 270 站提供 · 正常价 178 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（141 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api.banban.plus` | ¥0.08045 | $0.0804452 / $0.16089 | 1 | 国模合集-自部署 | mimo-v2.6-pro |
 | 2 | `newapi.prorisehub.com` | ¥0.2175 | $0.2175 / $0.435 | 1 | 海外国产编程模 | mimo-v2.6-pro |
 | 3 | `api.886365.xyz` | ¥0.3 | $0.3 / $0.6 | 1 | 国模C1 | mimo-v2.6-pro |
-| 4 | `crowllm.com` | ¥0.35 | $0.35 / $0.79 | 1 | pro | mimo-v2.6-pro |
-| 5 | `coneverse.com` | ¥0.411 | $0.410959 / $0.821918 | 1 | supply-938eaece173408f4d89f6df2 | mimo-v2.6-pro |
-| 6 | `api.tokenreply.com` | ¥0.435 | $0.435 / $0.87 | 1 | default | mimo-v2.6-pro |
-| 7 | `easyrouter.io` | ¥0.435 | $0.435 / $0.87 | 1 | default | mimo-v2.6-pro |
-| 8 | `direct.mianyouyou.xyz` | ¥0.45 | $0.45 / $0.9 | 1 | 国产模型补贴分组 | mimo-v2.6-pro |
-| 9 | `api.liangrekui.com` | ¥0.5437 | $0.54375 / $1.0875 | 1 | 国模合集-自部署 | mimo-v2.6-pro |
-| 10 | `api.polymer-ai.top` | ¥0.6 | $0.6 / $1.2 | 1 | 国模汇总-按量 | mimo-v2.6-pro |
-| 11 | `api9.bjhuiqu.net` | ¥0.6 | $0.6 / $1.2 | 1 | 国模特供 | mimo-v2.6-pro |
-| 12 | `ai.furry.vg` | ¥0.6525 | $0.6525 / $1.305 | 1 | default | mimo-v2.6-pro |
-| 13 | `www.fastapi.ltd` | ¥0.7 | $0.7 / $1.44 | 1 | 2-国产混合 | mimo-v2.6-pro |
-| 14 | `8yes.cc` | ¥0.7457 | $0.745714 / $1.49143 | 1 | 国模openai协议 | hh-mimo-v2.6-pro |
-| 15 | `beehears.com` | ¥0.75 | $0.75 / $1.5 | 1 | 🇨🇳 Made in China | mimo-v2.6-pro |
-| 16 | `codeworksta.com` | ¥0.75 | $0.75 / $1.5 | 1 | 国产模型-额度计费 | mimo-v2.6-pro |
-| 17 | `codex101.cf-cdn.site` | ¥0.75 | $0.75 / $1.5 | 1 | 国产模型-额度计费 | mimo-v2.6-pro |
-| 18 | `images.beehears.com` | ¥0.75 | $0.75 / $1.5 | 1 | 🇨🇳 Made in China | mimo-v2.6-pro |
-| 19 | `new-cdn.dg8.site` | ¥0.75 | $0.75 / $1.5 | 1 | 国产模型-额度计费 | mimo-v2.6-pro |
-| 20 | `pianyitoken.gay` | ¥0.8586 | $0.117612 / $0.235224 | 7.3 | 国模直价 | mimo-v2.6-pro |
-| 21 | `api.everygpt.site` | ¥0.87 | $0.87 / $1.74 | 1 | Opencode官方套餐 | mimo-v2.6-pro |
-| 22 | `api.unorouter.com` | ¥0.87 | $0.87 / $1.74 | 1 | open1-deepinfra-fp8-mimo-v2.6-pro | mimo-v2.6-pro |
-| 23 | `api.xctokens.com` | ¥0.87 | $0.87 / $0.87 | 1 | 国产模型稳定 | mimo-v2.6-pro |
-| 24 | `xxapi.info` | ¥0.87 | $0.87 / $1.74 | 1 | 国模 | mimo-v2.6-pro |
-| 25 | `api.openlux.ai` | ¥0.8767 | $0.1305 / $0.261 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 26 | `api.relayrouter.ai` | ¥0.8767 | $0.1305 / $0.261 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 27 | `openlux.zhongzhuan.chat` | ¥0.8767 | $0.1305 / $0.261 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 28 | `cdn.sta1n.cn` | ¥0.9 | $0.9 / $1.8 | 1 | default | mimo-v2.6-pro |
-| 29 | `www.huanapi.com` | ¥0.9 | $0.9 / $1.8 | 1 | 国内模型 | mimo-v2.6-pro |
-| 30 | `api.tidewhisper-ai.xyz` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 31 | `gzxbykj.com` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 32 | `yunwu.org` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 33 | `v2.cloudmist.cloud` | ¥1.008 | $0.150075 / $0.30015 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 34 | `tokenus.net` | ¥1.034 | $0.15225 / $0.3045 | 6.79 | default | mimo-v2.6-pro |
-| 35 | `cdn.yorhamc.com` | ¥1.05 | $1.05 / $2.1 | 1 | default | mimo-v2.6-pro |
-| 36 | `chrisapivip.com` | ¥1.05 | $1.05 / $2.1 | 1 | HS火山引擎 | mimo-v2.6-pro |
-| 37 | `www.vectronode.com` | ¥1.052 | $0.1566 / $0.3132 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 38 | `apiclaw.cn` | ¥1.061 | $0.157905 / $0.31581 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 39 | `newapi.xueai.me` | ¥1.061 | $0.157905 / $0.31581 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 40 | `wodapis.com` | ¥1.061 | $0.157905 / $0.31581 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 41 | `ciyuan.today` | ¥1.096 | $0.163125 / $0.32625 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 42 | `gptapi.top` | ¥1.096 | $0.163125 / $0.32625 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 43 | `makerend.com` | ¥1.096 | $0.163125 / $0.32625 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 44 | `moliapi.com` | ¥1.105 | $0.16443 / $0.32886 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 45 | `ai-api.cc` | ¥1.14 | $0.16965 / $0.3393 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 46 | `nodapi.com` | ¥1.157 | $0.17226 / $0.34452 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 47 | `anyaigc.ai` | ¥1.184 | $0.176175 / $0.35235 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
-| 48 | `api.jinkundong.store` | ¥1.2 | $1.2 / $2.4 | 1 | 国模-mimo | mimo-v2.6-pro |
-| 49 | `zl.wonderful.edu.kg` | ¥1.2 | $1.2 / $2.4 | 1 | 【高倍率】国模集合分组 | mimo-v2.6-pro |
-| 50 | `sheepaiplus.top` | ¥1.227 | $0.1827 / $0.3654 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 4 | `api.tokenfreeperday.com` | ¥0.348 | $0.348 / $0.696 | 1 | ALL | mimo-v2.6-pro |
+| 5 | `crowllm.com` | ¥0.35 | $0.35 / $0.79 | 1 | pro | mimo-v2.6-pro |
+| 6 | `coneverse.com` | ¥0.411 | $0.410959 / $0.821918 | 1 | supply-938eaece173408f4d89f6df2 | mimo-v2.6-pro |
+| 7 | `api.tokenreply.com` | ¥0.435 | $0.435 / $0.87 | 1 | default | mimo-v2.6-pro |
+| 8 | `easyrouter.io` | ¥0.435 | $0.435 / $0.87 | 1 | default | mimo-v2.6-pro |
+| 9 | `direct.mianyouyou.xyz` | ¥0.45 | $0.45 / $0.9 | 1 | 国产模型补贴分组 | mimo-v2.6-pro |
+| 10 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | MiMo-V2.6-Pro |
+| 11 | `api.liangrekui.com` | ¥0.5437 | $0.54375 / $1.0875 | 1 | 国模合集-自部署 | mimo-v2.6-pro |
+| 12 | `api.polymer-ai.top` | ¥0.6 | $0.6 / $1.2 | 1 | 国模汇总-按量 | mimo-v2.6-pro |
+| 13 | `api9.bjhuiqu.net` | ¥0.6 | $0.6 / $1.2 | 1 | 国模特供 | mimo-v2.6-pro |
+| 14 | `ai.furry.vg` | ¥0.6525 | $0.6525 / $1.305 | 1 | default | mimo-v2.6-pro |
+| 15 | `www.fastapi.ltd` | ¥0.7 | $0.7 / $1.44 | 1 | 2-国产混合 | mimo-v2.6-pro |
+| 16 | `8yes.cc` | ¥0.7457 | $0.745714 / $1.49143 | 1 | 国模openai协议 | hh-mimo-v2.6-pro |
+| 17 | `beehears.com` | ¥0.75 | $0.75 / $1.5 | 1 | 🇨🇳 Made in China | mimo-v2.6-pro |
+| 18 | `codeworksta.com` | ¥0.75 | $0.75 / $1.5 | 1 | 国产模型-额度计费 | mimo-v2.6-pro |
+| 19 | `codex101.cf-cdn.site` | ¥0.75 | $0.75 / $1.5 | 1 | 国产模型-额度计费 | mimo-v2.6-pro |
+| 20 | `images.beehears.com` | ¥0.75 | $0.75 / $1.5 | 1 | 🇨🇳 Made in China | mimo-v2.6-pro |
+| 21 | `new-cdn.dg8.site` | ¥0.75 | $0.75 / $1.5 | 1 | 国产模型-额度计费 | mimo-v2.6-pro |
+| 22 | `pianyitoken.gay` | ¥0.8586 | $0.117612 / $0.235224 | 7.3 | 国模直价 | mimo-v2.6-pro |
+| 23 | `api.everygpt.site` | ¥0.87 | $0.87 / $1.74 | 1 | Opencode官方套餐 | mimo-v2.6-pro |
+| 24 | `api.unorouter.com` | ¥0.87 | $0.87 / $1.74 | 1 | open1-deepinfra-fp8-mimo-v2.6-pro | mimo-v2.6-pro |
+| 25 | `api.xctokens.com` | ¥0.87 | $0.87 / $0.87 | 1 | 国产模型稳定 | mimo-v2.6-pro |
+| 26 | `xxapi.info` | ¥0.87 | $0.87 / $1.74 | 1 | 国模 | mimo-v2.6-pro |
+| 27 | `api.openlux.ai` | ¥0.8767 | $0.1305 / $0.261 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 28 | `api.relayrouter.ai` | ¥0.8767 | $0.1305 / $0.261 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 29 | `openlux.zhongzhuan.chat` | ¥0.8767 | $0.1305 / $0.261 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 30 | `cdn.sta1n.cn` | ¥0.9 | $0.9 / $1.8 | 1 | default | mimo-v2.6-pro |
+| 31 | `www.huanapi.com` | ¥0.9 | $0.9 / $1.8 | 1 | 国内模型 | mimo-v2.6-pro |
+| 32 | `4zapi.com` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 33 | `api.tidewhisper-ai.xyz` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 34 | `gzxbykj.com` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 35 | `yunwu.org` | ¥0.9644 | $0.14355 / $0.2871 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 36 | `api.antmoo.cc` | ¥1.008 | $0.150075 / $0.30015 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 37 | `v2.cloudmist.cloud` | ¥1.008 | $0.150075 / $0.30015 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 38 | `tokenus.net` | ¥1.034 | $0.15225 / $0.3045 | 6.79 | default | mimo-v2.6-pro |
+| 39 | `cdn.yorhamc.com` | ¥1.05 | $1.05 / $2.1 | 1 | default | mimo-v2.6-pro |
+| 40 | `chrisapivip.com` | ¥1.05 | $1.05 / $2.1 | 1 | HS火山引擎 | mimo-v2.6-pro |
+| 41 | `www.vectronode.com` | ¥1.052 | $0.1566 / $0.3132 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 42 | `apiclaw.cn` | ¥1.061 | $0.157905 / $0.31581 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 43 | `newapi.xueai.me` | ¥1.061 | $0.157905 / $0.31581 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 44 | `wodapis.com` | ¥1.061 | $0.157905 / $0.31581 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 45 | `ciyuan.today` | ¥1.096 | $0.163125 / $0.32625 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 46 | `gptapi.top` | ¥1.096 | $0.163125 / $0.32625 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 47 | `makerend.com` | ¥1.096 | $0.163125 / $0.32625 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 48 | `moliapi.com` | ¥1.105 | $0.16443 / $0.32886 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 49 | `ai-api.cc` | ¥1.14 | $0.16965 / $0.3393 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
+| 50 | `nodapi.com` | ¥1.157 | $0.17226 / $0.34452 | 6.718 | Self-Deployed-1 | mimo-v2.6-pro |
 
-> 另有 82 站未列出。
+> 另有 91 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -105,4 +105,4 @@
 | 36 | `meta-api.vip` | $15 / $30 | MiMo · 优质 | 1 | mimo-v2.6-pro |
 | 37 | `openai.sharkmagic.top` | $405 / $810 | tier_3 | 0.9 | [hm]u\|mimo-v2.6-pro |
 
-> 89 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 92 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

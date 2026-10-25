@@ -1,6 +1,6 @@
 # gemini-2.5-pro-preview-tts
 
-> 209 站提供 · 正常价 168 站 · 名义中位价 **$2.4**/1M 输入 · 实付中位价 **¥4**/1M 输入（95 站公开充值价） · 推算，未对账
+> 215 站提供 · 正常价 173 站 · 名义中位价 **$2.4**/1M 输入 · 实付中位价 **¥4**/1M 输入（100 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -37,31 +37,31 @@
 | 25 | `openlux.zhongzhuan.chat` | ¥2.964 | $0.44118 / $8.8236 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
 | 26 | `api.zyai.online` | ¥3 | $3 / $3 | 1 | Banana2_VIP | gemini-2.5-pro-preview-tts |
 | 27 | `poloai.top` | ¥3 | $3 / $60 | 1 | gemini-号池 | gemini-2.5-pro-preview-tts |
-| 28 | `yibuapi.com` | ¥3 | $2 / $40 | 1.5 | default | gemini-2.5-pro-preview-tts |
-| 29 | `api.tidewhisper-ai.xyz` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 30 | `gzxbykj.com` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 31 | `yunwu.org` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 32 | `v2.cloudmist.cloud` | ¥3.408 | $0.507357 / $10.1471 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 33 | `4sapi.com` | ¥3.5 | $3.5 / $70 | 1 | Gemini优质分组 | gemini-2.5-pro-preview-tts |
-| 34 | `api.ifopen.ai` | ¥3.5 | $1 / $20 | 3.5 | default | gemini-2.5-pro-preview-tts |
-| 35 | `api2.aigcbest.top` | ¥3.5 | $1 / $20 | 3.5 | default | gemini-2.5-pro-preview-tts |
-| 36 | `www.vectronode.com` | ¥3.557 | $0.529416 / $10.5883 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 37 | `apiclaw.cn` | ¥3.586 | $0.533828 / $10.6766 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 38 | `newapi.xueai.me` | ¥3.586 | $0.533828 / $10.6766 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 39 | `wodapis.com` | ¥3.586 | $0.533828 / $10.6766 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 40 | `new.foxi-api.cn` | ¥3.6 | $3.6 / $72 | 1 | 官转gemini | gemini-2.5-pro-preview-tts |
-| 41 | `ciyuan.today` | ¥3.705 | $0.551475 / $11.0295 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 42 | `gptapi.top` | ¥3.705 | $0.551475 / $11.0295 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 43 | `makerend.com` | ¥3.705 | $0.551475 / $11.0295 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 44 | `moliapi.com` | ¥3.734 | $0.555887 / $11.1177 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 45 | `ai-api.cc` | ¥3.853 | $0.573534 / $11.4707 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 46 | `nodapi.com` | ¥3.912 | $0.582358 / $11.6472 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
-| 47 | `147ai.com` | ¥4 | $4 / $80 | 1 | gemini* | gemini-2.5-pro-preview-tts |
-| 48 | `api.147ai.cn` | ¥4 | $4 / $80 | 1 | gemini | gemini-2.5-pro-preview-tts |
-| 49 | `proaiapi.tech` | ¥4 | $4 / $80 | 1 | 官转 | gemini-2.5-pro-preview-tts |
-| 50 | `anyaigc.ai` | ¥4.001 | $0.595593 / $11.9119 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 28 | `xy.poloapi.com` | ¥3 | $3 / $60 | 1 | gemini-as | gemini-2.5-pro-preview-tts |
+| 29 | `yibuapi.com` | ¥3 | $2 / $40 | 1.5 | default | gemini-2.5-pro-preview-tts |
+| 30 | `4zapi.com` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 31 | `api.tidewhisper-ai.xyz` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 32 | `gzxbykj.com` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 33 | `yunwu.org` | ¥3.26 | $0.485298 / $9.70596 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 34 | `api.antmoo.cc` | ¥3.408 | $0.507357 / $10.1471 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 35 | `v2.cloudmist.cloud` | ¥3.408 | $0.507357 / $10.1471 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 36 | `4sapi.com` | ¥3.5 | $3.5 / $70 | 1 | Gemini优质分组 | gemini-2.5-pro-preview-tts |
+| 37 | `api.ifopen.ai` | ¥3.5 | $1 / $20 | 3.5 | default | gemini-2.5-pro-preview-tts |
+| 38 | `api2.aigcbest.top` | ¥3.5 | $1 / $20 | 3.5 | default | gemini-2.5-pro-preview-tts |
+| 39 | `www.vectronode.com` | ¥3.557 | $0.529416 / $10.5883 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 40 | `apiclaw.cn` | ¥3.586 | $0.533828 / $10.6766 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 41 | `newapi.xueai.me` | ¥3.586 | $0.533828 / $10.6766 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 42 | `wodapis.com` | ¥3.586 | $0.533828 / $10.6766 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 43 | `new.foxi-api.cn` | ¥3.6 | $3.6 / $72 | 1 | 官转gemini | gemini-2.5-pro-preview-tts |
+| 44 | `ciyuan.today` | ¥3.705 | $0.551475 / $11.0295 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 45 | `gptapi.top` | ¥3.705 | $0.551475 / $11.0295 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 46 | `makerend.com` | ¥3.705 | $0.551475 / $11.0295 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 47 | `moliapi.com` | ¥3.734 | $0.555887 / $11.1177 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 48 | `ai-api.cc` | ¥3.853 | $0.573534 / $11.4707 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 49 | `nodapi.com` | ¥3.912 | $0.582358 / $11.6472 | 6.718 | Aistudio-Gemini-3 | gemini-2.5-pro-preview-tts |
+| 50 | `147ai.com` | ¥4 | $4 / $80 | 1 | gemini* | gemini-2.5-pro-preview-tts |
 
-> 另有 45 站未列出。
+> 另有 50 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 23 站未列出。
 
-> 41 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 42 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

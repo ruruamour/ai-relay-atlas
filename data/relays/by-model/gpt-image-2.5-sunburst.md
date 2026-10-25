@@ -1,6 +1,6 @@
 # gpt-image-2.5-sunburst
 
-> 1170 站提供 · 正常价 672 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.103**/次（537 站公开充值价） · 推算，未对账
+> 1206 站提供 · 正常价 690 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.1**/次（553 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,52 +16,52 @@
 | 4 | `ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2.5-sunburst |
 | 5 | `api.klong.lat` | ¥0.01 | $0.01 | 1 | gpt-image | gpt-image-2.5-sunburst |
 | 6 | `api.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
-| 7 | `img.yunfei.best` | ¥0.01 | $0.01 | 1 | image2 1k | gpt-image-2.5-sunburst |
-| 8 | `momoapi.xin` | ¥0.01 | $0.01 | 1 | img | gpt-image-2.5-sunburst |
-| 9 | `openkun.xyz` | ¥0.01 | $0.01 | 1 | Image生图 | gpt-image-2.5-sunburst |
-| 10 | `shendun.vip` | ¥0.01 | $0.01 | 1 | 1k-企业级稳定 | gpt-image-2.5-sunburst-1k |
-| 11 | `uo.mentoe.com` | ¥0.01 | $0.01 | 1 | IG | gpt-image-2.5-sunburst |
-| 12 | `us.uocode.com` | ¥0.01 | $0.01 | 1 | IG | gpt-image-2.5-sunburst |
-| 13 | `video.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
-| 14 | `www.ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2.5-sunburst |
-| 15 | `api.rinko.ai` | ¥0.012 | $0.012 | 1 | GPTIMAGE超低价1K | gpt-image-2.5-sunburst |
-| 16 | `buliangrenai.com` | ¥0.012 | $0.012 | 1 | image-standard | gpt-image-2.5-sunburst |
-| 17 | `new.97api.com` | ¥0.012 | $0.012 | 1 | defalut | gpt-image-2.5-sunburst |
-| 18 | `nikoapi.xyz` | ¥0.012 | $0.012 | 1 | 生图专用 | gpt-image-2.5-sunburst |
-| 19 | `topapi.link` | ¥0.012 | $0.012 | 1 | gpt | gpt-image-2.5-sunburst |
-| 20 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2.5-sunburst-1k |
-| 21 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2.5-sunburst |
-| 22 | `api.vakv.cn` | ¥0.015 | $0.015 | 1 | 生图专用 | gpt-image-2.5-sunburst |
-| 23 | `⚠️codelypixverse.com` | ¥0.015 | $0.015 | 1 | default | gpt-image-2.5-sunburst |
-| 24 | `bearlab.ai` | ¥0.018 | $0.018 | 1 | 【生图】image | gpt-image-2.5-sunburst |
-| 25 | `code.ciyuanapi.xyz` | ¥0.01875 | $0.01875 | 1 | Image逆向1K | gpt-image-2.5-sunburst |
-| 26 | `aceoai.com` | ¥0.019 | $0.019 | 1 | gpt-img专用 | gpt-image-2.5-sunburst |
-| 27 | `reverix.ai` | ¥0.0192 | $0.0192 | 1 | default | gpt-image-2.5-sunburst |
-| 28 | `aizzz.shop` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-sunburst |
-| 29 | `api.0elog.com` | ¥0.02 | $0.02 | 1 | GPT生图 | gpt-image-2.5-sunburst |
-| 30 | `api.novaeworld.top` | ¥0.02 | $0.02 | 1 | vip | gpt-image-2.5-sunburst |
-| 31 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 生图 | gpt-image-2.5-sunburst |
-| 32 | `api.tccxy.top` | ¥0.02 | $0.02 | 1 | GPT画图2K | gpt-image-2.5-sunburst |
-| 33 | `api.ywcode.top` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-sunburst |
-| 34 | `api.zoowyoo.dpdns.org` | ¥0.02 | $0.02 | 1 | 生图 | gpt-image-2.5-sunburst |
-| 35 | `api.zzswitch.com` | ¥0.02 | $0.02 | 1 | gpt生图 | gpt-image-2.5-sunburst |
-| 36 | `code.aigcpro.org` | ¥0.02 | $0.02 | 1 | 画图分组 | gpt-image-2.5-sunburst |
-| 37 | `cpa057.meta-api.vip` | ¥0.02 | $0.02 | 1 | 1-图片+视频全系 | gpt-image-2.5-sunburst |
-| 38 | `hiapi.top` | ¥0.02 | $0.02 | 1 | 生图专用 | gpt-image-2.5-sunburst |
-| 39 | `llmhub.ltd` | ¥0.02 | $0.02 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
-| 40 | `llmhub.uk` | ¥0.02 | $0.02 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
-| 41 | `miaochuang.setbug.cn` | ¥0.02 | $0.02 | 1 | 【image2&2.5】002 | gpt-image-2.5-sunburst |
-| 42 | `multimodal.aicodeyy.top` | ¥0.02 | $0.02 | 1 | image-spe | gpt-image-2.5-sunburst |
-| 43 | `www.shenlanqaq.com` | ¥0.02 | $0.02 | 1 | 新渠道不降智 | gpt-image-2.5-sunburst |
-| 44 | `www.xpivot.top` | ¥0.02 | $0.02 | 1 | IMAGE2-1K | gpt-image-2.5-sunburst |
-| 45 | `xixi.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | site_34~4dc9fcbd26735987 | gpt-image-2.5-sunburst |
-| 46 | `yetoken.vip` | ¥0.02 | $0.02 | 1 | G-image2 1K生图 | gpt-image-2.5-sunburst |
-| 47 | `fishxcode.cyou` | ¥0.024 | $0.024 | 1 | codex_pro | gpt-image-2.5-sunburst |
-| 48 | `ai.cangyuansuanli.cn` | ¥0.025 | $0.025 | 1 | IMAGE | gpt-image-2.5-sunburst |
-| 49 | `api.bjhuiqu.net` | ¥0.025 | $0.025 | 1 | 0.无限画布专用 | gpt-image-2.5-sunburst |
-| 50 | `api.monkey-tools.cn` | ¥0.025 | $0.025 | 1 | 99_线路4_gpt生图 | gpt-image-2.5-sunburst |
+| 7 | `api.tokenfreeperday.com` | ¥0.01 | $0.01 | 1 | ALL | gpt-image-2.5-sunburst |
+| 8 | `img.yunfei.best` | ¥0.01 | $0.01 | 1 | image2 1k | gpt-image-2.5-sunburst |
+| 9 | `momoapi.xin` | ¥0.01 | $0.01 | 1 | img | gpt-image-2.5-sunburst |
+| 10 | `openkun.xyz` | ¥0.01 | $0.01 | 1 | Image生图 | gpt-image-2.5-sunburst |
+| 11 | `shendun.vip` | ¥0.01 | $0.01 | 1 | 1k-企业级稳定 | gpt-image-2.5-sunburst-1k |
+| 12 | `uo.mentoe.com` | ¥0.01 | $0.01 | 1 | IG | gpt-image-2.5-sunburst |
+| 13 | `us.uocode.com` | ¥0.01 | $0.01 | 1 | IG | gpt-image-2.5-sunburst |
+| 14 | `video.liangrekui.com` | ¥0.01 | $0.01 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
+| 15 | `www.ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2.5-sunburst |
+| 16 | `www.aitoke.top` | ¥0.01 | $0.01 | 1 | IG | gpt-image-2.5-sunburst |
+| 17 | `api.rinko.ai` | ¥0.012 | $0.012 | 1 | GPTIMAGE超低价1K | gpt-image-2.5-sunburst |
+| 18 | `buliangrenai.com` | ¥0.012 | $0.012 | 1 | image-standard | gpt-image-2.5-sunburst |
+| 19 | `new.97api.com` | ¥0.012 | $0.012 | 1 | defalut | gpt-image-2.5-sunburst |
+| 20 | `nikoapi.xyz` | ¥0.012 | $0.012 | 1 | 生图专用 | gpt-image-2.5-sunburst |
+| 21 | `topapi.link` | ¥0.012 | $0.012 | 1 | gpt | gpt-image-2.5-sunburst |
+| 22 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2.5-sunburst-1k |
+| 23 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2.5-sunburst |
+| 24 | `api.foo` | ¥0.015 | $0.015 | 1 | gpt-image-2.5（生图） | gpt-image-2.5-sunburst |
+| 25 | `api.vakv.cn` | ¥0.015 | $0.015 | 1 | 生图专用 | gpt-image-2.5-sunburst |
+| 26 | `⚠️codelypixverse.com` | ¥0.015 | $0.015 | 1 | default | gpt-image-2.5-sunburst |
+| 27 | `bearlab.ai` | ¥0.018 | $0.018 | 1 | 【生图】image | gpt-image-2.5-sunburst |
+| 28 | `code.ciyuanapi.xyz` | ¥0.01875 | $0.01875 | 1 | Image逆向1K | gpt-image-2.5-sunburst |
+| 29 | `aceoai.com` | ¥0.019 | $0.019 | 1 | gpt-img专用 | gpt-image-2.5-sunburst |
+| 30 | `reverix.ai` | ¥0.0192 | $0.0192 | 1 | default | gpt-image-2.5-sunburst |
+| 31 | `aizzz.shop` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-sunburst |
+| 32 | `api-models.com` | ¥0.02 | $0.02 | 1 | Image | gpt-image-2.5-sunburst |
+| 33 | `api.0elog.com` | ¥0.02 | $0.02 | 1 | GPT生图 | gpt-image-2.5-sunburst |
+| 34 | `api.novaeworld.top` | ¥0.02 | $0.02 | 1 | vip | gpt-image-2.5-sunburst |
+| 35 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 生图 | gpt-image-2.5-sunburst |
+| 36 | `api.tccxy.top` | ¥0.02 | $0.02 | 1 | GPT画图2K | gpt-image-2.5-sunburst |
+| 37 | `api.ywcode.top` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-sunburst |
+| 38 | `api.zoowyoo.dpdns.org` | ¥0.02 | $0.02 | 1 | 生图 | gpt-image-2.5-sunburst |
+| 39 | `api.zzswitch.com` | ¥0.02 | $0.02 | 1 | gpt生图 | gpt-image-2.5-sunburst |
+| 40 | `code.aigcpro.org` | ¥0.02 | $0.02 | 1 | 画图分组 | gpt-image-2.5-sunburst |
+| 41 | `cpa057.meta-api.vip` | ¥0.02 | $0.02 | 1 | 1-图片+视频全系 | gpt-image-2.5-sunburst |
+| 42 | `hiapi.top` | ¥0.02 | $0.02 | 1 | 生图专用 | gpt-image-2.5-sunburst |
+| 43 | `llmhub.ltd` | ¥0.02 | $0.02 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
+| 44 | `llmhub.uk` | ¥0.02 | $0.02 | 1 | gpt-image-2 | gpt-image-2.5-sunburst |
+| 45 | `miaochuang.setbug.cn` | ¥0.02 | $0.02 | 1 | 【image2&2.5】002 | gpt-image-2.5-sunburst |
+| 46 | `multimodal.aicodeyy.top` | ¥0.02 | $0.02 | 1 | image-spe | gpt-image-2.5-sunburst |
+| 47 | `www.shenlanqaq.com` | ¥0.02 | $0.02 | 1 | 新渠道不降智 | gpt-image-2.5-sunburst |
+| 48 | `www.xpivot.top` | ¥0.02 | $0.02 | 1 | IMAGE2-1K | gpt-image-2.5-sunburst |
+| 49 | `xixi.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | site_34~4dc9fcbd26735987 | gpt-image-2.5-sunburst |
+| 50 | `yetoken.vip` | ¥0.02 | $0.02 | 1 | G-image2 1K生图 | gpt-image-2.5-sunburst |
 
-> 另有 487 站未列出。
+> 另有 503 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `ai.comfly.org` | $0.08 | default | 1 | gpt-image-2.5-sunburst-4k |
 | 50 | `ai.nexfaro.com` | $0.08 | GPT · Image | 1 | gpt-image-2.5-sunburst |
 
-> 另有 85 站未列出。
+> 另有 87 站未列出。
 
-> 498 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 516 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

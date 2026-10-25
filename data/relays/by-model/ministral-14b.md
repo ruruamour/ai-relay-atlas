@@ -1,6 +1,6 @@
 # ministral-14b
 
-> 25 站提供 · 正常价 11 站 · 名义中位价 **$0.307692**/1M 输入 · 实付中位价 **¥1.488**/1M 输入（10 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 13 站 · 名义中位价 **$0.307692**/1M 输入 · 实付中位价 **¥0.965**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,14 +12,16 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.18 | $0.18 / $0.18 | 1 | Mistral | ministral-14b-2512 |
 | 2 | `api.ouu.ch` | ¥0.2 | $0.2 / $0.2 | 1 | default | ministral-14b-2512 |
-| 3 | `api.qinzhiai.com` | ¥0.7 | $0.7 / $0.7 | 1 | openrouter | mistralai/ministral-14b-2512 |
-| 4 | `api.pie-xian.com` | ¥0.73 | $0.1 / $1 | 7.3 | model | ministral-14b-latest |
-| 5 | `llm.kagu.one` | ¥0.73 | $0.1 / $0.1 | 7.3 | 大杂烩 | ministral-14b-2512 |
-| 6 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $0.307692 | 7.3 | default | mistralai/ministral-14b-2512 |
-| 7 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $0.36 | 7.3 | 官方合作渠道 | mistralai/ministral-14b-2512 |
-| 8 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | ministral-14b-latest |
-| 9 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
-| 10 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
+| 3 | `ai.mowen.vip` | ¥0.6689 | $0.1 / $0.1 | 6.6892 | default | ministral-14b-2512 |
+| 4 | `api.qinzhiai.com` | ¥0.7 | $0.7 / $0.7 | 1 | openrouter | mistralai/ministral-14b-2512 |
+| 5 | `api.pie-xian.com` | ¥0.73 | $0.1 / $1 | 7.3 | model | ministral-14b-latest |
+| 6 | `llm.kagu.one` | ¥0.73 | $0.1 / $0.1 | 7.3 | 大杂烩 | ministral-14b-2512 |
+| 7 | `ai.bytonsec.com` | ¥1.2 | $1.2 / $1.2 | 1 | OpenRouter | mistralai/ministral-14b-2512 |
+| 8 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $0.307692 | 7.3 | default | mistralai/ministral-14b-2512 |
+| 9 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $0.36 | 7.3 | 官方合作渠道 | mistralai/ministral-14b-2512 |
+| 10 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | ministral-14b-latest |
+| 11 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
+| 12 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

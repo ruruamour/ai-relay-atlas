@@ -1,6 +1,6 @@
 # deepseek-r1-distill-qwen-7b
 
-> 110 站提供 · 正常价 93 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.6**/1M 输入（27 站公开充值价） · 推算，未对账
+> 117 站提供 · 正常价 97 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.6**/1M 输入（31 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,28 +15,32 @@
 | 3 | `aws.baby` | ¥0.07143 | $0.0714286 / $0.142857 | 1 | 阿里云百炼大客户 | deepseek-r1-distill-qwen-7b |
 | 4 | `biezou.com` | ¥0.07143 | $0.0714286 / $0.142857 | 1 | 阿里云百炼大客户 | deepseek-r1-distill-qwen-7b |
 | 5 | `e.fishxcode.com` | ¥0.07143 | $0.0714286 / $0.142857 | 1 | default | deepseek-r1-distill-qwen-7b |
-| 6 | `api.eido.top` | ¥0.4 | $0.4 / $1.6 | 1 | default | deepseek-r1-distill-qwen-7b |
-| 7 | `poloai.top` | ¥0.4 | $0.4 / $0.8 | 1 | Deepseek | deepseek-r1-distill-qwen-7b |
-| 8 | `claudecn.ai` | ¥0.45 | $0.45 / $0.9 | 1 | 国产模型 | deepseek-r1-distill-qwen-7b |
-| 9 | `keypool.space` | ¥0.5 | $0.5 / $1 | 1 | vip | deepseek-r1-distill-qwen-7b |
-| 10 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $1 | 1 | default | deepseek-r1-distill-qwen-7b |
-| 11 | `xinsuanai.com` | ¥0.5 | $0.5 / $1 | 1 | default | deepseek-r1-distill-qwen-7b |
-| 12 | `unorouter.net` | ¥0.5214 | $0.0714286 / $0.142857 | 7.3 | default | deepseek-r1-distill-qwen-7b |
-| 13 | `www.yibuapi.cn` | ¥0.6 | $0.4 / $0.8 | 1.5 | claude-code | deepseek-r1-distill-qwen-7b |
-| 14 | `yibuapi.cn` | ¥0.6 | $0.4 / $0.8 | 1.5 | claude-code | deepseek-r1-distill-qwen-7b |
-| 15 | `yibuapi.com` | ¥0.6 | $0.4 / $0.8 | 1.5 | claude-code | deepseek-r1-distill-qwen-7b |
-| 16 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | DeepSeek-R1-Distill-Qwen-7B |
-| 17 | `api.pie-xian.com` | ¥0.73 | $0.1 / $0.3 | 7.3 | 无限制 | deepseek-r1-distill-qwen-7b |
-| 18 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | deepseek-r1-distill-qwen-7b |
-| 19 | `api.ifopen.ai` | ¥0.91 | $0.26 / $0.52 | 3.5 | 通用大模型 | deepseek-r1-distill-qwen-7b |
-| 20 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $0.52 | 3.5 | 通用大模型 | deepseek-r1-distill-qwen-7b |
-| 21 | `api.zyai.online` | ¥1 | $1 / $4 | 1 | mini | deepseek-r1-distill-qwen-7b |
-| 22 | `api.camel-hub.cn` | ¥1.5 | $1.875 / $3.75 | 0.8 | OFC | deepseek-r1-distill-qwen-7b |
-| 23 | `api.camel-hub.com` | ¥1.5 | $1.875 / $3.75 | 0.8 | OFC | deepseek-r1-distill-qwen-7b |
-| 24 | `api.kr777.top` | ¥1.5 | $1.875 / $3.75 | 0.8 | OFC | deepseek-r1-distill-qwen-7b |
-| 25 | `codeyy.top` | ¥3.65 | $0.5 / $1 | 7.3 | default | deepseek-r1-distill-qwen-7b |
-| 26 | `hy88.my` | ¥8.76 | $1.2 / $4.8 | 7.3 | qwen | deepseek-r1-distill-qwen-7b |
-| 27 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-7b |
+| 6 | `ai.mowen.vip` | ¥0.2408 | $0.036 / $0.072 | 6.6892 | default | DeepSeek-R1-Distill-Qwen-7B |
+| 7 | `api.aiskt.com` | ¥0.35 | $0.35 / $0.7 | 1 | default | deepseek-r1-distill-qwen-7b |
+| 8 | `api.eido.top` | ¥0.4 | $0.4 / $1.6 | 1 | default | deepseek-r1-distill-qwen-7b |
+| 9 | `poloai.top` | ¥0.4 | $0.4 / $0.8 | 1 | Deepseek | deepseek-r1-distill-qwen-7b |
+| 10 | `claudecn.ai` | ¥0.45 | $0.45 / $0.9 | 1 | 国产模型 | deepseek-r1-distill-qwen-7b |
+| 11 | `xy.poloapi.com` | ¥0.45 | $0.45 / $0.9 | 1 | qwen-new | deepseek-r1-distill-qwen-7b |
+| 12 | `keypool.space` | ¥0.5 | $0.5 / $1 | 1 | vip | deepseek-r1-distill-qwen-7b |
+| 13 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $1 | 1 | default | deepseek-r1-distill-qwen-7b |
+| 14 | `xinsuanai.com` | ¥0.5 | $0.5 / $1 | 1 | default | deepseek-r1-distill-qwen-7b |
+| 15 | `unorouter.net` | ¥0.5214 | $0.0714286 / $0.142857 | 7.3 | default | deepseek-r1-distill-qwen-7b |
+| 16 | `www.dayueai.fun` | ¥0.6 | $0.6 / $1.2 | 1 | vip | deepseek-r1-distill-qwen-7b |
+| 17 | `www.yibuapi.cn` | ¥0.6 | $0.4 / $0.8 | 1.5 | claude-code | deepseek-r1-distill-qwen-7b |
+| 18 | `yibuapi.cn` | ¥0.6 | $0.4 / $0.8 | 1.5 | claude-code | deepseek-r1-distill-qwen-7b |
+| 19 | `yibuapi.com` | ¥0.6 | $0.4 / $0.8 | 1.5 | claude-code | deepseek-r1-distill-qwen-7b |
+| 20 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | DeepSeek-R1-Distill-Qwen-7B |
+| 21 | `api.pie-xian.com` | ¥0.73 | $0.1 / $0.3 | 7.3 | 无限制 | deepseek-r1-distill-qwen-7b |
+| 22 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | deepseek-r1-distill-qwen-7b |
+| 23 | `api.ifopen.ai` | ¥0.91 | $0.26 / $0.52 | 3.5 | 通用大模型 | deepseek-r1-distill-qwen-7b |
+| 24 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $0.52 | 3.5 | 通用大模型 | deepseek-r1-distill-qwen-7b |
+| 25 | `api.zyai.online` | ¥1 | $1 / $4 | 1 | mini | deepseek-r1-distill-qwen-7b |
+| 26 | `api.camel-hub.cn` | ¥1.5 | $1.875 / $3.75 | 0.8 | OFC | deepseek-r1-distill-qwen-7b |
+| 27 | `api.camel-hub.com` | ¥1.5 | $1.875 / $3.75 | 0.8 | OFC | deepseek-r1-distill-qwen-7b |
+| 28 | `api.kr777.top` | ¥1.5 | $1.875 / $3.75 | 0.8 | OFC | deepseek-r1-distill-qwen-7b |
+| 29 | `codeyy.top` | ¥3.65 | $0.5 / $1 | 7.3 | default | deepseek-r1-distill-qwen-7b |
+| 30 | `hy88.my` | ¥8.76 | $1.2 / $4.8 | 7.3 | qwen | deepseek-r1-distill-qwen-7b |
+| 31 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-7b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -95,4 +99,4 @@
 
 > 另有 16 站未列出。
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

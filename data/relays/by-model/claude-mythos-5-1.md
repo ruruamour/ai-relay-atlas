@@ -1,6 +1,6 @@
 # claude-mythos-5-1
 
-> 20 站提供 · 正常价 18 站 · 名义中位价 **$10**/1M 输入 · 推算，未对账
+> 21 站提供 · 正常价 19 站 · 名义中位价 **$10**/1M 输入 · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,7 +24,8 @@
 | 14 | `ai.aiaimark.com` | $15 / $75 | claude-优惠分组 | 1.5 | claude-mythos-5-1 |
 | 15 | `ai.bayunzi.shop` | $15 / $75 | Claude-官转可外接 | 1.5 | claude-mythos-5-1 |
 | 16 | `www.jiguang.me` | $15 / $75 | CCMAX蒸馏 | 1.5 | claude-mythos-5-1 |
-| 17 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-5-1 |
-| 18 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-5-1 |
+| 17 | `magicai.click` | $18 / $90 | Claude-负载均衡1 | 1.8 | claude-mythos-5-1 |
+| 18 | `expapi.echoflowai.cc` | $20 / $100 | Claude（kiro反代） | 2 | claude-mythos-5-1 |
+| 19 | `ai.hongyun.chat` | $55 / $275 | Claude-Kiro分组 | 5.5 | claude-mythos-5-1 |
 
 > 2 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

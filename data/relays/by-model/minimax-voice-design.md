@@ -1,6 +1,6 @@
 # minimax-voice-design
 
-> 118 站提供 · 正常价 117 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.01261**/次（52 站公开充值价） · 推算，未对账
+> 123 站提供 · 正常价 122 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.01186**/次（57 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,55 +13,55 @@
 | 1 | `api.openlux.ai` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
 | 2 | `api.relayrouter.ai` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.007904 | $0.00117648 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 5 | `gzxbykj.com` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 6 | `yunwu.org` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 7 | `v2.cloudmist.cloud` | ¥0.009089 | $0.00135295 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 8 | `www.vectronode.com` | ¥0.009484 | $0.00141178 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 9 | `apiclaw.cn` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 10 | `newapi.xueai.me` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 11 | `wodapis.com` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 12 | `ciyuan.today` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 13 | `gptapi.top` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 14 | `makerend.com` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 15 | `moliapi.com` | ¥0.009958 | $0.00148236 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 16 | `ai-api.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 17 | `infai.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 18 | `nodapi.com` | ¥0.01043 | $0.00155295 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 19 | `anyaigc.ai` | ¥0.01067 | $0.00158825 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 20 | `sheepaiplus.top` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 21 | `xiguapi.icu` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 22 | `api.88api.chat` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 23 | `api.88api.shop` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 24 | `api.videocaptioner.cn` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 25 | `new.aigc2d.com` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 26 | `oyy-ai.xyz` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 27 | `api.nixapi.com` | ¥0.01336 | $0.00198825 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 28 | `claudecn.ai` | ¥0.0144 | $0.0144 | 1 | 国产模型 | MiniMax-Voice-Design |
-| 29 | `aiwuje.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 30 | `api.cursorai.art` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 31 | `api.echoflowai.cc` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 32 | `api.n1n.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 33 | `api.quickrouter.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 34 | `jeniya.cn` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 35 | `linoapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 36 | `llm-api.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 37 | `quanzil.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 38 | `token173.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 39 | `tryallapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 40 | `wellapi.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 41 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | MiniMax-Voice-Design |
-| 42 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Voice-Design |
-| 43 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | MiniMax-Voice-Design |
-| 44 | `thousandengine.com` | ¥0.01608 | $0.00239414 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
-| 45 | `api.camel-hub.com` | ¥0.04 | $0.05 | 0.8 | default | MiniMax-Voice-Design |
-| 46 | `plusx.nyxos.shop` | ¥0.08588 | $0.0117648 | 7.3 | Hailuo-1 | MiniMax-Voice-Design |
-| 47 | `nbapi.net` | ¥0.1168 | $0.016 | 7.3 | default | MiniMax-Voice-Design |
-| 48 | `top.qingyuntop.top` | ¥6.93 | $6.93 | 1 | 国内模型 | MiniMax-Voice-Design |
-| 49 | `api.bltcy.ai` | ¥9.9 | $9.9 | 1 | default | minimax-voice-design |
-| 50 | `apilio.ai` | ¥9.9 | $9.9 | 1 | default | minimax-voice-design |
+| 4 | `4zapi.com` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 6 | `gzxbykj.com` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 7 | `yunwu.org` | ¥0.008694 | $0.00129413 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 8 | `api.antmoo.cc` | ¥0.009089 | $0.00135295 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 9 | `v2.cloudmist.cloud` | ¥0.009089 | $0.00135295 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 10 | `www.vectronode.com` | ¥0.009484 | $0.00141178 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 11 | `apiclaw.cn` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 12 | `newapi.xueai.me` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 13 | `wodapis.com` | ¥0.009563 | $0.00142354 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 14 | `ciyuan.today` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 15 | `gptapi.top` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 16 | `makerend.com` | ¥0.009879 | $0.0014706 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 17 | `moliapi.com` | ¥0.009958 | $0.00148236 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 18 | `ai-api.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 19 | `infai.cc` | ¥0.01027 | $0.00152942 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 20 | `nodapi.com` | ¥0.01043 | $0.00155295 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 21 | `anyaigc.ai` | ¥0.01067 | $0.00158825 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 22 | `sheepaiplus.top` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 23 | `xiguapi.icu` | ¥0.01107 | $0.00164707 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 24 | `api.88api.chat` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 25 | `api.88api.shop` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 26 | `api.videocaptioner.cn` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 27 | `lanbuff.app` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 28 | `new.aigc2d.com` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 29 | `oyy-ai.xyz` | ¥0.01186 | $0.00176472 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 30 | `api.nixapi.com` | ¥0.01336 | $0.00198825 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 31 | `claudecn.ai` | ¥0.0144 | $0.0144 | 1 | 国产模型 | MiniMax-Voice-Design |
+| 32 | `aiwuje.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 33 | `api.cursorai.art` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 34 | `api.echoflowai.cc` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 35 | `api.n1n.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 36 | `api.quickrouter.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 37 | `jeniya.cn` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 38 | `linoapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 39 | `linoroute.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 40 | `llm-api.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 41 | `quanzil.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 42 | `token173.net` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 43 | `tryallapi.com` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 44 | `wellapi.ai` | ¥0.01581 | $0.00235296 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 45 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | MiniMax-Voice-Design |
+| 46 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | MiniMax-Voice-Design |
+| 47 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | MiniMax-Voice-Design |
+| 48 | `thousandengine.com` | ¥0.01608 | $0.00239414 | 6.718 | Hailuo-1 | MiniMax-Voice-Design |
+| 49 | `api.camel-hub.com` | ¥0.04 | $0.05 | 0.8 | default | MiniMax-Voice-Design |
+| 50 | `ai.mowen.vip` | ¥0.05351 | $0.008 | 6.6892 | default | minimax-voice-design |
 
-> 另有 2 站未列出。
+> 另有 7 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

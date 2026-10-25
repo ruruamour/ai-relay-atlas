@@ -1,6 +1,6 @@
 # nemotron-3-nano-30b-a3b
 
-> 25 站提供 · 正常价 10 站 · 名义中位价 **$0.0911539**/1M 输入 · 实付中位价 **¥0.34**/1M 输入（7 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 13 站 · 名义中位价 **$0.0923077**/1M 输入 · 实付中位价 **¥0.2706**/1M 输入（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,13 +10,16 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.kkdmx.com` | ¥0.18 | $0.18 / $0.9 | 1 | default | nvidia/nemotron-3-nano-30b-a3b |
-| 2 | `api.qinzhiai.com` | ¥0.21 | $0.21 / $0.84 | 1 | openrouter | nvidia/nemotron-3-nano-30b-a3b |
-| 3 | `botcf.com` | ¥0.2412 | $0.2412 / $0.9648 | 1 | 🛰️nvidia-mix | nemotron-3-nano-30b-a3b |
-| 4 | `hk.moleapi.com` | ¥0.34 | $0.05 / $0.2 | 6.8 | default | nemotron-3-nano-30b-a3b |
-| 5 | `ai2.qiqiai.top` | ¥0.657 | $0.09 / $0.36 | 7.3 | 官方合作渠道 | nvidia/nemotron-3-nano-30b-a3b |
-| 6 | `api.tacklekey.com` | ¥0.6738 | $0.0923077 / $0.369231 | 7.3 | default | nvidia/nemotron-3-nano-30b-a3b |
-| 7 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-nano-30b-a3b |
+| 1 | `ai.mowen.vip` | ¥0.1672 | $0.025 / $0.1 | 6.6892 | default | nemotron-3-nano-30b-a3b |
+| 2 | `api.kkdmx.com` | ¥0.18 | $0.18 / $0.9 | 1 | default | nvidia/nemotron-3-nano-30b-a3b |
+| 3 | `api.qinzhiai.com` | ¥0.21 | $0.21 / $0.84 | 1 | openrouter | nvidia/nemotron-3-nano-30b-a3b |
+| 4 | `botcf.com` | ¥0.2412 | $0.2412 / $0.9648 | 1 | 🛰️nvidia-mix | nemotron-3-nano-30b-a3b |
+| 5 | `xn--15q04w3tg4kio0a.com` | ¥0.2412 | $0.2412 / $0.9648 | 1 | 🛰️nvidia-mix | nemotron-3-nano-30b-a3b |
+| 6 | `ai.bytonsec.com` | ¥0.3 | $0.3 / $1.2 | 1 | OpenRouter | nvidia/nemotron-3-nano-30b-a3b |
+| 7 | `hk.moleapi.com` | ¥0.34 | $0.05 / $0.2 | 6.8 | default | nemotron-3-nano-30b-a3b |
+| 8 | `ai2.qiqiai.top` | ¥0.657 | $0.09 / $0.36 | 7.3 | 官方合作渠道 | nvidia/nemotron-3-nano-30b-a3b |
+| 9 | `api.tacklekey.com` | ¥0.6738 | $0.0923077 / $0.369231 | 7.3 | default | nvidia/nemotron-3-nano-30b-a3b |
+| 10 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-nano-30b-a3b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # doubao-seed-2.0-mini
 
-> 25 站提供 · 正常价 8 站 · 名义中位价 **$0.055**/1M 输入 · 实付中位价 **¥0.11**/1M 输入（6 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 11 站 · 名义中位价 **$0.05**/1M 输入 · 实付中位价 **¥0.176**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,7 +15,10 @@
 | 3 | `closedai.kylenqaq.com` | ¥0.08 | $0.08 / $0.8 | 1 | 国产模型 | doubao-seed-2.0-mini |
 | 4 | `api.aliyunfuwu.top` | ¥0.14 | $0.14 / $0.56 | 1 | relay | Doubao-Seed-2.0-Mini |
 | 5 | `api.everyapi.ai` | ¥0.176 | $0.0241096 / $0.241096 | 7.3 | grp_cAT_D9r-aF | doubao-seed-2.0-mini |
-| 6 | `agent.tokensea.ai` | ¥0.2116 | $0.028986 / $0.289855 | 7.3 | default | Doubao-Seed-2.0-Mini |
+| 6 | `clawrouter.com` | ¥0.1971 | $0.027 / $0.27 | 7.3 | multipurpose | doubao-seed-2.0-mini |
+| 7 | `agent.tokensea.ai` | ¥0.2116 | $0.028986 / $0.289855 | 7.3 | default | Doubao-Seed-2.0-Mini |
+| 8 | `ai.mowen.vip` | ¥0.3345 | $0.05 / $0.2 | 6.6892 | default | Doubao-Seed-2.0-mini |
+| 9 | `api.xi-ai.cn` | ¥0.4 | $0.4 / $4 | 1 | 国产模型 | Doubao-seed-2.0-mini |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -24,4 +27,4 @@
 | 1 | `aichronos.xyz` | $0.12 / $1.2 | 国模 | 0.6 | doubao-seed-2.0-mini |
 | 2 | `rapidapi.cc` | $1.075 / $3.95 | 国模二组 | 0.2 | doubao-seed-2.0-mini-260215 |
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

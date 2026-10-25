@@ -1,6 +1,6 @@
 # veo-3.0-fast-generate-001
 
-> 33 站提供 · 正常价 24 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.773**/次（22 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 25 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.816**/次（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,7 +31,8 @@
 | 19 | `yinli.pro` | ¥1.643 | $0.225 | 7.3 | Gemini-低价-90%稳定性 | veo-3.0-fast-generate-001 |
 | 20 | `api.openai-labs.com` | ¥3 | $3 | 1 | default | veo-3.0-fast-generate-001 |
 | 21 | `toc.tmao.ai` | ¥3.285 | $0.45 | 7.3 | gemini | veo-3.0-fast-generate-001 |
-| 22 | `zen-ai.top` | ¥20 | $20 | 1 | 优质gemini | veo-3.0-fast-generate-001 |
+| 22 | `www.dayueai.fun` | ¥3.3 | $3.3 | 1 | vip | veo-3.0-fast-generate-001 |
+| 23 | `zen-ai.top` | ¥20 | $20 | 1 | 优质gemini | veo-3.0-fast-generate-001 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

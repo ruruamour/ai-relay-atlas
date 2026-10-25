@@ -1,6 +1,6 @@
 # veo3.1-fast
 
-> 37 站提供 · 正常价 26 站 · 名义中位价 **$0.75**/次 · 实付中位价 **¥1.169**/次（24 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 28 站 · 名义中位价 **$0.75**/次 · 实付中位价 **¥1.169**/次（26 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,28 +12,30 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.zyai.online` | ¥0.1 | $0.1 | 1 | mini | veo3.1-fast |
 | 2 | `www.ggwk1.online` | ¥0.4 | $0.4 | 1 | AI视频 | veo3.1-fast |
-| 3 | `api.eido.top` | ¥0.6 | $0.6 | 1 | default | veo3.1-fast |
-| 4 | `api.gptzzz.xyz` | ¥0.6 | $0.6 | 1 | videos | veo3.1-fast |
-| 5 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | veo3.1-fast-official |
-| 6 | `keypool.space` | ¥0.7 | $0.7 | 1 | vip | veo3.1-fast |
-| 7 | `xinsuanai.com` | ¥0.7 | $0.7 | 1 | default | veo3.1-fast |
-| 8 | `www.hohoapi.com` | ¥0.72 | $0.24 | 3 | video | Veo3.1-fast-official |
-| 9 | `n.lconai.com` | ¥0.8 | $0.8 | 1 | B1 | veo3.1-fast |
-| 10 | `api.new.bi` | ¥0.9 | $0.9 | 1 | New.bi-视频 | veo3.1-fast |
-| 11 | `toapis.com` | ¥0.98 | $0.14 | 7 | svip | veo3.1-fast |
-| 12 | `api.ilaien.com` | ¥1.168 | $0.16 | 7.3 | default | Veo3.1-fast-official |
-| 13 | `api.34ku.com` | ¥1.17 | $1.17 | 1 | default | veo3.1-fast |
-| 14 | `api.bltcy.ai` | ¥1.2 | $1.2 | 1 | veo&grok-备用1 | veo3.1-fast |
-| 15 | `apilio.ai` | ¥1.2 | $1.2 | 1 | veo&grok-备用1 | veo3.1-fast |
-| 16 | `test-ssl.bltcy.ai` | ¥1.2 | $1.2 | 1 | veo&grok-备用1 | veo3.1-fast |
-| 17 | `api.wanapis.com` | ¥1.274 | $1.274 | 1 | default | veo3.1-fast |
-| 18 | `token.ithinkai.cn` | ¥1.35 | $1.35 | 1 | default | veo3.1-fast |
-| 19 | `ai.t8star.org` | ¥1.62 | $1.2 | 1.35 | veo&grok-备用1 | veo3.1-fast |
-| 20 | `api.duckcoding.ai` | ¥1.8 | $1.8 | 1 | default | veo3.1-fast |
-| 21 | `runapi.co` | ¥2.025 | $0.3 | 6.75 | default | veo3.1-fast |
-| 22 | `nbapi.net` | ¥5.11 | $0.7 | 7.3 | default | veo3.1-fast |
-| 23 | `api.ysaikeji.cn` | ¥21.9 | $3 | 7.3 | Gpt官转(3倍消耗) | veo3.1-fast |
-| 24 | `api.3365api.cn` | ¥41.06 | $5.625 | 7.3 | 图片视频模型综合分组 | veo3.1-fast |
+| 3 | `xy.poloapi.com` | ¥0.48 | $0.48 | 1 | veo | veo3.1_fast |
+| 4 | `api.eido.top` | ¥0.6 | $0.6 | 1 | default | veo3.1-fast |
+| 5 | `api.gptzzz.xyz` | ¥0.6 | $0.6 | 1 | videos | veo3.1-fast |
+| 6 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | veo3.1-fast-official |
+| 7 | `keypool.space` | ¥0.7 | $0.7 | 1 | vip | veo3.1-fast |
+| 8 | `xinsuanai.com` | ¥0.7 | $0.7 | 1 | default | veo3.1-fast |
+| 9 | `www.hohoapi.com` | ¥0.72 | $0.24 | 3 | video | Veo3.1-fast-official |
+| 10 | `n.lconai.com` | ¥0.8 | $0.8 | 1 | B1 | veo3.1-fast |
+| 11 | `api.new.bi` | ¥0.9 | $0.9 | 1 | New.bi-视频 | veo3.1-fast |
+| 12 | `toapis.com` | ¥0.98 | $0.14 | 7 | svip | veo3.1-fast |
+| 13 | `api.ilaien.com` | ¥1.168 | $0.16 | 7.3 | default | Veo3.1-fast-official |
+| 14 | `api.34ku.com` | ¥1.17 | $1.17 | 1 | default | veo3.1-fast |
+| 15 | `api.bltcy.ai` | ¥1.2 | $1.2 | 1 | veo&grok-备用1 | veo3.1-fast |
+| 16 | `apilio.ai` | ¥1.2 | $1.2 | 1 | veo&grok-备用1 | veo3.1-fast |
+| 17 | `test-ssl.bltcy.ai` | ¥1.2 | $1.2 | 1 | veo&grok-备用1 | veo3.1-fast |
+| 18 | `api.wanapis.com` | ¥1.274 | $1.274 | 1 | default | veo3.1-fast |
+| 19 | `token.ithinkai.cn` | ¥1.35 | $1.35 | 1 | default | veo3.1-fast |
+| 20 | `ai.t8star.org` | ¥1.62 | $1.2 | 1.35 | veo&grok-备用1 | veo3.1-fast |
+| 21 | `api.duckcoding.ai` | ¥1.8 | $1.8 | 1 | default | veo3.1-fast |
+| 22 | `runapi.co` | ¥2.025 | $0.3 | 6.75 | default | veo3.1-fast |
+| 23 | `www.dayueai.fun` | ¥2.2 | $2.2 | 1 | vip | veo3.1-fast |
+| 24 | `nbapi.net` | ¥5.11 | $0.7 | 7.3 | default | veo3.1-fast |
+| 25 | `api.ysaikeji.cn` | ¥21.9 | $3 | 7.3 | Gpt官转(3倍消耗) | veo3.1-fast |
+| 26 | `api.3365api.cn` | ¥41.06 | $5.625 | 7.3 | 图片视频模型综合分组 | veo3.1-fast |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

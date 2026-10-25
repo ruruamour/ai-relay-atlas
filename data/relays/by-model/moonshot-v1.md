@@ -1,6 +1,6 @@
 # moonshot-v1
 
-> 102 站提供 · 正常价 87 站 · 名义中位价 **$3.6**/1M 输入 · 实付中位价 **¥2**/1M 输入（23 站公开充值价） · 推算，未对账
+> 106 站提供 · 正常价 90 站 · 名义中位价 **$3.6**/1M 输入 · 实付中位价 **¥2**/1M 输入（26 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,23 +16,26 @@
 | 4 | `gpt777.top` | ¥1.6 | $1.6 / $8 | 1 | opensource | moonshot-v1-8k |
 | 5 | `kfcv50.link` | ¥1.6 | $1.6 / $8 | 1 | Domestic_act_08 | moonshot-v1-8k |
 | 6 | `api.hopeai.cc` | ¥1.704 | $1.704 / $1.704 | 1 | default | moonshot-v1-8k |
-| 7 | `api.ifopen.ai` | ¥1.82 | $0.52 / $2.6 | 3.5 | 通用大模型 | moonshot-v1-8k |
-| 8 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $2.6 | 3.5 | 通用大模型 | moonshot-v1-8k |
-| 9 | `api.ocoolai.com` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
-| 10 | `ocool.cn` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
-| 11 | `api.eido.top` | ¥2 | $2 / $10 | 1 | default | moonshot-v1-8k |
-| 12 | `zen-ai.top` | ¥2 | $2 / $10 | 1 | default | moonshot-v1-8k |
-| 13 | `new.foxi-api.cn` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
-| 14 | `llm.kagu.one` | ¥3.65 | $0.5 / $1.5 | 7.3 | 大杂烩 | moonshot-v1-32k |
-| 15 | `gptnb.ai` | ¥6 | $6 / $60 | 1 | cn_official | moonshot-v1-8k |
-| 16 | `oneapi.gptnb.ai` | ¥6 | $6 / $60 | 1 | CN_discount | moonshot-v1-8k |
-| 17 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | svip | moonshot-v1-8k |
-| 18 | `api.34ku.com` | ¥7.8 | $7.8 / $7.8 | 1 | default | moonshot-v1-8k |
-| 19 | `mb.dmxapi.cn` | ¥8.3 | $1.66 / $1.66 | 5 | default | moonshot-v1-8k |
-| 20 | `tk.dmxapi.cn` | ¥8.3 | $1.66 / $1.66 | 5 | default | moonshot-v1-8k |
-| 21 | `cn.gptapi.asia` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
-| 22 | `yutoapi.com` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
-| 23 | `www.hohoapi.com` | ¥23.4 | $7.8 / $7.8 | 3 | default | moonshot-v1-8k |
+| 7 | `api.xi-ai.cn` | ¥1.704 | $1.704 / $8.52 | 1 | 国产模型 | moonshot-v1-8k |
+| 8 | `api.ifopen.ai` | ¥1.82 | $0.52 / $2.6 | 3.5 | 通用大模型 | moonshot-v1-8k |
+| 9 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $2.6 | 3.5 | 通用大模型 | moonshot-v1-8k |
+| 10 | `api.ocoolai.com` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
+| 11 | `ocool.cn` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
+| 12 | `one.ooo.cool` | ¥1.9 | $1.9 / $9.5 | 1 | cn | moonshot-v1-8k |
+| 13 | `api.eido.top` | ¥2 | $2 / $10 | 1 | default | moonshot-v1-8k |
+| 14 | `zen-ai.top` | ¥2 | $2 / $10 | 1 | default | moonshot-v1-8k |
+| 15 | `new.foxi-api.cn` | ¥3.6 | $3.6 / $3.6 | 1 | 纯AZ | moonshot-v1-8k |
+| 16 | `llm.kagu.one` | ¥3.65 | $0.5 / $1.5 | 7.3 | 大杂烩 | moonshot-v1-32k |
+| 17 | `goapi.gptnb.ai` | ¥6 | $6 / $60 | 1 | cn_official | moonshot-v1-8k |
+| 18 | `gptnb.ai` | ¥6 | $6 / $60 | 1 | cn_official | moonshot-v1-8k |
+| 19 | `oneapi.gptnb.ai` | ¥6 | $6 / $60 | 1 | CN_discount | moonshot-v1-8k |
+| 20 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | svip | moonshot-v1-8k |
+| 21 | `api.34ku.com` | ¥7.8 | $7.8 / $7.8 | 1 | default | moonshot-v1-8k |
+| 22 | `mb.dmxapi.cn` | ¥8.3 | $1.66 / $1.66 | 5 | default | moonshot-v1-8k |
+| 23 | `tk.dmxapi.cn` | ¥8.3 | $1.66 / $1.66 | 5 | default | moonshot-v1-8k |
+| 24 | `cn.gptapi.asia` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
+| 25 | `yutoapi.com` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
+| 26 | `www.hohoapi.com` | ¥23.4 | $7.8 / $7.8 | 3 | default | moonshot-v1-8k |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -91,4 +94,4 @@
 
 > 另有 14 站未列出。
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

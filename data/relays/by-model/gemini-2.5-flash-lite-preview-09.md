@@ -1,6 +1,6 @@
 # gemini-2.5-flash-lite-preview-09
 
-> 143 站提供 · 正常价 116 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（46 站公开充值价） · 推算，未对账
+> 144 站提供 · 正常价 117 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（47 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -34,28 +34,29 @@
 | 22 | `hk.hbapis.com` | ¥0.272 | $0.04 / $0.16 | 6.8 | Gemini-Mid | gemini-2.5-flash-lite-preview-09-2025 |
 | 23 | `cnapi.kksj.org` | ¥0.3 | $0.3 / $1.2 | 1 | gemini稳定 | gemini-2.5-flash-lite-preview-09-2025 |
 | 24 | `poloai.top` | ¥0.3 | $0.3 / $2.49 | 1 | gemini-号池 | gemini-2.5-flash-lite-preview-09-2025 |
-| 25 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $1.4 | 1 | openrouter | google/gemini-2.5-flash-lite-preview-09-2025 |
-| 26 | `api.ifopen.ai` | ¥0.35 | $0.1 / $0.4 | 3.5 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 27 | `api2.aigcbest.top` | ¥0.35 | $0.1 / $0.4 | 3.5 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 28 | `api.34ku.com` | ¥0.39 | $0.39 / $1.56 | 1 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 29 | `mgrouter.com` | ¥0.4162 | $0.0612 / $0.2448 | 6.8 | Gemini-原厂稳定版-6.8折 | gemini-2.5-flash-lite-preview-09-2025 |
-| 30 | `getgoapi.com` | ¥0.5184 | $0.072 / $0.288 | 7.2 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 31 | `new.foxi-api.cn` | ¥0.6 | $0.6 / $2.4 | 1 | 优质官转gemini | gemini-2.5-flash-lite-preview-09-2025 |
-| 32 | `cn.gptapi.asia` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.5-flash-lite-preview-09-2025 |
-| 33 | `yutoapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.5-flash-lite-preview-09-2025 |
-| 34 | `api.apib.ai` | ¥0.7 | $0.1 / $0.4 | 7 | - | gemini-2.5-flash-lite-preview-09-2025 |
-| 35 | `console.qqqrouter.ai` | ¥0.7 | $0.1 / $0.4 | 7 | Gemini_纯官方 | gemini-2.5-flash-lite-preview-09-2025 |
-| 36 | `ai.yuboar.com` | ¥0.73 | $0.1 / $0.4 | 7.3 | Gemini稳定版 | gemini-2.5-flash-lite-preview-09-2025 |
-| 37 | `api.ysaikeji.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 38 | `gemini.ysaikeji.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 39 | `hk.apitoken.ai` | ¥0.73 | $0.1 / $0.4 | 7.3 | gemini | gemini-2.5-flash-lite-preview-09-2025 |
-| 40 | `v3.yunai.link` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 41 | `yinli.one` | ¥1.095 | $0.15 / $0.6 | 7.3 | Gemini-低价-90%稳定性 | gemini-2.5-flash-lite-preview-09-2025 |
-| 42 | `ai2.qiqiai.top` | ¥1.314 | $0.18 / $0.72 | 7.3 | 官方合作渠道 | google/gemini-2.5-flash-lite-preview-09-2025 |
-| 43 | `ai.ydcloud.org` | ¥1.46 | $0.2 / $0.8 | 7.3 | aistudio | gemini-2.5-flash-lite-preview-09-2025 |
-| 44 | `vke-api.gravitex.ai` | ¥2.19 | $0.3 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
-| 45 | `n.lconai.com` | ¥2.5 | $2.5 / $10 | 1 | G2 | gemini-2.5-flash-lite-preview-09-2025 |
-| 46 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 25 | `xy.poloapi.com` | ¥0.3 | $0.3 / $2.49 | 1 | gemini-号池 | gemini-2.5-flash-lite-preview-09-2025 |
+| 26 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $1.4 | 1 | openrouter | google/gemini-2.5-flash-lite-preview-09-2025 |
+| 27 | `api.ifopen.ai` | ¥0.35 | $0.1 / $0.4 | 3.5 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 28 | `api2.aigcbest.top` | ¥0.35 | $0.1 / $0.4 | 3.5 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 29 | `api.34ku.com` | ¥0.39 | $0.39 / $1.56 | 1 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 30 | `mgrouter.com` | ¥0.4162 | $0.0612 / $0.2448 | 6.8 | Gemini-原厂稳定版-6.8折 | gemini-2.5-flash-lite-preview-09-2025 |
+| 31 | `getgoapi.com` | ¥0.5184 | $0.072 / $0.288 | 7.2 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 32 | `new.foxi-api.cn` | ¥0.6 | $0.6 / $2.4 | 1 | 优质官转gemini | gemini-2.5-flash-lite-preview-09-2025 |
+| 33 | `cn.gptapi.asia` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.5-flash-lite-preview-09-2025 |
+| 34 | `yutoapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | enterprise | gemini-2.5-flash-lite-preview-09-2025 |
+| 35 | `api.apib.ai` | ¥0.7 | $0.1 / $0.4 | 7 | - | gemini-2.5-flash-lite-preview-09-2025 |
+| 36 | `console.qqqrouter.ai` | ¥0.7 | $0.1 / $0.4 | 7 | Gemini_纯官方 | gemini-2.5-flash-lite-preview-09-2025 |
+| 37 | `ai.yuboar.com` | ¥0.73 | $0.1 / $0.4 | 7.3 | Gemini稳定版 | gemini-2.5-flash-lite-preview-09-2025 |
+| 38 | `api.ysaikeji.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 39 | `gemini.ysaikeji.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 40 | `hk.apitoken.ai` | ¥0.73 | $0.1 / $0.4 | 7.3 | gemini | gemini-2.5-flash-lite-preview-09-2025 |
+| 41 | `v3.yunai.link` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 42 | `yinli.one` | ¥1.095 | $0.15 / $0.6 | 7.3 | Gemini-低价-90%稳定性 | gemini-2.5-flash-lite-preview-09-2025 |
+| 43 | `ai2.qiqiai.top` | ¥1.314 | $0.18 / $0.72 | 7.3 | 官方合作渠道 | google/gemini-2.5-flash-lite-preview-09-2025 |
+| 44 | `ai.ydcloud.org` | ¥1.46 | $0.2 / $0.8 | 7.3 | aistudio | gemini-2.5-flash-lite-preview-09-2025 |
+| 45 | `vke-api.gravitex.ai` | ¥2.19 | $0.3 / $0.4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
+| 46 | `n.lconai.com` | ¥2.5 | $2.5 / $10 | 1 | G2 | gemini-2.5-flash-lite-preview-09-2025 |
+| 47 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | gemini-2.5-flash-lite-preview-09-2025 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

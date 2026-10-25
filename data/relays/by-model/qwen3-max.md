@@ -1,6 +1,6 @@
 # qwen3-max
 
-> 193 站提供 · 正常价 154 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥4.9**/1M 输入（77 站公开充值价） · 推算，未对账
+> 207 站提供 · 正常价 162 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥4.717**/1M 输入（85 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -28,40 +28,40 @@
 | 16 | `runapi.co` | ¥1.929 | $0.285714 / $1.14286 | 6.75 | default | qwen3-max |
 | 17 | `api.zyai.online` | ¥2 | $2 / $8 | 1 | mini | qwen3-max-2026-01-23 |
 | 18 | `rockapi.ai` | ¥2.1 | $2.1 / $10.5 | 1 | 0.7x | qwen3-max-2026-01-23 |
-| 19 | `tokenone.net` | ¥2.5 | $0.3676 / $1.4706 | 6.8 | default | qwen3-max-2026-01-23 |
-| 20 | `ssvip.dmxapi.com` | ¥2.5 | $0.34246 / $1.36984 | 7.3 | default | qwen3-max-2026-01-23 |
-| 21 | `gpt-api.cc` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max |
-| 22 | `keypool.space` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max |
-| 23 | `new.foxi-api.cn` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max-2026-01-23 |
-| 24 | `onetoken.one` | ¥2.5 | $2.5 / $10 | 1 | 官方原生通道 | qwen3-max-2026-01-23 |
-| 25 | `xinsuanai.com` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max |
-| 26 | `api.orcarouter.ai` | ¥2.621 | $0.359 / $1.434 | 7.3 | vip | qwen/qwen3-max |
-| 27 | `unorouter.net` | ¥2.621 | $0.359 / $1.434 | 7.3 | default | qwen3-max-2026-01-23 |
-| 28 | `api.qinzhiai.com` | ¥2.73 | $2.73 / $13.65 | 1 | openrouter | qwen/qwen3-max |
-| 29 | `chrisapivip.com` | ¥2.8 | $2.8 / $11.2 | 1 | default | qwen3-max |
-| 30 | `test.yibuapi.com` | ¥3 | $2 / $8 | 1.5 | default | qwen3-max |
-| 31 | `yibuapi.com` | ¥3 | $2 / $8 | 1.5 | default | qwen3-max |
-| 32 | `580.4sapi.com` | ¥3.2 | $3.2 / $12.8 | 1 | qwen-claude | qwen3-max |
-| 33 | `cn.580ai.net` | ¥3.2 | $3.2 / $12.8 | 1 | qwen-claude | qwen3-max |
-| 34 | `poloai.top` | ¥3.2 | $3.2 / $12.8 | 1 | qwen千问 | qwen3-max |
-| 35 | `open.xiaojingai.com` | ¥3.5 | $3.5 / $14 | 1 | 阿里 | qwen3-max |
-| 36 | `yibuapi.cn` | ¥3.75 | $2.5 / $10 | 1.5 | default | qwen3-max |
-| 37 | `deeptranx.apiqik.com` | ¥4.125 | $4.125 / $16.5 | 1 | default | qwen3-max |
-| 38 | `ai2.qiqiai.top` | ¥4.717 | $0.6462 / $2.5812 | 7.3 | 官方合作渠道 | qwen/qwen3-max |
-| 39 | `toapis.com` | ¥4.9 | $0.7 / $2.8 | 7 | default | qwen3-max |
-| 40 | `www.hohoapi.com` | ¥4.992 | $1.664 / $6.656 | 3 | qwen | qwen3-max |
-| 41 | `layso.ai` | ¥5.07 | $5.07 / $25.35 | 1 | Alibaba-1 | qwen3-max-2026-01-23 |
-| 42 | `laysoai.com` | ¥5.07 | $5.07 / $25.35 | 1 | Alibaba-1 | qwen3-max-2026-01-23 |
-| 43 | `gpt777.top` | ¥5.6 | $5.6 / $22.4 | 1 | opensource | qwen3-max |
-| 44 | `api.hubagi.ai` | ¥6 | $6 / $24 | 1 | 雪球专供 | qwen3-max |
-| 45 | `platform.anyrouter.ai` | ¥6 | $6 / $24 | 1 | official_cn | qwen3-max-2025-09-23 |
-| 46 | `api.ifopen.ai` | ¥6.37 | $1.82 / $7.28 | 3.5 | 通用大模型 | qwen3-max |
-| 47 | `api2.aigcbest.top` | ¥6.37 | $1.82 / $7.28 | 3.5 | 通用大模型 | qwen3-max |
-| 48 | `api.eido.top` | ¥6.4 | $6.4 / $6.4 | 1 | default | qwen3-max |
-| 49 | `cc.zhihuiapi.top` | ¥6.4 | $6.4 / $25.6 | 1 | qwen | qwen3-max |
-| 50 | `cn.zhihuiai.top` | ¥6.4 | $6.4 / $25.6 | 1 | qwen | qwen3-max |
+| 19 | `tokensmind.ai` | ¥2.482 | $0.34 / $1.37 | 7.3 | default | qwen3-max |
+| 20 | `tokenone.net` | ¥2.5 | $0.3676 / $1.4706 | 6.8 | default | qwen3-max-2026-01-23 |
+| 21 | `ssvip.dmxapi.com` | ¥2.5 | $0.34246 / $1.36984 | 7.3 | default | qwen3-max-2026-01-23 |
+| 22 | `gpt-api.cc` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max |
+| 23 | `keypool.space` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max |
+| 24 | `new.foxi-api.cn` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max-2026-01-23 |
+| 25 | `onetoken.one` | ¥2.5 | $2.5 / $10 | 1 | 官方原生通道 | qwen3-max-2026-01-23 |
+| 26 | `xinsuanai.com` | ¥2.5 | $2.5 / $10 | 1 | default | qwen3-max |
+| 27 | `www.tokenage.ai` | ¥2.619 | $0.358833 / $1.43533 | 7.3 | vip | qwen3-max |
+| 28 | `api.orcarouter.ai` | ¥2.621 | $0.359 / $1.434 | 7.3 | vip | qwen/qwen3-max |
+| 29 | `unorouter.net` | ¥2.621 | $0.359 / $1.434 | 7.3 | default | qwen3-max-2026-01-23 |
+| 30 | `api.qinzhiai.com` | ¥2.73 | $2.73 / $13.65 | 1 | openrouter | qwen/qwen3-max |
+| 31 | `chrisapivip.com` | ¥2.8 | $2.8 / $11.2 | 1 | default | qwen3-max |
+| 32 | `test.yibuapi.com` | ¥3 | $2 / $8 | 1.5 | default | qwen3-max |
+| 33 | `yibuapi.com` | ¥3 | $2 / $8 | 1.5 | default | qwen3-max |
+| 34 | `580.4sapi.com` | ¥3.2 | $3.2 / $12.8 | 1 | qwen-claude | qwen3-max |
+| 35 | `cn.580ai.net` | ¥3.2 | $3.2 / $12.8 | 1 | qwen-claude | qwen3-max |
+| 36 | `poloai.top` | ¥3.2 | $3.2 / $12.8 | 1 | qwen千问 | qwen3-max |
+| 37 | `xy.poloapi.com` | ¥3.2 | $3.2 / $12.8 | 1 | qwen千问 | qwen3-max |
+| 38 | `open.xiaojingai.com` | ¥3.5 | $3.5 / $14 | 1 | 阿里 | qwen3-max |
+| 39 | `yibuapi.cn` | ¥3.75 | $2.5 / $10 | 1.5 | default | qwen3-max |
+| 40 | `deeptranx.apiqik.com` | ¥4.125 | $4.125 / $16.5 | 1 | default | qwen3-max |
+| 41 | `www.dayueai.fun` | ¥4.5 | $4.5 / $16.5 | 1 | vip | qwen3-max |
+| 42 | `ai.bytonsec.com` | ¥4.68 | $4.68 / $23.4 | 1 | OpenRouter | qwen/qwen3-max |
+| 43 | `ai2.qiqiai.top` | ¥4.717 | $0.6462 / $2.5812 | 7.3 | 官方合作渠道 | qwen/qwen3-max |
+| 44 | `toapis.com` | ¥4.9 | $0.7 / $2.8 | 7 | default | qwen3-max |
+| 45 | `www.hohoapi.com` | ¥4.992 | $1.664 / $6.656 | 3 | qwen | qwen3-max |
+| 46 | `layso.ai` | ¥5.07 | $5.07 / $25.35 | 1 | Alibaba-1 | qwen3-max-2026-01-23 |
+| 47 | `laysoai.com` | ¥5.07 | $5.07 / $25.35 | 1 | Alibaba-1 | qwen3-max-2026-01-23 |
+| 48 | `gpt777.top` | ¥5.6 | $5.6 / $22.4 | 1 | opensource | qwen3-max |
+| 49 | `clawrouter.com` | ¥5.913 | $0.81 / $3.24 | 7.3 | multipurpose | qwen3-max |
+| 50 | `api.hubagi.ai` | ¥6 | $6 / $24 | 1 | 雪球专供 | qwen3-max |
 
-> 另有 27 站未列出。
+> 另有 35 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 27 站未列出。
 
-> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 45 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

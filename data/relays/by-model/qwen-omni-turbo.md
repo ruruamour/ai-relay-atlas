@@ -1,6 +1,6 @@
 # qwen-omni-turbo
 
-> 46 站提供 · 正常价 28 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥7.804**/1M 输入（10 站公开充值价） · 推算，未对账
+> 50 站提供 · 正常价 29 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥12.5**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,8 +18,9 @@
 | 6 | `api.zyai.online` | ¥12.5 | $12.5 / $25 | 1 | mini | qwen-omni-turbo |
 | 7 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-omni-turbo |
 | 8 | `platform.anyrouter.ai` | ¥15 | $15 / $30 | 1 | official_cn | qwen-omni-turbo |
-| 9 | `kfcv50.link` | ¥25 | $25 / $50 | 1 | Domestic | qwen-omni-turbo |
-| 10 | `hy88.my` | ¥109.5 | $15 / $30 | 7.3 | qwen | qwen-omni-turbo |
+| 9 | `api.aiskt.com` | ¥25 | $25 / $50 | 1 | default | qwen-omni-turbo |
+| 10 | `kfcv50.link` | ¥25 | $25 / $50 | 1 | Domestic | qwen-omni-turbo |
+| 11 | `hy88.my` | ¥109.5 | $15 / $30 | 7.3 | qwen | qwen-omni-turbo |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -44,4 +45,4 @@
 | 17 | `www.xiaoruiera.top` | $1.6 / $4.5008 | default | 1 | qwen-omni-turbo |
 | 18 | `yuli.host` | $1.6 / $4.5008 | default | 1 | qwen-omni-turbo |
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-2.0-flash-exp
 
-> 50 站提供 · 正常价 34 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（29 站公开充值价） · 推算，未对账
+> 51 站提供 · 正常价 35 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.55**/1M 输入（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -30,15 +30,16 @@
 | 18 | `apiai.shop` | ¥1.8 | $1.5 / $6 | 1.2 | default | gemini-2.0-flash-exp |
 | 19 | `api.ocoolai.com` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-2.0-flash-exp-search |
 | 20 | `ocool.cn` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-2.0-flash-exp-search |
-| 21 | `8s.hk` | ¥2 | $2 / $8 | 1 | 全模型自动 | gemini-2.0-flash-exp |
-| 22 | `paw.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | gemini-2.0-flash-exp |
-| 23 | `vg.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | gemini-2.0-flash-exp |
-| 24 | `webapi.xjai.cc` | ¥3.6 | $1.2 / $4.8 | 3 | default | gemini-2.0-flash-exp |
-| 25 | `ai.nodeloc.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gemini-2.0-flash-exp |
-| 26 | `api.apib.ai` | ¥7 | $1 / $4 | 7 | - | gemini-2.0-flash-exp |
-| 27 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-exp |
-| 28 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-exp |
-| 29 | `gpt-api.soruxgpt.com` | ¥114 | $57 / $228 | 2 | vip | gemini-2.0-flash-exp |
+| 21 | `one.ooo.cool` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-2.0-flash-exp-search |
+| 22 | `8s.hk` | ¥2 | $2 / $8 | 1 | 全模型自动 | gemini-2.0-flash-exp |
+| 23 | `paw.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | gemini-2.0-flash-exp |
+| 24 | `vg.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | gemini-2.0-flash-exp |
+| 25 | `webapi.xjai.cc` | ¥3.6 | $1.2 / $4.8 | 3 | default | gemini-2.0-flash-exp |
+| 26 | `ai.nodeloc.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gemini-2.0-flash-exp |
+| 27 | `api.apib.ai` | ¥7 | $1 / $4 | 7 | - | gemini-2.0-flash-exp |
+| 28 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-exp |
+| 29 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-exp |
+| 30 | `gpt-api.soruxgpt.com` | ¥114 | $57 / $228 | 2 | vip | gemini-2.0-flash-exp |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

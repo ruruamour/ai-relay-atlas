@@ -1,6 +1,6 @@
 # claude-opus-4-7-max
 
-> 53 站提供 · 正常价 42 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥8.562**/1M 输入（36 站公开充值价） · 推算，未对账
+> 54 站提供 · 正常价 43 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥9.125**/1M 输入（37 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -34,18 +34,19 @@
 | 22 | `api.vakv.cn` | ¥13 | $13 / $65 | 1 | 9999 | claude-opus-4-7-max |
 | 23 | `dapicloud.com` | ¥14 | $14 / $70 | 1 | claude-awsb-企业版 | claude-opus-4-7-max |
 | 24 | `test.yibuapi.com` | ¥15 | $10 / $50 | 1.5 | claude-code | claude-opus-4-7-max |
-| 25 | `gemini.ysaikeji.cn` | ¥18.25 | $2.5 / $12.5 | 7.3 | default | claude-opus-4-7-max |
-| 26 | `api.wukong.support` | ¥18.75 | $18.75 / $93.75 | 1 | gemini官渠 | claude-opus-4-7-max |
-| 27 | `ai.nodeloc.com` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-7-max |
-| 28 | `api.bita-api.com` | ¥36.5 | $5 / $25 | 7.3 | claude-aws | claude-opus-4-7-max |
-| 29 | `bita-api-production.up.railway.app` | ¥36.5 | $5 / $25 | 7.3 | claude-aws | claude-opus-4-7-max |
-| 30 | `yuandianapi.com` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-7-max |
-| 31 | `api.ysaikeji.cn` | ¥54.75 | $7.5 / $37.5 | 7.3 | Claude-code分组 | claude-opus-4-7-max |
-| 32 | `kaiycb.com` | ¥54.75 | $7.5 / $37.5 | 7.3 | claude标准线路 | claude-opus-4-7-max |
-| 33 | `vip.yinli.one` | ¥54.75 | $7.5 / $37.5 | 7.3 | Claude-Kior-低价-90%稳定性 | claude-opus-4-7-max |
-| 34 | `api.humanwill.xyz` | ¥219 | $30 / $150 | 7.3 | Claude_pro | claude-opus-4-7-max |
-| 35 | `api.llm-token.cn` | ¥219 | $30 / $150 | 7.3 | default | claude-opus-4-7-max |
-| 36 | `gpt-agent.cc` | ¥219 | $30 / $150 | 7.3 | default | claude-opus-4-7-max |
+| 25 | `ai.mowen.vip` | ¥16.72 | $2.5 / $12.5 | 6.6892 | default | claude-opus-4-7-max |
+| 26 | `gemini.ysaikeji.cn` | ¥18.25 | $2.5 / $12.5 | 7.3 | default | claude-opus-4-7-max |
+| 27 | `api.wukong.support` | ¥18.75 | $18.75 / $93.75 | 1 | gemini官渠 | claude-opus-4-7-max |
+| 28 | `ai.nodeloc.com` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-7-max |
+| 29 | `api.bita-api.com` | ¥36.5 | $5 / $25 | 7.3 | claude-aws | claude-opus-4-7-max |
+| 30 | `bita-api-production.up.railway.app` | ¥36.5 | $5 / $25 | 7.3 | claude-aws | claude-opus-4-7-max |
+| 31 | `yuandianapi.com` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-7-max |
+| 32 | `api.ysaikeji.cn` | ¥54.75 | $7.5 / $37.5 | 7.3 | Claude-code分组 | claude-opus-4-7-max |
+| 33 | `kaiycb.com` | ¥54.75 | $7.5 / $37.5 | 7.3 | claude标准线路 | claude-opus-4-7-max |
+| 34 | `vip.yinli.one` | ¥54.75 | $7.5 / $37.5 | 7.3 | Claude-Kior-低价-90%稳定性 | claude-opus-4-7-max |
+| 35 | `api.humanwill.xyz` | ¥219 | $30 / $150 | 7.3 | Claude_pro | claude-opus-4-7-max |
+| 36 | `api.llm-token.cn` | ¥219 | $30 / $150 | 7.3 | default | claude-opus-4-7-max |
+| 37 | `gpt-agent.cc` | ¥219 | $30 / $150 | 7.3 | default | claude-opus-4-7-max |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

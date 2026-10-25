@@ -22,7 +22,7 @@
 | `system` | `New-API` / `Sub2API`（价格公开）；`New-API/One-API`（有 `/api/status`，价格不公开）；空（自研或接口不可达） |
 | `version` | 系统版本（站点公开的） |
 | `topup_cny_per_usd` | 充值价：元 / 1 美元额度（站点公开且币种明确的才填，见 [pricing-basics](../docs/pricing-basics.md#实付价人民币)） |
-| `discovered_via` | 发现来源：`veridrop` / `github-list` / `scan` / `urlscan` / `gitlab` / `npm` 等公开来源 |
+| `discovered_via` | 发现来源：`veridrop` / `github-list` / `scan` / `urlscan` / `gitlab` / `npm` / `directory` 等公开来源 |
 | `veridrop_score` | Veridrop 实测分（有才填） |
 | `n_models` | 模型数 |
 | `families` | 覆盖的模型家族，如 `openai/claude/gemini` |

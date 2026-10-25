@@ -1,6 +1,6 @@
 # gpt-daybreak-red
 
-> 20 站提供 · 正常价 12 站 · 名义中位价 **$2**/1M 输入 · 推算，未对账
+> 21 站提供 · 正常价 12 站 · 名义中位价 **$2**/1M 输入 · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,4 +21,4 @@
 | 11 | `api.akko.space` | $31.25 / $187.5 | Codex Azure | 2.5 | gpt-daybreak-red-latest |
 | 12 | `sub.hongyun.chat` | $93.75 / $562.5 | gpt | 7.5 | gpt-daybreak-red-latest |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gpt-4o-image
 
-> 81 站提供 · 正常价 58 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.12**/次（54 站公开充值价） · 推算，未对账
+> 83 站提供 · 正常价 60 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.09**/次（56 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,37 +31,37 @@
 | 19 | `zen-ai.top` | ¥0.06 | $0.06 | 1 | default | gpt-4o-image |
 | 20 | `ai.t8star.org` | ¥0.0675 | $0.05 | 1.35 | default | gpt-4o-image |
 | 21 | `botcf.com` | ¥0.072 | $0.072 | 1 | 🏢openai-azure | gpt-4o-image |
-| 22 | `api.ocoolai.com` | ¥0.075 | $0.075 | 1 | default | gpt-4o-image |
-| 23 | `ocool.cn` | ¥0.075 | $0.075 | 1 | default | gpt-4o-image |
-| 24 | `api.hoxkai.top` | ¥0.08 | $0.08 | 1 | openai-az-l | gpt-4o-image |
-| 25 | `gpt777.top` | ¥0.08 | $0.08 | 1 | Azure | gpt-4o-image |
-| 26 | `www.ggwk1.online` | ¥0.08 | $0.08 | 1 | a全模型综合组-1倍率 | gpt-4o-image |
-| 27 | `api.nekoapi.com` | ¥0.1 | $0.05 | 2 | default | gpt-4o-image |
-| 28 | `api.ifopen.ai` | ¥0.14 | $0.04 | 3.5 | default | gpt-4o-image |
-| 29 | `api2.aigcbest.top` | ¥0.14 | $0.04 | 3.5 | default | gpt-4o-image |
-| 30 | `api.uiuihao.com` | ¥0.1595 | $0.05 | 3.19 | default | gpt-4o-image |
-| 31 | `sg.uiuiapi.com` | ¥0.1595 | $0.05 | 3.19 | default | gpt-4o-image |
-| 32 | `opus.v1api.cc` | ¥0.16 | $0.2 | 0.8 | default | gpt-4o-image |
-| 33 | `xh.v1api.cc` | ¥0.16 | $0.2 | 0.8 | default | gpt-4o-image |
-| 34 | `api1.uiuiapi.com` | ¥0.1685 | $0.05 | 3.37 | default | gpt-4o-image |
-| 35 | `ai2.qiqiai.top` | ¥0.1825 | $0.025 | 7.3 | azure高并发 | gpt-4o-image |
-| 36 | `api3.4xapi.cn` | ¥0.192 | $0.192 | 1 | gpt-api-enterprise | gpt-4o-image |
-| 37 | `hightpm.aiearth.dev` | ¥0.219 | $0.03 | 7.3 | 官方直连-Azure-Claude-Gemini | gpt-4o-image |
-| 38 | `mb.dmxapi.cn` | ¥0.25 | $0.05 | 5 | default | gpt-4o-image |
-| 39 | `paw.v1chat.cc` | ¥0.3 | $0.3 | 1 | default | gpt-4o-image |
-| 40 | `vg.v1api.cc` | ¥0.3 | $0.3 | 1 | default | gpt-4o-image |
-| 41 | `vg.v1chat.cc` | ¥0.3 | $0.3 | 1 | default | gpt-4o-image |
-| 42 | `test.yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image |
-| 43 | `yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image |
-| 44 | `api.bianxie.ai` | ¥0.365 | $0.05 | 7.3 | default | gpt-4o-image |
-| 45 | `api.bianxieai.com` | ¥0.365 | $0.05 | 7.3 | default | gpt-4o-image |
-| 46 | `m78.newapi.botcf.com` | ¥0.5139 | $0.0704 | 7.3 | 🃏Openai-Azure | gpt-4o-image |
-| 47 | `api.ai-gaochao.cn` | ¥0.584 | $0.08 | 7.3 | Premium | gpt-4o-image |
-| 48 | `apius.shubiaobiao.cn` | ¥0.584 | $0.08 | 7.3 | Premium | gpt-4o-image |
-| 49 | `to-relay.com` | ¥0.6716 | $0.092 | 7.3 | AZ-GPT | gpt-4o-image |
-| 50 | `abc.cykjzz.cn` | ¥1.051 | $0.144 | 7.3 | az-gpt | gpt-4o-image |
+| 22 | `xn--15q04w3tg4kio0a.com` | ¥0.072 | $0.072 | 1 | 🏢openai-azure | gpt-4o-image |
+| 23 | `api.ocoolai.com` | ¥0.075 | $0.075 | 1 | default | gpt-4o-image |
+| 24 | `ocool.cn` | ¥0.075 | $0.075 | 1 | default | gpt-4o-image |
+| 25 | `one.ooo.cool` | ¥0.075 | $0.075 | 1 | default | gpt-4o-image |
+| 26 | `api.hoxkai.top` | ¥0.08 | $0.08 | 1 | openai-az-l | gpt-4o-image |
+| 27 | `gpt777.top` | ¥0.08 | $0.08 | 1 | Azure | gpt-4o-image |
+| 28 | `www.ggwk1.online` | ¥0.08 | $0.08 | 1 | a全模型综合组-1倍率 | gpt-4o-image |
+| 29 | `api.nekoapi.com` | ¥0.1 | $0.05 | 2 | default | gpt-4o-image |
+| 30 | `api.ifopen.ai` | ¥0.14 | $0.04 | 3.5 | default | gpt-4o-image |
+| 31 | `api2.aigcbest.top` | ¥0.14 | $0.04 | 3.5 | default | gpt-4o-image |
+| 32 | `api.uiuihao.com` | ¥0.1595 | $0.05 | 3.19 | default | gpt-4o-image |
+| 33 | `sg.uiuiapi.com` | ¥0.1595 | $0.05 | 3.19 | default | gpt-4o-image |
+| 34 | `opus.v1api.cc` | ¥0.16 | $0.2 | 0.8 | default | gpt-4o-image |
+| 35 | `xh.v1api.cc` | ¥0.16 | $0.2 | 0.8 | default | gpt-4o-image |
+| 36 | `api1.uiuiapi.com` | ¥0.1685 | $0.05 | 3.37 | default | gpt-4o-image |
+| 37 | `ai2.qiqiai.top` | ¥0.1825 | $0.025 | 7.3 | azure高并发 | gpt-4o-image |
+| 38 | `api3.4xapi.cn` | ¥0.192 | $0.192 | 1 | gpt-api-enterprise | gpt-4o-image |
+| 39 | `hightpm.aiearth.dev` | ¥0.219 | $0.03 | 7.3 | 官方直连-Azure-Claude-Gemini | gpt-4o-image |
+| 40 | `mb.dmxapi.cn` | ¥0.25 | $0.05 | 5 | default | gpt-4o-image |
+| 41 | `paw.v1chat.cc` | ¥0.3 | $0.3 | 1 | default | gpt-4o-image |
+| 42 | `vg.v1api.cc` | ¥0.3 | $0.3 | 1 | default | gpt-4o-image |
+| 43 | `vg.v1chat.cc` | ¥0.3 | $0.3 | 1 | default | gpt-4o-image |
+| 44 | `test.yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image |
+| 45 | `yibuapi.com` | ¥0.36 | $0.24 | 1.5 | default | gpt-4o-image |
+| 46 | `api.bianxie.ai` | ¥0.365 | $0.05 | 7.3 | default | gpt-4o-image |
+| 47 | `api.bianxieai.com` | ¥0.365 | $0.05 | 7.3 | default | gpt-4o-image |
+| 48 | `m78.newapi.botcf.com` | ¥0.5139 | $0.0704 | 7.3 | 🃏Openai-Azure | gpt-4o-image |
+| 49 | `api.ai-gaochao.cn` | ¥0.584 | $0.08 | 7.3 | Premium | gpt-4o-image |
+| 50 | `apius.shubiaobiao.cn` | ¥0.584 | $0.08 | 7.3 | Premium | gpt-4o-image |
 
-> 另有 4 站未列出。
+> 另有 6 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

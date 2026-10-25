@@ -1,6 +1,6 @@
 # qwen3-vl-32b
 
-> 89 站提供 · 正常价 76 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.9**/1M 输入（12 站公开充值价） · 推算，未对账
+> 91 站提供 · 正常价 77 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.8**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,15 +13,16 @@
 | 1 | `gpt777.top` | ¥0.8 | $0.8 / $8 | 1 | opensource | Qwen/Qwen3-VL-32B-Thinking |
 | 2 | `api.ifopen.ai` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-32B-Thinking |
 | 3 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-32B-Thinking |
-| 4 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-vl-32b-thinking |
-| 5 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥1.2 | $1.2 / $12 | 1 | aliyun | qwen3-vl-32b-thinking |
-| 6 | `claudecn.ai` | ¥1.8 | $1.8 / $18 | 1 | 国产模型 | qwen3-vl-32b-thinking |
-| 7 | `keypool.space` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
-| 8 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
-| 9 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
-| 10 | `yibuapi.com` | ¥2.4 | $1.6 / $16 | 1.5 | claude-code | qwen3-vl-32b-thinking |
-| 11 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-32b-thinking |
-| 12 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-32b-thinking |
+| 4 | `ai.mowen.vip` | ¥0.9995 | $0.149416 / $1.49416 | 6.6892 | default | Qwen3-VL-32B-Thinking |
+| 5 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-vl-32b-thinking |
+| 6 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥1.2 | $1.2 / $12 | 1 | aliyun | qwen3-vl-32b-thinking |
+| 7 | `claudecn.ai` | ¥1.8 | $1.8 / $18 | 1 | 国产模型 | qwen3-vl-32b-thinking |
+| 8 | `keypool.space` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
+| 9 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
+| 10 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
+| 11 | `yibuapi.com` | ¥2.4 | $1.6 / $16 | 1.5 | claude-code | qwen3-vl-32b-thinking |
+| 12 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-32b-thinking |
+| 13 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-32b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,4 +81,4 @@
 
 > 另有 14 站未列出。
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

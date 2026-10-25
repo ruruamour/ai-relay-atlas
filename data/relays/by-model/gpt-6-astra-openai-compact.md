@@ -1,6 +1,6 @@
 # gpt-6-astra-openai-compact
 
-> 34 站提供 · 正常价 15 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥6.75**/1M 输入（12 站公开充值价） · 推算，未对账
+> 38 站提供 · 正常价 22 站 · 名义中位价 **$6.75**/1M 输入 · 实付中位价 **¥8**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,12 +16,19 @@
 | 4 | `api.duckcoding.ai` | ¥3 | $3 / $15 | 1 | CodeX-Sale | gpt-6-astra-openai-compact |
 | 5 | `aiapisplus.com` | ¥4.5 | $4.5 / $22.5 | 1 | gpt-pro-v | gpt-6-astra-openai-compact |
 | 6 | `botcf.com` | ¥6 | $6 / $12 | 1 | ⚓codex-plus | gpt-6-astra-openai-compact |
-| 7 | `api.tokentaken.org` | ¥7.5 | $7.5 / $15 | 1 | Codex gopay | gpt-6-astra-openai-compact |
-| 8 | `poloai.top` | ¥8 | $8 / $40 | 1 | Codex-gpt | gpt-6-astra-openai-compact |
-| 9 | `na2.whistlelads.com` | ¥18.25 | $2.5 / $12.5 | 7.3 | codex-pro | gpt-6-astra-openai-compact |
-| 10 | `api.onefaka.com` | ¥29.2 | $4 / $20 | 7.3 | codex | gpt-6-astra-openai-compact |
-| 11 | `us.pomoai.xyz` | ¥109.5 | $15 / $75 | 7.3 | gpt-azure-15 | gpt-6-astra-openai-compact |
-| 12 | `api.ciyuanshen.top` | ¥133.2 | $133.2 / $266.4 | 1 | GPT Pro号池 | gpt-6-astra-openai-compact |
+| 7 | `xn--15q04w3tg4kio0a.com` | ¥6 | $6 / $12 | 1 | ⚓codex-plus | gpt-6-astra-openai-compact |
+| 8 | `api.tokentaken.org` | ¥7.5 | $7.5 / $15 | 1 | Codex gopay | gpt-6-astra-openai-compact |
+| 9 | `poloai.top` | ¥8 | $8 / $40 | 1 | Codex-gpt | gpt-6-astra-openai-compact |
+| 10 | `xy.poloapi.com` | ¥8 | $8 / $40 | 1 | Codex-gpt | gpt-6-astra-openai-compact |
+| 11 | `ai-kfc.nervers.com` | ¥11.25 | $11.25 / $22.5 | 1 | s19:gpt-pro外接 | gpt-6-astra-openai-compact |
+| 12 | `api.dli.li` | ¥11.25 | $11.25 / $22.5 | 1 | codex-surprise | gpt-6-astra-openai-compact |
+| 13 | `qiyueqiai.router.nerver.cc` | ¥11.25 | $11.25 / $22.5 | 1 | s12:gptpro2号 | gpt-6-astra-openai-compact |
+| 14 | `wuyunai.nervers.com` | ¥11.25 | $11.25 / $22.5 | 1 | s6:gpt-pro | gpt-6-astra-openai-compact |
+| 15 | `ce.aibridgea.com` | ¥11.59 | $11.25 / $22.5 | 1.03 | GPT-纯PRO | gpt-6-astra-openai-compact |
+| 16 | `na2.whistlelads.com` | ¥18.25 | $2.5 / $12.5 | 7.3 | codex-pro | gpt-6-astra-openai-compact |
+| 17 | `api.onefaka.com` | ¥29.2 | $4 / $20 | 7.3 | codex | gpt-6-astra-openai-compact |
+| 18 | `us.pomoai.xyz` | ¥109.5 | $15 / $75 | 7.3 | gpt-azure-15 | gpt-6-astra-openai-compact |
+| 19 | `api.ciyuanshen.top` | ¥133.2 | $133.2 / $266.4 | 1 | GPT Pro号池 | gpt-6-astra-openai-compact |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -31,4 +38,4 @@
 | 2 | `dmit.yyrouter.cc` | $3.5 / $17.5 | OpenAI-Pro稳定版 | 0.35 | gpt-6-astra-openai-compact |
 | 3 | `poloapi.top` | $8 / $40 | Codex-gpt | 0.8 | gpt-6-astra-openai-compact |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # claude-sonnet-4-6
 
-> 1927 站提供 · 正常价 1520 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥3**/1M 输入（1126 站公开充值价） · 推算，未对账
+> 1982 站提供 · 正常价 1567 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥3**/1M 输入（1166 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -42,26 +42,26 @@
 | 30 | `cf.sheapi.cc` | ¥0.24 | $0.24 / $1.2 | 1 | kiro-高缓 | claude-sonnet-4-6 |
 | 31 | `code.aigcpro.org` | ¥0.24 | $0.24 / $1.2 | 1 | kiro | claude-sonnet-4-6 |
 | 32 | `cpa057.meta-api.vip` | ¥0.24 | $0.24 / $1.2 | 1 | 3.1-claude-kiro跑量 | claude-sonnet-4-6 |
-| 33 | `xckjj.com` | ¥0.24 | $0.24 / $1.2 | 1 | 国模 | claude-sonnet-4-6 |
-| 34 | `xixi.bjhuiqu.net` | ¥0.24 | $0.24 / $1.2 | 1 | site_34~5641acb98aaba7ce | claude-sonnet-4-6 |
-| 35 | `xlapis.com` | ¥0.24 | $0.24 / $1.2 | 1 | Claude-CHAT | claude-sonnet-4-6 |
-| 36 | `ymeng.cc` | ¥0.24 | $0.24 / $1.2 | 1 | Claude-AwsQ-Kiro | claude-sonnet-4-6 |
-| 37 | `apibasis.com` | ¥0.255 | $0.255 / $1.275 | 1 | Kiro 90%缓存 | claude-sonnet-4-6 |
-| 38 | `new.tianluo.ccwu.cc` | ¥0.255 | $0.255 / $1.275 | 1 | 等我搞货 | claude-sonnet-4-6 |
-| 39 | `openkun.xyz` | ¥0.255 | $0.255 / $1.275 | 1 | Claude CC Kiro Ultra | claude-sonnet-4-6 |
-| 40 | `hiapi.top` | ¥0.27 | $0.27 / $1.35 | 1 | Claude Kiro高缓 | claude-sonnet-4-6 |
-| 41 | `nova.vcrauo.com` | ¥0.27 | $0.27 / $1.35 | 1 | Claude--kiro·稳定高缓渠道 | claude-sonnet-4-6 |
-| 42 | `op.aancn.cn` | ¥0.27 | $0.27 / $1.35 | 1 | 反代渠道1 | claude-sonnet-4-6 |
-| 43 | `www.lxooxlai.com` | ¥0.27 | $0.27 / $1.35 | 1 | claude-kiro-0.09 | claude-sonnet-4-6 |
-| 44 | `via.8t.chat` | ¥0.2808 | $0.2808 / $1.404 | 1 | claude-kiro | claude-sonnet-4-6 |
-| 45 | `api.aihub8.top` | ¥0.297 | $0.297 / $1.485 | 1 | 【Claude】低价组_0.09倍率 | claude-sonnet-4-6 |
-| 46 | `ahhilai.top` | ¥0.3 | $0.3 / $1.5 | 1 | Claude-kiro(90%缓存) | claude-sonnet-4-6 |
-| 47 | `aircola.top` | ¥0.3 | $0.3 / $1.5 | 1 | kiro | claude-sonnet-4-6 |
-| 48 | `api.ciyuanshen.top` | ¥0.3 | $0.3 / $1.5 | 1 | Claude Kiro 90缓 | claude-sonnet-4-6 |
-| 49 | `api.erasebg.xin` | ¥0.3 | $0.3 / $1.5 | 1 | gemini | claude-sonnet-4-6 |
-| 50 | `api.guaiyun.cc` | ¥0.3 | $0.3 / $1.5 | 1 | ClaudeCode-廉价渠道 | claude-sonnet-4-6 |
+| 33 | `www.dayueai.fun` | ¥0.24 | $0.24 / $1.2 | 1 | Claude5.5 企业稳定 deep 最新 | claude-sonnet-4-6 |
+| 34 | `xckjj.com` | ¥0.24 | $0.24 / $1.2 | 1 | 国模 | claude-sonnet-4-6 |
+| 35 | `xixi.bjhuiqu.net` | ¥0.24 | $0.24 / $1.2 | 1 | site_34~5641acb98aaba7ce | claude-sonnet-4-6 |
+| 36 | `xlapis.com` | ¥0.24 | $0.24 / $1.2 | 1 | Claude-CHAT | claude-sonnet-4-6 |
+| 37 | `ymeng.cc` | ¥0.24 | $0.24 / $1.2 | 1 | Claude-AwsQ-Kiro | claude-sonnet-4-6 |
+| 38 | `apibasis.com` | ¥0.255 | $0.255 / $1.275 | 1 | Kiro 90%缓存 | claude-sonnet-4-6 |
+| 39 | `new.tianluo.ccwu.cc` | ¥0.255 | $0.255 / $1.275 | 1 | 等我搞货 | claude-sonnet-4-6 |
+| 40 | `openkun.xyz` | ¥0.255 | $0.255 / $1.275 | 1 | Claude CC Kiro Ultra | claude-sonnet-4-6 |
+| 41 | `hiapi.top` | ¥0.27 | $0.27 / $1.35 | 1 | Claude Kiro高缓 | claude-sonnet-4-6 |
+| 42 | `nova.vcrauo.com` | ¥0.27 | $0.27 / $1.35 | 1 | Claude--kiro·稳定高缓渠道 | claude-sonnet-4-6 |
+| 43 | `op.aancn.cn` | ¥0.27 | $0.27 / $1.35 | 1 | 反代渠道1 | claude-sonnet-4-6 |
+| 44 | `www.lxooxlai.com` | ¥0.27 | $0.27 / $1.35 | 1 | claude-kiro-0.09 | claude-sonnet-4-6 |
+| 45 | `via.8t.chat` | ¥0.2808 | $0.2808 / $1.404 | 1 | claude-kiro | claude-sonnet-4-6 |
+| 46 | `api.aihub8.top` | ¥0.297 | $0.297 / $1.485 | 1 | 【Claude】低价组_0.09倍率 | claude-sonnet-4-6 |
+| 47 | `ahhilai.top` | ¥0.3 | $0.3 / $1.5 | 1 | Claude-kiro(90%缓存) | claude-sonnet-4-6 |
+| 48 | `aircola.top` | ¥0.3 | $0.3 / $1.5 | 1 | kiro | claude-sonnet-4-6 |
+| 49 | `api-models.com` | ¥0.3 | $0.3 / $1.5 | 1 | Promo | claude-sonnet-4-6 |
+| 50 | `api.ciyuanshen.top` | ¥0.3 | $0.3 / $1.5 | 1 | Claude Kiro 90缓 | claude-sonnet-4-6 |
 
-> 另有 1076 站未列出。
+> 另有 1116 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -89,35 +89,35 @@
 | 20 | `api.socode.cc` | $0.24 / $1.2 | Claude[Kiro] | 0.08 | claude-sonnet-4-6 |
 | 21 | `api.tcvps.cn` | $0.24 / $1.2 | Claude组【Kiro定制专线】低价线路★★★ | 0.08 | claude-sonnet-4-6 |
 | 22 | `apipaths.com` | $0.24 / $1.30909 | Claude-kiro-高缓 | 0.08 | claude-sonnet-4-6 |
-| 23 | `halion.asia` | $0.24 / $1.2 | Claude-kiro-华强北 | 0.08 | claude-sonnet-4-6 |
-| 24 | `hhw1231.com` | $0.24 / $1.2 | Kiro | 0.08 | claude-sonnet-4-6 |
-| 25 | `kedaya.ai` | $0.24 / $1.2 | Kiro | 0.08 | claude-sonnet-4-6 |
-| 26 | `www.civilian.asia` | $0.24 / $1.2 | claude-kiro | 0.08 | claude-sonnet-4-6 |
-| 27 | `xinyue.mom` | $0.24 / $1.2 | Claude-Kiro | 0.08 | claude-sonnet-4-6 |
-| 28 | `x.ailzd.com` | $0.252 / $1.26 | 高缓kiro | 0.084 | claude-sonnet-4-6 |
-| 29 | `dmit.yyrouter.cc` | $0.27 / $1.35 | Claude Kiro 95缓 | 0.09 | claude-sonnet-4-6 |
-| 30 | `new.984275579.xyz` | $0.27 / $1.35 | claude kiro 99缓 | 0.09 | claude-sonnet-4-6 |
-| 31 | `www.digitalcats.cc` | $0.27 / $1.35 | kiro高缓存 | 0.09 | claude-sonnet-4-6 |
-| 32 | `ahao.online` | $0.3 / $1.5 | Claude-kiro[高井发-高缓存】 | 0.1 | claude-sonnet-4-6 |
-| 33 | `aigw.store` | $0.3 / $1.5 | Claude Kiro | 0.1 | claude-sonnet-4-6 |
-| 34 | `api.hopeplay.online` | $0.3 / $1.5 | Kiro低缓 | 0.1 | claude-sonnet-4-6 |
-| 35 | `api.kcne.top` | $0.3 / $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4-6 |
-| 36 | `api.tokenfree.chat` | $0.3 / $1.5 | KIRO 高缓 | 0.1 | claude-sonnet-4-6 |
-| 37 | `godoftoken.eu.cc` | $0.3 / $1.5 | gpt | 0.1 | claude-sonnet-4-6 |
-| 38 | `kktyh.com` | $0.3 / $1.5 | Kiro Claude 无缓存 | 0.1 | claude-sonnet-4-6 |
-| 39 | `llm-coding.space` | $0.3 / $1.5 | kiro | 0.1 | claude-sonnet-4-6 |
-| 40 | `pureai.ink` | $0.3 / $1.5 | B-Kiro-Cache 90+ | 0.1 | claude-sonnet-4-6 |
-| 41 | `sub.skypoem.top` | $0.3 / $1.5 | claude-kiro | 0.1 | claude-sonnet-4-6 |
-| 42 | `www.largechestnut.com` | $0.3 / $1.5 | claude-kiro | 0.1 | claude-sonnet-4-6 |
-| 43 | `www.mofas.one` | $0.3 / $1.5 | anti-claude | 0.1 | claude-sonnet-4-6 |
-| 44 | `www.nmoon.cc` | $0.3 / $1.5 | kiro 华强北定制版 | 0.1 | claude-sonnet-4-6 |
-| 45 | `yyds.chybenzun.top` | $0.3 / $1.5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-sonnet-4-6 |
-| 46 | `zhiyuanapis.top` | $0.3 / $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4.6 |
-| 47 | `api.robinsonai.shop` | $0.324 / $1.62 | Claude Pro 订阅 | 0.702 | claude-sonnet-4-6 |
-| 48 | `77api.top` | $0.36 / $1.8 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-sonnet-4-6 |
-| 49 | `api.relaylink.cloud` | $0.36 / $1.8 | claude kiro组 | 0.12 | claude-sonnet-4-6 |
-| 50 | `api.tmiaow.cn` | $0.36 / $1.8 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-sonnet-4-6 |
+| 23 | `hahacode.com` | $0.24 / $1.2 | claude-kiro-有缓 | 0.08 | claude-sonnet-4-6 |
+| 24 | `halion.asia` | $0.24 / $1.2 | Claude-kiro-华强北 | 0.08 | claude-sonnet-4-6 |
+| 25 | `hhw1231.com` | $0.24 / $1.2 | Kiro | 0.08 | claude-sonnet-4-6 |
+| 26 | `kedaya.ai` | $0.24 / $1.2 | Kiro | 0.08 | claude-sonnet-4-6 |
+| 27 | `www.civilian.asia` | $0.24 / $1.2 | claude-kiro | 0.08 | claude-sonnet-4-6 |
+| 28 | `xinyue.mom` | $0.24 / $1.2 | Claude-Kiro | 0.08 | claude-sonnet-4-6 |
+| 29 | `x.ailzd.com` | $0.252 / $1.26 | 高缓kiro | 0.084 | claude-sonnet-4-6 |
+| 30 | `dmit.yyrouter.cc` | $0.27 / $1.35 | Claude Kiro 95缓 | 0.09 | claude-sonnet-4-6 |
+| 31 | `new.984275579.xyz` | $0.27 / $1.35 | claude kiro 99缓 | 0.09 | claude-sonnet-4-6 |
+| 32 | `www.digitalcats.cc` | $0.27 / $1.35 | kiro高缓存 | 0.09 | claude-sonnet-4-6 |
+| 33 | `ahao.online` | $0.3 / $1.5 | Claude-kiro[高井发-高缓存】 | 0.1 | claude-sonnet-4-6 |
+| 34 | `aigw.store` | $0.3 / $1.5 | Claude Kiro | 0.1 | claude-sonnet-4-6 |
+| 35 | `api.hopeplay.online` | $0.3 / $1.5 | Kiro低缓 | 0.1 | claude-sonnet-4-6 |
+| 36 | `api.kcne.top` | $0.3 / $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4-6 |
+| 37 | `api.tokenfree.chat` | $0.3 / $1.5 | KIRO 高缓 | 0.1 | claude-sonnet-4-6 |
+| 38 | `godoftoken.eu.cc` | $0.3 / $1.5 | gpt | 0.1 | claude-sonnet-4-6 |
+| 39 | `kktyh.com` | $0.3 / $1.5 | Kiro Claude 无缓存 | 0.1 | claude-sonnet-4-6 |
+| 40 | `llm-coding.space` | $0.3 / $1.5 | kiro | 0.1 | claude-sonnet-4-6 |
+| 41 | `pureai.ink` | $0.3 / $1.5 | B-Kiro-Cache 90+ | 0.1 | claude-sonnet-4-6 |
+| 42 | `sub.skypoem.top` | $0.3 / $1.5 | claude-kiro | 0.1 | claude-sonnet-4-6 |
+| 43 | `www.largechestnut.com` | $0.3 / $1.5 | claude-kiro | 0.1 | claude-sonnet-4-6 |
+| 44 | `www.mofas.one` | $0.3 / $1.5 | anti-claude | 0.1 | claude-sonnet-4-6 |
+| 45 | `www.nmoon.cc` | $0.3 / $1.5 | kiro 华强北定制版 | 0.1 | claude-sonnet-4-6 |
+| 46 | `yyds.chybenzun.top` | $0.3 / $1.5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-sonnet-4-6 |
+| 47 | `zhiyuanapis.top` | $0.3 / $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4.6 |
+| 48 | `api.robinsonai.shop` | $0.324 / $1.62 | Claude Pro 订阅 | 0.702 | claude-sonnet-4-6 |
+| 49 | `77api.top` | $0.36 / $1.8 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-sonnet-4-6 |
+| 50 | `api.relaylink.cloud` | $0.36 / $1.8 | claude kiro组 | 0.12 | claude-sonnet-4-6 |
 
-> 另有 344 站未列出。
+> 另有 351 站未列出。
 
-> 407 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 415 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

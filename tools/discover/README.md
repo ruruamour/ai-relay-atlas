@@ -13,6 +13,7 @@
 | Hugging Face 公共 Spaces | `huggingface_harvest.py` | 读取公开 Space README，提取带 Space/搜索词来源的域名；不运行 Space、不调用推理 |
 | Sourcegraph 公共索引 | `sourcegraph_harvest.py` | 只读取公开 README/文本匹配行，不下载或执行代码 |
 | Bing 公共搜索 | `web_search_harvest.py` | 读取搜索结果链接和标题，不自动打开结果；仅作候选来源 |
+| 公开目录页面 | `directory_harvest.py` | 读取公开中转站目录/比价页中的域名线索，不保存正文或购买路径 |
 | 前缀 / 换后缀 | `../gen_candidates.py` | 基于已收录站点生成，自动跳过泛解析父域 |
 | 证书透明日志 | `crtsh.py` | 直连 crt.sh 公共 PostgreSQL（需 `psql`），批量查询、断点续跑、只走 IPv4；默认 3 并发，请勿调大 |
 | 证书透明日志（备用） | `certspotter.py` | HTTP 接口，免费额度很低 |

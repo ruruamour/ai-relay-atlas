@@ -1,6 +1,6 @@
 # minimax-m3.1-flash-preview
 
-> 25 站提供 · 正常价 13 站 · 名义中位价 **$0.84**/1M 输入 · 实付中位价 **¥0.84**/1M 输入（9 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 13 站 · 名义中位价 **$0.84**/1M 输入 · 实付中位价 **¥0.84**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -29,4 +29,4 @@
 | 3 | `baosiapi.com` | $6 / $6 | minimax | 6 | MiniMax-M3.1-Flash-Preview |
 | 4 | `openai.sharkmagic.top` | $141.75 / $567 | tier_3 | 0.9 | [hm]u\|minimax-m3.1-flash-preview |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

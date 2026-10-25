@@ -1,6 +1,6 @@
 # gpt-5.6-sol-pro
 
-> 24 站提供 · 正常价 7 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥20.39**/1M 输入（6 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 8 站 · 名义中位价 **$4.5**/1M 输入 · 实付中位价 **¥16.72**/1M 输入（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,9 +13,10 @@
 | 1 | `www.omniroute.cc` | ¥0.78 | $0.78 / $4.68 | 1 | GPT-Pro | gpt-5.6-sol-pro |
 | 2 | `aiapi.shiwuyan.cn` | ¥2.5 | $2.5 / $13.5 | 1 | default | gpt-5.6-sol-pro |
 | 3 | `daoxe.com` | ¥11.59 | $11.25 / $67.5 | 1.03 | codex | gpt-5.6-sol-pro |
-| 4 | `mux.la` | ¥29.2 | $4 / $24 | 7.3 | Openrouter-Anthropic | openai/gpt-5.6-sol-pro |
-| 5 | `layso.ai` | ¥29.25 | $29.25 / $234 | 1 | Azure-Gpt-5 | gpt-5.6-sol-pro |
-| 6 | `laysoai.com` | ¥29.25 | $29.25 / $234 | 1 | Azure-Gpt-5 | gpt-5.6-sol-pro |
+| 4 | `ai.mowen.vip` | ¥16.72 | $2.5 / $15 | 6.6892 | default | gpt-5.6-sol-pro |
+| 5 | `mux.la` | ¥29.2 | $4 / $24 | 7.3 | Openrouter-Anthropic | openai/gpt-5.6-sol-pro |
+| 6 | `layso.ai` | ¥29.25 | $29.25 / $234 | 1 | Azure-Gpt-5 | gpt-5.6-sol-pro |
+| 7 | `laysoai.com` | ¥29.25 | $29.25 / $234 | 1 | Azure-Gpt-5 | gpt-5.6-sol-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

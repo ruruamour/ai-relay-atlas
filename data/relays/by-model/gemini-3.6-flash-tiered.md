@@ -1,6 +1,6 @@
 # gemini-3.6-flash-tiered
 
-> 103 站提供 · 正常价 61 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.45**/1M 输入（35 站公开充值价） · 推算，未对账
+> 105 站提供 · 正常价 62 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.425**/1M 输入（36 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,34 +17,35 @@
 | 5 | `oai.sb` | ¥0.15 | $0.15 / $0.75 | 1 | 【gemini】【非自营】 | gemini-3.6-flash-tiered |
 | 6 | `www.xpivot.top` | ¥0.15 | $0.15 / $0.75 | 1 | Gemini 反重力 | gemini-3.6-flash-tiered |
 | 7 | `api.routeeasy.ai` | ¥0.1875 | $0.1875 / $0.9375 | 1 | anti_gemini_0706_025_qing | gemini-3.6-flash-tiered |
-| 8 | `66ai.org` | ¥0.24 | $0.24 / $1.2 | 1 | gemini | gemini-3.6-flash-tiered |
-| 9 | `yinziapi.top` | ¥0.255 | $0.255 / $1.275 | 1 | gemini-无缓存 | gemini-3.6-flash-tiered |
-| 10 | `www.tokenbuy.shop` | ¥0.2625 | $0.2625 / $1.3125 | 1 | Gemini哈基米 | gemini-3.6-flash-tiered |
-| 11 | `kfcv50.link` | ¥0.285 | $0.285 / $1.425 | 1 | gemini_cli_0401_038 | gemini-3.6-flash-tiered |
-| 12 | `new.tianluo.ccwu.cc` | ¥0.285 | $0.285 / $1.425 | 1 | Genmi | gemini-3.6-flash-tiered |
-| 13 | `www.aqzzz.com` | ¥0.3 | $0.3 / $1.5 | 1 | Gemini | gemini-3.6-flash-tiered |
-| 14 | `www.youzi11.com` | ¥0.3 | $0.3 / $1.8 | 1 | gemini | gemini-3.6-flash-tiered |
-| 15 | `api.yuaiapi.com` | ¥0.375 | $0.375 / $2.25 | 1 | Gemini | gemini-3.6-flash-tiered |
-| 16 | `ai.711ev.com` | ¥0.39 | $0.39 / $1.95 | 1 | 【Gemini】Ultra号池 | gemini-3.6-flash-tiered |
-| 17 | `api.starchenapi.xyz` | ¥0.4 | $0.4 / $3.6 | 1 | gemini反重力 | gemini-3.6-flash-tiered |
-| 18 | `api.muxllm.com` | ¥0.45 | $0.45 / $2.25 | 1 | Gemini对话模型 | gemini-3.6-flash-tiered |
-| 19 | `api.uniprep.world` | ¥0.45 | $0.45 / $2.25 | 1 | Gemini | gemini-3.6-flash-tiered |
-| 20 | `api.xkj666.top` | ¥0.45 | $0.45 / $2.25 | 1 | 反重力Gemini | gemini-3.6-flash-tiered |
-| 21 | `codexcn.ccwu.cc` | ¥0.45 | $0.45 / $2.25 | 1 | Gemini | gemini-3.6-flash-tiered |
-| 22 | `deepkey.top` | ¥0.45 | $0.45 / $2.25 | 1 | gemini | gemini-3.6-flash-tiered |
-| 23 | `daoxe.com` | ¥0.4635 | $0.45 / $2.25 | 1.03 | Ant-Gemini | gemini-3.6-flash-tiered |
-| 24 | `api.polymer-ai.top` | ¥0.525 | $0.525 / $3.15 | 1 | Gemini-Pro官方分组 | gemini-3.6-flash-tiered |
-| 25 | `newapi.prorisehub.com` | ¥0.525 | $0.525 / $2.625 | 1 | Ant-Gemini | gemini-3.6-flash-tiered |
-| 26 | `cc.anyroute.io` | ¥0.75 | $0.75 / $3.75 | 1 | Gemini 企业渠道 | gemini-3.6-flash-tiered |
-| 27 | `api.ycapi.xyz` | ¥1 | $1 / $5 | 1 | gemini | gemini-3.6-flash-tiered |
-| 28 | `cn.gptapi.asia` | ¥1.088 | $1.088 / $5.44 | 1 | default | gemini-3.6-flash-tiered |
-| 29 | `yutoapi.com` | ¥1.088 | $1.088 / $5.44 | 1 | default | gemini-3.6-flash-tiered |
-| 30 | `www.jubaopeng.vip` | ¥1.095 | $0.15 / $0.75 | 7.3 | Gemini | gemini-3.6-flash-tiered |
-| 31 | `llm-routers.tokenfty.net` | ¥1.5 | $1.5 / $7.5 | 1 | 企业分组 | gemini-3.6-flash-tiered |
-| 32 | `otoken.pro` | ¥1.5 | $1.5 / $9 | 1 | default | gemini-3.6-flash-tiered |
-| 33 | `api.lyapunov-vector.com` | ¥3.285 | $0.45 / $2.25 | 7.3 | gemini按量 | gemini-3.6-flash-tiered |
-| 34 | `tob.goldlll.com` | ¥10.95 | $1.5 / $7.5 | 7.3 | 反重力Gemini | gemini-3.6-flash-tiered |
-| 35 | `aizhongzhuan.com` | ¥21.9 | $3 / $27 | 7.3 | 反重力Gemini | gemini-3.6-flash-tiered |
+| 8 | `ai.bytonsec.com` | ¥0.225 | $0.225 / $1.125 | 1 | gemini | gemini-3.6-flash-tiered |
+| 9 | `66ai.org` | ¥0.24 | $0.24 / $1.2 | 1 | gemini | gemini-3.6-flash-tiered |
+| 10 | `yinziapi.top` | ¥0.255 | $0.255 / $1.275 | 1 | gemini-无缓存 | gemini-3.6-flash-tiered |
+| 11 | `www.tokenbuy.shop` | ¥0.2625 | $0.2625 / $1.3125 | 1 | Gemini哈基米 | gemini-3.6-flash-tiered |
+| 12 | `kfcv50.link` | ¥0.285 | $0.285 / $1.425 | 1 | gemini_cli_0401_038 | gemini-3.6-flash-tiered |
+| 13 | `new.tianluo.ccwu.cc` | ¥0.285 | $0.285 / $1.425 | 1 | Genmi | gemini-3.6-flash-tiered |
+| 14 | `www.aqzzz.com` | ¥0.3 | $0.3 / $1.5 | 1 | Gemini | gemini-3.6-flash-tiered |
+| 15 | `www.youzi11.com` | ¥0.3 | $0.3 / $1.8 | 1 | gemini | gemini-3.6-flash-tiered |
+| 16 | `api.yuaiapi.com` | ¥0.375 | $0.375 / $2.25 | 1 | Gemini | gemini-3.6-flash-tiered |
+| 17 | `ai.711ev.com` | ¥0.39 | $0.39 / $1.95 | 1 | 【Gemini】Ultra号池 | gemini-3.6-flash-tiered |
+| 18 | `api.starchenapi.xyz` | ¥0.4 | $0.4 / $3.6 | 1 | gemini反重力 | gemini-3.6-flash-tiered |
+| 19 | `api.muxllm.com` | ¥0.45 | $0.45 / $2.25 | 1 | Gemini对话模型 | gemini-3.6-flash-tiered |
+| 20 | `api.uniprep.world` | ¥0.45 | $0.45 / $2.25 | 1 | Gemini | gemini-3.6-flash-tiered |
+| 21 | `api.xkj666.top` | ¥0.45 | $0.45 / $2.25 | 1 | 反重力Gemini | gemini-3.6-flash-tiered |
+| 22 | `codexcn.ccwu.cc` | ¥0.45 | $0.45 / $2.25 | 1 | Gemini | gemini-3.6-flash-tiered |
+| 23 | `deepkey.top` | ¥0.45 | $0.45 / $2.25 | 1 | gemini | gemini-3.6-flash-tiered |
+| 24 | `daoxe.com` | ¥0.4635 | $0.45 / $2.25 | 1.03 | Ant-Gemini | gemini-3.6-flash-tiered |
+| 25 | `api.polymer-ai.top` | ¥0.525 | $0.525 / $3.15 | 1 | Gemini-Pro官方分组 | gemini-3.6-flash-tiered |
+| 26 | `newapi.prorisehub.com` | ¥0.525 | $0.525 / $2.625 | 1 | Ant-Gemini | gemini-3.6-flash-tiered |
+| 27 | `cc.anyroute.io` | ¥0.75 | $0.75 / $3.75 | 1 | Gemini 企业渠道 | gemini-3.6-flash-tiered |
+| 28 | `api.ycapi.xyz` | ¥1 | $1 / $5 | 1 | gemini | gemini-3.6-flash-tiered |
+| 29 | `cn.gptapi.asia` | ¥1.088 | $1.088 / $5.44 | 1 | default | gemini-3.6-flash-tiered |
+| 30 | `yutoapi.com` | ¥1.088 | $1.088 / $5.44 | 1 | default | gemini-3.6-flash-tiered |
+| 31 | `www.jubaopeng.vip` | ¥1.095 | $0.15 / $0.75 | 7.3 | Gemini | gemini-3.6-flash-tiered |
+| 32 | `llm-routers.tokenfty.net` | ¥1.5 | $1.5 / $7.5 | 1 | 企业分组 | gemini-3.6-flash-tiered |
+| 33 | `otoken.pro` | ¥1.5 | $1.5 / $9 | 1 | default | gemini-3.6-flash-tiered |
+| 34 | `api.lyapunov-vector.com` | ¥3.285 | $0.45 / $2.25 | 7.3 | gemini按量 | gemini-3.6-flash-tiered |
+| 35 | `tob.goldlll.com` | ¥10.95 | $1.5 / $7.5 | 7.3 | 反重力Gemini | gemini-3.6-flash-tiered |
+| 36 | `aizhongzhuan.com` | ¥21.9 | $3 / $27 | 7.3 | 反重力Gemini | gemini-3.6-flash-tiered |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -77,4 +78,4 @@
 | 25 | `api.apihoter.com` | $2 / $2 | default | 1 | gemini-3.6-flash-tiered |
 | 26 | `ai.xem8k5.top` | $4.05 / $20.25 | gemini | 18 | gemini-3.6-flash-tiered |
 
-> 42 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 43 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

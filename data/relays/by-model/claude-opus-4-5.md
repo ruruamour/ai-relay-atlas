@@ -1,6 +1,6 @@
 # claude-opus-4-5
 
-> 1217 站提供 · 正常价 1013 站 · 名义中位价 **$4.5**/1M 输入 · 实付中位价 **¥5.475**/1M 输入（728 站公开充值价） · 推算，未对账
+> 1250 站提供 · 正常价 1042 站 · 名义中位价 **$4.5**/1M 输入 · 实付中位价 **¥5.475**/1M 输入（752 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -52,16 +52,16 @@
 | 40 | `business.newcli.com` | ¥0.6 | $0.6 / $3 | 1 | svip | claude-opus-4-5-20251101 |
 | 41 | `code.tachira.cn` | ¥0.6 | $0.6 / $3 | 1 | ClaudeCode-Kiro | claude-opus-4-5-20251101 |
 | 42 | `getezo.com` | ¥0.6 | $0.6 / $3 | 1 | 企业级kiro高缓 | claude-opus-4-5-20251101 |
-| 43 | `openoneapi.com` | ¥0.6 | $0.6 / $3 | 1 | kiro-99缓 | claude-opus-4-5 |
-| 44 | `weason.cn` | ¥0.6 | $0.6 / $3 | 1 | Claude | claude-opus-4-5-20251101 |
-| 45 | `ce.aibridgea.com` | ¥0.618 | $0.6 / $3 | 1.03 | Claude-Kiro[高并发-纯Kiro反代] | claude-opus-4-5 |
-| 46 | `api.tccxy.top` | ¥0.65 | $0.65 / $3.25 | 1 | kiro | claude-opus-4-5-20251101-thinking |
-| 47 | `azemm.cc` | ¥0.65 | $0.65 / $3.25 | 1 | Claude kiro | claude-opus-4-5 |
-| 48 | `tokensupply.ai` | ¥0.71 | $0.71 / $3.55 | 1 | default | claude-opus-4-5-20251101 |
-| 49 | `agentapi.one` | ¥0.75 | $1.5 / $7.5 | 0.5 | Claude-AWS渠道 | claude-opus-4-5-20251101 |
-| 50 | `aimoniker.top` | ¥0.75 | $0.75 / $3.75 | 1 | claude-pro-cheap | claude-opus-4-5-20251101 |
+| 43 | `kapibala.asia` | ¥0.6 | $2 / $10 | 0.3 | kiro | claude-opus-4-5 |
+| 44 | `openoneapi.com` | ¥0.6 | $0.6 / $3 | 1 | kiro-99缓 | claude-opus-4-5 |
+| 45 | `weason.cn` | ¥0.6 | $0.6 / $3 | 1 | Claude | claude-opus-4-5-20251101 |
+| 46 | `xn--15q04w3tg4kio0a.com` | ¥0.6 | $0.6 / $3 | 1 | 🧪claude-kiro | claude-opus-4-5-20251101 |
+| 47 | `ce.aibridgea.com` | ¥0.618 | $0.6 / $3 | 1.03 | Claude-Kiro[高并发-纯Kiro反代] | claude-opus-4-5 |
+| 48 | `api.tccxy.top` | ¥0.65 | $0.65 / $3.25 | 1 | kiro | claude-opus-4-5-20251101-thinking |
+| 49 | `azemm.cc` | ¥0.65 | $0.65 / $3.25 | 1 | Claude kiro | claude-opus-4-5 |
+| 50 | `tokensupply.ai` | ¥0.71 | $0.71 / $3.55 | 1 | default | claude-opus-4-5-20251101 |
 
-> 另有 678 站未列出。
+> 另有 702 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -114,10 +114,10 @@
 | 45 | `levelup.mom` | $0.75 / $3.75 | Claude Kiro反代贫血号池 | 0.15 | claude-opus-4-5-20251101 |
 | 46 | `ovo1.vip` | $0.75 / $3.75 | Claude Kiro [99缓] | 0.15 | claude-opus-4-5-20251101 |
 | 47 | `zmx.xyz.hr` | $0.75 / $3.75 | Claude-90缓 | 0.15 | claude-opus-4-5-20251101 |
-| 48 | `api-ap.onemini.top` | $0.9 / $4.5 | claude-kiro [90%+缓存] | 0.18 | claude-opus-4-5 |
-| 49 | `api.onemini.top` | $0.9 / $4.5 | claude-kiro [90%+缓存] | 0.18 | claude-opus-4-5 |
-| 50 | `new.yunai.link` | $0.9 / $4.5 | kiro018 | 0.18 | claude-opus-4-5-20251101 |
+| 48 | `api.168box.xyz` | $0.8 / $4 | kiro | 0.16 | claude-opus-4-5 |
+| 49 | `api-ap.onemini.top` | $0.9 / $4.5 | claude-kiro [90%+缓存] | 0.18 | claude-opus-4-5 |
+| 50 | `api.onemini.top` | $0.9 / $4.5 | claude-kiro [90%+缓存] | 0.18 | claude-opus-4-5 |
 
-> 另有 235 站未列出。
+> 另有 240 站未列出。
 
-> 204 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 208 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

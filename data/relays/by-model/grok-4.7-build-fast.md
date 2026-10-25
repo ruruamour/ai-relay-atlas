@@ -1,6 +1,6 @@
 # grok-4.7-build-fast
 
-> 154 站提供 · 正常价 81 站 · 名义中位价 **$0.48**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（33 站公开充值价） · 推算，未对账
+> 158 站提供 · 正常价 82 站 · 名义中位价 **$0.48**/1M 输入 · 实付中位价 **¥0.76**/1M 输入（34 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,30 +19,31 @@
 | 7 | `ai.lt4net.org` | ¥0.438 | $0.06 / $0.18 | 7.3 | grok | grok-4.7-build-fast |
 | 8 | `ai.ltcraft.cn` | ¥0.438 | $0.06 / $0.18 | 7.3 | grok | grok-4.7-build-fast |
 | 9 | `ai.furry.vg` | ¥0.48 | $0.48 / $1.44 | 1 | Grok | grok-4.7-build-fast |
-| 10 | `api.jail173.cc.cd` | ¥0.6 | $0.6 / $1.8 | 1 | 11 Grok | grok-4.7-build-fast |
-| 11 | `api.rtoc.cc` | ¥0.6 | $0.6 / $1.8 | 1 | 11 Grok | grok-4.7-build-fast |
-| 12 | `claudegpt.cc` | ¥0.6 | $0.6 / $0.6 | 1 | Grok | grok-4.7-build-fast |
-| 13 | `dragon3api.com` | ¥0.6 | $0.6 / $1.8 | 1 | grok | grok-4.7-build-fast |
-| 14 | `www.onetopai.com` | ¥0.6 | $0.6 / $0.6 | 1 | Grok-Heavy | grok-4.7-build-fast |
-| 15 | `huablog.org` | ¥0.66 | $0.66 / $1.98 | 1 | grok | grok-4.7-build-fast |
-| 16 | `aierxin.cc` | ¥0.72 | $0.72 / $2.16 | 1 | Grok | grok-4.7-build-fast |
-| 17 | `apicangku.icu` | ¥0.8 | $0.8 / $2.4 | 1 | grok | grok-4.7-build-fast |
-| 18 | `nomissapi.top` | ¥0.8 | $0.8 / $2.4 | 1 | grok | grok-4.7-build-fast |
-| 19 | `crowllm.com` | ¥1 | $1 / $1.99 | 1 | pro | grok-4.7-build-fast |
-| 20 | `api.lingzhouai.com` | ¥1.12 | $0.16 / $0.48 | 7 | grok | grok-4.7-build-fast |
-| 21 | `api.gstrad.top` | ¥2 | $2 / $6 | 1 | default | grok-4.7-build-fast |
-| 22 | `www.manbouapi.com` | ¥2.4 | $2.4 / $7.2 | 1 | grok_heavy | grok-4.7-build-fast |
-| 23 | `console.mirrorcoding.xyz` | ¥2.555 | $0.35 / $0.35 | 7.3 | XAI | grok-4.7-build-fast |
-| 24 | `easymax.ai` | ¥4 | $4 / $12 | 1 | grok | grok-4.7-build-fast |
-| 25 | `hk-api.shqbb.com` | ¥4 | $4 / $12 | 1 | grok | grok-4.7-build-fast |
-| 26 | `ai.hebox.net` | ¥4.928 | $0.675 / $0.675 | 7.3 | grok_heavy | grok-4.7-build-fast |
-| 27 | `api.astroflowing.com` | ¥5.84 | $0.8 / $2.4 | 7.3 | Grok | grok-4.7-build-fast |
-| 28 | `987xyz.com` | ¥6 | $6 / $18 | 1 | grok | grok-4.7-build-fast |
-| 29 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | grok-4.7-build-fast |
-| 30 | `ihonghu.com.cn` | ¥14.6 | $2 / $6 | 7.3 | gork | grok-4.7-build-fast |
-| 31 | `apicdn.xyc.ai` | ¥27.6 | $4 / $12 | 6.9 | grok-ent | grok-4.7-build-fast |
-| 32 | `apicdn.xycai.us` | ¥27.6 | $4 / $12 | 6.9 | grok-ent | grok-4.7-build-fast |
-| 33 | `2coding.com` | ¥29.2 | $4 / $12 | 7.3 | grok | grok-4.7-build-fast |
+| 10 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | grok-4.7-build-fast |
+| 11 | `api.jail173.cc.cd` | ¥0.6 | $0.6 / $1.8 | 1 | 11 Grok | grok-4.7-build-fast |
+| 12 | `api.rtoc.cc` | ¥0.6 | $0.6 / $1.8 | 1 | 11 Grok | grok-4.7-build-fast |
+| 13 | `claudegpt.cc` | ¥0.6 | $0.6 / $0.6 | 1 | Grok | grok-4.7-build-fast |
+| 14 | `dragon3api.com` | ¥0.6 | $0.6 / $1.8 | 1 | grok | grok-4.7-build-fast |
+| 15 | `www.onetopai.com` | ¥0.6 | $0.6 / $0.6 | 1 | Grok-Heavy | grok-4.7-build-fast |
+| 16 | `huablog.org` | ¥0.66 | $0.66 / $1.98 | 1 | grok | grok-4.7-build-fast |
+| 17 | `aierxin.cc` | ¥0.72 | $0.72 / $2.16 | 1 | Grok | grok-4.7-build-fast |
+| 18 | `apicangku.icu` | ¥0.8 | $0.8 / $2.4 | 1 | grok | grok-4.7-build-fast |
+| 19 | `nomissapi.top` | ¥0.8 | $0.8 / $2.4 | 1 | grok | grok-4.7-build-fast |
+| 20 | `crowllm.com` | ¥1 | $1 / $1.99 | 1 | pro | grok-4.7-build-fast |
+| 21 | `api.lingzhouai.com` | ¥1.12 | $0.16 / $0.48 | 7 | grok | grok-4.7-build-fast |
+| 22 | `api.gstrad.top` | ¥2 | $2 / $6 | 1 | default | grok-4.7-build-fast |
+| 23 | `www.manbouapi.com` | ¥2.4 | $2.4 / $7.2 | 1 | grok_heavy | grok-4.7-build-fast |
+| 24 | `console.mirrorcoding.xyz` | ¥2.555 | $0.35 / $0.35 | 7.3 | XAI | grok-4.7-build-fast |
+| 25 | `easymax.ai` | ¥4 | $4 / $12 | 1 | grok | grok-4.7-build-fast |
+| 26 | `hk-api.shqbb.com` | ¥4 | $4 / $12 | 1 | grok | grok-4.7-build-fast |
+| 27 | `ai.hebox.net` | ¥4.928 | $0.675 / $0.675 | 7.3 | grok_heavy | grok-4.7-build-fast |
+| 28 | `api.astroflowing.com` | ¥5.84 | $0.8 / $2.4 | 7.3 | Grok | grok-4.7-build-fast |
+| 29 | `987xyz.com` | ¥6 | $6 / $18 | 1 | grok | grok-4.7-build-fast |
+| 30 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | grok-4.7-build-fast |
+| 31 | `ihonghu.com.cn` | ¥14.6 | $2 / $6 | 7.3 | gork | grok-4.7-build-fast |
+| 32 | `apicdn.xyc.ai` | ¥27.6 | $4 / $12 | 6.9 | grok-ent | grok-4.7-build-fast |
+| 33 | `apicdn.xycai.us` | ¥27.6 | $4 / $12 | 6.9 | grok-ent | grok-4.7-build-fast |
+| 34 | `2coding.com` | ¥29.2 | $4 / $12 | 7.3 | grok | grok-4.7-build-fast |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -97,4 +98,4 @@
 | 47 | `vapi.chuangxiangai.asia` | $4 / $12 | grok-Heavy 0.1x | 1 | grok-4.7-build-fast |
 | 48 | `vip.zen-ai.top` | $6 / $18 | grok-build | 3 | grok-4.7-build-fast |
 
-> 73 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 76 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

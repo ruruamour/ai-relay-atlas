@@ -1,6 +1,6 @@
 # kimi-k2.7-code-highspeed
 
-> 140 站提供 · 正常价 119 站 · 名义中位价 **$19.5**/1M 输入 · 实付中位价 **¥13**/1M 输入（44 站公开充值价） · 推算，未对账
+> 146 站提供 · 正常价 123 站 · 名义中位价 **$19.5**/1M 输入 · 实付中位价 **¥12.67**/1M 输入（48 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,44 +16,48 @@
 | 4 | `e.fishxcode.com` | ¥1.857 | $1.85714 / $7.71429 | 1 | default | kimi/kimi-k2.7-code-highspeed |
 | 5 | `otoken.pro` | ¥1.9 | $1.9 / $8 | 1 | default | kimi-k2.7-code-highspeed |
 | 6 | `api.slomerex.xyz` | ¥2.6 | $2.6 / $10.8 | 1 | Kimi | kimi-k2.7-code-highspeed |
-| 7 | `newapi.akiyo.fun` | ¥5.2 | $5.2 / $21.6 | 1 | Akiyo自有国模 | kimi-k2.7-code-highspeed |
-| 8 | `tokeness.cn` | ¥6.24 | $6.24 / $25.92 | 1 | Kimi | kimi-k2.7-code-highspeed |
-| 9 | `api.syon.ai` | ¥7.98 | $1.14 / $4.8 | 7 | 官方kimi | kimi-k2.7-code-highspeed |
-| 10 | `emoxia.meta-api.vip` | ¥8.1 | $27 / $112.5 | 0.3 | vip | kimi-k2.7-code-highspeed |
-| 11 | `api.shqbb.com` | ¥8.322 | $1.14 / $4.8 | 7.3 | kimi | kimi-k2.7-code-highspeed |
-| 12 | `ff.zwenooo.link` | ¥9.1 | $9.1 / $39.2 | 1 | 国模 | kimi-k2.7-code-highspeed |
-| 13 | `ccoo.ai` | ¥9.69 | $1.425 / $6 | 6.8 | Moonshot 官方 | kimi-k2.7-code-highspeed |
-| 14 | `api.lingyaai.cn` | ¥10.27 | $10.27 / $42.66 | 1 | 国产普惠·源力计划 | kimi-k2.7-code-highspeed |
-| 15 | `gpt777.top` | ¥10.4 | $10.4 / $43.2 | 1 | opensource | kimi-k2.7-code-highspeed |
-| 16 | `guaihub.com` | ¥10.4 | $10.4 / $43.2 | 1 | Kimi-officially | kimi-k2.7-code-highspeed |
-| 17 | `kfcv50.link` | ¥10.4 | $10.4 / $43.264 | 1 | Domestic_act_08 | kimi-k2.7-code-highspeed |
-| 18 | `claudecn.ai` | ¥11.7 | $11.7 / $48.6 | 1 | 国产模型 | kimi-k2.7-code-highspeed |
-| 19 | `api.ifopen.ai` | ¥11.83 | $3.38 / $14.04 | 3.5 | 通用大模型 | kimi-k2.7-code-highspeed |
-| 20 | `api2.aigcbest.top` | ¥11.83 | $3.38 / $14.04 | 3.5 | 通用大模型 | kimi-k2.7-code-highspeed |
-| 21 | `api.iksvip.cc` | ¥12.35 | $12.35 / $51.3 | 1 | kimi | kimi-k2.7-code-highspeed |
-| 22 | `aliapi.org` | ¥13 | $1.92 / $7.976 | 6.77 | vip | kimi-k2.7-code-highspeed |
-| 23 | `ai.hwdrama.com` | ¥13 | $13 / $54 | 1 | default | kimi-k2.7-code-highspeed |
-| 24 | `api.new.bi` | ¥13 | $13 / $54 | 1 | default | kimi-k2.7-code-highspeed |
-| 25 | `aws.baby` | ¥13 | $13 / $54 | 1 | 阿里云百炼大客户 | kimi/kimi-k2.7-code-highspeed |
-| 26 | `biezou.com` | ¥13 | $13 / $54 | 1 | 阿里云百炼大客户 | kimi/kimi-k2.7-code-highspeed |
-| 27 | `tokenworldapi.com` | ¥13 | $13 / $54 | 1 | kimi官key | kimi-k2.7-code-highspeed |
-| 28 | `vsoui.com` | ¥13 | $13 / $54 | 1 | default | kimi/kimi-k2.7-code-highspeed |
-| 29 | `crazyrouter.com` | ¥13.19 | $1.88406 / $7.82609 | 7 | default | kimi-k2.7-code-highspeed |
-| 30 | `cn.gptapi.asia` | ¥13.3 | $13.3 / $55.993 | 1 | enterprise | kimi-k2.7-code-highspeed |
-| 31 | `yutoapi.com` | ¥13.3 | $13.3 / $55.993 | 1 | enterprise | kimi-k2.7-code-highspeed |
-| 32 | `api.witflow.ai` | ¥13.87 | $1.9 / $8 | 7.3 | default | kimi-k2.7-code-highspeed |
-| 33 | `new.foxi-api.cn` | ¥19.5 | $19.5 / $81 | 1 | 纯AZ | kimi-k2.7-code-highspeed |
-| 34 | `apifd.hyleet.com` | ¥21.9 | $3 / $3 | 7.3 | default | moonshot/kimi-k2.7-code-highspeed |
-| 35 | `gpt.venlacy.com` | ¥30 | $30 / $30 | 1 | 国模 | kimi/kimi-k2.7-code-highspeed |
-| 36 | `hk.getelucid.com` | ¥30 | $30 / $30 | 1 | 【国】国模 | kimi-k2.7-code-highspeed |
-| 37 | `2api.powerapi.cc` | ¥42.7 | $5.85 / $24.3 | 7.3 | kimi官转 | kimi-k2.7-code-highspeed |
-| 38 | `dashboard.powerapi.cc` | ¥42.7 | $5.85 / $24.3 | 7.3 | kimi官转 | kimi-k2.7-code-highspeed |
-| 39 | `api.ai-gaochao.cn` | ¥47.45 | $6.5 / $27 | 7.3 | guo_chan | kimi-k2.7-code-highspeed |
-| 40 | `apius.shubiaobiao.cn` | ¥47.45 | $6.5 / $27 | 7.3 | guo_chan | kimi-k2.7-code-highspeed |
-| 41 | `unorouter.net` | ¥94.9 | $13 / $54 | 7.3 | default | kimi/kimi-k2.7-code-highspeed |
-| 42 | `wrduai.com` | ¥94.9 | $13 / $54 | 7.3 | 官转正价 | kimi-k2.7-code-highspeed |
-| 43 | `api.zhengmi.org` | ¥97.61 | $13.3711 / $55.543 | 7.3 | 国模官渠 | kimi-k2.7-code-highspeed |
-| 44 | `hopeai.vip` | ¥328.5 | $45 / $45 | 7.3 | kimi-k3专线 | kimi-k2.7-code-highspeed |
+| 7 | `api.dli.li` | ¥5.2 | $5.2 / $21.6 | 1 | kimi | kimi-k2.7-code-highspeed |
+| 8 | `newapi.akiyo.fun` | ¥5.2 | $5.2 / $21.6 | 1 | Akiyo自有国模 | kimi-k2.7-code-highspeed |
+| 9 | `tokeness.cn` | ¥6.24 | $6.24 / $25.92 | 1 | Kimi | kimi-k2.7-code-highspeed |
+| 10 | `comput.chat` | ¥7.5 | $7.5 / $7.5 | 1 | default | moonshotai/Kimi-K2.7-Code-Highspeed |
+| 11 | `api.syon.ai` | ¥7.98 | $1.14 / $4.8 | 7 | 官方kimi | kimi-k2.7-code-highspeed |
+| 12 | `emoxia.meta-api.vip` | ¥8.1 | $27 / $112.5 | 0.3 | vip | kimi-k2.7-code-highspeed |
+| 13 | `api.shqbb.com` | ¥8.322 | $1.14 / $4.8 | 7.3 | kimi | kimi-k2.7-code-highspeed |
+| 14 | `ff.zwenooo.link` | ¥9.1 | $9.1 / $39.2 | 1 | 国模 | kimi-k2.7-code-highspeed |
+| 15 | `ccoo.ai` | ¥9.69 | $1.425 / $6 | 6.8 | Moonshot 官方 | kimi-k2.7-code-highspeed |
+| 16 | `api.lingyaai.cn` | ¥10.27 | $10.27 / $42.66 | 1 | 国产普惠·源力计划 | kimi-k2.7-code-highspeed |
+| 17 | `gpt777.top` | ¥10.4 | $10.4 / $43.2 | 1 | opensource | kimi-k2.7-code-highspeed |
+| 18 | `guaihub.com` | ¥10.4 | $10.4 / $43.2 | 1 | Kimi-officially | kimi-k2.7-code-highspeed |
+| 19 | `kfcv50.link` | ¥10.4 | $10.4 / $43.264 | 1 | Domestic_act_08 | kimi-k2.7-code-highspeed |
+| 20 | `ai.bytonsec.com` | ¥11.4 | $11.4 / $48 | 1 | VERCEL | vercel/moonshotai/kimi-k2.7-code-highspeed |
+| 21 | `claudecn.ai` | ¥11.7 | $11.7 / $48.6 | 1 | 国产模型 | kimi-k2.7-code-highspeed |
+| 22 | `api.ifopen.ai` | ¥11.83 | $3.38 / $14.04 | 3.5 | 通用大模型 | kimi-k2.7-code-highspeed |
+| 23 | `api2.aigcbest.top` | ¥11.83 | $3.38 / $14.04 | 3.5 | 通用大模型 | kimi-k2.7-code-highspeed |
+| 24 | `api.iksvip.cc` | ¥12.35 | $12.35 / $51.3 | 1 | kimi | kimi-k2.7-code-highspeed |
+| 25 | `aliapi.org` | ¥13 | $1.92 / $7.976 | 6.77 | vip | kimi-k2.7-code-highspeed |
+| 26 | `ai.hwdrama.com` | ¥13 | $13 / $54 | 1 | default | kimi-k2.7-code-highspeed |
+| 27 | `api.new.bi` | ¥13 | $13 / $54 | 1 | default | kimi-k2.7-code-highspeed |
+| 28 | `api.xi-ai.cn` | ¥13 | $13 / $54 | 1 | 国产模型 | kimi-k2.7-code-highspeed |
+| 29 | `aws.baby` | ¥13 | $13 / $54 | 1 | 阿里云百炼大客户 | kimi/kimi-k2.7-code-highspeed |
+| 30 | `biezou.com` | ¥13 | $13 / $54 | 1 | 阿里云百炼大客户 | kimi/kimi-k2.7-code-highspeed |
+| 31 | `tokenworldapi.com` | ¥13 | $13 / $54 | 1 | kimi官key | kimi-k2.7-code-highspeed |
+| 32 | `vsoui.com` | ¥13 | $13 / $54 | 1 | default | kimi/kimi-k2.7-code-highspeed |
+| 33 | `crazyrouter.com` | ¥13.19 | $1.88406 / $7.82609 | 7 | default | kimi-k2.7-code-highspeed |
+| 34 | `cn.gptapi.asia` | ¥13.3 | $13.3 / $55.993 | 1 | enterprise | kimi-k2.7-code-highspeed |
+| 35 | `yutoapi.com` | ¥13.3 | $13.3 / $55.993 | 1 | enterprise | kimi-k2.7-code-highspeed |
+| 36 | `api.witflow.ai` | ¥13.87 | $1.9 / $8 | 7.3 | default | kimi-k2.7-code-highspeed |
+| 37 | `new.foxi-api.cn` | ¥19.5 | $19.5 / $81 | 1 | 纯AZ | kimi-k2.7-code-highspeed |
+| 38 | `apifd.hyleet.com` | ¥21.9 | $3 / $3 | 7.3 | default | moonshot/kimi-k2.7-code-highspeed |
+| 39 | `gpt.venlacy.com` | ¥30 | $30 / $30 | 1 | 国模 | kimi/kimi-k2.7-code-highspeed |
+| 40 | `hk.getelucid.com` | ¥30 | $30 / $30 | 1 | 【国】国模 | kimi-k2.7-code-highspeed |
+| 41 | `2api.powerapi.cc` | ¥42.7 | $5.85 / $24.3 | 7.3 | kimi官转 | kimi-k2.7-code-highspeed |
+| 42 | `dashboard.powerapi.cc` | ¥42.7 | $5.85 / $24.3 | 7.3 | kimi官转 | kimi-k2.7-code-highspeed |
+| 43 | `api.ai-gaochao.cn` | ¥47.45 | $6.5 / $27 | 7.3 | guo_chan | kimi-k2.7-code-highspeed |
+| 44 | `apius.shubiaobiao.cn` | ¥47.45 | $6.5 / $27 | 7.3 | guo_chan | kimi-k2.7-code-highspeed |
+| 45 | `unorouter.net` | ¥94.9 | $13 / $54 | 7.3 | default | kimi/kimi-k2.7-code-highspeed |
+| 46 | `wrduai.com` | ¥94.9 | $13 / $54 | 7.3 | 官转正价 | kimi-k2.7-code-highspeed |
+| 47 | `api.zhengmi.org` | ¥97.61 | $13.3711 / $55.543 | 7.3 | 国模官渠 | kimi-k2.7-code-highspeed |
+| 48 | `hopeai.vip` | ¥328.5 | $45 / $45 | 7.3 | kimi-k3专线 | kimi-k2.7-code-highspeed |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -112,4 +116,4 @@
 
 > 另有 25 站未列出。
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

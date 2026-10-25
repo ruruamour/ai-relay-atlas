@@ -1,6 +1,6 @@
 # qwen3.7-plus
 
-> 463 站提供 · 正常价 324 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥2.015**/1M 输入（223 站公开充值价） · 推算，未对账
+> 482 站提供 · 正常价 335 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥2.015**/1M 输入（233 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,37 +31,37 @@
 | 19 | `easyrouter.io` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3.7-plus |
 | 20 | `otoken.pro` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3.7-plus |
 | 21 | `tokenflux.cloud` | ¥0.4 | $0.4 / $1.6 | 1 | default | qwen3.7-plus |
-| 22 | `code0.ai` | ¥0.5 | $0.5 / $2 | 1 | Qwen | qwen3.7-plus |
-| 23 | `oai.sb` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | qwen3.7-plus |
-| 24 | `www.ainzy.net` | ¥0.525 | $0.525 / $2.1 | 1 | chinese-model-niche | qwen3.7-plus |
-| 25 | `starapi.fun` | ¥0.5479 | $0.5479 / $2.1917 | 1 | default | qwen3.7-plus |
-| 26 | `aiapibase.top` | ¥0.56 | $0.56 / $2.24 | 1 | deepseek | Ali/qwen3.7-plus |
-| 27 | `hk.moleapi.com` | ¥0.5916 | $0.087 / $0.348 | 6.8 | relay | qwen3.7-plus |
-| 28 | `new.tianluo.ccwu.cc` | ¥0.6 | $0.6 / $2.4 | 1 | 国产小分队 | qwen3.7-plus |
-| 29 | `rockapi.cn` | ¥0.6 | $0.6 / $2.4 | 1 | 国产模型 | qwen3.7-plus |
-| 30 | `x-llm.net` | ¥0.6 | $0.6 / $2.4 | 1 | 国产模型 | qwen3.7-plus |
-| 31 | `api.furryforum.com` | ¥0.64 | $0.64 / $2.56 | 1 | 国模稳定 | qwen3.7-plus |
-| 32 | `airouter.dev` | ¥0.6432 | $0.096 / $0.384 | 6.7 | default | openrouter/qwen/qwen3.7-plus |
-| 33 | `shanyiapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | vip_ch | qwen3.7-plus |
-| 34 | `66ai.ai` | ¥0.72 | $0.72 / $2.7 | 1 | qwen3.7-plus | qwen3.7-plus |
-| 35 | `api.xkj666.top` | ¥0.72 | $0.72 / $2.88 | 1 | 国模分组 | qwen3.7-plus |
-| 36 | `api.kkdmx.com` | ¥0.77 | $0.77 / $3 | 1 | 默认分组(不能用GPT) | qwen3.7-plus |
-| 37 | `api.nbility.ai` | ¥0.8 | $0.8 / $3.2 | 1 | china | qwen3.7-plus |
-| 38 | `code.ciyuanapi.xyz` | ¥0.8 | $0.8 / $3.2 | 1 | 原生开源&国产模型 | qwen3.7-plus |
-| 39 | `wetoken.ai` | ¥0.8 | $0.8 / $3.2 | 1 | default | qwen3.7-plus |
-| 40 | `xh.v1api.cc` | ¥0.8 | $1 / $4 | 0.8 | code | qwen3.7-plus |
-| 41 | `zl.wonderful.edu.kg` | ¥0.8 | $0.8 / $3.2 | 1 | 【高倍率】国模集合分组 | qwen3.7-plus |
-| 42 | `www.mrouter.com` | ¥0.8572 | $0.8572 / $3.4288 | 1 | cn | qwen3.7-plus |
-| 43 | `jbbtoken.cn` | ¥0.9 | $0.9 / $2.7 | 1 | 国产模型 | qwen3.7-plus |
-| 44 | `api.68886868.xyz` | ¥0.936 | $0.936 / $3.744 | 1 | 国模3 | qwen3.7-plus |
-| 45 | `ckff.dev` | ¥0.936 | $0.936 / $3.744 | 1 | 国模3 | qwen3.7-plus |
-| 46 | `supertoken.pro` | ¥0.9965 | $0.1365 / $0.263855 | 7.3 | 千问 | qwen3.7-plus-2026-05-26 |
-| 47 | `api.qinzhiai.com` | ¥1 | $1 / $4 | 1 | open_source | qwen3.7-plus |
-| 48 | `slb-v1.api.fan` | ¥1 | $1 / $4 | 1 | bailian | qwen3.7-plus |
-| 49 | `www.packyapi.com` | ¥1 | $1 / $4 | 1 | bailian | qwen3.7-plus |
-| 50 | `www.wanmoapi.com` | ¥1 | $1 / $4 | 1 | bailian | qwen3.7-plus |
+| 22 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | Qwen3.7-Plus |
+| 23 | `code0.ai` | ¥0.5 | $0.5 / $2 | 1 | Qwen | qwen3.7-plus |
+| 24 | `oai.sb` | ¥0.5 | $0.5 / $2 | 1 | 【短期国模优惠渠道】【非自营】 | qwen3.7-plus |
+| 25 | `www.ainzy.net` | ¥0.525 | $0.525 / $2.1 | 1 | chinese-model-niche | qwen3.7-plus |
+| 26 | `starapi.fun` | ¥0.5479 | $0.5479 / $2.1917 | 1 | default | qwen3.7-plus |
+| 27 | `aiapibase.top` | ¥0.56 | $0.56 / $2.24 | 1 | deepseek | Ali/qwen3.7-plus |
+| 28 | `hk.moleapi.com` | ¥0.5916 | $0.087 / $0.348 | 6.8 | relay | qwen3.7-plus |
+| 29 | `new.tianluo.ccwu.cc` | ¥0.6 | $0.6 / $2.4 | 1 | 国产小分队 | qwen3.7-plus |
+| 30 | `rockapi.cn` | ¥0.6 | $0.6 / $2.4 | 1 | 国产模型 | qwen3.7-plus |
+| 31 | `x-llm.net` | ¥0.6 | $0.6 / $2.4 | 1 | 国产模型 | qwen3.7-plus |
+| 32 | `api.furryforum.com` | ¥0.64 | $0.64 / $2.56 | 1 | 国模稳定 | qwen3.7-plus |
+| 33 | `airouter.dev` | ¥0.6432 | $0.096 / $0.384 | 6.7 | default | openrouter/qwen/qwen3.7-plus |
+| 34 | `shanyiapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | vip_ch | qwen3.7-plus |
+| 35 | `66ai.ai` | ¥0.72 | $0.72 / $2.7 | 1 | qwen3.7-plus | qwen3.7-plus |
+| 36 | `api.xkj666.top` | ¥0.72 | $0.72 / $2.88 | 1 | 国模分组 | qwen3.7-plus |
+| 37 | `api.kkdmx.com` | ¥0.77 | $0.77 / $3 | 1 | 默认分组(不能用GPT) | qwen3.7-plus |
+| 38 | `api.nbility.ai` | ¥0.8 | $0.8 / $3.2 | 1 | china | qwen3.7-plus |
+| 39 | `code.ciyuanapi.xyz` | ¥0.8 | $0.8 / $3.2 | 1 | 原生开源&国产模型 | qwen3.7-plus |
+| 40 | `wetoken.ai` | ¥0.8 | $0.8 / $3.2 | 1 | default | qwen3.7-plus |
+| 41 | `xh.v1api.cc` | ¥0.8 | $1 / $4 | 0.8 | code | qwen3.7-plus |
+| 42 | `zl.wonderful.edu.kg` | ¥0.8 | $0.8 / $3.2 | 1 | 【高倍率】国模集合分组 | qwen3.7-plus |
+| 43 | `www.mrouter.com` | ¥0.8572 | $0.8572 / $3.4288 | 1 | cn | qwen3.7-plus |
+| 44 | `jbbtoken.cn` | ¥0.9 | $0.9 / $2.7 | 1 | 国产模型 | qwen3.7-plus |
+| 45 | `api.68886868.xyz` | ¥0.936 | $0.936 / $3.744 | 1 | 国模3 | qwen3.7-plus |
+| 46 | `ckff.dev` | ¥0.936 | $0.936 / $3.744 | 1 | 国模3 | qwen3.7-plus |
+| 47 | `supertoken.pro` | ¥0.9965 | $0.1365 / $0.263855 | 7.3 | 千问 | qwen3.7-plus-2026-05-26 |
+| 48 | `api.qinzhiai.com` | ¥1 | $1 / $4 | 1 | open_source | qwen3.7-plus |
+| 49 | `slb-v1.api.fan` | ¥1 | $1 / $4 | 1 | bailian | qwen3.7-plus |
+| 50 | `www.packyapi.com` | ¥1 | $1 / $4 | 1 | bailian | qwen3.7-plus |
 
-> 另有 173 站未列出。
+> 另有 183 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -88,36 +88,36 @@
 | 19 | `api.kcne.top` | $0.56 / $2.24 | 国模组 | 1.4 | qwen3.7-plus |
 | 20 | `ai.qystart.top` | $0.64 / $2.56 | 🇨🇳 | 0.4 | qwen3.7-plus |
 | 21 | `goforai.top` | $0.64 / $2.56 | Kimi K3 | 0.4 | qwen3.7-plus |
-| 22 | `nodeai.cc` | $0.8 / $3.2 |  Qwen | 0.5 | Qwen3.7-Plus |
-| 23 | `wahaapi.top` | $0.8 / $3.2 | 国模--anthropic协议 | 0.4 | qwen3.7-plus |
-| 24 | `api.bestai.chat` | $0.96 / $3.84 | 国产模型（Anthropic协议） | 0.6 | qwen3.7-plus |
-| 25 | `xmapi.me` | $1.15 / $4.6 | ChatGPT / Gemini / Grok 等 · 按量 | 1.15 | qwen3.7-plus |
-| 26 | `aichronos.xyz` | $1.2 / $4.8 | 国模 | 0.6 | qwen3.7-plus |
-| 27 | `supersubscribe689.com` | $1.2 / $4.8 | Qwen 3.8-max | 0.6 | qwen3.7-plus |
-| 28 | `api.lmuai.ai` | $1.4 / $5.6 | 阿里Qwen(Anthropic协议) | 0.7 | qwen3.7-plus |
-| 29 | `ai.kalehui.cn` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 30 | `aiapihub.cloud` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 31 | `aiopus.top` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 32 | `aiyiwei.vip` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 33 | `anyaigc.com` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 34 | `api-hub.vip` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 35 | `api.aibh.site` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 36 | `api.aicso.top` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 37 | `api.anthropicricardo.club` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 38 | `api.antmoo.com` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 39 | `api.apiplus.org` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 40 | `api.bitidea.cn` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 41 | `api.clai.click` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 42 | `api.cloudmist.cloud` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 43 | `api.gpt666claude.top` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 44 | `api.modelyard.cc` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 45 | `api.mumuverse.space` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 46 | `api.qingyuntop.top` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 47 | `api.solov.cc` | $2 / $8 | Qwen-通义千问 | 1 | qwen3.7-plus |
-| 48 | `api.token173.net` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 49 | `api.vectorengine.ai` | $2 / $8 | default | 1 | qwen3.7-plus |
-| 50 | `api.winfull.cloud-ip.cc` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 22 | `www.likeai520.cc` | $0.64 / $2.56 | 国模分组 | 0.4 | qwen3.7-plus |
+| 23 | `nodeai.cc` | $0.8 / $3.2 |  Qwen | 0.5 | Qwen3.7-Plus |
+| 24 | `wahaapi.top` | $0.8 / $3.2 | 国模--anthropic协议 | 0.4 | qwen3.7-plus |
+| 25 | `api.bestai.chat` | $0.96 / $3.84 | 国产模型（Anthropic协议） | 0.6 | qwen3.7-plus |
+| 26 | `xmapi.me` | $1.15 / $4.6 | ChatGPT / Gemini / Grok 等 · 按量 | 1.15 | qwen3.7-plus |
+| 27 | `aichronos.xyz` | $1.2 / $4.8 | 国模 | 0.6 | qwen3.7-plus |
+| 28 | `supersubscribe689.com` | $1.2 / $4.8 | Qwen 3.8-max | 0.6 | qwen3.7-plus |
+| 29 | `api.lmuai.ai` | $1.4 / $5.6 | 阿里Qwen(Anthropic协议) | 0.7 | qwen3.7-plus |
+| 30 | `ai.kalehui.cn` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 31 | `aiapihub.cloud` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 32 | `aiopus.top` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 33 | `aiyiwei.vip` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 34 | `anyaigc.com` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 35 | `api-hub.vip` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 36 | `api.aibh.site` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 37 | `api.aicso.top` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 38 | `api.anthropicricardo.club` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 39 | `api.antmoo.com` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 40 | `api.apiplus.org` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 41 | `api.bitidea.cn` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 42 | `api.clai.click` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 43 | `api.cloudmist.cloud` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 44 | `api.gpt666claude.top` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 45 | `api.modelyard.cc` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 46 | `api.mumuverse.space` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 47 | `api.qingyuntop.top` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 48 | `api.solov.cc` | $2 / $8 | Qwen-通义千问 | 1 | qwen3.7-plus |
+| 49 | `api.token173.net` | $2 / $8 | default | 1 | qwen3.7-plus |
+| 50 | `api.vectorengine.ai` | $2 / $8 | default | 1 | qwen3.7-plus |
 
-> 另有 51 站未列出。
+> 另有 52 站未列出。
 
-> 139 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 147 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

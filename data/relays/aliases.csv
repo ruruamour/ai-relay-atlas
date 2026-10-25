@@ -1376,6 +1376,7 @@ api.xtokenmirror.cn,api.xtokenmirror.com,mirror,veridrop
 tp.xtokenmirror.com,api.xtokenmirror.com,mirror,scan
 www.xtokenmirror.com,api.xtokenmirror.com,same-host,scan
 xtokenmirror.com,api.xtokenmirror.com,same-host,scan
+oneapi.xty.app,api.xty.app,same-host,directory
 xdsl.xudiansuanli.com,api.xudiansuanli.com,mirror,scan
 hk-api.xuyizuo.top,api.xuyizuo.top,mirror,scan
 admin.xwsz.top,api.xwsz.top,mirror,scan

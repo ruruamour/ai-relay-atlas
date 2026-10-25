@@ -1,6 +1,6 @@
 # deepseek-r1-distill-llama-8b
 
-> 26 站提供 · 正常价 12 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥0.64**/1M 输入（9 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 12 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥0.64**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -28,4 +28,4 @@
 | 2 | `poloapi.top` | $1.6 / $4.8 | Deepseek | 0.8 | deepseek-r1-distill-llama-8b |
 | 3 | `newapi.relayport17.asia` | $22 / $66 | ds专属分组 | 100 | deepseek-r1-distill-llama-8b |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

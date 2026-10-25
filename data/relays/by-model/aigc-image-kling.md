@@ -1,6 +1,6 @@
 # aigc-image-kling
 
-> 45 站提供 · 正常价 41 站 · 名义中位价 **$0.00175001**/次 · 实付中位价 **¥0.01176**/次（41 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 45 站 · 名义中位价 **$0.00175001**/次 · 实付中位价 **¥0.01176**/次（45 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,43 +13,47 @@
 | 1 | `api.openlux.ai` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | aigc-image-kling |
 | 2 | `api.relayrouter.ai` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | aigc-image-kling |
 | 3 | `openlux.zhongzhuan.chat` | ¥0.008398 | $0.00125001 | 6.718 | Kling-2 | aigc-image-kling |
-| 4 | `api.tidewhisper-ai.xyz` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
-| 5 | `gzxbykj.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
-| 6 | `yunwu.org` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
-| 7 | `v2.cloudmist.cloud` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | aigc-image-kling |
-| 8 | `www.vectronode.com` | ¥0.01008 | $0.00150001 | 6.718 | Kling-2 | aigc-image-kling |
-| 9 | `apiclaw.cn` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | aigc-image-kling |
-| 10 | `newapi.xueai.me` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | aigc-image-kling |
-| 11 | `wodapis.com` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | aigc-image-kling |
-| 12 | `ciyuan.today` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | aigc-image-kling |
-| 13 | `gptapi.top` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | aigc-image-kling |
-| 14 | `makerend.com` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | aigc-image-kling |
-| 15 | `moliapi.com` | ¥0.01058 | $0.00157501 | 6.718 | Kling-2 | aigc-image-kling |
-| 16 | `ai-api.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | aigc-image-kling |
-| 17 | `infai.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | aigc-image-kling |
-| 18 | `nodapi.com` | ¥0.01108 | $0.00165001 | 6.718 | Kling-2 | aigc-image-kling |
-| 19 | `anyaigc.ai` | ¥0.01134 | $0.00168751 | 6.718 | Kling-2 | aigc-image-kling |
-| 20 | `sheepaiplus.top` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | aigc-image-kling |
-| 21 | `xiguapi.icu` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | aigc-image-kling |
-| 22 | `api.88api.chat` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
-| 23 | `api.88api.shop` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
-| 24 | `api.videocaptioner.cn` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
-| 25 | `new.aigc2d.com` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
-| 26 | `oyy-ai.xyz` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
-| 27 | `api.nixapi.com` | ¥0.01419 | $0.00211252 | 6.718 | Kling-2 | aigc-image-kling |
-| 28 | `aiwuje.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 29 | `api.cursorai.art` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 30 | `api.echoflowai.cc` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 31 | `api.n1n.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 32 | `api.quickrouter.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 33 | `jeniya.cn` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 34 | `linoapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 35 | `llm-api.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 36 | `quanzil.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 37 | `token173.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 38 | `tryallapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 39 | `wellapi.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
-| 40 | `thousandengine.com` | ¥0.01709 | $0.00254377 | 6.718 | Kling-2 | aigc-image-kling |
-| 41 | `plusx.nyxos.shop` | ¥0.09125 | $0.0125001 | 7.3 | Kling-2 | aigc-image-kling |
+| 4 | `4zapi.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
+| 5 | `api.tidewhisper-ai.xyz` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
+| 6 | `gzxbykj.com` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
+| 7 | `yunwu.org` | ¥0.009237 | $0.00137501 | 6.718 | Kling-2 | aigc-image-kling |
+| 8 | `api.antmoo.cc` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | aigc-image-kling |
+| 9 | `v2.cloudmist.cloud` | ¥0.009657 | $0.00143751 | 6.718 | Kling-2 | aigc-image-kling |
+| 10 | `www.vectronode.com` | ¥0.01008 | $0.00150001 | 6.718 | Kling-2 | aigc-image-kling |
+| 11 | `apiclaw.cn` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | aigc-image-kling |
+| 12 | `newapi.xueai.me` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | aigc-image-kling |
+| 13 | `wodapis.com` | ¥0.01016 | $0.00151251 | 6.718 | Kling-2 | aigc-image-kling |
+| 14 | `ciyuan.today` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | aigc-image-kling |
+| 15 | `gptapi.top` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | aigc-image-kling |
+| 16 | `makerend.com` | ¥0.0105 | $0.00156251 | 6.718 | Kling-2 | aigc-image-kling |
+| 17 | `moliapi.com` | ¥0.01058 | $0.00157501 | 6.718 | Kling-2 | aigc-image-kling |
+| 18 | `ai-api.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | aigc-image-kling |
+| 19 | `infai.cc` | ¥0.01092 | $0.00162501 | 6.718 | Kling-2 | aigc-image-kling |
+| 20 | `nodapi.com` | ¥0.01108 | $0.00165001 | 6.718 | Kling-2 | aigc-image-kling |
+| 21 | `anyaigc.ai` | ¥0.01134 | $0.00168751 | 6.718 | Kling-2 | aigc-image-kling |
+| 22 | `sheepaiplus.top` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | aigc-image-kling |
+| 23 | `xiguapi.icu` | ¥0.01176 | $0.00175001 | 6.718 | Kling-2 | aigc-image-kling |
+| 24 | `api.88api.chat` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
+| 25 | `api.88api.shop` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
+| 26 | `api.videocaptioner.cn` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
+| 27 | `lanbuff.app` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
+| 28 | `new.aigc2d.com` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
+| 29 | `oyy-ai.xyz` | ¥0.0126 | $0.00187502 | 6.718 | Kling-2 | aigc-image-kling |
+| 30 | `api.nixapi.com` | ¥0.01419 | $0.00211252 | 6.718 | Kling-2 | aigc-image-kling |
+| 31 | `aiwuje.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 32 | `api.cursorai.art` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 33 | `api.echoflowai.cc` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 34 | `api.n1n.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 35 | `api.quickrouter.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 36 | `jeniya.cn` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 37 | `linoapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 38 | `linoroute.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 39 | `llm-api.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 40 | `quanzil.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 41 | `token173.net` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 42 | `tryallapi.com` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 43 | `wellapi.ai` | ¥0.0168 | $0.00250002 | 6.718 | Kling-2 | aigc-image-kling |
+| 44 | `thousandengine.com` | ¥0.01709 | $0.00254377 | 6.718 | Kling-2 | aigc-image-kling |
+| 45 | `plusx.nyxos.shop` | ¥0.09125 | $0.0125001 | 7.3 | Kling-2 | aigc-image-kling |
 
 > 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # glm-4.7
 
-> 239 站提供 · 正常价 173 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（93 站公开充值价） · 推算，未对账
+> 252 站提供 · 正常价 180 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥2.43**/1M 输入（100 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -39,29 +39,29 @@
 | 27 | `unorouter.net` | ¥1.825 | $0.25 / $1.1 | 7.3 | default | glm-4.7 |
 | 28 | `aidianwo.com` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
 | 29 | `api.openai-hub.net` | ¥2 | $2 / $8 | 1 | cheap | glm-4.7 |
-| 30 | `aws.baby` | ¥2 | $2 / $8 | 1 | 阿里云百炼大客户 | glm-4.7 |
-| 31 | `biezou.com` | ¥2 | $2 / $8 | 1 | 阿里云百炼大客户 | glm-4.7 |
-| 32 | `keypool.space` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
-| 33 | `paw.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
-| 34 | `pay.magic666.top` | ¥2 | $2 / $8 | 1 | 国产 | glm-4.7 |
-| 35 | `pro.gemai.cc` | ¥2 | $2 / $8 | 1 | Chinese Model | glm-4.7 |
-| 36 | `vg.v1api.cc` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
-| 37 | `vg.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
-| 38 | `xinsuanai.com` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
-| 39 | `apicdn.xyc.ai` | ¥2.018 | $0.292398 / $1.16959 | 6.9 | glm-flow | glm-4.7 |
-| 40 | `apicdn.xycai.us` | ¥2.018 | $0.292398 / $1.16959 | 6.9 | glm-flow | glm-4.7 |
-| 41 | `api.qinzhiai.com` | ¥2.1 | $2.1 / $7.7 | 1 | openrouter | z-ai/glm-4.7 |
-| 42 | `api.paasai.cc` | ¥2.16 | $2.16 / $8.64 | 1 | 六折 国模 | glm-4.7 |
-| 43 | `kuaipao.ai` | ¥2.16 | $5.4 / $25.2 | 0.4 | China | glm-4.7 |
-| 44 | `api.zhengmi.org` | ¥2.19 | $0.3 / $1.1 | 7.3 | 国模分组 | glm-4.7 |
-| 45 | `llm.kagu.one` | ¥2.19 | $0.3 / $1.1 | 7.3 | 大杂烩 | glm-4.7 |
-| 46 | `api.zyai.online` | ¥2.4 | $2.4 / $9.6 | 1 | AaLI | glm-4.7 |
-| 47 | `test.yibuapi.com` | ¥2.4 | $1.6 / $6.4 | 1.5 | default | glm-4.7 |
-| 48 | `yibuapi.com` | ¥2.4 | $1.6 / $6.4 | 1.5 | claude-code | glm-4.7-thinking |
-| 49 | `yinziapi.top` | ¥2.46 | $2.46 / $11.48 | 1 | 官方国模分组 | glm-4.7 |
-| 50 | `www.ggwk1.online` | ¥2.52 | $2.52 / $10.08 | 1 | 国产模型组-0.7倍率 | glm-4.7 |
+| 30 | `api.xi-ai.cn` | ¥2 | $2 / $8 | 1 | 国产模型 | glm-4.7 |
+| 31 | `aws.baby` | ¥2 | $2 / $8 | 1 | 阿里云百炼大客户 | glm-4.7 |
+| 32 | `biezou.com` | ¥2 | $2 / $8 | 1 | 阿里云百炼大客户 | glm-4.7 |
+| 33 | `keypool.space` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
+| 34 | `paw.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
+| 35 | `pay.magic666.top` | ¥2 | $2 / $8 | 1 | 国产 | glm-4.7 |
+| 36 | `pro.gemai.cc` | ¥2 | $2 / $8 | 1 | Chinese Model | glm-4.7 |
+| 37 | `vg.v1api.cc` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
+| 38 | `vg.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
+| 39 | `xinsuanai.com` | ¥2 | $2 / $8 | 1 | default | glm-4.7 |
+| 40 | `apicdn.xyc.ai` | ¥2.018 | $0.292398 / $1.16959 | 6.9 | glm-flow | glm-4.7 |
+| 41 | `apicdn.xycai.us` | ¥2.018 | $0.292398 / $1.16959 | 6.9 | glm-flow | glm-4.7 |
+| 42 | `api.qinzhiai.com` | ¥2.1 | $2.1 / $7.7 | 1 | openrouter | z-ai/glm-4.7 |
+| 43 | `api.paasai.cc` | ¥2.16 | $2.16 / $8.64 | 1 | 六折 国模 | glm-4.7 |
+| 44 | `kuaipao.ai` | ¥2.16 | $5.4 / $25.2 | 0.4 | China | glm-4.7 |
+| 45 | `api.zhengmi.org` | ¥2.19 | $0.3 / $1.1 | 7.3 | 国模分组 | glm-4.7 |
+| 46 | `llm.kagu.one` | ¥2.19 | $0.3 / $1.1 | 7.3 | 大杂烩 | glm-4.7 |
+| 47 | `ai.bytonsec.com` | ¥2.4 | $2.4 / $10.5 | 1 | OpenRouter | z-ai/glm-4.7 |
+| 48 | `api.zyai.online` | ¥2.4 | $2.4 / $9.6 | 1 | AaLI | glm-4.7 |
+| 49 | `test.yibuapi.com` | ¥2.4 | $1.6 / $6.4 | 1.5 | default | glm-4.7 |
+| 50 | `yibuapi.com` | ¥2.4 | $1.6 / $6.4 | 1.5 | claude-code | glm-4.7-thinking |
 
-> 另有 43 站未列出。
+> 另有 50 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 30 站未列出。
 
-> 66 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 72 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

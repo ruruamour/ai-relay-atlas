@@ -1,6 +1,6 @@
 # qwen3.5-397b-a17b
 
-> 214 站提供 · 正常价 179 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥2.479**/1M 输入（108 站公开充值价） · 推算，未对账
+> 225 站提供 · 正常价 187 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥2.439**/1M 输入（116 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -40,28 +40,28 @@
 | 28 | `ai-model.chinaz.net` | ¥1.2 | $0.164384 / $0.986301 | 7.3 | default | qwen3.5-397b-a17b |
 | 29 | `tokenone.net` | ¥1.2 | $0.1765 / $1.0588 | 6.8 | default | qwen3.5-397b-a17b |
 | 30 | `express-ent-admin.cherryin.net` | ¥1.234 | $0.171428 / $1.02857 | 7.2 | default | qwen/qwen3.5-397b-a17b |
-| 31 | `api.orcarouter.ai` | ¥1.256 | $0.172 / $1.032 | 7.3 | default | qwen/qwen3.5-397b-a17b |
-| 32 | `api.apiyi.com` | ¥1.26 | $0.18 / $1.08 | 7 | default | qwen3.5-397b-a17b |
-| 33 | `api.qinzhiai.com` | ¥1.365 | $1.365 / $8.19 | 1 | openrouter | qwen/qwen3.5-397b-a17b |
-| 34 | `yibuapi.com` | ¥1.44 | $0.96 / $5.76 | 1.5 | claude-code | qwen3.5-397b-a17b |
-| 35 | `open.xiaojingai.com` | ¥1.5 | $1.5 / $9 | 1 | 阿里 | qwen3.5-397b-a17b |
-| 36 | `www.yibuapi.cn` | ¥1.8 | $1.2 / $7.2 | 1.5 | claude-code | qwen3.5-397b-a17b |
-| 37 | `yibuapi.cn` | ¥1.8 | $1.2 / $7.2 | 1.5 | claude-code | qwen3.5-397b-a17b |
-| 38 | `www.hohoapi.com` | ¥1.872 | $0.624 / $3.744 | 3 | qwen | qwen3.5-397b-a17b |
-| 39 | `gpt-api.cc` | ¥2 | $2 / $12 | 1 | vip | qwen3.5-397b-a17b |
-| 40 | `api.openlux.ai` | ¥2.015 | $0.3 / $1.8 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 41 | `api.relayrouter.ai` | ¥2.015 | $0.3 / $1.8 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 42 | `openlux.zhongzhuan.chat` | ¥2.015 | $0.3 / $1.8 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 43 | `ai.191800.xyz` | ¥2.117 | $0.29 / $1.74 | 7.3 | 魔搭 | Qwen/Qwen3.5-397B-A17B |
-| 44 | `newapi.gancmcs.top` | ¥2.117 | $0.29 / $1.74 | 7.3 | default | Qwen/Qwen3.5-397B-A17B |
-| 45 | `api.tidewhisper-ai.xyz` | ¥2.217 | $0.33 / $1.98 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 46 | `gzxbykj.com` | ¥2.217 | $0.33 / $1.98 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 47 | `yunwu.org` | ¥2.217 | $0.33 / $1.98 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 48 | `ai2.qiqiai.top` | ¥2.26 | $0.3096 / $1.8576 | 7.3 | 官方合作渠道 | qwen/qwen3.5-397b-a17b |
-| 49 | `v2.cloudmist.cloud` | ¥2.318 | $0.345 / $2.07 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
-| 50 | `aiberm.com` | ¥2.398 | $0.345 / $2.07 | 6.95 | default | qwen3.5-397b-a17b |
+| 31 | `tokensmind.ai` | ¥1.241 | $0.17 / $1.03 | 7.3 | default | qwen3.5-397b-a17b |
+| 32 | `api.orcarouter.ai` | ¥1.256 | $0.172 / $1.032 | 7.3 | default | qwen/qwen3.5-397b-a17b |
+| 33 | `api.apiyi.com` | ¥1.26 | $0.18 / $1.08 | 7 | default | qwen3.5-397b-a17b |
+| 34 | `api.qinzhiai.com` | ¥1.365 | $1.365 / $8.19 | 1 | openrouter | qwen/qwen3.5-397b-a17b |
+| 35 | `yibuapi.com` | ¥1.44 | $0.96 / $5.76 | 1.5 | claude-code | qwen3.5-397b-a17b |
+| 36 | `open.xiaojingai.com` | ¥1.5 | $1.5 / $9 | 1 | 阿里 | qwen3.5-397b-a17b |
+| 37 | `www.dayueai.fun` | ¥1.5 | $1.5 / $8.5 | 1 | vip | qwen3.5-397b-a17b |
+| 38 | `www.yibuapi.cn` | ¥1.8 | $1.2 / $7.2 | 1.5 | claude-code | qwen3.5-397b-a17b |
+| 39 | `yibuapi.cn` | ¥1.8 | $1.2 / $7.2 | 1.5 | claude-code | qwen3.5-397b-a17b |
+| 40 | `www.hohoapi.com` | ¥1.872 | $0.624 / $3.744 | 3 | qwen | qwen3.5-397b-a17b |
+| 41 | `gpt-api.cc` | ¥2 | $2 / $12 | 1 | vip | qwen3.5-397b-a17b |
+| 42 | `ai.mowen.vip` | ¥2.007 | $0.3 / $1.8 | 6.6892 | default | Qwen3.5-397B-A17B |
+| 43 | `api.openlux.ai` | ¥2.015 | $0.3 / $1.8 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
+| 44 | `api.relayrouter.ai` | ¥2.015 | $0.3 / $1.8 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
+| 45 | `openlux.zhongzhuan.chat` | ¥2.015 | $0.3 / $1.8 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
+| 46 | `ai.191800.xyz` | ¥2.117 | $0.29 / $1.74 | 7.3 | 魔搭 | Qwen/Qwen3.5-397B-A17B |
+| 47 | `newapi.gancmcs.top` | ¥2.117 | $0.29 / $1.74 | 7.3 | default | Qwen/Qwen3.5-397B-A17B |
+| 48 | `4zapi.com` | ¥2.217 | $0.33 / $1.98 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
+| 49 | `api.tidewhisper-ai.xyz` | ¥2.217 | $0.33 / $1.98 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
+| 50 | `gzxbykj.com` | ¥2.217 | $0.33 / $1.98 | 6.718 | Alibaba-1 | qwen3.5-397b-a17b |
 
-> 另有 58 站未列出。
+> 另有 66 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 21 站未列出。
 
-> 35 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 38 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

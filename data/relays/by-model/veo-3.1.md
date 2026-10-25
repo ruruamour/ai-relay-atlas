@@ -1,6 +1,6 @@
 # veo-3.1
 
-> 30 站提供 · 正常价 22 站 · 名义中位价 **$0.447917**/次 · 实付中位价 **¥1.031**/次（20 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 23 站 · 名义中位价 **$0.495833**/次 · 实付中位价 **¥1**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,16 +20,17 @@
 | 8 | `vip.brioi.com` | ¥0.75 | $0.75 | 1 | default | veo-3.1 |
 | 9 | `api.uiuihao.com` | ¥0.8613 | $0.27 | 3.19 | s-video | veo-3.1 |
 | 10 | `sg.uiuiapi.com` | ¥0.8613 | $0.27 | 3.19 | s-video | veo-3.1 |
-| 11 | `ergouzi.life` | ¥1.2 | $0.164384 | 7.3 | cande-video | veo-3.1 |
-| 12 | `qiye.kpzhu.com` | ¥1.46 | $0.2 | 7.3 | veo | veo-3.1 |
-| 13 | `new.lingyicai.xyz` | ¥1.825 | $0.25 | 7.3 | Veo | veo-3.1 |
-| 14 | `a6api.com` | ¥2.752 | $0.4 | 6.88 | default | veo-3.1 |
-| 15 | `us1.tonbirds.com` | ¥3.5 | $3.5 | 1 | 视频 | veo-3.1 |
-| 16 | `llm-hub.top` | ¥3.9 | $3.9 | 1 | default | veo-3.1 |
-| 17 | `api.zcloudapi.com` | ¥5.22 | $0.715068 | 7.3 | rg_806af6a320644bff8b1ef7a2ac5b6735 | veo-3.1 |
-| 18 | `2api.powerapi.cc` | ¥10.95 | $1.5 | 7.3 | veo | veo-3.1 |
-| 19 | `dashboard.powerapi.cc` | ¥10.95 | $1.5 | 7.3 | veo | veo-3.1 |
-| 20 | `hk.rootflowai.com` | ¥16 | $1.6 | 10 | Veo视频生成 | veo-3.1 |
+| 11 | `api.aiskt.com` | ¥1 | $1 | 1 | default | veo-3.1 |
+| 12 | `ergouzi.life` | ¥1.2 | $0.164384 | 7.3 | cande-video | veo-3.1 |
+| 13 | `qiye.kpzhu.com` | ¥1.46 | $0.2 | 7.3 | veo | veo-3.1 |
+| 14 | `new.lingyicai.xyz` | ¥1.825 | $0.25 | 7.3 | Veo | veo-3.1 |
+| 15 | `a6api.com` | ¥2.752 | $0.4 | 6.88 | default | veo-3.1 |
+| 16 | `us1.tonbirds.com` | ¥3.5 | $3.5 | 1 | 视频 | veo-3.1 |
+| 17 | `llm-hub.top` | ¥3.9 | $3.9 | 1 | default | veo-3.1 |
+| 18 | `api.zcloudapi.com` | ¥5.22 | $0.715068 | 7.3 | rg_806af6a320644bff8b1ef7a2ac5b6735 | veo-3.1 |
+| 19 | `2api.powerapi.cc` | ¥10.95 | $1.5 | 7.3 | veo | veo-3.1 |
+| 20 | `dashboard.powerapi.cc` | ¥10.95 | $1.5 | 7.3 | veo | veo-3.1 |
+| 21 | `hk.rootflowai.com` | ¥16 | $1.6 | 10 | Veo视频生成 | veo-3.1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

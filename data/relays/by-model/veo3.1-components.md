@@ -1,6 +1,6 @@
 # veo3.1-components
 
-> 33 站提供 · 正常价 24 站 · 名义中位价 **$1.085**/次 · 实付中位价 **¥1.2**/次（22 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 25 站 · 名义中位价 **$1.17**/次 · 实付中位价 **¥1.2**/次（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,12 +26,13 @@
 | 14 | `ai.t8star.org` | ¥1.62 | $1.2 | 1.35 | veo&grok-备用1 | veo3.1-components |
 | 15 | `kfcv50.link` | ¥2 | $2 | 1 | default | veo3.1-components |
 | 16 | `vibecodingapi.ai` | ¥2 | $2 | 1 | default | veo3.1-components |
-| 17 | `token.ithinkai.cn` | ¥2.8 | $2.8 | 1 | default | veo3.1-components-4k |
-| 18 | `api.ifopen.ai` | ¥3.5 | $1 | 3.5 | default | veo3.1-components |
-| 19 | `api2.aigcbest.top` | ¥3.5 | $1 | 3.5 | default | veo3.1-components |
-| 20 | `api.llms.best` | ¥3.6 | $0.5 | 7.2 | default | veo3.1-components |
-| 21 | `nbapi.net` | ¥5.11 | $0.7 | 7.3 | default | veo3.1-components |
-| 22 | `poloai.top` | ¥28 | $28 | 1 | gpt-vip | veo3.1-components |
+| 17 | `www.dayueai.fun` | ¥2.2 | $2.2 | 1 | vip | veo3.1-components |
+| 18 | `token.ithinkai.cn` | ¥2.8 | $2.8 | 1 | default | veo3.1-components-4k |
+| 19 | `api.ifopen.ai` | ¥3.5 | $1 | 3.5 | default | veo3.1-components |
+| 20 | `api2.aigcbest.top` | ¥3.5 | $1 | 3.5 | default | veo3.1-components |
+| 21 | `api.llms.best` | ¥3.6 | $0.5 | 7.2 | default | veo3.1-components |
+| 22 | `nbapi.net` | ¥5.11 | $0.7 | 7.3 | default | veo3.1-components |
+| 23 | `poloai.top` | ¥28 | $28 | 1 | gpt-vip | veo3.1-components |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

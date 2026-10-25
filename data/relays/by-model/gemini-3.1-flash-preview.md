@@ -1,6 +1,6 @@
 # gemini-3.1-flash-preview
 
-> 27 站提供 · 正常价 17 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（13 站公开充值价） · 推算，未对账
+> 29 站提供 · 正常价 18 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥0.85**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,9 +20,10 @@
 | 8 | `api.routeeasy.ai` | ¥0.9 | $0.9 / $5.4 | 1 | gemini_studio_18 | gemini-3.1-flash-preview |
 | 9 | `zen-ai.top` | ¥1 | $1 / $6 | 1 | 优质gemini | gemini-3.1-flash-preview |
 | 10 | `poloai.top` | ¥1.5 | $1.5 / $9 | 1 | Gemini-优质临时分组 | gemini-3.1-flash-preview |
-| 11 | `127api.top` | ¥10.95 | $1.5 / $12 | 7.3 | Gemini渠道 | gemini-3.1-flash-preview |
-| 12 | `127key.top` | ¥10.95 | $1.5 / $12 | 7.3 | Gemini渠道 | gemini-3.1-flash-preview |
-| 13 | `4k.128api.cn` | ¥18.98 | $2.6 / $31.2 | 7.3 | default | gemini-3.1-flash-preview |
+| 11 | `xy.poloapi.com` | ¥1.5 | $1.5 / $9 | 1 | Gemini-优质临时分组 | gemini-3.1-flash-preview |
+| 12 | `127api.top` | ¥10.95 | $1.5 / $12 | 7.3 | Gemini渠道 | gemini-3.1-flash-preview |
+| 13 | `127key.top` | ¥10.95 | $1.5 / $12 | 7.3 | Gemini渠道 | gemini-3.1-flash-preview |
+| 14 | `4k.128api.cn` | ¥18.98 | $2.6 / $31.2 | 7.3 | default | gemini-3.1-flash-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -33,4 +34,4 @@
 | 3 | `888api.top` | $4.5 / $54 | default | 1.5 | gemini-3.1-flash-preview |
 | 4 | `vip.zen-ai.top` | $10 / $60 | 优质gemini2 | 20 | gemini-3.1-flash-preview |
 
-> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

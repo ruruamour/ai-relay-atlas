@@ -1,6 +1,6 @@
 # ernie-tiny
 
-> 32 站提供 · 正常价 26 站 · 名义中位价 **$0.283**/1M 输入 · 实付中位价 **¥0.283**/1M 输入（7 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 27 站 · 名义中位价 **$0.283**/1M 输入 · 实付中位价 **¥0.248**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,10 +13,11 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.05 | 1 | relay | ernie-tiny-8k |
 | 2 | `api.ocoolai.com` | ¥0.213 | $0.213 / $0.213 | 1 | default | ERNIE-Tiny-8K |
 | 3 | `ocool.cn` | ¥0.213 | $0.213 / $0.213 | 1 | default | ERNIE-Tiny-8K |
-| 4 | `api.new.bi` | ¥0.283 | $0.283 / $0.283 | 1 | default | ERNIE-Tiny-8K |
-| 5 | `api.vakv.cn` | ¥0.3562 | $0.356164 / $0.356164 | 1 | 9999 | ERNIE-Tiny-8K |
-| 6 | `kubernetes-test-api.apiqik.online` | ¥1 | $0.136986 / $0.136986 | 7.3 | default | ERNIE-Tiny-8K |
-| 7 | `newapi.ailingnan.top` | ¥1 | $0.136986 / $0.136986 | 7.3 | default | ERNIE-Tiny-8K |
+| 4 | `one.ooo.cool` | ¥0.213 | $0.213 / $0.213 | 1 | default | ERNIE-Tiny-8K |
+| 5 | `api.new.bi` | ¥0.283 | $0.283 / $0.283 | 1 | default | ERNIE-Tiny-8K |
+| 6 | `api.vakv.cn` | ¥0.3562 | $0.356164 / $0.356164 | 1 | 9999 | ERNIE-Tiny-8K |
+| 7 | `kubernetes-test-api.apiqik.online` | ¥1 | $0.136986 / $0.136986 | 7.3 | default | ERNIE-Tiny-8K |
+| 8 | `newapi.ailingnan.top` | ¥1 | $0.136986 / $0.136986 | 7.3 | default | ERNIE-Tiny-8K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

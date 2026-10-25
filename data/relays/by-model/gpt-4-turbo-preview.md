@@ -1,6 +1,6 @@
 # gpt-4-turbo-preview
 
-> 187 站提供 · 正常价 171 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥11.9**/1M 输入（84 站公开充值价） · 推算，未对账
+> 196 站提供 · 正常价 177 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥10.4**/1M 输入（90 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.ocoolai.com` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-turbo-preview |
-| 2 | `ocool.cn` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-turbo-preview |
-| 3 | `daoxe.com` | ¥1.545 | $1.5 / $4.5 | 1.03 | codex | gpt-4-turbo-preview |
-| 4 | `zhangsan.yun` | ¥2.25 | $2.25 / $6.75 | 1 | image-2分组 | gpt-4-turbo-preview |
-| 5 | `monking.ai` | ¥3.5 | $3.5 / $10.5 | 1 | codex-Pro | gpt-4-turbo-preview |
-| 6 | `big.sbgpt.site` | ¥4.8 | $4.8 / $14.4 | 1 | az-0.4 | gpt-4-turbo-preview |
-| 7 | `api.aliyunfuwu.top` | ¥5 | $5 / $15 | 1 | relay | gpt-4-turbo-preview |
-| 8 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | az_act05 | gpt-4-turbo-preview |
-| 9 | `new.gateway.icu` | ¥5 | $5 / $15 | 1 | default | gpt-4-turbo-preview |
-| 10 | `newapi.link` | ¥5 | $5 / $15 | 1 | default | gpt-4-turbo-preview |
-| 11 | `go.sbgpt.site` | ¥7 | $7 / $21 | 1 | openai逆向 | gpt-4-turbo-preview |
-| 12 | `api.bltcy.ai` | ¥8 | $8 / $24 | 1 | vip | gpt-4-turbo-preview |
-| 13 | `apilio.ai` | ¥8 | $8 / $24 | 1 | vip | gpt-4-turbo-preview |
-| 14 | `cn.gptapi.asia` | ¥8 | $8 / $24 | 1 | default | gpt-4-turbo-preview |
-| 15 | `test-ssl.bltcy.ai` | ¥8 | $8 / $24 | 1 | vip | gpt-4-turbo-preview |
-| 16 | `yutoapi.com` | ¥8 | $8 / $24 | 1 | default | gpt-4-turbo-preview |
-| 17 | `ai.soruxgpt.com` | ¥9 | $9 / $27 | 1 | azure-low | gpt-4-turbo-preview |
-| 18 | `api.openai-labs.com` | ¥9 | $9 / $27 | 1 | azure | gpt-4-turbo-preview |
-| 19 | `cnapi.kksj.org` | ¥9 | $9 / $27 | 1 | default | gpt-4-turbo-preview |
-| 20 | `123api.co` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 21 | `api.eido.top` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 22 | `api.hopeai.cc` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 23 | `api.qinzhiai.com` | ¥10 | $10 / $30 | 1 | az | gpt-4-turbo-preview |
-| 24 | `api.routeeasy.ai` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 25 | `api.wanapis.com` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 26 | `api.zyai.online` | ¥10 | $10 / $30 | 1 | AZvip | gpt-4-turbo-preview |
-| 27 | `dn.v1api.cc` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 28 | `gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-turbo-preview |
-| 29 | `i-sh.v1api.cc` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 30 | `i.v1api.cc` | ¥10 | $10 / $30 | 1 | gpt | gpt-4-turbo-preview |
-| 31 | `keypool.space` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 32 | `n.lconai.com` | ¥10 | $10 / $30 | 1 | B1 | gpt-4-turbo-preview |
-| 33 | `new.foxi-api.cn` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 34 | `new.yihubang.top` | ¥10 | $10 / $30 | 1 | 公司内部 | gpt-4-turbo-preview |
-| 35 | `newapi.tu-zi.com` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 36 | `oneapi.gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-turbo-preview |
-| 37 | `platform.anyrouter.ai` | ¥10 | $10 / $30 | 1 | Azure4 | gpt-4-turbo-preview |
-| 38 | `vibecodingapi.ai` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 39 | `www.ggwk1.online` | ¥10 | $10 / $30 | 1 | a全模型综合组-1倍率 | gpt-4-turbo-preview |
-| 40 | `xinsuanai.com` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 41 | `zen-ai.top` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
-| 42 | `ai.t8star.org` | ¥10.8 | $8 / $24 | 1.35 | vip | gpt-4-turbo-preview |
-| 43 | `api.34ku.com` | ¥13 | $13 / $39 | 1 | default | gpt-4-turbo-preview |
-| 44 | `35.aigcbest.top` | ¥15 | $10 / $30 | 1.5 | default | gpt-4-turbo-preview |
-| 45 | `api.vakv.cn` | ¥15 | $15 / $45 | 1 | az-gpt-新渠道 | gpt-4-turbo-preview |
-| 46 | `api.xhuoai.com` | ¥15 | $10 / $30 | 1.5 | default | gpt-4-turbo-preview |
-| 47 | `xrok.dev` | ¥15 | $15 / $45 | 1 | AZ-GPT-1.3 | gpt-4-turbo-preview |
-| 48 | `yun.v1api.cc` | ¥15 | $10 / $30 | 1.5 | default | gpt-4-turbo-preview |
-| 49 | `147ai.online` | ¥16 | $20 / $60 | 0.8 | default | gpt-4-turbo-preview |
-| 50 | `gpt-api.soruxgpt.com` | ¥19 | $9.5 / $28.5 | 2 | vip | gpt-4-turbo-preview |
+| 1 | `comput.chat` | ¥1 | $1 / $3 | 1 | default | gpt-4-turbo-preview |
+| 2 | `api.ocoolai.com` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-turbo-preview |
+| 3 | `ocool.cn` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-turbo-preview |
+| 4 | `one.ooo.cool` | ¥1.5 | $1.5 / $1.5 | 1 | default | net-gpt-4-turbo-preview |
+| 5 | `daoxe.com` | ¥1.545 | $1.5 / $4.5 | 1.03 | codex | gpt-4-turbo-preview |
+| 6 | `zhangsan.yun` | ¥2.25 | $2.25 / $6.75 | 1 | image-2分组 | gpt-4-turbo-preview |
+| 7 | `monking.ai` | ¥3.5 | $3.5 / $10.5 | 1 | codex-Pro | gpt-4-turbo-preview |
+| 8 | `big.sbgpt.site` | ¥4.8 | $4.8 / $14.4 | 1 | az-0.4 | gpt-4-turbo-preview |
+| 9 | `api.aliyunfuwu.top` | ¥5 | $5 / $15 | 1 | relay | gpt-4-turbo-preview |
+| 10 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | az_act05 | gpt-4-turbo-preview |
+| 11 | `new.gateway.icu` | ¥5 | $5 / $15 | 1 | default | gpt-4-turbo-preview |
+| 12 | `newapi.link` | ¥5 | $5 / $15 | 1 | default | gpt-4-turbo-preview |
+| 13 | `go.sbgpt.site` | ¥7 | $7 / $21 | 1 | openai逆向 | gpt-4-turbo-preview |
+| 14 | `api.bltcy.ai` | ¥8 | $8 / $24 | 1 | vip | gpt-4-turbo-preview |
+| 15 | `apilio.ai` | ¥8 | $8 / $24 | 1 | vip | gpt-4-turbo-preview |
+| 16 | `cn.gptapi.asia` | ¥8 | $8 / $24 | 1 | default | gpt-4-turbo-preview |
+| 17 | `test-ssl.bltcy.ai` | ¥8 | $8 / $24 | 1 | vip | gpt-4-turbo-preview |
+| 18 | `yutoapi.com` | ¥8 | $8 / $24 | 1 | default | gpt-4-turbo-preview |
+| 19 | `ai.soruxgpt.com` | ¥9 | $9 / $27 | 1 | azure-low | gpt-4-turbo-preview |
+| 20 | `api.openai-labs.com` | ¥9 | $9 / $27 | 1 | azure | gpt-4-turbo-preview |
+| 21 | `cnapi.kksj.org` | ¥9 | $9 / $27 | 1 | default | gpt-4-turbo-preview |
+| 22 | `123api.co` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 23 | `api.chatgptid.net` | ¥10 | $20 / $60 | 0.5 | default | gpt-4-turbo-preview |
+| 24 | `api.eido.top` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 25 | `api.hopeai.cc` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 26 | `api.qinzhiai.com` | ¥10 | $10 / $30 | 1 | az | gpt-4-turbo-preview |
+| 27 | `api.routeeasy.ai` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 28 | `api.wanapis.com` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 29 | `api.zyai.online` | ¥10 | $10 / $30 | 1 | AZvip | gpt-4-turbo-preview |
+| 30 | `dn.v1api.cc` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 31 | `goapi.gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-turbo-preview |
+| 32 | `gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-turbo-preview |
+| 33 | `i-sh.v1api.cc` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 34 | `i.v1api.cc` | ¥10 | $10 / $30 | 1 | gpt | gpt-4-turbo-preview |
+| 35 | `keypool.space` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 36 | `n.lconai.com` | ¥10 | $10 / $30 | 1 | B1 | gpt-4-turbo-preview |
+| 37 | `new.foxi-api.cn` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 38 | `new.yihubang.top` | ¥10 | $10 / $30 | 1 | 公司内部 | gpt-4-turbo-preview |
+| 39 | `newapi.tu-zi.com` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 40 | `oneapi.gptnb.ai` | ¥10 | $10 / $30 | 1 | Azure | gpt-4-turbo-preview |
+| 41 | `platform.anyrouter.ai` | ¥10 | $10 / $30 | 1 | Azure4 | gpt-4-turbo-preview |
+| 42 | `vibecodingapi.ai` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 43 | `www.ggwk1.online` | ¥10 | $10 / $30 | 1 | a全模型综合组-1倍率 | gpt-4-turbo-preview |
+| 44 | `xinsuanai.com` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 45 | `zen-ai.top` | ¥10 | $10 / $30 | 1 | default | gpt-4-turbo-preview |
+| 46 | `ai.t8star.org` | ¥10.8 | $8 / $24 | 1.35 | vip | gpt-4-turbo-preview |
+| 47 | `api.34ku.com` | ¥13 | $13 / $39 | 1 | default | gpt-4-turbo-preview |
+| 48 | `35.aigcbest.top` | ¥15 | $10 / $30 | 1.5 | default | gpt-4-turbo-preview |
+| 49 | `api.aiskt.com` | ¥15 | $15 / $45 | 1 | azureqy | gpt-4-turbo-preview |
+| 50 | `api.vakv.cn` | ¥15 | $15 / $45 | 1 | az-gpt-新渠道 | gpt-4-turbo-preview |
 
-> 另有 34 站未列出。
+> 另有 40 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 37 站未列出。
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

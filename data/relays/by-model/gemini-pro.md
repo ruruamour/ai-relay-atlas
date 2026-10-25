@@ -1,6 +1,6 @@
 # gemini-pro
 
-> 225 站提供 · 正常价 187 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3.406**/1M 输入（100 站公开充值价） · 推算，未对账
+> 232 站提供 · 正常价 194 站 · 名义中位价 **$2.09375**/1M 输入 · 实付中位价 **¥3.413**/1M 输入（107 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -30,38 +30,38 @@
 | 18 | `api.openlux.ai` | ¥2.223 | $0.330888 / $2.6471 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
 | 19 | `api.relayrouter.ai` | ¥2.223 | $0.330888 / $2.6471 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
 | 20 | `openlux.zhongzhuan.chat` | ¥2.223 | $0.330888 / $2.6471 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 21 | `api.tidewhisper-ai.xyz` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 22 | `gzxbykj.com` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 23 | `yunwu.org` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 24 | `8s.hk` | ¥2.5 | $2.5 / $20 | 1 | 全模型自动 | gemini-pro |
-| 25 | `zen-ai.top` | ¥2.5 | $2.5 / $20 | 1 | 优质gemini | gemini-pro-latest |
-| 26 | `v2.cloudmist.cloud` | ¥2.556 | $0.380521 / $3.04416 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 27 | `api.34ku.com` | ¥2.6 | $2.6 / $10.4 | 1 | default | gemini-pro |
-| 28 | `www.vectronode.com` | ¥2.667 | $0.397065 / $3.17652 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 29 | `apiclaw.cn` | ¥2.69 | $0.400374 / $3.20299 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 30 | `newapi.xueai.me` | ¥2.69 | $0.400374 / $3.20299 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 31 | `wodapis.com` | ¥2.69 | $0.400374 / $3.20299 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 32 | `ciyuan.today` | ¥2.779 | $0.413609 / $3.30888 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 33 | `gptapi.top` | ¥2.779 | $0.413609 / $3.30888 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 34 | `makerend.com` | ¥2.779 | $0.413609 / $3.30888 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 35 | `moliapi.com` | ¥2.801 | $0.416918 / $3.33535 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 36 | `ai-api.cc` | ¥2.89 | $0.430154 / $3.44123 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 37 | `nodapi.com` | ¥2.934 | $0.436772 / $3.49417 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 38 | `test-api.apiqik.online` | ¥2.975 | $0.425 / $3.4 | 7 | vertex/sp/gemini | gemini-pro-latest |
-| 39 | `anyaigc.ai` | ¥3.001 | $0.446698 / $3.57359 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 40 | `sheepaiplus.top` | ¥3.112 | $0.463243 / $3.70594 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 41 | `xiguapi.icu` | ¥3.112 | $0.463243 / $3.70594 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 42 | `api.qiqiai.top` | ¥3.2 | $1.6 / $9.6 | 2 | default | gemini-pro-latest |
-| 43 | `www.xpivot.top` | ¥3.2 | $3.2 / $19.2 | 1 | Gemini | gemini-pro-latest |
-| 44 | `api.88api.chat` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 45 | `api.88api.shop` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 46 | `api.videocaptioner.cn` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 47 | `new.aigc2d.com` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 48 | `oyy-ai.xyz` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
-| 49 | `hboom.ai` | ¥3.4 | $0.5 / $4 | 6.8 | Gemini-Mid | gemini-pro-latest |
-| 50 | `hk.hbapis.com` | ¥3.4 | $0.5 / $4 | 6.8 | Gemini-Mid | gemini-pro-latest |
+| 21 | `4zapi.com` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 22 | `api.tidewhisper-ai.xyz` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 23 | `gzxbykj.com` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 24 | `yunwu.org` | ¥2.445 | $0.363976 / $2.91181 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 25 | `8s.hk` | ¥2.5 | $2.5 / $20 | 1 | 全模型自动 | gemini-pro |
+| 26 | `zen-ai.top` | ¥2.5 | $2.5 / $20 | 1 | 优质gemini | gemini-pro-latest |
+| 27 | `api.antmoo.cc` | ¥2.556 | $0.380521 / $3.04416 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 28 | `v2.cloudmist.cloud` | ¥2.556 | $0.380521 / $3.04416 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 29 | `api.34ku.com` | ¥2.6 | $2.6 / $10.4 | 1 | default | gemini-pro |
+| 30 | `www.vectronode.com` | ¥2.667 | $0.397065 / $3.17652 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 31 | `apiclaw.cn` | ¥2.69 | $0.400374 / $3.20299 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 32 | `newapi.xueai.me` | ¥2.69 | $0.400374 / $3.20299 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 33 | `wodapis.com` | ¥2.69 | $0.400374 / $3.20299 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 34 | `ciyuan.today` | ¥2.779 | $0.413609 / $3.30888 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 35 | `gptapi.top` | ¥2.779 | $0.413609 / $3.30888 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 36 | `makerend.com` | ¥2.779 | $0.413609 / $3.30888 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 37 | `moliapi.com` | ¥2.801 | $0.416918 / $3.33535 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 38 | `ai-api.cc` | ¥2.89 | $0.430154 / $3.44123 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 39 | `nodapi.com` | ¥2.934 | $0.436772 / $3.49417 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 40 | `test-api.apiqik.online` | ¥2.975 | $0.425 / $3.4 | 7 | vertex/sp/gemini | gemini-pro-latest |
+| 41 | `anyaigc.ai` | ¥3.001 | $0.446698 / $3.57359 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 42 | `sheepaiplus.top` | ¥3.112 | $0.463243 / $3.70594 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 43 | `xiguapi.icu` | ¥3.112 | $0.463243 / $3.70594 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 44 | `api.qiqiai.top` | ¥3.2 | $1.6 / $9.6 | 2 | default | gemini-pro-latest |
+| 45 | `www.xpivot.top` | ¥3.2 | $3.2 / $19.2 | 1 | Gemini | gemini-pro-latest |
+| 46 | `api.88api.chat` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 47 | `api.88api.shop` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 48 | `api.videocaptioner.cn` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 49 | `lanbuff.app` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
+| 50 | `new.aigc2d.com` | ¥3.334 | $0.496331 / $3.97065 | 6.718 | Aistudio-Gemini-2 | gemini-pro-latest |
 
-> 另有 50 站未列出。
+> 另有 57 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

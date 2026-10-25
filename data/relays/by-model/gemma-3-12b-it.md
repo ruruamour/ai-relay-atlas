@@ -1,6 +1,6 @@
 # gemma-3-12b-it
 
-> 41 站提供 · 正常价 20 站 · 名义中位价 **$0.0784615**/1M 输入 · 实付中位价 **¥0.3285**/1M 输入（17 站公开充值价） · 推算，未对账
+> 44 站提供 · 正常价 23 站 · 名义中位价 **$0.08**/1M 输入 · 实付中位价 **¥0.296**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,19 +14,22 @@
 | 2 | `api.aliyunfuwu.top` | ¥0.025 | $0.025 / $0.075 | 1 | relay | google/gemma-3-12b-it |
 | 3 | `123api.co` | ¥0.08 | $0.08 / $0.08 | 1 | default | gemma-3-12b-it |
 | 4 | `www.ggwk1.online` | ¥0.14 | $0.14 / $0.28 | 1 | 开源模型组 | gemma-3-12b-it |
-| 5 | `api.qinzhiai.com` | ¥0.175 | $0.175 / $0.525 | 1 | openrouter | google/gemma-3-12b-it |
-| 6 | `api.openai-labs.com` | ¥0.2 | $0.2 / $0.8 | 1 | default | gemma-3-12b-it |
-| 7 | `botcf.com` | ¥0.201 | $0.201 / $0.603 | 1 | 💠google-openweight-mix | gemma-3-12b-it |
-| 8 | `mux.la` | ¥0.292 | $0.04 / $0.12 | 7.3 | Openrouter-Anthropic | google/gemma-3-12b-it |
-| 9 | `llm.kagu.one` | ¥0.3285 | $0.045 / $0.145 | 7.3 | 大杂烩 | gemma-3-12b-it |
-| 10 | `airouter.org` | ¥0.34 | $0.34 / $0.68 | 1 | svip | gemma-3-12b-it |
-| 11 | `hk.moleapi.com` | ¥0.34 | $0.05 / $0.1 | 6.8 | default | gemma-3-12b-it |
-| 12 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | google/gemma-3-12b-it |
-| 13 | `ai2.qiqiai.top` | ¥0.5256 | $0.072 / $0.234 | 7.3 | 官方合作渠道 | google/gemma-3-12b-it |
-| 14 | `api.tacklekey.com` | ¥0.5615 | $0.0769231 / $0.230769 | 7.3 | default | google/gemma-3-12b-it |
-| 15 | `ssvip.dmxapi.com` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | gemma-3-12b-it |
-| 16 | `yinli.pro` | ¥2.19 | $0.3 / $1.2 | 7.3 | Gemini-低价-90%稳定性 | gemma-3-12b-it |
-| 17 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | gemma-3-12b-it |
+| 5 | `ai.mowen.vip` | ¥0.1672 | $0.025 / $0.05 | 6.6892 | default | gemma-3-12b-it |
+| 6 | `api.qinzhiai.com` | ¥0.175 | $0.175 / $0.525 | 1 | openrouter | google/gemma-3-12b-it |
+| 7 | `api.openai-labs.com` | ¥0.2 | $0.2 / $0.8 | 1 | default | gemma-3-12b-it |
+| 8 | `botcf.com` | ¥0.201 | $0.201 / $0.603 | 1 | 💠google-openweight-mix | gemma-3-12b-it |
+| 9 | `xn--15q04w3tg4kio0a.com` | ¥0.201 | $0.201 / $0.603 | 1 | 💠google-openweight-mix | gemma-3-12b-it |
+| 10 | `mux.la` | ¥0.292 | $0.04 / $0.12 | 7.3 | Openrouter-Anthropic | google/gemma-3-12b-it |
+| 11 | `ai.bytonsec.com` | ¥0.3 | $0.3 / $0.9 | 1 | OpenRouter | google/gemma-3-12b-it |
+| 12 | `llm.kagu.one` | ¥0.3285 | $0.045 / $0.145 | 7.3 | 大杂烩 | gemma-3-12b-it |
+| 13 | `airouter.org` | ¥0.34 | $0.34 / $0.68 | 1 | svip | gemma-3-12b-it |
+| 14 | `hk.moleapi.com` | ¥0.34 | $0.05 / $0.1 | 6.8 | default | gemma-3-12b-it |
+| 15 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | google/gemma-3-12b-it |
+| 16 | `ai2.qiqiai.top` | ¥0.5256 | $0.072 / $0.234 | 7.3 | 官方合作渠道 | google/gemma-3-12b-it |
+| 17 | `api.tacklekey.com` | ¥0.5615 | $0.0769231 / $0.230769 | 7.3 | default | google/gemma-3-12b-it |
+| 18 | `ssvip.dmxapi.com` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | gemma-3-12b-it |
+| 19 | `yinli.pro` | ¥2.19 | $0.3 / $1.2 | 7.3 | Gemini-低价-90%稳定性 | gemma-3-12b-it |
+| 20 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | gemma-3-12b-it |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

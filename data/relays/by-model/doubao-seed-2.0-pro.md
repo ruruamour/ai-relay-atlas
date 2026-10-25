@@ -1,6 +1,6 @@
 # doubao-seed-2.0-pro
 
-> 42 站提供 · 正常价 16 站 · 名义中位价 **$1.326**/1M 输入 · 实付中位价 **¥1.372**/1M 输入（13 站公开充值价） · 推算，未对账
+> 50 站提供 · 正常价 20 站 · 名义中位价 **$1.326**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,12 +17,16 @@
 | 5 | `aiapi.shiwuyan.cn` | ¥0.5 | $0.5 / $1 | 1 | default | doubao-seed-2.0-pro |
 | 6 | `closedai.kylenqaq.com` | ¥1.28 | $1.28 / $6.4 | 1 | 国产模型 | doubao-seed-2.0-pro |
 | 7 | `www.mrouter.com` | ¥1.372 | $1.372 / $6.86 | 1 | cn | doubao-seed-2.0-pro |
-| 8 | `api.tsbys.com` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-pro |
-| 9 | `feiniu-ai.xyz` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-pro |
-| 10 | `swaychip-ai.com` | ¥6.666 | $1 / $1 | 6.6659 | default | Doubao-Seed-2.0-pro |
-| 11 | `codex2api.net` | ¥27 | $27 / $140 | 1 | gpt生图 | doubao-seed-2.0-pro |
-| 12 | `api.llm-token.cn` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-pro |
-| 13 | `gpt-agent.cc` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-pro |
+| 8 | `ai.mowen.vip` | ¥1.672 | $0.25 / $1.5 | 6.6892 | default | Doubao-Seed-2.0-pro |
+| 9 | `otterl.com` | ¥3.2 | $3.2 / $16 | 1 | 豆包 | doubao-seed-2.0-pro |
+| 10 | `www.tokenage.ai` | ¥3.353 | $0.459305 / $2.29653 | 7.3 | vip | Doubao-Seed-2.0-pro |
+| 11 | `api.tsbys.com` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-pro |
+| 12 | `feiniu-ai.xyz` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-pro |
+| 13 | `api.132999.xyz` | ¥6.4 | $3.2 / $16 | 2 | vip | doubao-seed-2.0-pro |
+| 14 | `swaychip-ai.com` | ¥6.666 | $1 / $1 | 6.6659 | default | Doubao-Seed-2.0-pro |
+| 15 | `codex2api.net` | ¥27 | $27 / $140 | 1 | gpt生图 | doubao-seed-2.0-pro |
+| 16 | `api.llm-token.cn` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-pro |
+| 17 | `gpt-agent.cc` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +36,4 @@
 | 2 | `aichronos.xyz` | $1.92 / $9.6 | 国模 | 0.6 | doubao-seed-2.0-pro |
 | 3 | `openclawroot.com` | $5 / $25 | default | 1 | Doubao-Seed-2.0-pro |
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

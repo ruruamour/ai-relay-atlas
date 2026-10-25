@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image-preview-c
 
-> 35 站提供 · 正常价 24 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.15**/次（19 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 24 站 · 名义中位价 **$0.15**/次 · 实付中位价 **¥0.15**/次（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -40,4 +40,4 @@
 | 4 | `wish.sillydream.top` | $5 | 绘图 | 1 | gemini-3.1-flash-image-preview-c |
 | 5 | `openai.sharkmagic.top` | $45 | tier_3 | 0.9 | [lq]q\|gemini-3.1-flash-image-preview-c |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

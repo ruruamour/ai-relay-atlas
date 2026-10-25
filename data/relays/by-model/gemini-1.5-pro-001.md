@@ -1,6 +1,6 @@
 # gemini-1.5-pro-001
 
-> 21 站提供 · 正常价 16 站 · 名义中位价 **$2.75**/1M 输入 · 实付中位价 **¥4**/1M 输入（15 站公开充值价） · 推算，未对账
+> 22 站提供 · 正常价 17 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥4**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,15 +16,16 @@
 | 4 | `go.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | gemini全模型 | gemini-1.5-pro-001 |
 | 5 | `api.ocoolai.com` | ¥3 | $3 / $9 | 1 | default | gemini-1.5-pro-001 |
 | 6 | `ocool.cn` | ¥3 | $3 / $9 | 1 | default | gemini-1.5-pro-001 |
-| 7 | `ai.soruxgpt.com` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
-| 8 | `api.hopeai.cc` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
-| 9 | `newapi.tu-zi.com` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
-| 10 | `www.micuapi.ai` | ¥4 | $4 / $16 | 1 | - | gemini-1.5-pro-001 |
-| 11 | `8s.hk` | ¥5 | $5 / $20 | 1 | 全模型自动 | gemini-1.5-pro-001 |
-| 12 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | vip | gemini-1.5-pro-001 |
-| 13 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-1.5-pro-001 |
-| 14 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-001 |
-| 15 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-001 |
+| 7 | `one.ooo.cool` | ¥3 | $3 / $9 | 1 | default | gemini-1.5-pro-001 |
+| 8 | `ai.soruxgpt.com` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
+| 9 | `api.hopeai.cc` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
+| 10 | `newapi.tu-zi.com` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
+| 11 | `www.micuapi.ai` | ¥4 | $4 / $16 | 1 | - | gemini-1.5-pro-001 |
+| 12 | `8s.hk` | ¥5 | $5 / $20 | 1 | 全模型自动 | gemini-1.5-pro-001 |
+| 13 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | vip | gemini-1.5-pro-001 |
+| 14 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-1.5-pro-001 |
+| 15 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-001 |
+| 16 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-001 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

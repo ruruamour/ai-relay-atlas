@@ -1,6 +1,6 @@
 # gpt-4o-transcribe-diarize
 
-> 89 站提供 · 正常价 42 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥8.75**/1M 输入（23 站公开充值价） · 推算，未对账
+> 93 站提供 · 正常价 43 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥8.125**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,18 +21,19 @@
 | 9 | `35.aigcbest.top` | ¥3.75 | $2.5 / $10 | 1.5 | default | gpt-4o-transcribe-diarize |
 | 10 | `api.zyai.online` | ¥3.75 | $3.75 / $15 | 1 | AZSVIP | gpt-4o-transcribe-diarize |
 | 11 | `gpt777.top` | ¥5 | $5 / $20 | 1 | Azure | gpt-4o-transcribe-diarize |
-| 12 | `api.ifopen.ai` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-transcribe-diarize |
-| 13 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-transcribe-diarize |
-| 14 | `api1.147ai.com` | ¥12.5 | $12.5 / $50 | 1 | openai | gpt-4o-transcribe-diarize |
-| 15 | `ai2.qiqiai.top` | ¥14.6 | $2 / $8 | 7.3 | azure | gpt-4o-transcribe-diarize |
-| 16 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-4o-transcribe-diarize |
-| 17 | `api.ai-gaochao.cn` | ¥18.25 | $2.5 / $10 | 7.3 | Evan | gpt-4o-transcribe-diarize |
-| 18 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-transcribe-diarize |
-| 19 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-transcribe-diarize |
-| 20 | `apius.shubiaobiao.cn` | ¥18.25 | $2.5 / $10 | 7.3 | Evan | gpt-4o-transcribe-diarize |
-| 21 | `ai.ydcloud.org` | ¥27.38 | $3.75 / $15 | 7.3 | az gpt | gpt-4o-transcribe-diarize |
-| 22 | `www.amutes.com` | ¥76.65 | $10.5 / $42 | 7.3 | Openai纯官 | gpt-4o-transcribe-diarize |
-| 23 | `wrduai.com` | ¥127.8 | $17.5 / $70 | 7.3 | 优质官转 | gpt-4o-transcribe-diarize |
+| 12 | `comput.chat` | ¥7.5 | $7.5 / $30 | 1 | default | gpt-4o-transcribe-diarize |
+| 13 | `api.ifopen.ai` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-transcribe-diarize |
+| 14 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-4o-transcribe-diarize |
+| 15 | `api1.147ai.com` | ¥12.5 | $12.5 / $50 | 1 | openai | gpt-4o-transcribe-diarize |
+| 16 | `ai2.qiqiai.top` | ¥14.6 | $2 / $8 | 7.3 | azure | gpt-4o-transcribe-diarize |
+| 17 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-4o-transcribe-diarize |
+| 18 | `api.ai-gaochao.cn` | ¥18.25 | $2.5 / $10 | 7.3 | Evan | gpt-4o-transcribe-diarize |
+| 19 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-transcribe-diarize |
+| 20 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-4o-transcribe-diarize |
+| 21 | `apius.shubiaobiao.cn` | ¥18.25 | $2.5 / $10 | 7.3 | Evan | gpt-4o-transcribe-diarize |
+| 22 | `ai.ydcloud.org` | ¥27.38 | $3.75 / $15 | 7.3 | az gpt | gpt-4o-transcribe-diarize |
+| 23 | `www.amutes.com` | ¥76.65 | $10.5 / $42 | 7.3 | Openai纯官 | gpt-4o-transcribe-diarize |
+| 24 | `wrduai.com` | ¥127.8 | $17.5 / $70 | 7.3 | 优质官转 | gpt-4o-transcribe-diarize |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -58,4 +59,4 @@
 | 18 | `vip.zen-ai.top` | $7.5 / $30 | default | 3 | gpt-4o-transcribe-diarize |
 | 19 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-4o-transcribe-diarize |
 
-> 47 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 50 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

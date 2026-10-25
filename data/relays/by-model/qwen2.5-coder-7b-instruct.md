@@ -1,6 +1,6 @@
 # qwen2.5-coder-7b-instruct
 
-> 44 站提供 · 正常价 31 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥0.95**/1M 输入（13 站公开充值价） · 推算，未对账
+> 48 站提供 · 正常价 34 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥0.975**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,12 +17,15 @@
 | 5 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | qwen2.5-coder-7b-instruct |
 | 6 | `api.ocoolai.com` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
 | 7 | `ocool.cn` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
-| 8 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
-| 9 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-coder-7b-instruct |
-| 10 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
-| 11 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-coder-7b-instruct |
-| 12 | `api.ifopen.ai` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
-| 13 | `api2.aigcbest.top` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
+| 8 | `one.ooo.cool` | ¥0.95 | $0.95 / $1.9 | 1 | cn | qwen2.5-coder-7b-instruct |
+| 9 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
+| 10 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-coder-7b-instruct |
+| 11 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
+| 12 | `api.aiskt.com` | ¥2.857 | $2.8572 / $5.7144 | 1 | default | qwen2.5-coder-7b-instruct |
+| 13 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen2.5-coder-7b-instruct |
+| 14 | `hy88.my` | ¥4.38 | $0.6 / $1.2 | 7.3 | qwen | qwen2.5-coder-7b-instruct |
+| 15 | `api.ifopen.ai` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
+| 16 | `api2.aigcbest.top` | ¥35 | $10 / $30 | 3.5 | default | Pro/Qwen/Qwen2.5-Coder-7B-Instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -47,4 +50,4 @@
 | 17 | `www.xiaoruiera.top` | $1 / $2 | default | 1 | qwen2.5-coder-7b-instruct |
 | 18 | `yuli.host` | $1 / $2 | default | 1 | qwen2.5-coder-7b-instruct |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

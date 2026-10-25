@@ -1,6 +1,6 @@
 # doubao-seed-2.0-code
 
-> 35 站提供 · 正常价 12 站 · 名义中位价 **$2.96**/1M 输入 · 实付中位价 **¥2.686**/1M 输入（10 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 14 站 · 名义中位价 **$2.56**/1M 输入 · 实付中位价 **¥2.436**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,11 +15,13 @@
 | 3 | `token101.site` | ¥0.9 | $0.9 / $4.48 | 1 | cn_model | doubao-seed-2.0-code |
 | 4 | `closedai.kylenqaq.com` | ¥1.28 | $1.28 / $6.4 | 1 | 国产模型 | doubao-seed-2.0-code |
 | 5 | `www.mrouter.com` | ¥1.372 | $1.372 / $6.86 | 1 | cn | doubao-seed-2.0-code |
-| 6 | `api.tsbys.com` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-code |
-| 7 | `feiniu-ai.xyz` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-code |
-| 8 | `codex2api.net` | ¥8 | $8 / $20 | 1 | gpt生图 | doubao-seed-2.0-code |
-| 9 | `api.llm-token.cn` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-code |
-| 10 | `gpt-agent.cc` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-code |
+| 6 | `ai.mowen.vip` | ¥1.672 | $0.25 / $1.5 | 6.6892 | default | Doubao-Seed-2.0-Code |
+| 7 | `otterl.com` | ¥3.2 | $3.2 / $12 | 1 | 豆包 | doubao-seed-2.0-code |
+| 8 | `api.tsbys.com` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-code |
+| 9 | `feiniu-ai.xyz` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-code |
+| 10 | `codex2api.net` | ¥8 | $8 / $20 | 1 | gpt生图 | doubao-seed-2.0-code |
+| 11 | `api.llm-token.cn` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-code |
+| 12 | `gpt-agent.cc` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-code |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -28,4 +30,4 @@
 | 1 | `aichronos.xyz` | $1.92 / $9.6 | 国模 | 0.6 | doubao-seed-2.0-code |
 | 2 | `openclawroot.com` | $5 / $25 | default | 1 | Doubao-Seed-2.0-Code |
 
-> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

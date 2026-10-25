@@ -1,6 +1,6 @@
 # gemini-3.1-flash-tts-preview
 
-> 237 站提供 · 正常价 197 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.44**/1M 输入（126 站公开充值价） · 推算，未对账
+> 243 站提供 · 正常价 202 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.38**/1M 输入（131 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -55,13 +55,13 @@
 | 43 | `sheepaiplus.top` | ¥1.881 | $0.28 / $5.6 | 6.718 | Vertex-Gemini-1 | gemini-3.1-flash-tts-preview |
 | 44 | `xiguapi.icu` | ¥1.881 | $0.28 / $5.6 | 6.718 | Vertex-Gemini-1 | gemini-3.1-flash-tts-preview |
 | 45 | `api.yourapi.cn` | ¥1.9 | $1.9 / $7.6 | 1 | 企业池-gemini-官key | gemini-3.1-flash-tts-preview |
-| 46 | `botcf.com` | ¥1.98 | $1.98 / $7.92 | 1 | 📐gemini-vertex | gemini-3.1-flash-tts-preview |
-| 47 | `4sapi.com` | ¥2 | $2 / $40 | 1 | default | gemini-3.1-flash-tts-preview |
-| 48 | `api.hoxkai.top` | ¥2 | $2 / $40 | 1 | gemini-svip | gemini-3.1-flash-tts-preview |
-| 49 | `api.openai-labs.com` | ¥2 | $2 / $2 | 1 | gemini-pro | gemini-3.1-flash-tts-preview |
-| 50 | `kfcv50.link` | ¥2 | $2 / $2 | 1 | gemini_mix_0329_20 | gemini-3.1-flash-tts-preview |
+| 46 | `4zapi.com` | ¥1.956 | $0.291181 / $5.82362 | 6.718 | Aistudio-Gemini-2 | gemini-3.1-flash-tts-preview |
+| 47 | `botcf.com` | ¥1.98 | $1.98 / $7.92 | 1 | 📐gemini-vertex | gemini-3.1-flash-tts-preview |
+| 48 | `xn--15q04w3tg4kio0a.com` | ¥1.98 | $1.98 / $7.92 | 1 | 📐gemini-vertex | gemini-3.1-flash-tts-preview |
+| 49 | `4sapi.com` | ¥2 | $2 / $40 | 1 | default | gemini-3.1-flash-tts-preview |
+| 50 | `api.hoxkai.top` | ¥2 | $2 / $40 | 1 | gemini-svip | gemini-3.1-flash-tts-preview |
 
-> 另有 76 站未列出。
+> 另有 81 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 21 站未列出。
 
-> 40 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 41 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

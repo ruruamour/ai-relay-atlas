@@ -1,6 +1,6 @@
 # kimi-k2.7-code
 
-> 725 站提供 · 正常价 590 站 · 名义中位价 **$2.6**/1M 输入 · 实付中位价 **¥3.9**/1M 输入（406 站公开充值价） · 推算，未对账
+> 751 站提供 · 正常价 608 站 · 名义中位价 **$2.6**/1M 输入 · 实付中位价 **¥3.9**/1M 输入（421 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `autorouter.top` | ¥1 | $1 / $4 | 1 | default | kimi-k2.7-code |
 | 50 | `claudeaihub.cloud` | ¥1 | $1 / $4 | 1 | Cursor | kimi-k2.7-code |
 
-> 另有 356 站未列出。
+> 另有 371 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -83,41 +83,41 @@
 | 14 | `api.dreamaitoken.cloud` | $0.5 / $1.5 | kimi k3 | 1 | kimi-k2.7-code |
 | 15 | `api.tcvps.cn` | $0.52 / $2.16 | 稳定版【国模常见最新模型均有】【全类版最稳定】全天稳★★★★ | 0.08 | kimi-k2.7-code |
 | 16 | `canana.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.7-code |
-| 17 | `sub.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.7-code |
-| 18 | `www.kk-vibe.top` | $0.52 / $2.16 | 国产大模型 0.08倍率 | 0.08 | kimi-k2.7-code |
-| 19 | `8888.name` | $0.574874 / $2.38794 | Kimi | 0.6 | kimi-k2.7-code |
-| 20 | `www.alaiapi.top` | $0.62278 / $2.58693 | Kimi全能按量组 | 0.65 | kimi-k2.7-code |
-| 21 | `aixhub.shop` | $0.65 / $2.7 | deepseek | 0.1 | kimi-k2.7-code |
-| 22 | `sub.pikaqiu.shop` | $0.65 / $2.7 | 国模大杂烩 | 0.1 | kimi-k2.7-code |
-| 23 | `xinyue.mom` | $0.65 / $2.7 | Kimi | 0.1 | kimi-k2.7-code |
-| 24 | `api.wopally.cn` | $0.677083 / $2.8125 | Claude-DS｜0.25x | 0.25 | kimi-k2.7-code |
-| 25 | `or.mux.la` | $0.7 / $3.5 | default | 1 | moonshotai/kimi-k2.7-code |
-| 26 | `cccode.pro` | $0.715 / $2.97 | 【混合】国模 | 1 | kimi-k2.7-code |
-| 27 | `www.cccode.pro` | $0.715 / $2.97 | 【混合】国模 | 1 | kimi-k2.7-code |
-| 28 | `api.hy88.my` | $0.76 / $3.2 | kimi | 0.8 | kimi-k2.7-code |
-| 29 | `luckyapi.online` | $0.76 / $3.2 | LuckyAPI | 0.8 | kimi-k2.7-code |
-| 30 | `heilovehei.com` | $0.77 / $3.5 | kimi | 0.1 | kimi-k2.7-code |
-| 31 | `tken.lol` | $0.795 / $3.71 | 官方全系稳定渠道 | 1.06 | moonshotai/kimi-k2.7-code |
-| 32 | `pro.fan142.top` | $0.95 / $4 | coding api | 1 | moonshotai/Kimi-K2.7-Code |
-| 33 | `api.clawhud.com` | $0.958123 / $3.97989 | kimi | 1 | kimi-k2.7-code |
-| 34 | `88.scxai.top` | $0.975 / $4.05 | 创世の鑫元 | 0.15 | kimi-k2.7-code |
-| 35 | `api.l4dder.dpdns.org` | $0.975 / $4.05 | kimi-官key-0.15x | 0.15 | kimi-k2.7-code |
-| 36 | `kedaya.ai` | $0.975 / $4.05 | Kimi | 0.15 | kimi-k2.7-code |
-| 37 | `mzeapi.top` | $0.975 / $4.05 | 国模-【KIMI】 | 0.15 | kimi-k2.7-code |
-| 38 | `zhiyuanapis.top` | $0.975 / $4.05 | 国内模型 | 0.15 | kimi-k2.7-code |
-| 39 | `weilai.chat` | $1.04 / $4.32 | Kimi | 0.16 | kimi-k2.7-code |
-| 40 | `api.nornless.com` | $1.105 / $4.59 | 国产模型 按量 | 1 | kimi-k2.7-code |
-| 41 | `tuzkiapi.tuzki.online` | $1.12 / $4.65 | 国模官key兜底(90%+缓存) | 0.1 | kimi-k2.7-code |
-| 42 | `ltgpt.xyz` | $1.17 / $4.86 | 国模分组A 0.18 | 0.18 | kimi-k2.7-code |
-| 43 | `rapidapi.cc` | $1.17 / $4.86 | 满血kimi | 0.18 | kimi-k2.7-code |
-| 44 | `tokenkey.vip` | $1.232 / $5.6 | 【国模大全分组】 | 1 | kimi-k2.7-code |
-| 45 | `ai.8888.name` | $1.3 / $5.4 | 国模 | 1 | kimi-k2.7-code |
-| 46 | `ai.nexfaro.com` | $1.3 / $5.4 | Kimi | 0.2 | kimi-k2.7-code |
-| 47 | `api.8888.name` | $1.3 / $5.4 | 国模 | 1 | kimi-k2.7-code |
-| 48 | `api.binzzz.xyz` | $1.3 / $5.4 | Kimi【满血】 | 0.2 | kimi-k2.7-code |
-| 49 | `api.boluomiapi.cc` | $1.3 / $5.4 | Z03-国模Kimi | 0.2 | kimi-k2.7-code |
-| 50 | `api.openai.fans` | $1.3 / $5.4 | Kimi-sale | 0.2 | kimi-k2.7-code |
+| 17 | `flashcoding.ai` | $0.52 / $2.16 | 国产低价-均价0.1x | 1 | kimi-k2.7-code |
+| 18 | `sub.vcnovb.cn` | $0.52 / $2.16 | KIMI | 0.08 | kimi-k2.7-code |
+| 19 | `www.kk-vibe.top` | $0.52 / $2.16 | 国产大模型 0.08倍率 | 0.08 | kimi-k2.7-code |
+| 20 | `8888.name` | $0.574874 / $2.38794 | Kimi | 0.6 | kimi-k2.7-code |
+| 21 | `www.alaiapi.top` | $0.62278 / $2.58693 | Kimi全能按量组 | 0.65 | kimi-k2.7-code |
+| 22 | `aixhub.shop` | $0.65 / $2.7 | deepseek | 0.1 | kimi-k2.7-code |
+| 23 | `sub.pikaqiu.shop` | $0.65 / $2.7 | 国模大杂烩 | 0.1 | kimi-k2.7-code |
+| 24 | `xinyue.mom` | $0.65 / $2.7 | Kimi | 0.1 | kimi-k2.7-code |
+| 25 | `api.wopally.cn` | $0.677083 / $2.8125 | Claude-DS｜0.25x | 0.25 | kimi-k2.7-code |
+| 26 | `or.mux.la` | $0.7 / $3.5 | default | 1 | moonshotai/kimi-k2.7-code |
+| 27 | `cccode.pro` | $0.715 / $2.97 | 【混合】国模 | 1 | kimi-k2.7-code |
+| 28 | `www.cccode.pro` | $0.715 / $2.97 | 【混合】国模 | 1 | kimi-k2.7-code |
+| 29 | `api.hy88.my` | $0.76 / $3.2 | kimi | 0.8 | kimi-k2.7-code |
+| 30 | `luckyapi.online` | $0.76 / $3.2 | LuckyAPI | 0.8 | kimi-k2.7-code |
+| 31 | `heilovehei.com` | $0.77 / $3.5 | kimi | 0.1 | kimi-k2.7-code |
+| 32 | `tken.lol` | $0.795 / $3.71 | 官方全系稳定渠道 | 1.06 | moonshotai/kimi-k2.7-code |
+| 33 | `pro.fan142.top` | $0.95 / $4 | coding api | 1 | moonshotai/Kimi-K2.7-Code |
+| 34 | `api.clawhud.com` | $0.958123 / $3.97989 | kimi | 1 | kimi-k2.7-code |
+| 35 | `88.scxai.top` | $0.975 / $4.05 | 创世の鑫元 | 0.15 | kimi-k2.7-code |
+| 36 | `api.l4dder.dpdns.org` | $0.975 / $4.05 | kimi-官key-0.15x | 0.15 | kimi-k2.7-code |
+| 37 | `kedaya.ai` | $0.975 / $4.05 | Kimi | 0.15 | kimi-k2.7-code |
+| 38 | `mzeapi.top` | $0.975 / $4.05 | 国模-【KIMI】 | 0.15 | kimi-k2.7-code |
+| 39 | `zhiyuanapis.top` | $0.975 / $4.05 | 国内模型 | 0.15 | kimi-k2.7-code |
+| 40 | `weilai.chat` | $1.04 / $4.32 | Kimi | 0.16 | kimi-k2.7-code |
+| 41 | `api.nornless.com` | $1.105 / $4.59 | 国产模型 按量 | 1 | kimi-k2.7-code |
+| 42 | `tuzkiapi.tuzki.online` | $1.12 / $4.65 | 国模官key兜底(90%+缓存) | 0.1 | kimi-k2.7-code |
+| 43 | `ltgpt.xyz` | $1.17 / $4.86 | 国模分组A 0.18 | 0.18 | kimi-k2.7-code |
+| 44 | `rapidapi.cc` | $1.17 / $4.86 | 满血kimi | 0.18 | kimi-k2.7-code |
+| 45 | `tokenkey.vip` | $1.232 / $5.6 | 【国模大全分组】 | 1 | kimi-k2.7-code |
+| 46 | `ai.8888.name` | $1.3 / $5.4 | 国模 | 1 | kimi-k2.7-code |
+| 47 | `ai.nexfaro.com` | $1.3 / $5.4 | Kimi | 0.2 | kimi-k2.7-code |
+| 48 | `api.8888.name` | $1.3 / $5.4 | 国模 | 1 | kimi-k2.7-code |
+| 49 | `api.binzzz.xyz` | $1.3 / $5.4 | Kimi【满血】 | 0.2 | kimi-k2.7-code |
+| 50 | `api.boluomiapi.cc` | $1.3 / $5.4 | Z03-国模Kimi | 0.2 | kimi-k2.7-code |
 
-> 另有 134 站未列出。
+> 另有 137 站未列出。
 
-> 135 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 143 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

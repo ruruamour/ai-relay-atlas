@@ -1,6 +1,6 @@
 # qwen3-30b-a3b-instruct
 
-> 128 站提供 · 正常价 104 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥0.675**/1M 输入（37 站公开充值价） · 推算，未对账
+> 134 站提供 · 正常价 107 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥0.6538**/1M 输入（40 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,33 +20,36 @@
 | 8 | `biezou.com` | ¥0.1071 | $0.107143 / $0.107143 | 1 | 阿里云百炼大客户 | qwen3-30b-a3b-instruct-2507 |
 | 9 | `e.fishxcode.com` | ¥0.1071 | $0.107143 / $0.107143 | 1 | default | qwen3-30b-a3b-instruct-2507 |
 | 10 | `ai.38yun.cn` | ¥0.21 | $0.21 / $0.525 | 1 | 官方全系稳定渠道 | qwen3-30b-a3b-instruct-2507 |
-| 11 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $1.05 | 1 | openrouter | qwen/qwen3-30b-a3b-instruct-2507 |
-| 12 | `api.zyai.online` | ¥0.375 | $0.375 / $1.5 | 1 | mini | qwen3-30b-a3b-instruct-2507 |
-| 13 | `llm.kagu.one` | ¥0.3942 | $0.054 / $0.2155 | 7.3 | 大杂烩 | qwen/qwen3-30b-a3b-instruct-2507 |
-| 14 | `platform.anyrouter.ai` | ¥0.45 | $0.45 / $1.8 | 1 | official_cn | qwen3-30b-a3b-instruct-2507 |
-| 15 | `gpt-api.cc` | ¥0.5 | $0.5 / $3 | 1 | vip | qwen3-30b-a3b-instruct-2507 |
-| 16 | `mb.dmxapi.cn` | ¥0.5925 | $0.1185 / $0.474 | 5 | vip | qwen3-30b-a3b-instruct-2507 |
-| 17 | `gpt777.top` | ¥0.6 | $0.6 / $2.4 | 1 | opensource | qwen/qwen3-30b-a3b-instruct-2507 |
-| 18 | `ai2.qiqiai.top` | ¥0.6327 | $0.08667 / $0.34749 | 7.3 | 官方合作渠道 | qwen/qwen3-30b-a3b-instruct-2507 |
-| 19 | `claudecn.ai` | ¥0.675 | $0.675 / $2.7 | 1 | 国产模型 | qwen3-30b-a3b-instruct-2507 |
-| 20 | `api.ifopen.ai` | ¥0.6825 | $0.195 / $0.78 | 3.5 | 通用大模型 | qwen/qwen3-30b-a3b-instruct-2507 |
-| 21 | `api2.aigcbest.top` | ¥0.6825 | $0.195 / $0.78 | 3.5 | 通用大模型 | qwen/qwen3-30b-a3b-instruct-2507 |
-| 22 | `keypool.space` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
-| 23 | `new.foxi-api.cn` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
-| 24 | `xinsuanai.com` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
-| 25 | `tokenone.net` | ¥0.75 | $0.1103 / $0.4412 | 6.8 | default | qwen3-30b-a3b-instruct-2507 |
-| 26 | `unorouter.net` | ¥0.7821 | $0.107143 / $0.107143 | 7.3 | default | qwen3-30b-a3b-instruct-2507 |
-| 27 | `yibuapi.com` | ¥0.9 | $0.6 / $2.4 | 1.5 | claude-code | qwen3-30b-a3b-instruct-2507 |
-| 28 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $0.461538 | 7.3 | default | qwen/qwen3-30b-a3b-instruct-2507 |
-| 29 | `yibuapi.cn` | ¥1.125 | $0.75 / $3 | 1.5 | default | qwen3-30b-a3b-instruct-2507 |
-| 30 | `www.hohoapi.com` | ¥1.17 | $0.39 / $1.56 | 3 | qwen | qwen3-30b-a3b-instruct-2507 |
-| 31 | `api.eido.top` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-30b-a3b-instruct-2507 |
-| 32 | `ai.nodeloc.com` | ¥3.65 | $0.5 / $3 | 7.3 | default | qwen3-30b-a3b-instruct-2507 |
-| 33 | `ai.tiantoken.com` | ¥3.796 | $0.52 / $1.95 | 7.3 | 鹏宇国内模型1 | qwen3-30b-a3b-instruct-2507 |
-| 34 | `cn.gptapi.asia` | ¥5.32 | $5.32 / $21.28 | 1 | enterprise | qwen3-30b-a3b-instruct-2507 |
-| 35 | `yutoapi.com` | ¥5.32 | $5.32 / $21.28 | 1 | enterprise | qwen3-30b-a3b-instruct-2507 |
-| 36 | `codeyy.top` | ¥5.475 | $0.75 / $3 | 7.3 | default | qwen3-30b-a3b-instruct-2507 |
-| 37 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-30b-a3b-instruct-2507 |
+| 11 | `ai.bytonsec.com` | ¥0.2889 | $0.2889 / $1.1583 | 1 | OpenRouter | qwen/qwen3-30b-a3b-instruct-2507 |
+| 12 | `ai.mowen.vip` | ¥0.3311 | $0.0495 / $0.1495 | 6.6892 | default | Qwen3-30B-A3B-Instruct-2507 |
+| 13 | `api.qinzhiai.com` | ¥0.35 | $0.35 / $1.05 | 1 | openrouter | qwen/qwen3-30b-a3b-instruct-2507 |
+| 14 | `api.zyai.online` | ¥0.375 | $0.375 / $1.5 | 1 | mini | qwen3-30b-a3b-instruct-2507 |
+| 15 | `llm.kagu.one` | ¥0.3942 | $0.054 / $0.2155 | 7.3 | 大杂烩 | qwen/qwen3-30b-a3b-instruct-2507 |
+| 16 | `platform.anyrouter.ai` | ¥0.45 | $0.45 / $1.8 | 1 | official_cn | qwen3-30b-a3b-instruct-2507 |
+| 17 | `gpt-api.cc` | ¥0.5 | $0.5 / $3 | 1 | vip | qwen3-30b-a3b-instruct-2507 |
+| 18 | `mb.dmxapi.cn` | ¥0.5925 | $0.1185 / $0.474 | 5 | vip | qwen3-30b-a3b-instruct-2507 |
+| 19 | `gpt777.top` | ¥0.6 | $0.6 / $2.4 | 1 | opensource | qwen/qwen3-30b-a3b-instruct-2507 |
+| 20 | `ai2.qiqiai.top` | ¥0.6327 | $0.08667 / $0.34749 | 7.3 | 官方合作渠道 | qwen/qwen3-30b-a3b-instruct-2507 |
+| 21 | `claudecn.ai` | ¥0.675 | $0.675 / $2.7 | 1 | 国产模型 | qwen3-30b-a3b-instruct-2507 |
+| 22 | `api.ifopen.ai` | ¥0.6825 | $0.195 / $0.78 | 3.5 | 通用大模型 | qwen/qwen3-30b-a3b-instruct-2507 |
+| 23 | `api2.aigcbest.top` | ¥0.6825 | $0.195 / $0.78 | 3.5 | 通用大模型 | qwen/qwen3-30b-a3b-instruct-2507 |
+| 24 | `api.aiskt.com` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
+| 25 | `keypool.space` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
+| 26 | `new.foxi-api.cn` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
+| 27 | `xinsuanai.com` | ¥0.75 | $0.75 / $3 | 1 | default | qwen3-30b-a3b-instruct-2507 |
+| 28 | `tokenone.net` | ¥0.75 | $0.1103 / $0.4412 | 6.8 | default | qwen3-30b-a3b-instruct-2507 |
+| 29 | `unorouter.net` | ¥0.7821 | $0.107143 / $0.107143 | 7.3 | default | qwen3-30b-a3b-instruct-2507 |
+| 30 | `yibuapi.com` | ¥0.9 | $0.6 / $2.4 | 1.5 | claude-code | qwen3-30b-a3b-instruct-2507 |
+| 31 | `api.tacklekey.com` | ¥1.123 | $0.153846 / $0.461538 | 7.3 | default | qwen/qwen3-30b-a3b-instruct-2507 |
+| 32 | `yibuapi.cn` | ¥1.125 | $0.75 / $3 | 1.5 | default | qwen3-30b-a3b-instruct-2507 |
+| 33 | `www.hohoapi.com` | ¥1.17 | $0.39 / $1.56 | 3 | qwen | qwen3-30b-a3b-instruct-2507 |
+| 34 | `api.eido.top` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-30b-a3b-instruct-2507 |
+| 35 | `ai.nodeloc.com` | ¥3.65 | $0.5 / $3 | 7.3 | default | qwen3-30b-a3b-instruct-2507 |
+| 36 | `ai.tiantoken.com` | ¥3.796 | $0.52 / $1.95 | 7.3 | 鹏宇国内模型1 | qwen3-30b-a3b-instruct-2507 |
+| 37 | `cn.gptapi.asia` | ¥5.32 | $5.32 / $21.28 | 1 | enterprise | qwen3-30b-a3b-instruct-2507 |
+| 38 | `yutoapi.com` | ¥5.32 | $5.32 / $21.28 | 1 | enterprise | qwen3-30b-a3b-instruct-2507 |
+| 39 | `codeyy.top` | ¥5.475 | $0.75 / $3 | 7.3 | default | qwen3-30b-a3b-instruct-2507 |
+| 40 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-30b-a3b-instruct-2507 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -105,4 +108,4 @@
 
 > 另有 17 站未列出。
 
-> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

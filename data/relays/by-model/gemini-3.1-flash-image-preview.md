@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image-preview
 
-> 770 站提供 · 正常价 437 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.18**/次（367 站公开充值价） · 推算，未对账
+> 796 站提供 · 正常价 454 站 · 名义中位价 **$0.1204**/次 · 实付中位价 **¥0.18**/次（383 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -45,23 +45,23 @@
 | 33 | `api.amux.ai` | ¥0.0755 | $0.0755 | 1 | special/google | gemini-3.1-flash-image-preview |
 | 34 | `cdn.12ai.org` | ¥0.078 | $0.078 | 1 | Mini | gemini-3.1-flash-image-preview |
 | 35 | `cheapai.io` | ¥0.07884 | $0.0108 | 7.3 | vip | gemini-3.1-flash-image-preview |
-| 36 | `apibasis.com` | ¥0.08 | $0.08 | 1 | 香蕉生图4K | gemini-3.1-flash-image-preview |
-| 37 | `aruhub.com` | ¥0.08 | $0.08 | 1 | Gemini-nano-bunana2/2Pro/2.1，1-4K同价 | gemini-3.1-flash-image-preview |
-| 38 | `chunxiao.pro` | ¥0.08 | $0.08 | 1 | gemini_绘图 | gemini-3.1-flash-image-preview |
-| 39 | `code.aigcpro.org` | ¥0.08 | $0.08 | 1 | 画图分组 | gemini-3.1-flash-image-preview |
-| 40 | `miaochuang.setbug.cn` | ¥0.08 | $0.08 | 1 | 【香蕉】1-4k | gemini-3.1-flash-image-preview |
-| 41 | `moyuu.cc` | ¥0.08 | $0.08 | 1 | image | gemini-3.1-flash-image-preview |
-| 42 | `newapi.aiopus.org` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image-preview |
-| 43 | `newapi.aisonnet.org` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image-preview |
-| 44 | `newapi.ishuhang.top` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image-preview |
-| 45 | `nova.vcrauo.com` | ¥0.08 | $0.08 | 1 | Gemini·image Adobe节点 | gemini-3.1-flash-image-preview |
-| 46 | `routerapi.net` | ¥0.08 | $0.08 | 1 | gemini-image | gemini-3.1-flash-image-preview |
-| 47 | `tokencount.aigemini.org` | ¥0.08 | $0.08 | 1 | 低价香蕉 | gemini-3.1-flash-image-preview |
-| 48 | `api.clawkey.vip` | ¥0.08001 | $0.08001 | 1 | Gemini | gemini-3.1-flash-image-preview |
-| 49 | `api.openlux.ai` | ¥0.08175 | $0.0121692 | 6.718 | Discounted-Banana-1 | gemini-3.1-flash-image-preview |
-| 50 | `api.relayrouter.ai` | ¥0.08175 | $0.0121692 | 6.718 | Discounted-Banana-1 | gemini-3.1-flash-image-preview |
+| 36 | `api-models.com` | ¥0.08 | $0.08 | 1 | Image | gemini-3.1-flash-image-preview |
+| 37 | `apibasis.com` | ¥0.08 | $0.08 | 1 | 香蕉生图4K | gemini-3.1-flash-image-preview |
+| 38 | `aruhub.com` | ¥0.08 | $0.08 | 1 | Gemini-nano-bunana2/2Pro/2.1，1-4K同价 | gemini-3.1-flash-image-preview |
+| 39 | `chunxiao.pro` | ¥0.08 | $0.08 | 1 | gemini_绘图 | gemini-3.1-flash-image-preview |
+| 40 | `code.aigcpro.org` | ¥0.08 | $0.08 | 1 | 画图分组 | gemini-3.1-flash-image-preview |
+| 41 | `miaochuang.setbug.cn` | ¥0.08 | $0.08 | 1 | 【香蕉】1-4k | gemini-3.1-flash-image-preview |
+| 42 | `moyuu.cc` | ¥0.08 | $0.08 | 1 | image | gemini-3.1-flash-image-preview |
+| 43 | `newapi.aiopus.org` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image-preview |
+| 44 | `newapi.aisonnet.org` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image-preview |
+| 45 | `newapi.ishuhang.top` | ¥0.08 | $0.08 | 1 | default | gemini-3.1-flash-image-preview |
+| 46 | `nova.vcrauo.com` | ¥0.08 | $0.08 | 1 | Gemini·image Adobe节点 | gemini-3.1-flash-image-preview |
+| 47 | `routerapi.net` | ¥0.08 | $0.08 | 1 | gemini-image | gemini-3.1-flash-image-preview |
+| 48 | `tokencount.aigemini.org` | ¥0.08 | $0.08 | 1 | 低价香蕉 | gemini-3.1-flash-image-preview |
+| 49 | `api.clawkey.vip` | ¥0.08001 | $0.08001 | 1 | Gemini | gemini-3.1-flash-image-preview |
+| 50 | `api.openlux.ai` | ¥0.08175 | $0.0121692 | 6.718 | Discounted-Banana-1 | gemini-3.1-flash-image-preview |
 
-> 另有 317 站未列出。
+> 另有 333 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `s.qweapi.com` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image-preview |
 | 50 | `aiapi.market` | $0.72 | image-2 | 12 | gemini-3.1-flash-image-preview |
 
-> 另有 20 站未列出。
+> 另有 21 站未列出。
 
-> 333 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 342 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

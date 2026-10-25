@@ -1,6 +1,6 @@
 # gemini-3-pro-preview
 
-> 618 站提供 · 正常价 492 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（364 站公开充值价） · 推算，未对账
+> 639 站提供 · 正常价 508 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（378 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -49,19 +49,19 @@
 | 37 | `hiapi.top` | ¥0.6 | $0.6 / $3.6 | 1 | Gemini | gemini-3-pro-preview |
 | 38 | `www.kamiapi.top` | ¥0.6 | $0.6 / $3.6 | 1 | Gemini Antigravity 号池 | gemini-3-pro-preview |
 | 39 | `xiaok.lol` | ¥0.6 | $0.6 / $3.6 | 1 | gemini ultar号池 | gemini-3-pro-preview |
-| 40 | `xxapi.info` | ¥0.6 | $0.6 / $3.6 | 1 | Gemini稳定 | gemini-3-pro-preview |
-| 41 | `momoapi.xin` | ¥0.64 | $0.64 / $3.84 | 1 | gemini反重力 | gemini-3-pro-preview |
-| 42 | `dahlo.live` | ¥0.7 | $0.7 / $4.2 | 1 | Gemini | gemini-3-pro-preview |
-| 43 | `mzhcloud.com` | ¥0.7 | $0.7 / $4.2 | 1 | Gemini | gemini-3-pro-preview |
-| 44 | `pay.magic666.top` | ¥0.7 | $0.7 / $4.2 | 1 | gemini-nx | gemini-3-pro-preview |
-| 45 | `api.cloudpass.space` | ¥0.714 | $0.7 / $4.2 | 1.02 | Gemini | gemini-3-pro-preview |
-| 46 | `kitty.cloudpass.space` | ¥0.714 | $0.7 / $4.2 | 1.02 | Gemini | gemini-3-pro-preview |
-| 47 | `kfcv50.link` | ¥0.76 | $0.76 / $4.56 | 1 | gemini_cli_0401_038 | gemini-3-pro-preview-maxthinking |
-| 48 | `new.tianluo.ccwu.cc` | ¥0.76 | $0.76 / $4.56 | 1 | Genmi | gemini-3-pro-preview |
-| 49 | `cheapi.cc` | ¥0.8 | $0.8 / $4.8 | 1 | gemini | gemini-3-pro-preview |
-| 50 | `daidaididi.top` | ¥0.8 | $0.8 / $4.8 | 1 | Gemini \| Anti | gemini-3-pro-preview |
+| 40 | `xn--15q04w3tg4kio0a.com` | ¥0.6 | $0.6 / $3.6 | 1 | 🪐gemini-antigravity | gemini-3-pro-preview |
+| 41 | `xxapi.info` | ¥0.6 | $0.6 / $3.6 | 1 | Gemini稳定 | gemini-3-pro-preview |
+| 42 | `momoapi.xin` | ¥0.64 | $0.64 / $3.84 | 1 | gemini反重力 | gemini-3-pro-preview |
+| 43 | `ai.qunq.de` | ¥0.7 | $0.7 / $4.2 | 1 | Gemini-Antigravity | gemini-3-pro-preview |
+| 44 | `dahlo.live` | ¥0.7 | $0.7 / $4.2 | 1 | Gemini | gemini-3-pro-preview |
+| 45 | `mzhcloud.com` | ¥0.7 | $0.7 / $4.2 | 1 | Gemini | gemini-3-pro-preview |
+| 46 | `pay.magic666.top` | ¥0.7 | $0.7 / $4.2 | 1 | gemini-nx | gemini-3-pro-preview |
+| 47 | `api.cloudpass.space` | ¥0.714 | $0.7 / $4.2 | 1.02 | Gemini | gemini-3-pro-preview |
+| 48 | `kitty.cloudpass.space` | ¥0.714 | $0.7 / $4.2 | 1.02 | Gemini | gemini-3-pro-preview |
+| 49 | `kfcv50.link` | ¥0.76 | $0.76 / $4.56 | 1 | gemini_cli_0401_038 | gemini-3-pro-preview-maxthinking |
+| 50 | `new.tianluo.ccwu.cc` | ¥0.76 | $0.76 / $4.56 | 1 | Genmi | gemini-3-pro-preview |
 
-> 另有 314 站未列出。
+> 另有 328 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -72,52 +72,52 @@
 | 3 | `api.biuapi.com` | $0.26 / $1.56 | 反重力gemini | 0.13 | gemini-3-pro-preview |
 | 4 | `o10.top` | $0.26 / $1.56 | 反重力gemini | 0.13 | gemini-3-pro-preview |
 | 5 | `api.text168.com` | $0.36 / $2.16 | 反重力Gemini | 0.18 | gemini-3-pro-preview |
-| 6 | `api.apikl.ai` | $0.4 / $2.4 | Gemini | 0.2 | gemini-3-pro-preview |
-| 7 | `api.milesai.pro` | $0.4 / $2.4 | Gemini-pro | 0.2 | gemini-3-pro-preview |
-| 8 | `app.yylx.io` | $0.4 / $2.4 | Gemini - 标准 | 0.2 | gemini-3-pro-preview |
-| 9 | `hhw1231.com` | $0.4 / $2.4 | Gemini | 0.2 | gemini-3-pro-preview |
-| 10 | `kimera.cc` | $0.4 / $2.4 | Gemini | 0.2 | gemini-3-pro-preview |
-| 11 | `z30.top` | $0.4 / $2.4 | 反重力Gemini | 0.2 | gemini-3-pro-preview |
-| 12 | `dev.aiberm.com` | $0.46 / $2.76 | default | 0.23 | gemini-3-pro-preview-thinking |
-| 13 | `ai.mzlone.top` | $0.48 / $2.88 | Gemini - Pro | 0.24 | gemini-3-pro-preview |
-| 14 | `ai.8888.name` | $0.5 / $3 | Gemini | 0.25 | gemini-3-pro-preview |
-| 15 | `apipaths.com` | $0.5 / $3 | gemini-官转 | 0.25 | gemini-3-pro-preview |
-| 16 | `b.ainano.cloud` | $0.5 / $3 | gemini | 0.25 | gemini-3-pro-preview |
-| 17 | `levelup.mom` | $0.5 / $3 | Gemini Banana3Pro生图号池 | 0.25 | gemini-3-pro-preview |
-| 18 | `zjapi.com` | $0.57 / $3.43 | gemini | 1 | gemini-3-pro-preview |
-| 19 | `api.asdfas.party` | $0.6 / $3.6 | gemini | 0.3 | gemini-3-pro-preview |
-| 20 | `api.tyasai.com` | $0.6 / $3.6 | gemini 0.3 元每刀  | 0.3 | gemini-3-pro-preview |
-| 21 | `apiai.fun` | $0.6 / $3.6 | Gemini（反重力） | 0.3 | gemini-3-pro-preview |
-| 22 | `bboluo.com` | $0.6 / $3.6 | default | 1 | (反重力量)gemini-3-pro-preview |
-| 23 | `modelport.link` | $0.6 / $3.6 | Gemini-标准 | 0.3 | gemini-3-pro-preview |
-| 24 | `sub2api.luchikey.com` | $0.7 / $4.2 | Gemini-Pro | 0.35 | gemini-3-pro-preview |
-| 25 | `api.hopeplay.online` | $0.72 / $4.32 | Gemini | 0.4 | gemini-3-pro-preview |
-| 26 | `www.mttie.com` | $0.72 / $4.32 | 按量cli | 0.36 | [按量cli]gemini-3-pro-preview |
-| 27 | `api.aliuapi.top` | $0.8 / $4.8 | NL - Gemini - 反代无缓 | 0.4 | gemini-3-pro-preview |
-| 28 | `api.tohoqing.com` | $0.8 / $4.8 | gemini cli（支持所有客户端） | 0.4 | gemini-3-pro-preview |
-| 29 | `sub-lax.autorouter.io` | $0.8 / $4.8 | Gemini | 0.4 | gemini-3-pro-preview |
-| 30 | `llm-coding.space` | $0.9 / $5.4 | gemini逆向 | 0.45 | gemini-3-pro-preview |
-| 31 | `api.llmgo.net` | $1 / $6 | 逆向Gemini | 0.5 | gemini-3-pro-preview |
-| 32 | `canana.vcnovb.cn` | $1 / $6 | Gemini cli | 0.5 | gemini-3-pro-preview |
-| 33 | `sub.vcnovb.cn` | $1 / $6 | Gemini cli | 0.5 | gemini-3-pro-preview |
-| 34 | `api.hy88.my` | $1.2 / $7.2 | gemini_pro | 0.6 | gemini-3-pro-preview |
-| 35 | `azapi.com.cn` | $1.2 / $7.2 | gemini | 0.6 | gemini-3-pro-preview |
-| 36 | `yesapi.online` | $1.2 / $7.2 | Gemini | 0.6 | gemini-3-pro-preview |
-| 37 | `newapi.zaiwenai.com` | $1.8 / $10.8 | default | 1 | gemini-3-pro-preview |
-| 38 | `ai.comfly.org` | $2 / $12 | default | 1 | gemini-3-pro-preview |
-| 39 | `ai.kalehui.cn` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 40 | `aiapihub.cloud` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 41 | `aiopus.top` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 42 | `aiyiwei.vip` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 43 | `anyaigc.com` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 44 | `api-hub.vip` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 45 | `api.aibh.site` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 46 | `api.aicso.top` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 47 | `api.anthropicricardo.club` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 48 | `api.antmoo.com` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 49 | `api.apiplus.org` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
-| 50 | `api.bitidea.cn` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 6 | `api.168box.xyz` | $0.4 / $2.4 | gemini | 0.2 | gemini-3-pro-preview |
+| 7 | `api.apikl.ai` | $0.4 / $2.4 | Gemini | 0.2 | gemini-3-pro-preview |
+| 8 | `api.milesai.pro` | $0.4 / $2.4 | Gemini-pro | 0.2 | gemini-3-pro-preview |
+| 9 | `app.yylx.io` | $0.4 / $2.4 | Gemini - 标准 | 0.2 | gemini-3-pro-preview |
+| 10 | `hhw1231.com` | $0.4 / $2.4 | Gemini | 0.2 | gemini-3-pro-preview |
+| 11 | `kimera.cc` | $0.4 / $2.4 | Gemini | 0.2 | gemini-3-pro-preview |
+| 12 | `z30.top` | $0.4 / $2.4 | 反重力Gemini | 0.2 | gemini-3-pro-preview |
+| 13 | `dev.aiberm.com` | $0.46 / $2.76 | default | 0.23 | gemini-3-pro-preview-thinking |
+| 14 | `ai.mzlone.top` | $0.48 / $2.88 | Gemini - Pro | 0.24 | gemini-3-pro-preview |
+| 15 | `ai.8888.name` | $0.5 / $3 | Gemini | 0.25 | gemini-3-pro-preview |
+| 16 | `apipaths.com` | $0.5 / $3 | gemini-官转 | 0.25 | gemini-3-pro-preview |
+| 17 | `b.ainano.cloud` | $0.5 / $3 | gemini | 0.25 | gemini-3-pro-preview |
+| 18 | `levelup.mom` | $0.5 / $3 | Gemini Banana3Pro生图号池 | 0.25 | gemini-3-pro-preview |
+| 19 | `zjapi.com` | $0.57 / $3.43 | gemini | 1 | gemini-3-pro-preview |
+| 20 | `api.asdfas.party` | $0.6 / $3.6 | gemini | 0.3 | gemini-3-pro-preview |
+| 21 | `api.tyasai.com` | $0.6 / $3.6 | gemini 0.3 元每刀  | 0.3 | gemini-3-pro-preview |
+| 22 | `apiai.fun` | $0.6 / $3.6 | Gemini（反重力） | 0.3 | gemini-3-pro-preview |
+| 23 | `bboluo.com` | $0.6 / $3.6 | default | 1 | (反重力量)gemini-3-pro-preview |
+| 24 | `modelport.link` | $0.6 / $3.6 | Gemini-标准 | 0.3 | gemini-3-pro-preview |
+| 25 | `sub2api.luchikey.com` | $0.7 / $4.2 | Gemini-Pro | 0.35 | gemini-3-pro-preview |
+| 26 | `api.hopeplay.online` | $0.72 / $4.32 | Gemini | 0.4 | gemini-3-pro-preview |
+| 27 | `www.mttie.com` | $0.72 / $4.32 | 按量cli | 0.36 | [按量cli]gemini-3-pro-preview |
+| 28 | `api.aliuapi.top` | $0.8 / $4.8 | NL - Gemini - 反代无缓 | 0.4 | gemini-3-pro-preview |
+| 29 | `api.tohoqing.com` | $0.8 / $4.8 | gemini cli（支持所有客户端） | 0.4 | gemini-3-pro-preview |
+| 30 | `sub-lax.autorouter.io` | $0.8 / $4.8 | Gemini | 0.4 | gemini-3-pro-preview |
+| 31 | `llm-coding.space` | $0.9 / $5.4 | gemini逆向 | 0.45 | gemini-3-pro-preview |
+| 32 | `api.llmgo.net` | $1 / $6 | 逆向Gemini | 0.5 | gemini-3-pro-preview |
+| 33 | `canana.vcnovb.cn` | $1 / $6 | Gemini cli | 0.5 | gemini-3-pro-preview |
+| 34 | `sub.vcnovb.cn` | $1 / $6 | Gemini cli | 0.5 | gemini-3-pro-preview |
+| 35 | `api.hy88.my` | $1.2 / $7.2 | gemini_pro | 0.6 | gemini-3-pro-preview |
+| 36 | `azapi.com.cn` | $1.2 / $7.2 | gemini | 0.6 | gemini-3-pro-preview |
+| 37 | `yesapi.online` | $1.2 / $7.2 | Gemini | 0.6 | gemini-3-pro-preview |
+| 38 | `newapi.zaiwenai.com` | $1.8 / $10.8 | default | 1 | gemini-3-pro-preview |
+| 39 | `ai.comfly.org` | $2 / $12 | default | 1 | gemini-3-pro-preview |
+| 40 | `ai.kalehui.cn` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 41 | `aiapihub.cloud` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 42 | `aiopus.top` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 43 | `aiyiwei.vip` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 44 | `anyaigc.com` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 45 | `api-hub.vip` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 46 | `api.aibh.site` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 47 | `api.aicso.top` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 48 | `api.anthropicricardo.club` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 49 | `api.antmoo.com` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
+| 50 | `api.apiplus.org` | $2 / $12 | gemini-cli | 1 | gemini-3-pro-preview |
 
-> 另有 78 站未列出。
+> 另有 80 站未列出。
 
-> 126 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 131 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

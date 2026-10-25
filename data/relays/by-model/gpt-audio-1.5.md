@@ -1,6 +1,6 @@
 # gpt-audio-1.5
 
-> 96 站提供 · 正常价 50 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5.125**/1M 输入（30 站公开充值价） · 推算，未对账
+> 101 站提供 · 正常价 52 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥6.375**/1M 输入（32 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,20 +26,22 @@
 | 14 | `api.zyai.online` | ¥3.75 | $3.75 / $15 | 1 | AZSVIP | gpt-audio-1.5 |
 | 15 | `gpt777.top` | ¥5 | $5 / $20 | 1 | Azure | gpt-audio-1.5 |
 | 16 | `test-api.apiqik.online` | ¥5.25 | $0.75 / $3 | 7 | openai | gpt-audio-1.5 |
-| 17 | `api.ifopen.ai` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-audio-1.5 |
-| 18 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-audio-1.5 |
-| 19 | `toapis.com` | ¥14 | $2 / $8 | 7 | default | gpt-audio-1.5-official |
-| 20 | `api.ai-gaochao.cn` | ¥14.6 | $2 / $10 | 7.3 | Evan | gpt-audio-1.5 |
-| 21 | `apius.shubiaobiao.cn` | ¥14.6 | $2 / $10 | 7.3 | Evan | gpt-audio-1.5 |
-| 22 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-audio-1.5 |
-| 23 | `aiapi.hk` | ¥17.5 | $2.5 / $10 | 7 | 官方音频渠道 | gpt-audio-1.5 |
-| 24 | `token.nexhina.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-audio-1.5 |
-| 25 | `yibuapi.com` | ¥21 | $14 / $56 | 1.5 | sy专用 | gpt-audio-1.5 |
-| 26 | `ai.ydcloud.org` | ¥27.38 | $3.75 / $15 | 7.3 | az gpt | gpt-audio-1.5 |
-| 27 | `api.ilaien.com` | ¥29.2 | $4 / $16 | 7.3 | default | gpt-audio-1.5-official |
-| 28 | `us.pomoai.xyz` | ¥73 | $10 / $40 | 7.3 | gpt-官转-40 | gpt-audio-1.5 |
-| 29 | `www.amutes.com` | ¥76.65 | $10.5 / $42 | 7.3 | Openai纯官 | gpt-audio-1.5 |
-| 30 | `wrduai.com` | ¥3832 | $525 / $1050 | 7.3 | 优质官转 | gpt-audio-1.5 |
+| 17 | `comput.chat` | ¥7.5 | $7.5 / $15 | 1 | default | gpt-audio-1.5 |
+| 18 | `api.ifopen.ai` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-audio-1.5 |
+| 19 | `api2.aigcbest.top` | ¥8.75 | $2.5 / $10 | 3.5 | default | gpt-audio-1.5 |
+| 20 | `ai.mowen.vip` | ¥10.03 | $1.5 / $7.5 | 6.6892 | default | gpt-audio-1.5 |
+| 21 | `toapis.com` | ¥14 | $2 / $8 | 7 | default | gpt-audio-1.5-official |
+| 22 | `api.ai-gaochao.cn` | ¥14.6 | $2 / $10 | 7.3 | Evan | gpt-audio-1.5 |
+| 23 | `apius.shubiaobiao.cn` | ¥14.6 | $2 / $10 | 7.3 | Evan | gpt-audio-1.5 |
+| 24 | `hk.moleapi.com` | ¥17 | $2.5 / $10 | 6.8 | default | gpt-audio-1.5 |
+| 25 | `aiapi.hk` | ¥17.5 | $2.5 / $10 | 7 | 官方音频渠道 | gpt-audio-1.5 |
+| 26 | `token.nexhina.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gpt-audio-1.5 |
+| 27 | `yibuapi.com` | ¥21 | $14 / $56 | 1.5 | sy专用 | gpt-audio-1.5 |
+| 28 | `ai.ydcloud.org` | ¥27.38 | $3.75 / $15 | 7.3 | az gpt | gpt-audio-1.5 |
+| 29 | `api.ilaien.com` | ¥29.2 | $4 / $16 | 7.3 | default | gpt-audio-1.5-official |
+| 30 | `us.pomoai.xyz` | ¥73 | $10 / $40 | 7.3 | gpt-官转-40 | gpt-audio-1.5 |
+| 31 | `www.amutes.com` | ¥76.65 | $10.5 / $42 | 7.3 | Openai纯官 | gpt-audio-1.5 |
+| 32 | `wrduai.com` | ¥3832 | $525 / $1050 | 7.3 | 优质官转 | gpt-audio-1.5 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -66,4 +68,4 @@
 | 19 | `vip.zen-ai.top` | $7.5 / $30 | default | 3 | gpt-audio-1.5 |
 | 20 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-audio-1.5 |
 
-> 46 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 49 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-3.1-flash-lite-preview
 
-> 518 站提供 · 正常价 428 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.375**/1M 输入（352 站公开充值价） · 推算，未对账
+> 534 站提供 · 正常价 439 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.375**/1M 输入（363 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -30,38 +30,38 @@
 | 18 | `closedai.kylenqaq.com` | ¥0.075 | $0.075 / $0.45 | 1 | Gemini-Anti | gemini-3.1-flash-lite-preview |
 | 19 | `deepkey.top` | ¥0.075 | $0.075 / $0.45 | 1 | gemini | gemini-3.1-flash-lite-preview |
 | 20 | `www.omniroute.cc` | ¥0.075 | $0.075 / $0.45 | 1 | Gemini-满血 | gemini-3.1-flash-lite-preview |
-| 21 | `momoapi.xin` | ¥0.08 | $0.08 / $0.48 | 1 | gemini反重力 | gemini-3.1-flash-lite-preview |
-| 22 | `api.ethancode.xyz` | ¥0.0875 | $0.0875 / $0.525 | 1 | gemini | gemini-3.1-flash-lite-preview |
-| 23 | `api.polymer-ai.top` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini-Pro官方分组 | gemini-3.1-flash-lite-preview |
-| 24 | `cloudlogicapi.com` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini | gemini-3.1-flash-lite-preview |
-| 25 | `dahlo.live` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini | gemini-3.1-flash-lite-preview |
-| 26 | `www.tokenbuy.shop` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini哈基米 | gemini-3.1-flash-lite-preview |
-| 27 | `api.cloudpass.space` | ¥0.08925 | $0.0875 / $0.525 | 1.02 | Gemini | gemini-3.1-flash-lite-preview |
-| 28 | `kitty.cloudpass.space` | ¥0.08925 | $0.0875 / $0.525 | 1.02 | Gemini | gemini-3.1-flash-lite-preview |
-| 29 | `api.novaris.com.cn` | ¥0.09 | $0.09 / $0.9 | 1 | Gemini cli | gemini-3.1-flash-lite-preview |
-| 30 | `kfcv50.link` | ¥0.095 | $0.095 / $0.57 | 1 | gemini_cli_0401_038 | gemini-3.1-flash-lite-preview |
-| 31 | `new.tianluo.ccwu.cc` | ¥0.095 | $0.095 / $0.57 | 1 | Genmi | gemini-3.1-flash-lite-preview |
-| 32 | `api.furryforum.com` | ¥0.1 | $0.1 / $0.3 | 1 | GEMINI | gemini-3.1-flash-lite-preview |
-| 33 | `api.nbility.ai` | ¥0.1 | $0.1 / $0.6 | 1 | gemini | gemini-3.1-flash-lite-preview |
-| 34 | `api.starchenapi.xyz` | ¥0.1 | $0.1 / $0.6 | 1 | gemini反重力 | gemini-3.1-flash-lite-preview |
-| 35 | `daidaididi.top` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini \| Anti | gemini-3.1-flash-lite-preview |
-| 36 | `open.xiaojingai.com` | ¥0.1 | $0.1 / $0.3 | 1 | 逆向 | gemini-3.1-flash-lite-preview |
-| 37 | `pro.gemai.cc` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini Antigravity | gemini-3.1-flash-lite-preview |
-| 38 | `yilian.space` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini | gemini-3.1-flash-lite-preview |
-| 39 | `api.1024token.xyz` | ¥0.1125 | $0.1125 / $0.675 | 1 | Gemini | gemini-3.1-flash-lite-preview |
-| 40 | `api.openlux.ai` | ¥0.1235 | $0.0183825 / $0.110295 | 6.718 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
-| 41 | `api.relayrouter.ai` | ¥0.1235 | $0.0183825 / $0.110295 | 6.718 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
-| 42 | `openlux.zhongzhuan.chat` | ¥0.1235 | $0.0183825 / $0.110295 | 6.718 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
-| 43 | `api.ccode.vip` | ¥0.124 | $0.124 / $0.775 | 1 | Gemini 反重力 | gemini-3.1-flash-lite-preview |
-| 44 | `api.zyai.online` | ¥0.125 | $0.125 / $0.375 | 1 | mini | gemini-3.1-flash-lite-preview |
-| 45 | `apijing.com` | ¥0.125 | $0.125 / $0.75 | 1 | gemini按量 | gemini-3.1-flash-lite-preview |
-| 46 | `beehears.com` | ¥0.125 | $0.125 / $0.75 | 1 | 🪐 Gemini - Plus - P5 | gemini-3.1-flash-lite-preview |
-| 47 | `cn.jbbt.cc` | ¥0.125 | $0.125 / $0.75 | 1 | 专用gemini | gemini-3.1-flash-lite-preview |
-| 48 | `images.beehears.com` | ¥0.125 | $0.125 / $0.75 | 1 | 🪐 Gemini - Plus - P5 | gemini-3.1-flash-lite-preview |
-| 49 | `jbbtoken.cn` | ¥0.125 | $0.125 / $0.75 | 1 | 专用gemini | gemini-3.1-flash-lite-preview |
-| 50 | `layso.ai` | ¥0.125 | $0.125 / $0.75 | 1 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
+| 21 | `xn--15q04w3tg4kio0a.com` | ¥0.075 | $0.075 / $0.45 | 1 | 🪐gemini-antigravity | gemini-3.1-flash-lite-preview |
+| 22 | `momoapi.xin` | ¥0.08 | $0.08 / $0.48 | 1 | gemini反重力 | gemini-3.1-flash-lite-preview |
+| 23 | `api.ethancode.xyz` | ¥0.0875 | $0.0875 / $0.525 | 1 | gemini | gemini-3.1-flash-lite-preview |
+| 24 | `api.polymer-ai.top` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini-Pro官方分组 | gemini-3.1-flash-lite-preview |
+| 25 | `cloudlogicapi.com` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini | gemini-3.1-flash-lite-preview |
+| 26 | `dahlo.live` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini | gemini-3.1-flash-lite-preview |
+| 27 | `www.tokenbuy.shop` | ¥0.0875 | $0.0875 / $0.525 | 1 | Gemini哈基米 | gemini-3.1-flash-lite-preview |
+| 28 | `api.cloudpass.space` | ¥0.08925 | $0.0875 / $0.525 | 1.02 | Gemini | gemini-3.1-flash-lite-preview |
+| 29 | `kitty.cloudpass.space` | ¥0.08925 | $0.0875 / $0.525 | 1.02 | Gemini | gemini-3.1-flash-lite-preview |
+| 30 | `api.novaris.com.cn` | ¥0.09 | $0.09 / $0.9 | 1 | Gemini cli | gemini-3.1-flash-lite-preview |
+| 31 | `kfcv50.link` | ¥0.095 | $0.095 / $0.57 | 1 | gemini_cli_0401_038 | gemini-3.1-flash-lite-preview |
+| 32 | `new.tianluo.ccwu.cc` | ¥0.095 | $0.095 / $0.57 | 1 | Genmi | gemini-3.1-flash-lite-preview |
+| 33 | `api.furryforum.com` | ¥0.1 | $0.1 / $0.3 | 1 | GEMINI | gemini-3.1-flash-lite-preview |
+| 34 | `api.nbility.ai` | ¥0.1 | $0.1 / $0.6 | 1 | gemini | gemini-3.1-flash-lite-preview |
+| 35 | `api.starchenapi.xyz` | ¥0.1 | $0.1 / $0.6 | 1 | gemini反重力 | gemini-3.1-flash-lite-preview |
+| 36 | `daidaididi.top` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini \| Anti | gemini-3.1-flash-lite-preview |
+| 37 | `open.xiaojingai.com` | ¥0.1 | $0.1 / $0.3 | 1 | 逆向 | gemini-3.1-flash-lite-preview |
+| 38 | `otterl.com` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini | gemini-3.1-flash-lite-preview |
+| 39 | `pro.gemai.cc` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini Antigravity | gemini-3.1-flash-lite-preview |
+| 40 | `yilian.space` | ¥0.1 | $0.1 / $0.6 | 1 | Gemini | gemini-3.1-flash-lite-preview |
+| 41 | `api.1024token.xyz` | ¥0.1125 | $0.1125 / $0.675 | 1 | Gemini | gemini-3.1-flash-lite-preview |
+| 42 | `api.openlux.ai` | ¥0.1235 | $0.0183825 / $0.110295 | 6.718 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
+| 43 | `api.relayrouter.ai` | ¥0.1235 | $0.0183825 / $0.110295 | 6.718 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
+| 44 | `openlux.zhongzhuan.chat` | ¥0.1235 | $0.0183825 / $0.110295 | 6.718 | Anti-Gemini-1 | gemini-3.1-flash-lite-preview |
+| 45 | `api.ccode.vip` | ¥0.124 | $0.124 / $0.775 | 1 | Gemini 反重力 | gemini-3.1-flash-lite-preview |
+| 46 | `api.zyai.online` | ¥0.125 | $0.125 / $0.375 | 1 | mini | gemini-3.1-flash-lite-preview |
+| 47 | `apijing.com` | ¥0.125 | $0.125 / $0.75 | 1 | gemini按量 | gemini-3.1-flash-lite-preview |
+| 48 | `beehears.com` | ¥0.125 | $0.125 / $0.75 | 1 | 🪐 Gemini - Plus - P5 | gemini-3.1-flash-lite-preview |
+| 49 | `cn.jbbt.cc` | ¥0.125 | $0.125 / $0.75 | 1 | 专用gemini | gemini-3.1-flash-lite-preview |
+| 50 | `images.beehears.com` | ¥0.125 | $0.125 / $0.75 | 1 | 🪐 Gemini - Plus - P5 | gemini-3.1-flash-lite-preview |
 
-> 另有 302 站未列出。
+> 另有 313 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 26 站未列出。
 
-> 90 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 95 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

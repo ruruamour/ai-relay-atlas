@@ -1,6 +1,6 @@
 # flux-1.1-pro
 
-> 131 站提供 · 正常价 126 站 · 名义中位价 **$0.45**/次 · 实付中位价 **¥0.5808**/次（60 站公开充值价） · 推算，未对账
+> 136 站提供 · 正常价 130 站 · 名义中位价 **$0.45**/次 · 实付中位价 **¥0.5808**/次（64 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,41 +27,41 @@
 | 15 | `api.relayrouter.ai` | ¥0.4434 | $0.066 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
 | 16 | `openlux.zhongzhuan.chat` | ¥0.4434 | $0.066 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
 | 17 | `new.foxi-api.cn` | ¥0.45 | $0.45 | 1 | 纯AZ | flux-1.1-pro |
-| 18 | `api.tidewhisper-ai.xyz` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 19 | `gzxbykj.com` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 20 | `yunwu.org` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 21 | `v2.cloudmist.cloud` | ¥0.5099 | $0.0759 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 22 | `www.vectronode.com` | ¥0.5321 | $0.0792 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 23 | `apiclaw.cn` | ¥0.5365 | $0.07986 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 24 | `newapi.xueai.me` | ¥0.5365 | $0.07986 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 25 | `wodapis.com` | ¥0.5365 | $0.07986 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 26 | `ciyuan.today` | ¥0.5542 | $0.0825 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 27 | `gptapi.top` | ¥0.5542 | $0.0825 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 28 | `makerend.com` | ¥0.5542 | $0.0825 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 29 | `moliapi.com` | ¥0.5587 | $0.08316 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 30 | `ai-api.cc` | ¥0.5764 | $0.0858 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 31 | `nodapi.com` | ¥0.5853 | $0.08712 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 32 | `anyaigc.ai` | ¥0.5986 | $0.0891 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 33 | `sheepaiplus.top` | ¥0.6207 | $0.0924 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 34 | `xiguapi.icu` | ¥0.6207 | $0.0924 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 35 | `api.88api.chat` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 36 | `api.88api.shop` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 37 | `api.videocaptioner.cn` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 38 | `new.aigc2d.com` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 39 | `oyy-ai.xyz` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 40 | `api.ifopen.ai` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
-| 41 | `api2.aigcbest.top` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
-| 42 | `infai.cc` | ¥0.7006 | $0.10428 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 43 | `api.nixapi.com` | ¥0.7493 | $0.11154 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 44 | `aiwuje.com` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 45 | `api.cursorai.art` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 46 | `api.echoflowai.cc` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 47 | `api.n1n.ai` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 48 | `api.quickrouter.ai` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 49 | `jeniya.cn` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 50 | `linoapi.com` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 18 | `4zapi.com` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 19 | `api.tidewhisper-ai.xyz` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 20 | `gzxbykj.com` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 21 | `yunwu.org` | ¥0.4877 | $0.0726 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 22 | `api.antmoo.cc` | ¥0.5099 | $0.0759 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 23 | `v2.cloudmist.cloud` | ¥0.5099 | $0.0759 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 24 | `www.vectronode.com` | ¥0.5321 | $0.0792 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 25 | `apiclaw.cn` | ¥0.5365 | $0.07986 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 26 | `newapi.xueai.me` | ¥0.5365 | $0.07986 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 27 | `wodapis.com` | ¥0.5365 | $0.07986 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 28 | `ciyuan.today` | ¥0.5542 | $0.0825 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 29 | `gptapi.top` | ¥0.5542 | $0.0825 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 30 | `makerend.com` | ¥0.5542 | $0.0825 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 31 | `moliapi.com` | ¥0.5587 | $0.08316 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 32 | `ai-api.cc` | ¥0.5764 | $0.0858 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 33 | `nodapi.com` | ¥0.5853 | $0.08712 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 34 | `anyaigc.ai` | ¥0.5986 | $0.0891 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 35 | `sheepaiplus.top` | ¥0.6207 | $0.0924 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 36 | `xiguapi.icu` | ¥0.6207 | $0.0924 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 37 | `api.88api.chat` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 38 | `api.88api.shop` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 39 | `api.videocaptioner.cn` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 40 | `lanbuff.app` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 41 | `new.aigc2d.com` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 42 | `oyy-ai.xyz` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 43 | `api.ifopen.ai` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
+| 44 | `api2.aigcbest.top` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
+| 45 | `infai.cc` | ¥0.7006 | $0.10428 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 46 | `api.nixapi.com` | ¥0.7493 | $0.11154 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 47 | `aiwuje.com` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 48 | `api.cursorai.art` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 49 | `api.echoflowai.cc` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
+| 50 | `api.n1n.ai` | ¥0.8868 | $0.132 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
 
-> 另有 10 站未列出。
+> 另有 14 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 16 站未列出。
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

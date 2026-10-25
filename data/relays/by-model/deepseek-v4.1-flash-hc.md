@@ -1,6 +1,6 @@
 # deepseek-v4.1-flash-hc
 
-> 31 站提供 · 正常价 24 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（17 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 25 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -36,8 +36,9 @@
 | 2 | `sub2api.xybbz.xyz` | $0.12 / $0.48 | Kimi-k3 | 0.06 | deepseek-v4.1-flash-hc |
 | 3 | `88.scxai.top` | $0.15 / $0.6 | 创世の鑫元 | 0.15 | deepseek-v4.1-flash-hc |
 | 4 | `zhiyuanapis.top` | $0.15 / $0.6 | 国内模型 | 0.15 | deepseek-v4.1-flash-hc |
-| 5 | `xindu.xyz` | $0.2 / $0.8 | 国模全系列 | 0.2 | deepseek-v4.1-flash-hc |
-| 6 | `tokenstation.top` | $0.6 / $2.4 | 国模 | 0.6 | deepseek-v4.1-flash-hc |
-| 7 | `api.passionapi.com` | $2 / $8 | 按量【国模渠道】 | 1 | deepseek-v4.1-flash-hc |
+| 5 | `flashcoding.ai` | $0.2 / $0.8 | 国产低价-均价0.1x | 1 | deepseek-v4.1-flash-hc |
+| 6 | `xindu.xyz` | $0.2 / $0.8 | 国模全系列 | 0.2 | deepseek-v4.1-flash-hc |
+| 7 | `tokenstation.top` | $0.6 / $2.4 | 国模 | 0.6 | deepseek-v4.1-flash-hc |
+| 8 | `api.passionapi.com` | $2 / $8 | 按量【国模渠道】 | 1 | deepseek-v4.1-flash-hc |
 
 > 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-flash-lite-latest-thinking-*
 
-> 35 站提供 · 正常价 22 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.425**/1M 输入（19 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 23 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.45**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,13 +22,14 @@
 | 10 | `api.hoxkai.top` | ¥0.425 | $0.425 / $2.55 | 1 | gemini | gemini-flash-lite-latest-thinking-* |
 | 11 | `api.xiaoyaoxx.cn` | ¥0.475 | $0.475 / $2.85 | 1 | vt  geminni | gemini-flash-lite-latest-thinking-* |
 | 12 | `botcf.com` | ¥0.55 | $0.55 / $3.3 | 1 | 💎gemini-official | gemini-flash-lite-latest-thinking-* |
-| 13 | `mgrouter.com` | ¥0.68 | $0.1 / $0.6 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest-thinking-* |
-| 14 | `v3.yunai.link` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-flash-lite-latest-thinking-* |
-| 15 | `api.4xapi.com` | ¥1.277 | $0.175 / $1.05 | 7.3 | gemini-官转 | gemini-flash-lite-latest-thinking-* |
-| 16 | `api.zhiyunai168.com` | ¥1.75 | $0.875 / $5.25 | 2 | gemini 官转高级 | gemini-flash-lite-latest-thinking-* |
-| 17 | `console.qqqrouter.ai` | ¥1.75 | $0.25 / $1.5 | 7 | Gemini_Vertex直连 | gemini-flash-lite-latest-thinking-* |
-| 18 | `m78.newapi.botcf.com` | ¥3.975 | $0.5445 / $3.267 | 7.3 | 😡Gemini-Vertex | gemini-flash-lite-latest-thinking-* |
-| 19 | `api2.4xapi.com` | ¥4.562 | $0.625 / $3.75 | 7.3 | Gemini-vertex | gemini-flash-lite-latest-thinking-* |
+| 13 | `xn--15q04w3tg4kio0a.com` | ¥0.55 | $0.55 / $3.3 | 1 | 💎gemini-official | gemini-flash-lite-latest-thinking-* |
+| 14 | `mgrouter.com` | ¥0.68 | $0.1 / $0.6 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest-thinking-* |
+| 15 | `v3.yunai.link` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-flash-lite-latest-thinking-* |
+| 16 | `api.4xapi.com` | ¥1.277 | $0.175 / $1.05 | 7.3 | gemini-官转 | gemini-flash-lite-latest-thinking-* |
+| 17 | `api.zhiyunai168.com` | ¥1.75 | $0.875 / $5.25 | 2 | gemini 官转高级 | gemini-flash-lite-latest-thinking-* |
+| 18 | `console.qqqrouter.ai` | ¥1.75 | $0.25 / $1.5 | 7 | Gemini_Vertex直连 | gemini-flash-lite-latest-thinking-* |
+| 19 | `m78.newapi.botcf.com` | ¥3.975 | $0.5445 / $3.267 | 7.3 | 😡Gemini-Vertex | gemini-flash-lite-latest-thinking-* |
+| 20 | `api2.4xapi.com` | ¥4.562 | $0.625 / $3.75 | 7.3 | Gemini-vertex | gemini-flash-lite-latest-thinking-* |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -38,4 +39,4 @@
 | 2 | `new.yunai.link` | $0.15 / $0.6 | Gemini-T1 | 1.5 | gemini-flash-lite-latest-thinking-* |
 | 3 | `officesai.top` | $7 / $42 | Image绘图 4K | 1 | gemini-flash-lite-latest-thinking-* |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

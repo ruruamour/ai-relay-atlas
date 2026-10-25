@@ -1,6 +1,6 @@
 # nano-banana-2-lite
 
-> 24 站提供 · 正常价 16 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.11**/次（9 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 17 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.08**/次（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,14 +11,15 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `⚠️codelypixverse.com` | ¥0.02 | $0.02 | 1 | default | nano-banana-2-lite |
-| 2 | `gptnb.ai` | ¥0.0336 | $0.0336 | 1 | API | nano-banana-2-lite |
-| 3 | `oneapi.gptnb.ai` | ¥0.0336 | $0.0336 | 1 | API | nano-banana-2-lite |
-| 4 | `api.jui87.com` | ¥0.05 | $0.05 | 1 | 生图分组 | nano-banana-2-lite |
-| 5 | `newapi.prorisehub.com` | ¥0.11 | $0.11 | 1 | default | nano-banana-2-lite |
-| 6 | `tokenmarket.cheap` | ¥0.121 | $0.121 | 1 | 图像(聚合渠道) | nano-banana-2-lite |
-| 7 | `ccdox.0755.click` | ¥0.15 | $0.15 | 1 | 画图 | nano-banana-2-lite |
-| 8 | `hiapi.ai` | ¥0.2409 | $0.033 | 7.3 | default | Nano-Banana-2-Lite |
-| 9 | `api.sbclaude.com` | ¥0.365 | $0.05 | 7.3 | Banaba-大香蕉-官方 | nano-banana-2-lite |
+| 2 | `goapi.gptnb.ai` | ¥0.0336 | $0.0336 | 1 | API | nano-banana-2-lite |
+| 3 | `gptnb.ai` | ¥0.0336 | $0.0336 | 1 | API | nano-banana-2-lite |
+| 4 | `oneapi.gptnb.ai` | ¥0.0336 | $0.0336 | 1 | API | nano-banana-2-lite |
+| 5 | `api.jui87.com` | ¥0.05 | $0.05 | 1 | 生图分组 | nano-banana-2-lite |
+| 6 | `newapi.prorisehub.com` | ¥0.11 | $0.11 | 1 | default | nano-banana-2-lite |
+| 7 | `tokenmarket.cheap` | ¥0.121 | $0.121 | 1 | 图像(聚合渠道) | nano-banana-2-lite |
+| 8 | `ccdox.0755.click` | ¥0.15 | $0.15 | 1 | 画图 | nano-banana-2-lite |
+| 9 | `hiapi.ai` | ¥0.2409 | $0.033 | 7.3 | default | Nano-Banana-2-Lite |
+| 10 | `api.sbclaude.com` | ¥0.365 | $0.05 | 7.3 | Banaba-大香蕉-官方 | nano-banana-2-lite |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +33,4 @@
 | 6 | `api.yescale.io` | $1.25 | task | 1.25 | nano-banana-2-lite |
 | 7 | `api.nionio2026.xyz` | $1.5 | image | 1 | [绘图R]nano-banana-2-lite |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

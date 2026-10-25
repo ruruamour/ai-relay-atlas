@@ -1,6 +1,6 @@
 # gpt-5.5-pro
 
-> 273 站提供 · 正常价 236 站 · 名义中位价 **$88.5**/1M 输入 · 实付中位价 **¥133**/1M 输入（152 站公开充值价） · 推算，未对账
+> 283 站提供 · 正常价 244 站 · 名义中位价 **$88.5**/1M 输入 · 实付中位价 **¥133**/1M 输入（160 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -48,20 +48,20 @@
 | 36 | `test-ssl.bltcy.ai` | ¥90 | $90 / $540 | 1 | ssvip | gpt-5.5-pro |
 | 37 | `top.qingyuntop.top` | ¥96 | $96 / $576 | 1 | AZ渠道OpenAI | gpt-5.5-pro |
 | 38 | `api.34ku.com` | ¥97.5 | $97.5 / $585 | 1 | default | gpt-5.5-pro |
-| 39 | `api.tidewhisper-ai.xyz` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
-| 40 | `gzxbykj.com` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
-| 41 | `yunwu.org` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
-| 42 | `v2.cloudmist.cloud` | ¥102 | $15.18 / $91.08 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
-| 43 | `mgrouter.com` | ¥102 | $15 / $90 | 6.8 | OpenAI-原厂标准版-5折 | gpt-5.5-pro |
-| 44 | `api.openai-labs.com` | ¥105 | $105 / $630 | 1 | openai-max | gpt-5.5-pro |
-| 45 | `beehears.com` | ¥105 | $105 / $630 | 1 | 🌏️ OpenAI 官转 | gpt-5.5-pro |
-| 46 | `images.beehears.com` | ¥105 | $105 / $630 | 1 | 🌏️ OpenAI 官转 | gpt-5.5-pro |
-| 47 | `linkapi.ai` | ¥105 | $105 / $630 | 1 | OpenaiEA | gpt-5.5-pro |
-| 48 | `ucenter.beehears.com` | ¥105 | $105 / $630 | 1 | 🌏️ OpenAI 官转 | gpt-5.5-pro |
-| 49 | `wyh.apijing.com` | ¥105 | $105 / $630 | 1 | openrouter | gpt-5.5-pro |
-| 50 | `www.vectronode.com` | ¥106.4 | $15.84 / $95.04 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 39 | `4zapi.com` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 40 | `api.tidewhisper-ai.xyz` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 41 | `gzxbykj.com` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 42 | `yunwu.org` | ¥97.55 | $14.52 / $87.12 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 43 | `api.antmoo.cc` | ¥102 | $15.18 / $91.08 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 44 | `v2.cloudmist.cloud` | ¥102 | $15.18 / $91.08 | 6.718 | Azure-Gpt-4 | gpt-5.5-pro |
+| 45 | `mgrouter.com` | ¥102 | $15 / $90 | 6.8 | OpenAI-原厂标准版-5折 | gpt-5.5-pro |
+| 46 | `api.openai-labs.com` | ¥105 | $105 / $630 | 1 | openai-max | gpt-5.5-pro |
+| 47 | `beehears.com` | ¥105 | $105 / $630 | 1 | 🌏️ OpenAI 官转 | gpt-5.5-pro |
+| 48 | `images.beehears.com` | ¥105 | $105 / $630 | 1 | 🌏️ OpenAI 官转 | gpt-5.5-pro |
+| 49 | `linkapi.ai` | ¥105 | $105 / $630 | 1 | OpenaiEA | gpt-5.5-pro |
+| 50 | `ucenter.beehears.com` | ¥105 | $105 / $630 | 1 | 🌏️ OpenAI 官转 | gpt-5.5-pro |
 
-> 另有 102 站未列出。
+> 另有 110 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 34 站未列出。
 
-> 37 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

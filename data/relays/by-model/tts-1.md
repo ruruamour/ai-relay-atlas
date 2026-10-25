@@ -1,6 +1,6 @@
 # tts-1
 
-> 251 站提供 · 正常价 120 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥30**/1M 输入（111 站公开充值价） · 推算，未对账
+> 262 站提供 · 正常价 126 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥30**/1M 输入（117 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,41 +27,41 @@
 | 15 | `ai.soruxgpt.com` | ¥13.5 | $13.5 / $13.5 | 1 | azure-low | tts-1 |
 | 16 | `cnapi.kksj.org` | ¥13.5 | $13.5 / $13.5 | 1 | default | tts-1 |
 | 17 | `api.bltcy.ai` | ¥15 | $15 / $15 | 1 | svip | tts-1 |
-| 18 | `api.eido.top` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 19 | `api.hopeai.cc` | ¥15 | $15 / $15 | 1 | default | tts-1-1106 |
-| 20 | `api.qinzhiai.com` | ¥15 | $15 / $15 | 1 | az | tts-1 |
-| 21 | `api.routeeasy.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 22 | `api.wanapis.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 23 | `api.yuboar.com` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
-| 24 | `apilio.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 25 | `dev.novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 26 | `dn.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 27 | `gptimgaz.aiearth.dev` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
-| 28 | `gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
-| 29 | `i-sh.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 30 | `i.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 31 | `newapi.link` | ¥15 | $15 / $15 | 1 | 备用 | tts-1-1106 |
-| 32 | `newapi.tu-zi.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 33 | `novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 34 | `oneapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
-| 35 | `platform.anyrouter.ai` | ¥15 | $15 / $15 | 1 | Azure4 | tts-1 |
-| 36 | `rockapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 37 | `test-ssl.bltcy.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 38 | `www.shenlanqaq.com` | ¥15 | $15 / $15 | 1 | 自部署 | tts-1 |
-| 39 | `zen-ai.top` | ¥15 | $15 / $15 | 1 | default | tts-1-1106 |
-| 40 | `emoxia.meta-api.vip` | ¥18.09 | $60.3 / $60.3 | 0.3 | vip | tts-1 |
-| 41 | `api.34ku.com` | ¥19.5 | $19.5 / $19.5 | 1 | default | tts-1 |
-| 42 | `api.annyun.cn` | ¥20 | $20 / $20 | 1 | default | tts-1 |
-| 43 | `ai.t8star.org` | ¥20.25 | $15 / $15 | 1.35 | svip | tts-1 |
-| 44 | `open.xiaojingai.com` | ¥21 | $21 / $21 | 1 | azure2 | tts-1 |
-| 45 | `import.deepwl.net` | ¥21.9 | $3 / $45 | 7.3 | gpt | tts-1-1106 |
-| 46 | `35.aigcbest.top` | ¥22.5 | $15 / $15 | 1.5 | default | tts-1 |
-| 47 | `ai.astrumflow.com` | ¥22.5 | $22.5 / $22.5 | 1 | 官转OpenAI | tts-1 |
-| 48 | `api.ocoolai.com` | ¥22.5 | $22.5 / $22.5 | 1 | default | tts-1 |
-| 49 | `api.xhuoai.com` | ¥22.5 | $15 / $15 | 1.5 | default | tts-1 |
-| 50 | `learn-ai.top` | ¥22.5 | $22.5 / $22.5 | 1 | openai | tts-1 |
+| 18 | `api.chatgptid.net` | ¥15 | $30 / $30 | 0.5 | vip | tts-1 |
+| 19 | `api.eido.top` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 20 | `api.hopeai.cc` | ¥15 | $15 / $15 | 1 | default | tts-1-1106 |
+| 21 | `api.qinzhiai.com` | ¥15 | $15 / $15 | 1 | az | tts-1 |
+| 22 | `api.routeeasy.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 23 | `api.wanapis.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 24 | `api.yuboar.com` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
+| 25 | `apilio.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 26 | `dev.novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 27 | `dn.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 28 | `goapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
+| 29 | `gptimgaz.aiearth.dev` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
+| 30 | `gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
+| 31 | `i-sh.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 32 | `i.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 33 | `newapi.link` | ¥15 | $15 / $15 | 1 | 备用 | tts-1-1106 |
+| 34 | `newapi.tu-zi.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 35 | `novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 36 | `oneapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
+| 37 | `platform.anyrouter.ai` | ¥15 | $15 / $15 | 1 | Azure4 | tts-1 |
+| 38 | `rockapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 39 | `test-ssl.bltcy.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 40 | `www.shenlanqaq.com` | ¥15 | $15 / $15 | 1 | 自部署 | tts-1 |
+| 41 | `zen-ai.top` | ¥15 | $15 / $15 | 1 | default | tts-1-1106 |
+| 42 | `emoxia.meta-api.vip` | ¥18.09 | $60.3 / $60.3 | 0.3 | vip | tts-1 |
+| 43 | `api.34ku.com` | ¥19.5 | $19.5 / $19.5 | 1 | default | tts-1 |
+| 44 | `api.annyun.cn` | ¥20 | $20 / $20 | 1 | default | tts-1 |
+| 45 | `ai.t8star.org` | ¥20.25 | $15 / $15 | 1.35 | svip | tts-1 |
+| 46 | `open.xiaojingai.com` | ¥21 | $21 / $21 | 1 | azure2 | tts-1 |
+| 47 | `import.deepwl.net` | ¥21.9 | $3 / $45 | 7.3 | gpt | tts-1-1106 |
+| 48 | `35.aigcbest.top` | ¥22.5 | $15 / $15 | 1.5 | default | tts-1 |
+| 49 | `ai.astrumflow.com` | ¥22.5 | $22.5 / $22.5 | 1 | 官转OpenAI | tts-1 |
+| 50 | `api.ocoolai.com` | ¥22.5 | $22.5 / $22.5 | 1 | default | tts-1 |
 
-> 另有 61 站未列出。
+> 另有 67 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -77,4 +77,4 @@
 | 8 | `vip.zen-ai.top` | $45 / $45 | default | 3 | tts-1 |
 | 9 | `api.hy88.my` | $48 / $48 | minimax | 0.8 | tts-1 |
 
-> 131 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 136 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

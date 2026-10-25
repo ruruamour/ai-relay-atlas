@@ -1,6 +1,6 @@
 # doubao-seedream-5-0-flash
 
-> 22 站提供 · 正常价 12 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.12**/次（6 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 13 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.12**/次（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,6 +16,7 @@
 | 4 | `hetune.top` | ¥0.12 | $0.12 | 1 | 生图统一分组 | doubao-seedream-5-0-flash |
 | 5 | `api.apipro.ai` | ¥0.12 | $0.0171429 | 7 | doubao | doubao-seedream-5-0-flash-260915 |
 | 6 | `jiugx.com` | ¥0.242 | $0.242 | 1 | default | doubao-seedream-5-0-flash-260915 |
+| 7 | `ai.mowen.vip` | ¥0.3679 | $0.055 | 6.6892 | default | doubao-seedream-5-0-flash-260915 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
