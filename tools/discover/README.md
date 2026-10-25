@@ -21,7 +21,7 @@
 | urlscan 公共索引 | `urlscan_harvest.py` | 按公开页面标题提取被动扫描索引中的域名，不提交扫描、不保存 IP/路径 |
 | 首页卡网指纹 | `shop_fingerprint.py` | 只读首页，保存系统/卡网关键词命中，不保存正文或跳转参数；结果进入 `data/raw/sources/shop-fingerprint-candidates.jsonl` |
 | 候选统一索引 | `index_candidates.py` | 汇总多路来源、探活、接口命中、主表和卡网审核状态，一行一域名 |
-| 卡网审核表 | `build_shop_review.py` | 从首页指纹生成 `data/shops/candidates.csv`，不自动进入已确认店铺表 |
+| 卡网审核表 | `build_shop_review.py` | 从首页指纹和可选浏览器复核摘要生成 `data/shops/candidates.csv`，不自动进入已确认店铺表 |
 
 ## Veridrop（浏览器控制台）
 

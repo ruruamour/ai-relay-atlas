@@ -137,6 +137,6 @@ python3 tools/discover/faka_fofa.py api
 ## 八、目前进度
 
 - 已用聚合站：430 家店（自建 83 家）
-- Veridrop / GitHub / GitLab / CT / urlscan / npm / Docker Hub / Hugging Face / Bing 首页指纹已筛出 183 个中高置信候选，尚未自动并入商品店表
+- Veridrop / GitHub / GitLab / CT / urlscan / npm / Docker Hub / Hugging Face / Bing 首页指纹已筛出 183 个中高置信候选；其中 3 个已浏览器确认首页商品标记，仍未自动并入商品店表
 - FOFA 这条路**尚未执行**（当前浏览器未登录），查询串与解析脚本已就绪
 - 预期：完成人工确认后再把自建站和纯卡网分别入库，避免把 API 网关误算成商品店

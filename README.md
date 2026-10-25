@@ -179,7 +179,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | 豆包 | 788 | 720 | [doubao-seedream-5-0](data/relays/by-model/doubao-seedream-5-0.md) · [doubao-seedance-2-0](data/relays/by-model/doubao-seedance-2-0.md) · [doubao-seed-2-1-pro](data/relays/by-model/doubao-seed-2-1-pro.md) |
 | MiniMax | 323 | 1035 | [minimax-m3](data/relays/by-model/minimax-m3.md) · [minimax-m2.7](data/relays/by-model/minimax-m2.7.md) · [minimax-m2.5](data/relays/by-model/minimax-m2.5.md) |
 | 混元 | 57 | 413 | [hy3](data/relays/by-model/hy3.md) · [hy4-preview](data/relays/by-model/hy4-preview.md) · [hy4](data/relays/by-model/hy4.md) |
-| Llama | 119 | 238 | [llama-3.2-11b-vision-instruct](data/relays/by-model/llama-3.2-11b-vision-instruct.md) · [llama-3.2-90b-vision-instruct](data/relays/by-model/llama-3.2-90b-vision-instruct.md) · [llama-3.2-1b-instruct](data/relays/by-model/llama-3.2-1b-instruct.md) |
+| Llama | 119 | 238 | [llama-3.2-11b-vision-instruct](data/relays/by-model/llama-3.2-11b-vision-instruct.md) · [llama-3.2-90b-vision-instruct](data/relays/by-model/llama-3.2-90b-vision-instruct.md) · [llama-3.3-70b-instruct](data/relays/by-model/llama-3.3-70b-instruct.md) |
 | 图像/视频/音频 | 1024 | 453 | [z-image-turbo](data/relays/by-model/z-image-turbo.md) · [viduq3-turbo](data/relays/by-model/viduq3-turbo.md) · [happyhorse-1.1-t2v](data/relays/by-model/happyhorse-1.1-t2v.md) |
 | 其他 | 4426 | 1087 | [bge-reranker-v2-m3](data/relays/by-model/bge-reranker-v2-m3.md) · [bce-reranker-base-v1](data/relays/by-model/bce-reranker-base-v1.md) · [sparkdesk-v3.1](data/relays/by-model/sparkdesk-v3.1.md) |
 

@@ -11,7 +11,16 @@ def main():
     ap.add_argument('--input', default='data/raw/sources/shop-fingerprint-candidates.jsonl')
     ap.add_argument('--relays', default='data/relays/relays.csv')
     ap.add_argument('--out', default='data/shops/candidates.csv')
+    ap.add_argument('--browser-review', default='data/raw/sources/shop-browser-review.jsonl')
     args = ap.parse_args()
+
+    browser = {}
+    review_path = Path(args.browser_review)
+    if review_path.exists():
+        for line in review_path.read_text(encoding='utf-8').splitlines():
+            if line.strip():
+                rec = json.loads(line)
+                browser[rec['domain']] = rec
 
     with open(args.relays, encoding='utf-8', newline='') as fh:
         relay = {r['domain'] for r in csv.DictReader(fh)}
@@ -38,7 +47,12 @@ def main():
                 'ai_hits': '/'.join(r.get('ai_hits') or []),
                 'relay_overlap': 'yes' if known else 'no',
                 'last_checked': r.get('checked', ''),
-                'notes': '已有中转站记录，需区分 API 网关与商品店' if known else '待人工确认在售与商品类型',
+                'browser_review': (browser.get(r['domain']) or {}).get('review', ''),
+                'rendered_title': (browser.get(r['domain']) or {}).get('rendered_title', ''),
+                'notes': ('已有中转站记录，需区分 API 网关与商品店' if known else
+                          ('浏览器确认首页有商品/卡密相关内容，仍需核对商品与在售状态'
+                           if (browser.get(r['domain']) or {}).get('review') == 'rendered_shop'
+                           else '待人工确认在售与商品类型')),
             })
     rows.sort(key=lambda r: (0 if r['likelihood'] == 'high' else 1, r['domain']))
     out = Path(args.out)

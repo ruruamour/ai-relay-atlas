@@ -30,6 +30,7 @@
 - `unified-candidate-probe.jsonl` / `unified-candidate-scan.json`：最后一批补验证的 19 个未覆盖域名，19/19 返回 HTTP 200，17 个命中公开接口。
 - `veridrop-scan.json`：上述 Veridrop 补验证中 1,053 个 2xx/3xx 域名的公开接口结果，命中 584 个。
 - `shop-fingerprint-candidates.jsonl`：首页卡网/系统指纹候选，**不是已确认商品店**；审核清单为 `data/shops/candidates.csv`。
+- `shop-browser-review.jsonl`：4 个高置信候选的浏览器渲染摘要；3 个首页显示商品/卡密相关内容，1 个访问受限。只保存标题、长度和布尔标记，不保存正文。
 - `candidate-index.jsonl`：把上述来源、探活、接口命中、主表状态和卡网指纹整理成一行一域名的复查索引；不替代主表。
 
 来源候选和确认主表分离：只有扫描到公开模型/价格目录并通过合并去重的站点才进入 `data/relays/relays.csv`；卡网候选不会自动进入 `data/shops/shops.csv`。
