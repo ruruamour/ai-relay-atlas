@@ -7,4 +7,5 @@ python3 tools/normalize_shops.py
 python3 tools/generate_by_model.py
 python3 tools/build_stats.py
 python3 tools/build_readme.py
+python3 tools/build_readme_en.py
 bash tools/check_secrets.sh

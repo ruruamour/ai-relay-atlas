@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) [![Data: CC BY-NC 4.0](https://img.shields.io/badge/data-CC%20BY--NC%204.0-lightgrey.svg)](DATA-LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+**简体中文** · [English README](README.en.md)
+
 把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。**本阶段以收全名单为主**，细节后续补充。
 
 > ⚠️ 仅收录公开信息，不提供购买入口、不参与交易、不担保。价格为推算值、未对账，以原站为准。见 [DISCLAIMER.md](DISCLAIMER.md)。
@@ -11,6 +13,7 @@
 
 - [数据概览](#stats)
 - [快速开始](#quickstart)
+- [安全与范围](#safety)
 - [中转站 · 综合名单](#relays)
 - [中转站 · 模型覆盖](#coverage)
 - [中转站 · 疑似同后端](#backend)
@@ -40,6 +43,8 @@
 
 <a id="quickstart"></a>
 ## 快速开始
+
+这是一个公开信息研究项目：候选、已确认中转站和卡网审核项始终分开。
 
 ```bash
 git clone https://github.com/ruruamour/ai-relay-atlas.git && cd ai-relay-atlas
@@ -400,15 +405,29 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | [pricing-basics.md](docs/pricing-basics.md) | 倍率/价格怎么算、标记含义 |
 | [glossary.md](docs/glossary.md) | 黑话表 |
 | [how-to-choose.md](docs/how-to-choose.md) | 怎么选上游 / 避坑 |
+| [internet-measurement.md](docs/internet-measurement.md) | 互联网测量、候选发现与合规边界 |
+| [find-faka-shops.md](docs/find-faka-shops.md) | 用公开指纹找自建卡网 |
+| [data/raw/sources/README.md](data/raw/sources/README.md) | 原始来源与验证证据清单 |
 | [tools/README.md](tools/README.md) | 脚本与更新流程 |
+
+[↑ 目录](#toc)
+
+<a id="safety"></a>
+## 安全与范围
+
+- 只读取公开页面和已公开的状态/价格/模型目录接口，使用低并发 GET。
+- 不登录、不注册、不爆破、不测漏洞、不调用推理接口。
+- 不保存 API Key、Cookie、密码、IP、端口、响应正文、跳转路径/查询参数或购买直达链接。
 
 [↑ 目录](#toc)
 
 <a id="sources"></a>
 ## 数据来源
 
-- 中转站：Veridrop 目录、GitHub 公开名单、证书透明日志（crt.sh）、对已知域名的子域/后缀扩展扫描；站点信息与价格取自各站公开的 `/api/status`、`/api/pricing`、Sub2API `/api/v1/settings/public`、`/api/v1/model-plaza`
-- 卡网：OpenPrice、水獭比价(shuita.xyz)、PriceAI、AI号探、AiFaKa
+- 中转站：Veridrop、GitHub/GitLab 公开项目、crt.sh/Certspotter、urlscan、npm、Docker Hub、Hugging Face、Sourcegraph、Bing、公开目录和定向子域扩展。
+- 站点信息与价格取自各站公开的 `/api/status`、`/api/pricing`、Sub2API `/api/v1/settings/public`、`/api/v1/model-plaza`。
+- 卡网：OpenPrice、水獭比价(shuita.xyz)、PriceAI、AI号探、AiFaKa；新增首页指纹仅作候选。
+- 来源证据清单：[data/raw/sources/README.md](data/raw/sources/README.md)
 - 原始报价版权归各来源站，见 [DATA-LICENSE.md](DATA-LICENSE.md)
 
 <a id="license"></a>
@@ -416,11 +435,12 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 - 代码 **MIT** · [LICENSE](LICENSE)
 - 编排与整理 **CC BY-NC 4.0** · [DATA-LICENSE.md](DATA-LICENSE.md)
+- English: [DATA-LICENSE.en.md](DATA-LICENSE.en.md) · [DISCLAIMER.en.md](DISCLAIMER.en.md)
 - 原始报价版权归各来源站
 
 <a id="contributing"></a>
 ## 贡献
 
-见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+见 [CONTRIBUTING.md](CONTRIBUTING.md) · [English contribution guide](CONTRIBUTING.en.md)。
 
 [↑ 回到目录](#toc)

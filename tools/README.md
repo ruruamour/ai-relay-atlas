@@ -1,5 +1,7 @@
 # tools/ · 脚本
 
+[English](README.en.md)
+
 全部手动运行，无 CI。Python 3.10+；`dedupe.py` 需要 `pip install tldextract`。
 
 ## 日常更新
@@ -34,7 +36,8 @@ bash tools/build.sh
 | `gen_candidates.py` | 前缀/换后缀生成候选，跳过已收录、已扫描；`--resolve` 先做 DNS 过滤并去掉泛解析父域 |
 | `generate_by_model.py` | 生成 `data/relays/by-model/` |
 | `build_stats.py` | 生成 `data/stats.md` |
-| `build_readme.py` | 生成 `README.md` |
+| `build_readme.py` | 生成中文 `README.md` |
+| `build_readme_en.py` | 生成英文 `README.en.md` |
 | `query.py` | 命令行查询：`model` / `site` / `find` |
 | `detect_substitution.py` | 掺水嫌疑检测：旗舰模型挂牌价 < 全网中位价 10% 的站，输出 `data/relays/suspicious.csv`（只出疑似，不自动标注） |
 | `monitor.py` | 站点监控：存活、延迟、某模型是否在售、最低价，历史落盘；`report` / `drift` 出报告；`--probe` 需 `data/monitor/keys.txt` |

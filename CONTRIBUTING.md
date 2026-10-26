@@ -1,5 +1,7 @@
 # 贡献指南
 
+[English](CONTRIBUTING.en.md)
+
 欢迎提交新站、纠错、补充文档。请遵循以下格式。
 
 ## 提交中转站
@@ -34,7 +36,7 @@ shop,hosting,platform,system,system_type,domain,categories,price_range,source,la
 - 未公开的私有数据或账号凭据
 
 ## 关于 README
-`README.md`、`data/stats.md`、`data/relays/by-model/` 都由脚本从数据生成，**请勿直接编辑**。改数据后运行：
+`README.md`、`README.en.md`、`data/stats.md`、`data/relays/by-model/` 都由脚本从数据生成，**请勿直接编辑**。改数据后运行：
 
 ```bash
 bash tools/build.sh

@@ -1,5 +1,7 @@
 # 数据授权
 
+[English](DATA-LICENSE.en.md)
+
 本仓库分三类内容，授权分别如下：
 
 ## 1. 代码（`tools/`、`scripts`）
