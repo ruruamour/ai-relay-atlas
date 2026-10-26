@@ -1,6 +1,6 @@
 # claude-sonnet-4-6
 
-> 1982 站提供 · 正常价 1567 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥3**/1M 输入（1166 站公开充值价） · 推算，未对账
+> 1982 站提供 · 正常价 1566 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥3**/1M 输入（1166 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -110,14 +110,14 @@
 | 41 | `pureai.ink` | $0.3 / $1.5 | B-Kiro-Cache 90+ | 0.1 | claude-sonnet-4-6 |
 | 42 | `sub.skypoem.top` | $0.3 / $1.5 | claude-kiro | 0.1 | claude-sonnet-4-6 |
 | 43 | `www.largechestnut.com` | $0.3 / $1.5 | claude-kiro | 0.1 | claude-sonnet-4-6 |
-| 44 | `www.mofas.one` | $0.3 / $1.5 | anti-claude | 0.1 | claude-sonnet-4-6 |
-| 45 | `www.nmoon.cc` | $0.3 / $1.5 | kiro 华强北定制版 | 0.1 | claude-sonnet-4-6 |
-| 46 | `yyds.chybenzun.top` | $0.3 / $1.5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-sonnet-4-6 |
-| 47 | `zhiyuanapis.top` | $0.3 / $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4.6 |
-| 48 | `api.robinsonai.shop` | $0.324 / $1.62 | Claude Pro 订阅 | 0.702 | claude-sonnet-4-6 |
-| 49 | `77api.top` | $0.36 / $1.8 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-sonnet-4-6 |
-| 50 | `api.relaylink.cloud` | $0.36 / $1.8 | claude kiro组 | 0.12 | claude-sonnet-4-6 |
+| 44 | `www.nmoon.cc` | $0.3 / $1.5 | kiro 华强北定制版 | 0.1 | claude-sonnet-4-6 |
+| 45 | `yyds.chybenzun.top` | $0.3 / $1.5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-sonnet-4-6 |
+| 46 | `zhiyuanapis.top` | $0.3 / $1.5 | Claude-Kiro | 0.1 | claude-sonnet-4.6 |
+| 47 | `api.robinsonai.shop` | $0.324 / $1.62 | Claude Pro 订阅 | 0.702 | claude-sonnet-4-6 |
+| 48 | `77api.top` | $0.36 / $1.8 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-sonnet-4-6 |
+| 49 | `api.relaylink.cloud` | $0.36 / $1.8 | claude kiro组 | 0.12 | claude-sonnet-4-6 |
+| 50 | `api.tmiaow.cn` | $0.36 / $1.8 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-sonnet-4-6 |
 
-> 另有 351 站未列出。
+> 另有 350 站未列出。
 
-> 415 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 416 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

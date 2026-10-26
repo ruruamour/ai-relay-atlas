@@ -14,52 +14,52 @@
 | 2 | `api.gptzzz.xyz` | ¥0.0525 | $0.0525 / $0.21 | 1 | GPT | MiniMax-M3 |
 | 3 | `gpt.gptzzz.xyz` | ¥0.0525 | $0.0525 / $0.21 | 1 | GPT | MiniMax-M3 |
 | 4 | `api.yunnet.top` | ¥0.06 | $0.06 / $0.24 | 1 | MiniMax | MiniMax-M3 |
-| 5 | `closedai.kylenqaq.com` | ¥0.084 | $0.084 / $0.336 | 1 | 国模3 | minimax-m3 |
-| 6 | `cortexlane.cloud` | ¥0.09 | $0.09 / $0.36 | 1 | 国模 | minimax-m3 |
-| 7 | `ikun.love` | ¥0.09 | $0.09 / $0.36 | 1 | 国模 | minimax-m3 |
-| 8 | `moliapi.cloud` | ¥0.09 | $0.09 / $0.36 | 1 | 国产model-minimax-m3 | minimax-m3 |
-| 9 | `newapi.qwqtao.com` | ¥0.09 | $0.09 / $0.36 | 1 | Minimax | MiniMax-M3 |
-| 10 | `api.arithcore.com` | ¥0.099 | $0.099 / $0.396 | 1 | 国模分组全有 | minimax-m3 |
-| 11 | `api.tokenfreeperday.com` | ¥0.105 | $0.105 / $0.42 | 1 | ALL | MiniMax-M3 |
-| 12 | `code.ciyuanapi.xyz` | ¥0.105 | $0.105 / $0.42 | 1 | wb国产模型 | minimax-m3 |
-| 13 | `moyuu.cc` | ¥0.105 | $0.105 / $0.105 | 1 | 🥚测 | minimax-m3 |
-| 14 | `us-api.x5m5x.com` | ¥0.105 | $0.105 / $0.42 | 1 | 国模自营（1号主力池） | minimax-m3 |
-| 15 | `www.treeapi.online` | ¥0.105 | $0.105 / $0.21 | 1 | tree自营 | minimax-m3 |
-| 16 | `api.flashcode.cc` | ¥0.15 | $0.15 / $0.6 | 1 | MiniMax 官转 | minimax-m3 |
-| 17 | `nexa.buycodekey.com` | ¥0.15 | $0.15 / $0.6 | 1 | MiniMax | MiniMax-M3 |
-| 18 | `www.omniroute.cc` | ¥0.1537 | $0.15372 / $0.61488 | 1 | MiniMax-特供 | minimax-m3 |
-| 19 | `momoapi.xin` | ¥0.168 | $0.168 / $0.672 | 1 | 自部署国模合集 | minimax-m3 |
-| 20 | `api.kkdmx.com` | ¥0.18 | $0.18 / $0.9 | 1 | 默认分组(不能用GPT) | minimaxai/minimax-m3 |
-| 21 | `oai2api.com` | ¥0.18 | $0.18 / $0.72 | 1 | china_modal_hight | minimax-m3 |
-| 22 | `routerra.ai` | ¥0.184 | $0.184 / $0.767998 | 1 | default | minimax-m3 |
-| 23 | `ai.furry.vg` | ¥0.189 | $0.189 / $0.756 | 1 | default | MiniMax-M3 |
-| 24 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.8 | 1 | relay | minimax-m3 |
-| 25 | `infinityrouter.dev` | ¥0.2 | $0.2 / $0.9 | 1 | max | minimax-m3 |
-| 26 | `yyapis.com` | ¥0.2 | $0.2 / $0.2 | 1 | default | minimax-m3 |
-| 27 | `direct.mianyouyou.xyz` | ¥0.21 | $0.21 / $0.84 | 1 | KIMI超低 | MiniMax-M3 |
-| 28 | `nexaxis.ai` | ¥0.21 | $0.21 / $0.84 | 1 | 国模 | MiniMax-M3 |
-| 29 | `www.ainzy.net` | ¥0.21 | $0.21 / $0.81 | 1 | chinese-model-niche | minimax-m3 |
-| 30 | `api.zdzui.xyz` | ¥0.228 | $0.228 / $0.912 | 1 | 国模 | minimax-m3 |
-| 31 | `api.huitex.top` | ¥0.2485 | $0.2485 / $1.2425 | 1 | default | minimax-m3 |
-| 32 | `hetune.top` | ¥0.273 | $0.273 / $1.092 | 1 | 国模统一分组 | MiniMax-M3 |
-| 33 | `wzw.pp.ua` | ¥0.28 | $0.28 / $1.1 | 1 | default | minimaxai/minimax-m3 |
-| 34 | `coneverse.com` | ¥0.2877 | $0.287671 / $1.15068 | 1 | supply-c8b615a9916b720126c045d3 | MiniMax-M3 |
-| 35 | `infistar.ai` | ¥0.2877 | $0.287671 / $1.15068 | 1 | supply-f261dde23193b530a853e9ab | MiniMax-M3 |
-| 36 | `api-cn.tmlab.store` | ¥0.3 | $0.3 / $1.2 | 1 | 通用 · CCS线路 | MiniMax-M3 |
-| 37 | `api.tokenreply.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
-| 38 | `crowllm.com` | ¥0.3 | $0.3 / $1.25 | 1 | pro | minimax-m3 |
-| 39 | `dev.tmlab.store` | ¥0.3 | $0.3 / $1.2 | 1 | MiniMax · 线路01 | MiniMax-M3 |
-| 40 | `easyrouter.io` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M3 |
-| 41 | `kapibala.asia` | ¥0.3 | $1 / $3 | 0.3 | default | MiniMax-M3 |
-| 42 | `new.sonetto.top` | ¥0.3 | $0.3 / $1.26 | 1 | 国模按量计费分组 | MiniMax-M3 |
-| 43 | `otoken.pro` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M3 |
-| 44 | `relay.fast` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
-| 45 | `router.cheap` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
-| 46 | `tok.sonetto.top` | ¥0.3 | $0.3 / $1.26 | 1 | 国模按量计费分组 | MiniMax-M3 |
-| 47 | `tokensupply.ai` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
-| 48 | `web.aipipe.io` | ¥0.314 | $0.314 / $1.254 | 1 | MiniMax | MiniMax-M3 |
-| 49 | `1.cnmz.de` | ¥0.315 | $0.315 / $1.26 | 1 | 国模精品极致速度分组 | MiniMax-M3 |
-| 50 | `ai.38yun.cn` | ¥0.315 | $0.315 / $1.26 | 1 | 官方全系稳定渠道 | minimax/minimax-m3 |
+| 5 | `cortexlane.cloud` | ¥0.09 | $0.09 / $0.36 | 1 | 国模 | minimax-m3 |
+| 6 | `ikun.love` | ¥0.09 | $0.09 / $0.36 | 1 | 国模 | minimax-m3 |
+| 7 | `moliapi.cloud` | ¥0.09 | $0.09 / $0.36 | 1 | 国产model-minimax-m3 | minimax-m3 |
+| 8 | `newapi.qwqtao.com` | ¥0.09 | $0.09 / $0.36 | 1 | Minimax | MiniMax-M3 |
+| 9 | `api.arithcore.com` | ¥0.099 | $0.099 / $0.396 | 1 | 国模分组全有 | minimax-m3 |
+| 10 | `api.tokenfreeperday.com` | ¥0.105 | $0.105 / $0.42 | 1 | ALL | MiniMax-M3 |
+| 11 | `code.ciyuanapi.xyz` | ¥0.105 | $0.105 / $0.42 | 1 | wb国产模型 | minimax-m3 |
+| 12 | `moyuu.cc` | ¥0.105 | $0.105 / $0.105 | 1 | 🥚测 | minimax-m3 |
+| 13 | `us-api.x5m5x.com` | ¥0.105 | $0.105 / $0.42 | 1 | 国模自营（1号主力池） | minimax-m3 |
+| 14 | `www.treeapi.online` | ¥0.105 | $0.105 / $0.21 | 1 | tree自营 | minimax-m3 |
+| 15 | `api.flashcode.cc` | ¥0.15 | $0.15 / $0.6 | 1 | MiniMax 官转 | minimax-m3 |
+| 16 | `nexa.buycodekey.com` | ¥0.15 | $0.15 / $0.6 | 1 | MiniMax | MiniMax-M3 |
+| 17 | `www.omniroute.cc` | ¥0.1537 | $0.15372 / $0.61488 | 1 | MiniMax-特供 | minimax-m3 |
+| 18 | `momoapi.xin` | ¥0.168 | $0.168 / $0.672 | 1 | 自部署国模合集 | minimax-m3 |
+| 19 | `api.kkdmx.com` | ¥0.18 | $0.18 / $0.9 | 1 | 默认分组(不能用GPT) | minimaxai/minimax-m3 |
+| 20 | `oai2api.com` | ¥0.18 | $0.18 / $0.72 | 1 | china_modal_hight | minimax-m3 |
+| 21 | `routerra.ai` | ¥0.184 | $0.184 / $0.767998 | 1 | default | minimax-m3 |
+| 22 | `ai.furry.vg` | ¥0.189 | $0.189 / $0.756 | 1 | default | MiniMax-M3 |
+| 23 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.8 | 1 | relay | minimax-m3 |
+| 24 | `infinityrouter.dev` | ¥0.2 | $0.2 / $0.9 | 1 | max | minimax-m3 |
+| 25 | `yyapis.com` | ¥0.2 | $0.2 / $0.2 | 1 | default | minimax-m3 |
+| 26 | `direct.mianyouyou.xyz` | ¥0.21 | $0.21 / $0.84 | 1 | KIMI超低 | MiniMax-M3 |
+| 27 | `nexaxis.ai` | ¥0.21 | $0.21 / $0.84 | 1 | 国模 | MiniMax-M3 |
+| 28 | `www.ainzy.net` | ¥0.21 | $0.21 / $0.81 | 1 | chinese-model-niche | minimax-m3 |
+| 29 | `api.zdzui.xyz` | ¥0.228 | $0.228 / $0.912 | 1 | 国模 | minimax-m3 |
+| 30 | `api.huitex.top` | ¥0.2485 | $0.2485 / $1.2425 | 1 | default | minimax-m3 |
+| 31 | `hetune.top` | ¥0.273 | $0.273 / $1.092 | 1 | 国模统一分组 | MiniMax-M3 |
+| 32 | `wzw.pp.ua` | ¥0.28 | $0.28 / $1.1 | 1 | default | minimaxai/minimax-m3 |
+| 33 | `coneverse.com` | ¥0.2877 | $0.287671 / $1.15068 | 1 | supply-c8b615a9916b720126c045d3 | MiniMax-M3 |
+| 34 | `infistar.ai` | ¥0.2877 | $0.287671 / $1.15068 | 1 | supply-f261dde23193b530a853e9ab | MiniMax-M3 |
+| 35 | `api-cn.tmlab.store` | ¥0.3 | $0.3 / $1.2 | 1 | 通用 · CCS线路 | MiniMax-M3 |
+| 36 | `api.tokenreply.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
+| 37 | `crowllm.com` | ¥0.3 | $0.3 / $1.25 | 1 | pro | minimax-m3 |
+| 38 | `dev.tmlab.store` | ¥0.3 | $0.3 / $1.2 | 1 | MiniMax · 线路01 | MiniMax-M3 |
+| 39 | `easyrouter.io` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M3 |
+| 40 | `kapibala.asia` | ¥0.3 | $1 / $3 | 0.3 | default | MiniMax-M3 |
+| 41 | `new.sonetto.top` | ¥0.3 | $0.3 / $1.26 | 1 | 国模按量计费分组 | MiniMax-M3 |
+| 42 | `otoken.pro` | ¥0.3 | $0.3 / $1.2 | 1 | default | MiniMax-M3 |
+| 43 | `relay.fast` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
+| 44 | `router.cheap` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
+| 45 | `tok.sonetto.top` | ¥0.3 | $0.3 / $1.26 | 1 | 国模按量计费分组 | MiniMax-M3 |
+| 46 | `tokensupply.ai` | ¥0.3 | $0.3 / $1.2 | 1 | default | minimax-m3 |
+| 47 | `web.aipipe.io` | ¥0.314 | $0.314 / $1.254 | 1 | MiniMax | MiniMax-M3 |
+| 48 | `1.cnmz.de` | ¥0.315 | $0.315 / $1.26 | 1 | 国模精品极致速度分组 | MiniMax-M3 |
+| 49 | `ai.38yun.cn` | ¥0.315 | $0.315 / $1.26 | 1 | 官方全系稳定渠道 | minimax/minimax-m3 |
+| 50 | `api.yjs.im` | ¥0.315 | $0.315 / $1.26 | 1 | OpenModels | minimax-m3 |
 
 > 另有 281 站未列出。
 

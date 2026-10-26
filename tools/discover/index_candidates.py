@@ -38,12 +38,13 @@ PROBE_FILES = [
     'github-harvest-probe.jsonl', 'github-code-probe.jsonl', 'gitlab-probe.jsonl',
     'urlscan-probe.jsonl', 'npm-probe.jsonl', 'docker-hub-probe.jsonl',
     'huggingface-probe.jsonl', 'bing-probe.jsonl', 'directory-probe.jsonl', 'unified-candidate-probe.jsonl',
+    'passive-refresh-probe.jsonl',
 ]
 SCAN_FILES = [
     'veridrop-scan.json', 'crtsh-scan.json', 'certspotter-scan.json', 'prefix-expansion-scan.json',
     'github-code-scan.json', 'gitlab-scan.json', 'urlscan-scan.json',
     'npm-scan.json', 'docker-hub-scan.json', 'huggingface-scan.json',
-    'bing-scan.json', 'directory-scan.json', 'unified-candidate-scan.json',
+    'bing-scan.json', 'directory-scan.json', 'unified-candidate-scan.json', 'passive-refresh-scan.json',
 ]
 
 

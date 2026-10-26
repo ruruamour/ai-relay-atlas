@@ -22,44 +22,44 @@
 | 10 | `api.aliyunfuwu.top` | ¥0.3 | $0.3 / $1.101 | 1 | relay | z-ai/glm-5.3 |
 | 11 | `moliapi.cloud` | ¥0.308 | $0.308 / $0.968 | 1 | 国产model-glm5.3 | glm-5.3 |
 | 12 | `api.mcapple.top` | ¥0.32 | $0.32 / $1.12 | 1 | workbuddy | glm-5.3 |
-| 13 | `closedai.kylenqaq.com` | ¥0.32 | $0.32 / $1.12 | 1 | 国模3 | glm-5.3 |
-| 14 | `xiaok.lol` | ¥0.32 | $0.32 / $1.12 | 1 | Deepsleep | glm-5.3 |
-| 15 | `oai2api.com` | ¥0.35 | $0.35 / $1.1 | 1 | china_modal | glm-5.3 |
-| 16 | `cortexlane.cloud` | ¥0.36 | $0.36 / $1.2312 | 1 | 国模 | glm-5.3 |
-| 17 | `xingya.site` | ¥0.375 | $0.375 / $0.375 | 1 | 英伟达 | z-ai/glm-5.3 |
-| 18 | `api.886365.xyz` | ¥0.392 | $0.392 / $1.372 | 1 | 国模C3 | glm-5.3 |
-| 19 | `api.everygpt.site` | ¥0.4 | $0.4 / $1.4 | 1 | 低价国模分组 | glm-5.3 |
-| 20 | `hk.chenmoai.cn` | ¥0.4 | $0.4 / $1.4 | 1 | default | [量4]glm-5.3 |
-| 21 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | z-ai/glm-5.3 |
-| 22 | `us-api.x5m5x.com` | ¥0.4 | $0.4 / $1.4 | 1 | 国模自营（1号主力池） | glm-5.3 |
-| 23 | `www.treeapi.online` | ¥0.4 | $0.4 / $1.4 | 1 | tree自营 | glm-5.3 |
-| 24 | `synai996.space` | ¥0.42 | $0.42 / $1.32 | 1 | default | glm-5.3 |
-| 25 | `panda.api520.pro` | ¥0.472 | $0.472 / $1.652 | 1 | glm | glm-5.3 |
-| 26 | `api.liangrekui.com` | ¥0.48 | $0.48 / $1.68 | 1 | F glm-反代 | glm-5.3 |
-| 27 | `1yapi.com` | ¥0.5 | $0.5 / $0.5 | 1 | 国产模型 | glm-5.3 |
-| 28 | `api.banyane.top` | ¥0.56 | $0.56 / $1.76 | 1 | 国产模型 | glm-5.3 |
-| 29 | `cf.sheapi.cc` | ¥0.56 | $0.56 / $1.96 | 1 | glm | glm-5.3 |
-| 30 | `code.ciyuanapi.xyz` | ¥0.56 | $0.56 / $1.76 | 1 | 原生开源&国产模型 | glm-5.3 |
-| 31 | `fanrenapi.com` | ¥0.56 | $0.56 / $1.76 | 1 | 国模 | glm-5.3 |
-| 32 | `www.omniroute.cc` | ¥0.5856 | $0.5856 / $2.0496 | 1 | GLM-官转 | glm-5.3 |
-| 33 | `aizzz.shop` | ¥0.64 | $0.64 / $2.24 | 1 | default | glm-5.3 |
-| 34 | `api.tccxy.top` | ¥0.64 | $0.64 / $2.24 | 1 | [自建]国模 | glm-5.3 |
-| 35 | `cf.rule91.wtf` | ¥0.64 | $0.64 / $2.24 | 1 | GLM分组 | glm-5.3 |
-| 36 | `gpt.qinnaonao.com` | ¥0.64 | $0.64 / $2.24 | 1 | 速度快的g模 | glm-5.3 |
-| 37 | `momoapi.xin` | ¥0.64 | $0.64 / $2.24 | 1 | 自部署国模合集 | glm-5.3 |
-| 38 | `api.kkdmx.com` | ¥0.7 | $0.7 / $2.6 | 1 | default | glm-5.3 |
-| 39 | `api.yunnet.top` | ¥0.7 | $0.7 / $2.2 | 1 | 国模 | glm-5.3 |
-| 40 | `code.aigcpro.org` | ¥0.7 | $0.7 / $2.2 | 1 | 国模 | glm-5.3 |
-| 41 | `new.omniakey.com` | ¥0.7 | $0.7 / $2.2 | 1 | probe | glm-5.3 |
-| 42 | `ai.furry.vg` | ¥0.72 | $0.72 / $2.52 | 1 | default | glm-5.3 |
-| 43 | `faojzoo.cn` | ¥0.72 | $1.44 / $5.04 | 0.5 | GLM自研特供 | glm-5.3 |
-| 44 | `ai.191800.xyz` | ¥0.73 | $0.1 / $0.1 | 7.3 | default | z-ai/glm-5.3 |
-| 45 | `sandbox.dogrouter.ai` | ¥0.73 | $0.1 / $1 | 7.3 | default | glm-5.3 |
-| 46 | `token123.cfd` | ¥0.73 | $0.1 / $0.35 | 7.3 | 国模分组 | glm-5.3 |
-| 47 | `api.68886868.xyz` | ¥0.8 | $0.8 / $2.8 | 1 | default | [官4][量] glm-5.3 |
-| 48 | `api.aieyra.cn` | ¥0.8 | $0.8 / $2.8 | 1 | ChinaModels | glm-5.3 |
-| 49 | `ckff.dev` | ¥0.8 | $0.8 / $2.8 | 1 | default | [官4][量] glm-5.3 |
-| 50 | `cpa057.meta-api.vip` | ¥0.8 | $0.8 / $2.8 | 1 | 5.1-国模跑量 | glm-5.3 |
+| 13 | `xiaok.lol` | ¥0.32 | $0.32 / $1.12 | 1 | Deepsleep | glm-5.3 |
+| 14 | `oai2api.com` | ¥0.35 | $0.35 / $1.1 | 1 | china_modal | glm-5.3 |
+| 15 | `cortexlane.cloud` | ¥0.36 | $0.36 / $1.2312 | 1 | 国模 | glm-5.3 |
+| 16 | `xingya.site` | ¥0.375 | $0.375 / $0.375 | 1 | 英伟达 | z-ai/glm-5.3 |
+| 17 | `api.886365.xyz` | ¥0.392 | $0.392 / $1.372 | 1 | 国模C3 | glm-5.3 |
+| 18 | `api.everygpt.site` | ¥0.4 | $0.4 / $1.4 | 1 | 低价国模分组 | glm-5.3 |
+| 19 | `hk.chenmoai.cn` | ¥0.4 | $0.4 / $1.4 | 1 | default | [量4]glm-5.3 |
+| 20 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | z-ai/glm-5.3 |
+| 21 | `us-api.x5m5x.com` | ¥0.4 | $0.4 / $1.4 | 1 | 国模自营（1号主力池） | glm-5.3 |
+| 22 | `www.treeapi.online` | ¥0.4 | $0.4 / $1.4 | 1 | tree自营 | glm-5.3 |
+| 23 | `synai996.space` | ¥0.42 | $0.42 / $1.32 | 1 | default | glm-5.3 |
+| 24 | `panda.api520.pro` | ¥0.472 | $0.472 / $1.652 | 1 | glm | glm-5.3 |
+| 25 | `api.liangrekui.com` | ¥0.48 | $0.48 / $1.68 | 1 | F glm-反代 | glm-5.3 |
+| 26 | `1yapi.com` | ¥0.5 | $0.5 / $0.5 | 1 | 国产模型 | glm-5.3 |
+| 27 | `api.banyane.top` | ¥0.56 | $0.56 / $1.76 | 1 | 国产模型 | glm-5.3 |
+| 28 | `cf.sheapi.cc` | ¥0.56 | $0.56 / $1.96 | 1 | glm | glm-5.3 |
+| 29 | `code.ciyuanapi.xyz` | ¥0.56 | $0.56 / $1.76 | 1 | 原生开源&国产模型 | glm-5.3 |
+| 30 | `fanrenapi.com` | ¥0.56 | $0.56 / $1.76 | 1 | 国模 | glm-5.3 |
+| 31 | `www.omniroute.cc` | ¥0.5856 | $0.5856 / $2.0496 | 1 | GLM-官转 | glm-5.3 |
+| 32 | `aizzz.shop` | ¥0.64 | $0.64 / $2.24 | 1 | default | glm-5.3 |
+| 33 | `api.tccxy.top` | ¥0.64 | $0.64 / $2.24 | 1 | [自建]国模 | glm-5.3 |
+| 34 | `cf.rule91.wtf` | ¥0.64 | $0.64 / $2.24 | 1 | GLM分组 | glm-5.3 |
+| 35 | `gpt.qinnaonao.com` | ¥0.64 | $0.64 / $2.24 | 1 | 速度快的g模 | glm-5.3 |
+| 36 | `momoapi.xin` | ¥0.64 | $0.64 / $2.24 | 1 | 自部署国模合集 | glm-5.3 |
+| 37 | `api.kkdmx.com` | ¥0.7 | $0.7 / $2.6 | 1 | default | glm-5.3 |
+| 38 | `api.yunnet.top` | ¥0.7 | $0.7 / $2.2 | 1 | 国模 | glm-5.3 |
+| 39 | `code.aigcpro.org` | ¥0.7 | $0.7 / $2.2 | 1 | 国模 | glm-5.3 |
+| 40 | `new.omniakey.com` | ¥0.7 | $0.7 / $2.2 | 1 | probe | glm-5.3 |
+| 41 | `ai.furry.vg` | ¥0.72 | $0.72 / $2.52 | 1 | default | glm-5.3 |
+| 42 | `faojzoo.cn` | ¥0.72 | $1.44 / $5.04 | 0.5 | GLM自研特供 | glm-5.3 |
+| 43 | `ai.191800.xyz` | ¥0.73 | $0.1 / $0.1 | 7.3 | default | z-ai/glm-5.3 |
+| 44 | `sandbox.dogrouter.ai` | ¥0.73 | $0.1 / $1 | 7.3 | default | glm-5.3 |
+| 45 | `token123.cfd` | ¥0.73 | $0.1 / $0.35 | 7.3 | 国模分组 | glm-5.3 |
+| 46 | `api.68886868.xyz` | ¥0.8 | $0.8 / $2.8 | 1 | default | [官4][量] glm-5.3 |
+| 47 | `api.aieyra.cn` | ¥0.8 | $0.8 / $2.8 | 1 | ChinaModels | glm-5.3 |
+| 48 | `ckff.dev` | ¥0.8 | $0.8 / $2.8 | 1 | default | [官4][量] glm-5.3 |
+| 49 | `cpa057.meta-api.vip` | ¥0.8 | $0.8 / $2.8 | 1 | 5.1-国模跑量 | glm-5.3 |
+| 50 | `direct.mianyouyou.xyz` | ¥0.8 | $0.8 / $2.8 | 1 | KIMI超低 | glm-5.3 |
 
 > 另有 615 站未列出。
 

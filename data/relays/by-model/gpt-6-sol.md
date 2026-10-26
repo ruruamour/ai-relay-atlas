@@ -1,6 +1,6 @@
 # gpt-6-sol
 
-> 1841 站提供 · 正常价 856 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1**/1M 输入（616 站公开充值价） · 推算，未对账
+> 1842 站提供 · 正常价 856 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1**/1M 输入（616 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -92,11 +92,11 @@
 | 23 | `supercodes.vip` | $0.12 / $0.6 | GPT Plus | 0.06 | gpt-6-sol |
 | 24 | `api.tyasai.com` | $0.13 / $0.65 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-6-sol |
 | 25 | `pureai.ink` | $0.13 / $0.65 | Z-GPT-Team | 0.065 | gpt-6-sol |
-| 26 | `www.yydsapi.uno` | $0.132 / $0.66 | Codex Plus【会降智】 | 0.066 | gpt-6-sol |
-| 27 | `aiapibank.com` | $0.14 / $0.7 | GPT低价分组 | 0.07 | gpt-6-sol |
-| 28 | `api.hyhawang.com` | $0.14 / $0.7 | gpt低倍率 | 0.07 | gpt-6-sol |
-| 29 | `kedaya.ai` | $0.14 / $0.7 | GPT 稳定分组 | 0.07 | gpt-6-sol |
-| 30 | `ovo1.vip` | $0.14 / $0.7 | Codex Plus | 0.07 | gpt-6-sol |
+| 26 | `aiapibank.com` | $0.14 / $0.7 | GPT低价分组 | 0.07 | gpt-6-sol |
+| 27 | `api.hyhawang.com` | $0.14 / $0.7 | gpt低倍率 | 0.07 | gpt-6-sol |
+| 28 | `kedaya.ai` | $0.14 / $0.7 | GPT 稳定分组 | 0.07 | gpt-6-sol |
+| 29 | `ovo1.vip` | $0.14 / $0.7 | Codex Plus | 0.07 | gpt-6-sol |
+| 30 | `www.yydsapi.uno` | $0.14 / $0.7 | Codex Plus【会降智】 | 0.07 | gpt-6-sol |
 | 31 | `worldcodes.online` | $0.15 / $0.75 | Codex Plus低价 | 0.075 | gpt-6-sol |
 | 32 | `ai.sofurry.cloud` | $0.16 / $0.8 | GPT 独立池+混合池  | 0.08 | gpt-6-sol |
 | 33 | `api.asdfas.party` | $0.16 / $0.8 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-6-sol |
@@ -120,4 +120,4 @@
 
 > 另有 190 站未列出。
 
-> 985 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 986 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

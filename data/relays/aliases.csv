@@ -529,6 +529,7 @@ ai.aiaiai001.com,api.aiaiai001.com,same-host,scan
 backup-api.aiaiai001.com,api.aiaiai001.com,mirror,scan
 img-api.aiaiai001.com,api.aiaiai001.com,mirror,scan
 api-cn.aicatstudios.com,api.aicatstudios.com,mirror,scan
+aicode007.com,api.aicode007.com,same-host,crtsh
 subapi.aicodeapi.cn,api.aicodeapi.cn,mirror,scan
 krapi.aigc.bar,api.aigc.bar,mirror,scan
 origin.aigc.bar,api.aigc.bar,mirror,scan
@@ -932,6 +933,7 @@ token.kscopeai.com,api.kscopeai.com,mirror,scan
 api.kunkunout.com,api.kunkunout.cn,mirror,veridrop
 new-api.kunkunout.com,api.kunkunout.cn,mirror,scan
 shadow-new-api.kunkunout.com,api.kunkunout.cn,mirror,scan
+labapi.work,api.labapi.work,same-host,crtsh
 ai.lancegpt.top,api.lancegpt.top,same-host,scan
 direct-api.lancegpt.top,api.lancegpt.top,mirror,scan
 sub.lansekafei.cn,api.lansekafei.cn,same-host,scan
@@ -1047,6 +1049,7 @@ api2.nuwaapi.com,api.nuwaapi.com,same-host,scan
 www.nuwarouter.com,api.nuwarouter.com,same-host,scan
 sub2.oaiapis.com,api.oaiapis.com,same-host,scan
 us.oaiapis.com,api.oaiapis.com,same-host,scan
+ocoolai.com,api.ocoolai.com,same-host,crtsh
 one.ocoolai.com,api.ocoolai.com,mirror,scan
 vip.ocoolai.com,api.ocoolai.com,same-host,scan
 chat.ofapp.cn,api.ofapp.cn,mirror,scan
@@ -1097,6 +1100,7 @@ newapi.pezayo.com,api.pezayo.com,same-host,scan
 u1.pie-xian.com,api.pie-xian.com,mirror,scan
 api.pojia.ai,api.pojia.org,mirror,scan
 pojia.ai,api.pojia.org,mirror,scan
+pojia.org,api.pojia.org,same-host,crtsh
 www.pojia.ai,api.pojia.org,mirror,scan
 www.pojia.org,api.pojia.org,same-host,scan
 card.pptoken.org,api.pptoken.org,mirror,scan
@@ -1282,9 +1286,11 @@ new-api.tu-zi.com,api.tu-zi.com,mirror,scan
 sub2api-origin3.tu-zi.com,api.tu-zi.com,mirror,scan
 test-api.tu-zi.com,api.tu-zi.com,mirror,scan
 test-sub2api.tu-zi.com,api.tu-zi.com,mirror,scan
+tyasai.com,api.tyasai.com,same-host,crtsh
 vip.tyasai.com,api.tyasai.com,same-host,veridrop
 api-cnae.ulastai.com,api.ulastai.com,mirror,scan
 www.unifyllm.top,api.unifyllm.top,same-host,scan
+usegoodai.com,api.usegoodai.com,same-host,crtsh
 www.usegoodai.com,api.usegoodai.com,same-host,scan
 www.uselunora.com,api.uselunora.com,same-host,scan
 api2.usora.net,api.usora.net,same-host,scan
@@ -1775,6 +1781,7 @@ www.clodex.cc,clodex.cc,same-host,scan
 v98-api.clodex.xyz,clodex.xyz,mirror,scan
 www.clodex.xyz,clodex.xyz,same-host,scan
 edge.closeai.space,closeai.space,mirror,scan
+kylenqaq.com,closedai.kylenqaq.com,mirror,crtsh
 cloud-cn.dataeyes.ai,cloud.dataeyes.ai,mirror,scan
 cloud-hk.dataeyes.ai,cloud.dataeyes.ai,mirror,scan
 platform.dataeyes.ai,cloud.dataeyes.ai,mirror,veridrop
@@ -3700,6 +3707,7 @@ api.999code.xyz,www.999code.xyz,same-host,scan
 api.ai-wave.org,www.ai-wave.org,same-host,scan
 ai168go.com,www.ai168go.com,same-host,scan
 aiapikey.net,www.aiapikey.net,same-host,scan
+aiapipay.com,www.aiapipay.com,same-host,crtsh
 aicentos.com,www.aicentos.com,same-host,scan
 api.aicentos.com,www.aicentos.com,same-host,scan
 status.aicentos.com,www.aicentos.com,mirror,scan
@@ -3718,6 +3726,7 @@ aiu7.com,www.aiu7.com,same-host,scan
 aivalux.com,www.aivalux.com,same-host,scan
 aiyoyoo.com,www.aiyoyoo.com,same-host,scan
 aizzqh.com,www.aizzqh.com,same-host,scan
+akucb.com,www.akucb.com,same-host,crtsh
 chat.akucb.com,www.akucb.com,mirror,scan
 alaiapi.top,www.alaiapi.top,same-host,scan
 allrouter.xyz,www.allrouter.xyz,same-host,scan
@@ -3770,6 +3779,7 @@ cafecode.work,www.cafecode.work,same-host,scan
 neko.cafecode.work,www.cafecode.work,mirror,scan
 origin.cafecode.work,www.cafecode.work,mirror,scan
 cattoken.cc,www.cattoken.cc,same-host,scan
+cc-max.cc,www.cc-max.cc,same-host,crtsh
 direct.cccode.pro,www.cccode.pro,same-host,scan
 ccgpai.com,www.ccgpai.com,same-host,scan
 notify.ccgpai.com,www.ccgpai.com,mirror,scan
@@ -3905,6 +3915,7 @@ mlyapi.com,www.mlyapi.com,same-host,scan
 api.mnapi.com,www.mnapi.com,same-host,veridrop
 cf.mnapi.com,www.mnapi.com,mirror,scan
 mnapi.com,www.mnapi.com,same-host,scan
+mofas.one,www.mofas.one,same-host,crtsh
 ai.moxin.studio,www.moxin.studio,same-host,scan
 fiajkldfa.moxin.studio,www.moxin.studio,mirror,scan
 next.mumuqiu.cyou,www.mumuqiu.cyou,mirror,scan
@@ -3962,6 +3973,7 @@ max.stablefastai.com,www.stablefastai.com,mirror,scan
 stablefastai.com,www.stablefastai.com,same-host,scan
 starapi.cc,www.starapi.cc,same-host,scan
 starapi.lat,www.starapi.lat,same-host,scan
+string.ink,www.string.ink,same-host,crtsh
 testai.string.ink,www.string.ink,mirror,scan
 suocode.com,www.suocode.com,same-host,scan
 draw.sxcode.online,www.sxcode.online,mirror,scan
@@ -3983,6 +3995,7 @@ tokenbuy.shop,www.tokenbuy.shop,same-host,scan
 api.tokenopen.ai,www.tokenopen.ai,same-host,scan
 tokenopen.ai,www.tokenopen.ai,same-host,scan
 cf.tokenrouter.tech,www.tokenrouter.tech,mirror,scan
+tokenrouter.tech,www.tokenrouter.tech,same-host,crtsh
 tokens1688.com,www.tokens1688.com,same-host,scan
 tokensflux.net,www.tokensflux.net,same-host,scan
 tokensupply.net,www.tokensupply.net,same-host,scan
@@ -4024,6 +4037,7 @@ you123app.com,www.you123app.com,same-host,scan
 yuluapi.com,www.yuluapi.com,same-host,scan
 sub2.yunzhouapi.com,www.yunzhouapi.com,same-host,scan
 yunzhouapi.com,www.yunzhouapi.com,same-host,scan
+yydsapi.uno,www.yydsapi.uno,same-host,crtsh
 yzcld.com,www.yzcld.com,same-host,scan
 zeoapi.com,www.zeoapi.com,same-host,scan
 zerocode.sbs,www.zerocode.sbs,same-host,scan

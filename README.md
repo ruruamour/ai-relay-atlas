@@ -30,12 +30,12 @@
 
 | 项 | 数量 |
 |---|---|
-| 中转站（去重后） | 5164（首页可访问 4832） |
-| 合并的别名/镜像域名 | 4250 |
+| 中转站（去重后） | 5165（首页可访问 4832） |
+| 合并的别名/镜像域名 | 4264 |
 | 已剔除的泛解析子域 | 5704 |
-| 站 × 模型 报价 | 261315 |
-| 基础模型数（不同模型，非站数） | 12818 |
-| 公开充值价的站 | 2639（≤¥1.5/$ 的 1481 站，≥¥6/$ 的 1121 站） |
+| 站 × 模型 报价 | 261303 |
+| 基础模型数（不同模型，非站数） | 12814 |
+| 公开充值价的站 | 2640（≤¥1.5/$ 的 1481 站，≥¥6/$ 的 1122 站） |
 | 发卡店铺 | 430（SaaS 348 / 自建 82） |
 | 发卡商品报价 | 17212 |
 
@@ -163,7 +163,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。
 
-完整名单（5164 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)
+完整名单（5165 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)
 
 [↑ 目录](#toc)
 
@@ -172,17 +172,17 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 家族 | 基础模型数 | 覆盖站点 | 覆盖最广的模型 |
 |---|---|---|---|
-| OpenAI | 1455 | 2551 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
+| OpenAI | 1454 | 2551 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
 | Claude | 1081 | 2296 | [claude-opus-4-8](data/relays/by-model/claude-opus-4-8.md) · [claude-opus-4-6](data/relays/by-model/claude-opus-4-6.md) · [claude-opus-4-7](data/relays/by-model/claude-opus-4-7.md) |
 | Gemini | 1555 | 1847 | [gemini-3.8-flash](data/relays/by-model/gemini-3.8-flash.md) · [gemini-3.1-pro-preview](data/relays/by-model/gemini-3.1-pro-preview.md) · [gemini-3.6-flash](data/relays/by-model/gemini-3.6-flash.md) |
 | Grok | 347 | 1698 | [grok-4.5](data/relays/by-model/grok-4.5.md) · [grok-4.6](data/relays/by-model/grok-4.6.md) · [grok-4.7](data/relays/by-model/grok-4.7.md) |
-| MiMo | 43 | 620 | [mimo-v2.5-pro](data/relays/by-model/mimo-v2.5-pro.md) · [mimo-v2.5](data/relays/by-model/mimo-v2.5.md) · [mimo-v2.6-flash](data/relays/by-model/mimo-v2.6-flash.md) |
+| MiMo | 43 | 621 | [mimo-v2.5-pro](data/relays/by-model/mimo-v2.5-pro.md) · [mimo-v2.5](data/relays/by-model/mimo-v2.5.md) · [mimo-v2.6-flash](data/relays/by-model/mimo-v2.6-flash.md) |
 | DeepSeek | 321 | 1843 | [deepseek-v4-pro](data/relays/by-model/deepseek-v4-pro.md) · [deepseek-v4-flash](data/relays/by-model/deepseek-v4-flash.md) · [deepseek-v4.1-flash](data/relays/by-model/deepseek-v4.1-flash.md) |
 | Qwen | 667 | 1136 | [qwen3.8-max](data/relays/by-model/qwen3.8-max.md) · [qwen3.7-max](data/relays/by-model/qwen3.7-max.md) · [qwen3.8-flash](data/relays/by-model/qwen3.8-flash.md) |
 | GLM | 246 | 1616 | [glm-5.3](data/relays/by-model/glm-5.3.md) · [glm-5.2](data/relays/by-model/glm-5.2.md) · [glm-5.3-flash](data/relays/by-model/glm-5.3-flash.md) |
-| Kimi | 110 | 1484 | [kimi-k3](data/relays/by-model/kimi-k3.md) · [kimi-k2.6](data/relays/by-model/kimi-k2.6.md) · [kimi-k2.7-code](data/relays/by-model/kimi-k2.7-code.md) |
-| 豆包 | 799 | 745 | [doubao-seedream-5-0](data/relays/by-model/doubao-seedream-5-0.md) · [doubao-seedance-2-0](data/relays/by-model/doubao-seedance-2-0.md) · [doubao-seed-2-1-pro](data/relays/by-model/doubao-seed-2-1-pro.md) |
-| MiniMax | 324 | 1076 | [minimax-m3](data/relays/by-model/minimax-m3.md) · [minimax-m2.7](data/relays/by-model/minimax-m2.7.md) · [minimax-m2.5](data/relays/by-model/minimax-m2.5.md) |
+| Kimi | 110 | 1485 | [kimi-k3](data/relays/by-model/kimi-k3.md) · [kimi-k2.6](data/relays/by-model/kimi-k2.6.md) · [kimi-k2.7-code](data/relays/by-model/kimi-k2.7-code.md) |
+| 豆包 | 796 | 745 | [doubao-seedream-5-0](data/relays/by-model/doubao-seedream-5-0.md) · [doubao-seedance-2-0](data/relays/by-model/doubao-seedance-2-0.md) · [doubao-seed-2-1-pro](data/relays/by-model/doubao-seed-2-1-pro.md) |
+| MiniMax | 324 | 1077 | [minimax-m3](data/relays/by-model/minimax-m3.md) · [minimax-m2.7](data/relays/by-model/minimax-m2.7.md) · [minimax-m2.5](data/relays/by-model/minimax-m2.5.md) |
 | 混元 | 61 | 430 | [hy3](data/relays/by-model/hy3.md) · [hy4-preview](data/relays/by-model/hy4-preview.md) · [hy4](data/relays/by-model/hy4.md) |
 | Llama | 128 | 249 | [llama-3.2-11b-vision-instruct](data/relays/by-model/llama-3.2-11b-vision-instruct.md) · [llama-3.2-90b-vision-instruct](data/relays/by-model/llama-3.2-90b-vision-instruct.md) · [llama-3.3-70b-instruct](data/relays/by-model/llama-3.3-70b-instruct.md) |
 | 图像/视频/音频 | 1066 | 468 | [z-image-turbo](data/relays/by-model/z-image-turbo.md) · [viduq3-turbo](data/relays/by-model/viduq3-turbo.md) · [happyhorse-1.1-t2v](data/relays/by-model/happyhorse-1.1-t2v.md) |
@@ -195,7 +195,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 <a id="backend"></a>
 ## 中转站 · 疑似同后端
 
-价格表完全相同的跨品牌站点，共 100 组 / 276 站。前 15 组：
+价格表完全相同的跨品牌站点，共 98 组 / 272 站。前 15 组：
 
 | 组 | 站数 | 站点 |
 |---|---|---|
@@ -383,9 +383,9 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 路径 | 内容 |
 |---|---|
-| `data/relays/relays.csv` | 中转站主表（5164 站，一站一行） |
-| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4250） |
-| `data/relays/relay-models.csv` | 站 × 模型 × 价格（261315） |
+| `data/relays/relays.csv` | 中转站主表（5165 站，一站一行） |
+| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4264） |
+| `data/relays/relay-models.csv` | 站 × 模型 × 价格（261303） |
 | `data/relays/by-model/` | 模型榜单（952 页） |
 | `data/relays/medians.json` | 各模型正常价中位数 |
 | `data/relays/relay-systems.csv` | 中转站软件名录 |

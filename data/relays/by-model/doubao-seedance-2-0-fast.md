@@ -1,6 +1,6 @@
 # doubao-seedance-2-0-fast
 
-> 184 站提供 · 正常价 100 站 · 名义中位价 **$37**/1M 输入 · 实付中位价 **¥44.8**/1M 输入（94 站公开充值价） · 推算，未对账
+> 185 站提供 · 正常价 100 站 · 名义中位价 **$37**/1M 输入 · 实付中位价 **¥44.8**/1M 输入（94 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -74,4 +74,4 @@
 | 5 | `tokenshengsheng.com` | $75 / $75 | seedance | 1 | doubao-seedance-2-0-fast |
 | 6 | `tzcode.top` | $75 / $75 | Image&Video | 1 | doubao-seedance-2-0-fast-260128 |
 
-> 84 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 85 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

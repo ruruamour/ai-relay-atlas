@@ -1,6 +1,6 @@
 # kimi-k3.1-pro-highspeed
 
-> 27 站提供 · 正常价 18 站 · 名义中位价 **$14**/1M 输入 · 实付中位价 **¥25.63**/1M 输入（15 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 20 站 · 名义中位价 **$15.3**/1M 输入 · 实付中位价 **¥26.37**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,9 +22,10 @@
 | 10 | `api.apiyi.com` | ¥28 | $4 / $20 | 7 | default | kimi-k3.1-pro-highspeed |
 | 11 | `api.laozhang.ai` | ¥28 | $4 / $20 | 7 | default | kimi-k3.1-pro-highspeed |
 | 12 | `express-ent-admin.cherryin.net` | ¥28.8 | $4 / $20 | 7.2 | default | moonshotai/kimi-k3.1-pro-highspeed |
-| 13 | `us.pomoai.xyz` | ¥94.9 | $13 / $68 | 7.3 | kimi-5折 | kimi-k3.1-pro-highspeed |
-| 14 | `1sapi.com` | ¥189.8 | $26 / $136 | 7.3 | 国产全模型 | kimi-k3.1-pro-highspeed |
-| 15 | `api.meow61.my` | ¥2534 | $347.152 / $1815.87 | 7.3 | default | Kimi-K3.1-Pro-HighSpeed [官方8折][按量] |
+| 13 | `daoxe.com` | ¥38.62 | $37.5 / $37.5 | 1.03 | 海外国产模型 | kimi-k3.1-pro-highspeed |
+| 14 | `us.pomoai.xyz` | ¥94.9 | $13 / $68 | 7.3 | kimi-5折 | kimi-k3.1-pro-highspeed |
+| 15 | `1sapi.com` | ¥189.8 | $26 / $136 | 7.3 | 国产全模型 | kimi-k3.1-pro-highspeed |
+| 16 | `api.meow61.my` | ¥2534 | $347.152 / $1815.87 | 7.3 | default | Kimi-K3.1-Pro-HighSpeed [官方8折][按量] |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -33,5 +34,6 @@
 | 1 | `aixhub.shop` | $2.6 / $13.6 | deepseek | 0.1 | kimi-k3.1-pro-highspeed |
 | 2 | `meta-api.vip` | $39 / $204 | Kimi · 优质 | 0.3 | kimi-k3.1-pro-highspeed |
 | 3 | `cdn.juaiapi.com` | $650 / $3400 | 国产模型通用 | 175 | kimi-k3.1-pro-highspeed |
+| 4 | `www.tokenrouter.tech` | $650 / $3400 | 国产模型通用 | 175 | kimi-k3.1-pro-highspeed |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

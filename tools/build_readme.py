@@ -119,7 +119,7 @@ def main():
         bases = s['fam_models'].get(c)
         if not bases:
             continue
-        top = sorted(bases, key=lambda b: -len(sites_of[b]))[:3]
+        top = sorted(bases, key=lambda b: (-len(sites_of[b]), b))[:3]
         links = ' · '.join(('[%s](data/relays/by-model/%s.md)' % (b, fname(b))) if len(sites_of[b]) >= MIN_SITES else b
                            for b in top)
         A('| %s | %d | %d | %s |' % (FAMILY_NAME[c], len(bases), len(s['fam_sites'][c]), links))

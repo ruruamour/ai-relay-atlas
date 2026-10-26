@@ -75,41 +75,41 @@
 | 6 | `api.api2cn.com` | $0.12 / $0.36 | Grok-Heavy号池组 | 0.06 | grok-4.7 |
 | 7 | `api.text168.com` | $0.14 / $0.42 | Grok-heavy | 0.07 | grok-4.7 |
 | 8 | `nextpro.top` | $0.14 / $0.42 | SuperGrok Heavy（自营） | 0.07 | grok-4.7 |
-| 9 | `www.yydsapi.uno` | $0.14 / $0.42 | Grok Heavy 【自营】 | 0.07 | grok-4.7 |
-| 10 | `api.123uq.com` | $0.16 / $0.48 | grok  heavy | 0.08 | grok-4.7 |
-| 11 | `api.apikl.ai` | $0.16 / $0.48 | Grok-Heavy | 0.08 | grok-4.7 |
-| 12 | `mofa.love.gd` | $0.16 / $0.48 | grok-heavy | 0.08 | grok-4.7 |
-| 13 | `www.bb-api.com` | $0.16 / $0.48 | grok heavy-008倍率 （巨推荐） | 0.08 | grok-4.7 |
-| 14 | `aipixapi.art` | $0.17 / $0.51 | grok-heavy | 0.085 | grok-4.7 |
-| 15 | `xigong.cloud` | $0.17 / $0.51 | Grok-全模型 | 0.085 | grok-4.7 |
-| 16 | `kimera.cc` | $0.18 / $0.54 | Grok heavy | 0.09 | grok-4.7 |
-| 17 | `sub.bulita.net` | $0.18 / $0.54 | grok heavy | 0.09 | grok-4.7 |
-| 18 | `you.loveme.space` | $0.18 / $0.54 | grok-heavy | 0.09 | grok-4.7 |
-| 19 | `api.qiuming-ai.com` | $0.192 / $0.576 | Grok-Heavy | 0.096 | grok-4.7 |
-| 20 | `api.qiuming-web.com` | $0.192 / $0.576 | Grok-Heavy | 0.096 | grok-4.7 |
-| 21 | `ai.bayunzi.shop` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
-| 22 | `aigw.store` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
-| 23 | `api.9m8m.com` | $0.2 / $0.6 | Grok heavy 分组 | 0.1 | grok-4.7 |
-| 24 | `api.robinsonai.shop` | $0.2 / $0.6 | Grok | 0.1 | grok-4.7 |
-| 25 | `api.zayuapi.com` | $0.2 / $0.6 | Grok-Heavy | 0.1 | grok-4.7 |
-| 26 | `app.yylx.io` | $0.2 / $0.6 | X.AI Grok - 标准 | 0.1 | grok-4.7 |
-| 27 | `cccode.pro` | $0.2 / $0.6 | 【惠】grok-heavy支持4.7 | 0.1 | grok-4.7 |
-| 28 | `codexpert.top` | $0.2 / $0.6 | Gork-heavy | 0.1 | grok-4.7 |
-| 29 | `heilovehei.com` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
-| 30 | `hhw1231.com` | $0.2 / $0.6 | Grok-heavy | 0.1 | grok-4.7 |
-| 31 | `kedaya.ai` | $0.2 / $0.6 | 甩GPT无数条街的Grok 吊打GPT | 0.1 | grok-4.7 |
-| 32 | `supercodes.vip` | $0.2 / $0.6 | Grok Super | 0.1 | grok-4.7 |
-| 33 | `tntapi.com` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
-| 34 | `salcara.top` | $0.22 / $0.66 | grok | 0.11 | grok-4.7 |
-| 35 | `aicat.api.sumnece.com` | $0.24 / $0.72 | Heavy | 0.12 | grok-4.7 |
-| 36 | `api.168box.xyz` | $0.24 / $0.72 | grok | 0.12 | grok-4.7 |
-| 37 | `flux-code.cc` | $0.24 / $0.72 | grok | 0.12 | grok-4.7 |
-| 38 | `ican-gpt.com` | $0.24 / $0.72 | Super Grok Heavy Grok 4.7 | 0.12 | grok-4.7 |
-| 39 | `sub2api.luciferai.cc` | $0.24 / $0.72 | grok-heavy | 0.12 | grok-4.7 |
-| 40 | `www.kk-vibe.top` | $0.24 / $0.72 | Grok-Heavy | 0.12 | grok-4.7 |
-| 41 | `www.lingzhan.top` | $0.24 / $0.72 | Grok Heavy | 0.12 | grok-4.7 |
-| 42 | `www.shitapi.cn` | $0.24 / $0.72 | GROK[0.1~0.3动态调整] | 0.12 | grok-4.7 |
-| 43 | `www.text168.com` | $0.24 / $0.72 | Grok-heavy | 0.12 | grok-4.7 |
+| 9 | `api.123uq.com` | $0.16 / $0.48 | grok  heavy | 0.08 | grok-4.7 |
+| 10 | `api.apikl.ai` | $0.16 / $0.48 | Grok-Heavy | 0.08 | grok-4.7 |
+| 11 | `mofa.love.gd` | $0.16 / $0.48 | grok-heavy | 0.08 | grok-4.7 |
+| 12 | `www.bb-api.com` | $0.16 / $0.48 | grok heavy-008倍率 （巨推荐） | 0.08 | grok-4.7 |
+| 13 | `aipixapi.art` | $0.17 / $0.51 | grok-heavy | 0.085 | grok-4.7 |
+| 14 | `xigong.cloud` | $0.17 / $0.51 | Grok-全模型 | 0.085 | grok-4.7 |
+| 15 | `kimera.cc` | $0.18 / $0.54 | Grok heavy | 0.09 | grok-4.7 |
+| 16 | `sub.bulita.net` | $0.18 / $0.54 | grok heavy | 0.09 | grok-4.7 |
+| 17 | `you.loveme.space` | $0.18 / $0.54 | grok-heavy | 0.09 | grok-4.7 |
+| 18 | `api.qiuming-ai.com` | $0.192 / $0.576 | Grok-Heavy | 0.096 | grok-4.7 |
+| 19 | `api.qiuming-web.com` | $0.192 / $0.576 | Grok-Heavy | 0.096 | grok-4.7 |
+| 20 | `ai.bayunzi.shop` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
+| 21 | `aigw.store` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
+| 22 | `api.9m8m.com` | $0.2 / $0.6 | Grok heavy 分组 | 0.1 | grok-4.7 |
+| 23 | `api.robinsonai.shop` | $0.2 / $0.6 | Grok | 0.1 | grok-4.7 |
+| 24 | `api.zayuapi.com` | $0.2 / $0.6 | Grok-Heavy | 0.1 | grok-4.7 |
+| 25 | `app.yylx.io` | $0.2 / $0.6 | X.AI Grok - 标准 | 0.1 | grok-4.7 |
+| 26 | `cccode.pro` | $0.2 / $0.6 | 【惠】grok-heavy支持4.7 | 0.1 | grok-4.7 |
+| 27 | `codexpert.top` | $0.2 / $0.6 | Gork-heavy | 0.1 | grok-4.7 |
+| 28 | `heilovehei.com` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
+| 29 | `hhw1231.com` | $0.2 / $0.6 | Grok-heavy | 0.1 | grok-4.7 |
+| 30 | `kedaya.ai` | $0.2 / $0.6 | 甩GPT无数条街的Grok 吊打GPT | 0.1 | grok-4.7 |
+| 31 | `supercodes.vip` | $0.2 / $0.6 | Grok Super | 0.1 | grok-4.7 |
+| 32 | `tntapi.com` | $0.2 / $0.6 | Grok Heavy | 0.1 | grok-4.7 |
+| 33 | `salcara.top` | $0.22 / $0.66 | grok | 0.11 | grok-4.7 |
+| 34 | `aicat.api.sumnece.com` | $0.24 / $0.72 | Heavy | 0.12 | grok-4.7 |
+| 35 | `api.168box.xyz` | $0.24 / $0.72 | grok | 0.12 | grok-4.7 |
+| 36 | `flux-code.cc` | $0.24 / $0.72 | grok | 0.12 | grok-4.7 |
+| 37 | `ican-gpt.com` | $0.24 / $0.72 | Super Grok Heavy Grok 4.7 | 0.12 | grok-4.7 |
+| 38 | `sub2api.luciferai.cc` | $0.24 / $0.72 | grok-heavy | 0.12 | grok-4.7 |
+| 39 | `www.kk-vibe.top` | $0.24 / $0.72 | Grok-Heavy | 0.12 | grok-4.7 |
+| 40 | `www.lingzhan.top` | $0.24 / $0.72 | Grok Heavy | 0.12 | grok-4.7 |
+| 41 | `www.shitapi.cn` | $0.24 / $0.72 | GROK[0.1~0.3动态调整] | 0.12 | grok-4.7 |
+| 42 | `www.text168.com` | $0.24 / $0.72 | Grok-heavy | 0.12 | grok-4.7 |
+| 43 | `www.yydsapi.uno` | $0.24 / $0.72 | Grok Heavy | 0.12 | grok-4.7 |
 | 44 | `zzone.cc.cd` | $0.24 / $0.72 | Grok heavy | 0.12 | grok-4.7 |
 | 45 | `abinapi.com` | $0.26 / $0.78 | Grok纯血 | 0.13 | grok-4.7 |
 | 46 | `ai.mzlone.top` | $0.26 / $0.78 | Grok - Heavy | 0.13 | grok-4.7 |

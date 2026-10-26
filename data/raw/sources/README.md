@@ -27,6 +27,7 @@
 ## 验证证据
 
 - `*-probe.jsonl`：首页公开 GET 的状态、标题、延迟和最终主机；`401/403/429/5xx` 也保留。`veridrop-probe.jsonl` 是对主候选池中此前未验证的 2,200 个域名补做的探活。
+- `passive-refresh-probe.jsonl` / `passive-refresh-scan.json`：对 1,747 个此前未探活的 CT/目录候选做的低并发补验；871 个返回 2xx/3xx，保留 482 个不含敏感字段的公开接口结果，去重后主表新增 1 个 canonical 站点，其他命中项与已有域名合并。
 - `*-scan.json`：只访问已公开的状态/价格/模型目录接口，不调用推理接口。`directory-scan.json` 是公开目录新候选的接口验证结果，208 个 2xx/3xx 中命中 114 个。
 - `unified-candidate-probe.jsonl` / `unified-candidate-scan.json`：最后一批补验证的 19 个未覆盖域名，19/19 返回 HTTP 200，17 个命中公开接口。
 - `veridrop-scan.json`：上述 Veridrop 补验证中 1,053 个 2xx/3xx 域名的公开接口结果，命中 584 个。

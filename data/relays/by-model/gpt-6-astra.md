@@ -98,11 +98,11 @@
 | 29 | `supercodes.vip` | $0.6 / $3 | GPT Plus | 0.06 | gpt-6-astra |
 | 30 | `api.tyasai.com` | $0.65 / $3.25 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-6-astra |
 | 31 | `pureai.ink` | $0.65 / $3.25 | Z-GPT-Team | 0.065 | gpt-6-astra |
-| 32 | `www.yydsapi.uno` | $0.66 / $3.3 | Codex Plus【会降智】 | 0.066 | gpt-6-astra |
-| 33 | `aiapibank.com` | $0.7 / $3.5 | GPT低价分组 | 0.07 | gpt-6-astra |
-| 34 | `api.hyhawang.com` | $0.7 / $3.5 | gpt低倍率 | 0.07 | gpt-6-astra |
-| 35 | `kedaya.ai` | $0.7 / $3.5 | GPT 稳定分组 | 0.07 | gpt-6-astra |
-| 36 | `ovo1.vip` | $0.7 / $3.5 | Codex Plus | 0.07 | gpt-6-astra |
+| 32 | `aiapibank.com` | $0.7 / $3.5 | GPT低价分组 | 0.07 | gpt-6-astra |
+| 33 | `api.hyhawang.com` | $0.7 / $3.5 | gpt低倍率 | 0.07 | gpt-6-astra |
+| 34 | `kedaya.ai` | $0.7 / $3.5 | GPT 稳定分组 | 0.07 | gpt-6-astra |
+| 35 | `ovo1.vip` | $0.7 / $3.5 | Codex Plus | 0.07 | gpt-6-astra |
+| 36 | `www.yydsapi.uno` | $0.7 / $3.5 | Codex Plus【会降智】 | 0.07 | gpt-6-astra |
 | 37 | `sheepapi.top` | $0.75 / $3.75 | gpt-混池 | 0.075 | gpt-6-astra |
 | 38 | `worldcodes.online` | $0.75 / $3.75 | Codex Plus低价 | 0.075 | gpt-6-astra |
 | 39 | `ai.sofurry.cloud` | $0.8 / $4 | GPT 独立池+混合池  | 0.08 | gpt-6-astra |

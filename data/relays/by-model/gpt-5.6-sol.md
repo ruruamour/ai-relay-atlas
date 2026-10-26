@@ -1,6 +1,6 @@
 # gpt-5.6-sol
 
-> 2275 站提供 · 正常价 1494 站 · 名义中位价 **$1.42**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（1096 站公开充值价） · 推算，未对账
+> 2275 站提供 · 正常价 1494 站 · 名义中位价 **$1.42**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（1097 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `cdn.hlool.top` | ¥0.32 | $0.32 / $1.6 | 1 | 【GPT】plus/team炸弹车混合分组 | gpt-5.6-sol |
 | 50 | `oai.sb` | ¥0.32 | $0.32 / $1.6 | 1 | 【GPT】plus/team炸弹车混合分组 | gpt-5.6-sol |
 
-> 另有 1046 站未列出。
+> 另有 1047 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -100,14 +100,14 @@
 | 31 | `supercodes.vip` | $0.3 / $1.8 | GPT Plus | 0.06 | gpt-5.6-sol |
 | 32 | `api.tyasai.com` | $0.325 / $1.95 | GPT Plus（不稳定｜绝对全网最低｜6.5分/刀） | 0.065 | gpt-5.6-sol |
 | 33 | `pureai.ink` | $0.325 / $1.95 | Z-GPT-Team | 0.065 | gpt-5.6-sol |
-| 34 | `www.yydsapi.uno` | $0.33 / $1.98 | Codex Plus【会降智】 | 0.066 | gpt-5.6-sol |
-| 35 | `change2pro.com` | $0.34 / $2.04 | Codex-真香组 | 0.068 | gpt-5.6-sol |
-| 36 | `aiapibank.com` | $0.35 / $2.1 | GPT低价分组 | 0.07 | gpt-5.6-sol |
-| 37 | `api.hyhawang.com` | $0.35 / $2.1 | gpt低倍率 | 0.07 | gpt-5.6-sol |
-| 38 | `doufuapi.com` | $0.35 / $2.1 | GPT分组\|低价捡漏 | 0.07 | gpt-5.6-sol |
-| 39 | `kedaya.ai` | $0.35 / $2.1 | GPT 稳定分组 | 0.07 | gpt-5.6-sol |
-| 40 | `ovo1.vip` | $0.35 / $2.1 | Codex Plus | 0.07 | gpt-5.6-sol |
-| 41 | `www.civilian.asia` | $0.35 / $2.1 | 狼人分组 | 0.07 | gpt-5.6-sol |
+| 34 | `change2pro.com` | $0.34 / $2.04 | Codex-真香组 | 0.068 | gpt-5.6-sol |
+| 35 | `aiapibank.com` | $0.35 / $2.1 | GPT低价分组 | 0.07 | gpt-5.6-sol |
+| 36 | `api.hyhawang.com` | $0.35 / $2.1 | gpt低倍率 | 0.07 | gpt-5.6-sol |
+| 37 | `doufuapi.com` | $0.35 / $2.1 | GPT分组\|低价捡漏 | 0.07 | gpt-5.6-sol |
+| 38 | `kedaya.ai` | $0.35 / $2.1 | GPT 稳定分组 | 0.07 | gpt-5.6-sol |
+| 39 | `ovo1.vip` | $0.35 / $2.1 | Codex Plus | 0.07 | gpt-5.6-sol |
+| 40 | `www.civilian.asia` | $0.35 / $2.1 | 狼人分组 | 0.07 | gpt-5.6-sol |
+| 41 | `www.yydsapi.uno` | $0.35 / $2.1 | Codex Plus【会降智】 | 0.07 | gpt-5.6-sol |
 | 42 | `api-ap.onemini.top` | $0.36 / $1.8 | {非GPT}swe-2 【不会用别选】 | 0.12 | gpt-5.6-sol |
 | 43 | `api.onemini.top` | $0.36 / $1.8 | {非GPT}swe-2 【不会用别选】 | 0.12 | gpt-5.6-sol |
 | 44 | `sheepapi.top` | $0.375 / $2.25 | gpt-混池 | 0.075 | gpt-5.6-sol |
@@ -118,6 +118,6 @@
 | 49 | `api.asdfas.party` | $0.4 / $2.4 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-5.6-sol |
 | 50 | `api.bingoapi.top` | $0.4 / $2.4 | gpt plus（骨折价，稳定性适中） | 0.08 | gpt-5.6-sol |
 
-> 另有 348 站未列出。
+> 另有 347 站未列出。
 
 > 781 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

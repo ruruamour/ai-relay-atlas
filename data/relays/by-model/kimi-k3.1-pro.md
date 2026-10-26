@@ -1,6 +1,6 @@
 # kimi-k3.1-pro
 
-> 86 站提供 · 正常价 60 站 · 名义中位价 **$2.8084**/1M 输入 · 实付中位价 **¥8.97**/1M 输入（39 站公开充值价） · 推算，未对账
+> 90 站提供 · 正常价 63 站 · 名义中位价 **$2.8168**/1M 输入 · 实付中位价 **¥8.385**/1M 输入（40 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,31 +24,32 @@
 | 12 | `oai.sb` | ¥3.25 | $3.25 / $17 | 1 | 【短期国模优惠渠道】【非自营】 | kimi-k3.1-pro |
 | 13 | `deepkey.top` | ¥3.9 | $3.9 / $20.4 | 1 | opencode | kimi-k3.1-pro |
 | 14 | `www.zzshu.cc` | ¥3.9 | $3.9 / $20.4 | 1 | Kimi | kimi-k3.1-pro |
-| 15 | `8stoken.com` | ¥6.5 | $6.5 / $34 | 1 | 国产模型聚合专区 | kimi-k3.1-pro |
-| 16 | `pay.magic666.top` | ¥6.5 | $6.5 / $34 | 1 | 国产 | kimi-k3.1-pro |
-| 17 | `rivoapi.com` | ¥7 | $7 / $35 | 1 | 月之暗面Kimi | kimi-k3.1-pro |
-| 18 | `9527.codes` | ¥7.8 | $7.8 / $40.8 | 1 | 🇨🇳国产官方模型 | kimi-k3.1-pro |
-| 19 | `9527code.com` | ¥7.8 | $7.8 / $40.8 | 1 | 🇨🇳国产官方模型 | kimi-k3.1-pro |
-| 20 | `zhongkey.com` | ¥8.97 | $8.97 / $46.92 | 1 | K3.1pro | kimi-k3.1-pro |
-| 21 | `jbbtoken.cn` | ¥9 | $9 / $45 | 1 | 国产模型 | kimi-k3.1-pro |
-| 22 | `aokapi.com` | ¥9.1 | $9.1 / $47.6 | 1 | CN-model-API | kimi-k3.1-pro |
-| 23 | `4sapi.com` | ¥10.4 | $10.4 / $54.4 | 1 | 国产全模型 | kimi-k3.1-pro |
-| 24 | `api.ikuncode.cc` | ¥12.74 | $12.74 / $66.64 | 1 | kimi | kimi-k3.1-pro |
-| 25 | `apicdn.xyc.ai` | ¥12.81 | $1.85714 / $9.71429 | 6.9 | kimi-ent | kimi-k3.1-pro |
-| 26 | `apicdn.xycai.us` | ¥12.81 | $1.85714 / $9.71429 | 6.9 | kimi-ent | kimi-k3.1-pro |
-| 27 | `open.cherryin.ai` | ¥13.56 | $2 / $10 | 6.78 | default | moonshotai/kimi-k3.1-pro |
-| 28 | `api.apiyi.com` | ¥14 | $2 / $10 | 7 | default | kimi-k3.1-pro |
-| 29 | `api.laozhang.ai` | ¥14 | $2 / $10 | 7 | default | kimi-k3.1-pro |
-| 30 | `express-ent-admin.cherryin.net` | ¥14.4 | $2 / $10 | 7.2 | default | moonshotai/kimi-k3.1-pro |
-| 31 | `api.orcarouter.ai` | ¥14.6 | $2 / $10 | 7.3 | default | kimi/kimi-k3.1-pro |
-| 32 | `apimaster.ai` | ¥14.7 | $2.1 / $10.5 | 7 | default | kimi-k3.1-pro |
-| 33 | `api.inxk.com` | ¥18.2 | $2.6 / $13.6 | 7 | Kimi API | kimi-k3.1-pro |
-| 34 | `ai.iisbo.com` | ¥20.56 | $2.8168 / $14.734 | 7.3 | token | [token]kimi-k3.1-pro |
-| 35 | `daleai.cn` | ¥28.47 | $3.9 / $20.4 | 7.3 | kimi K3.1pro | kimi-k3.1-pro |
-| 36 | `kpzhu.com` | ¥52.2 | $7.15 / $37.345 | 7.3 | 稳定k3 | kimi-k3.1-pro |
-| 37 | `1sapi.com` | ¥94.9 | $13 / $68 | 7.3 | 国产全模型 | kimi-k3.1-pro |
-| 38 | `new.fluapi.com` | ¥949 | $130 / $680 | 7.3 | default | kimi-k3.1-pro |
-| 39 | `api.meow61.my` | ¥1267 | $173.576 / $907.936 | 7.3 | default | Kimi-K3.1-Pro [官方8折][按量] |
+| 15 | `api.labapi.work` | ¥5.7 | $5.7 / $28.8 | 1 | default | kimi-k3.1-pro |
+| 16 | `8stoken.com` | ¥6.5 | $6.5 / $34 | 1 | 国产模型聚合专区 | kimi-k3.1-pro |
+| 17 | `pay.magic666.top` | ¥6.5 | $6.5 / $34 | 1 | 国产 | kimi-k3.1-pro |
+| 18 | `rivoapi.com` | ¥7 | $7 / $35 | 1 | 月之暗面Kimi | kimi-k3.1-pro |
+| 19 | `9527.codes` | ¥7.8 | $7.8 / $40.8 | 1 | 🇨🇳国产官方模型 | kimi-k3.1-pro |
+| 20 | `9527code.com` | ¥7.8 | $7.8 / $40.8 | 1 | 🇨🇳国产官方模型 | kimi-k3.1-pro |
+| 21 | `zhongkey.com` | ¥8.97 | $8.97 / $46.92 | 1 | K3.1pro | kimi-k3.1-pro |
+| 22 | `jbbtoken.cn` | ¥9 | $9 / $45 | 1 | 国产模型 | kimi-k3.1-pro |
+| 23 | `aokapi.com` | ¥9.1 | $9.1 / $47.6 | 1 | CN-model-API | kimi-k3.1-pro |
+| 24 | `4sapi.com` | ¥10.4 | $10.4 / $54.4 | 1 | 国产全模型 | kimi-k3.1-pro |
+| 25 | `api.ikuncode.cc` | ¥12.74 | $12.74 / $66.64 | 1 | kimi | kimi-k3.1-pro |
+| 26 | `apicdn.xyc.ai` | ¥12.81 | $1.85714 / $9.71429 | 6.9 | kimi-ent | kimi-k3.1-pro |
+| 27 | `apicdn.xycai.us` | ¥12.81 | $1.85714 / $9.71429 | 6.9 | kimi-ent | kimi-k3.1-pro |
+| 28 | `open.cherryin.ai` | ¥13.56 | $2 / $10 | 6.78 | default | moonshotai/kimi-k3.1-pro |
+| 29 | `api.apiyi.com` | ¥14 | $2 / $10 | 7 | default | kimi-k3.1-pro |
+| 30 | `api.laozhang.ai` | ¥14 | $2 / $10 | 7 | default | kimi-k3.1-pro |
+| 31 | `express-ent-admin.cherryin.net` | ¥14.4 | $2 / $10 | 7.2 | default | moonshotai/kimi-k3.1-pro |
+| 32 | `api.orcarouter.ai` | ¥14.6 | $2 / $10 | 7.3 | default | kimi/kimi-k3.1-pro |
+| 33 | `apimaster.ai` | ¥14.7 | $2.1 / $10.5 | 7 | default | kimi-k3.1-pro |
+| 34 | `api.inxk.com` | ¥18.2 | $2.6 / $13.6 | 7 | Kimi API | kimi-k3.1-pro |
+| 35 | `ai.iisbo.com` | ¥20.56 | $2.8168 / $14.734 | 7.3 | token | [token]kimi-k3.1-pro |
+| 36 | `daleai.cn` | ¥28.47 | $3.9 / $20.4 | 7.3 | kimi K3.1pro | kimi-k3.1-pro |
+| 37 | `kpzhu.com` | ¥52.2 | $7.15 / $37.345 | 7.3 | 稳定k3 | kimi-k3.1-pro |
+| 38 | `1sapi.com` | ¥94.9 | $13 / $68 | 7.3 | 国产全模型 | kimi-k3.1-pro |
+| 39 | `new.fluapi.com` | ¥949 | $130 / $680 | 7.3 | default | kimi-k3.1-pro |
+| 40 | `api.meow61.my` | ¥1267 | $173.576 / $907.936 | 7.3 | default | Kimi-K3.1-Pro [官方8折][按量] |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -61,19 +62,21 @@
 | 5 | `sub2api.luciferai.cc` | $1.04 / $5.44 | kimi | 0.08 | kimi-k3.1-pro |
 | 6 | `aixhub.shop` | $1.3 / $6.8 | deepseek | 0.1 | kimi-k3.1-pro |
 | 7 | `codexauv.com` | $1.3 / $6.8 | 国产模型聚合-Workbuddy渠道 | 0.1 | kimi-k3.1-pro |
-| 8 | `api.zayuapi.com` | $1.56 / $8.16 | Kimi-默认分组 | 0.12 | kimi-k3.1-pro |
-| 9 | `www.cccode.pro` | $1.56 / $8.16 | 自部署kimi-k3.1 | 0.12 | kimi-k3.1-pro |
-| 10 | `heilovehei.com` | $2 / $10 | kimi | 0.1 | kimi-k3.1-pro |
-| 11 | `onliqiu.com` | $2.6 / $13.6 | 国模混合分组-X 稳定 | 0.2 | kimi-k3.1-pro |
-| 12 | `api.kcne.top` | $2.8 / $14 | 国模组 | 1.4 | kimi-k3.1-pro |
-| 13 | `hapiopen.cc` | $3.25 / $17 | kimi k3 | 0.25 | kimi-k3.1-pro |
-| 14 | `emooo.cc` | $3.9 / $20.4 | 【国模】满血自部署版 | 1 | kimi-k3.1-pro |
-| 15 | `foxbeeai.com` | $3.9 / $20.4 | 国模 | 0.3 | kimi-k3.1-pro |
-| 16 | `goforai.top` | $5.2 / $27.2 | Kimi K3 | 0.4 | kimi-k3.1-pro |
-| 17 | `vapi.chuangxiangai.asia` | $9.45 / $46.2 | 国模 0.07x-0.13x | 0.7 | kimi-k3.1-pro |
-| 18 | `uuapi.io` | $10.14 / $53.04 | 国模-openai协议 | 1 | kimi-k3.1-pro |
-| 19 | `hubway.cc` | $19.5 / $102 | 国模Kimi+Glm【0.15】 | 1.5 | kimi-k3.1-pro |
-| 20 | `meta-api.vip` | $19.5 / $102 | Kimi · 优质 | 0.3 | kimi-k3.1-pro |
-| 21 | `cdn.juaiapi.com` | $325 / $1700 | 国产模型通用 | 175 | kimi-k3.1-pro |
+| 8 | `www.yydsapi.uno` | $1.3 / $6.8 | kimi | 0.1 | kimi-k3.1-pro |
+| 9 | `api.zayuapi.com` | $1.56 / $8.16 | Kimi-默认分组 | 0.12 | kimi-k3.1-pro |
+| 10 | `www.cccode.pro` | $1.56 / $8.16 | 自部署kimi-k3.1 | 0.12 | kimi-k3.1-pro |
+| 11 | `heilovehei.com` | $2 / $10 | kimi | 0.1 | kimi-k3.1-pro |
+| 12 | `onliqiu.com` | $2.6 / $13.6 | 国模混合分组-X 稳定 | 0.2 | kimi-k3.1-pro |
+| 13 | `api.kcne.top` | $2.8 / $14 | 国模组 | 1.4 | kimi-k3.1-pro |
+| 14 | `hapiopen.cc` | $3.25 / $17 | kimi k3 | 0.25 | kimi-k3.1-pro |
+| 15 | `emooo.cc` | $3.9 / $20.4 | 【国模】满血自部署版 | 1 | kimi-k3.1-pro |
+| 16 | `foxbeeai.com` | $3.9 / $20.4 | 国模 | 0.3 | kimi-k3.1-pro |
+| 17 | `goforai.top` | $5.2 / $27.2 | Kimi K3 | 0.4 | kimi-k3.1-pro |
+| 18 | `vapi.chuangxiangai.asia` | $9.45 / $46.2 | 国模 0.07x-0.13x | 0.7 | kimi-k3.1-pro |
+| 19 | `uuapi.io` | $10.14 / $53.04 | 国模-openai协议 | 1 | kimi-k3.1-pro |
+| 20 | `hubway.cc` | $19.5 / $102 | 国模Kimi+Glm【0.15】 | 1.5 | kimi-k3.1-pro |
+| 21 | `meta-api.vip` | $19.5 / $102 | Kimi · 优质 | 0.3 | kimi-k3.1-pro |
+| 22 | `cdn.juaiapi.com` | $325 / $1700 | 国产模型通用 | 175 | kimi-k3.1-pro |
+| 23 | `www.tokenrouter.tech` | $325 / $1700 | 国产模型通用 | 175 | kimi-k3.1-pro |
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

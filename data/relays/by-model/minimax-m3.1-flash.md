@@ -1,6 +1,6 @@
 # minimax-m3.1-flash
 
-> 53 站提供 · 正常价 33 站 · 名义中位价 **$0.142857**/1M 输入 · 实付中位价 **¥0.6046**/1M 输入（25 站公开充值价） · 推算，未对账
+> 54 站提供 · 正常价 34 站 · 名义中位价 **$0.142857**/1M 输入 · 实付中位价 **¥0.6046**/1M 输入（26 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,24 +17,25 @@
 | 5 | `4zapi.com` | ¥0.3325 | $0.0495 / $0.198 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
 | 6 | `api.antmoo.cc` | ¥0.3477 | $0.05175 / $0.207 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
 | 7 | `wodapis.com` | ¥0.3658 | $0.05445 / $0.2178 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 8 | `api.88api.shop` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 9 | `lanbuff.app` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 10 | `infai.cc` | ¥0.4776 | $0.0711 / $0.2844 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 11 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | MiniMax-M3.1-Flash |
-| 12 | `api.cursorai.art` | ¥0.6046 | $0.09 / $0.36 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 13 | `jeniya.cn` | ¥0.6046 | $0.09 / $0.36 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 14 | `linoroute.com` | ¥0.6046 | $0.09 / $0.36 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
-| 15 | `clawrouter.com` | ¥0.9855 | $0.135 / $0.54 | 7.3 | multipurpose | minimax/minimax-m3.1-flash |
-| 16 | `apicdn.xyc.ai` | ¥0.9857 | $0.142857 / $0.571429 | 6.9 | minimax-ent | minimax-m3.1-flash |
-| 17 | `apicdn.xycai.us` | ¥0.9857 | $0.142857 / $0.571429 | 6.9 | minimax-ent | minimax-m3.1-flash |
-| 18 | `api.laozhang.ai` | ¥1 | $0.142857 / $0.571429 | 7 | default | MiniMax-M3.1-Flash |
-| 19 | `apimaster.ai` | ¥1.103 | $0.1575 / $0.63 | 7 | default | MiniMax-M3.1-Flash |
-| 20 | `modelsell.com` | ¥2.04 | $0.3 / $1.2 | 6.8 | official | MiniMax-M3.1-Flash |
-| 21 | `8stoken.com` | ¥2.1 | $2.1 / $4.2 | 1 | 国产模型聚合专区 | minimax-m3.1-flash |
-| 22 | `www.zhenx.ai` | ¥2.19 | $0.3 / $1 | 7.3 | default | minimax-m3.1-flash |
-| 23 | `api.llm-token.cn` | ¥14.6 | $2 / $10 | 7.3 | default | MiniMax-M3.1-flash |
-| 24 | `gpt-agent.cc` | ¥14.6 | $2 / $10 | 7.3 | default | MiniMax-M3.1-flash |
-| 25 | `otoken.pro` | ¥30 | $30 / $120 | 1 | default | MiniMax-M3.1-Flash |
+| 8 | `api.labapi.work` | ¥0.42 | $0.42 / $1.68 | 1 | default | minimax-m3.1-flash |
+| 9 | `api.88api.shop` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
+| 10 | `lanbuff.app` | ¥0.4535 | $0.0675 / $0.27 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
+| 11 | `infai.cc` | ¥0.4776 | $0.0711 / $0.2844 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
+| 12 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | MiniMax-M3.1-Flash |
+| 13 | `api.cursorai.art` | ¥0.6046 | $0.09 / $0.36 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
+| 14 | `jeniya.cn` | ¥0.6046 | $0.09 / $0.36 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
+| 15 | `linoroute.com` | ¥0.6046 | $0.09 / $0.36 | 6.718 | Self-Deployed-1 | MiniMax-M3.1-Flash |
+| 16 | `clawrouter.com` | ¥0.9855 | $0.135 / $0.54 | 7.3 | multipurpose | minimax/minimax-m3.1-flash |
+| 17 | `apicdn.xyc.ai` | ¥0.9857 | $0.142857 / $0.571429 | 6.9 | minimax-ent | minimax-m3.1-flash |
+| 18 | `apicdn.xycai.us` | ¥0.9857 | $0.142857 / $0.571429 | 6.9 | minimax-ent | minimax-m3.1-flash |
+| 19 | `api.laozhang.ai` | ¥1 | $0.142857 / $0.571429 | 7 | default | MiniMax-M3.1-Flash |
+| 20 | `apimaster.ai` | ¥1.103 | $0.1575 / $0.63 | 7 | default | MiniMax-M3.1-Flash |
+| 21 | `modelsell.com` | ¥2.04 | $0.3 / $1.2 | 6.8 | official | MiniMax-M3.1-Flash |
+| 22 | `8stoken.com` | ¥2.1 | $2.1 / $4.2 | 1 | 国产模型聚合专区 | minimax-m3.1-flash |
+| 23 | `www.zhenx.ai` | ¥2.19 | $0.3 / $1 | 7.3 | default | minimax-m3.1-flash |
+| 24 | `api.llm-token.cn` | ¥14.6 | $2 / $10 | 7.3 | default | MiniMax-M3.1-flash |
+| 25 | `gpt-agent.cc` | ¥14.6 | $2 / $10 | 7.3 | default | MiniMax-M3.1-flash |
+| 26 | `otoken.pro` | ¥30 | $30 / $120 | 1 | default | MiniMax-M3.1-Flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

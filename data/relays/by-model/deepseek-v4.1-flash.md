@@ -37,29 +37,29 @@
 | 25 | `www.wanmoapi.com` | ¥0.075 | $0.075 / $0.3 | 1 | bailian | deepseek-v4.1-flash |
 | 26 | `api.aieyra.cn` | ¥0.08 | $0.08 / $0.16 | 1 | ChinaModels | deepseek-v4.1-flash |
 | 27 | `api.lcapi.online` | ¥0.08 | $0.08 / $0.16 | 1 | 非人类分组【0.08x】 | deepseek-v4.1-flash |
-| 28 | `closedai.kylenqaq.com` | ¥0.08 | $0.08 / $0.32 | 1 | 国模3 | deepseek-v4.1-flash |
-| 29 | `xiaok.lol` | ¥0.08 | $0.08 / $0.32 | 1 | Deepsleep | deepseek-v4.1-flash |
-| 30 | `aizzz.shop` | ¥0.088 | $0.088 / $0.352 | 1 | default | DeepSeek-V4.1-Flash |
-| 31 | `router.hctopup.com` | ¥0.097 | $0.097 / $0.388 | 1 | Default | deepseek-v4.1-flash |
-| 32 | `api.changsf.top` | ¥0.1 | $0.1 / $0.4 | 1 | deepseek | deepseek-v4.1-flash |
-| 33 | `code.ciyuanapi.xyz` | ¥0.1 | $0.1 / $0.4 | 1 | wb国产模型 | deepseek-v4.1-flash |
-| 34 | `nezhai.vip` | ¥0.104 | $0.104 / $1.04 | 1 | 【Deespeek】 | deepseek-v4.1-flash |
-| 35 | `api.token-hacker.com` | ¥0.105 | $0.105 / $0.35 | 1 | 国产热门模型 | deepseek-v4.1-flash |
-| 36 | `api.yunnet.top` | ¥0.105 | $0.105 / $0.42 | 1 | DeepSeek | deepseek-v4.1-flash |
-| 37 | `coneverse.com` | ¥0.105 | $0.105 / $0.21 | 1 | supply-938eaece173408f4d89f6df2 | deepseek-v4.1-flash |
-| 38 | `infistar.ai` | ¥0.105 | $0.105 / $0.21 | 1 | supply-089debab9b2ea9e81d7ff058 | deepseek-v4.1-flash |
-| 39 | `openrouter.cloud` | ¥0.1095 | $0.015 / $0.06 | 7.3 | default | deepseek-v4.1-flash |
-| 40 | `api.hlool.top` | ¥0.12 | $0.04 / $0.08 | 3 | default | deepseek-v4.1-flash |
-| 41 | `api.xiaoyaoxx.cn` | ¥0.12 | $0.12 / $0.48 | 1 | 国模自部署 | deepseek-v4.1-flash |
-| 42 | `www.token.me.uk` | ¥0.12 | $0.12 / $0.48 | 1 | DeepSeek 稳定-海外版 | deepseek-v4.1-flash |
-| 43 | `xlapis.com` | ¥0.12 | $0.12 / $0.48 | 1 | DeepSeek-按量计费专区 | deepseek-v4.1-flash |
-| 44 | `new.ainat.qzz.io` | ¥0.13 | $0.13 / $0.52 | 1 | 国模 | deepseek-v4.1-flash |
-| 45 | `metarouters.org` | ¥0.135 | $0.135 / $0.54 | 1 | Deepseek 官方 | deepseek-v4.1-flash |
-| 46 | `apiqd.com` | ¥0.14 | $0.14 / $0.56 | 1 | deepseek | deepseek-v4.1-flash |
-| 47 | `cf.sheapi.cc` | ¥0.14 | $0.14 / $0.56 | 1 | deepseek | deepseek-v4.1-flash |
-| 48 | `kuai-ai.vip` | ¥0.146 | $0.02 / $0.08 | 7.3 | 周日洗池子 | deepseek-v4.1-flash-1017 |
-| 49 | `www.omniroute.cc` | ¥0.1464 | $0.1464 / $0.5856 | 1 | DeepSeek-自部署 | deepseek-v4.1-flash |
-| 50 | `1.cnmz.de` | ¥0.15 | $0.15 / $0.6 | 1 | 国模精品极致速度分组 | deepseek-v4.1-flash |
+| 28 | `xiaok.lol` | ¥0.08 | $0.08 / $0.32 | 1 | Deepsleep | deepseek-v4.1-flash |
+| 29 | `aizzz.shop` | ¥0.088 | $0.088 / $0.352 | 1 | default | DeepSeek-V4.1-Flash |
+| 30 | `router.hctopup.com` | ¥0.097 | $0.097 / $0.388 | 1 | Default | deepseek-v4.1-flash |
+| 31 | `api.changsf.top` | ¥0.1 | $0.1 / $0.4 | 1 | deepseek | deepseek-v4.1-flash |
+| 32 | `code.ciyuanapi.xyz` | ¥0.1 | $0.1 / $0.4 | 1 | wb国产模型 | deepseek-v4.1-flash |
+| 33 | `nezhai.vip` | ¥0.104 | $0.104 / $1.04 | 1 | 【Deespeek】 | deepseek-v4.1-flash |
+| 34 | `api.token-hacker.com` | ¥0.105 | $0.105 / $0.35 | 1 | 国产热门模型 | deepseek-v4.1-flash |
+| 35 | `api.yunnet.top` | ¥0.105 | $0.105 / $0.42 | 1 | DeepSeek | deepseek-v4.1-flash |
+| 36 | `coneverse.com` | ¥0.105 | $0.105 / $0.21 | 1 | supply-938eaece173408f4d89f6df2 | deepseek-v4.1-flash |
+| 37 | `infistar.ai` | ¥0.105 | $0.105 / $0.21 | 1 | supply-089debab9b2ea9e81d7ff058 | deepseek-v4.1-flash |
+| 38 | `openrouter.cloud` | ¥0.1095 | $0.015 / $0.06 | 7.3 | default | deepseek-v4.1-flash |
+| 39 | `api.hlool.top` | ¥0.12 | $0.04 / $0.08 | 3 | default | deepseek-v4.1-flash |
+| 40 | `api.xiaoyaoxx.cn` | ¥0.12 | $0.12 / $0.48 | 1 | 国模自部署 | deepseek-v4.1-flash |
+| 41 | `www.token.me.uk` | ¥0.12 | $0.12 / $0.48 | 1 | DeepSeek 稳定-海外版 | deepseek-v4.1-flash |
+| 42 | `xlapis.com` | ¥0.12 | $0.12 / $0.48 | 1 | DeepSeek-按量计费专区 | deepseek-v4.1-flash |
+| 43 | `new.ainat.qzz.io` | ¥0.13 | $0.13 / $0.52 | 1 | 国模 | deepseek-v4.1-flash |
+| 44 | `metarouters.org` | ¥0.135 | $0.135 / $0.54 | 1 | Deepseek 官方 | deepseek-v4.1-flash |
+| 45 | `apiqd.com` | ¥0.14 | $0.14 / $0.56 | 1 | deepseek | deepseek-v4.1-flash |
+| 46 | `cf.sheapi.cc` | ¥0.14 | $0.14 / $0.56 | 1 | deepseek | deepseek-v4.1-flash |
+| 47 | `kuai-ai.vip` | ¥0.146 | $0.02 / $0.08 | 7.3 | 周日洗池子 | deepseek-v4.1-flash-1017 |
+| 48 | `www.omniroute.cc` | ¥0.1464 | $0.1464 / $0.5856 | 1 | DeepSeek-自部署 | deepseek-v4.1-flash |
+| 49 | `1.cnmz.de` | ¥0.15 | $0.15 / $0.6 | 1 | 国模精品极致速度分组 | deepseek-v4.1-flash |
+| 50 | `api.tccxy.top` | ¥0.15 | $0.15 / $0.6 | 1 | [自建]国模flash | deepseek-v4.1-flash |
 
 > 另有 501 站未列出。
 

@@ -11,8 +11,8 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.25 | $0.25 / $0.75 | 1 | relay | stepfun-ai/step-5-preview |
-| 2 | `closedai.kylenqaq.com` | ¥0.28 | $0.28 / $0.8 | 1 | 国模3 | step-5-preview |
-| 3 | `gpt.venlacy.com` | ¥0.4 | $0.4 / $1.08 | 1 | 国模 | stepfun/step-5-preview |
+| 2 | `gpt.venlacy.com` | ¥0.4 | $0.4 / $1.08 | 1 | 国模 | stepfun/step-5-preview |
+| 3 | `api.labapi.work` | ¥0.42 | $0.42 / $1.26 | 1 | default | step-5-preview |
 | 4 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | step-5-preview |
 | 5 | `6666.sso.asia` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | step-5-preview |
 | 6 | `api.new.bi` | ¥0.959 | $0.959 / $2.741 | 1 | default | step-5-preview |

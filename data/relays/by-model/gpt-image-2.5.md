@@ -81,7 +81,7 @@
 | 12 | `api.lumenai.cc` | $0.025 | 生图专用 (只能生成 1k) | 0.025 | gpt-image-2.5 |
 | 13 | `api.wopally.cn` | $0.03 | GPT 生图｜1x | 1 | gpt-image-2.5 |
 | 14 | `www.lingzhan.top` | $0.03 | 1K生图 | 1 | gpt-image-2.5 |
-| 15 | `www.yydsapi.uno` | $0.03 | 生图分组 | 1 | gpt-image-2.5 |
+| 15 | `www.yydsapi.uno` | $0.03 | GPT生图【超分】 | 1 | gpt-image-2.5 |
 | 16 | `api-sub.ip233.com` | $0.0325 | default | 1 | gpt-image-2.5 |
 | 17 | `ai.kdysite.cloud` | $0.035 | 生图专用 | 1 | gpt-image-2.5 |
 | 18 | `3seeker.site` | $0.04 | GPT-x0.03生图 | 1 | gpt-image-2.5 |

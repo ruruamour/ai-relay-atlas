@@ -92,7 +92,7 @@
 | 23 | `llm-coding.space` | $0.03 | image综合分组 | 1 | gpt-image-2.5-flare |
 | 24 | `www.jiguang.me` | $0.03 | 生图模型 | 1 | gpt-image-2.5-flare |
 | 25 | `www.kk-vibe.top` | $0.03 | 无限画布 -- gpt 1K 模型 | 1 | gpt-image-2.5-flare |
-| 26 | `www.yydsapi.uno` | $0.03 | 生图分组 | 1 | gpt-image-2.5-flare |
+| 26 | `www.yydsapi.uno` | $0.03 | GPT生图【超分】 | 1 | gpt-image-2.5-flare |
 | 27 | `api.coderplan.ai` | $0.0315 | codex | 0.35 | gpt-image-2.5-flare |
 | 28 | `api-sub.ip233.com` | $0.0325 | default | 1 | gpt-image-2.5-flare |
 | 29 | `quick-pivot.com` | $0.0375 | OpenAI | 0.15 | gpt-image-2.5-flare |

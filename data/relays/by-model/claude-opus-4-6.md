@@ -1,6 +1,6 @@
 # claude-opus-4-6
 
-> 2039 站提供 · 正常价 1670 站 · 名义中位价 **$2.92938**/1M 输入 · 实付中位价 **¥5**/1M 输入（1253 站公开充值价） · 推算，未对账
+> 2039 站提供 · 正常价 1671 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥5**/1M 输入（1255 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `ai2api.cn` | ¥0.5 | $0.5 / $2.5 | 1 | Claude-aws | claude-opus-4-6-20260206 |
 | 50 | `aircola.top` | ¥0.5 | $0.5 / $2.5 | 1 | kiro | claude-opus-4-6 |
 
-> 另有 1203 站未列出。
+> 另有 1205 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -112,12 +112,12 @@
 | 43 | `pureai.ink` | $0.5 / $2.5 | B-Kiro-Cache 90+ | 0.1 | claude-opus-4-6 |
 | 44 | `sub.skypoem.top` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-6 |
 | 45 | `www.largechestnut.com` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-6 |
-| 46 | `www.mofas.one` | $0.5 / $2.5 | anti-claude | 0.1 | claude-opus-4-6 |
-| 47 | `www.nmoon.cc` | $0.5 / $2.5 | kiro 华强北定制版 | 0.1 | claude-opus-4-6 |
-| 48 | `yyds.chybenzun.top` | $0.5 / $2.5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-opus-4-6 |
-| 49 | `zhiyuanapis.top` | $0.5 / $2.5 | Claude-Kiro | 0.1 | claude-opus-4.6 |
-| 50 | `api.robinsonai.shop` | $0.54 / $2.7 | Claude Pro 订阅 | 0.702 | claude-opus-4-6-thinking |
+| 46 | `www.nmoon.cc` | $0.5 / $2.5 | kiro 华强北定制版 | 0.1 | claude-opus-4-6 |
+| 47 | `yyds.chybenzun.top` | $0.5 / $2.5 | 【收费喵】kiro渠道 高缓 按量付费 | 0.1 | claude-opus-4-6 |
+| 48 | `zhiyuanapis.top` | $0.5 / $2.5 | Claude-Kiro | 0.1 | claude-opus-4.6 |
+| 49 | `api.robinsonai.shop` | $0.54 / $2.7 | Claude Pro 订阅 | 0.702 | claude-opus-4-6-thinking |
+| 50 | `77api.top` | $0.6 / $3 | ClaudeKiro【高并发-90%缓存】 | 0.12 | claude-opus-4-6 |
 
-> 另有 367 站未列出。
+> 另有 366 站未列出。
 
-> 369 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 368 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

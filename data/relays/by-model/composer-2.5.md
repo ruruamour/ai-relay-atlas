@@ -1,6 +1,6 @@
 # composer-2.5
 
-> 51 站提供 · 正常价 33 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.615**/1M 输入（12 站公开充值价） · 推算，未对账
+> 51 站提供 · 正常价 33 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.73**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,8 +20,9 @@
 | 8 | `ai.hebox.net` | ¥1.971 | $0.27 / $1.35 | 7.3 | grok_heavy | composer-2.5 |
 | 9 | `api.mixrai.com` | ¥3.65 | $0.5 / $2.5 | 7.3 | default | composer-2.5 |
 | 10 | `tokenclub.top` | ¥3.65 | $0.5 / $2.5 | 7.3 | default | composer-2.5 |
-| 11 | `tako.shiroha.tech` | ¥14.6 | $2 / $6 | 7.3 | pro-mini | composer-2.5 |
-| 12 | `api.wapq.cn` | ¥18.25 | $2.5 / $1.5 | 7.3 | default | composer-2.5 |
+| 11 | `www.mofas.one` | ¥5 | $0.5 / $2.5 | 10 | grok | composer-2.5 |
+| 12 | `tako.shiroha.tech` | ¥14.6 | $2 / $6 | 7.3 | pro-mini | composer-2.5 |
+| 13 | `api.wapq.cn` | ¥18.25 | $2.5 / $1.5 | 7.3 | default | composer-2.5 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -42,11 +43,10 @@
 | 13 | `api.gohok.top` | $0.3 / $0.6 | grok | 0.3 | composer-2.5 |
 | 14 | `create.99ai.club` | $0.3 / $0.9 | Grok Heavy | 0.15 | grok/composer-2.5 |
 | 15 | `huanyuf.top` | $0.3 / $0.9 | 「Grok」Heavy | 0.15 | x-ai/composer-2.5 |
-| 16 | `www.mofas.one` | $0.5 / $2.5 | grok | 1 | composer-2.5 |
-| 17 | `api.fxisv.com` | $1.2 / $2.4 | Grok-Heavy-多模态模型 | 1 | composer-2.5 |
-| 18 | `big-model.smart-agi.com` | $1.5 / $3 | Gork 年费账户【短期-稳定】 | 1.5 | composer-2.5 |
-| 19 | `www.dz36.online` | $2.4 / $2.4 | vip | 1 | composer-2.5 |
-| 20 | `www.macode.cloud` | $2.4 / $2.4 | default | 1 | composer-2.5 |
-| 21 | `expapi.echoflowai.cc` | $3 / $6 | Grok-Super号池 | 3 | composer-2.5 |
+| 16 | `api.fxisv.com` | $1.2 / $2.4 | Grok-Heavy-多模态模型 | 1 | composer-2.5 |
+| 17 | `big-model.smart-agi.com` | $1.5 / $3 | Gork 年费账户【短期-稳定】 | 1.5 | composer-2.5 |
+| 18 | `www.dz36.online` | $2.4 / $2.4 | vip | 1 | composer-2.5 |
+| 19 | `www.macode.cloud` | $2.4 / $2.4 | default | 1 | composer-2.5 |
+| 20 | `expapi.echoflowai.cc` | $3 / $6 | Grok-Super号池 | 3 | composer-2.5 |
 
 > 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

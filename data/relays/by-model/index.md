@@ -12,33 +12,33 @@
 | [gpt-5.6-sol](gpt-5.6-sol.md) | 2275 | $1.42 | ¥2.5 |
 | [gpt-5.6-terra](gpt-5.6-terra.md) | 2153 | $0.6 | ¥1 |
 | [gpt-6-astra](gpt-6-astra.md) | 2042 | $3 | ¥5.4 |
+| [gpt-6-sol](gpt-6-sol.md) | 1842 | $0.5 | ¥1 |
 | [gpt-image-2](gpt-image-2.md) | 1842 | $0.08/次 | ¥0.1/次 |
-| [gpt-6-sol](gpt-6-sol.md) | 1841 | $0.5 | ¥1 |
-| [gpt-6.1-sol](gpt-6.1-sol.md) | 1808 | $0.5 | ¥1 |
+| [gpt-6.1-sol](gpt-6.1-sol.md) | 1809 | $0.5 | ¥1 |
 | [gpt-5.5](gpt-5.5.md) | 1800 | $1.65 | ¥3.5 |
 | [gpt-5.6-luna](gpt-5.6-luna.md) | 1622 | $0.2 | ¥0.4 |
-| [gpt-5.4](gpt-5.4.md) | 1214 | $1.25 | ¥2.5 |
+| [gpt-5.4](gpt-5.4.md) | 1213 | $1.25 | ¥2.5 |
 | [gpt-image-2.5-flare](gpt-image-2.5-flare.md) | 1210 | $0.1/次 | ¥0.1/次 |
 | [gpt-image-2.5-sunburst](gpt-image-2.5-sunburst.md) | 1206 | $0.1/次 | ¥0.1/次 |
 | [gpt-6-luna](gpt-6-luna.md) | 1147 | $0.075 | ¥0.1344 |
 | [codex-auto-review](codex-auto-review.md) | 1145 | $0.725 | ¥1 |
-| [gpt-5.4-mini](gpt-5.4-mini.md) | 977 | $0.6 | ¥0.75 |
+| [gpt-5.4-mini](gpt-5.4-mini.md) | 976 | $0.6 | ¥0.75 |
 | [gpt-5.2](gpt-5.2.md) | 647 | $1.75 | ¥3.066 |
 | [gpt-image-2.5](gpt-image-2.5.md) | 599 | $0.08/次 | ¥0.08325/次 |
-| [gpt-5.3-codex](gpt-5.3-codex.md) | 579 | $1.75 | ¥2.625 |
+| [gpt-5.3-codex](gpt-5.3-codex.md) | 578 | $1.75 | ¥2.625 |
 | [gpt-5.3-codex-spark](gpt-5.3-codex-spark.md) | 521 | $0.8 | ¥1.1 |
 | [gpt-5.6](gpt-5.6.md) | 520 | $1 | ¥2 |
-| [gpt-4o](gpt-4o.md) | 514 | $2.5 | ¥4.015 |
+| [gpt-4o](gpt-4o.md) | 513 | $2.5 | ¥4.015 |
 | [gpt-image-1.5](gpt-image-1.5.md) | 505 | $5 | ¥7.5 |
-| [gpt-5](gpt-5.md) | 489 | $1.25 | ¥2.5 |
-| [gpt-4o-mini](gpt-4o-mini.md) | 482 | $0.15 | ¥0.273 |
+| [gpt-5](gpt-5.md) | 488 | $1.25 | ¥2.5 |
+| [gpt-4o-mini](gpt-4o-mini.md) | 481 | $0.15 | ¥0.273 |
 | [gpt-image-1](gpt-image-1.md) | 478 | $5 | ¥7.5 |
 | [gpt-4.1](gpt-4.1.md) | 465 | $2 | ¥4 |
 | [gpt-5-mini](gpt-5-mini.md) | 462 | $0.25 | ¥0.5 |
 | [gpt-4.1-mini](gpt-4.1-mini.md) | 455 | $0.4 | ¥0.724 |
 | [gpt-5.1](gpt-5.1.md) | 447 | $1.25 | ¥2.5 |
 | [gpt-5-nano](gpt-5-nano.md) | 427 | $0.05 | ¥0.102 |
-| [gpt-5.4-nano](gpt-5.4-nano.md) | 417 | $0.2 | ¥0.439 |
+| [gpt-5.4-nano](gpt-5.4-nano.md) | 416 | $0.2 | ¥0.439 |
 | [gpt-4.1-nano](gpt-4.1-nano.md) | 407 | $0.1 | ¥0.2 |
 | [text-embedding-3-small](text-embedding-3-small.md) | 392 | $0.02 | ¥0.04 |
 | [gpt-5.4-pro](gpt-5.4-pro.md) | 380 | $30 | ¥61.2 |
@@ -63,7 +63,7 @@
 | [gpt-4o-audio-preview](gpt-4o-audio-preview.md) | 310 | $2.48 | ¥2.5 |
 | [gpt-5.5-openai-compact](gpt-5.5-openai-compact.md) | 297 | $1.3 | ¥2.25 |
 | [gpt-5.1-chat](gpt-5.1-chat.md) | 288 | $1.25 | ¥1.25 |
-| [gpt-5.5-pro](gpt-5.5-pro.md) | 283 | $88.5 | ¥133 |
+| [gpt-5.5-pro](gpt-5.5-pro.md) | 282 | $87 | ¥133 |
 | [o3-pro](o3-pro.md) | 271 | $20 | ¥20 |
 | [whisper-1](whisper-1.md) | 266 | $30 | ¥33.75 |
 | [tts-1](tts-1.md) | 262 | $15 | ¥30 |
@@ -165,19 +165,19 @@
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
 | [claude-opus-4-8](claude-opus-4-8.md) | 2056 | $2.75 | ¥5 |
-| [claude-opus-4-6](claude-opus-4-6.md) | 2039 | $2.92938 | ¥5 |
+| [claude-opus-4-6](claude-opus-4-6.md) | 2039 | $3 | ¥5 |
 | [claude-opus-4-7](claude-opus-4-7.md) | 1998 | $3 | ¥5 |
 | [claude-sonnet-4-6](claude-sonnet-4-6.md) | 1982 | $1.5 | ¥3 |
 | [claude-opus-5](claude-opus-5.md) | 1977 | $2.5 | ¥5 |
 | [claude-sonnet-5](claude-sonnet-5.md) | 1970 | $1.2 | ¥2 |
 | [claude-fable-5](claude-fable-5.md) | 1885 | $10 | ¥15 |
 | [claude-haiku-4-5](claude-haiku-4-5.md) | 1749 | $0.7 | ¥1 |
-| [claude-opus-5-5](claude-opus-5-5.md) | 1722 | $2 | ¥4 |
+| [claude-opus-5-5](claude-opus-5-5.md) | 1723 | $2 | ¥4 |
 | [claude-fable-5-1](claude-fable-5-1.md) | 1562 | $10 | ¥15 |
-| [claude-sonnet-5-5](claude-sonnet-5-5.md) | 1407 | $1.3 | ¥2.08 |
+| [claude-sonnet-5-5](claude-sonnet-5-5.md) | 1408 | $1.3 | ¥2.08 |
 | [claude-sonnet-4-5](claude-sonnet-4-5.md) | 1266 | $2.4 | ¥3.3 |
 | [claude-opus-4-5](claude-opus-4-5.md) | 1250 | $4.5 | ¥5.475 |
-| [claude-haiku-5-5](claude-haiku-5-5.md) | 891 | $0.1 | ¥0.16 |
+| [claude-haiku-5-5](claude-haiku-5-5.md) | 894 | $0.1 | ¥0.16 |
 | [claude-opus-4-1](claude-opus-4-1.md) | 487 | $15 | ¥38.28 |
 | [claude-sonnet-4](claude-sonnet-4.md) | 485 | $3 | ¥4.599 |
 | [claude-opus-4](claude-opus-4.md) | 455 | $15 | ¥42 |
@@ -204,14 +204,14 @@
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
 | [gemini-3.8-flash](gemini-3.8-flash.md) | 1261 | $0.375 | ¥0.675 |
-| [gemini-3.1-pro-preview](gemini-3.1-pro-preview.md) | 1094 | $2 | ¥2 |
+| [gemini-3.1-pro-preview](gemini-3.1-pro-preview.md) | 1093 | $2 | ¥2 |
 | [gemini-3.6-flash](gemini-3.6-flash.md) | 1033 | $0.75 | ¥1.2 |
 | [gemini-3.5-flash](gemini-3.5-flash.md) | 1024 | $1.375 | ¥1.6 |
-| [gemini-3.7-flash](gemini-3.7-flash.md) | 1010 | $0.45 | ¥0.75 |
+| [gemini-3.7-flash](gemini-3.7-flash.md) | 1009 | $0.45 | ¥0.75 |
 | [gemini-2.5-flash](gemini-2.5-flash.md) | 925 | $0.3 | ¥0.3552 |
 | [gemini-3-flash-preview](gemini-3-flash-preview.md) | 896 | $0.5 | ¥0.6831 |
 | [gemini-4-argon](gemini-4-argon.md) | 850 | $1.1 | ¥2 |
-| [gemini-3.1-flash-lite](gemini-3.1-flash-lite.md) | 805 | $0.2 | ¥0.25 |
+| [gemini-3.1-flash-lite](gemini-3.1-flash-lite.md) | 804 | $0.2 | ¥0.25 |
 | [gemini-3-pro-image-preview](gemini-3-pro-image-preview.md) | 796 | $0.2/次 | ¥0.3/次 |
 | [gemini-3.1-flash-image-preview](gemini-3.1-flash-image-preview.md) | 796 | $0.1204/次 | ¥0.18/次 |
 | [gemini-2.5-pro](gemini-2.5-pro.md) | 789 | $1.25 | ¥2.281 |
@@ -223,7 +223,7 @@
 | [gemini-3-pro-image](gemini-3-pro-image.md) | 548 | $0.2/次 | ¥0.24/次 |
 | [gemini-3.1-flash-lite-preview](gemini-3.1-flash-lite-preview.md) | 534 | $0.25 | ¥0.375 |
 | [gemini-2.5-flash-image](gemini-2.5-flash-image.md) | 529 | $0.0976/次 | ¥0.1482/次 |
-| [gemini-3.1-pro](gemini-3.1-pro.md) | 500 | $0.94 | ¥1.4 |
+| [gemini-3.1-pro](gemini-3.1-pro.md) | 498 | $0.92 | ¥1.4 |
 | [gemini-3.1-flash-lite-image](gemini-3.1-flash-lite-image.md) | 386 | $0.1325/次 | ¥0.1923/次 |
 | [gemini-nano-banana-2.1](gemini-nano-banana-2.1.md) | 377 | $0.1/次 | ¥0.1341/次 |
 | [gemini-embedding-001](gemini-embedding-001.md) | 260 | $0.24 | ¥0.4535 |
@@ -408,7 +408,7 @@
 | [mimo-v2.5-pro](mimo-v2.5-pro.md) | 456 | $1.04 | ¥2.411 |
 | [mimo-v2.5](mimo-v2.5.md) | 445 | $0.3 | ¥0.75 |
 | [mimo-v2.6-flash](mimo-v2.6-flash.md) | 312 | $0.2 | ¥0.5 |
-| [mimo-v2.6-pro](mimo-v2.6-pro.md) | 271 | $0.6 | ¥1.5 |
+| [mimo-v2.6-pro](mimo-v2.6-pro.md) | 272 | $0.6 | ¥1.5 |
 | [mimo-v2-pro](mimo-v2-pro.md) | 109 | $3 | ¥6.721 |
 | [mimo-v2.5-tts](mimo-v2.5-tts.md) | 40 | $0.4 | ¥1.354 |
 | [mimo-v2.5-tts-voicedesign](mimo-v2.5-tts-voicedesign.md) | 40 | $0.7 | ¥2.708 |
@@ -422,7 +422,7 @@
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
 | [deepseek-v4-pro](deepseek-v4-pro.md) | 1517 | $1.8 | ¥3.6 |
-| [deepseek-v4-flash](deepseek-v4-flash.md) | 1386 | $0.5 | ¥0.9069 |
+| [deepseek-v4-flash](deepseek-v4-flash.md) | 1384 | $0.5 | ¥0.9069 |
 | [deepseek-v4.1-flash](deepseek-v4.1-flash.md) | 1286 | $0.3 | ¥0.7618 |
 | [deepseek-v4-flash-vision-exp](deepseek-v4-flash-vision-exp.md) | 370 | $0.5 | ¥1.05 |
 | [deepseek-v3.2](deepseek-v3.2.md) | 340 | $1.6 | ¥1.8 |
@@ -646,7 +646,7 @@
 | [glm-4.6v](glm-4.6v.md) | 73 | $1 | ¥1.2 |
 | [glm-4.5-flash](glm-4.5-flash.md) | 72 | $0.02 | ¥0.182 |
 | [glm-4.7-flash](glm-4.7-flash.md) | 69 | $0.185875 | ¥0.519 |
-| [glm-5v-turbo](glm-5v-turbo.md) | 67 | $0.730994 | ¥5.004 |
+| [glm-5v-turbo](glm-5v-turbo.md) | 66 | $0.765497 | ¥5.044 |
 | [glm-3-turbo](glm-3-turbo.md) | 66 | $1.5 | ¥1.5 |
 | [glm-4-air](glm-4-air.md) | 62 | $0.3 | ¥0.3 |
 | [glm-4.5-x](glm-4.5-x.md) | 59 | $1.6 | ¥8 |
@@ -669,7 +669,7 @@
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
 | [kimi-k3](kimi-k3.md) | 1328 | $6 | ¥12 |
-| [kimi-k2.6](kimi-k2.6.md) | 796 | $2.3265 | ¥3.9 |
+| [kimi-k2.6](kimi-k2.6.md) | 796 | $2.4225 | ¥3.9 |
 | [kimi-k2.7-code](kimi-k2.7-code.md) | 751 | $2.6 | ¥3.9 |
 | [kimi-k2.5](kimi-k2.5.md) | 478 | $2 | ¥3.03 |
 | [kimi-k2](kimi-k2.md) | 214 | $4 | ¥3.2 |
@@ -677,12 +677,12 @@
 | [kimi-k2.7-code-highspeed](kimi-k2.7-code-highspeed.md) | 146 | $19.5 | ¥12.67 |
 | [kimi-k2-instruct](kimi-k2-instruct.md) | 129 | $4 | ¥4 |
 | [moonshot-v1](moonshot-v1.md) | 106 | $3.6 | ¥2 |
-| [kimi-k3.1-pro](kimi-k3.1-pro.md) | 86 | $2.8084 | ¥8.97 |
-| [kimi-k2.7](kimi-k2.7.md) | 77 | $1.3 | ¥3.375 |
+| [kimi-k3.1-pro](kimi-k3.1-pro.md) | 90 | $2.8168 | ¥8.385 |
+| [kimi-k2.7](kimi-k2.7.md) | 77 | $1.26667 | ¥3 |
 | [kimi-k2.8](kimi-k2.8.md) | 67 | $1.15 | ¥2.377 |
-| [kimi-k2.8-preview](kimi-k2.8-preview.md) | 67 | $0.675 | ¥3.125 |
-| [kimi-k3-1](kimi-k3-1.md) | 48 | $1.775 | ¥1.464 |
-| [kimi-k3.1-pro-highspeed](kimi-k3.1-pro-highspeed.md) | 27 | $14 | ¥25.63 |
+| [kimi-k2.8-preview](kimi-k2.8-preview.md) | 66 | $0.675 | ¥3.125 |
+| [kimi-k3-1](kimi-k3-1.md) | 50 | $1.95 | ¥4.932 |
+| [kimi-k3.1-pro-highspeed](kimi-k3.1-pro-highspeed.md) | 28 | $15.3 | ¥26.37 |
 | [kimi](kimi.md) | 25 | $2.9 | ¥5.99 |
 | [kimi-k2-0905-preview](kimi-k2-0905-preview.md) | 20 | $3.15 | ¥4.171 |
 
@@ -692,23 +692,23 @@
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
 | [doubao-seedream-5-0](doubao-seedream-5-0.md) | 220 | $0.22/次 | ¥0.2077/次 |
-| [doubao-seedance-2-0](doubao-seedance-2-0.md) | 213 | $46 | ¥51 |
+| [doubao-seedance-2-0](doubao-seedance-2-0.md) | 214 | $46 | ¥51 |
 | [doubao-seed-2-1-pro](doubao-seed-2-1-pro.md) | 211 | $6 | ¥6 |
 | [doubao-seed-2-0-pro](doubao-seed-2-0-pro.md) | 210 | $3.2 | ¥3.2 |
 | [doubao-seedream-4-5](doubao-seedream-4-5.md) | 201 | $0.25/次 | ¥0.2025/次 |
 | [doubao-seed-2-0-lite](doubao-seed-2-0-lite.md) | 200 | $0.6 | ¥0.6349 |
 | [doubao-seedream-4-0](doubao-seedream-4-0.md) | 200 | $0.2/次 | ¥0.1688/次 |
 | [doubao-seed-2-0-mini](doubao-seed-2-0-mini.md) | 191 | $0.2 | ¥0.2267 |
-| [doubao-seedance-2-0-fast](doubao-seedance-2-0-fast.md) | 184 | $37 | ¥44.8 |
+| [doubao-seedance-2-0-fast](doubao-seedance-2-0-fast.md) | 185 | $37 | ¥44.8 |
 | [doubao-seed-1-8](doubao-seed-1-8.md) | 179 | $0.8 | ¥0.8767 |
 | [doubao-seed-2-0-code-preview](doubao-seed-2-0-code-preview.md) | 178 | $3.2 | ¥3.386 |
 | [doubao-seedream-5-0-pro](doubao-seedream-5-0-pro.md) | 169 | $0.0186/次 | ¥0.01475/次 |
 | [doubao-seed-1-6](doubao-seed-1-6.md) | 163 | $1.014 | ¥0.8314 |
-| [doubao-seedance-2-0-mini](doubao-seedance-2-0-mini.md) | 148 | $20.7 | ¥23 |
+| [doubao-seedance-2-0-mini](doubao-seedance-2-0-mini.md) | 149 | $20.7 | ¥23 |
 | [doubao-seed-1-6-flash](doubao-seed-1-6-flash.md) | 147 | $0.3 | ¥0.3174 |
 | [doubao-seedream-3-0-t2i](doubao-seedream-3-0-t2i.md) | 146 | $0.1/次 | ¥0.095/次 |
 | [doubao-seedance-1-0-pro](doubao-seedance-1-0-pro.md) | 144 | $22.5/次 | ¥15.87/次 |
-| [doubao-seedance-2-5](doubao-seedance-2-5.md) | 142 | $70 | ¥75 |
+| [doubao-seedance-2-5](doubao-seedance-2-5.md) | 143 | $70 | ¥75 |
 | [doubao-seed-1-6-vision](doubao-seed-1-6-vision.md) | 139 | $1.6 | ¥1.663 |
 | [doubao-seedance-1-0-pro-fast](doubao-seedance-1-0-pro-fast.md) | 132 | $6.3/次 | ¥4.444/次 |
 | [doubao-seed-2-1-turbo](doubao-seed-2-1-turbo.md) | 126 | $0.675 | ¥3 |
@@ -769,7 +769,7 @@
 | [minimax-hailuo-2.3](minimax-hailuo-2.3.md) | 102 | $0.016/次 | ¥2/次 |
 | [minimax-hailuo-02](minimax-hailuo-02.md) | 98 | $0.016/次 | ¥1.479/次 |
 | [minimax-m2.5-highspeed](minimax-m2.5-highspeed.md) | 88 | $1.176 | ¥2.835 |
-| [minimax-m3.1-flash](minimax-m3.1-flash.md) | 53 | $0.142857 | ¥0.6046 |
+| [minimax-m3.1-flash](minimax-m3.1-flash.md) | 54 | $0.142857 | ¥0.6046 |
 | [minimax-m2.1-highspeed](minimax-m2.1-highspeed.md) | 43 | $2 | ¥3.591 |
 | [minimax-m1](minimax-m1.md) | 39 | $2.28 | ¥3.2 |
 | [minimax-h3-768p](minimax-h3-768p.md) | 34 | $0.125/次 | ¥0.16/次 |
@@ -783,8 +783,8 @@
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
 | [hy3](hy3.md) | 274 | $0.25 | ¥0.5 |
-| [hy4-preview](hy4-preview.md) | 263 | $1.18845 | ¥5.361 |
-| [hy4](hy4.md) | 64 | $1.2 | ¥1.584 |
+| [hy4-preview](hy4-preview.md) | 262 | $1.18845 | ¥5.361 |
+| [hy4](hy4.md) | 63 | $1.2 | ¥1.5 |
 | [hy3-preview](hy3-preview.md) | 40 | $0.29 | ¥1.077 |
 | [hunyuan-a13b-instruct](hunyuan-a13b-instruct.md) | 27 | $0.49 | ¥0.92 |
 | [hunyuan-mt-7b](hunyuan-mt-7b.md) | 26 | $6 | ¥3.91 |
@@ -942,7 +942,7 @@
 | [text-davinci-edit-001](text-davinci-edit-001.md) | 58 | $20 | ¥37.5 |
 | [muse-spark-1.3-contributor](muse-spark-1.3-contributor.md) | 57 | $0.175 | ¥0.5 |
 | [step-3.5-flash](step-3.5-flash.md) | 53 | $0.28 | ¥0.7 |
-| [composer-2.5](composer-2.5.md) | 51 | $0.25 | ¥0.615 |
+| [composer-2.5](composer-2.5.md) | 51 | $0.25 | ¥0.73 |
 | [nemotron-3-ultra-550b-a55b](nemotron-3-ultra-550b-a55b.md) | 50 | $0.923077 | ¥3.65 |
 | [aigc-image-kling](aigc-image-kling.md) | 49 | $0.00175001/次 | ¥0.01176/次 |
 | [nemotron-3-super-120b-a12b](nemotron-3-super-120b-a12b.md) | 49 | $0.16 | ¥0.7285 |
@@ -967,9 +967,9 @@
 | [embedding-v1](embedding-v1.md) | 37 | $0.5 | ¥0.5 |
 | [ernie-4.0](ernie-4.0.md) | 37 | $33.144 | ¥33.14 |
 | [ernie-speed](ernie-speed.md) | 37 | $0.9716 | ¥0.9716 |
-| [space-bunny](space-bunny.md) | 36 | $0.201 | ¥0.5237 |
 | [gemma-26b-a4b-it](gemma-26b-a4b-it.md) | 36 | $0.825 | ¥0.73 |
 | [free](free.md) | 36 | $1.2675 | ¥9.143 |
+| [space-bunny](space-bunny.md) | 35 | $0.201 | ¥0.5237 |
 | [muse-glimmer-30b](muse-glimmer-30b.md) | 35 | $0.480769 | ¥2.595 |
 | [nemotron-3.5-lightning](nemotron-3.5-lightning.md) | 35 | $0.14 | ¥0.6 |
 | [dreamina-seedance-2-0-fast](dreamina-seedance-2-0-fast.md) | 35 | $18.984 | ¥40.88 |
