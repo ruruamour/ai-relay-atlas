@@ -108,7 +108,7 @@
 | 39 | `ai.comfly.org` | $0.2 | default | 1 | gemini-3-pro-image-preview |
 | 40 | `api.topapis.cn` | $0.22 | default | 1 | gemini-3-pro-image-preview-1k |
 | 41 | `aizex.top` | $0.25 | default | 1 | gemini-3-pro-image-preview |
-| 42 | `www.hejuapi.com` | $0.25 | Gemini | 0.25 | gemini-3-pro-image-preview |
+| 42 | `⚠️www.hejuapi.com` | $0.25 | Gemini | 0.25 | gemini-3-pro-image-preview |
 | 43 | `api.xistree.hk` | $0.3 | default | 1 | gemini-3-pro-image-preview |
 | 44 | `uuapi.io` | $0.3 | Nano Banana香蕉生图 | 1 | gemini-3-pro-image-preview |
 | 45 | `api.apigiare.vn` | $0.33 | default | 1 | gemini-3-pro-image-preview |

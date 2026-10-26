@@ -86,7 +86,7 @@
 | 17 | `mollycloud.cn` | $0.15 | gemini 生图组 | 1 | gemini-3-pro-image |
 | 18 | `ovo1.vip` | $0.15 | Nano Banana 2.1 | 1 | gemini-3-pro-image |
 | 19 | `ai.comfly.org` | $0.2 | default | 1 | gemini-3-pro-image |
-| 20 | `www.hejuapi.com` | $0.25 | Gemini | 0.25 | gemini-3-pro-image |
+| 20 | `⚠️www.hejuapi.com` | $0.25 | Gemini | 0.25 | gemini-3-pro-image |
 | 21 | `api.bestai.chat` | $0.288 | Gemini | 0.6 | gemini-3-pro-image |
 | 22 | `code.doone.fun` | $0.3 | 生图分组 | 1 | gemini-3-pro-image |
 | 23 | `happyapi.org` | $0.3 | vip | 1 | gemini-3-pro-image |

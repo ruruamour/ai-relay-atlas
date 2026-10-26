@@ -75,7 +75,7 @@
 | 6 | `api.hyhawang.com` | $0.09 | 香蕉生图 | 1 | gemini-3.1-flash-lite-image |
 | 7 | `ai.comfly.org` | $0.1 | gemini优质 | 2 | gemini-3.1-flash-lite-image |
 | 8 | `cn.fluxtoken.ai` | $0.1 | 【Gemini】banana生图模型 | 1 | gemini-3.1-flash-lite-image |
-| 9 | `www.hejuapi.com` | $0.125 | Gemini | 0.25 | gemini-3.1-flash-lite-image |
+| 9 | `⚠️www.hejuapi.com` | $0.125 | Gemini | 0.25 | gemini-3.1-flash-lite-image |
 | 10 | `code.doone.fun` | $0.14 | 生图分组 | 1 | gemini-3.1-flash-lite-image |
 | 11 | `ai.kalehui.cn` | $0.310152 | 优质gemini | 2.4 | gemini-3.1-flash-lite-image |
 | 12 | `aiapihub.cloud` | $0.310152 | 优质gemini | 2.4 | gemini-3.1-flash-lite-image |

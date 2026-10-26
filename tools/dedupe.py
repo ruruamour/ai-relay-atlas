@@ -311,7 +311,15 @@ def main():
                     tags.append(tag)
                 if note:
                     marks.append('%s（%s）' % (note, src or '人工'))
-        notes = [x for x in (ci.get('notes') or '').split('；') if x and not x.startswith('泛解析')]
+        # Annotation-derived notes are regenerated on every build. Remove an
+        # existing copy first so repeated builds remain byte-for-byte stable.
+        marks = list(dict.fromkeys(marks))
+        raw_notes = ci.get('notes') or ''
+        # Annotation notes may themselves contain the legacy `；` separator,
+        # so remove the complete generated mark before splitting old notes.
+        for mark in marks:
+            raw_notes = raw_notes.replace(mark, '')
+        notes = [x for x in raw_notes.split('；') if x and not x.startswith('泛解析')]
         notes += marks
         if junk:
             notes.append('泛解析，已去掉 %d 个扫描生成的子域' % len(junk))

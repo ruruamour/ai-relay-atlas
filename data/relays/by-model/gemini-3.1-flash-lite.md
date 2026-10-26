@@ -101,7 +101,7 @@
 | 32 | `levelup.mom` | $0.0625 / $0.375 | Gemini Banana3Pro生图号池 | 0.25 | gemini-3.1-flash-lite |
 | 33 | `momoapi.cn` | $0.0625 / $0.375 | Gemini | 0.25 | gemini-3.1-flash-lite |
 | 34 | `worldcodes.online` | $0.0625 / $0.375 | Gemini 反重力 | 0.25 | gemini-3.1-flash-lite |
-| 35 | `www.hejuapi.com` | $0.0625 / $0.375 | Gemini | 0.25 | gemini-3.1-flash-lite |
+| 35 | `⚠️www.hejuapi.com` | $0.0625 / $0.375 | Gemini | 0.25 | gemini-3.1-flash-lite |
 | 36 | `zzone.cc.cd` | $0.065 / $0.39 | Gemini | 0.26 | gemini-3.1-flash-lite |
 | 37 | `huancun.jizhiapi.site` | $0.0675 / $0.405 | gemini 全模型线路 | 0.27 | gemini-3.1-flash-lite |
 | 38 | `api.1route.dev` | $0.075 / $0.45 | Gemini 💎 | 0.3 | gemini-3.1-flash-lite |

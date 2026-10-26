@@ -109,7 +109,7 @@
 | 40 | `ovo1.vip` | $0.15 | Nano Banana 2.1 | 1 | gemini-3.1-flash-image-preview |
 | 41 | `worldcodes.online` | $0.15 | 生图专用 | 1 | gemini-3.1-flash-image-preview |
 | 42 | `huancun.jizhiapi.site` | $0.162 | gemini 全模型线路 | 0.27 | gemini-3.1-flash-image-preview |
-| 43 | `www.hejuapi.com` | $0.1875 | Gemini | 0.25 | gemini-3.1-flash-image-preview |
+| 43 | `⚠️www.hejuapi.com` | $0.1875 | Gemini | 0.25 | gemini-3.1-flash-image-preview |
 | 44 | `uuapi.io` | $0.2 | Nano Banana香蕉生图 | 1 | gemini-3.1-flash-image-preview |
 | 45 | `poloapi.top` | $0.24 | gemini-nano2 | 3 | gemini-3.1-flash-image-preview |
 | 46 | `tokenwenwen.com` | $0.24 | NanoBanana独享 | 1 | gemini-3.1-flash-image-preview-1k |

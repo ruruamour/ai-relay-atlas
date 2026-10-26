@@ -90,7 +90,7 @@
 | 21 | `levelup.mom` | $0.5 / $3 | Gemini Banana3Pro生图号池 | 0.25 | gemini-3.1-pro |
 | 22 | `momoapi.cn` | $0.5 / $3 | Gemini | 0.25 | gemini-3.1-pro |
 | 23 | `sub2api.yunquedev.online` | $0.5 / $3 | Gemini | 0.25 | gemini-3.1-pro-high |
-| 24 | `www.hejuapi.com` | $0.5 / $3 | Gemini | 0.25 | gemini-3.1-pro |
+| 24 | `⚠️www.hejuapi.com` | $0.5 / $3 | Gemini | 0.25 | gemini-3.1-pro |
 | 25 | `ai.beimo.cc` | $0.6 / $3.6 | 【按量】【支持生图】Gemini | 0.3 | gemini-3.1-pro |
 | 26 | `ai.kdysite.cloud` | $0.6 / $3.6 | Gemini-1 | 0.3 | gemini-3.1-pro |
 | 27 | `api.asdfas.party` | $0.6 / $3.6 | gemini | 0.3 | gemini-3.1-pro |

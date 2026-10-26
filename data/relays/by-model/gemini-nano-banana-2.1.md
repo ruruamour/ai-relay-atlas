@@ -93,7 +93,7 @@
 | 24 | `apipaths.com` | $0.15 | 图片/视频生成 | 1 | gemini-nano-banana-2.1 |
 | 25 | `mollycloud.cn` | $0.15 | gemini 生图组 | 1 | gemini-nano-banana-2.1 |
 | 26 | `hapiopen.cc` | $0.18 | banana生图 | 1 | gemini-nano-banana-2.1 |
-| 27 | `www.hejuapi.com` | $0.1875 | Gemini | 0.25 | gemini-nano-banana-2.1 |
+| 27 | `⚠️www.hejuapi.com` | $0.1875 | Gemini | 0.25 | gemini-nano-banana-2.1 |
 | 28 | `poloapi.top` | $0.21 | gemini-nano2 | 3 | gemini-nano-banana-2.1 |
 | 29 | `ai.ufoai.online` | $0.3 | 次卡 | 2 | [次]gemini-nano-banana-2.1 |
 | 30 | `uuapi.io` | $0.3 | Nano Banana香蕉生图 | 1 | gemini-nano-banana-2.1 |

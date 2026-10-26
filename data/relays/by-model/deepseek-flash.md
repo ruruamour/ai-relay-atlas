@@ -114,7 +114,7 @@
 | 45 | `ai.aiaimark.com` | $0.9 / $3.6 | Deepseek | 0.9 | deepseek-flash |
 | 46 | `levelup.mom` | $0.95 / $3.8 | Deepseek 满血官转 | 0.95 | deepseek-flash |
 | 47 | `ent.mmkg.cloud` | $1 / $4 | DeepSeek | 1 | deepseek-flash |
-| 48 | `www.hejuapi.com` | $1.5 / $6 | DeepSeek | 0.75 | deepseek-flash |
+| 48 | `⚠️www.hejuapi.com` | $1.5 / $6 | DeepSeek | 0.75 | deepseek-flash |
 | 49 | `sub.hookai.shop` | $2 / $2 | default | 1 | deepseek-flash |
 | 50 | `ai.luogu.me` | $2.1 / $8.4 | cn-model | 14 | deepseek-flash |
 

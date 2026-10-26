@@ -159,7 +159,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | 99 | `new.yihubang.top` | 小护 | New-API | 398 | OCXMD | 1 | - | 200 | 1133ms |
 | 100 | `vip.zen-ai.top` | VIP | New-API | 396 | OCGXMD | - | - | 200 | 1260ms |
 
-⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 1 个。
+⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 2 个。
 
 覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。
 

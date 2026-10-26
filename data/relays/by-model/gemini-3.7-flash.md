@@ -100,7 +100,7 @@
 | 31 | `momoapi.cn` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.7-flash |
 | 32 | `nexapi.store` | $0.1875 / $0.9375 | gemini | 0.25 | gemini-3.7-flash |
 | 33 | `sub2api.yunquedev.online` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.7-flash |
-| 34 | `www.hejuapi.com` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.7-flash |
+| 34 | `⚠️www.hejuapi.com` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.7-flash |
 | 35 | `api.qiuming-ai.com` | $0.18975 / $0.94875 | Gemini | 0.253 | gemini-3.7-flash-high |
 | 36 | `api.qiuming-web.com` | $0.18975 / $0.94875 | Gemini | 0.253 | gemini-3.7-flash-high |
 | 37 | `huancun.jizhiapi.site` | $0.2025 / $1.0125 | gemini 全模型线路 | 0.27 | gemini-3.7-flash |

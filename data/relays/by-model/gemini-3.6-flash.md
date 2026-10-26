@@ -88,7 +88,7 @@
 | 19 | `api.teamorouter.com` | $0.18 / $0.9 | - | 0.24 | Gemini 3.6 Flash |
 | 20 | `api.www-cx-api.cn.mt` | $0.1875 / $0.9375 | Gemini 0.25 | 0.25 | gemini-3.6-flash |
 | 21 | `momoapi.cn` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.6-flash |
-| 22 | `www.hejuapi.com` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.6-flash |
+| 22 | `⚠️www.hejuapi.com` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.6-flash |
 | 23 | `api.biuapi.com` | $0.195 / $0.975 | 反重力gemini | 0.13 | gemini-3.6-flash |
 | 24 | `o10.top` | $0.195 / $0.975 | 反重力gemini | 0.13 | gemini-3.6-flash |
 | 25 | `api.1route.dev` | $0.225 / $1.125 | Gemini 💎 | 0.3 | gemini-3.6-flash |

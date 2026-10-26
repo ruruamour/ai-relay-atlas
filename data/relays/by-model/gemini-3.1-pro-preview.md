@@ -92,7 +92,7 @@
 | 23 | `mzlone.top` | $0.5 / $3 | claude 混合渠道（1） | 0.25 | gemini-3.1-pro-preview |
 | 24 | `nexapi.store` | $0.5 / $3 | gemini | 0.25 | gemini-3.1-pro-preview |
 | 25 | `worldcodes.online` | $0.5 / $3 | Gemini 反重力 | 0.25 | gemini-3.1-pro-preview |
-| 26 | `www.hejuapi.com` | $0.5 / $3 | Gemini | 0.25 | gemini-3.1-pro-preview |
+| 26 | `⚠️www.hejuapi.com` | $0.5 / $3 | Gemini | 0.25 | gemini-3.1-pro-preview |
 | 27 | `api.teamorouter.com` | $0.516 / $3.1 | - | 0.25 | Gemini 3.1 Pro Preview |
 | 28 | `huancun.jizhiapi.site` | $0.54 / $3.24 | gemini 全模型线路 | 0.27 | gemini-3.1-pro-preview |
 | 29 | `api.1route.dev` | $0.6 / $3.6 | Gemini 💎 | 0.3 | gemini-3.1-pro-preview |
