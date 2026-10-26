@@ -72,7 +72,7 @@
 | 3 | `wellapi.site` | $0.13 / $0.65 | default | 1 | claude-sonnet-4-6 |
 | 4 | `api.247kan.com` | $0.15 / $0.75 | Claude Kiro | 0.05 | claude-sonnet-4-6 |
 | 5 | `llm.twinight.co` | $0.15 / $0.75 | Claude Kiro（余额 0.05x） | 0.05 | claude-sonnet-4-6 |
-| 6 | `mhapi.net` | $0.15 / $0.75 | Claude Kiro 有缓90 | 0.05 | claude-sonnet-4-6 |
+| 6 | `⚠️mhapi.net` | $0.15 / $0.75 | Claude Kiro 有缓90 | 0.05 | claude-sonnet-4-6 |
 | 7 | `www.bb-api.com` | $0.15 / $0.75 | cc-kiro-90%缓存-005x | 0.05 | claude-sonnet-4-6 |
 | 8 | `api.apikl.ai` | $0.18 / $0.9 | Krio | 0.06 | claude-sonnet-4-6 |
 | 9 | `apiai.fun` | $0.18 / $0.9 | Krio | 0.06 | claude-sonnet-4-6 |

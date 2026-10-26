@@ -74,7 +74,7 @@
 | 5 | `api.hopeplay.online` | $0.15 / $0.9 | 回馈 | 0.03 | gpt-5.5 |
 | 6 | `sub.jui87.com` | $0.15 / $0.6 | codex-低价版 | 0.06 | gpt-5.5 |
 | 7 | `all-api.ccode.dev` | $0.175 / $1.05 | Codex-Lite | 0.035 | gpt-5.5 |
-| 8 | `mhapi.net` | $0.175 / $1.05 | 激励gpt | 0.035 | gpt-5.5 |
+| 8 | `⚠️mhapi.net` | $0.175 / $1.05 | 激励gpt | 0.035 | gpt-5.5 |
 | 9 | `xigong.cloud` | $0.175 / $1.05 | GPT-5xTeam | 0.035 | gpt-5.5 |
 | 10 | `feiniu-ai.cn` | $0.1875 / $1.125 | default | 1 | gpt-5.5 |
 | 11 | `api.01yapi.com` | $0.2 / $1.2 | Plus分组 | 0.04 | gpt-5.5 |

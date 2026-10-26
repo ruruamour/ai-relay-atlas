@@ -86,7 +86,7 @@
 | 17 | `api.opkaa.com` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
 | 18 | `app.yylx.io` | $0.4 / $2 | Gemini - 标准 | 0.2 | gemini-4-argon |
 | 19 | `canana.vcnovb.cn` | $0.4 / $2 | Anit Gemini | 0.2 | gemini-4-argon |
-| 20 | `mhapi.net` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
+| 20 | `⚠️mhapi.net` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
 | 21 | `sub.vcnovb.cn` | $0.4 / $2 | Anit Gemini | 0.2 | gemini-4-argon |
 | 22 | `sub2api.simplaj.top` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
 | 23 | `www.largechestnut.com` | $0.4 / $2 | gemini | 0.2 | gemini-4-argon |

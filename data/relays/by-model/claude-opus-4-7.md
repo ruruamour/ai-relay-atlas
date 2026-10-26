@@ -72,7 +72,7 @@
 | 3 | `kukuai.ai` | $0.211767 / $1.05882 | 线路8 | 1 | claude-opus-4-7 |
 | 4 | `api.247kan.com` | $0.25 / $1.25 | Claude Kiro | 0.05 | claude-opus-4-7 |
 | 5 | `llm.twinight.co` | $0.25 / $1.25 | Claude Kiro（余额 0.05x） | 0.05 | claude-opus-4-7 |
-| 6 | `mhapi.net` | $0.25 / $1.25 | Claude Kiro 有缓90 | 0.05 | claude-opus-4-7 |
+| 6 | `⚠️mhapi.net` | $0.25 / $1.25 | Claude Kiro 有缓90 | 0.05 | claude-opus-4-7 |
 | 7 | `wellapi.site` | $0.25 / $1.25 | default | 1 | claude-opus-4-7 |
 | 8 | `www.bb-api.com` | $0.25 / $1.25 | cc-kiro-90%缓存-005x | 0.05 | claude-opus-4-7 |
 | 9 | `3seeker.site` | $0.265 / $1.325 | claude 红利99%缓存 | 0.053 | claude-opus-4-7 |

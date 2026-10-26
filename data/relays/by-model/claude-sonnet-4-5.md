@@ -71,7 +71,7 @@
 | 2 | `sub.geiliapi.com` | $0.12 / $0.6 | CC-Kiro | 0.2 | claude-sonnet-4-5 |
 | 3 | `api.247kan.com` | $0.15 / $0.75 | Claude Kiro | 0.05 | claude-sonnet-4-5 |
 | 4 | `llm.twinight.co` | $0.15 / $0.75 | Claude Kiro（余额 0.05x） | 0.05 | claude-sonnet-4-5 |
-| 5 | `mhapi.net` | $0.15 / $0.75 | Claude Kiro 有缓90 | 0.05 | claude-sonnet-4-5 |
+| 5 | `⚠️mhapi.net` | $0.15 / $0.75 | Claude Kiro 有缓90 | 0.05 | claude-sonnet-4-5 |
 | 6 | `www.bb-api.com` | $0.15 / $0.75 | cc-kiro-90%缓存-005x | 0.05 | claude-sonnet-4-5 |
 | 7 | `api.apikl.ai` | $0.18 / $0.9 | Krio | 0.06 | claude-sonnet-4-5 |
 | 8 | `apiai.fun` | $0.18 / $0.9 | Krio | 0.06 | claude-sonnet-4-5 |

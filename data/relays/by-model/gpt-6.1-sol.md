@@ -72,7 +72,7 @@
 | 3 | `cn.lxtech.icu` | $0.06 / $0.36 | pro号池 | 0.3 | gpt-6.1-sol |
 | 4 | `kukuai.ai` | $0.063531 / $0.317648 | 线路7 - 推荐 | 1 | gpt-6.1-sol |
 | 5 | `all-api.ccode.dev` | $0.07 / $0.35 | Codex-Lite | 0.035 | gpt-6.1-sol |
-| 6 | `mhapi.net` | $0.07 / $0.35 | 激励gpt | 0.035 | gpt-6.1-sol |
+| 6 | `⚠️mhapi.net` | $0.07 / $0.35 | 激励gpt | 0.035 | gpt-6.1-sol |
 | 7 | `www.deponia.me` | $0.08 / $0.4 | Team   分组 | 0.04 | gpt-6.1-sol |
 | 8 | `api.hzapi.vip` | $0.09 / $0.45 | GPT 混池｜0.045x | 0.045 | gpt-6.1-sol |
 | 9 | `superxihe.com` | $0.09 / $0.45 | gpt-6性价比 | 0.045 | gpt-6.1-sol |

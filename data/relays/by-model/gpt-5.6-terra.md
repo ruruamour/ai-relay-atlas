@@ -72,7 +72,7 @@
 | 3 | `api.robinsonai.shop` | $0.0547692 / $0.328615 | gpt-plus-优惠 | 0.178 | gpt-5.6-terra |
 | 4 | `cn.lxtech.icu` | $0.06 / $0.36 | pro号池 | 0.3 | gpt-5.6-terra |
 | 5 | `all-api.ccode.dev` | $0.07 / $0.42 | Codex-Lite | 0.035 | gpt-5.6-terra |
-| 6 | `mhapi.net` | $0.07 / $0.42 | 激励gpt | 0.035 | gpt-5.6-terra |
+| 6 | `⚠️mhapi.net` | $0.07 / $0.42 | 激励gpt | 0.035 | gpt-5.6-terra |
 | 7 | `api.hopeplay.online` | $0.075 / $0.45 | 回馈 | 0.03 | gpt-5.6-terra |
 | 8 | `kukuai.ai` | $0.079413 / $0.476471 | 线路5 | 1 | gpt-5.6-terra |
 | 9 | `api.01yapi.com` | $0.08 / $0.48 | Plus分组 | 0.04 | gpt-5.6-terra |

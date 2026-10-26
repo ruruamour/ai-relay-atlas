@@ -73,7 +73,7 @@
 | 4 | `sub.geiliapi.com` | $0.1125 / $0.675 | GPT 稳定 | 0.15 | gpt-5.6-sol |
 | 5 | `all-api.ccode.dev` | $0.14 / $0.7 | Codex-Lite | 0.035 | gpt-5.6-sol |
 | 6 | `api.hopeplay.online` | $0.15 / $0.9 | 回馈 | 0.03 | gpt-5.6-sol |
-| 7 | `mhapi.net` | $0.175 / $1.05 | 激励gpt | 0.035 | gpt-5.6-sol |
+| 7 | `⚠️mhapi.net` | $0.175 / $1.05 | 激励gpt | 0.035 | gpt-5.6-sol |
 | 8 | `sub.jui87.com` | $0.18 / $0.6 | codex-低价版 | 0.06 | gpt-5.6-sol |
 | 9 | `api.01yapi.com` | $0.2 / $1.2 | Plus分组 | 0.04 | gpt-5.6-sol |
 | 10 | `flowerchatting.com` | $0.2 / $1 | grp_197d927e1c1c1659932f4d86 | 0.05 | gpt-5.6-sol |

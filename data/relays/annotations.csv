@@ -1,3 +1,4 @@
 domain,tag,note,source,date
 codelypixverse.com,掺水,高端模型挂牌价仅为全网中位价 1%–6%（claude-opus-4-8 $0.154 vs 中位 $2.5；claude-opus-4-8-fast $0.023；kimi-k3 $0.058 vs 中位 $6），疑似用低价模型冒充,用户反馈,2026-10-19
 www.hejuapi.com,掺水,按用户反馈标注；当前仅记录该反馈，尚待补充公开路由或实测证据,用户反馈,2026-10-26
+mhapi.net,掺水,自动价格对比命中 7 个旗舰模型低于全网中位价 10%；最低约为中位价 3.5%（gpt-5.6-luna $0.007 vs $0.2；gpt-6-luna $0.0035 vs $0.0696154；claude-opus-4-5 $0.25 vs $4.5），疑似用低价模型冒充,公开页面,2026-10-26

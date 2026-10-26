@@ -72,7 +72,7 @@
 | 3 | `api.247kan.com` | $0.05 / $0.25 | Claude Kiro | 0.05 | claude-haiku-4-5 |
 | 4 | `canana.vcnovb.cn` | $0.05 / $0.25 | 正价kiro-2 | 0.2 | claude-haiku-4-5-20251001-thinking |
 | 5 | `llm.twinight.co` | $0.05 / $0.25 | Claude Kiro（余额 0.05x） | 0.05 | claude-haiku-4-5 |
-| 6 | `mhapi.net` | $0.05 / $0.25 | Claude Kiro 有缓90 | 0.05 | claude-haiku-4-5 |
+| 6 | `⚠️mhapi.net` | $0.05 / $0.25 | Claude Kiro 有缓90 | 0.05 | claude-haiku-4-5 |
 | 7 | `api.apikl.ai` | $0.06 / $0.3 | Krio | 0.06 | claude-haiku-4-5 |
 | 8 | `apiai.fun` | $0.06 / $0.3 | Krio | 0.06 | claude-haiku-4-5 |
 | 9 | `api.hzapi.vip` | $0.0667 / $0.334 | Claude Code低价｜007 | 0.07 | claude-haiku-4-5 |

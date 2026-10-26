@@ -71,7 +71,7 @@
 | 2 | `api.247kan.com` | $0.2 / $1 | Claude Kiro | 0.05 | claude-opus-5-5 |
 | 3 | `huanyuf.top` | $0.2 / $1 | Claude Code 【对话版】 | 0.05 | claude-opus-5-5 |
 | 4 | `llm.twinight.co` | $0.2 / $1 | Claude Kiro（余额 0.05x） | 0.05 | claude-opus-5-5 |
-| 5 | `mhapi.net` | $0.2 / $1 | Claude Kiro 有缓90 | 0.05 | claude-opus-5-5 |
+| 5 | `⚠️mhapi.net` | $0.2 / $1 | Claude Kiro 有缓90 | 0.05 | claude-opus-5-5 |
 | 6 | `www.bb-api.com` | $0.2 / $1 | cc-kiro-90%缓存-005x | 0.05 | claude-opus-5-5 |
 | 7 | `api.apikl.ai` | $0.24 / $1.2 | Krio | 0.06 | claude-opus-5-5 |
 | 8 | `apiai.fun` | $0.24 / $1.2 | Krio | 0.06 | claude-opus-5-5 |

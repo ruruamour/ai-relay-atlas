@@ -83,7 +83,7 @@
 | 14 | `api.apikl.ai` | $0.3 / $1.8 | Gemini | 0.2 | gemini-3.5-flash |
 | 15 | `api.kcne.top` | $0.3 / $1.8 | 反重力Gemini | 0.2 | gemini-3.5-flash |
 | 16 | `kimera.cc` | $0.3 / $1.8 | Gemini | 0.2 | gemini-3.5-flash |
-| 17 | `mhapi.net` | $0.3 / $1.8 | Gemini | 0.2 | gemini-3.5-flash |
+| 17 | `⚠️mhapi.net` | $0.3 / $1.8 | Gemini | 0.2 | gemini-3.5-flash |
 | 18 | `www.largechestnut.com` | $0.3 / $1.8 | gemini | 0.2 | gemini-3.5-flash-high |
 | 19 | `you.loveme.space` | $0.3 / $1.8 | gemini | 0.2 | gemini-3.5-flash |
 | 20 | `z30.top` | $0.3 / $1.8 | 反重力Gemini | 0.2 | gemini-3.5-flash |

@@ -3174,7 +3174,7 @@ metarouters.org,api-fast.metarouters.org,Metarouters统一大模型API中转站,
 mfttai.com,,MFAPI,Sub2API,0.2.17,,veridrop,,0,,1,,200,931,2026-10-26,,
 mgoole.com,,芒果ai,Sub2API,0.2.17,,veridrop,,193,openai/claude/grok/deepseek/glm/kimi/minimax/hunyuan/other,0,B028,200,323,2026-10-26,,
 mgrouter.com,,MG Router,New-API,0.2.16,6.8,scan,,136,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/doubao/minimax/other,2,,200,798,2026-10-26,,
-mhapi.net,chat.mhapi.net,梦幻API,Sub2API,0.2.16,,veridrop,,47,openai/claude/gemini/grok/deepseek/glm/kimi,1,,200,392,2026-10-26,,
+mhapi.net,chat.mhapi.net,梦幻API,Sub2API,0.2.16,,veridrop,,47,openai/claude/gemini/grok/deepseek/glm/kimi,1,,200,392,2026-10-26,掺水,自动价格对比命中 7 个旗舰模型低于全网中位价 10%；最低约为中位价 3.5%（gpt-5.6-luna $0.007 vs $0.2；gpt-6-luna $0.0035 vs $0.0696154；claude-opus-4-5 $0.25 vs $4.5），疑似用低价模型冒充（公开页面）
 miaochuang.setbug.cn,,MiaCanvas,New-API,v0.0.0,1,scan,,32,openai/gemini/qwen/doubao/minimax/media/other,0,,200,712,2026-10-26,,
 miaomio.net,,哩喵中转栈,Sub2API,0.2.15,,veridrop,,0,,2,,200,732,2026-10-26,,
 micu.icu,,micu 中转站 你值得信耐的api中转站,Sub2API,0.2.0,,urlscan,,0,,1,,200,384,2026-10-26,,

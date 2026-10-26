@@ -71,7 +71,7 @@
 | 2 | `sub.geiliapi.com` | $0.225 / $1.125 | GPT 稳定 | 0.15 | gpt-6-astra |
 | 3 | `kukuai.ai` | $0.238236 / $1.19118 | 线路5 | 1 | gpt-6-astra |
 | 4 | `all-api.ccode.dev` | $0.35 / $1.75 | Codex-Lite | 0.035 | gpt-6-astra |
-| 5 | `mhapi.net` | $0.35 / $1.75 | 激励gpt | 0.035 | gpt-6-astra |
+| 5 | `⚠️mhapi.net` | $0.35 / $1.75 | 激励gpt | 0.035 | gpt-6-astra |
 | 6 | `api.robinsonai.shop` | $0.366154 / $1.83077 | gpt-plus-稳定 | 0.238 | gpt-6-astra |
 | 7 | `ai-pixel.online` | $0.375 / $0.75 | room-256 | 0.005 | gpt-6-astra |
 | 8 | `ai.kunkun.chat` | $0.4 / $2 | workbuddy | 0.2 | global:gpt-6-astra |

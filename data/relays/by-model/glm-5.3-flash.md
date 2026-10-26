@@ -114,7 +114,7 @@
 | 45 | `api.deepspacecode.chat` | $0.08 / $0.28 | 国模 | 0.1 | glm-5.3-flash |
 | 46 | `codexauv.com` | $0.08 / $0.28 | 国产模型聚合-Workbuddy渠道 | 0.1 | glm-5.3-flash |
 | 47 | `kittyapi.xyz` | $0.08 / $0.28 | 国产-GLM 【特殊渠道】 | 0.2 | glm-5.3-flash |
-| 48 | `mhapi.net` | $0.08 / $0.28 | zhipu glm | 0.1 | glm-5.3-flash |
+| 48 | `⚠️mhapi.net` | $0.08 / $0.28 | zhipu glm | 0.1 | glm-5.3-flash |
 | 49 | `sub.pikaqiu.shop` | $0.08 / $0.28 | 国模大杂烩 | 0.1 | glm-5.3-flash |
 | 50 | `worldcodes.online` | $0.08 / $0.28 | 【国模聚合3】优选池 · Pro | 0.1 | glm-5.3-flash |
 

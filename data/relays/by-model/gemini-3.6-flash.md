@@ -81,7 +81,7 @@
 | 12 | `canana.vcnovb.cn` | $0.15 / $0.75 | Anit Gemini | 0.2 | gemini-3.6-flash |
 | 13 | `foxbeeai.com` | $0.15 / $0.75 | Gemini | 0.2 | gemini-3.6-flash |
 | 14 | `kimera.cc` | $0.15 / $0.75 | Gemini | 0.2 | gemini-3.6-flash |
-| 15 | `mhapi.net` | $0.15 / $0.75 | Gemini | 0.2 | gemini-3.6-flash |
+| 15 | `⚠️mhapi.net` | $0.15 / $0.75 | Gemini | 0.2 | gemini-3.6-flash |
 | 16 | `sub.vcnovb.cn` | $0.15 / $0.75 | Anit Gemini | 0.2 | gemini-3.6-flash |
 | 17 | `tuzkiapi.tuzki.online` | $0.15 / $0.75 | 反重力Gemini | 0.1 | gemini-3.6-flash-high |
 | 18 | `ai.mzlone.top` | $0.18 / $0.9 | Gemini - Pro | 0.24 | gemini-3.6-flash |

@@ -69,7 +69,7 @@
 |---|---|---|---|---|---|
 | 1 | `api.247kan.com` | $0.5 / $2.5 | Claude Kiro | 0.05 | claude-fable-5-1 |
 | 2 | `llm.twinight.co` | $0.5 / $2.5 | Claude Kiro（余额 0.05x） | 0.05 | claude-fable-5-1 |
-| 3 | `mhapi.net` | $0.5 / $2.5 | Claude Kiro 有缓90 | 0.05 | claude-fable-5-1 |
+| 3 | `⚠️mhapi.net` | $0.5 / $2.5 | Claude Kiro 有缓90 | 0.05 | claude-fable-5-1 |
 | 4 | `www.bb-api.com` | $0.5 / $2.5 | cc-kiro-90%缓存-005x | 0.05 | claude-fable-5-1 |
 | 5 | `3seeker.site` | $0.53 / $2.65 | claude 红利99%缓存 | 0.053 | claude-fable-5-1 |
 | 6 | `api.apikl.ai` | $0.6 / $3 | Krio | 0.06 | claude-fable-5-1 |
