@@ -408,7 +408,7 @@
 | [mimo-v2.5-pro](mimo-v2.5-pro.md) | 456 | $1.04 | ¥2.411 |
 | [mimo-v2.5](mimo-v2.5.md) | 445 | $0.3 | ¥0.75 |
 | [mimo-v2.6-flash](mimo-v2.6-flash.md) | 312 | $0.2 | ¥0.5 |
-| [mimo-v2.6-pro](mimo-v2.6-pro.md) | 270 | $0.6 | ¥1.5 |
+| [mimo-v2.6-pro](mimo-v2.6-pro.md) | 271 | $0.6 | ¥1.5 |
 | [mimo-v2-pro](mimo-v2-pro.md) | 109 | $3 | ¥6.721 |
 | [mimo-v2.5-tts](mimo-v2.5-tts.md) | 40 | $0.4 | ¥1.354 |
 | [mimo-v2.5-tts-voicedesign](mimo-v2.5-tts-voicedesign.md) | 40 | $0.7 | ¥2.708 |
@@ -421,9 +421,9 @@
 
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
-| [deepseek-v4-pro](deepseek-v4-pro.md) | 1516 | $1.8 | ¥3.6 |
-| [deepseek-v4-flash](deepseek-v4-flash.md) | 1385 | $0.5 | ¥0.9069 |
-| [deepseek-v4.1-flash](deepseek-v4.1-flash.md) | 1285 | $0.3 | ¥0.7618 |
+| [deepseek-v4-pro](deepseek-v4-pro.md) | 1517 | $1.8 | ¥3.6 |
+| [deepseek-v4-flash](deepseek-v4-flash.md) | 1386 | $0.5 | ¥0.9069 |
+| [deepseek-v4.1-flash](deepseek-v4.1-flash.md) | 1286 | $0.3 | ¥0.7618 |
 | [deepseek-v4-flash-vision-exp](deepseek-v4-flash-vision-exp.md) | 370 | $0.5 | ¥1.05 |
 | [deepseek-v3.2](deepseek-v3.2.md) | 340 | $1.6 | ¥1.8 |
 | [deepseek-flash](deepseek-flash.md) | 293 | $0.5 | ¥1 |
@@ -628,10 +628,10 @@
 
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
-| [glm-5.3](glm-5.3.md) | 1223 | $2 | ¥5.173 |
-| [glm-5.2](glm-5.2.md) | 1197 | $2.8 | ¥5.216 |
-| [glm-5.3-flash](glm-5.3-flash.md) | 1150 | $0.2 | ¥0.4776 |
-| [glm-5.1](glm-5.1.md) | 800 | $2.1 | ¥5.4 |
+| [glm-5.3](glm-5.3.md) | 1224 | $2 | ¥5.173 |
+| [glm-5.2](glm-5.2.md) | 1198 | $2.8 | ¥5.216 |
+| [glm-5.3-flash](glm-5.3-flash.md) | 1151 | $0.2 | ¥0.4776 |
+| [glm-5.1](glm-5.1.md) | 801 | $2.1 | ¥5.4 |
 | [glm-5](glm-5.md) | 436 | $2.48 | ¥4.035 |
 | [glm-5.3-flashx](glm-5.3-flashx.md) | 271 | $0.4 | ¥1 |
 | [glm-4.7](glm-4.7.md) | 252 | $3 | ¥2.43 |
@@ -646,7 +646,7 @@
 | [glm-4.6v](glm-4.6v.md) | 73 | $1 | ¥1.2 |
 | [glm-4.5-flash](glm-4.5-flash.md) | 72 | $0.02 | ¥0.182 |
 | [glm-4.7-flash](glm-4.7-flash.md) | 69 | $0.185875 | ¥0.519 |
-| [glm-5v-turbo](glm-5v-turbo.md) | 66 | $0.730994 | ¥5.004 |
+| [glm-5v-turbo](glm-5v-turbo.md) | 67 | $0.730994 | ¥5.004 |
 | [glm-3-turbo](glm-3-turbo.md) | 66 | $1.5 | ¥1.5 |
 | [glm-4-air](glm-4-air.md) | 62 | $0.3 | ¥0.3 |
 | [glm-4.5-x](glm-4.5-x.md) | 59 | $1.6 | ¥8 |
@@ -668,8 +668,8 @@
 
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
-| [kimi-k3](kimi-k3.md) | 1327 | $6 | ¥12 |
-| [kimi-k2.6](kimi-k2.6.md) | 795 | $2.3265 | ¥3.9 |
+| [kimi-k3](kimi-k3.md) | 1328 | $6 | ¥12 |
+| [kimi-k2.6](kimi-k2.6.md) | 796 | $2.3265 | ¥3.9 |
 | [kimi-k2.7-code](kimi-k2.7-code.md) | 751 | $2.6 | ¥3.9 |
 | [kimi-k2.5](kimi-k2.5.md) | 478 | $2 | ¥3.03 |
 | [kimi-k2](kimi-k2.md) | 214 | $4 | ¥3.2 |
@@ -677,8 +677,8 @@
 | [kimi-k2.7-code-highspeed](kimi-k2.7-code-highspeed.md) | 146 | $19.5 | ¥12.67 |
 | [kimi-k2-instruct](kimi-k2-instruct.md) | 129 | $4 | ¥4 |
 | [moonshot-v1](moonshot-v1.md) | 106 | $3.6 | ¥2 |
-| [kimi-k3.1-pro](kimi-k3.1-pro.md) | 85 | $2.8084 | ¥8.97 |
-| [kimi-k2.7](kimi-k2.7.md) | 76 | $1.3 | ¥3.375 |
+| [kimi-k3.1-pro](kimi-k3.1-pro.md) | 86 | $2.8084 | ¥8.97 |
+| [kimi-k2.7](kimi-k2.7.md) | 77 | $1.3 | ¥3.375 |
 | [kimi-k2.8](kimi-k2.8.md) | 67 | $1.15 | ¥2.377 |
 | [kimi-k2.8-preview](kimi-k2.8-preview.md) | 67 | $0.675 | ¥3.125 |
 | [kimi-k3-1](kimi-k3-1.md) | 48 | $1.775 | ¥1.464 |
@@ -752,7 +752,7 @@
 
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
-| [minimax-m3](minimax-m3.md) | 793 | $0.63 | ¥1.47 |
+| [minimax-m3](minimax-m3.md) | 794 | $0.63 | ¥1.47 |
 | [minimax-m2.7](minimax-m2.7.md) | 587 | $0.798 | ¥1.793 |
 | [minimax-m2.5](minimax-m2.5.md) | 434 | $1.23 | ¥1.687 |
 | [minimax-h3](minimax-h3.md) | 267 | $0.3/次 | ¥0.5/次 |
@@ -769,7 +769,7 @@
 | [minimax-hailuo-2.3](minimax-hailuo-2.3.md) | 102 | $0.016/次 | ¥2/次 |
 | [minimax-hailuo-02](minimax-hailuo-02.md) | 98 | $0.016/次 | ¥1.479/次 |
 | [minimax-m2.5-highspeed](minimax-m2.5-highspeed.md) | 88 | $1.176 | ¥2.835 |
-| [minimax-m3.1-flash](minimax-m3.1-flash.md) | 52 | $0.142857 | ¥0.6046 |
+| [minimax-m3.1-flash](minimax-m3.1-flash.md) | 53 | $0.142857 | ¥0.6046 |
 | [minimax-m2.1-highspeed](minimax-m2.1-highspeed.md) | 43 | $2 | ¥3.591 |
 | [minimax-m1](minimax-m1.md) | 39 | $2.28 | ¥3.2 |
 | [minimax-h3-768p](minimax-h3-768p.md) | 34 | $0.125/次 | ¥0.16/次 |
@@ -782,8 +782,8 @@
 
 | 模型 | 站点数 | 名义中位价 | 实付中位价 |
 |---|---|---|---|
-| [hy3](hy3.md) | 273 | $0.25 | ¥0.5 |
-| [hy4-preview](hy4-preview.md) | 262 | $1.18845 | ¥5.361 |
+| [hy3](hy3.md) | 274 | $0.25 | ¥0.5 |
+| [hy4-preview](hy4-preview.md) | 263 | $1.18845 | ¥5.361 |
 | [hy4](hy4.md) | 64 | $1.2 | ¥1.584 |
 | [hy3-preview](hy3-preview.md) | 40 | $0.29 | ¥1.077 |
 | [hunyuan-a13b-instruct](hunyuan-a13b-instruct.md) | 27 | $0.49 | ¥0.92 |
@@ -927,7 +927,7 @@
 | [gemma-7b-it](gemma-7b-it.md) | 89 | $2 | ¥2 |
 | [bge-m3](bge-m3.md) | 88 | $0.05 | ¥0.1356 |
 | [jev-1.13.0](jev-1.13.0.md) | 87 | $0.0336 | ¥0.1693 |
-| [step-5-preview](step-5-preview.md) | 86 | $1 | ¥2 |
+| [step-5-preview](step-5-preview.md) | 87 | $1 | ¥2 |
 | [mai-ds-r1](mai-ds-r1.md) | 85 | $3.942 | ¥2.971 |
 | [step-3.7-flash](step-3.7-flash.md) | 78 | $0.36 | ¥1.35 |
 | [text-moderation](text-moderation.md) | 75 | $0.2 | ¥0.674 |

@@ -83,8 +83,10 @@
 {"domain": "apilo.chat", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "apilo.chat", "latency_ms": 424, "title": "", "reachable": true, "error": ""}
 {"domain": "apiman.ai", "source_files": [], "checked": "2026-10-26", "status": null, "final_host": "", "latency_ms": null, "title": "", "reachable": false, "error": "TimeoutError: timed out"}
 {"domain": "apirouter.chat", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "apirouter.chat", "latency_ms": 415, "title": "多模型 AI API 网关 | GPT、Claude、DeepSeek 接入 - APIRouter.chat", "reachable": true, "error": ""}
+{"domain": "apitiantian.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "apitiantian.com", "latency_ms": 551, "title": "天天中转站｜国产大模型 API，官方价格 2 折", "reachable": true, "error": ""}
 {"domain": "app.latix.ai", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "app.latix.ai", "latency_ms": 812, "title": "Latix - AI Model Gateway and API Platform", "reachable": true, "error": ""}
 {"domain": "arilo.id", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "arilo.id", "latency_ms": 1041, "title": "Arilo. Predictable inference costs for growing businesses.", "reachable": true, "error": ""}
+{"domain": "artificialanalysis.ai", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "artificialanalysis.ai", "latency_ms": 408, "title": "AI Model & API Providers Analysis | Artificial Analysis", "reachable": true, "error": ""}
 {"domain": "availability.md", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "availability.md", "latency_ms": 389, "title": "", "reachable": true, "error": "Bad Gateway"}
 {"domain": "baitoken.online", "source_files": [], "checked": "2026-10-26", "status": null, "final_host": "", "latency_ms": null, "title": "", "reachable": false, "error": "TimeoutError: timed out"}
 {"domain": "beecode.cc", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "getbeeapi.com", "latency_ms": 1081, "title": "GetBeeAPI — 为现有 AI 工具快速配置 BeeAPI", "reachable": true, "error": ""}
@@ -96,6 +98,7 @@
 {"domain": "bobdong.cn", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "bobdong.cn", "latency_ms": 5004, "title": "", "reachable": true, "error": "Bad Gateway"}
 {"domain": "boluotoken.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "boluotoken.com", "latency_ms": 1032, "title": "New API", "reachable": true, "error": ""}
 {"domain": "c.data", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "c.data", "latency_ms": 120, "title": "", "reachable": true, "error": "Bad Gateway"}
+{"domain": "cctest.ai", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "cctest.ai", "latency_ms": 1114, "title": "Claude 中转站检测 - 掺假降智真假甄别 - CCTest", "reachable": true, "error": ""}
 {"domain": "cf.cpass.cc", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "cf.cpass.cc", "latency_ms": 991, "title": "Loading...", "reachable": true, "error": ""}
 {"domain": "chatapi.nloli.xyz", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "chatapi.nloli.xyz", "latency_ms": 303, "title": "New API", "reachable": true, "error": ""}
 {"domain": "china.botcf.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "china.botcf.com", "latency_ms": 559, "title": "Bot Compute Fabric", "reachable": true, "error": ""}
@@ -164,6 +167,7 @@
 {"domain": "leverai.net", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "leverai.net", "latency_ms": 1365, "title": "", "reachable": true, "error": ""}
 {"domain": "limgai.dpdns.org", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "limgai.dpdns.org", "latency_ms": 336, "title": "", "reachable": true, "error": "Bad Gateway"}
 {"domain": "lingshuapi.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "lingshuapi.com", "latency_ms": 1617, "title": "首页 - 灵枢API", "reachable": true, "error": ""}
+{"domain": "lingsuan.si", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.lingsuan.si", "latency_ms": 1504, "title": "灵算 - AI API Gateway", "reachable": true, "error": ""}
 {"domain": "link.wtturl.cn", "source_files": [], "checked": "2026-10-26", "status": 400, "final_host": "link.wtturl.cn", "latency_ms": 133, "title": "", "reachable": true, "error": "Bad Request"}
 {"domain": "linoroute.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "linoroute.com", "latency_ms": 1368, "title": "欢迎来到 LinoRoute - LinoRoute API 中转服务 - 企业级统一大模型接口网关 | 支持 DeepSeek/Claude/GPT/Gemini", "reachable": true, "error": ""}
 {"domain": "llm.onallways.top", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "llm.onallways.top", "latency_ms": 708, "title": "Onallways - AI API Gateway", "reachable": true, "error": ""}
@@ -194,6 +198,7 @@
 {"domain": "panel.raozheng.top", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "panel.raozheng.top", "latency_ms": 973, "title": "New API", "reachable": true, "error": ""}
 {"domain": "pay.ldxp.cn", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "wzyp.cn", "latency_ms": 202, "title": "", "reachable": true, "error": ""}
 {"domain": "performance.now", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.dn.now", "latency_ms": 1062, "title": "Performance.now", "reachable": true, "error": ""}
+{"domain": "platform.claude.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "platform.claude.com", "latency_ms": 1130, "title": "Claude Platform", "reachable": true, "error": ""}
 {"domain": "push.zhanzhang.baidu.com", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "push.zhanzhang.baidu.com", "latency_ms": 144, "title": "", "reachable": true, "error": "Bad Gateway"}
 {"domain": "qqqrouter.ai", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "qqqrouter.ai", "latency_ms": 1096, "title": "QQQRouter - One API for Every AI Model | LLM Router", "reachable": true, "error": ""}
 {"domain": "referer.shadowai.xyz", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.closeai-asia.com", "latency_ms": 1985, "title": "CloseAI - 亚洲规模最大的企业级AI中转平台", "reachable": true, "error": ""}
@@ -211,6 +216,7 @@
 {"domain": "submit.md", "source_files": [], "checked": "2026-10-26", "status": null, "final_host": "", "latency_ms": null, "title": "", "reachable": false, "error": "TimeoutError: timed out"}
 {"domain": "sucloud.vip", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "sucloud.vip", "latency_ms": 1224, "title": "企业级AI 接口聚合与模型调用平台 - SuCloud API - 企业级 AI 接口聚合与模型调用平台", "reachable": true, "error": ""}
 {"domain": "superapi.buzz", "source_files": [], "checked": "2026-10-26", "status": 403, "final_host": "superapi.buzz", "latency_ms": 263, "title": "", "reachable": true, "error": "Forbidden"}
+{"domain": "tallius.ai", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "tallius.ai", "latency_ms": 968, "title": "AI Model Pricing Catalog | Tallius", "reachable": true, "error": ""}
 {"domain": "telegram.me", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "telegram.org", "latency_ms": 1483, "title": "Telegram Messenger", "reachable": true, "error": ""}
 {"domain": "thesaasdir.com", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "thesaasdir.com", "latency_ms": 572, "title": "TheSaaSDir — SaaS & AI Product Directory", "reachable": true, "error": ""}
 {"domain": "tiger.bookapi.cc", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "tiger.bookapi.cc", "latency_ms": 733, "title": "", "reachable": true, "error": "Bad Gateway"}
@@ -246,6 +252,7 @@
 {"domain": "www.aipro.love", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.aipro.love", "latency_ms": 983, "title": "landing-page", "reachable": true, "error": ""}
 {"domain": "www.aitoke.top", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.aitoke.top", "latency_ms": 928, "title": "UoCode", "reachable": true, "error": ""}
 {"domain": "www.ccsub.net", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.ccsub.net", "latency_ms": 591, "title": "Claude Code 中转｜免梯子直连 Claude/GPT/Gemini，1元=1刀 | CCSub", "reachable": true, "error": ""}
+{"domain": "www.clarity.ms", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.clarity.ms", "latency_ms": 409, "title": "", "reachable": true, "error": ""}
 {"domain": "www.dancehorse.ai", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.dancehorse.ai", "latency_ms": 1134, "title": "DanceHorse - Happy House + SeeDance2.0 Video API", "reachable": true, "error": ""}
 {"domain": "www.dayueai.fun", "source_files": [], "checked": "2026-10-26", "status": 200, "final_host": "www.dayueai.fun", "latency_ms": 465, "title": "如愿AI", "reachable": true, "error": ""}
 {"domain": "www.fkclaude.xyz", "source_files": [], "checked": "2026-10-26", "status": 502, "final_host": "www.fkclaude.xyz", "latency_ms": 271, "title": "", "reachable": true, "error": "Bad Gateway"}

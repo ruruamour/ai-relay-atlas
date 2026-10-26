@@ -15,6 +15,7 @@
 {"domain": "555codex.xyz", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "78code.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "88996api.cloud", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "88api.ai", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "88code.org", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "8s.hk", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "8stoken.com", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "howtok.net", "zhongzhuanzhanrank.github.io"]}
@@ -131,6 +132,7 @@
 {"domain": "api.akane.win", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "api.antmoo.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "api.antmoo.com", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "api.api2cn.com", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "api.apichatgpt.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "api.apilio.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "api.apiqik.online", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -346,11 +348,13 @@
 {"domain": "apirouter.ai", "source": "public-directory", "source_sites": ["apiznz.com", "howtok.net"]}
 {"domain": "apirouter.chat", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "apistudio.vip", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "apitiantian.com", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "apius.shubiaobiao.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "apiyi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "app.latix.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "app.yylx.io", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "arilo.id", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "artificialanalysis.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "aruhub.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "atomflow.vip", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "availability.md", "source": "public-directory", "source_sites": ["helpaio.com"]}
@@ -383,6 +387,7 @@
 {"domain": "cc.honoursoft.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "cc.nuoda.vip", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "ccapi.us", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "cctest.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io"]}
 {"domain": "cctq.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "cf.cpass.cc", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "chat.ekti.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -399,7 +404,7 @@
 {"domain": "ciyuanshen.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "ciyuanx.io", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "clauddy.com", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "claude-api.org", "source": "public-directory", "source_sites": ["howtok.net", "zhongzhuanzhanrank.github.io"]}
+{"domain": "claude-api.org", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "howtok.net", "zhongzhuanzhanrank.github.io"]}
 {"domain": "claude.ai", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "claude.bestswifter.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "claude.proai.love", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -451,7 +456,7 @@
 {"domain": "crazyrouter.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "crowdtest.md", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "cubence.com", "source": "public-directory", "source_sites": ["helpaio.com", "howtok.net"]}
-{"domain": "cun.ai", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
+{"domain": "cun.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "hvoyai.com", "zhongzhuanzhanrank.github.io"]}
 {"domain": "daodunapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "dapicloud.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "dawclaudecode.com", "source": "public-directory", "source_sites": ["apiznz.com", "howtok.net"]}
@@ -472,7 +477,7 @@
 {"domain": "doc.aixia.tech", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "doc.atomflow.vip", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "doc.centos.hk", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "doc.claude-api.org。", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
+{"domain": "doc.claude-api.org。", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
 {"domain": "dogrouter.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "doro.lol", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "downstream.jbbtoken.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -506,6 +511,7 @@
 {"domain": "ganfanpen.asia", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "gengruihuan.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "gettoken.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "gguuai.com", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "ggwk1.online", "source": "public-directory", "source_sites": ["apiznz.com"]}
 {"domain": "gmail.com", "source": "public-directory", "source_sites": ["computeunion.net"]}
 {"domain": "go.sbgpt.site", "source": "public-directory", "source_sites": ["apiznz.com", "howtok.net"]}
@@ -522,7 +528,7 @@
 {"domain": "gw.claudeapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "gzxsy.vip", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "hahacode.com", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "hao.ai", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
+{"domain": "hao.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
 {"domain": "haoapi.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "hapiopen.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "hardysapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -531,7 +537,7 @@
 {"domain": "hk.apitoken.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "hk.getelucid.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "hk.rootflowai.com", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "hm.baidu.com", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
+{"domain": "hm.baidu.com", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "hvoyai.com", "zhongzhuanzhanrank.github.io"]}
 {"domain": "hohoapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "home.moleapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "hongmacc.com", "source": "public-directory", "source_sites": ["helpaio.com", "howtok.net"]}
@@ -584,6 +590,7 @@
 {"domain": "liangxinapi.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "limgai.dpdns.org", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "lingshuapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "lingsuan.si", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "link.wtturl.cn", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
 {"domain": "linkapi.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "linksapi.cn", "source": "public-directory", "source_sites": ["computeunion.net", "howtok.net"]}
@@ -664,7 +671,7 @@
 {"domain": "oai2api.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "officesai.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "ofox.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "omniakey.com", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "howtok.net", "zhongzhuanzhanrank.github.io"]}
+{"domain": "omniakey.com", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "howtok.net", "hvoyai.com", "zhongzhuanzhanrank.github.io"]}
 {"domain": "omnixai.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "once.novai.su", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "one-api.bltcy.top", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -690,10 +697,11 @@
 {"domain": "openthoughts.xyz", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "oranexa.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "orange-ai.online", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "origin.modelflare.dev", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "origincoder.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "otterl.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "outlook.com", "source": "public-directory", "source_sites": ["helpaio.com"]}
-{"domain": "packyapi.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "packyapi.ai", "source": "public-directory", "source_sites": ["howtok.net", "hvoyai.com"]}
 {"domain": "panel.raozheng.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "passion8.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "pateway.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -702,10 +710,11 @@
 {"domain": "pdhlzy.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "performance.now", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "pipio.io", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "platform.claude.com", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "poixe.com", "source": "public-directory", "source_sites": ["computeunion.net", "howtok.net"]}
 {"domain": "poloai.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "poloapi.top", "source": "public-directory", "source_sites": ["computeunion.net", "howtok.net"]}
-{"domain": "poolai.chat", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
+{"domain": "poolai.chat", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
 {"domain": "portal.gpteamservices.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "pqh.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "pro.auroai.icu", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -731,7 +740,7 @@
 {"domain": "s.apifox.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "s.lconai.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "sakura886.site", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "schema.org", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "apiznz.com", "computeunion.net", "helpaio.com", "howtok.net", "zhongzhuanzhanrank.github.io"]}
+{"domain": "schema.org", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "apiznz.com", "computeunion.net", "helpaio.com", "howtok.net", "hvoyai.com", "zhongzhuanzhanrank.github.io"]}
 {"domain": "sg.uiuiapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "shop.xuedingtoken.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "siliconflow.cn", "source": "public-directory", "source_sites": ["computeunion.net"]}
@@ -757,6 +766,7 @@
 {"domain": "tabitoken.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "tacklekey.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "taijiai.online", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "tallius.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io"]}
 {"domain": "tdyun.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "teamorouter.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "telegram.me", "source": "public-directory", "source_sites": ["helpaio.com", "howtok.net"]}
@@ -786,6 +796,7 @@
 {"domain": "tokensmind.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "tools.md", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "top.suanniao.shop", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "totokens.cc", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "transit.md", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "treerouter.com", "source": "public-directory", "source_sites": ["computeunion.net"]}
 {"domain": "true-sota.com", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -829,7 +840,7 @@
 {"domain": "wwewio1odth.feishu.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.78code.cc", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "www.88code.org", "source": "public-directory", "source_sites": ["helpaio.com"]}
-{"domain": "www.aiaimark.com", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "www.aiaimark.com", "source": "public-directory", "source_sites": ["howtok.net", "hvoyai.com"]}
 {"domain": "www.aicodemirror.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.aicost.xyz", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.aipro.love", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -841,6 +852,7 @@
 {"domain": "www.ccode.dev", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.ccsub.net", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.cctq.ai", "source": "public-directory", "source_sites": ["helpaio.com"]}
+{"domain": "www.clarity.ms", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "www.dancehorse.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.dayueai.fun", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.ddshub.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -851,7 +863,7 @@
 {"domain": "www.fusecode.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.gerlant.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.getcodex.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "www.googletagmanager.com", "source": "public-directory", "source_sites": ["helpaio.com"]}
+{"domain": "www.googletagmanager.com", "source": "public-directory", "source_sites": ["helpaio.com", "hvoyai.com"]}
 {"domain": "www.hi-code.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.hvoyai.com", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
 {"domain": "www.jishuya.net", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -860,6 +872,7 @@
 {"domain": "www.macode.cloud", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.micuapi.ai", "source": "public-directory", "source_sites": ["helpaio.com"]}
 {"domain": "www.moxin.studio", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "www.niccom.com.cn", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io"]}
 {"domain": "www.nuwaflux.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.ohmygpt.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "www.openmodel.ai", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -909,11 +922,13 @@
 {"domain": "yansd666.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "yfy.zhouyang168.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "yinli.one", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "yomiapi.com", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "yourapi.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "yuanqiaoyun.com", "source": "public-directory", "source_sites": ["computeunion.net"]}
+{"domain": "yuanqiaoyun.com", "source": "public-directory", "source_sites": ["computeunion.net", "hvoyai.com"]}
 {"domain": "yujianwudi.top", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "yuli.host", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "yunai.chat", "source": "public-directory", "source_sites": ["howtok.net"]}
+{"domain": "yundu.lol", "source": "public-directory", "source_sites": ["hvoyai.com"]}
 {"domain": "yunqiaoapi.com", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "yunwu.ai", "source": "public-directory", "source_sites": ["computeunion.net", "helpaio.com", "howtok.net"]}
 {"domain": "yunwu.site", "source": "public-directory", "source_sites": ["howtok.net"]}
@@ -931,13 +946,13 @@
 {"domain": "zipflow.xyz", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "zivv.pro", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "zmzai.cn", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "znb.ai", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
+{"domain": "znb.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
 {"domain": "zxai.work", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "zz.bdstatic.com", "source": "public-directory", "source_sites": ["apiznz.com"]}
 {"domain": "zz1cc.cc.cd", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "zzmapi.zzmsgdsg.xyz", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "zzshu.cc", "source": "public-directory", "source_sites": ["howtok.net"]}
 {"domain": "不方便科学上网的宝宝可以尝试edge.botcf.com", "source": "public-directory", "source_sites": ["howtok.net"]}
-{"domain": "价格方面，hao.ai", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
-{"domain": "服务方面，hao.ai", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
-{"domain": "计费、套餐订阅、余额充值、模型价格透明展示等功能，帮助开发者更方便地管理模型调用成本，减少多平台账号配置和接口适配成本。cun.ai", "source": "public-directory", "source_sites": ["zhongzhuanzhanrank.github.io"]}
+{"domain": "价格方面，hao.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
+{"domain": "服务方面，hao.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}
+{"domain": "计费、套餐订阅、余额充值、模型价格透明展示等功能，帮助开发者更方便地管理模型调用成本，减少多平台账号配置和接口适配成本。cun.ai", "source": "public-directory", "source_sites": ["aizhongzhuanzhan.github.io", "zhongzhuanzhanrank.github.io"]}

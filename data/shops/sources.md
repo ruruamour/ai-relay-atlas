@@ -11,7 +11,7 @@
 | **AI号探** | `aihaotan-goods.json` | 116 家店 | 商品与价格 | **只有链动小铺** |
 | **AiFaKa（GitHub）** | — | 链动小铺店铺名单 | 店铺名 | 同上 |
 | **指纹探测** | `shop-fingerprints.json` | 56 个自建宿主 | 底层系统（独角数卡 / 异次元 / 易支付系 / 购物模板） | 单页站要浏览器渲染才认得出 |
-| **Veridrop / GitHub / GitLab / CT / urlscan / npm / Docker Hub / Hugging Face / Bing / 公开目录首页筛选** | `shop-fingerprint-candidates.jsonl` / `candidates.csv` | 10,402 个候选，190 个中高置信；其中 3 个已浏览器确认首页商品标记 | 首页标题、卡网词、AI 词、部分系统指纹 | 仍需核对商品与在售状态，不自动进入商品店主表 |
+| **Veridrop / GitHub / GitLab / CT / urlscan / npm / Docker Hub / Hugging Face / Bing / 公开目录首页筛选** | `shop-fingerprint-candidates.jsonl` / `candidates.csv` | 10,405 个候选，191 个中高置信；其中 3 个已浏览器确认首页商品标记 | 首页标题、卡网词、AI 词、部分系统指纹 | 仍需核对商品与在售状态，不自动进入商品店主表 |
 
 ## 当前覆盖（`data/shops/shops.csv`）
 

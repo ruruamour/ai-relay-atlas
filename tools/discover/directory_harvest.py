@@ -16,14 +16,28 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from relay_search import hosts_in_text  # noqa: E402
 
-DIRECTORIES = {
-    'howtok.net': 'https://howtok.net/',
-    'apiznz.com': 'https://www.apiznz.com/compare',
-    'computeunion.net': 'https://www.computeunion.net/zh/api-pricing/cn-relay',
-    'zhongzhuanzhanrank.github.io': 'https://zhongzhuanzhanrank.github.io/gpt-zhongzhuanzhan/',
-    'aizhongzhuanzhan.github.io': 'https://aizhongzhuanzhan.github.io/',
-    'helpaio.com': 'https://www.helpaio.com/transit',
-}
+PAGES = [
+    ('howtok.net', 'https://howtok.net/'),
+    ('howtok.net', 'https://howtok.net/models'),
+    ('apiznz.com', 'https://www.apiznz.com/compare'),
+    ('apiznz.com', 'https://www.apiznz.com/model/lists'),
+    ('computeunion.net', 'https://www.computeunion.net/zh/api-pricing/cn-relay'),
+    ('computeunion.net', 'https://www.computeunion.net/zh/platform/runapi'),
+    ('computeunion.net', 'https://www.computeunion.net/zh/platform/proaiapi'),
+    ('zhongzhuanzhanrank.github.io', 'https://zhongzhuanzhanrank.github.io/gpt-zhongzhuanzhan/'),
+    ('aizhongzhuanzhan.github.io', 'https://aizhongzhuanzhan.github.io/'),
+    ('aizhongzhuanzhan.github.io', 'https://aizhongzhuanzhan.github.io/page/2/'),
+    ('aizhongzhuanzhan.github.io', 'https://aizhongzhuanzhan.github.io/page/3/'),
+    ('aizhongzhuanzhan.github.io', 'https://aizhongzhuanzhan.github.io/page/4/'),
+    ('helpaio.com', 'https://www.helpaio.com/transit'),
+    ('helpaio.com', 'https://www.helpaio.com/transit/compare'),
+    ('helpaio.com', 'https://www.helpaio.com/transit/availability'),
+    ('helpaio.com', 'https://www.helpaio.com/transit/table'),
+    ('helpaio.com', 'https://www.helpaio.com/transit/recommend'),
+    ('helpaio.com', 'https://www.helpaio.com/transit/starter'),
+    ('hvoyai.com', 'https://www.hvoyai.com/'),
+]
+DIRECTORY_HOSTS = {x[0] for x in PAGES} | {'github.io'}
 UA = 'ai-relay-atlas-public-directory-harvest/0.1'
 MAX_BYTES = 8_000_000
 
@@ -44,12 +58,13 @@ def main():
     ap.add_argument('--delay', type=float, default=1.0)
     args = ap.parse_args()
     found = defaultdict(set)
-    for label, url in DIRECTORIES.items():
+    for label, url in PAGES:
         try:
             text = fetch(url)
             for host in hosts_in_text(text):
-                if host != label and not host.endswith('.' + label):
-                    found[host].add(label)
+                if host in DIRECTORY_HOSTS or any(host.endswith('.' + x) for x in DIRECTORY_HOSTS):
+                    continue
+                found[host].add(label)
             print(label, 'candidates', len(found), file=sys.stderr, flush=True)
         except Exception as exc:
             print(label, 'failed:', exc, file=sys.stderr)
