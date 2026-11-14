@@ -1,6 +1,6 @@
 # nano-banana-hd
 
-> 22 站提供 · 正常价 18 站 · 名义中位价 **$0.24**/次 · 实付中位价 **¥0.24**/次（17 站公开充值价） · 推算，未对账
+> 21 站提供 · 正常价 17 站 · 名义中位价 **$0.24**/次 · 实付中位价 **¥0.24**/次（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,19 +19,13 @@
 | 7 | `api.hopeai.cc` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
 | 8 | `apilio.ai` | ¥0.24 | $0.24 | 1 | gemini优质 | nano-banana-hd |
 | 9 | `kfcv50.link` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
-| 10 | `new.gateway.icu` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
+| 10 | `new.gateway.icu` | ¥0.24 | $0.24 | 1 | reverse | nano-banana-hd |
 | 11 | `test-ssl.bltcy.ai` | ¥0.24 | $0.24 | 1 | gemini优质 | nano-banana-hd |
-| 12 | `vibecodingapi.ai` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
-| 13 | `cnapi.kksj.org` | ¥0.27 | $0.27 | 1 | default | nano-banana-hd |
+| 12 | `cnapi.kksj.org` | ¥0.27 | $0.27 | 1 | default | nano-banana-hd |
+| 13 | `ai.comfly.org` | ¥0.288 | $0.24 | 1.2 | gemini优质 | nano-banana-hd |
 | 14 | `ai.t8star.org` | ¥0.324 | $0.24 | 1.35 | gemini优质 | nano-banana-hd |
 | 15 | `newapi.link` | ¥0.48 | $0.48 | 1 | 备用 | nano-banana-hd |
 | 16 | `api.34ku.com` | ¥0.52 | $0.52 | 1 | default | nano-banana-hd |
 | 17 | `max.openai365.top` | ¥620.5 | $85 | 7.3 | default | nano-banana-hd |
-
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `ai.comfly.org` | $0.24 | gemini优质 | 2 | nano-banana-hd |
 
 > 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

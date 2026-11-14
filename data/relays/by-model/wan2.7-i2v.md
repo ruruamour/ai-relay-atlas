@@ -1,6 +1,6 @@
 # wan2.7-i2v
 
-> 37 站提供 · 正常价 5 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.44**/1M 输入（5 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 6 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.32**/1M 输入（6 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,10 +10,11 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.zyai.online` | ¥1.2 | $1.2 / $1.2 | 1 | default | wan2.7-i2v |
-| 2 | `kfcv50.link` | ¥1.2 | $1.2 / $1.2 | 1 | Domestic | wan2.7-i2v |
-| 3 | `api.laozhang.ai` | ¥1.44 | $0.20568 / $0.20568 | 7 | Wan | wan2.7-i2v |
-| 4 | `agent.tokensea.ai` | ¥7.3 | $1 / $1 | 7.3 | svip | wan2.7-i2v |
-| 5 | `modelsell.com` | ¥13.6 | $2 / $2 | 6.8 | Alibaba | wan2.7-i2v |
+| 1 | `api.yuboar.com` | ¥1.2 | $1.2 / $1.2 | 1 | domestic | wan2.7-i2v |
+| 2 | `api.zyai.online` | ¥1.2 | $1.2 / $1.2 | 1 | default | wan2.7-i2v |
+| 3 | `kfcv50.link` | ¥1.2 | $1.2 / $1.2 | 1 | Domestic | wan2.7-i2v |
+| 4 | `api.laozhang.ai` | ¥1.44 | $0.20568 / $0.20568 | 7 | Wan | wan2.7-i2v |
+| 5 | `agent.tokensea.ai` | ¥7.3 | $1 / $1 | 7.3 | svip | wan2.7-i2v |
+| 6 | `modelsell.com` | ¥13.6 | $2 / $2 | 6.8 | Alibaba | wan2.7-i2v |
 
-> 32 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

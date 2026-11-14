@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `new.gateway.icu` | ¥0.5 | $0.5 / $0.5 | 1 | default | search-gpts |
+| 1 | `new.gateway.icu` | ¥0.5 | $0.5 / $0.5 | 1 | reverse | search-gpts |
 | 2 | `ai.soruxgpt.com` | ¥1 | $1 / $1 | 1 | default | search-gpts |
 | 3 | `api.hopeai.cc` | ¥1 | $1 / $1 | 1 | default | search-gpts |
 | 4 | `newapi.tu-zi.com` | ¥1 | $1 / $1 | 1 | default | search-gpts |

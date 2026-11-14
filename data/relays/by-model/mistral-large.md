@@ -1,6 +1,6 @@
 # mistral-large
 
-> 49 站提供 · 正常价 29 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥4.97**/1M 输入（24 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 27 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥5.345**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,25 +12,25 @@
 |---|---|---|---|---|---|---|
 | 1 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | mistralai/mistral-large |
 | 2 | `api.aliyunfuwu.top` | ¥0.45 | $0.45 / $1.35 | 1 | Mistral | mistral-large-2512 |
-| 3 | `chrisapivip.com` | ¥0.8 | $0.8 / $2.4 | 1 | default | mistral-large-latest |
-| 4 | `api.qinzhiai.com` | ¥1.75 | $1.75 / $5.25 | 1 | openrouter | mistralai/mistral-large-2512 |
-| 5 | `llm.kagu.one` | ¥1.825 | $0.25 / $0.75 | 7.3 | 大杂烩 | mistral-large-2512 |
-| 6 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | mistral-large-latest |
-| 7 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | mistral-large-latest |
-| 8 | `wzw.pp.ua` | ¥2.006 | $2.006 / $6.001 | 1 | default | mistralai/mistral-large |
-| 9 | `ai.bytonsec.com` | ¥3 | $3 / $9 | 1 | OpenRouter | mistralai/mistral-large-2512 |
-| 10 | `api.flymeteor.xyz` | ¥3.65 | $0.5 / $1.5 | 7.3 | 🤖xkiro | mistralai/mistral-large-2512 |
-| 11 | `api.wapq.cn` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistral-large-latest |
+| 3 | `wzw.pp.ua` | ¥0.5 | $0.5 / $1.5 | 1 | default | mistral-large-2512 |
+| 4 | `xiaoqie.xyz` | ¥0.5 | $0.5 / $1.5 | 1 | OpenRouter官方线路 | mistralai/mistral-large-2512 |
+| 5 | `chrisapivip.com` | ¥0.8 | $0.8 / $2.4 | 1 | default | mistral-large-latest |
+| 6 | `api.luoqianyi.qzz.io` | ¥1 | $2 / $6 | 0.5 | default | mistralai/mistral-large |
+| 7 | `llm.kagu.one` | ¥1.825 | $0.25 / $0.75 | 7.3 | 大杂烩 | mistral-large-2512 |
+| 8 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | mistral-large-latest |
+| 9 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | mistral-large-latest |
+| 10 | `api.wapq.cn` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistral-large-latest |
+| 11 | `or.mux.la` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistralai/mistral-large-2512 |
 | 12 | `aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-large-latest |
-| 13 | `test.yibuapi.com` | ¥5.25 | $3.5 / $10.5 | 1.5 | default | mistral-large-2512 |
-| 14 | `yibuapi.com` | ¥5.25 | $3.5 / $10.5 | 1.5 | default | mistral-large-2512 |
-| 15 | `api.tacklekey.com` | ¥5.615 | $0.769231 / $2.30769 | 7.3 | default | mistralai/mistral-large-2512 |
-| 16 | `ai2.qiqiai.top` | ¥6.57 | $0.9 / $2.7 | 7.3 | 官方合作渠道 | mistralai/mistral-large-2512 |
-| 17 | `ai.mowen.vip` | ¥6.689 | $1 / $3 | 6.6892 | default | mistral-large-2407 |
-| 18 | `api.wukong.support` | ¥7.5 | $7.5 / $22.5 | 1 | gemini官渠 | mistral-large-latest |
-| 19 | `apicdn.xyc.ai` | ¥13.8 | $2 / $6 | 6.9 | mistral-flow | mistral-large-latest |
-| 20 | `apicdn.xycai.us` | ¥13.8 | $2 / $6 | 6.9 | mistral-flow | mistral-large-latest |
-| 21 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | mistral-large-latest |
+| 13 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | mistral-large-latest |
+| 14 | `api.tacklekey.com` | ¥6.177 | $0.846154 / $2.53846 | 7.3 | default | mistralai/mistral-large-2512 |
+| 15 | `ai2.qiqiai.top` | ¥6.57 | $0.9 / $2.7 | 7.3 | 官方合作渠道 | mistralai/mistral-large-2512 |
+| 16 | `api.qinzhiai.com` | ¥12.78 | $1.75 / $5.25 | 7.3 | openrouter | mistralai/mistral-large-2512 |
+| 17 | `ai.mowen.vip` | ¥13.37 | $2 / $6 | 6.68494 | default | mistral-large |
+| 18 | `apicdn.xyc.ai` | ¥13.8 | $2 / $6 | 6.9 | mistral-flow | mistral-large-latest |
+| 19 | `apicdn.xycai.us` | ¥13.8 | $2 / $6 | 6.9 | mistral-flow | mistral-large-latest |
+| 20 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | mistral-large-latest |
+| 21 | `newapi.gancmcs.top` | ¥14.6 | $2 / $6 | 7.3 | 默认全模型 | mistralai/mistral-large |
 | 22 | `api.ifopen.ai` | ¥17.5 | $5 / $15 | 3.5 | default | mistral-large-2512 |
 | 23 | `api2.aigcbest.top` | ¥17.5 | $5 / $15 | 3.5 | default | mistral-large-2512 |
 | 24 | `8s.hk` | ¥40 | $40 / $120 | 1 | 全模型自动 | mistral-large-2402 |
@@ -39,10 +39,8 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `crs.comalot.nyc.mn` | $0.25 / $0.75 | 私廚推薦 | 0.5 | mistral-large-latest |
-| 2 | `or.mux.la` | $0.5 / $1.5 | default | 1 | mistralai/mistral-large-2512 |
-| 3 | `happyapi.org` | $1 / $3 | vip | 1 | mistral-large-2407 |
-| 4 | `api.luoqianyi.qzz.io` | $2 / $6 | default | 1 | mistralai/mistral-large |
-| 5 | `officesai.top` | $3 / $9 | 基础普及通道 | 0.15 | mistralai/mistral-large |
+| 1 | `crs.comalot.nyc.mn` | $0.5 / $1.5 | 消融 | 1 | mistral-large-latest |
+| 2 | `happyapi.org` | $1 / $3 | default | 1 | mistral-large-2407 |
+| 3 | `officesai.top` | $3 / $9 | 基础普及通道 | 0.15 | mistralai/mistral-large |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

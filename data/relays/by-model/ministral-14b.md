@@ -1,6 +1,6 @@
 # ministral-14b
 
-> 27 站提供 · 正常价 13 站 · 名义中位价 **$0.307692**/1M 输入 · 实付中位价 **¥0.965**/1M 输入（12 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 14 站 · 名义中位价 **$0.269231**/1M 输入 · 实付中位价 **¥1.46**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,21 +12,22 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.18 | $0.18 / $0.18 | 1 | Mistral | ministral-14b-2512 |
 | 2 | `api.ouu.ch` | ¥0.2 | $0.2 / $0.2 | 1 | default | ministral-14b-2512 |
-| 3 | `ai.mowen.vip` | ¥0.6689 | $0.1 / $0.1 | 6.6892 | default | ministral-14b-2512 |
-| 4 | `api.qinzhiai.com` | ¥0.7 | $0.7 / $0.7 | 1 | openrouter | mistralai/ministral-14b-2512 |
+| 3 | `wzw.pp.ua` | ¥0.2 | $0.2 / $0.2 | 1 | claude code | ministral-14b-latest |
+| 4 | `xiaoqie.xyz` | ¥0.2 | $0.2 / $0.2 | 1 | OpenRouter官方线路 | mistralai/ministral-14b-2512 |
 | 5 | `api.pie-xian.com` | ¥0.73 | $0.1 / $1 | 7.3 | model | ministral-14b-latest |
 | 6 | `llm.kagu.one` | ¥0.73 | $0.1 / $0.1 | 7.3 | 大杂烩 | ministral-14b-2512 |
-| 7 | `ai.bytonsec.com` | ¥1.2 | $1.2 / $1.2 | 1 | OpenRouter | mistralai/ministral-14b-2512 |
-| 8 | `api.tacklekey.com` | ¥2.246 | $0.307692 / $0.307692 | 7.3 | default | mistralai/ministral-14b-2512 |
+| 7 | `or.mux.la` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | mistralai/ministral-14b-2512 |
+| 8 | `api.tacklekey.com` | ¥2.471 | $0.338462 / $0.338462 | 7.3 | default | mistralai/ministral-14b-2512 |
 | 9 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $0.36 | 7.3 | 官方合作渠道 | mistralai/ministral-14b-2512 |
 | 10 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | ministral-14b-latest |
-| 11 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
-| 12 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
+| 11 | `api.qinzhiai.com` | ¥5.11 | $0.7 / $0.7 | 7.3 | openrouter | mistralai/ministral-14b-2512 |
+| 12 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
+| 13 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `or.mux.la` | $0.2 / $0.2 | default | 1 | mistralai/ministral-14b-2512 |
+| 1 | `meta-api.vip` | $6.65288 / $6.65288 | 企业级 | 1 | ministral-14b-2512 |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gpt-5-nano
 
-> 427 站提供 · 正常价 315 站 · 名义中位价 **$0.05**/1M 输入 · 实付中位价 **¥0.102**/1M 输入（280 站公开充值价） · 推算，未对账
+> 418 站提供 · 正常价 325 站 · 名义中位价 **$0.05**/1M 输入 · 实付中位价 **¥0.1**/1M 输入（298 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,96 +11,88 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `comput.chat` | ¥0.005 | $0.005 / $0.04 | 1 | default | gpt-5-nano |
-| 2 | `daoxe.com` | ¥0.007725 | $0.0075 / $0.06 | 1.03 | codex | gpt-5-nano |
-| 3 | `new.gateway.icu` | ¥0.01 | $0.01 / $0.08 | 1 | az-L0 | gpt-5-nano |
-| 4 | `api.antmoo.cc` | ¥0.017 | $0.00253 / $0.02024 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 5 | `v2.cloudmist.cloud` | ¥0.017 | $0.00253 / $0.02024 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 6 | `monking.ai` | ¥0.0175 | $0.0175 / $0.14 | 1 | codex-Pro | gpt-5-nano |
-| 7 | `www.vectronode.com` | ¥0.01774 | $0.00264 / $0.02112 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 8 | `apiclaw.cn` | ¥0.01788 | $0.002662 / $0.021296 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 9 | `newapi.xueai.me` | ¥0.01788 | $0.002662 / $0.021296 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 10 | `wodapis.com` | ¥0.01788 | $0.002662 / $0.021296 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 11 | `ciyuan.today` | ¥0.01847 | $0.00275 / $0.022 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 12 | `gptapi.top` | ¥0.01847 | $0.00275 / $0.022 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 13 | `makerend.com` | ¥0.01847 | $0.00275 / $0.022 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 14 | `moliapi.com` | ¥0.01862 | $0.002772 / $0.022176 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 15 | `ai-api.cc` | ¥0.01921 | $0.00286 / $0.02288 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 16 | `nodapi.com` | ¥0.01951 | $0.002904 / $0.023232 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 17 | `anyaigc.ai` | ¥0.01995 | $0.00297 / $0.02376 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 18 | `sheepaiplus.top` | ¥0.02069 | $0.00308 / $0.02464 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 19 | `xiguapi.icu` | ¥0.02069 | $0.00308 / $0.02464 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 20 | `api.88api.chat` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 21 | `api.88api.shop` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 22 | `api.videocaptioner.cn` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 23 | `lanbuff.app` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 24 | `new.aigc2d.com` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 25 | `oyy-ai.xyz` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 26 | `infai.cc` | ¥0.02335 | $0.003476 / $0.027808 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 27 | `go.sbgpt.site` | ¥0.024 | $0.024 / $0.192 | 1 | 无审核az-0.38 | gpt-5-nano |
-| 28 | `api.nixapi.com` | ¥0.02498 | $0.003718 / $0.029744 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 29 | `api.openai-labs.com` | ¥0.025 | $0.025 / $0.2 | 1 | g1 | gpt-5-nano |
-| 30 | `api.xingnian.vip` | ¥0.025 | $0.025 / $0.2 | 1 | default | gpt-5-nano |
-| 31 | `api.zyai.online` | ¥0.025 | $0.025 / $0.2 | 1 | mini | gpt-5-nano |
-| 32 | `cn.liantongapi.com` | ¥0.025 | $0.025 / $0.2 | 1 | gpt | gpt-5-nano |
-| 33 | `kfcv50.link` | ¥0.025 | $0.025 / $0.2 | 1 | az_act05 | gpt-5-nano |
-| 34 | `n.lconai.com` | ¥0.025 | $0.025 / $0.2 | 1 | A1 | gpt-5-nano |
-| 35 | `newapi.link` | ¥0.025 | $0.025 / $0.2 | 1 | default | gpt-5-nano |
-| 36 | `proaiapi.tech` | ¥0.026 | $0.026 / $0.208 | 1 | default | gpt-5-nano |
-| 37 | `aiwuje.com` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 38 | `api.cursorai.art` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 39 | `api.echoflowai.cc` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 40 | `api.n1n.ai` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 41 | `api.quickrouter.ai` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 42 | `jeniya.cn` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 43 | `linoapi.com` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 44 | `linoroute.com` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 45 | `llm-api.net` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 46 | `quanzil.com` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 47 | `token173.net` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 48 | `tryallapi.com` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 49 | `wellapi.ai` | ¥0.02956 | $0.0044 / $0.0352 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
-| 50 | `api.camel-hub.com` | ¥0.03 | $0.0375 / $0.3 | 0.8 | default | gpt-5-nano-2025-08-07 |
+| 2 | `new.gateway.icu` | ¥0.01 | $0.01 / $0.08 | 1 | az-L0 | gpt-5-nano |
+| 3 | `new.yunai.link` | ¥0.015 | $0.015 / $0.12 | 1 | azure03-0 | gpt-5-nano-2025-08-07 |
+| 4 | `newapi.prorisehub.com` | ¥0.01575 | $0.01575 / $0.126 | 1 | GPT-官-Key-正价 | gpt-5-nano |
+| 5 | `monking.ai` | ¥0.0175 | $0.0175 / $0.14 | 1 | codex-Pro | gpt-5-nano |
+| 6 | `api.videocaptioner.cn` | ¥0.02217 | $0.0033 / $0.0264 | 6.718 | Azure-Gpt-1 | gpt-5-nano |
+| 7 | `go.sbgpt.site` | ¥0.024 | $0.024 / $0.192 | 1 | 无审核az-0.38 | gpt-5-nano |
+| 8 | `api.xingnian.vip` | ¥0.025 | $0.025 / $0.2 | 1 | default | gpt-5-nano |
+| 9 | `api.zyai.online` | ¥0.025 | $0.025 / $0.2 | 1 | mini | gpt-5-nano |
+| 10 | `cn.liantongapi.com` | ¥0.025 | $0.025 / $0.2 | 1 | gpt | gpt-5-nano |
+| 11 | `kfcv50.link` | ¥0.025 | $0.025 / $0.2 | 1 | az_act05 | gpt-5-nano |
+| 12 | `n.lconai.com` | ¥0.025 | $0.025 / $0.2 | 1 | A1 | gpt-5-nano |
+| 13 | `newapi.link` | ¥0.025 | $0.025 / $0.2 | 1 | default | gpt-5-nano |
+| 14 | `proaiapi.tech` | ¥0.026 | $0.026 / $0.208 | 1 | default | gpt-5-nano |
+| 15 | `api.camel-hub.com` | ¥0.03 | $0.0375 / $0.3 | 0.8 | default | gpt-5-nano-2025-08-07 |
+| 16 | `api.easyart.cc` | ¥0.03 | $0.03 / $0.24 | 1 | default | gpt-5-nano |
+| 17 | `api.openlux.ai` | ¥0.03345 | $0.005 / $0.04 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 18 | `api.relayrouter.ai` | ¥0.03345 | $0.005 / $0.04 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 19 | `openlux.zhongzhuan.chat` | ¥0.03345 | $0.005 / $0.04 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 20 | `rockapi.ai` | ¥0.035 | $0.035 / $0.28 | 1 | 0.7x | gpt-5-nano |
+| 21 | `4zapi.com` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 22 | `ai.kalehui.cn` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 23 | `aiopus.top` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 24 | `aipipe.site` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 25 | `api.anthropicricardo.club` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 26 | `api.modelyard.cc` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 27 | `api.tidewhisper-ai.xyz` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 28 | `apistudio.vip` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 29 | `dawnnode.com` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 30 | `gzxbykj.com` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 31 | `tiantoken.cn` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 32 | `token.kkdmx.com` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 33 | `vortexapi.cn` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 34 | `www.vectronode.com` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 35 | `www.xiaoruiera.top` | ¥0.03679 | $0.0055 / $0.044 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 36 | `yunwu.org` | ¥0.03746 | $0.0056 / $0.0448 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 37 | `api.antmoo.cc` | ¥0.03846 | $0.00575 / $0.046 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 38 | `v2.cloudmist.cloud` | ¥0.03846 | $0.00575 / $0.046 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 39 | `cn.gptapi.asia` | ¥0.04 | $0.04 / $0.32 | 1 | default | gpt-5-nano |
+| 40 | `import.deepwl.net` | ¥0.04 | $0.04 / $0.32 | 1 | gpt | gpt-5-nano |
+| 41 | `yutoapi.com` | ¥0.04 | $0.04 / $0.32 | 1 | default | gpt-5-nano |
+| 42 | `apiclaw.cn` | ¥0.04047 | $0.00605 / $0.0484 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 43 | `ciyuan.today` | ¥0.04181 | $0.00625 / $0.05 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 44 | `gptapi.top` | ¥0.04181 | $0.00625 / $0.05 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 45 | `makerend.com` | ¥0.04181 | $0.00625 / $0.05 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 46 | `moliapi.com` | ¥0.04214 | $0.0063 / $0.0504 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 47 | `ai-api.cc` | ¥0.04348 | $0.0065 / $0.052 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 48 | `sucloud.vip` | ¥0.04348 | $0.0065 / $0.052 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 49 | `newapi.xueai.me` | ¥0.04415 | $0.0066 / $0.0528 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
+| 50 | `nodapi.com` | ¥0.04415 | $0.0066 / $0.0528 | 6.68934 | Azure-Gpt-2 | gpt-5-nano |
 
-> 另有 230 站未列出。
+> 另有 248 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `s169.bjhuiqu.net` | $0.003 / $0.024 | pro | 0.06 | gpt-5-nano |
-| 2 | `xinyue.mom` | $0.004 / $0.032 | 不降智焚决【只有astra】 | 0.08 | gpt-5-nano |
-| 3 | `api.clawhud.com` | $0.005 / $0.04 | Nvidia | 0.1 | gpt-5-nano |
-| 4 | `api.socode.cc` | $0.005 / $0.04 | GPT[Main] | 0.1 | gpt-5-nano |
-| 5 | `ai.mggoo.com` | $0.006 / $0.048 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-5-nano |
-| 6 | `mgoole.com` | $0.006 / $0.048 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-5-nano |
-| 7 | `test-sub2.sjapi.top` | $0.0075 / $0.06 | plus | 0.15 | gpt-5-nano |
-| 8 | `new.yunai.link` | $0.01 / $0.08 | AzuerPromo | 0.2 | gpt-5-nano |
-| 9 | `saletoken.org` | $0.01 / $0.08 | CODEX-pro | 0.2 | gpt-5-nano |
-| 10 | `sub2api.hyl2api.com` | $0.01 / $0.08 | GPT  | 0.2 | gpt-5-nano |
-| 11 | `sub2api.simplaj.top` | $0.01 / $0.08 | GPT 纯血Pro 余额分组 | 0.2 | gpt-5-nano |
-| 12 | `api.geniuscoder.net` | $0.0125 / $0.1 | gpt优惠 | 0.25 | gpt-5-nano |
-| 13 | `8888.name` | $0.025 / $0.2 | GPT—企业专用官key | 0.5 | gpt-5-nano |
-| 14 | `supersubscribe689.com` | $0.025 / $0.2 | chatgpt美区版 | 0.5 | gpt-5-nano |
-| 15 | `api.hy88.my` | $0.036 / $0.288 | gpt_max | 0.8 | gpt-5-nano |
-| 16 | `ai.comfly.org` | $0.05 / $0.4 | svip | 1 | gpt-5-nano |
-| 17 | `api.qhhengxin.top` | $0.05 / $0.4 | default | 1 | gpt-5-nano |
-| 18 | `api.xistree.hk` | $0.05 / $0.4 | default | 1 | gpt-5-nano |
-| 19 | `api.yescale.io` | $0.05 / $0.4 | starter | 1 | gpt-5-nano |
-| 20 | `api.zhiyikeji.cn` | $0.05 / $0.4 | default | 1 | gpt-5-nano |
-| 21 | `expapi.echoflowai.cc` | $0.05 / $0.4 | OpenAI-Pro渠道 | 1 | gpt-5-nano |
-| 22 | `lobe.zen-ai.top` | $0.05 / $0.4 | momo | 1 | gpt-5-nano |
-| 23 | `newapi.zaiwenai.com` | $0.05 / $0.4 | default | 1 | gpt-5-nano |
-| 24 | `or.mux.la` | $0.05 / $0.4 | default | 1 | openai/gpt-5-nano |
-| 25 | `api.zhimigy.cn` | $0.08 / $0.64 | pro | 1.6 | gpt-5-nano |
-| 26 | `relaybases.com` | $0.1 / $0.8 | azure-gpt | 2 | gpt-5-nano |
-| 27 | `www.mttie.com` | $0.11 / $0.88 | az-gpt | 2.2 | gpt-5-nano |
-| 28 | `canana.vcnovb.cn` | $0.12 / $0.96 | Az-gpt | 2.4 | gpt-5-nano |
-| 29 | `sub.vcnovb.cn` | $0.12 / $0.96 | Az-gpt | 2.4 | gpt-5-nano |
-| 30 | `api.akko.space` | $0.125 / $1 | Codex Azure | 2.5 | gpt-5-nano |
-| 31 | `vip.zen-ai.top` | $0.15 / $1.2 | default | 3 | gpt-5-nano |
-| 32 | `api.hyhawang.com` | $0.16 / $1.28 | GPT offical | 3.2 | gpt-5-nano |
-| 33 | `sub.hongyun.chat` | $0.375 / $3 | gpt | 7.5 | gpt-5-nano |
-| 34 | `aichronos.xyz` | $1.125 / $7.2 | GPT | 0.45 | gpt-5-nano |
-| 35 | `liangjiewis.com` | $2.375 / $19 | default | 1 | gpt-5-nano |
+| 2 | `api.clawhud.com` | $0.005 / $0.04 | Nvidia | 0.1 | gpt-5-nano |
+| 3 | `api.socode.cc` | $0.005 / $0.04 | GPT[Main] | 0.1 | gpt-5-nano |
+| 4 | `test-sub2.sjapi.top` | $0.0075 / $0.06 | plus | 0.15 | gpt-5-nano |
+| 5 | `saletoken.org` | $0.01 / $0.08 | CODEX-pro | 0.2 | gpt-5-nano |
+| 6 | `sub2api.hyl2api.com` | $0.01 / $0.08 | GPT  | 0.2 | gpt-5-nano |
+| 7 | `new.984275579.xyz` | $0.0115 / $0.092 | Codex-官KEY | 0.23 | gpt-5-nano |
+| 8 | `api.geniuscoder.net` | $0.0125 / $0.1 | gpt优惠 | 0.25 | gpt-5-nano |
+| 9 | `supersubscribe689.com` | $0.025 / $0.2 | chatgpt美区版 | 0.5 | gpt-5-nano |
+| 10 | `momoai.asia` | $0.04 / $0.32 | codex余额分组 | 0.8 | gpt-5-nano |
+| 11 | `api.yescale.io` | $0.05 / $0.4 | starter | 1 | gpt-5-nano |
+| 12 | `api.zhiyikeji.cn` | $0.05 / $0.4 | default | 1 | gpt-5-nano |
+| 13 | `lobe.zen-ai.top` | $0.05 / $0.4 | momo | 1 | gpt-5-nano |
+| 14 | `fugui.im` | $0.07 / $0.56 | 【官渠】AZ-GPT-满血官渠 | 1.4 | gpt-5-nano |
+| 15 | `8888.name` | $0.075 / $0.6 | GPT—Az渠道 | 1.5 | gpt-5-nano |
+| 16 | `api.zhimigy.cn` | $0.08 / $0.64 | pro | 1.6 | gpt-5-nano |
+| 17 | `api.hyhawang.com` | $0.0925 / $0.74 | Az gpt蒸馏(Distillation) | 1.85 | gpt-5-nano |
+| 18 | `www.qianweikeji.fun` | $0.0925 / $0.74 | Az gpt蒸馏(Distillation) | 1.85 | gpt-5-nano |
+| 19 | `relaybases.com` | $0.1 / $0.8 | azure-gpt | 2 | gpt-5-nano |
+| 20 | `api.akko.space` | $0.125 / $1 | Codex Azure | 2.5 | gpt-5-nano |
+| 21 | `ai.lazymo.qzz.io` | $0.135 / $1.08 | 【GPT 官key】Azure官key-全模型-量大找管理 | 2.7 | gpt-5-nano |
+| 22 | `vip.zen-ai.top` | $0.15 / $1.2 | default | 3 | gpt-5-nano |
+| 23 | `sub.hongyun.chat` | $0.375 / $3 | gpt | 7.5 | gpt-5-nano |
+| 24 | `api.aabao.ai` | $0.4 / $3.2 | OpenAI直连 | 8 | gpt-5-nano-2025-08-07 |
+| 25 | `aichronos.xyz` | $1.075 / $6.88 | GPT | 0.43 | gpt-5-nano |
+| 26 | `meta-api.vip` | $1.65 / $13.2 | 企业级 | 1 | gpt-5-nano |
+| 27 | `liangjiewis.com` | $2.375 / $19 | default | 1 | gpt-5-nano |
 
-> 112 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 93 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

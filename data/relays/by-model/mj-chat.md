@@ -1,6 +1,6 @@
 # mj-chat
 
-> 25 站提供 · 正常价 14 站 · 名义中位价 **$0.5**/次 · 实付中位价 **¥0.5**/次（13 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 12 站 · 名义中位价 **$0.475**/次 · 实付中位价 **¥0.45**/次（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,10 +19,8 @@
 | 7 | `ai.soruxgpt.com` | ¥0.5 | $0.5 | 1 | default | mj-chat |
 | 8 | `api.hopeai.cc` | ¥0.5 | $0.5 | 1 | default | mj-chat |
 | 9 | `newapi.tu-zi.com` | ¥0.5 | $0.5 | 1 | default | mj-chat |
-| 10 | `vibecodingapi.ai` | ¥0.5 | $0.5 | 1 | default | mj-chat |
-| 11 | `zen-ai.top` | ¥0.5 | $0.5 | 1 | default | mj-chat |
-| 12 | `api.bianxie.ai` | ¥3.65 | $0.5 | 7.3 | default | mj-chat |
-| 13 | `api.bianxieai.com` | ¥3.65 | $0.5 | 7.3 | default | mj-chat |
+| 10 | `api.bianxie.ai` | ¥3.65 | $0.5 | 7.3 | default | mj-chat |
+| 11 | `api.bianxieai.com` | ¥3.65 | $0.5 | 7.3 | default | mj-chat |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

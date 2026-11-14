@@ -1,6 +1,6 @@
 # gpt-5.6-sol-openai-compact
 
-> 149 站提供 · 正常价 59 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.325**/1M 输入（48 站公开充值价） · 推算，未对账
+> 127 站提供 · 正常价 49 站 · 名义中位价 **$0.9**/1M 输入 · 实付中位价 **¥1.625**/1M 输入（36 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,69 +10,59 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `fluxapi.vip` | ¥0.152 | $0.152 / $0.76 | 1 | team/plus/bugpro全自动号池0.038x | gpt-5.6-sol-openai-compact |
-| 2 | `tk.8t.chat` | ¥0.25 | $0.25 / $1.5 | 1 | openai-plus | gpt-5.6-sol-openai-compact |
-| 3 | `vaelo.8t.chat` | ¥0.3 | $0.3 / $1.8 | 1 | openai-plus | gpt-5.6-sol-openai-compact |
-| 4 | `xl.8t.chat` | ¥0.3 | $0.3 / $1.8 | 1 | openai-plus | gpt-5.6-sol-openai-compact |
-| 5 | `daoxe.com` | ¥0.309 | $0.3 / $1.8 | 1.03 | codex | gpt-5.6-sol-openai-compact |
-| 6 | `www.kamiapi.top` | ¥0.325 | $0.325 / $1.95 | 1 | GPT Standard 标准号池 | gpt-5.6-sol-openai-compact |
-| 7 | `mv88.cn` | ¥0.35 | $0.35 / $2.1 | 1 | Codex-Plus混合 | gpt-5.6-sol-openai-compact |
-| 8 | `via.8t.chat` | ¥0.36 | $0.36 / $2.16 | 1 | openai-plus | gpt-5.6-sol-openai-compact |
-| 9 | `api.ciyuanshen.top` | ¥0.4 | $0.4 / $2.4 | 1 | GPT低价 | gpt-5.6-sol-openai-compact |
-| 10 | `yinziapi.top` | ¥0.4 | $0.4 / $2 | 1 | gpt稳定备用分组-plus5 | gpt-5.6-sol-openai-compact |
-| 11 | `ai.whistlelads.com` | ¥0.6 | $0.6 / $3.6 | 1 | default | gpt-5.6-sol-openai-compact |
-| 12 | `fanrenapi.com` | ¥0.7 | $0.7 / $4.2 | 1 | Codex-Plus | gpt-5.6-sol-openai-compact |
-| 13 | `dragtokens.com` | ¥0.75 | $0.75 / $4.5 | 1 | Codex 专用分组-Plus号池 | gpt-5.6-sol-openai-compact |
-| 14 | `vvcode.top` | ¥0.75 | $0.75 / $4.5 | 1 | daily-codex | gpt-5.6-sol-openai-compact |
-| 15 | `mzhcloud.com` | ¥0.8 | $0.8 / $4.8 | 1 | codex-pro | gpt-5.6-sol-openai-compact |
-| 16 | `vip.brioi.com` | ¥0.8 | $0.8 / $4.8 | 1 | GPT 专线 | gpt-5.6-sol-openai-compact |
-| 17 | `www.yysc.top` | ¥0.8 | $0.8 / $4.8 | 1 | codex-pro | gpt-5.6-sol-openai-compact |
-| 18 | `api.tccxy.top` | ¥0.85 | $0.85 / $5.1 | 1 | Plus | gpt-5.6-sol-openai-compact |
-| 19 | `linkapi.ai` | ¥1 | $1 / $6 | 1 | codex | gpt-5.6-sol-openai-compact |
-| 20 | `otterl.com` | ¥1 | $1 / $6 | 1 | Plus号池 | gpt-5.6-sol-openai-compact |
-| 21 | `vip.ishuhang.top` | ¥1.04 | $0.1425 / $0.855 | 7.3 | gpt-pro | gpt-5.6-sol-openai-compact |
-| 22 | `apilinkapp.top` | ¥1.25 | $1.25 / $10 | 1 | gpt 2-b | gpt-5.6-sol-openai-compact |
-| 23 | `fushengyunsuan.cn` | ¥1.25 | $1.25 / $7.5 | 1 | gpt 易燃易爆炸 | gpt-5.6-sol-openai-compact |
-| 24 | `www.dogapi.cc` | ¥1.25 | $1.25 / $6.875 | 1 | default | gpt-5.6-sol-openai-compact |
-| 25 | `api.mxwell.ai` | ¥1.4 | $1.4 / $8.4 | 1 | GPT-PRO | gpt-5.6-sol-openai-compact |
-| 26 | `222650156.xyz` | ¥1.5 | $1.5 / $9 | 1 | Codex Pro2 | gpt-5.6-sol-openai-compact |
-| 27 | `aiapisplus.com` | ¥1.5 | $1.5 / $9 | 1 | gpt-pro-tj | gpt-5.6-sol-openai-compact |
-| 28 | `api.duckcoding.ai` | ¥1.5 | $1.5 / $9 | 1 | CodeX-Sale | gpt-5.6-sol-openai-compact |
-| 29 | `api.xi-ai.cn` | ¥1.75 | $1.75 / $10.5 | 1 | gpt_codex_2 | gpt-5.6-sol-openai-compact |
-| 30 | `shell.wyzlab.ai` | ¥1.875 | $1.875 / $11.25 | 1 | codex 稳定分组 | gpt-5.6-sol-openai-compact |
-| 31 | `api.78code.cc` | ¥2 | $2 / $16 | 1 | vip-1-codex-a | gpt-5.6-sol-openai-compact |
-| 32 | `to-relay.com` | ¥2.19 | $0.3 / $1.2 | 7.3 | GPT-PLUS | gpt-5.6-sol-openai-compact |
-| 33 | `claudeaihub.cloud` | ¥2.5 | $2.5 / $15 | 1 | Cursor | gpt-5.6-sol-openai-compact |
-| 34 | `api.onefaka.com` | ¥3.65 | $0.5 / $3 | 7.3 | codex | gpt-5.6-sol-openai-compact |
-| 35 | `momoapi.shop` | ¥3.65 | $0.5 / $3 | 7.3 | default | gpt-5.6-sol-openai-compact |
-| 36 | `us.pomoai.xyz` | ¥4.088 | $0.56 / $2.8 | 7.3 | codex-low | gpt-5.6-sol-openai-compact |
-| 37 | `api.bblabu.hk` | ¥5 | $5 / $30 | 1 | OpenAI | gpt-5.6-sol-openai-compact |
-| 38 | `api.mkapi.top` | ¥6.57 | $0.9 / $5.4 | 7.3 | codex-Pro | gpt-5.6-sol-openai-compact |
-| 39 | `00ccc.cn` | ¥7.3 | $1 / $8 | 7.3 | gpt-pro | gpt-5.6-sol-openai-compact |
-| 40 | `na2.whistlelads.com` | ¥9.125 | $1.25 / $7.5 | 7.3 | codex-pro | gpt-5.6-sol-openai-compact |
-| 41 | `yapi.click` | ¥9.125 | $1.25 / $7.5 | 7.3 | vip | gpt-5.6-sol-openai-compact |
-| 42 | `ms.fanrenapi.com` | ¥9.49 | $1.3 / $7.8 | 7.3 | Codex-Pro | gpt-5.6-sol-openai-compact |
-| 43 | `jr.fanrenapi.com` | ¥11.68 | $1.6 / $9.6 | 7.3 | Code-Pro-不降智 | gpt-5.6-sol-openai-compact |
-| 44 | `nbaiapi.com` | ¥14.6 | $2 / $16 | 7.3 | luna专属 | gpt-5.6-sol-openai-compact |
-| 45 | `1024token.cc` | ¥21.9 | $3 / $24 | 7.3 | 推荐的plus号池 | gpt-5.6-sol-openai-compact |
-| 46 | `aitokenyes.com` | ¥21.9 | $3 / $24 | 7.3 | 推荐的plus号池 | gpt-5.6-sol-openai-compact |
-| 47 | `smartaipro.cn` | ¥43.8 | $6 / $36 | 7.3 | default | gpt-5.6-sol-openai-compact |
-| 48 | `apikey.tech` | ¥73 | $10 / $50 | 7.3 | gpt-稳健组 | gpt-5.6-sol-openai-compact |
+| 1 | `ai.sofurry.cloud` | ¥0.32 | $0.32 / $1.6 | 1 | GPT 独立池+混合池  | gpt-5.6-sol-openai-compact |
+| 2 | `www.kamiapi.top` | ¥0.325 | $0.325 / $1.95 | 1 | GPT Standard 标准号池 | gpt-5.6-sol-openai-compact |
+| 3 | `api.tccxy.top` | ¥0.5 | $0.5 / $3 | 1 | Plus | gpt-5.6-sol-openai-compact |
+| 4 | `mv88.cn` | ¥0.5 | $0.5 / $3 | 1 | Codex-Plus | gpt-5.6-sol-openai-compact |
+| 5 | `ai.whistlelads.com` | ¥0.6 | $0.6 / $3.6 | 1 | default | gpt-5.6-sol-openai-compact |
+| 6 | `mzhcloud.com` | ¥0.65 | $0.65 / $3.9 | 1 | codex-pro | gpt-5.6-sol-openai-compact |
+| 7 | `www.yysc.top` | ¥0.65 | $0.65 / $3.9 | 1 | codex-pro | gpt-5.6-sol-openai-compact |
+| 8 | `dragtokens.com` | ¥0.75 | $0.75 / $4.5 | 1 | Codex 专用分组-Plus号池 | gpt-5.6-sol-openai-compact |
+| 9 | `fushengyunsuan.cn` | ¥0.75 | $0.75 / $4.5 | 1 | vip | gpt-5.6-sol-openai-compact |
+| 10 | `vvcode.top` | ¥0.75 | $0.75 / $4.5 | 1 | daily-codex | gpt-5.6-sol-openai-compact |
+| 11 | `api.xi-ai.cn` | ¥1 | $1 / $6 | 1 | gpt_codex_0 | gpt-5.6-sol-openai-compact |
+| 12 | `linkapi.ai` | ¥1 | $1 / $6 | 1 | codex | gpt-5.6-sol-openai-compact |
+| 13 | `otterl.com` | ¥1 | $1 / $6 | 1 | Plus号池 | gpt-5.6-sol-openai-compact |
+| 14 | `vip.ishuhang.top` | ¥1.04 | $0.1425 / $0.855 | 7.3 | gpt-pro | gpt-5.6-sol-openai-compact |
+| 15 | `apilinkapp.top` | ¥1.25 | $1.25 / $10 | 1 | gpt 2-b | gpt-5.6-sol-openai-compact |
+| 16 | `www.dogapi.cc` | ¥1.25 | $1.25 / $6.875 | 1 | default | gpt-5.6-sol-openai-compact |
+| 17 | `superxihe.com` | ¥1.314 | $0.18 / $0.9 | 7.3 | gpt-6性价比 | gpt-5.6-sol-openai-compact |
+| 18 | `api.duckcoding.ai` | ¥1.5 | $1.5 / $9 | 1 | CodeX-Sale | gpt-5.6-sol-openai-compact |
+| 19 | `api.78code.cc` | ¥1.75 | $1.75 / $14 | 1 | vip-1-codex-a | gpt-5.6-sol-openai-compact |
+| 20 | `222650156.xyz` | ¥2 | $2 / $12 | 1 | Codex Pro | gpt-5.6-sol-openai-compact |
+| 21 | `to-relay.com` | ¥2.19 | $0.3 / $1.2 | 7.3 | GPT-PLUS | gpt-5.6-sol-openai-compact |
+| 22 | `claudeaihub.cloud` | ¥2.5 | $2.5 / $15 | 1 | Cursor | gpt-5.6-sol-openai-compact |
+| 23 | `api.onefaka.com` | ¥3.65 | $0.5 / $3 | 7.3 | codex | gpt-5.6-sol-openai-compact |
+| 24 | `momoapi.shop` | ¥3.65 | $0.5 / $3 | 7.3 | default | gpt-5.6-sol-openai-compact |
+| 25 | `us.pomoai.xyz` | ¥4.088 | $0.56 / $2.8 | 7.3 | codex-low | gpt-5.6-sol-openai-compact |
+| 26 | `api.bblabu.hk` | ¥5 | $5 / $30 | 1 | OpenAI | gpt-5.6-sol-openai-compact |
+| 27 | `api.mkapi.top` | ¥6.57 | $0.9 / $5.4 | 7.3 | codex-Pro | gpt-5.6-sol-openai-compact |
+| 28 | `00ccc.cn` | ¥7.3 | $1 / $8 | 7.3 | gpt-pro | gpt-5.6-sol-openai-compact |
+| 29 | `yapi.click` | ¥9.125 | $1.25 / $7.5 | 7.3 | default | gpt-5.6-sol-openai-compact |
+| 30 | `ms.fanrenapi.com` | ¥9.49 | $1.3 / $7.8 | 7.3 | Codex-Pro | gpt-5.6-sol-openai-compact |
+| 31 | `na2.whistlelads.com` | ¥10.95 | $1.5 / $9 | 7.3 | codex-pro | gpt-5.6-sol-openai-compact |
+| 32 | `nbaiapi.com` | ¥14.6 | $2 / $16 | 7.3 | GPT pro号池 | gpt-5.6-sol-openai-compact |
+| 33 | `api.zyai.online` | ¥15 | $15 / $90 | 1 | chongzhi | gpt-5.6-sol-openai-compact |
+| 34 | `1024token.cc` | ¥21.9 | $3 / $24 | 7.3 | 推荐的plus号池 | gpt-5.6-sol-openai-compact |
+| 35 | `aitokenyes.com` | ¥21.9 | $3 / $24 | 7.3 | 推荐的plus号池 | gpt-5.6-sol-openai-compact |
+| 36 | `fast.smartaipro.cn` | ¥43.8 | $6 / $36 | 7.3 | default | gpt-5.6-sol-openai-compact |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `sub.geiliapi.com` | $0.16 / $0.8 | GPT 给力 Pro | 0.2 | gpt-5.6-sol-openai-compact |
-| 2 | `api.hzapi.vip` | $0.18 / $0.9 | GPT 混池｜0.045x | 0.045 | gpt-5.6-sol-openai-compact |
-| 3 | `superxihe.com` | $0.18 / $0.9 | gpt-6性价比 | 0.045 | gpt-5.6-sol-openai-compact |
+| 1 | `jinglin.cc` | $0.08 / $0.4 | image-2｜生图 | 0.02 | gpt-5.6-sol-openai-compact |
+| 2 | `api.hzapi.vip` | $0.156 / $0.78 | GPT【混池上量】普池｜0.039x | 0.039 | gpt-5.6-sol-openai-compact |
+| 3 | `sub.sixoner.com` | $0.2 / $1 | GPT005 | 0.05 | gpt-5.6-sol-openai-compact |
 | 4 | `ovo1.vip` | $0.28 / $1.4 | Codex Plus | 0.07 | gpt-5.6-sol-openai-compact |
-| 5 | `ai.sofurry.cloud` | $0.32 / $1.6 | GPT 独立池+混合池  | 0.08 | gpt-5.6-sol-openai-compact |
+| 5 | `lingzhanai.top` | $0.32 / $1.6 | plus team混池 | 0.08 | gpt-5.6-sol-openai-compact |
 | 6 | `api.tohoqing.com` | $0.4 / $2 | plus号池 | 0.1 | gpt-5.6-sol-openai-compact |
-| 7 | `api.aicatstudios.com` | $0.6 / $3.6 | GPT 混合分组 | 0.12 | gpt-5.6-sol-openai-compact |
+| 7 | `api.tameac.com` | $0.6 / $3 | ChatGPT一般分组(0.15倍率) | 0.15 | gpt-5.6-sol-openai-compact |
 | 8 | `ai.mzlone.top` | $0.64 / $3.2 | Codex - Pro | 0.16 | gpt-5.6-sol-openai-compact |
-| 9 | `kedaya.ai` | $0.64 / $3.2 | GPT 不降智2 | 0.16 | gpt-5.6-sol-openai-compact |
-| 10 | `api.tameac.com` | $0.8 / $4 | ChatGPT 账号分组(0.2倍率) | 0.2 | gpt-5.6-sol-openai-compact |
-| 11 | `tianyuai.lol` | $40 / $320 | GPT_high | 8 | gpt-5.6-sol-openai-compact |
+| 9 | `cuicuimianhua.top` | $1.05 / $6.3 | GPT-Pro | 0.21 | gpt-5.6-sol-openai-compact |
+| 10 | `niceapi.ai` | $1.6 / $8 | GPT 按量 | 0.4 | gpt-5.6-sol-openai-compact |
+| 11 | `xai.740414025.xyz` | $5 / $30 | ALL IN ONE | 1 | gpt-5.6-sol-openai-compact |
+| 12 | `big-model.smart-agi.com` | $6 / $30 | GPT Pro 分组 【新渠】 | 1.5 | gpt-5.6-sol-openai-compact |
+| 13 | `tianyuai.lol` | $40 / $320 | default | 8 | gpt-5.6-sol-openai-compact |
 
-> 90 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 78 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-beta
 
-> 38 站提供 · 正常价 29 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥7.5**/1M 输入（26 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 29 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥15.47**/1M 输入（28 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,37 +12,37 @@
 |---|---|---|---|---|---|---|
 | 1 | `new.gateway.icu` | ¥1 | $1 / $1 | 1 | default | grok-beta |
 | 2 | `big.sbgpt.site` | ¥1.2 | $1.2 / $1.2 | 1 | openai逆向 | grok-beta |
-| 3 | `daoxe.com` | ¥1.288 | $1.25 / $1.25 | 1.03 | Gork-heavy | grok-beta |
-| 4 | `go.sbgpt.site` | ¥1.4 | $1.4 / $1.4 | 1 | openai逆向 | grok-beta |
-| 5 | `ai.soruxgpt.com` | ¥2 | $2 / $2 | 1 | default | grok-beta |
-| 6 | `api.eido.top` | ¥2 | $2 / $2 | 1 | default | grok-beta |
-| 7 | `api.hopeai.cc` | ¥2 | $2 / $2 | 1 | default | grok-beta |
-| 8 | `newapi.link` | ¥2.5 | $2.5 / $2.5 | 1 | default | grok-beta |
-| 9 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | default | grok-beta |
-| 10 | `zen-ai.top` | ¥5 | $5 / $5 | 1 | default | grok-beta |
-| 11 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | svip | grok-beta |
-| 12 | `api.ocoolai.com` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
-| 13 | `ocool.cn` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
-| 14 | `one.ooo.cool` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
-| 15 | `gpt-api.soruxgpt.com` | ¥8 | $4 / $4 | 2 | default | grok-beta |
-| 16 | `api.uiuihao.com` | ¥15.95 | $5 / $15 | 3.19 | default | grok-beta |
-| 17 | `sg.uiuiapi.com` | ¥15.95 | $5 / $15 | 3.19 | default | grok-beta |
-| 18 | `api1.uiuiapi.com` | ¥16.85 | $5 / $5 | 3.37 | default | grok-beta |
-| 19 | `api.bltcy.ai` | ¥20 | $20 / $60 | 1 | openai官-优质 | grok-beta |
-| 20 | `apilio.ai` | ¥20 | $20 / $60 | 1 | openai官-优质 | grok-beta |
-| 21 | `test-ssl.bltcy.ai` | ¥20 | $20 / $60 | 1 | openai官-优质 | grok-beta |
+| 3 | `go.sbgpt.site` | ¥1.4 | $1.4 / $1.4 | 1 | openai逆向 | grok-beta |
+| 4 | `ai.soruxgpt.com` | ¥2 | $2 / $2 | 1 | default | grok-beta |
+| 5 | `api.eido.top` | ¥2 | $2 / $2 | 1 | default | grok-beta |
+| 6 | `api.hopeai.cc` | ¥2 | $2 / $2 | 1 | default | grok-beta |
+| 7 | `newapi.link` | ¥2.5 | $2.5 / $2.5 | 1 | default | grok-beta |
+| 8 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | default | grok-beta |
+| 9 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | vip | grok-beta |
+| 10 | `api.ocoolai.com` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
+| 11 | `ocool.cn` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
+| 12 | `one.ooo.cool` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
+| 13 | `gpt-api.soruxgpt.com` | ¥8 | $4 / $4 | 2 | default | grok-beta |
+| 14 | `api.wukong.support` | ¥15 | $15 / $15 | 1 | gemini官渠 | grok-beta |
+| 15 | `api.uiuihao.com` | ¥15.95 | $5 / $15 | 3.19 | default | grok-beta |
+| 16 | `sg.uiuiapi.com` | ¥15.95 | $5 / $15 | 3.19 | default | grok-beta |
+| 17 | `api1.uiuiapi.com` | ¥16.85 | $5 / $5 | 3.37 | default | grok-beta |
+| 18 | `api.bltcy.ai` | ¥20 | $20 / $60 | 1 | openai官-优质 | grok-beta |
+| 19 | `apilio.ai` | ¥20 | $20 / $60 | 1 | openai官-优质 | grok-beta |
+| 20 | `test-ssl.bltcy.ai` | ¥20 | $20 / $60 | 1 | openai官-优质 | grok-beta |
+| 21 | `ai.comfly.org` | ¥24 | $20 / $60 | 1.2 | openai官-优质 | grok-beta |
 | 22 | `ai.t8star.org` | ¥27 | $20 / $60 | 1.35 | openai官-优质 | grok-beta |
-| 23 | `api.bianxie.ai` | ¥36.5 | $5 / $15 | 7.3 | default | grok-beta |
-| 24 | `api.bianxieai.com` | ¥36.5 | $5 / $15 | 7.3 | default | grok-beta |
-| 25 | `hk.apitoken.ai` | ¥36.5 | $5 / $5 | 7.3 | sandbox | grok-beta |
-| 26 | `hy88.my` | ¥36.5 | $5 / $15 | 7.3 | grok_official | grok-beta |
+| 23 | `ai.chuyel.top` | ¥36.5 | $5 / $5 | 7.3 | 小叶币 | grok-beta |
+| 24 | `api.bianxie.ai` | ¥36.5 | $5 / $15 | 7.3 | default | grok-beta |
+| 25 | `api.bianxieai.com` | ¥36.5 | $5 / $15 | 7.3 | default | grok-beta |
+| 26 | `api.xistree.hk` | ¥36.5 | $5 / $15 | 7.3 | default | grok-beta |
+| 27 | `hk.apitoken.ai` | ¥36.5 | $5 / $5 | 7.3 | sandbox | grok-beta |
+| 28 | `hy88.my` | ¥36.5 | $5 / $15 | 7.3 | grok_official | grok-beta |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.xistree.hk` | $5 / $15 | default | 1 | grok-beta |
-| 2 | `ai.comfly.org` | $20 / $60 | openai官-优质 | 4 | grok-beta |
-| 3 | `vip.zen-ai.top` | $50 / $50 | 逆向 | 10 | grok-beta |
+| 1 | `vip.zen-ai.top` | $50 / $50 | 逆向 | 10 | grok-beta |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

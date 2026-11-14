@@ -1,6 +1,6 @@
 # qwq-plus
 
-> 109 站提供 · 正常价 32 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（29 站公开充值价） · 推算，未对账
+> 87 站提供 · 正常价 25 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,42 +10,35 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `aws.baby` | ¥0.2286 | $0.228571 / $0.571429 | 1 | 阿里云百炼大客户 | qwq-plus |
-| 2 | `biezou.com` | ¥0.2286 | $0.228571 / $0.571429 | 1 | 阿里云百炼大客户 | qwq-plus |
-| 3 | `api.zyai.online` | ¥0.7 | $0.7 / $2.8 | 1 | mini | qwq-plus-2025-03-05 |
-| 4 | `goapi.gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | cn_official | qwq-plus |
-| 5 | `gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | cn_official | qwq-plus |
-| 6 | `oneapi.gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | CN_discount | qwq-plus |
-| 7 | `platform.anyrouter.ai` | ¥0.96 | $0.96 / $2.4 | 1 | official_cn | qwq-plus |
-| 8 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwq-plus-latest |
-| 9 | `mb.dmxapi.cn` | ¥1.2 | $0.24 / $0.6 | 5 | default | qwq-plus |
-| 10 | `gpt777.top` | ¥1.28 | $1.28 / $3.2 | 1 | opensource | qwq-plus |
-| 11 | `api.ifopen.ai` | ¥1.456 | $0.416 / $1.04 | 3.5 | 通用大模型 | qwq-plus |
-| 12 | `api2.aigcbest.top` | ¥1.456 | $0.416 / $1.04 | 3.5 | 通用大模型 | qwq-plus |
-| 13 | `aiapibase.top` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
-| 14 | `api.aiskt.com` | ¥1.6 | $1.6 / $4.8 | 1 | default | qwq-plus |
-| 15 | `api.eido.top` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
-| 16 | `api.new.bi` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
-| 17 | `keypool.space` | ¥1.6 | $1.6 / $4 | 1 | vip | qwq-plus |
-| 18 | `kfcv50.link` | ¥1.6 | $1.6 / $4 | 1 | Domestic | qwq-plus |
-| 19 | `n.lconai.com` | ¥1.6 | $1.6 / $4 | 1 | A2 | qwq-plus |
-| 20 | `xinsuanai.com` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
-| 21 | `unorouter.net` | ¥1.669 | $0.228571 / $0.571429 | 7.3 | default | qwq-plus |
-| 22 | `ssvip.dmxapi.com` | ¥1.752 | $0.24 / $0.6 | 7.3 | vip | qwq-plus |
-| 23 | `www.hohoapi.com` | ¥2.496 | $0.832 / $0.832 | 3 | qwen | qwq-plus-latest |
-| 24 | `cc.zhihuiapi.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwq-plus |
-| 25 | `cn.zhihuiai.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwq-plus |
-| 26 | `cn.gptapi.asia` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
-| 27 | `yutoapi.com` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
-| 28 | `codeyy.top` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
-| 29 | `nbapi.net` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
+| 1 | `api.zyai.online` | ¥0.7 | $0.7 / $2.8 | 1 | mini | qwq-plus-2025-03-05 |
+| 2 | `goapi.gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | cn_official | qwq-plus |
+| 3 | `gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | cn_official | qwq-plus |
+| 4 | `oneapi.gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | CN_discount | qwq-plus |
+| 5 | `platform.anyrouter.ai` | ¥0.96 | $0.96 / $2.4 | 1 | official_cn | qwq-plus |
+| 6 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwq-plus-latest |
+| 7 | `mb.dmxapi.cn` | ¥1.2 | $0.24 / $0.6 | 5 | default | qwq-plus |
+| 8 | `gpt777.top` | ¥1.28 | $1.28 / $3.2 | 1 | opensource | qwq-plus |
+| 9 | `api.aiskt.com` | ¥1.6 | $1.6 / $4.8 | 1 | default | qwq-plus |
+| 10 | `api.eido.top` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
+| 11 | `api.solov.cc` | ¥1.6 | $1.6 / $4 | 1 | Qwen-通义千问 | qwq-plus |
+| 12 | `azapi.com.cn` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
+| 13 | `keypool.space` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
+| 14 | `kfcv50.link` | ¥1.6 | $1.6 / $4 | 1 | Domestic | qwq-plus |
+| 15 | `n.lconai.com` | ¥1.6 | $1.6 / $4 | 1 | A2 | qwq-plus |
+| 16 | `xinsuanai.com` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
+| 17 | `ssvip.dmxapi.com` | ¥1.752 | $0.24 / $0.6 | 7.3 | default | qwq-plus |
+| 18 | `www.hohoapi.com` | ¥2.496 | $0.832 / $0.832 | 3 | qwen | qwq-plus-latest |
+| 19 | `cc.zhihuiapi.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwq-plus |
+| 20 | `cn.zhihuiai.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwq-plus |
+| 21 | `cn.gptapi.asia` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
+| 22 | `yutoapi.com` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
+| 23 | `codeyy.top` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
+| 24 | `nbapi.net` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.solov.cc` | $1.6 / $4 | Qwen-通义千问 | 1 | qwq-plus |
-| 2 | `api.zhiyikeji.cn` | $1.6 / $4 | default | 1 | qwq-plus |
-| 3 | `azapi.com.cn` | $1.6 / $4 | default | 1 | qwq-plus |
+| 1 | `api.zhiyikeji.cn` | $1.6 / $4 | default | 1 | qwq-plus |
 
-> 77 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 62 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

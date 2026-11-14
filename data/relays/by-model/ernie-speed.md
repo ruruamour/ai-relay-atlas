@@ -1,6 +1,6 @@
 # ernie-speed
 
-> 37 站提供 · 正常价 31 站 · 名义中位价 **$0.9716**/1M 输入 · 实付中位价 **¥0.9716**/1M 输入（11 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 20 站 · 名义中位价 **$0.9716**/1M 输入 · 实付中位价 **¥0.9716**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,36 +15,25 @@
 | 3 | `api.ocoolai.com` | ¥0.852 | $0.852 / $0.852 | 1 | default | ERNIE-Speed-128K |
 | 4 | `ocool.cn` | ¥0.852 | $0.852 / $0.852 | 1 | default | ERNIE-Speed-128K |
 | 5 | `one.ooo.cool` | ¥0.852 | $0.852 / $0.852 | 1 | default | ERNIE-Speed-128K |
-| 6 | `api.new.bi` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
-| 7 | `i-sh.v1api.cc` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
-| 8 | `i.v1api.cc` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
-| 9 | `api.vakv.cn` | ¥1.425 | $1.42466 / $2.84932 | 1 | 9999 | ERNIE-Speed-128K |
-| 10 | `kubernetes-test-api.apiqik.online` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
-| 11 | `newapi.ailingnan.top` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
+| 6 | `i-sh.v1api.cc` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
+| 7 | `i.v1api.cc` | ¥0.9716 | $0.9716 / $1.9432 | 1 | default | ERNIE-Speed-128K |
+| 8 | `api.qhhengxin.top` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
+| 9 | `kubernetes-test-api.apiqik.online` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
+| 10 | `newapi.ailingnan.top` | ¥4 | $0.547945 / $1.09589 | 7.3 | default | ERNIE-Speed-128K |
+| 11 | `api.xistree.hk` | ¥7.093 | $0.9716 / $1.9432 | 7.3 | default | ERNIE-Speed-128K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.qhhengxin.top` | $0.547945 / $1.09589 | default | 1 | ERNIE-Speed-128K |
-| 2 | `ai.kalehui.cn` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 3 | `aiopus.top` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 4 | `api.anthropicricardo.club` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 5 | `api.gpt666claude.top` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 6 | `api.token173.net` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 7 | `api.vectorengine.ai` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 8 | `api.xistree.hk` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 9 | `api.zhiyikeji.cn` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 10 | `api.zhongzhuan.vip` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 11 | `apistudio.vip` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 12 | `dawnnode.com` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 13 | `juhe.34ku.com` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 14 | `one.chatshare.one` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 15 | `ruishiglobal.com` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 16 | `tiantoken.cn` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 17 | `token.kkdmx.com` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 18 | `vortexapi.cn` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 19 | `www.xiaoruiera.top` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
-| 20 | `yuli.host` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 1 | `api.gpt666claude.top` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 2 | `api.token173.net` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 3 | `api.vectorengine.ai` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 4 | `api.zhiyikeji.cn` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 5 | `api.zhongzhuan.vip` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 6 | `juhe.34ku.com` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 7 | `one.chatshare.one` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 8 | `ruishiglobal.com` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
+| 9 | `yuli.host` | $0.9716 / $1.9432 | default | 1 | ERNIE-Speed-128K |
 
 > 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

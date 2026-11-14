@@ -1,6 +1,6 @@
 # grok-2
 
-> 37 站提供 · 正常价 28 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥6**/1M 输入（25 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 27 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥7.19**/1M 输入（26 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,27 +21,26 @@
 | 9 | `kfcv50.link` | ¥3 | $3 / $15 | 1 | default | grok-2 |
 | 10 | `ocool.cn` | ¥3 | $3 / $15 | 1 | default | grok-2-1212 |
 | 11 | `one.ooo.cool` | ¥3 | $3 / $15 | 1 | default | grok-2-1212 |
-| 12 | `koalaapi.com` | ¥4.2 | $0.6 / $3 | 7 | default | grok-2-1212 |
-| 13 | `zen-ai.top` | ¥6 | $6 / $30 | 1 | grok | grok-2-1212 |
-| 14 | `api.uiuihao.com` | ¥6.38 | $2 / $10 | 3.19 | default | grok-2-1212 |
-| 15 | `sg.uiuiapi.com` | ¥6.38 | $2 / $10 | 3.19 | default | grok-2-1212 |
-| 16 | `api.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-1212 |
-| 17 | `apilio.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-1212 |
-| 18 | `test-ssl.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-1212 |
-| 19 | `ai.t8star.org` | ¥10.8 | $8 / $40 | 1.35 | openai官-优质 | grok-2-1212 |
+| 12 | `api.uiuihao.com` | ¥6.38 | $2 / $10 | 3.19 | default | grok-2-1212 |
+| 13 | `sg.uiuiapi.com` | ¥6.38 | $2 / $10 | 3.19 | default | grok-2-1212 |
+| 14 | `api.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-1212 |
+| 15 | `apilio.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-1212 |
+| 16 | `test-ssl.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-1212 |
+| 17 | `ai.comfly.org` | ¥9.6 | $8 / $40 | 1.2 | openai官-优质 | grok-2-1212 |
+| 18 | `ai.t8star.org` | ¥10.8 | $8 / $40 | 1.35 | openai官-优质 | grok-2-1212 |
+| 19 | `getgoapi.com` | ¥11.52 | $1.6 / $8 | 7.2 | default | grok-2-1212 |
 | 20 | `api.mountainsea.ai` | ¥13.4 | $2 / $10 | 6.7 | default | grok-2-1212 |
 | 21 | `api.bianxie.ai` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2 |
 | 22 | `api.bianxieai.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2 |
-| 23 | `hy88.my` | ¥14.6 | $2 / $10 | 7.3 | grok_official | grok-2 |
-| 24 | `aio-api-ssvip.aiearth.dev` | ¥21.9 | $3 / $15 | 7.3 | default | grok-2 |
-| 25 | `gpt-api.soruxgpt.com` | ¥120 | $60 / $60 | 2 | default | grok-2 |
+| 23 | `api.xistree.hk` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2-1212 |
+| 24 | `hy88.my` | ¥14.6 | $2 / $10 | 7.3 | grok_official | grok-2 |
+| 25 | `aio-api-ssvip.aiearth.dev` | ¥21.9 | $3 / $15 | 7.3 | default | grok-2 |
+| 26 | `gpt-api.soruxgpt.com` | ¥120 | $60 / $60 | 2 | default | grok-2 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.xistree.hk` | $2 / $10 | default | 1 | grok-2-1212 |
-| 2 | `ai.comfly.org` | $8 / $40 | openai官-优质 | 4 | grok-2-1212 |
-| 3 | `vip.zen-ai.top` | $1500 / $45000 | grok | 25 | grok-2 |
+| 1 | `vip.zen-ai.top` | $1500 / $45000 | grok | 25 | grok-2 |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # glm-4-airx
 
-> 152 站提供 · 正常价 85 站 · 名义中位价 **$0.0318**/1M 输入 · 实付中位价 **¥0.2136**/1M 输入（81 站公开充值价） · 推算，未对账
+> 153 站提供 · 正常价 96 站 · 名义中位价 **$0.0318**/1M 输入 · 实付中位价 **¥0.2**/1M 输入（93 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,57 +11,57 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `ai.soruxgpt.com` | ¥0.1 | $0.1 / $0.1 | 1 | default | glm-4-airx |
-| 2 | `api.openlux.ai` | ¥0.1068 | $0.0159 / $0.0636 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 3 | `api.relayrouter.ai` | ¥0.1068 | $0.0159 / $0.0636 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 4 | `openlux.zhongzhuan.chat` | ¥0.1068 | $0.0159 / $0.0636 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 5 | `4zapi.com` | ¥0.1175 | $0.01749 / $0.06996 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 6 | `api.tidewhisper-ai.xyz` | ¥0.1175 | $0.01749 / $0.06996 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 7 | `gzxbykj.com` | ¥0.1175 | $0.01749 / $0.06996 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 8 | `yunwu.org` | ¥0.1175 | $0.01749 / $0.06996 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 9 | `api.antmoo.cc` | ¥0.1228 | $0.018285 / $0.07314 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 10 | `v2.cloudmist.cloud` | ¥0.1228 | $0.018285 / $0.07314 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 11 | `www.vectronode.com` | ¥0.1282 | $0.01908 / $0.07632 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 12 | `apiclaw.cn` | ¥0.1292 | $0.019239 / $0.076956 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 13 | `newapi.xueai.me` | ¥0.1292 | $0.019239 / $0.076956 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 14 | `wodapis.com` | ¥0.1292 | $0.019239 / $0.076956 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 15 | `ciyuan.today` | ¥0.1335 | $0.019875 / $0.0795 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 16 | `gptapi.top` | ¥0.1335 | $0.019875 / $0.0795 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 17 | `makerend.com` | ¥0.1335 | $0.019875 / $0.0795 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 18 | `moliapi.com` | ¥0.1346 | $0.020034 / $0.080136 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 19 | `ai-api.cc` | ¥0.1389 | $0.02067 / $0.08268 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 20 | `nodapi.com` | ¥0.141 | $0.020988 / $0.083952 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 21 | `anyaigc.ai` | ¥0.1442 | $0.021465 / $0.08586 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 22 | `sheepaiplus.top` | ¥0.1495 | $0.02226 / $0.08904 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 23 | `xiguapi.icu` | ¥0.1495 | $0.02226 / $0.08904 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 24 | `api.88api.chat` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 25 | `api.88api.shop` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 26 | `api.videocaptioner.cn` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 27 | `lanbuff.app` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 28 | `new.aigc2d.com` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 29 | `oyy-ai.xyz` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 30 | `infai.cc` | ¥0.1688 | $0.025122 / $0.100488 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 31 | `api.nixapi.com` | ¥0.1805 | $0.026871 / $0.107484 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 32 | `api.xgapi.top` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4-airx |
-| 33 | `proaiapi.tech` | ¥0.2 | $0.2 / $1.2 | 1 | default | glm-4-airx |
-| 34 | `aiwuje.com` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 35 | `api.cursorai.art` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 36 | `api.echoflowai.cc` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 37 | `api.n1n.ai` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 38 | `api.quickrouter.ai` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 39 | `jeniya.cn` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 40 | `linoapi.com` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 41 | `linoroute.com` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 42 | `llm-api.net` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 43 | `quanzil.com` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 44 | `token173.net` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 45 | `tryallapi.com` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 46 | `wellapi.ai` | ¥0.2136 | $0.0318 / $0.1272 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 47 | `thousandengine.com` | ¥0.2174 | $0.0323565 / $0.129426 | 6.718 | Self-Deployed-1 | glm-4-airx |
-| 48 | `api.new.bi` | ¥0.3 | $0.3 / $1.2 | 1 | default | glm-4-airx |
-| 49 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | glm-4-airx |
-| 50 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | glm-4-airx |
+| 2 | `api.openlux.ai` | ¥0.1064 | $0.0159 / $0.0636 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 3 | `api.relayrouter.ai` | ¥0.1064 | $0.0159 / $0.0636 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 4 | `openlux.zhongzhuan.chat` | ¥0.1064 | $0.0159 / $0.0636 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 5 | `4zapi.com` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 6 | `ai.kalehui.cn` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 7 | `aiopus.top` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 8 | `aipipe.site` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 9 | `api.anthropicricardo.club` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 10 | `api.modelyard.cc` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 11 | `api.tidewhisper-ai.xyz` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 12 | `apistudio.vip` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 13 | `dawnnode.com` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 14 | `gzxbykj.com` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 15 | `tiantoken.cn` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 16 | `token.kkdmx.com` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 17 | `vortexapi.cn` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 18 | `www.vectronode.com` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 19 | `www.xiaoruiera.top` | ¥0.117 | $0.01749 / $0.06996 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 20 | `yunwu.org` | ¥0.1191 | $0.017808 / $0.071232 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 21 | `aifast.site` | ¥0.12 | $0.12 / $0.12 | 1 | default | glm-4-airx |
+| 22 | `api.antmoo.cc` | ¥0.1223 | $0.018285 / $0.07314 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 23 | `v2.cloudmist.cloud` | ¥0.1223 | $0.018285 / $0.07314 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 24 | `apiclaw.cn` | ¥0.1287 | $0.019239 / $0.076956 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 25 | `ciyuan.today` | ¥0.133 | $0.019875 / $0.0795 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 26 | `gptapi.top` | ¥0.133 | $0.019875 / $0.0795 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 27 | `makerend.com` | ¥0.133 | $0.019875 / $0.0795 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 28 | `moliapi.com` | ¥0.134 | $0.020034 / $0.080136 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 29 | `ai-api.cc` | ¥0.1383 | $0.02067 / $0.08268 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 30 | `sucloud.vip` | ¥0.1383 | $0.02067 / $0.08268 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 31 | `newapi.xueai.me` | ¥0.1404 | $0.020988 / $0.083952 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 32 | `nodapi.com` | ¥0.1404 | $0.020988 / $0.083952 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 33 | `anyaigc.ai` | ¥0.1425 | $0.021306 / $0.085224 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 34 | `fluxapi.top` | ¥0.1489 | $0.02226 / $0.08904 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 35 | `sheepaiplus.top` | ¥0.1489 | $0.02226 / $0.08904 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 36 | `xiguapi.icu` | ¥0.1489 | $0.02226 / $0.08904 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 37 | `api.88api.chat` | ¥0.1595 | $0.02385 / $0.0954 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 38 | `lanbuff.app` | ¥0.1595 | $0.02385 / $0.0954 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 39 | `new.aigc2d.com` | ¥0.1595 | $0.02385 / $0.0954 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 40 | `open.clai.click` | ¥0.1595 | $0.02385 / $0.0954 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 41 | `oyy-ai.xyz` | ¥0.1595 | $0.02385 / $0.0954 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 42 | `api.videocaptioner.cn` | ¥0.1602 | $0.02385 / $0.0954 | 6.718 | Self-Deployed-1 | glm-4-airx |
+| 43 | `infai.cc` | ¥0.168 | $0.025122 / $0.100488 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 44 | `wodapis.com` | ¥0.1755 | $0.026235 / $0.10494 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 45 | `api.nixapi.com` | ¥0.1797 | $0.026871 / $0.107484 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 46 | `api.xgapi.top` | ¥0.2 | $0.2 / $0.6 | 1 | default | glm-4-airx |
+| 47 | `proaiapi.tech` | ¥0.2 | $0.2 / $1.2 | 1 | default | glm-4-airx |
+| 48 | `aiwuje.com` | ¥0.2127 | $0.0318 / $0.1272 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 49 | `api.cursorai.art` | ¥0.2127 | $0.0318 / $0.1272 | 6.68934 | Self-Deployed-1 | glm-4-airx |
+| 50 | `api.echoflowai.cc` | ¥0.2127 | $0.0318 / $0.1272 | 6.68934 | Self-Deployed-1 | glm-4-airx |
 
-> 另有 31 站未列出。
+> 另有 43 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -70,6 +70,5 @@
 | 1 | `api.zhiyikeji.cn` | $0.3 / $1.2 | default | 1 | glm-4-airx |
 | 2 | `happyapi.org` | $0.3 / $1.2 | default | 1 | glm-4-airx |
 | 3 | `aixhub.shop` | $1 / $1 | deepseek | 0.1 | glm-4-airx |
-| 4 | `api.qhhengxin.top` | $1.36986 / $1.36986 | default | 1 | glm-4-airx |
 
-> 67 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 57 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

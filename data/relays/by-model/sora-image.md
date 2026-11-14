@@ -1,6 +1,6 @@
 # sora-image
 
-> 31 站提供 · 正常价 24 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.05**/次（20 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 23 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.05**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,24 +20,23 @@
 | 8 | `api.xgapi.top` | ¥0.05 | $0.05 | 1 | default | sora_image |
 | 9 | `apilio.ai` | ¥0.05 | $0.05 | 1 | default | sora_image |
 | 10 | `poloai.top` | ¥0.05 | $0.05 | 1 | AIGC（生图/视频/音乐） | sora_image |
-| 11 | `test-ssl.bltcy.ai` | ¥0.05 | $0.05 | 1 | default | sora_image |
-| 12 | `xy.poloapi.com` | ¥0.05 | $0.05 | 1 | AIGC（生图/视频/音乐） | sora_image |
+| 11 | `poloapi.top` | ¥0.05 | $0.05 | 1 | AIGC（生图/视频/音乐） | sora_image |
+| 12 | `test-ssl.bltcy.ai` | ¥0.05 | $0.05 | 1 | default | sora_image |
 | 13 | `cnapi.kksj.org` | ¥0.054 | $0.054 | 1 | default | sora_image |
-| 14 | `ai.t8star.org` | ¥0.0675 | $0.05 | 1.35 | default | sora_image |
-| 15 | `api.nekoapi.com` | ¥0.1 | $0.05 | 2 | default | sora_image |
-| 16 | `gpt-api.cc` | ¥0.15 | $0.15 | 1 | default | sora_image |
-| 17 | `api.nf.video` | ¥0.2 | $0.1 | 2 | default | sora_image |
-| 18 | `api.34ku.com` | ¥0.65 | $0.65 | 1 | default | sora_image |
-| 19 | `www.devinone.com` | ¥3.65 | $0.5 | 7.3 | default | sora_image |
-| 20 | `max.openai365.top` | ¥73 | $10 | 7.3 | default | sora-image |
+| 14 | `ai.comfly.org` | ¥0.06 | $0.05 | 1.2 | default | sora_image |
+| 15 | `ai.t8star.org` | ¥0.0675 | $0.05 | 1.35 | default | sora_image |
+| 16 | `api.nekoapi.com` | ¥0.1 | $0.05 | 2 | default | sora_image |
+| 17 | `gpt-api.cc` | ¥0.15 | $0.15 | 1 | vip | sora_image |
+| 18 | `api.nf.video` | ¥0.2 | $0.1 | 2 | default | sora_image |
+| 19 | `api.34ku.com` | ¥0.65 | $0.65 | 1 | default | sora_image |
+| 20 | `www.devinone.com` | ¥3.65 | $0.5 | 7.3 | default | sora_image |
+| 21 | `max.openai365.top` | ¥73 | $10 | 7.3 | default | sora-image |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `g.openai365.top` | $0.02655 | default | 1 | sora_image |
-| 2 | `ai.comfly.org` | $0.05 | default | 1 | sora_image |
-| 3 | `poloapi.top` | $0.05 | AIGC（生图/视频/音乐） | 1 | sora_image |
-| 4 | `happyapi.org` | $0.15 | default | 1 | sora_image |
+| 2 | `happyapi.org` | $0.15 | default | 1 | sora_image |
 
 > 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

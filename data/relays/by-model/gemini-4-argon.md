@@ -1,6 +1,6 @@
 # gemini-4-argon
 
-> 850 站提供 · 正常价 575 站 · 名义中位价 **$1.1**/1M 输入 · 实付中位价 **¥2**/1M 输入（433 站公开充值价） · 推算，未对账
+> 1187 站提供 · 正常价 769 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥2**/1M 输入（563 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,114 +10,114 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `⚠️codelypixverse.com` | ¥0.06923 | $0.0692308 / $0.115385 | 1 | vip | Gemini 4 Argon |
-| 2 | `api.banban.plus` | ¥0.1068 | $0.106849 / $0.534247 | 1 | C gemini-antigravity（反重力）-utrl-4-专用 | gemini-4-argon |
-| 3 | `openkun.xyz` | ¥0.135 | $0.135 / $1.35 | 1 | Gemini 反重力 | gemini-4-argon |
-| 4 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $1.2495 | 1 | relay | build-gemini-4-argon |
-| 5 | `ainzy.net` | ¥0.16 | $0.16 / $0.8 | 1 | gemini4 | gemini-4-argon |
-| 6 | `www.ainzy.net` | ¥0.16 | $0.16 / $0.8 | 1 | gemini-fast | gemini-4-argon |
-| 7 | `catapi.catcard.uk` | ¥0.3 | $0.3 / $1.5 | 1 | 【自营按量】Gemini | gemini-4-argon-high |
-| 8 | `fluxapi.vip` | ¥0.36 | $0.36 / $1.8 | 1 | Gemini满血反重力 | gemini-4-argon |
-| 9 | `www.xpivot.top` | ¥0.4 | $0.4 / $2 | 1 | Gemini 反重力 | gemini-4-argon |
-| 10 | `api.ikhdev.xyz` | ¥0.438 | $0.06 / $0.3 | 7.3 | paid | gemini-4-argon-medium |
-| 11 | `api.unorouter.com` | ¥0.45 | $0.45 / $2.25 | 1 | gemini-gg-gemini-4-argon | gemini-4-argon |
-| 12 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.298989 | 6.6892 | default | gemini-4-argon |
-| 13 | `byteclaude.io` | ¥0.5 | $0.5 / $2.5 | 1 | Gemini Argon | gemini-4-argon |
-| 14 | `claude.bestswifter.com` | ¥0.5 | $0.5 / $2.5 | 1 | Gemini Argon | gemini-4-argon |
-| 15 | `deepkey.top` | ¥0.5 | $0.5 / $2.5 | 1 | gemini-web | gemini-4-argon |
-| 16 | `dragtokens.com` | ¥0.5 | $0.5 / $2.5 | 1 | Gemini | gemini-4-argon |
-| 17 | `moeapi.cloud` | ¥0.5 | $0.5 / $2.5 | 1 | Gemini自营号池 | gemini-4-argon |
-| 18 | `openoneapi.com` | ¥0.5 | $0.5 / $2.5 | 1 | gemini | gemini-4-argon |
-| 19 | `yinziapi.top` | ¥0.5 | $0.5 / $2.5 | 1 | gemini-ultea | gemini-4-argon |
+| 1 | `⚠️codelypixverse.com` | ¥0.06923 | $0.0692308 / $0.115385 | 1 | default | Gemini 4 Argon |
+| 2 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $1.2495 | 1 | relay | build-gemini-4-argon |
+| 3 | `openkun.xyz` | ¥0.16 | $0.16 / $0.8 | 1 | Gemini逆向 | gemini-4-argon |
+| 4 | `ainzy.net` | ¥0.17 | $0.17 / $0.82 | 1 | gemini4 | gemini-4-argon |
+| 5 | `api.routeeasy.ai` | ¥0.2 | $0.2 / $1 | 1 | anti-gemini-0.1-1030 | gemini-4-argon |
+| 6 | `api.tokenbits.net` | ¥0.32 | $0.32 / $1.6 | 1 | gemini | gemini-4-argon |
+| 7 | `ai-pixel.online` | ¥0.375 | $0.375 / $1.5 | 1 | room-1483 | gemini-4-argon |
+| 8 | `fluxapi.vip` | ¥0.38 | $0.38 / $1.9 | 1 | Gemini满血反重力 0.19x | gemini-4-argon |
+| 9 | `api.banban.plus` | ¥0.3945 | $0.394521 / $1.9726 | 1 | C gemini-antigravity（反重力）-utrl-4-专用 | gemini-4-argon |
+| 10 | `codex-relay.codes` | ¥0.4 | $0.4 / $2 | 1 | default | gemini-4-argon |
+| 11 | `www.xpivot.top` | ¥0.4 | $0.4 / $2 | 1 | Gemini 反重力 | gemini-4-argon |
+| 12 | `api.liangrekui.com` | ¥0.46 | $0.46 / $2.3 | 1 | C gemini-antigravity（反重力）-utrl-4-蒸馏 | gemini-4-argon-high |
+| 13 | `yinziapi.top` | ¥0.475 | $0.475 / $2.375 | 1 | 上游3-gemini-反重力 | gemini-4-argon |
+| 14 | `ai.hebox.net` | ¥0.4928 | $0.0675 / $0.0675 | 7.3 | Gemini | gemini-4-argon-high |
+| 15 | `ai.kdysite.cloud` | ¥0.5 | $0.5 / $2.5 | 1 | Gemini-2 | gemini-4-argon |
+| 16 | `bajie-api.com` | ¥0.5 | $0.5 / $2.5 | 1 | gemini 2 | gemini-4-argon |
+| 17 | `byteclaude.io` | ¥0.5 | $0.5 / $2.5 | 1 | Gemini Argon | gemini-4-argon |
+| 18 | `code.aigcpro.org` | ¥0.5 | $0.5 / $2.5 | 1 | gemini | gemini-4-argon-high |
+| 19 | `deepkey.top` | ¥0.5 | $0.5 / $2.5 | 1 | gemini-web | gemini-4-argon |
 | 20 | `pianyitoken.gay` | ¥0.5 | $0.0684932 / $0.342466 | 7.3 | gemeni反重力-Ultra号池 | gemini-4-argon |
-| 21 | `botcf.com` | ¥0.56 | $0.56 / $2.8 | 1 | 🪐gemini-antigravity | gemini-4-argon |
-| 22 | `api.ciyuanapis.xyz` | ¥0.57 | $0.57 / $2.85 | 1 | Gemini | gemini-4-argon |
-| 23 | `api.aihub8.top` | ¥0.598 | $0.598 / $2.99 | 1 | [Gemini]性能组_0.299倍率 | gemini-4-argon |
+| 21 | `moyuu.cc` | ¥0.534 | $0.534 / $2.67 | 1 | gemini_1111 | gemini-4-argon |
+| 22 | `new5.easysu.cn` | ¥0.54 | $0.54 / $2.7 | 1 | Gemini | gemini-4-argon |
+| 23 | `llmhub.ltd` | ¥0.56 | $0.56 / $2.8 | 1 | Gemini-AiStudio | gemini-4-argon |
 | 24 | `8stoken.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
-| 25 | `8yes.cc` | ¥0.6 | $0.6 / $3 | 1 | gemini ultra | gemini-4-argon |
-| 26 | `ai.wcapis.com` | ¥0.6 | $0.6 / $3 | 1 | 【Gemini】 | gemini-4-argon |
-| 27 | `api.rua.chat` | ¥0.6 | $0.6 / $3 | 1 | Gemini-按量 | gemini-4-argon |
-| 28 | `api.strong-api.top` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
-| 29 | `api.yanai.it.com` | ¥0.6 | $0.6 / $3 | 1 | gemini-anti-ultra | gemini-4-argon |
-| 30 | `apiddt.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini(Antigravity) | gemini-4-argon |
-| 31 | `b.kr777.top` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
-| 32 | `closedai.kylenqaq.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini-Anti | gemini-4-argon |
-| 33 | `hiapi.top` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
-| 34 | `us.lgdfort.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini-Beta | gemini-4-argon-high |
-| 35 | `www.ddtnew.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini(Antigravity) | gemini-4-argon |
-| 36 | `www.weekly-day.top` | ¥0.6 | $0.6 / $3 | 1 | gemini | gemini-4-argon |
-| 37 | `xn--15q04w3tg4kio0a.com` | ¥0.6 | $0.6 / $3 | 1 | 🪐gemini-antigravity | gemini-4-argon |
-| 38 | `relay.nccnxta.cn` | ¥0.64 | $0.64 / $3.2 | 1 | K.gemini | gemini-4-argon |
-| 39 | `ai.centos.hk` | ¥0.7 | $0.7 / $3.5 | 1 | 反重力 | gemini-4-argon |
-| 40 | `ai.qunq.de` | ¥0.7 | $0.7 / $3.5 | 1 | Gemini-Antigravity | gemini-4-argon |
-| 41 | `api-models.com` | ¥0.7 | $0.7 / $3.5 | 1 | Gemini | gemini-4-argon |
-| 42 | `cf.a-piko.top` | ¥0.7 | $0.7 / $3.5 | 1 | gemini4 | gemini-4-argon-high |
-| 43 | `code.aigcpro.org` | ¥0.7 | $0.7 / $3.5 | 1 | gemimi4-Ultra池 | gemini-4-argon-high |
-| 44 | `huablog.org` | ¥0.7 | $0.7 / $3.5 | 1 | Gemini | gemini-4-argon-high |
-| 45 | `moyuu.cc` | ¥0.7 | $0.7 / $3.5 | 1 | gemini_ultra | gemini-4-argon |
-| 46 | `mzhcloud.com` | ¥0.7 | $0.7 / $3.5 | 1 | Gemini | gemini-4-argon |
-| 47 | `newapi.akiyo.fun` | ¥0.7 | $0.7 / $3.5 | 1 | Fish-Gemini | gemini-4-argon-high |
-| 48 | `newapi.prorisehub.com` | ¥0.7 | $0.7 / $3.5 | 1 | Ant-Gemini | gemini-4-argon |
-| 49 | `pay.magic666.top` | ¥0.7 | $0.7 / $3.5 | 1 | gemini-nx | gemini-4-argon |
-| 50 | `pro.auroai.icu` | ¥0.7 | $0.7 / $3.5 | 1 | 反重力个人ultra | gemini-4-argon |
+| 25 | `ai.m-hao.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
+| 26 | `api.starchenapi.xyz` | ¥0.6 | $0.6 / $3 | 1 | kiro | gemini-4-argon |
+| 27 | `api2.yoshub.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini 官号 | gemini-4-argon |
+| 28 | `apiddt.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini(Antigravity) | gemini-4-argon |
+| 29 | `b.kr777.top` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
+| 30 | `botcf.com` | ¥0.6 | $0.6 / $3 | 1 | 🪐gemini-antigravity | gemini-4-argon |
+| 31 | `cf.modelflare.dev` | ¥0.6 | $0.6 / $3 | 1 | gemini-stable | gemini-4-argon |
+| 32 | `cheapi.cc` | ¥0.6 | $0.6 / $3 | 1 | gemini | gemini-4-argon |
+| 33 | `chrisapivip.com` | ¥0.6 | $0.6 / $3 | 1 | gemini-nx | gemini-4-argon |
+| 34 | `dragon3api.com` | ¥0.6 | $0.6 / $3 | 1 | gemini | gemini-4-argon |
+| 35 | `hiapi.top` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
+| 36 | `mv88.cn` | ¥0.6 | $0.6 / $3 | 1 | Gemini-Ultra | gemini-4-argon |
+| 37 | `mzhcloud.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
+| 38 | `newapi.akiyo.fun` | ¥0.6 | $0.6 / $3 | 1 | 浅夜-反重力Ultra池 | gemini-4-argon-high |
+| 39 | `us.lgdfort.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini-Beta | gemini-4-argon-high |
+| 40 | `www.ddtnew.com` | ¥0.6 | $0.6 / $3 | 1 | Gemini(Antigravity) | gemini-4-argon |
+| 41 | `www.mttie.com` | ¥0.6 | $0.6 / $3 | 1 | 反重力稳定4a模型 | gemini-4-argon |
+| 42 | `www.omniroute.cc` | ¥0.6 | $0.6 / $3 | 1 | Gemini 【反重力】 | gemini-4-argon |
+| 43 | `www.weekly-day.top` | ¥0.6 | $0.6 / $3 | 1 | gemini | gemini-4-argon |
+| 44 | `www.yysc.top` | ¥0.6 | $0.6 / $3 | 1 | Gemini | gemini-4-argon |
+| 45 | `xn--15q04w3tg4kio0a.com` | ¥0.6 | $0.6 / $3 | 1 | 🪐gemini-antigravity | gemini-4-argon |
+| 46 | `ai.furry.vg` | ¥0.64 | $0.64 / $3.2 | 1 | GeminiUltra | gemini-4-argon |
+| 47 | `sudobug.top` | ¥0.64 | $0.64 / $3.2 | 1 | Gmini Ultra | gemini-4-argon |
+| 48 | `cf.a-piko.top` | ¥0.68 | $0.68 / $3.4 | 1 | gemini4 | gemini-4-argon-high |
+| 49 | `ai.qunq.de` | ¥0.7 | $0.7 / $3.5 | 1 | Gemini-Antigravity | gemini-4-argon |
+| 50 | `api-models.com` | ¥0.7 | $0.7 / $3.5 | 1 | Gemini | gemini-4-argon |
 
-> 另有 383 站未列出。
+> 另有 513 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.robinsonai.shop` | $0.153846 / $0.769231 | Gemini 4 Argon Plus | 0.5 | gemini-4-argon |
-| 2 | `api.hyhawang.com` | $0.2 / $1 | Gemini | 0.1 | gemini-4-argon |
-| 3 | `kukuai.ai` | $0.238236 / $1.19118 | 线路7 - 推荐 | 1 | gemini-4-argon |
-| 4 | `mzeapi.top` | $0.24 / $1.2 | Gemini 备用 | 0.12 | gemini-4-argon |
-| 5 | `api.biuapi.com` | $0.26 / $1.3 | 反重力gemini | 0.13 | gemini-4-argon-high |
-| 6 | `o10.top` | $0.26 / $1.3 | 反重力gemini | 0.13 | gemini-4-argon-high |
-| 7 | `xinyue.mom` | $0.26 / $1.3 | Gemini | 0.13 | gemini-4-argon |
-| 8 | `api.lingqiaotech.com` | $0.3 / $1.5 | [gemini] antigravity逆向渠道 | 0.15 | gemini-4-argon |
-| 9 | `kedaya.ai` | $0.3 / $1.5 | gemini | 0.15 | gemini-4-argon |
-| 10 | `sub2.claudefsyk.com` | $0.3 / $1.5 | GPT_Pro浮生稳定 | 0.15 | gemini-4-argon-high |
-| 11 | `api.luciferai.cc` | $0.32 / $1.92 | gemini | 0.16 | gemini-4-argon-high |
-| 12 | `www.lingzhan.top` | $0.36 / $1.8 | Gemini(Antigravity反代自有号池) | 0.18 | gemini-4-argon |
-| 13 | `sub2api.luciferai.cc` | $0.38 / $2.28 | gemini | 0.19 | gemini-4-argon-high |
-| 14 | `api.168box.xyz` | $0.4 / $2 | gemini | 0.2 | devin/gemini-4-argon |
-| 15 | `api.apikl.ai` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
-| 16 | `api.kcne.top` | $0.4 / $2 | 反重力Gemini | 0.2 | gemini-4-argon-high |
-| 17 | `api.opkaa.com` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
-| 18 | `app.yylx.io` | $0.4 / $2 | Gemini - 标准 | 0.2 | gemini-4-argon |
-| 19 | `canana.vcnovb.cn` | $0.4 / $2 | Anit Gemini | 0.2 | gemini-4-argon |
-| 20 | `⚠️mhapi.net` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
-| 21 | `sub.vcnovb.cn` | $0.4 / $2 | Anit Gemini | 0.2 | gemini-4-argon |
-| 22 | `sub2api.simplaj.top` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
-| 23 | `www.largechestnut.com` | $0.4 / $2 | gemini | 0.2 | gemini-4-argon |
-| 24 | `api-ap.onemini.top` | $0.44 / $2.2 | Gemini-Antigravity | 0.22 | gemini-4-argon |
-| 25 | `api.onemini.top` | $0.44 / $2.2 | Gemini-Antigravity | 0.22 | gemini-4-argon |
-| 26 | `yzstudio.vip` | $0.48 / $2.4 | gemini 维护中 | 0.12 | gemini-4-argon |
-| 27 | `ahao.online` | $0.5 / $2.5 | Gemini 反重力 | 0.25 | gemini-4-argon |
-| 28 | `ai.8888.name` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
-| 29 | `ai.entrylk.cn` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
-| 30 | `aicat.api.sumnece.com` | $0.5 / $2.5 | Gemini-Pro | 0.25 | gemini-4-argon |
-| 31 | `api.gguuai.com` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
-| 32 | `heilovehei.com` | $0.5 / $2.5 | gemini ultra | 0.25 | gemini-4-argon |
-| 33 | `jizhiapi.site` | $0.5 / $2.5 | gemini 全模型线路 | 0.25 | gemini-4-argon |
-| 34 | `momoapi.cn` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
-| 35 | `nexapi.store` | $0.5 / $2.5 | gemini | 0.25 | gemini-4-argon |
-| 36 | `uf.raoqiuqiu.fun` | $0.5 / $2.5 | gemini | 0.25 | gemini-4-argon |
-| 37 | `wawazz.xyz` | $0.5 / $2.5 | Gemini-anti | 0.25 | gemini-4-argon |
-| 38 | `www.mttie.com` | $0.5 / $2.5 | Antigravity_Gemini | 0.25 | gemini-4-argon |
-| 39 | `zzone.cc.cd` | $0.52 / $2.6 | Gemini | 0.26 | gemini-4-argon-high |
-| 40 | `huancun.jizhiapi.site` | $0.54 / $2.7 | gemini 全模型线路 | 0.27 | gemini-4-argon |
-| 41 | `halion.asia` | $0.56 / $2.8 | Gemini | 0.28 | gemini-4-argon |
-| 42 | `ai.beimo.cc` | $0.6 / $3 | 【按量】【支持生图】Gemini | 0.3 | gemini-4-argon |
-| 43 | `api.1route.dev` | $0.6 / $3 | Gemini 💎 | 0.3 | gemini-4-argon |
-| 44 | `api.asdfas.party` | $0.6 / $3 | gemini | 0.3 | gemini-4-argon |
-| 45 | `api.deepspacecode.chat` | $0.6 / $3 | Gemini-ultra | 0.3 | gemini-4-argon-high |
-| 46 | `api.tyasai.com` | $0.6 / $3 | gemini 0.3 元每刀  | 0.3 | gemini-4-argon |
-| 47 | `apiai.fun` | $0.6 / $3 | Gemini（反重力） | 0.3 | gemini-4-argon |
-| 48 | `codexauv.com` | $0.6 / $3 | Gemini-标准版 无4a | 0.3 | gemini-4-argon |
-| 49 | `codexpert.top` | $0.6 / $3 | Gemini分组（支持Gemini4！） | 0.3 | gemini-4-argon |
-| 50 | `hanhegufei.online` | $0.6 / $3 | gemini | 0.3 | gemini-4-argon |
+| 2 | `api.chi-yu-ai.com` | $0.24 / $1.2 | Gemini-【分组】 | 0.12 | gemini-4-argon-high |
+| 3 | `www.lingzhan.top` | $0.26 / $1.3 | Gemini(已验证) | 0.13 | gemini-4-argon |
+| 4 | `kukuai.ai` | $0.297794 / $1.48897 | 线路8 | 1 | gemini-4-argon |
+| 5 | `api.biuapi.com` | $0.3 / $1.5 | 反重力gemini | 0.15 | gemini-4-argon-high |
+| 6 | `api.lingqiaotech.com` | $0.3 / $1.5 | [gemini] antigravity逆向渠道 | 0.15 | gemini-4-argon |
+| 7 | `business.starway.lol` | $0.3 / $1.5 | Gemini-Cursor-只支持4 | 0.15 | gemini-4-argon |
+| 8 | `kedaya.ai` | $0.3 / $1.5 | gemini | 0.15 | gemini-4-argon |
+| 9 | `linfengx.xyz` | $0.3 / $1.5 | Claude kiro  高缓  接的上游（自测） | 0.15 | gemini-4-argon |
+| 10 | `o10.top` | $0.3 / $1.5 | 反重力gemini | 0.15 | gemini-4-argon-high |
+| 11 | `tntapi.com` | $0.3 / $1.5 | Gemini  | 0.15 | gemini-4-argon |
+| 12 | `www.bb-api.com` | $0.3 / $1.5 | 【G/015】哈基米3无缓存 | 0.15 | gemini-4-argon |
+| 13 | `xinyue.mom` | $0.3 / $1.5 | Gemini | 0.15 | gemini-4-argon |
+| 14 | `rapidapi.cc` | $0.36 / $1.8 | Rapid-Gemini反重力 | 0.18 | gemini-4-argon |
+| 15 | `api.luciferai.cc` | $0.38 / $2.28 | gemini | 0.19 | gemini-4-argon-high |
+| 16 | `aichronos.xyz` | $0.4 / $2 | Cluade官转混合Kiro | 0.2 | gemini-4-argon |
+| 17 | `api.168box.xyz` | $0.4 / $2 | gemini | 0.2 | gemini-4-argon-high |
+| 18 | `api.hyhawang.com` | $0.4 / $2 | 反重力Gemini | 0.2 | gemini-4-argon |
+| 19 | `api.kcne.top` | $0.4 / $2 | 反重力Gemini | 0.2 | gemini-4-argon-high |
+| 20 | `api.opkaa.com` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
+| 21 | `app.yylx.io` | $0.4 / $2 | Gemini - 标准 | 0.2 | gemini-4-argon |
+| 22 | `kimera.cc` | $0.4 / $2 | Gemini Pro | 0.2 | gemini-4-argon |
+| 23 | `⚠️mhapi.net` | $0.4 / $2 | Gemini | 0.2 | gemini-4-argon |
+| 24 | `nextpro.top` | $0.4 / $2 | Gemini Ultra | 0.2 | gemini-4-argon |
+| 25 | `www.largechestnut.com` | $0.4 / $2 | gemini | 0.2 | gemini-4-argon |
+| 26 | `www.qianweikeji.fun` | $0.4 / $2 | 反重力Gemini | 0.2 | gemini-4-argon |
+| 27 | `zcbbzzz.online` | $0.4 / $2 | Gemini - 满血反重力 | 0.2 | gemini-4-argon |
+| 28 | `api-ap.onemini.top` | $0.44 / $2.2 | Gemini-Antigravity | 0.22 | gemini-4-argon |
+| 29 | `api.onemini.top` | $0.44 / $2.2 | Gemini-Antigravity | 0.22 | gemini-4-argon |
+| 30 | `api.zayuapi.com` | $0.44 / $2.2 | Gemini-Ultra② | 0.22 | gemini-4-argon |
+| 31 | `ahao.online` | $0.5 / $2.5 | Gemini 反重力 | 0.25 | gemini-4-argon |
+| 32 | `ai.entrylk.cn` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
+| 33 | `ai.lazymo.qzz.io` | $0.5 / $2.5 | Gemini-Ultra | 0.25 | gemini-4-argon |
+| 34 | `aicat.api.sumnece.com` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
+| 35 | `api.247kan.com` | $0.5 / $2.5 | Gemini Pro | 0.25 | gemini-4-argon |
+| 36 | `api.apikl.ai` | $0.5 / $2.5 | Gemini【反重力】 | 0.25 | gemini-4-argon |
+| 37 | `api.gguuai.com` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
+| 38 | `api.laogou8.com` | $0.5 / $2.5 | Gemini-满血 | 0.25 | gemini-4-argon |
+| 39 | `api.relaycore.cn` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
+| 40 | `apiai.fun` | $0.5 / $2.5 | Gemini【反重力】 | 0.25 | gemini-4-argon |
+| 41 | `jizhiapi.site` | $0.5 / $2.5 | gemini 全模型线路 | 0.25 | gemini-4-argon |
+| 42 | `llm.twinight.co` | $0.5 / $2.5 | Gemini Pro | 0.25 | gemini-4-argon |
+| 43 | `momoapi.cn` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
+| 44 | `nexapi.store` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon |
+| 45 | `oapi.shop` | $0.5 / $2.5 | Gemini flash | 0.25 | gemini-4-argon |
+| 46 | `riyuexy.cc` | $0.5 / $2.5 | Gemini | 0.25 | gemini-4-argon-high |
+| 47 | `sheepapi.top` | $0.5 / $2.5 | gemini-Ultra | 0.25 | gemini-4-argon |
+| 48 | `uf.raoqiuqiu.fun` | $0.5 / $2.5 | gemini | 0.25 | gemini-4-argon |
+| 49 | `www.yydsapi.uno` | $0.5 / $2.5 | 反重力Gemini | 0.25 | gemini-4-argon-high |
+| 50 | `ai.blue1.top` | $0.51 / $2.55 | Genimi Ultra | 0.255 | gemini-4-argon |
 
-> 另有 92 站未列出。
+> 另有 156 站未列出。
 
-> 275 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 418 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

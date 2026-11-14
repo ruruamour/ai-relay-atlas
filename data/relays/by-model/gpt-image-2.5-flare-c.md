@@ -1,6 +1,6 @@
 # gpt-image-2.5-flare-c
 
-> 76 站提供 · 正常价 71 站 · 名义中位价 **$0.0235296**/次 · 实付中位价 **¥0.1396**/次（68 站公开充值价） · 推算，未对账
+> 91 站提供 · 正常价 81 站 · 名义中位价 **$0.0185884**/次 · 实付中位价 **¥0.118**/次（79 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.openlux.ai` | ¥0.07904 | $0.0117648 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 2 | `api.relayrouter.ai` | ¥0.07904 | $0.0117648 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 3 | `openlux.zhongzhuan.chat` | ¥0.07904 | $0.0117648 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 4 | `poloai.top` | ¥0.08 | $0.08 | 1 | AIGC（生图/视频/音乐） | gpt-image-2.5-flare-c |
-| 5 | `xy.poloapi.com` | ¥0.08 | $0.08 | 1 | AIGC（生图/视频/音乐） | gpt-image-2.5-flare-c |
-| 6 | `4zapi.com` | ¥0.08694 | $0.0129413 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 7 | `api.tidewhisper-ai.xyz` | ¥0.08694 | $0.0129413 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 8 | `gzxbykj.com` | ¥0.08694 | $0.0129413 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 9 | `yunwu.org` | ¥0.08694 | $0.0129413 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 10 | `api.antmoo.cc` | ¥0.09089 | $0.0135295 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 11 | `v2.cloudmist.cloud` | ¥0.09089 | $0.0135295 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 12 | `www.vectronode.com` | ¥0.09484 | $0.0141178 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 13 | `apiclaw.cn` | ¥0.09563 | $0.0142354 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 14 | `newapi.xueai.me` | ¥0.09563 | $0.0142354 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 15 | `wodapis.com` | ¥0.09563 | $0.0142354 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 16 | `ciyuan.today` | ¥0.09879 | $0.014706 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 17 | `gptapi.top` | ¥0.09879 | $0.014706 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 18 | `makerend.com` | ¥0.09879 | $0.014706 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 19 | `moliapi.com` | ¥0.09958 | $0.0148236 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 20 | `api.unifyllm.top` | ¥0.1 | $0.1 | 1 | default | gpt-image-2.5-flare-c |
-| 21 | `zx1.deepwl.net` | ¥0.1 | $0.1 | 1 | codex-4k | gpt-image-2.5-flare-c |
-| 22 | `ai-api.cc` | ¥0.1027 | $0.0152942 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 23 | `nodapi.com` | ¥0.1043 | $0.0155295 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 24 | `anyaigc.ai` | ¥0.1067 | $0.0158825 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 25 | `sheepaiplus.top` | ¥0.1107 | $0.0164707 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 26 | `xiguapi.icu` | ¥0.1107 | $0.0164707 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 27 | `api.88api.chat` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 28 | `api.88api.shop` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 29 | `api.videocaptioner.cn` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 30 | `lanbuff.app` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 31 | `new.aigc2d.com` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 32 | `oyy-ai.xyz` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 33 | `infai.cc` | ¥0.1249 | $0.0185884 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 34 | `api.nixapi.com` | ¥0.1336 | $0.0198825 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 35 | `layso.ai` | ¥0.1456 | $0.1456 | 1 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 36 | `laysoai.com` | ¥0.1456 | $0.1456 | 1 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 37 | `top.qingyuntop.top` | ¥0.15 | $0.15 | 1 | 按次计费 | gpt-image-2.5-flare-c |
-| 38 | `aiwuje.com` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 39 | `api.cursorai.art` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 40 | `api.echoflowai.cc` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 41 | `api.n1n.ai` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 42 | `api.quickrouter.ai` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 43 | `jeniya.cn` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 44 | `linoapi.com` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 45 | `linoroute.com` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 46 | `llm-api.net` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 47 | `quanzil.com` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 48 | `token173.net` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 49 | `tryallapi.com` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
-| 50 | `wellapi.ai` | ¥0.1581 | $0.0235296 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 1 | `magic666.top` | ¥0.04 | $0.04 | 1 | default | gpt-image-2.5-flare-c |
+| 2 | `api.openlux.ai` | ¥0.0787 | $0.0117648 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 3 | `api.relayrouter.ai` | ¥0.0787 | $0.0117648 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 4 | `openlux.zhongzhuan.chat` | ¥0.0787 | $0.0117648 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 5 | `4zapi.com` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 6 | `ai.kalehui.cn` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 7 | `aiopus.top` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 8 | `aipipe.site` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 9 | `api.anthropicricardo.club` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 10 | `api.modelyard.cc` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 11 | `api.tidewhisper-ai.xyz` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 12 | `apistudio.vip` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 13 | `dawnnode.com` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 14 | `gzxbykj.com` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 15 | `tiantoken.cn` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 16 | `token.kkdmx.com` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 17 | `vortexapi.cn` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 18 | `www.vectronode.com` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 19 | `www.xiaoruiera.top` | ¥0.08657 | $0.0129413 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 20 | `yunwu.org` | ¥0.08814 | $0.0131766 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 21 | `api.antmoo.cc` | ¥0.0905 | $0.0135295 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 22 | `v2.cloudmist.cloud` | ¥0.0905 | $0.0135295 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 23 | `apiclaw.cn` | ¥0.09523 | $0.0142354 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 24 | `ciyuan.today` | ¥0.09837 | $0.014706 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 25 | `gptapi.top` | ¥0.09837 | $0.014706 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 26 | `makerend.com` | ¥0.09837 | $0.014706 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 27 | `moliapi.com` | ¥0.09916 | $0.0148236 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 28 | `api.unifyllm.top` | ¥0.1 | $0.1 | 1 | default | gpt-image-2.5-flare-c |
+| 29 | `ai-api.cc` | ¥0.1023 | $0.0152942 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 30 | `sucloud.vip` | ¥0.1023 | $0.0152942 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 31 | `newapi.xueai.me` | ¥0.1039 | $0.0155295 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 32 | `nodapi.com` | ¥0.1039 | $0.0155295 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 33 | `anyaigc.ai` | ¥0.1062 | $0.0158825 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 34 | `fluxapi.top` | ¥0.1102 | $0.0164707 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 35 | `sheepaiplus.top` | ¥0.1102 | $0.0164707 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 36 | `xiguapi.icu` | ¥0.1102 | $0.0164707 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 37 | `api.88api.chat` | ¥0.118 | $0.0176472 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 38 | `lanbuff.app` | ¥0.118 | $0.0176472 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 39 | `new.aigc2d.com` | ¥0.118 | $0.0176472 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 40 | `open.clai.click` | ¥0.118 | $0.0176472 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 41 | `oyy-ai.xyz` | ¥0.118 | $0.0176472 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 42 | `api.videocaptioner.cn` | ¥0.1186 | $0.0176472 | 6.718 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 43 | `infai.cc` | ¥0.1243 | $0.0185884 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 44 | `wodapis.com` | ¥0.1299 | $0.0194119 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 45 | `api.nixapi.com` | ¥0.133 | $0.0198825 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 46 | `layso.ai` | ¥0.1456 | $0.1456 | 1 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 47 | `top.qingyuntop.top` | ¥0.15 | $0.15 | 1 | 按次计费 | gpt-image-2.5-flare-c |
+| 48 | `aiwuje.com` | ¥0.1574 | $0.0235296 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 49 | `api.cursorai.art` | ¥0.1574 | $0.0235296 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
+| 50 | `api.echoflowai.cc` | ¥0.1574 | $0.0235296 | 6.68934 | Gpt-Image-1 | gpt-image-2.5-flare-c |
 
-> 另有 18 站未列出。
+> 另有 29 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -69,6 +69,5 @@
 |---|---|---|---|---|---|
 | 1 | `77api.top` | $0.02 | ChatGpt-Plus【高并发-生图分组】 | 1 | gpt-image-2.5-flare-c |
 | 2 | `api.tmiaow.cn` | $0.02 | ChatGpt-Plus【高并发-生图分组】 | 1 | gpt-image-2.5-flare-c |
-| 3 | `poloapi.top` | $0.08 | AIGC（生图/视频/音乐） | 1 | gpt-image-2.5-flare-c |
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

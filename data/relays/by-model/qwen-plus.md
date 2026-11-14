@@ -1,6 +1,6 @@
 # qwen-plus
 
-> 243 站提供 · 正常价 214 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.209**/1M 输入（142 站公开充值价） · 推算，未对账
+> 233 站提供 · 正常价 208 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.672**/1M 输入（155 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,19 +10,19 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `aws.baby` | ¥0.1143 | $0.114286 / $0.285714 | 1 | 阿里云百炼大客户 | qwen-plus-2025-01-25 |
-| 2 | `biezou.com` | ¥0.1143 | $0.114286 / $0.285714 | 1 | 阿里云百炼大客户 | qwen-plus-2025-01-25 |
-| 3 | `e.fishxcode.com` | ¥0.1143 | $0.114286 / $0.285714 | 1 | default | qwen-plus-2025-01-25 |
-| 4 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.6 | 1 | relay | qwen-plus |
-| 5 | `580.4sapi.com` | ¥0.28 | $0.28 / $2.8 | 1 | 国产模型-自部署 | qwen-plus-2025-04-28 |
-| 6 | `cn.580ai.net` | ¥0.28 | $0.28 / $2.8 | 1 | 国产模型-自部署 | qwen-plus-2025-04-28 |
-| 7 | `poloai.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
-| 8 | `xy.poloapi.com` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
-| 9 | `ai.mowen.vip` | ¥0.3998 | $0.059766 / $0.149415 | 6.6892 | default | qwen-plus-2025-01-25 |
-| 10 | `api.zyai.online` | ¥0.4 | $0.4 / $4 | 1 | mini | qwen-plus |
-| 11 | `pay.magic666.top` | ¥0.4 | $0.4 / $4 | 1 | 国产 | qwen-plus |
-| 12 | `llm.kagu.one` | ¥0.4198 | $0.0575 / $0.1435 | 7.3 | 大杂烩 | qwen-plus |
-| 13 | `crazyrouter.com` | ¥0.42 | $0.06 / $0.23 | 7 | default | qwen-plus |
+| 1 | `e.fishxcode.com` | ¥0.1143 | $0.114286 / $0.285714 | 1 | default | qwen-plus-2025-01-25 |
+| 2 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.6 | 1 | relay | qwen-plus |
+| 3 | `xiaoqie.xyz` | ¥0.26 | $0.26 / $0.78 | 1 | OpenRouter官方线路 | qwen/qwen-plus |
+| 4 | `poloai.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
+| 5 | `poloapi.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
+| 6 | `ai.mowen.vip` | ¥0.3995 | $0.059766 / $0.149415 | 6.68494 | default | qwen-plus-2025-01-25 |
+| 7 | `api.zyai.online` | ¥0.4 | $0.4 / $4 | 1 | mini | qwen-plus |
+| 8 | `newapi.prorisehub.com` | ¥0.4 | $0.4 / $1 | 1 | 海外国产编程模 | qwen-plus |
+| 9 | `pay.magic666.top` | ¥0.4 | $0.4 / $4 | 1 | 国产 | qwen-plus |
+| 10 | `wzw.pp.ua` | ¥0.4 | $0.4 / $1.2 | 1 | default | qwen-plus |
+| 11 | `llm.kagu.one` | ¥0.4198 | $0.0575 / $0.1435 | 7.3 | 大杂烩 | qwen-plus |
+| 12 | `crazyrouter.com` | ¥0.42 | $0.06 / $0.23 | 7 | default | qwen-plus |
+| 13 | `aifast.site` | ¥0.48 | $0.48 / $1.2 | 1 | 国产文本 | qwen-plus |
 | 14 | `api.camel-hub.cn` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
 | 15 | `api.camel-hub.com` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
 | 16 | `api.kr777.top` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
@@ -35,12 +35,12 @@
 | 23 | `gpt777.top` | ¥0.64 | $0.64 / $6.4 | 1 | opensource | qwen-plus |
 | 24 | `api.ifopen.ai` | ¥0.728 | $0.208 / $2.08 | 3.5 | 通用大模型 | qwen-plus |
 | 25 | `api2.aigcbest.top` | ¥0.728 | $0.208 / $2.08 | 3.5 | 通用大模型 | qwen-plus |
-| 26 | `api.ocoolai.com` | ¥0.76 | $0.76 / $7.6 | 1 | cn | qwen-plus |
-| 27 | `ocool.cn` | ¥0.76 | $0.76 / $7.6 | 1 | cn | qwen-plus |
-| 28 | `one.ooo.cool` | ¥0.76 | $0.76 / $7.6 | 1 | cn | qwen-plus |
-| 29 | `ai-model.chinaz.net` | ¥0.8 | $0.109589 / $0.273973 | 7.3 | default | qwen-plus-2025-01-25 |
-| 30 | `api.aiskt.com` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus-0919 |
-| 31 | `api.xgapi.top` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
+| 26 | `ai-model.chinaz.net` | ¥0.8 | $0.109589 / $0.273973 | 7.3 | default | qwen-plus-2025-01-25 |
+| 27 | `api.aiskt.com` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus-0919 |
+| 28 | `api.solov.cc` | ¥0.8 | $0.8 / $8 | 1 | Qwen-通义千问 | qwen-plus |
+| 29 | `api.xgapi.top` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
+| 30 | `azapi.com.cn` | ¥0.8 | $0.8 / $8 | 1 | default | qwen-plus |
+| 31 | `claudecn.ai` | ¥0.8 | $0.8 / $2 | 1 | 国产模型 | qwen-plus |
 | 32 | `coneverse.com` | ¥0.8 | $0.8 / $2 | 1 | qwen-official | qwen-plus |
 | 33 | `infistar.ai` | ¥0.8 | $0.8 / $2 | 1 | qwen-official | qwen-plus |
 | 34 | `keypool.space` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
@@ -51,73 +51,73 @@
 | 39 | `xinsuanai.com` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
 | 40 | `api.laozhang.ai` | ¥0.8 | $0.114286 / $0.285715 | 7 | default | qwen-plus |
 | 41 | `tokensmind.ai` | ¥0.803 | $0.11 / $0.27 | 7.3 | default | qwen-plus |
-| 42 | `api.relayrouter.ai` | ¥0.8062 | $0.12 / $0.36 | 6.718 | Self-Deployed-1 | qwen-plus |
-| 43 | `openlux.zhongzhuan.chat` | ¥0.8062 | $0.12 / $0.36 | 6.718 | Self-Deployed-1 | qwen-plus |
-| 44 | `api.pezayo.com` | ¥0.8342 | $0.11428 / $0.285203 | 7.3 | default | qwen-plus |
-| 45 | `unorouter.net` | ¥0.8343 | $0.114286 / $0.285714 | 7.3 | default | qwen-plus-2025-01-25 |
-| 46 | `www.tokenage.ai` | ¥0.8382 | $0.114827 / $0.287066 | 7.3 | vip | qwen-plus |
-| 47 | `mb.dmxapi.cn` | ¥0.85 | $0.17 / $0.425 | 5 | default | qwen-plus |
-| 48 | `ssvip.dmxapi.com` | ¥0.876 | $0.12 / $0.3 | 7.3 | default | qwen-plus-2025-01-25 |
-| 49 | `api.tidewhisper-ai.xyz` | ¥0.8868 | $0.132 / $0.396 | 6.718 | Self-Deployed-1 | qwen-plus |
-| 50 | `gzxbykj.com` | ¥0.8868 | $0.132 / $0.396 | 6.718 | Self-Deployed-1 | qwen-plus |
+| 42 | `api.pezayo.com` | ¥0.8342 | $0.11428 / $0.285203 | 7.3 | default | qwen-plus |
+| 43 | `www.tokenage.ai` | ¥0.8382 | $0.114827 / $0.287066 | 7.3 | vip | qwen-plus |
+| 44 | `mb.dmxapi.cn` | ¥0.85 | $0.17 / $0.425 | 5 | default | qwen-plus |
+| 45 | `ssvip.dmxapi.com` | ¥0.876 | $0.12 / $0.3 | 7.3 | vip | qwen-plus-2025-01-25 |
+| 46 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwen-plus |
+| 47 | `api.34ku.com` | ¥1.04 | $1.04 / $2.6 | 1 | default | qwen-plus |
+| 48 | `runapi.co` | ¥1.08 | $0.16 / $0.4 | 6.75 | default | qwen-plus |
+| 49 | `api.videocaptioner.cn` | ¥1.209 | $0.18 / $0.54 | 6.718 | Self-Deployed-1 | qwen-plus |
+| 50 | `www.hohoapi.com` | ¥1.248 | $0.416 / $1.04 | 3 | qwen | qwen-plus |
 
-> 另有 92 站未列出。
+> 另有 105 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `or.mux.la` | $0.26 / $0.78 | default | 1 | qwen/qwen-plus |
-| 2 | `poloapi.top` | $0.32 / $3.2 | qwen千问 | 0.8 | qwen-plus-2025-04-28 |
-| 3 | `ai.kalehui.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 4 | `aiapihub.cloud` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 5 | `aiopus.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 6 | `aiyiwei.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 7 | `anyaigc.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 8 | `api-hub.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 9 | `api.aibh.site` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 10 | `api.aicso.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 11 | `api.anthropicricardo.club` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 12 | `api.antmoo.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 13 | `api.apiplus.org` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 14 | `api.bitidea.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 15 | `api.clai.click` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 16 | `api.cloudmist.cloud` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 17 | `api.gpt666claude.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 18 | `api.modelyard.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 19 | `api.mumuverse.space` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 20 | `api.qingyuntop.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 21 | `api.solov.cc` | $0.8 / $8 | Qwen-通义千问 | 1 | qwen-plus |
-| 22 | `api.token173.net` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 23 | `api.vectorengine.ai` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 24 | `api.winfull.cloud-ip.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 25 | `api.wlai.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 26 | `api.xistree.hk` | $0.8 / $2 | default | 1 | qwen-plus |
-| 27 | `api.xueai.me` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 28 | `api.zhiyikeji.cn` | $0.8 / $2 | default | 1 | qwen-plus |
-| 29 | `api.zhongzhuan.chat` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 30 | `api.zhongzhuan.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 31 | `api123.eu.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 32 | `apilink.shop` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 33 | `apipro.maynor1024.live` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 34 | `apistudio.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 35 | `apixin.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 36 | `azapi.com.cn` | $0.8 / $8 | default | 1 | qwen-plus |
-| 37 | `dawnnode.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 38 | `fluxapi.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 39 | `juapi.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 40 | `juhe.34ku.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 41 | `lemonapi.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 42 | `linxingran.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 43 | `minitoken.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 44 | `new.xhuoai.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 45 | `next.aigc2d.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 46 | `one.chatshare.one` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 47 | `qianfufu.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 48 | `ruishiglobal.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
-| 49 | `s.qweapi.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
-| 50 | `solidapi.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 1 | `aiapihub.cloud` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 2 | `aiyiwei.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 3 | `anyaigc.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 4 | `api-hub.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 5 | `api.aibh.site` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 6 | `api.aicso.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 7 | `api.antmoo.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 8 | `api.apiplus.org` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 9 | `api.bitidea.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 10 | `api.clai.click` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 11 | `api.cloudmist.cloud` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 12 | `api.gpt666claude.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 13 | `api.mumuverse.space` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 14 | `api.qingyuntop.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 15 | `api.token173.net` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 16 | `api.vectorengine.ai` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 17 | `api.winfull.cloud-ip.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 18 | `api.wlai.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 19 | `api.xueai.me` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 20 | `api.zhiyikeji.cn` | $0.8 / $2 | default | 1 | qwen-plus |
+| 21 | `api.zhongzhuan.chat` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 22 | `api.zhongzhuan.vip` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 23 | `api123.eu.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 24 | `apilink.shop` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 25 | `apixin.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 26 | `juapi.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 27 | `juhe.34ku.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 28 | `lemonapi.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 29 | `linxingran.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 30 | `minitoken.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 31 | `new.xhuoai.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 32 | `next.aigc2d.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 33 | `one.chatshare.one` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 34 | `qianfufu.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 35 | `ruishiglobal.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 36 | `s.qweapi.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 37 | `solidapi.cc` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 38 | `sparkapi.cn` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 39 | `startapi.top` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 40 | `uouo.fun` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 41 | `vipapi.online` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 42 | `www.aifast.club` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 43 | `www.aigeek.life` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 44 | `www.shiyunapi.net` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 45 | `xiaohumini.site` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 46 | `xinyuanai666.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 47 | `yansd666.com` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 48 | `yuli.host` | $0.8 / $2 | default | 1 | qwen-plus-2025-04-28 |
+| 49 | `yunai.chat` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
+| 50 | `yunshu.hk` | $0.8 / $2 | default | 1 | qwen-plus-2025-12-01 |
 
-> 另有 22 站未列出。
+> 另有 3 站未列出。
 
-> 29 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

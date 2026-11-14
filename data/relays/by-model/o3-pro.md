@@ -1,6 +1,6 @@
 # o3-pro
 
-> 271 站提供 · 正常价 167 站 · 名义中位价 **$20**/1M 输入 · 实付中位价 **¥20**/1M 输入（141 站公开充值价） · 推算，未对账
+> 199 站提供 · 正常价 116 站 · 名义中位价 **$20**/1M 输入 · 实付中位价 **¥40**/1M 输入（99 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,88 +10,79 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `daoxe.com` | ¥3.09 | $3 / $12 | 1.03 | codex | o3-pro |
-| 2 | `api.antmoo.cc` | ¥6.799 | $1.012 / $4.048 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 3 | `v2.cloudmist.cloud` | ¥6.799 | $1.012 / $4.048 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 4 | `www.vectronode.com` | ¥7.094 | $1.056 / $4.224 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 5 | `apiclaw.cn` | ¥7.153 | $1.0648 / $4.2592 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 6 | `newapi.xueai.me` | ¥7.153 | $1.0648 / $4.2592 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 7 | `wodapis.com` | ¥7.153 | $1.0648 / $4.2592 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 8 | `ciyuan.today` | ¥7.39 | $1.1 / $4.4 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 9 | `gptapi.top` | ¥7.39 | $1.1 / $4.4 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 10 | `makerend.com` | ¥7.39 | $1.1 / $4.4 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 11 | `moliapi.com` | ¥7.449 | $1.1088 / $4.4352 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 12 | `ai-api.cc` | ¥7.685 | $1.144 / $4.576 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 13 | `nodapi.com` | ¥7.804 | $1.1616 / $4.6464 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 14 | `anyaigc.ai` | ¥7.981 | $1.188 / $4.752 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 15 | `sheepaiplus.top` | ¥8.277 | $1.232 / $4.928 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 16 | `xiguapi.icu` | ¥8.277 | $1.232 / $4.928 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 17 | `api.88api.chat` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 18 | `api.88api.shop` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 19 | `api.videocaptioner.cn` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 20 | `lanbuff.app` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 21 | `new.aigc2d.com` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 22 | `oyy-ai.xyz` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 23 | `infai.cc` | ¥9.341 | $1.3904 / $5.5616 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 24 | `big.sbgpt.site` | ¥9.6 | $9.6 / $38.4 | 1 | az-0.4 | o3-pro |
-| 25 | `go.sbgpt.site` | ¥9.6 | $9.6 / $38.4 | 1 | 无审核az-0.38 | o3-pro |
-| 26 | `api.nixapi.com` | ¥9.991 | $1.4872 / $5.9488 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 27 | `api.zyai.online` | ¥10 | $10 / $40 | 1 | mini | o3-pro |
-| 28 | `newapi.link` | ¥10 | $10 / $40 | 1 | default | o3-pro |
-| 29 | `aiwuje.com` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 30 | `api.cursorai.art` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 31 | `api.echoflowai.cc` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 32 | `api.n1n.ai` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 33 | `api.quickrouter.ai` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 34 | `jeniya.cn` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 35 | `linoapi.com` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 36 | `linoroute.com` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 37 | `llm-api.net` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 38 | `quanzil.com` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 39 | `token173.net` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 40 | `tryallapi.com` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 41 | `wellapi.ai` | ¥11.82 | $1.76 / $7.04 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 42 | `thousandengine.com` | ¥12.03 | $1.7908 / $7.1632 | 6.718 | Azure-Gpt-1 | o3-pro |
-| 43 | `rockapi.ai` | ¥14 | $14 / $56 | 1 | 0.7x | o3-pro |
-| 44 | `learn-ai.top` | ¥15 | $15 / $60 | 1 | openai | o3-pro |
-| 45 | `cn.gptapi.asia` | ¥16 | $16 / $64 | 1 | default | o3-pro |
-| 46 | `kfcv50.link` | ¥16 | $16 / $64 | 1 | pure_az | o3-pro-2025-06-10 |
-| 47 | `yutoapi.com` | ¥16 | $16 / $64 | 1 | default | o3-pro |
-| 48 | `cnapi.kksj.org` | ¥18 | $18 / $72 | 1 | default | o3-pro |
-| 49 | `layso.ai` | ¥19.5 | $19.5 / $78 | 1 | Azure-Gpt-1 | o3-pro |
-| 50 | `laysoai.com` | ¥19.5 | $19.5 / $78 | 1 | Azure-Gpt-1 | o3-pro |
+| 1 | `new.yunai.link` | ¥3 | $3 / $12 | 1 | azure03-0 | o3-pro-2025-06-10 |
+| 2 | `api.videocaptioner.cn` | ¥8.868 | $1.32 / $5.28 | 6.718 | Azure-Gpt-1 | o3-pro |
+| 3 | `big.sbgpt.site` | ¥9.6 | $9.6 / $38.4 | 1 | az-0.4 | o3-pro |
+| 4 | `go.sbgpt.site` | ¥9.6 | $9.6 / $38.4 | 1 | az-3 | o3-pro |
+| 5 | `api.zyai.online` | ¥10 | $10 / $40 | 1 | mini | o3-pro |
+| 6 | `newapi.link` | ¥10 | $10 / $40 | 1 | default | o3-pro |
+| 7 | `azapi.com.cn` | ¥12 | $12 / $48 | 1 | Azure | o3-pro |
+| 8 | `learn-ai.top` | ¥15 | $15 / $60 | 1 | openai | o3-pro |
+| 9 | `cn.gptapi.asia` | ¥16 | $16 / $64 | 1 | default | o3-pro |
+| 10 | `kfcv50.link` | ¥16 | $16 / $64 | 1 | pure_az | o3-pro-2025-06-10 |
+| 11 | `yutoapi.com` | ¥16 | $16 / $64 | 1 | default | o3-pro |
+| 12 | `cnapi.kksj.org` | ¥18 | $18 / $72 | 1 | default | o3-pro |
+| 13 | `layso.ai` | ¥19.5 | $19.5 / $78 | 1 | Azure-Gpt-1 | o3-pro |
+| 14 | `ai.soruxgpt.com` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 15 | `api.aiskt.com` | ¥20 | $20 / $80 | 1 | azure1 | o3-pro |
+| 16 | `api.bltcy.ai` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 17 | `api.eido.top` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 18 | `api.routeeasy.ai` | ¥20 | $20 / $80 | 1 | default | o3-pro-2025-06-10 |
+| 19 | `api.viviai.cc` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 20 | `api.yourapi.cn` | ¥20 | $20 / $80 | 1 | az-special | o3-pro |
+| 21 | `api.yuboar.com` | ¥20 | $20 / $80 | 1 | AzureOpenAI | o3-pro |
+| 22 | `apilio.ai` | ¥20 | $20 / $80 | 1 | svip | o3-pro |
+| 23 | `deepkey.top` | ¥20 | $20 / $80 | 1 | gpt-azure | o3-pro-all |
+| 24 | `dn.v1api.cc` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 25 | `goapi.gptnb.ai` | ¥20 | $20 / $80 | 1 | Azure | o3-pro |
+| 26 | `gptimgaz.aiearth.dev` | ¥20 | $20 / $80 | 1 | AzureOpenAI | o3-pro |
+| 27 | `gptnb.ai` | ¥20 | $20 / $80 | 1 | Azure | o3-pro |
+| 28 | `keypool.space` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 29 | `n.lconai.com` | ¥20 | $20 / $80 | 1 | B1 | o3-pro |
+| 30 | `new.yihubang.top` | ¥20 | $20 / $80 | 1 | GPT 中转 | o3-pro |
+| 31 | `oneapi.gptnb.ai` | ¥20 | $20 / $80 | 1 | Azure | o3-pro |
+| 32 | `platform.anyrouter.ai` | ¥20 | $20 / $80 | 1 | Azure4 | o3-pro |
+| 33 | `proaiapi.tech` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 34 | `test-ssl.bltcy.ai` | ¥20 | $20 / $80 | 1 | svip | o3-pro |
+| 35 | `xiaoqie.xyz` | ¥20 | $20 / $80 | 1 | OpenRouter官方线路 | openai/o3-pro |
+| 36 | `xinsuanai.com` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 37 | `zen-ai.top` | ¥20 | $20 / $80 | 1 | default | o3-pro |
+| 38 | `ai.comfly.org` | ¥24 | $20 / $80 | 1.2 | svip | o3-pro |
+| 39 | `api.34ku.com` | ¥26 | $26 / $104 | 1 | default | o3-pro |
+| 40 | `ai.t8star.org` | ¥27 | $20 / $80 | 1.35 | svip | o3-pro |
+| 41 | `api.ocoolai.com` | ¥30 | $30 / $120 | 1 | default | o3-pro |
+| 42 | `api.xhuoai.com` | ¥30 | $20 / $80 | 1.5 | default | o3-pro |
+| 43 | `ocool.cn` | ¥30 | $30 / $120 | 1 | default | o3-pro |
+| 44 | `one.ooo.cool` | ¥30 | $30 / $120 | 1 | default | o3-pro |
+| 45 | `xrok.dev` | ¥30 | $30 / $120 | 1 | AZ-GPT-1.3 | o3-pro |
+| 46 | `yun.v1api.cc` | ¥30 | $20 / $80 | 1.5 | default | o3-pro |
+| 47 | `147ai.online` | ¥32 | $40 / $160 | 0.8 | default | o3-pro |
+| 48 | `new.gateway.icu` | ¥37.5 | $37.5 / $150 | 1 | az-L1 | o3-pro-2025-06-10 |
+| 49 | `api.qiqiai.top` | ¥40 | $20 / $80 | 2 | default | o3-pro |
+| 50 | `api.xi-ai.cn` | ¥40 | $40 / $160 | 1 | 优惠模型 | o3-pro |
 
-> 另有 91 站未列出。
+> 另有 49 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.vibe-subsapi.com` | $1 / $4 | ChatGPT 混池 | 0.05 | o3-pro |
-| 2 | `s169.bjhuiqu.net` | $1.2 / $4.8 | pro | 0.06 | o3-pro |
-| 3 | `xinyue.mom` | $1.6 / $6.4 | 不降智焚决【只有astra】 | 0.08 | o3-pro |
-| 4 | `api.clawhud.com` | $2 / $8 | Nvidia | 0.1 | o3-pro |
-| 5 | `api.socode.cc` | $2 / $8 | GPT[Main] | 0.1 | o3-pro |
-| 6 | `new.yunai.link` | $2 / $8 | AzuerPromo | 0.2 | o3-pro |
-| 7 | `ai.mggoo.com` | $2.4 / $9.6 | GPT-20x(尽力低价-不稳就换) | 0.12 | o3-pro |
-| 8 | `mgoole.com` | $2.4 / $9.6 | GPT-20x(尽力低价-不稳就换) | 0.12 | o3-pro |
-| 9 | `test-sub2.sjapi.top` | $3 / $12 | plus | 0.15 | o3-pro |
-| 10 | `saletoken.org` | $4 / $16 | CODEX-pro | 0.2 | o3-pro |
-| 11 | `sub2api.hyl2api.com` | $4 / $16 | GPT  | 0.2 | o3-pro |
-| 12 | `sub2api.simplaj.top` | $4 / $16 | GPT 纯血Pro 余额分组 | 0.2 | o3-pro |
-| 13 | `api.geniuscoder.net` | $5 / $20 | gpt优惠 | 0.25 | o3-pro |
-| 14 | `supersubscribe689.com` | $10 / $40 | chatgpt美区版 | 0.5 | o3-pro |
-| 15 | `azapi.com.cn` | $12 / $48 | Azure | 0.6 | o3-pro |
-| 16 | `ai.comfly.org` | $20 / $80 | svip | 1 | o3-pro |
-| 17 | `api.qhhengxin.top` | $20 / $80 | default | 1 | o3-pro |
-| 18 | `api.xistree.hk` | $20 / $80 | default | 1 | o3-pro |
-| 19 | `api.zhiyikeji.cn` | $20 / $80 | default | 1 | o3-pro |
-| 20 | `expapi.echoflowai.cc` | $20 / $80 | OpenAI-Pro渠道 | 1 | o3-pro |
-| 21 | `lobe.zen-ai.top` | $20 / $80 | momo | 1 | o3-pro |
-| 22 | `or.mux.la` | $20 / $80 | default | 1 | openai/o3-pro |
-| 23 | `api.zhimigy.cn` | $32 / $128 | pro | 1.6 | o3-pro |
-| 24 | `api.akko.space` | $50 / $200 | Codex Azure | 2.5 | o3-pro |
-| 25 | `vip.zen-ai.top` | $60 / $240 | default | 3 | o3-pro |
-| 26 | `sub.hongyun.chat` | $150 / $600 | gpt | 7.5 | o3-pro |
+| 1 | `s169.bjhuiqu.net` | $1.2 / $4.8 | pro | 0.06 | o3-pro |
+| 2 | `api.clawhud.com` | $2 / $8 | Nvidia | 0.1 | o3-pro |
+| 3 | `api.socode.cc` | $2 / $8 | GPT[Main] | 0.1 | o3-pro |
+| 4 | `test-sub2.sjapi.top` | $3 / $12 | plus | 0.15 | o3-pro |
+| 5 | `saletoken.org` | $4 / $16 | CODEX-pro | 0.2 | o3-pro |
+| 6 | `sub2api.hyl2api.com` | $4 / $16 | GPT  | 0.2 | o3-pro |
+| 7 | `api.geniuscoder.net` | $5 / $20 | gpt优惠 | 0.25 | o3-pro |
+| 8 | `supersubscribe689.com` | $10 / $40 | chatgpt美区版 | 0.5 | o3-pro |
+| 9 | `momoai.asia` | $16 / $64 | codex余额分组 | 0.8 | o3-pro |
+| 10 | `api.zhiyikeji.cn` | $20 / $80 | default | 1 | o3-pro |
+| 11 | `lobe.zen-ai.top` | $20 / $80 | momo | 1 | o3-pro |
+| 12 | `fugui.im` | $28 / $112 | 【官渠】AZ-GPT-满血官渠 | 1.4 | o3-pro |
+| 13 | `api.zhimigy.cn` | $32 / $128 | pro | 1.6 | o3-pro |
+| 14 | `api.akko.space` | $50 / $200 | Codex Azure | 2.5 | o3-pro |
+| 15 | `vip.zen-ai.top` | $60 / $240 | default | 3 | o3-pro |
+| 16 | `sub.hongyun.chat` | $150 / $600 | gpt | 7.5 | o3-pro |
+| 17 | `meta-api.vip` | $660 / $2640 | 企业级 | 1 | o3-pro |
 
-> 104 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 83 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

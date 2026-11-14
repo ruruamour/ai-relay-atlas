@@ -1,6 +1,6 @@
 # muse-glimmer-30b
 
-> 35 站提供 · 正常价 12 站 · 名义中位价 **$0.480769**/1M 输入 · 实付中位价 **¥2.595**/1M 输入（10 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 12 站 · 名义中位价 **$0.375**/1M 输入 · 实付中位价 **¥2.095**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,21 +11,16 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $0.6 | 1 | relay | meta/muse-glimmer-30b |
-| 2 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | meta/muse-glimmer-30b |
-| 3 | `api.pie-xian.com` | ¥0.73 | $0.1 / $0.3 | 7.3 | 无限制 | muse-glimmer-30b |
-| 4 | `ai.bytonsec.com` | ¥1.8 | $1.8 / $6.6 | 1 | OpenRouter | meta/muse-glimmer-30b |
-| 5 | `newapi.gancmcs.top` | ¥2.19 | $0.3 / $1.1 | 7.3 | 英伟达 | meta/muse-glimmer-30b |
-| 6 | `elysia.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | nvidia/muse-glimmer-30b(fingerprint≈k17) |
-| 7 | `elysiver.h-e.top` | ¥3 | $0.6 / $2.4 | 5 | unattended-jungling | nvidia/muse-glimmer-30b(fingerprint≈k17) |
-| 8 | `ai.mowen.vip` | ¥3.345 | $0.5 / $1 | 6.6892 | default | muse-glimmer-30b |
-| 9 | `api.tacklekey.com` | ¥3.369 | $0.461538 / $1.84615 | 7.3 | default | meta/muse-glimmer-30b |
-| 10 | `api.wapq.cn` | ¥36.5 | $5 / $5 | 7.3 | default | muse-glimmer-30b |
-
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `or.mux.la` | $0.35 / $1.5 | default | 1 | meta/muse-glimmer-30b |
-| 2 | `api.luoqianyi.qzz.io` | $3 / $3 | default | 1 | meta/muse-glimmer-30b |
+| 2 | `xiaoqie.xyz` | ¥0.3 | $0.3 / $1.2 | 1 | OpenRouter官方线路 | meta/muse-glimmer-30b |
+| 3 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | meta/muse-glimmer-30b |
+| 4 | `api.pie-xian.com` | ¥0.73 | $0.1 / $0.3 | 7.3 | 无限制 | muse-glimmer-30b |
+| 5 | `api.luoqianyi.qzz.io` | ¥1.5 | $3 / $3 | 0.5 | default | meta/muse-glimmer-30b |
+| 6 | `newapi.prorisehub.com` | ¥2 | $2 / $2 | 1 | default | meta/muse-glimmer-30b |
+| 7 | `newapi.gancmcs.top` | ¥2.19 | $0.3 / $1.2 | 7.3 | 默认全模型 | meta/muse-glimmer-30b |
+| 8 | `mayi-eur.llmport.io` | ¥2.555 | $0.35 / $1.49999 | 7.3 | OpenRouter | muse-glimmer-30b |
+| 9 | `or.mux.la` | ¥2.555 | $0.35 / $1.5 | 7.3 | default | meta/muse-glimmer-30b |
+| 10 | `ai.mowen.vip` | ¥3.342 | $0.5 / $1 | 6.68494 | default | muse-glimmer-30b |
+| 11 | `api.tacklekey.com` | ¥3.369 | $0.461538 / $1.84615 | 7.3 | default | meta/muse-glimmer-30b |
+| 12 | `api.wapq.cn` | ¥36.5 | $5 / $5 | 7.3 | default | muse-glimmer-30b |
 
 > 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

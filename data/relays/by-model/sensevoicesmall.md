@@ -1,6 +1,6 @@
 # sensevoicesmall
 
-> 21 站提供 · 正常价 6 站 · 名义中位价 **$48**/1M 输入 · 实付中位价 **¥95**/1M 输入（5 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 4 站 · 名义中位价 **$0.575**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,15 +11,8 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.09 | $0.09 / $0.09 | 1 | SiliconFlow | FunAudioLLM/SenseVoiceSmall |
-| 2 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | SenseVoiceSmall |
-| 3 | `api.ocoolai.com` | ¥95 | $95 / $95 | 1 | cn | SenseVoiceSmall |
-| 4 | `ocool.cn` | ¥95 | $95 / $95 | 1 | cn | SenseVoiceSmall |
-| 5 | `one.ooo.cool` | ¥95 | $95 / $95 | 1 | cn | SenseVoiceSmall |
+| 2 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | FunAudioLLM/SenseVoiceSmall |
+| 3 | `starapi.fun` | ¥0.5 | $0.5 / $0.5 | 1 | default | FunAudioLLM/SenseVoiceSmall |
+| 4 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | SenseVoiceSmall |
 
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `api.luoqianyi.qzz.io` | $1 / $1 | default | 1 | FunAudioLLM/SenseVoiceSmall |
-
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

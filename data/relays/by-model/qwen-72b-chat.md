@@ -1,6 +1,6 @@
 # qwen-72b-chat
 
-> 27 站提供 · 正常价 15 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.857**/1M 输入（15 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 13 站 · 名义中位价 **$1.71432**/1M 输入 · 实付中位价 **¥2.857**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,20 +10,18 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-72b-chat |
-| 2 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-72b-chat |
-| 3 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen-72b-chat |
-| 4 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-72b-chat |
-| 5 | `aws.baby` | ¥2.857 | $2.85714 / $2.85714 | 1 | 阿里云百炼大客户 | qwen-72b-chat |
-| 6 | `biezou.com` | ¥2.857 | $2.85714 / $2.85714 | 1 | 阿里云百炼大客户 | qwen-72b-chat |
-| 7 | `api.aiskt.com` | ¥2.857 | $2.8572 / $4.0818 | 1 | default | qwen-72b-chat |
-| 8 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen-72b-chat |
-| 9 | `kfcv50.link` | ¥2.857 | $2.8572 / $2.8572 | 1 | Domestic | qwen-72b-chat |
-| 10 | `gpt777.top` | ¥4.32 | $4.32 / $12.96 | 1 | opensource | qwen-72b-chat |
-| 11 | `api.ifopen.ai` | ¥4.914 | $1.404 / $4.212 | 3.5 | 通用大模型 | qwen-72b-chat |
-| 12 | `api2.aigcbest.top` | ¥4.914 | $1.404 / $4.212 | 3.5 | 通用大模型 | qwen-72b-chat |
-| 13 | `hy88.my` | ¥12.51 | $1.71432 / $8.5716 | 7.3 | qwen | qwen-72b-chat |
-| 14 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-72b-chat |
-| 15 | `unorouter.net` | ¥20.86 | $2.85714 / $2.85714 | 7.3 | default | qwen-72b-chat |
+| 1 | `ai.mowen.vip` | ¥0.9693 | $0.145 / $0.58 | 6.68494 | default | qwen-72b-chat |
+| 2 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-72b-chat |
+| 3 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen-72b-chat |
+| 4 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen-72b-chat |
+| 5 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-72b-chat |
+| 6 | `api.aiskt.com` | ¥2.857 | $2.8572 / $4.0818 | 1 | default | qwen-72b-chat |
+| 7 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen-72b-chat |
+| 8 | `kfcv50.link` | ¥2.857 | $2.8572 / $2.8572 | 1 | Domestic | qwen-72b-chat |
+| 9 | `gpt777.top` | ¥4.32 | $4.32 / $12.96 | 1 | opensource | qwen-72b-chat |
+| 10 | `api.ifopen.ai` | ¥4.914 | $1.404 / $4.212 | 3.5 | 通用大模型 | qwen-72b-chat |
+| 11 | `api2.aigcbest.top` | ¥4.914 | $1.404 / $4.212 | 3.5 | 通用大模型 | qwen-72b-chat |
+| 12 | `hy88.my` | ¥12.51 | $1.71432 / $8.5716 | 7.3 | qwen | qwen-72b-chat |
+| 13 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-72b-chat |
 
 > 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

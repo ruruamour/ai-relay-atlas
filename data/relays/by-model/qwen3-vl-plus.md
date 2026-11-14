@@ -1,6 +1,6 @@
 # qwen3-vl-plus
 
-> 221 站提供 · 正常价 117 站 · 名义中位价 **$0.20548**/1M 输入 · 实付中位价 **¥0.8468**/1M 输入（110 站公开充值价） · 推算，未对账
+> 210 站提供 · 正常价 127 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1**/1M 输入（122 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,58 +10,58 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `test.yibuapi.com` | ¥0.0876 | $0.0584 / $0.0584 | 1.5 | default | qwen3-vl-plus |
-| 2 | `tokenflowsolution.com` | ¥0.1096 | $0.10962 / $1.0962 | 1 | 国模通用 | qwen3-vl-plus |
-| 3 | `api.relayrouter.ai` | ¥0.4031 | $0.06 / $0.48 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 4 | `openlux.zhongzhuan.chat` | ¥0.4031 | $0.06 / $0.48 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 5 | `api.tidewhisper-ai.xyz` | ¥0.4434 | $0.066 / $0.528 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 6 | `gzxbykj.com` | ¥0.4434 | $0.066 / $0.528 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 7 | `yunwu.org` | ¥0.4434 | $0.066 / $0.528 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 8 | `v2.cloudmist.cloud` | ¥0.4635 | $0.069 / $0.552 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 9 | `www.vectronode.com` | ¥0.4837 | $0.072 / $0.576 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 10 | `apiclaw.cn` | ¥0.4877 | $0.0726 / $0.5808 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 11 | `newapi.xueai.me` | ¥0.4877 | $0.0726 / $0.5808 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 12 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.0747473 | 6.6892 | default | qwen3-vl-plus |
-| 13 | `ciyuan.today` | ¥0.5039 | $0.075 / $0.6 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 14 | `gptapi.top` | ¥0.5039 | $0.075 / $0.6 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 15 | `makerend.com` | ¥0.5039 | $0.075 / $0.6 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 16 | `moliapi.com` | ¥0.5079 | $0.0756 / $0.6048 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 17 | `llm.kagu.one` | ¥0.5219 | $0.0715 / $0.717 | 7.3 | 大杂烩 | qwen/qwen3-vl-plus |
-| 18 | `ai-api.cc` | ¥0.524 | $0.078 / $0.624 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 19 | `nodapi.com` | ¥0.5321 | $0.0792 / $0.6336 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 20 | `anyaigc.ai` | ¥0.5442 | $0.081 / $0.648 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 21 | `sheepaiplus.top` | ¥0.5643 | $0.084 / $0.672 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 22 | `xiguapi.icu` | ¥0.5643 | $0.084 / $0.672 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 23 | `proaiapi.tech` | ¥0.6 | $0.6 / $6 | 1 | default | qwen3-vl-plus |
-| 24 | `api.camel-hub.cn` | ¥0.6 | $0.75 / $7.5 | 0.8 | default | qwen3-vl-plus |
-| 25 | `api.camel-hub.com` | ¥0.6 | $0.75 / $7.5 | 0.8 | default | qwen3-vl-plus |
-| 26 | `api.kr777.top` | ¥0.6 | $0.75 / $7.5 | 0.8 | default | qwen3-vl-plus |
-| 27 | `api.88api.chat` | ¥0.6046 | $0.09 / $0.72 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 28 | `api.videocaptioner.cn` | ¥0.6046 | $0.09 / $0.72 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 29 | `new.aigc2d.com` | ¥0.6046 | $0.09 / $0.72 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 30 | `oyy-ai.xyz` | ¥0.6046 | $0.09 / $0.72 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 31 | `api.openlux.ai` | ¥0.6718 | $0.1 / $0.8 | 6.718 | Alibaba-1 | qwen3-vl-plus |
-| 32 | `api.nixapi.com` | ¥0.6812 | $0.1014 / $0.8112 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 33 | `deeptranx.apiqik.com` | ¥0.6875 | $0.6875 / $6.875 | 1 | default | qwen3-vl-plus |
-| 34 | `hboom.ai` | ¥0.7 | $0.102941 / $1.02941 | 6.8 | Ali-Top | qwen3-vl-plus |
-| 35 | `hk.hbapis.com` | ¥0.7 | $0.102941 / $1.02941 | 6.8 | Ali-Top | qwen3-vl-plus |
-| 36 | `api.xgapi.top` | ¥0.7 | $0.7 / $7 | 1 | default | qwen3-vl-plus |
-| 37 | `4zapi.com` | ¥0.739 | $0.11 / $0.88 | 6.718 | Alibaba-1 | qwen3-vl-plus |
-| 38 | `api.zyai.online` | ¥0.75 | $0.75 / $7.5 | 1 | mini | qwen3-vl-plus |
-| 39 | `runapi.co` | ¥0.7714 | $0.114284 / $1.14284 | 6.75 | default | qwen3-vl-plus |
-| 40 | `api.antmoo.cc` | ¥0.7726 | $0.115 / $0.92 | 6.718 | Alibaba-1 | qwen3-vl-plus |
-| 41 | `api.lingyaai.cn` | ¥0.79 | $0.79 / $7.9 | 1 | 国产普惠·源力计划 | qwen3-vl-plus |
-| 42 | `beeroute.ai` | ¥0.79 | $0.79 / $7.9 | 1 | CN-Model-Special​ | qwen3-vl-plus |
-| 43 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.79 | $0.79 / $7.9 | 1 | CN-Model-Special​ | qwen3-vl-plus |
-| 44 | `aiwuje.com` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 45 | `api.echoflowai.cc` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 46 | `api.n1n.ai` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 47 | `api.quickrouter.ai` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 48 | `linoapi.com` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 49 | `llm-api.net` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
-| 50 | `quanzil.com` | ¥0.8062 | $0.12 / $0.96 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
+| 1 | `newapi.prorisehub.com` | ¥0.07168 | $0.071677 / $0.716767 | 1 | 海外国产编程模 | qwen3-vl-plus |
+| 2 | `test.yibuapi.com` | ¥0.0876 | $0.0584 / $0.0584 | 1.5 | default | qwen3-vl-plus |
+| 3 | `tokenflowsolution.com` | ¥0.1096 | $0.10962 / $1.0962 | 1 | 国模通用 | qwen3-vl-plus |
+| 4 | `wzw.pp.ua` | ¥0.2 | $0.2 / $1.6 | 1 | default | qwen3-vl-plus |
+| 5 | `llm.kagu.one` | ¥0.5219 | $0.0715 / $0.717 | 7.3 | 大杂烩 | qwen/qwen3-vl-plus |
+| 6 | `aifast.site` | ¥0.6 | $0.6 / $6 | 1 | 国产文本 | qwen3-vl-plus |
+| 7 | `proaiapi.tech` | ¥0.6 | $0.6 / $6 | 1 | default | qwen3-vl-plus |
+| 8 | `api.camel-hub.cn` | ¥0.6 | $0.75 / $7.5 | 0.8 | default | qwen3-vl-plus |
+| 9 | `api.camel-hub.com` | ¥0.6 | $0.75 / $7.5 | 0.8 | default | qwen3-vl-plus |
+| 10 | `api.kr777.top` | ¥0.6 | $0.75 / $7.5 | 0.8 | default | qwen3-vl-plus |
+| 11 | `api.videocaptioner.cn` | ¥0.6046 | $0.09 / $0.72 | 6.718 | Self-Deployed-1 | qwen3-vl-plus |
+| 12 | `api.openlux.ai` | ¥0.6689 | $0.1 / $0.8 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 13 | `api.relayrouter.ai` | ¥0.6689 | $0.1 / $0.8 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 14 | `openlux.zhongzhuan.chat` | ¥0.6689 | $0.1 / $0.8 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 15 | `deeptranx.apiqik.com` | ¥0.6875 | $0.6875 / $6.875 | 1 | default | qwen3-vl-plus |
+| 16 | `hboom.ai` | ¥0.7 | $0.102941 / $1.02941 | 6.8 | Ali-Top | qwen3-vl-plus |
+| 17 | `hk.hbapis.com` | ¥0.7 | $0.102941 / $1.02941 | 6.8 | Ali-Top | qwen3-vl-plus |
+| 18 | `api.xgapi.top` | ¥0.7 | $0.7 / $7 | 1 | default | qwen3-vl-plus |
+| 19 | `4zapi.com` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 20 | `ai.kalehui.cn` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 21 | `aiopus.top` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 22 | `aipipe.site` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 23 | `api.anthropicricardo.club` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 24 | `api.modelyard.cc` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 25 | `api.tidewhisper-ai.xyz` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 26 | `apistudio.vip` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 27 | `dawnnode.com` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 28 | `gzxbykj.com` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 29 | `tiantoken.cn` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 30 | `token.kkdmx.com` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 31 | `vortexapi.cn` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 32 | `www.vectronode.com` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 33 | `www.xiaoruiera.top` | ¥0.7358 | $0.11 / $0.88 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 34 | `yunwu.org` | ¥0.7492 | $0.112 / $0.896 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 35 | `api.zyai.online` | ¥0.75 | $0.75 / $7.5 | 1 | mini | qwen3-vl-plus |
+| 36 | `api.antmoo.cc` | ¥0.7693 | $0.115 / $0.92 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 37 | `v2.cloudmist.cloud` | ¥0.7693 | $0.115 / $0.92 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 38 | `runapi.co` | ¥0.7714 | $0.114284 / $1.14284 | 6.75 | default | qwen3-vl-plus |
+| 39 | `api.lingyaai.cn` | ¥0.79 | $0.79 / $7.9 | 1 | 国产普惠·源力计划 | qwen3-vl-plus |
+| 40 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.79 | $0.79 / $7.9 | 1 | CN-Model-Special​ | qwen3-vl-plus |
+| 41 | `apiclaw.cn` | ¥0.8094 | $0.121 / $0.968 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 42 | `ciyuan.today` | ¥0.8362 | $0.125 / $1 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 43 | `gptapi.top` | ¥0.8362 | $0.125 / $1 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 44 | `makerend.com` | ¥0.8362 | $0.125 / $1 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 45 | `moliapi.com` | ¥0.8429 | $0.126 / $1.008 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 46 | `ai-api.cc` | ¥0.8696 | $0.13 / $1.04 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 47 | `infai.cc` | ¥0.8696 | $0.13 / $1.04 | 6.68934 | Self-Deployed-2 | qwen3-vl-plus |
+| 48 | `sucloud.vip` | ¥0.8696 | $0.13 / $1.04 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 49 | `newapi.xueai.me` | ¥0.883 | $0.132 / $1.056 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
+| 50 | `nodapi.com` | ¥0.883 | $0.132 / $1.056 | 6.68934 | Alibaba-1 | qwen3-vl-plus |
 
-> 另有 60 站未列出。
+> 另有 72 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -71,8 +71,6 @@
 | 2 | `tokenshengsheng.com` | $0.6 / $6 | 国产模型Plus | 0.6 | qwen3-vl-plus |
 | 3 | `api.jucode.cn` | $0.95 / $9.5 | 国产模型 · 官方 | 0.95 | qwen3-vl-plus |
 | 4 | `api.zhiyikeji.cn` | $1 / $10 | default | 1 | qwen3-vl-plus |
-| 5 | `api.xistree.hk` | $1.5 / $15 | default | 1 | qwen3-vl-plus |
-| 6 | `azapi.com.cn` | $1.5 / $15 | default | 1 | qwen3-vl-plus |
-| 7 | `happyapi.org` | $1.5 / $15 | default | 1 | qwen3-vl-plus-think |
+| 5 | `happyapi.org` | $1.5 / $15 | default | 1 | qwen3-vl-plus-think |
 
-> 104 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 83 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

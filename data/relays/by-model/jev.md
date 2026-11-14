@@ -1,6 +1,6 @@
 # jev
 
-> 64 站提供 · 正常价 30 站 · 名义中位价 **$0.126**/1M 输入 · 实付中位价 **¥0.2877**/1M 输入（22 站公开充值价） · 推算，未对账
+> 61 站提供 · 正常价 27 站 · 名义中位价 **$0.126**/1M 输入 · 实付中位价 **¥0.3066**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,40 +10,37 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `apijing.com` | ¥0.025 | $0.025 / $0.025 | 1 | jev | jev-latest |
-| 2 | `ai.centos.hk` | ¥0.0252 | $0.0252 / $0 | 1 | TypeSafe | jev-latest |
-| 3 | `api.nuwarouter.com` | ¥0.042 | $0.042 / $0 | 1 | TypeSafe-Jev模型 | jev-latest |
-| 4 | `slb-v1.api.fan` | ¥0.126 | $0.126 / $0 | 1 | typesafe-officially | jev-latest |
-| 5 | `www.packyapi.com` | ¥0.126 | $0.126 / $0 | 1 | typesafe-officially | jev-latest |
-| 6 | `windhub.cc` | ¥0.1306 | $0.042 / $0 | 3.11 | default | jev-latest |
-| 7 | `beehears.com` | ¥0.168 | $0.168 / $0 | 1 | ⁉️ TypeSafe-Jev | jev-latest |
-| 8 | `images.beehears.com` | ¥0.168 | $0.168 / $0 | 1 | ⁉️ TypeSafe-Jev | jev-latest |
-| 9 | `ucenter.beehears.com` | ¥0.168 | $0.168 / $0 | 1 | ⁉️ TypeSafe-Jev | jev-latest |
-| 10 | `modelsell.com` | ¥0.2856 | $0.042 / $0 | 6.8 | official | typesafe/jev |
-| 11 | `www.rsiai.net` | ¥0.2856 | $0.042 / $0 | 6.8 | jev | jev-latest |
-| 12 | `apicdn.xyc.ai` | ¥0.2898 | $0.042 / $0 | 6.9 | typesafe-ent | jev-latest |
-| 13 | `apicdn.xycai.us` | ¥0.2898 | $0.042 / $0 | 6.9 | typesafe-ent | jev-latest |
-| 14 | `apimaster.ai` | ¥0.3087 | $0.0441 / $0 | 7 | default | jev-latest |
-| 15 | `yibuapi.com` | ¥0.3969 | $0.2646 / $0 | 1.5 | default | jev-latest |
-| 16 | `api.new.bi` | ¥0.4881 | $0.4881 / $0 | 1 | default | jev-latest |
-| 17 | `zzapi.maolaoapi.com` | ¥0.515 | $0.5 / $0 | 1.03 | 383 | typesafe/jev |
-| 18 | `tako.shiroha.tech` | ¥0.6132 | $0.084 / $0 | 7.3 | pro-x2 | jev-latest |
-| 19 | `us1.beehears.com` | ¥1.226 | $0.168 / $0 | 7.3 | ⁉️ TypeSafe-Jev | jev-latest |
-| 20 | `api.camel-hub.com` | ¥1.6 | $2 / $0 | 0.8 | default | jev-latest |
-| 21 | `jqh3vzff.dataeyes.ai` | ¥7.3 | $1 / $1 | 7.3 | default | jev-latest |
-| 22 | `test.yibuapi.com` | ¥30 | $20 / $20 | 1.5 | default | jev-latest |
+| 1 | `cgapi.top` | ¥0.042 | $0.042 / $0.042 | 1 | Jev-官key | jev-latest |
+| 2 | `api.everyapi.ai` | ¥0.07665 | $0.0105 / $0 | 7.3 | grp_M3K-NEhOUc | jev-latest |
+| 3 | `slb-v1.api.fan` | ¥0.126 | $0.126 / $0 | 1 | typesafe-officially | jev-latest |
+| 4 | `api.nuwarouter.com` | ¥0.2814 | $0.042 / $0 | 6.7 | TypeSafe-Jev模型 | jev-latest |
+| 5 | `modelsell.com` | ¥0.2856 | $0.042 / $0 | 6.8 | official | typesafe/jev |
+| 6 | `www.rsiai.net` | ¥0.2856 | $0.042 / $0 | 6.8 | jev | jev-latest |
+| 7 | `apicdn.xyc.ai` | ¥0.2898 | $0.042 / $0 | 6.9 | typesafe-ent | jev-latest |
+| 8 | `apicdn.xycai.us` | ¥0.2898 | $0.042 / $0 | 6.9 | typesafe-ent | jev-latest |
+| 9 | `api.zyai.online` | ¥0.294 | $0.294 / $0.294 | 1 | default | jev-latest |
+| 10 | `api.opengw.com` | ¥0.3066 | $0.042 / $0.042 | 7.3 | default | jev-latest |
+| 11 | `apimaster.ai` | ¥0.3087 | $0.0441 / $0 | 7 | default | jev-latest |
+| 12 | `yibuapi.com` | ¥0.3969 | $0.2646 / $0 | 1.5 | default | jev-latest |
+| 13 | `zzapi.maolaoapi.com` | ¥0.515 | $0.5 / $0 | 1.03 | 383 | typesafe/jev |
+| 14 | `api.new.bi` | ¥0.5881 | $0.5881 / $0 | 1 | default | jev-latest |
+| 15 | `tako.shiroha.tech` | ¥0.6132 | $0.084 / $0 | 7.3 | mini | jev-latest |
+| 16 | `api.aimodelserver.com` | ¥1.432 | $0.21 / $0.21 | 6.82 | typesafe | jev-latest |
+| 17 | `nxaiapp.com` | ¥1.502 | $0.2058 / $0 | 7.3 | jev | jev-latest |
+| 18 | `jqh3vzff.dataeyes.ai` | ¥7.3 | $1 / $1 | 7.3 | default | jev-latest |
+| 19 | `test.yibuapi.com` | ¥30 | $20 / $20 | 1.5 | default | jev-latest |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `ai.duckduckport.top` | $0.0084 / $0 | Jev | 0.2 | jev-latest |
-| 2 | `xindu.xyz` | $0.021 / $0 | jev专属 | 0.5 | jev-latest |
-| 3 | `bob-api.com` | $0.126 / $0.126 | 国产Token计划 | 3 | jev-latest |
-| 4 | `www.taijiai.online` | $0.126 / $0.126 | 国产Token计划 | 3 | jev-latest |
-| 5 | `ai.aiaimark.com` | $0.147 / $0 | Typesafe-Jev官方渠道 | 3.5 | jev-latest |
-| 6 | `api.asdfas.party` | $0.16884 / - | jev -现在用不了，等维护。 | 0.6 | jev |
-| 7 | `api.999555999.com` | $0.294 / $0 | TypeSafe | 1 | jev-latest |
+| 1 | `xindu.xyz` | $0.021 / $0 | jev专属 | 0.5 | jev-latest |
+| 2 | `levelup.mom` | $0.042 / $0 | Jev 号池 | 1 | jev-latest |
+| 3 | `ovo1.vip` | $0.06 / $0 | TypeSafe / Jev 决策模型 | 1 | jev-latest |
+| 4 | `llmp.cc` | $0.147 / - | JEV   | 3.5 | jev-latest |
+| 5 | `api.asdfas.party` | $0.16884 / - | jev -能用了 | 0.6 | jev |
+| 6 | `api.999555999.com` | $0.294 / $0 | TypeSafe | 1 | jev-latest |
+| 7 | `ai.aiaimark.com` | $0.315 / $0 | Typesafe-Jev官方渠道 | 7.5 | jev-latest |
 | 8 | `origincoder.com` | $0.5712 / $0 | TypeSafe-JEV-官方直连 | 2 | jev-latest |
 
 > 34 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

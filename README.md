@@ -30,12 +30,12 @@
 
 | 项 | 数量 |
 |---|---|
-| 中转站（去重后） | 5165（首页可访问 4832） |
-| 合并的别名/镜像域名 | 4264 |
+| 中转站（去重后） | 5113（首页可访问 4582） |
+| 合并的别名/镜像域名 | 4316 |
 | 已剔除的泛解析子域 | 5704 |
-| 站 × 模型 报价 | 261303 |
-| 基础模型数（不同模型，非站数） | 12814 |
-| 公开充值价的站 | 2640（≤¥1.5/$ 的 1481 站，≥¥6/$ 的 1122 站） |
+| 站 × 模型 报价 | 266689 |
+| 基础模型数（不同模型，非站数） | 13944 |
+| 公开充值价的站 | 2708（≤¥1.5/$ 的 1528 站，≥¥6/$ 的 1143 站） |
 | 发卡店铺 | 430（SaaS 348 / 自建 82） |
 | 发卡商品报价 | 17212 |
 
@@ -58,112 +58,112 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | # | 站点 | 站名 | 系统 | 模型数 | 覆盖 | 充值 ¥/$ | Veridrop | 状态 | 延迟 |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | `subrouter.ai` | SubRouter | New-API | 1490 | OCGXMD | 6.8 | - | 200 | 157ms |
-| 2 | `kfcv50.link` | KFC V50 API | New-API | 1398 | OCGXMD | 1 | - | 200 | 686ms |
-| 3 | `ai.mowen.vip` | 莫问 API | New-API | 1385 | OCGXMD | 6.6892 | - | 200 | 589ms |
-| 4 | `api2.aigcbest.top` | 钱多多 API | New-API | 1311 | OCGXMD | 3.5 | - | 200 | 615ms |
-| 5 | `api.ifopen.ai` | 钱多多 API | New-API | 1310 | OCGXMD | 3.5 | - | 200 | 914ms |
-| 6 | `api.eido.top` | 世界树-艾朵 | New-API | 1309 | OCGXD | 1 | - | 200 | 1120ms |
-| 7 | `api.bltcy.ai` | 柏拉图AI | New-API | 1135 | OCGXMD | 1 | - | 200 | 765ms |
-| 8 | `apilio.ai` | Apilio | New-API | 1135 | OCGXMD | 1 | - | 200 | 759ms |
-| 9 | `test-ssl.bltcy.ai` | comfly | New-API | 1135 | OCGXMD | 1 | - | 200 | 756ms |
-| 10 | `ai.comfly.org` | comfly | New-API | 1131 | OCGXMD | - | 100 | 200 | 876ms |
-| 11 | `ai.t8star.org` | Zhenzhen's WorkSho… | New-API | 1131 | OCGXMD | 1.35 | - | 200 | 660ms |
-| 12 | `openai.sharkmagic.top` | 鲨鱼魔法 | New-API | 1089 | OCGXMD | - | - | 200 | 529ms |
-| 13 | `newapi.hebin123.com` | Hebin-API | New-API | 1037 | OCGXMD | 7.3 | - | 200 | 154ms |
-| 14 | `ai.soruxgpt.com` | SoruxGPT | New-API | 969 | OCGXMD | 1 | - | 200 | 528ms |
-| 15 | `gpt777.top` | OpenClaw API | New-API | 944 | OCGXMD | 1 | - | 200 | 1324ms |
-| 16 | `open.selart.cc` | 赛艺API | New-API | 858 | OCGXD | 1 | - | 200 | 346ms |
-| 17 | `ai2.qiqiai.top` | AI2 | New-API | 727 | OCGXMD | 7.3 | - | 200 | 1090ms |
-| 18 | `api.qinzhiai.com` | ClaudeHub | New-API | 724 | OCGXMD | 1 | - | 200 | 1183ms |
-| 19 | `api.qhhengxin.top` | api.qhhengxin.top | New-API | 717 | OCGXD | - | - | 200 | 3434ms |
-| 20 | `xinsuanai.com` | 芯算AI | New-API | 711 | OCGXMD | 1 | - | 200 | 506ms |
-| 21 | `www.hohoapi.com` | HoHoApi | New-API | 703 | OCGXD | 3 | - | 200 | 354ms |
-| 22 | `api.holdai.top` | 毫秒API | New-API | 701 | OCGXD | 1.2 | - | 200 | 763ms |
-| 23 | `daoxe.com` | DaoXE | New-API | 692 | OCGXMD | 1.03 | - | 200 | 1288ms |
-| 24 | `zen-ai.top` | ZEN-AI | New-API | 680 | OCGXMD | 1 | - | 200 | 943ms |
-| 25 | `api.tu-zi.com` | 兔子API | New-API | 659 | OCGXD | 0.7 | - | 200 | 763ms |
-| 26 | `api.vakv.cn` | 晴辰云川-API | New-API | 654 | OCGXD | 1 | - | 200 | 1108ms |
-| 27 | `api.zyai.online` | Yun API | New-API | 651 | OCGXD | 1 | 71 | 200 | 919ms |
-| 28 | `newapi.link` | - | New-API | 643 | OCGXMD | 1 | - | 200 | 480ms |
-| 29 | `api.ocoolai.com` | ocoolAI | New-API | 616 | OCGXD | 1 | - | 200 | 1515ms |
-| 30 | `ocool.cn` | ocoolAI | New-API | 616 | OCGXD | 1 | - | 200 | 1492ms |
-| 31 | `one.ooo.cool` | ocoolAI | New-API | 616 | OCGXD | 1 | - | 200 | 2139ms |
-| 32 | `api.wukong.support` | 悟空API | New-API | 613 | OCGXD | 1 | 68 | 200 | 792ms |
-| 33 | `api.xi-ai.cn` | Xi-Api | New-API | 604 | OCGXD | 1 | - | 200 | 254ms |
-| 34 | `botcf.com` | Bot Compute Fabric | New-API | 585 | OCGXMD | 1 | 95 | 200 | 765ms |
-| 35 | `xn--15q04w3tg4kio0a.com` | Bot Compute Fabric | New-API | 583 | OCGXMD | 1 | - | 200 | 680ms |
-| 36 | `www.ggwk1.online` | ggwk1 API | New-API | 582 | OCGXMD | 1 | - | 200 | 1026ms |
-| 37 | `ai.bytonsec.com` | 91claude | New-API | 574 | OCGXMD | 1 | - | 200 | 255ms |
-| 38 | `kubernetes-test-api.apiqik.online` | - | New-API | 572 | OCGXD | 7.3 | - | 200 | 938ms |
-| 39 | `api.camel-hub.com` | CaMeL AI | New-API | 556 | OCGXMD | 0.8 | - | 200 | 1198ms |
-| 40 | `api.34ku.com` | 速通Api | New-API | 552 | OCGXMD | 1 | - | 200 | 1109ms |
-| 41 | `wrduai.com` | WrduAI | New-API | 552 | OCGXD | 7.3 | - | 200 | 173ms |
-| 42 | `hk.chenmoai.cn` | 沉默API | New-API | 543 | OCGXD | 1 | - | 200 | 458ms |
-| 43 | `keypool.space` | 云创算力 | New-API | 539 | OCGXMD | 1 | - | 200 | 475ms |
-| 44 | `suanliai.top` | 算力AI | New-API | 537 | OCGXD | 1 | - | 200 | 129ms |
-| 45 | `api.hopeai.cc` | HopeAPI | New-API | 522 | OCGXD | 1 | - | 200 | 935ms |
-| 46 | `api.qiqiai.top` | 星AI | New-API | 517 | OCGXMD | 2 | - | 200 | 1035ms |
-| 47 | `n.lconai.com` | 智创聚合API | New-API | 506 | OCGXD | 1 | - | 200 | 938ms |
-| 48 | `cn.gptapi.asia` | YutoAPI | New-API | 502 | OCGXMD | 1 | 58 | 200 | 517ms |
-| 49 | `yutoapi.com` | YutoAPI | New-API | 502 | OCGXMD | 1 | - | 200 | 408ms |
-| 50 | `api.tacklekey.com` | TackleKey | New-API | 500 | OCGXMD | 7.3 | - | 200 | 514ms |
-| 51 | `newapi.ailingnan.top` | - | New-API | 498 | OCGXD | 7.3 | - | 200 | 554ms |
-| 52 | `xiaoqie.xyz` | 小企鹅.xyz | New-API | 497 | OCGXMD | - | - | 200 | 1378ms |
-| 53 | `api.openai365.top` | OpenAi API | New-API | 493 | OCGXD | - | - | 200 | 1609ms |
-| 54 | `poloai.top` | PoloAPI | New-API | 490 | OCGXD | 1 | 98 | 200 | 852ms |
-| 55 | `poloapi.top` | PoloAPI | New-API | 490 | OCGXD | - | 88 | 200 | 3888ms |
-| 56 | `llm.kagu.one` | KaguAPI | New-API | 490 | OCGXMD | 7.3 | - | 200 | 709ms |
-| 57 | `test.yibuapi.com` | 一步API | New-API | 482 | OCGMD | 1.5 | - | 200 | 1205ms |
-| 58 | `api.routeeasy.ai` | RouteEasy | New-API | 480 | OCGXD | 1 | 86 | 200 | 1047ms |
-| 59 | `go.sbgpt.site` | 中转货源API | New-API | 477 | OCGXD | 1 | - | 200 | 847ms |
-| 60 | `xy.poloapi.com` | PoloAPI | New-API | 475 | OCGXD | 1 | - | 200 | 1156ms |
-| 61 | `api.vectorengine.ai` | 向量引擎 | New-API | 469 | OCGXMD | - | 96 | 200 | 1113ms |
-| 62 | `www.xiaoruiera.top` | 极速链API | New-API | 469 | OCGXMD | - | 84 | 200 | 1293ms |
-| 63 | `ai.kalehui.cn` | 中转API | New-API | 469 | OCGXMD | - | - | 200 | 1061ms |
-| 64 | `aiopus.top` | AIOPUS | New-API | 469 | OCGXMD | - | - | 200 | 1582ms |
-| 65 | `api.anthropicricardo.club` | 江南💗赫尔佐格 | New-API | 469 | OCGXMD | - | - | 200 | 1573ms |
-| 66 | `api.gpt666claude.top` | 朔风api(找客服0.6一刀) | New-API | 469 | OCGXMD | - | - | 200 | 1221ms |
-| 67 | `api.token173.net` | Token173 | New-API | 469 | OCGXMD | - | - | 200 | 1389ms |
-| 68 | `api.zhongzhuan.vip` | 向量引擎 | New-API | 469 | OCGXMD | - | - | 200 | 1368ms |
-| 69 | `apistudio.vip` | 灵境 API | New-API | 469 | OCGXMD | - | - | 200 | 1437ms |
-| 70 | `juhe.34ku.com` | 速通-API | New-API | 469 | OCGXMD | - | - | 200 | 1374ms |
-| 71 | `one.chatshare.one` | ChatShare API | New-API | 469 | OCGXMD | - | - | 200 | 1380ms |
-| 72 | `tiantoken.cn` | 时迈风 | New-API | 469 | OCGXMD | - | - | 200 | 951ms |
-| 73 | `token.kkdmx.com` | KK大模型 | New-API | 469 | OCGXMD | - | - | 200 | 1139ms |
-| 74 | `vortexapi.cn` | 芒果API | New-API | 469 | OCGXMD | - | - | 200 | 2256ms |
-| 75 | `yuli.host` | 玉玉API_接口 | New-API | 469 | OCGXMD | - | - | 200 | 1355ms |
-| 76 | `dawnnode.com` | 黎明智汇 | New-API | 468 | OCGXMD | - | - | 200 | 1302ms |
-| 77 | `ruishiglobal.com` | SuperAI公园 | New-API | 467 | OCGXMD | - | - | 200 | 1149ms |
-| 78 | `api.uiuihao.com` | UiUiAPI聚合平台 | New-API | 465 | OCGXD | 3.19 | - | 200 | 767ms |
-| 79 | `api.wapq.cn` | LivenHub | New-API | 465 | OCGXMD | 7.3 | - | 200 | 396ms |
-| 80 | `sg.uiuiapi.com` | UiUiAPI聚合平台 | New-API | 465 | OCGXD | 3.19 | - | 200 | 327ms |
-| 81 | `goapi.gptnb.ai` | GPTNB GOAPI | New-API | 446 | OCGXMD | 1 | - | 200 | 828ms |
-| 82 | `top.qingyuntop.top` | 青云TOP API国际站 | New-API | 444 | OCGXMD | 1 | - | 200 | 230ms |
-| 83 | `gptnb.ai` | GPTNB API | New-API | 440 | OCGXMD | 1 | - | 200 | 2823ms |
-| 84 | `api.xty.app` | AiCore API | New-API | 439 | OCGXMD | 0.8 | - | 200 | 723ms |
-| 85 | `biezou.com` | 企业级 AI 网关 | New-API | 433 | OCGMD | 1 | - | 200 | 1215ms |
-| 86 | `aws.baby` | 企业级 AI 网关 | New-API | 427 | OCGMD | 1 | - | 200 | 1511ms |
-| 87 | `api.luoqianyi.qzz.io` | 迁忆 | New-API | 423 | OCGXMD | - | - | 200 | 1318ms |
-| 88 | `pay.magic666.top` | 滕达AI | New-API | 421 | OCGXD | 1 | - | 200 | 812ms |
-| 89 | `magic666.top` | 即刻AI - 即刻拥抱最新AI技术 | New-API | 418 | OCGXD | 1 | 80 | 200 | 571ms |
-| 90 | `oneapi.gptnb.ai` | GPTNB ONEAPI | New-API | 417 | OCGXMD | 1 | - | 200 | 688ms |
-| 91 | `api.bianxie.ai` | 便携AI聚合API | New-API | 414 | OCGXMD | 7.3 | - | 200 | 715ms |
-| 92 | `api.bianxieai.com` | 便携AI聚合API | New-API | 414 | OCGXMD | 7.3 | - | 200 | 1044ms |
-| 93 | `or.mux.la` | - | New-API | 414 | OCGXMD | - | - | 200 | 725ms |
-| 94 | `claudecn.ai` | ClaudeCN | New-API | 413 | OCMD | 1 | - | 200 | 1312ms |
-| 95 | `max.openai365.top` | 美团团 API | New-API | 411 | OCGXMD | 7.3 | 77 | 200 | 220ms |
-| 96 | `yibuapi.com` | 一步API | New-API | 408 | OCGXMD | 1.5 | - | 200 | 947ms |
-| 97 | `www.dayueai.fun` | 如愿AI | New-API | 406 | OCGXMD | 1 | - | 200 | 1175ms |
-| 98 | `api.aiskt.com` | AiSKT API | New-API | 400 | OCGXD | 1 | - | 200 | 730ms |
-| 99 | `new.yihubang.top` | 小护 | New-API | 398 | OCXMD | 1 | - | 200 | 1133ms |
-| 100 | `vip.zen-ai.top` | VIP | New-API | 396 | OCGXMD | - | - | 200 | 1260ms |
+| 1 | `api.wukong.support` | 悟空API | New-API | 1569 | OCGXMD | 1 | 68 | 200 | 5669ms |
+| 2 | `kfcv50.link` | KFC V50 API | New-API | 1356 | OCGXMD | 1 | - | 200 | 1469ms |
+| 3 | `api.eido.top` | 世界树-艾朵 | New-API | 1344 | OCGXD | 1 | - | 200 | 835ms |
+| 4 | `ai.mowen.vip` | 莫问 API | New-API | 1236 | OCGXMD | 6.68494 | - | 200 | 365ms |
+| 5 | `api.ifopen.ai` | 钱多多 API | New-API | 1196 | OCGXMD | 3.5 | - | 200 | 873ms |
+| 6 | `api2.aigcbest.top` | 钱多多 API | New-API | 1196 | OCGXMD | 3.5 | - | 200 | 595ms |
+| 7 | `ai.comfly.org` | comfly | New-API | 1143 | OCGXMD | 1.2 | 100 | 200 | 857ms |
+| 8 | `ai.t8star.org` | Zhenzhen's WorkSho… | New-API | 1143 | OCGXMD | 1.35 | - | 200 | 891ms |
+| 9 | `apilio.ai` | Apilio | New-API | 1143 | OCGXMD | 1 | - | 200 | 698ms |
+| 10 | `test-ssl.bltcy.ai` | comfly | New-API | 1143 | OCGXMD | 1 | - | 200 | 834ms |
+| 11 | `openai.sharkmagic.top` | 鲨鱼魔法 | New-API | 1089 | OCGXMD | - | - | 200 | 647ms |
+| 12 | `gpt777.top` | OpenClaw API | New-API | 944 | OCGXMD | 1 | - | 200 | 685ms |
+| 13 | `cn.gptapi.asia` | YutoAPI | New-API | 942 | OCGXMD | 1 | 58 | 200 | 474ms |
+| 14 | `yutoapi.com` | YutoAPI | New-API | 942 | OCGXMD | 1 | - | 200 | 400ms |
+| 15 | `subrouter.ai` | SubRouter | New-API | 836 | OCGXMD | 6.8 | - | 200 | 315ms |
+| 16 | `open.selart.cc` | 赛艺API | New-API | 766 | OCGXD | 1 | - | 200 | 5187ms |
+| 17 | `api.qinzhiai.com` | ClaudeHub | New-API | 725 | OCGXMD | 7.3 | - | 200 | 990ms |
+| 18 | `api.qhhengxin.top` | api.qhhengxin.top | New-API | 717 | OCGXD | 7.3 | - | 200 | 5369ms |
+| 19 | `xinsuanai.com` | 芯算AI | New-API | 715 | OCGXMD | 1 | - | 200 | 5182ms |
+| 20 | `api.holdai.top` | 毫秒API | New-API | 706 | OCGXD | 1.2 | - | 200 | 680ms |
+| 21 | `www.hohoapi.com` | HoHoApi | New-API | 703 | OCGXD | 3 | - | 200 | 2629ms |
+| 22 | `api.zyai.online` | Yun API | New-API | 701 | OCGXD | 1 | 71 | 200 | 849ms |
+| 23 | `api.tu-zi.com` | 兔子API | New-API | 696 | OCGXD | 0.7 | - | 200 | 645ms |
+| 24 | `newapi.link` | - | New-API | 643 | OCGXMD | 1 | - | 200 | 1369ms |
+| 25 | `xb-api.com` | XB | New-API | 630 | OCGXD | 1 | - | 200 | 1471ms |
+| 26 | `api.hopeai.cc` | HopeAPI | New-API | 615 | OCGXD | 1 | - | 200 | 1051ms |
+| 27 | `botcf.com` | Bot Compute Fabric | New-API | 613 | OCGXMD | 1 | 95 | 200 | 809ms |
+| 28 | `xn--15q04w3tg4kio0a.com` | Bot Compute Fabric | New-API | 613 | OCGXMD | 1 | - | 200 | 1117ms |
+| 29 | `api.camel-hub.com` | CaMeL AI | New-API | 596 | OCGXMD | 0.8 | - | 200 | 520ms |
+| 30 | `newapi.paycomhelp.com` | - | New-API | 590 | OCGXMD | 7.3 | - | 200 | 700ms |
+| 31 | `kubernetes-test-api.apiqik.online` | - | New-API | 572 | OCGXD | 7.3 | - | 200 | 871ms |
+| 32 | `wrduai.com` | WrduAI | New-API | 561 | OCGXD | 7.3 | - | 200 | 208ms |
+| 33 | `suanliai.top` | 算力AI | New-API | 545 | OCGXD | 1 | - | 200 | 309ms |
+| 34 | `hk.chenmoai.cn` | 沉默API | New-API | 543 | OCGXD | 1 | - | 200 | 71ms |
+| 35 | `api.34ku.com` | 速通Api | New-API | 540 | OCGXMD | 1 | - | 200 | 919ms |
+| 36 | `keypool.space` | 云创算力 | New-API | 539 | OCGXMD | 1 | - | 200 | 302ms |
+| 37 | `api.tacklekey.com` | TackleKey | New-API | 523 | OCGXMD | 7.3 | - | 200 | 459ms |
+| 38 | `magic666.top` | 滕达AI | New-API | 512 | OCGXD | 1 | 80 | 200 | 810ms |
+| 39 | `n.lconai.com` | 智创聚合API | New-API | 501 | OCGXD | 1 | - | 200 | 1051ms |
+| 40 | `pay.magic666.top` | 即刻AI - 即刻拥抱最新AI技术 | New-API | 499 | OCGXD | 1 | - | 200 | 1240ms |
+| 41 | `api.openai365.top` | OpenAi API | New-API | 493 | OCGXD | - | - | 200 | 879ms |
+| 42 | `llm.kagu.one` | KaguAPI | New-API | 490 | OCGXMD | 7.3 | - | 200 | 837ms |
+| 43 | `api.wapq.cn` | LivenHub | New-API | 481 | OCGXMD | 7.3 | - | 200 | 395ms |
+| 44 | `go.sbgpt.site` | 中转货源API | New-API | 477 | OCGXD | 1 | - | 200 | 799ms |
+| 45 | `test.yibuapi.com` | 一步API | New-API | 471 | OCGXMD | 1.5 | - | 200 | 1186ms |
+| 46 | `api.vectorengine.ai` | 向量引擎 | New-API | 469 | OCGXMD | - | 96 | 200 | 1082ms |
+| 47 | `api.gpt666claude.top` | 朔风api(找客服0.6一刀) | New-API | 469 | OCGXMD | - | - | 200 | 1229ms |
+| 48 | `api.token173.net` | Token173 | New-API | 469 | OCGXMD | - | - | 200 | 6015ms |
+| 49 | `api.zhongzhuan.vip` | 向量引擎 | New-API | 469 | OCGXMD | - | - | 200 | 1224ms |
+| 50 | `juhe.34ku.com` | 速通-API | New-API | 469 | OCGXMD | - | - | 200 | 6009ms |
+| 51 | `one.chatshare.one` | ChatShare API | New-API | 469 | OCGXMD | - | - | 200 | 2467ms |
+| 52 | `yuli.host` | 玉玉API_接口 | New-API | 469 | OCGXMD | - | - | 200 | 1160ms |
+| 53 | `api.qiqiai.top` | 星AI | New-API | 462 | OCGXMD | 2 | - | 200 | 5636ms |
+| 54 | `poloai.top` | PoloAPI | New-API | 461 | OCGXD | 1 | 98 | 200 | 1047ms |
+| 55 | `poloapi.top` | PoloAPI | New-API | 461 | OCGXD | 1 | 88 | 200 | 1016ms |
+| 56 | `newapi.prorisehub.com` | Pro API | New-API | 457 | OCGXMD | 1 | 86 | 200 | 906ms |
+| 57 | `api.routeeasy.ai` | RouteEasy | New-API | 456 | OCGXD | 1 | 86 | 200 | 806ms |
+| 58 | `ai.chuyel.top` | 初叶🍂Furry API | New-API | 448 | OCGXMD | 7.3 | - | 200 | 2148ms |
+| 59 | `gptnb.ai` | GPTNB API | New-API | 446 | OCGXMD | 1 | - | 200 | 6498ms |
+| 60 | `xiaoqie.xyz` | 跑路API.com | New-API | 444 | OCGXMD | 1 | - | 200 | 1302ms |
+| 61 | `www.dayueai.fun` | 如愿AI | New-API | 439 | OCGXMD | 1 | - | 200 | 508ms |
+| 62 | `goapi.gptnb.ai` | GPTNB GOAPI | New-API | 438 | OCGXMD | 1 | - | 200 | 5369ms |
+| 63 | `api.xty.app` | AiCore API | New-API | 430 | OCGXMD | 0.8 | - | 200 | 5550ms |
+| 64 | `ai.soruxgpt.com` | SoruxGPT | New-API | 429 | OCGXD | 1 | - | 200 | 427ms |
+| 65 | `naapi.cc` | 鈉 API \| ナトリウム API | New-API | 422 | OCGXMD | 1 | - | 200 | 1144ms |
+| 66 | `max.openai365.top` | 美团团 API | New-API | 419 | OCGXMD | 7.3 | 77 | 200 | 191ms |
+| 67 | `oneapi.gptnb.ai` | GPTNB ONEAPI | New-API | 417 | OCGXMD | 1 | - | 200 | 823ms |
+| 68 | `api.bianxie.ai` | 便携AI聚合API | New-API | 415 | OCGXMD | 7.3 | - | 200 | 5666ms |
+| 69 | `api.bianxieai.com` | 便携AI聚合API | New-API | 415 | OCGXMD | 7.3 | - | 200 | 13374ms |
+| 70 | `or.mux.la` | - | New-API | 414 | OCGXMD | 7.3 | - | 200 | 760ms |
+| 71 | `rockapi.ai` | Rock API | New-API | 410 | OCGXMD | 1 | - | 200 | 2249ms |
+| 72 | `vip.zen-ai.top` | VIP | New-API | 410 | OCGXMD | - | - | 200 | 5958ms |
+| 73 | `new.yihubang.top` | 小护 | New-API | 405 | OCXMD | 1 | - | 200 | 6128ms |
+| 74 | `zen-ai.top` | ZEN-AI | New-API | 404 | OCGXMD | 1 | - | 200 | 6025ms |
+| 75 | `api.aiskt.com` | AiSKT API | New-API | 400 | OCGXD | 1 | - | 200 | 2341ms |
+| 76 | `webapi.xjai.cc` | - | New-API | 390 | OCGXD | 3 | - | 200 | 838ms |
+| 77 | `api.luoqianyi.qzz.io` | 迁忆 | New-API | 388 | OCGXMD | 0.5 | - | 200 | 3125ms |
+| 78 | `api.ocoolai.com` | ocoolAI | New-API | 380 | OCGXD | 1 | - | 200 | 6437ms |
+| 79 | `azapi.com.cn` | AIGC Token | New-API | 380 | OCGXD | 1 | - | 200 | 1921ms |
+| 80 | `ocool.cn` | ocoolAI | New-API | 380 | OCGXD | 1 | - | 200 | 1510ms |
+| 81 | `one.ooo.cool` | ocoolAI | New-API | 380 | OCGXD | 1 | - | 200 | 2244ms |
+| 82 | `www.ggwk1.online` | ggwk1 API | New-API | 380 | OCGXMD | 1 | - | 200 | 1144ms |
+| 83 | `anyaigc.com` | AnyAIGC - API中转站 | New-API | 378 | OCGXMD | - | 100 | 200 | 368ms |
+| 84 | `api.winfull.cloud-ip.cc` | 伝富AI | New-API | 378 | OCGXMD | - | 100 | 200 | 5945ms |
+| 85 | `api.qingyuntop.top` | 青云聚合API | New-API | 378 | OCGXMD | - | 96 | 200 | 5939ms |
+| 86 | `api.zhongzhuan.chat` | COGNIS AI PTE. LTD | New-API | 378 | OCGXMD | - | 95 | 200 | 1188ms |
+| 87 | `vipapi.online` | 流星API | New-API | 378 | OCGXMD | - | 95 | 200 | 5985ms |
+| 88 | `yunwu.ai` | 云雾 API | New-API | 378 | OCGXMD | - | 90 | 200 | 1021ms |
+| 89 | `aiapihub.cloud` | 智联API | New-API | 378 | OCGXMD | - | - | 200 | 5955ms |
+| 90 | `aiyiwei.vip` | 聚合api | New-API | 378 | OCGXMD | - | - | 200 | 1101ms |
+| 91 | `api-hub.vip` | 云柏 API | New-API | 378 | OCGXMD | - | - | 200 | 5982ms |
+| 92 | `api.aibh.site` | 空氧API-可以继续使用 | New-API | 378 | OCGXMD | - | - | 200 | 1155ms |
+| 93 | `api.aicso.top` | 灵汐API | New-API | 378 | OCGXMD | - | - | 200 | 1103ms |
+| 94 | `api.apiplus.org` | 云雾 API | New-API | 378 | OCGXMD | - | - | 200 | 777ms |
+| 95 | `api.bitidea.cn` | 小小思路API | New-API | 378 | OCGXMD | - | - | 200 | 1181ms |
+| 96 | `api.clai.click` | CLAI API | New-API | 378 | OCGXMD | - | - | 200 | 5982ms |
+| 97 | `api.cloudmist.cloud` | 云岚API | New-API | 378 | OCGXMD | - | - | 200 | 1325ms |
+| 98 | `api.mumuverse.space` | MuMuのAPI | New-API | 378 | OCGXMD | - | - | 200 | 2472ms |
+| 99 | `api.wlai.vip` | 云雾 API | New-API | 378 | OCGXMD | - | - | 200 | 6036ms |
+| 100 | `api.xueai.me` | XUEAI | New-API | 378 | OCGXMD | - | - | 200 | 1296ms |
 
 ⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 3 个。
 
 覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。
 
-完整名单（5165 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)
+完整名单（5113 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)
 
 [↑ 目录](#toc)
 
@@ -172,21 +172,21 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 家族 | 基础模型数 | 覆盖站点 | 覆盖最广的模型 |
 |---|---|---|---|
-| OpenAI | 1454 | 2551 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
-| Claude | 1081 | 2296 | [claude-opus-4-8](data/relays/by-model/claude-opus-4-8.md) · [claude-opus-4-6](data/relays/by-model/claude-opus-4-6.md) · [claude-opus-4-7](data/relays/by-model/claude-opus-4-7.md) |
-| Gemini | 1555 | 1847 | [gemini-3.8-flash](data/relays/by-model/gemini-3.8-flash.md) · [gemini-3.1-pro-preview](data/relays/by-model/gemini-3.1-pro-preview.md) · [gemini-3.6-flash](data/relays/by-model/gemini-3.6-flash.md) |
-| Grok | 347 | 1698 | [grok-4.5](data/relays/by-model/grok-4.5.md) · [grok-4.6](data/relays/by-model/grok-4.6.md) · [grok-4.7](data/relays/by-model/grok-4.7.md) |
-| MiMo | 43 | 621 | [mimo-v2.5-pro](data/relays/by-model/mimo-v2.5-pro.md) · [mimo-v2.5](data/relays/by-model/mimo-v2.5.md) · [mimo-v2.6-flash](data/relays/by-model/mimo-v2.6-flash.md) |
-| DeepSeek | 321 | 1843 | [deepseek-v4-pro](data/relays/by-model/deepseek-v4-pro.md) · [deepseek-v4-flash](data/relays/by-model/deepseek-v4-flash.md) · [deepseek-v4.1-flash](data/relays/by-model/deepseek-v4.1-flash.md) |
-| Qwen | 667 | 1136 | [qwen3.8-max](data/relays/by-model/qwen3.8-max.md) · [qwen3.7-max](data/relays/by-model/qwen3.7-max.md) · [qwen3.8-flash](data/relays/by-model/qwen3.8-flash.md) |
-| GLM | 246 | 1616 | [glm-5.3](data/relays/by-model/glm-5.3.md) · [glm-5.2](data/relays/by-model/glm-5.2.md) · [glm-5.3-flash](data/relays/by-model/glm-5.3-flash.md) |
-| Kimi | 110 | 1485 | [kimi-k3](data/relays/by-model/kimi-k3.md) · [kimi-k2.6](data/relays/by-model/kimi-k2.6.md) · [kimi-k2.7-code](data/relays/by-model/kimi-k2.7-code.md) |
-| 豆包 | 796 | 745 | [doubao-seedream-5-0](data/relays/by-model/doubao-seedream-5-0.md) · [doubao-seedance-2-0](data/relays/by-model/doubao-seedance-2-0.md) · [doubao-seed-2-1-pro](data/relays/by-model/doubao-seed-2-1-pro.md) |
-| MiniMax | 324 | 1077 | [minimax-m3](data/relays/by-model/minimax-m3.md) · [minimax-m2.7](data/relays/by-model/minimax-m2.7.md) · [minimax-m2.5](data/relays/by-model/minimax-m2.5.md) |
-| 混元 | 61 | 430 | [hy3](data/relays/by-model/hy3.md) · [hy4-preview](data/relays/by-model/hy4-preview.md) · [hy4](data/relays/by-model/hy4.md) |
-| Llama | 128 | 249 | [llama-3.2-11b-vision-instruct](data/relays/by-model/llama-3.2-11b-vision-instruct.md) · [llama-3.2-90b-vision-instruct](data/relays/by-model/llama-3.2-90b-vision-instruct.md) · [llama-3.3-70b-instruct](data/relays/by-model/llama-3.3-70b-instruct.md) |
-| 图像/视频/音频 | 1066 | 468 | [z-image-turbo](data/relays/by-model/z-image-turbo.md) · [viduq3-turbo](data/relays/by-model/viduq3-turbo.md) · [happyhorse-1.1-t2v](data/relays/by-model/happyhorse-1.1-t2v.md) |
-| 其他 | 4615 | 1125 | [bge-reranker-v2-m3](data/relays/by-model/bge-reranker-v2-m3.md) · [bce-reranker-base-v1](data/relays/by-model/bce-reranker-base-v1.md) · [sparkdesk-v1.1](data/relays/by-model/sparkdesk-v1.1.md) |
+| OpenAI | 1734 | 2588 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
+| Claude | 1060 | 2337 | [claude-opus-4-8](data/relays/by-model/claude-opus-4-8.md) · [claude-opus-4-6](data/relays/by-model/claude-opus-4-6.md) · [claude-opus-5](data/relays/by-model/claude-opus-5.md) |
+| Gemini | 1563 | 1935 | [gemini-3.8-flash](data/relays/by-model/gemini-3.8-flash.md) · [gemini-4-argon](data/relays/by-model/gemini-4-argon.md) · [gemini-3.1-pro-preview](data/relays/by-model/gemini-3.1-pro-preview.md) |
+| Grok | 339 | 1703 | [grok-4.5](data/relays/by-model/grok-4.5.md) · [grok-4.6](data/relays/by-model/grok-4.6.md) · [grok-4.7](data/relays/by-model/grok-4.7.md) |
+| MiMo | 41 | 678 | [mimo-v2.5-pro](data/relays/by-model/mimo-v2.5-pro.md) · [mimo-v2.5](data/relays/by-model/mimo-v2.5.md) · [mimo-v2.6-pro](data/relays/by-model/mimo-v2.6-pro.md) |
+| DeepSeek | 335 | 1912 | [deepseek-v4-pro](data/relays/by-model/deepseek-v4-pro.md) · [deepseek-v4.1-flash](data/relays/by-model/deepseek-v4.1-flash.md) · [deepseek-v4-flash](data/relays/by-model/deepseek-v4-flash.md) |
+| Qwen | 685 | 1145 | [qwen3.8-max](data/relays/by-model/qwen3.8-max.md) · [qwen3.7-max](data/relays/by-model/qwen3.7-max.md) · [qwen3.8-flash](data/relays/by-model/qwen3.8-flash.md) |
+| GLM | 235 | 1637 | [glm-5.3](data/relays/by-model/glm-5.3.md) · [glm-5.3-flash](data/relays/by-model/glm-5.3-flash.md) · [glm-5.2](data/relays/by-model/glm-5.2.md) |
+| Kimi | 118 | 1555 | [kimi-k3](data/relays/by-model/kimi-k3.md) · [kimi-k3.1-pro](data/relays/by-model/kimi-k3.1-pro.md) · [kimi-k2.6](data/relays/by-model/kimi-k2.6.md) |
+| 豆包 | 1024 | 759 | [doubao-seedance-2-0](data/relays/by-model/doubao-seedance-2-0.md) · [doubao-seedream-5-0](data/relays/by-model/doubao-seedream-5-0.md) · [doubao-seedance-2-0-fast](data/relays/by-model/doubao-seedance-2-0-fast.md) |
+| MiniMax | 357 | 1136 | [minimax-m3](data/relays/by-model/minimax-m3.md) · [minimax-m2.7](data/relays/by-model/minimax-m2.7.md) · [minimax-m2.5](data/relays/by-model/minimax-m2.5.md) |
+| 混元 | 65 | 500 | [hy4-preview](data/relays/by-model/hy4-preview.md) · [hy3](data/relays/by-model/hy3.md) · [hy4](data/relays/by-model/hy4.md) |
+| Llama | 123 | 245 | [llama-3.2-90b-vision-instruct](data/relays/by-model/llama-3.2-90b-vision-instruct.md) · [llama-3.2-11b-vision-instruct](data/relays/by-model/llama-3.2-11b-vision-instruct.md) · [llama-3.2-3b-instruct](data/relays/by-model/llama-3.2-3b-instruct.md) |
+| 图像/视频/音频 | 1136 | 484 | [z-image-turbo](data/relays/by-model/z-image-turbo.md) · [viduq3-turbo](data/relays/by-model/viduq3-turbo.md) · [happyhorse-1.1-t2v](data/relays/by-model/happyhorse-1.1-t2v.md) |
+| 其他 | 5129 | 1192 | [sparkdesk-v1.1](data/relays/by-model/sparkdesk-v1.1.md) · [sparkdesk-v3.1](data/relays/by-model/sparkdesk-v3.1.md) · [step-5-preview](data/relays/by-model/step-5-preview.md) |
 
 全部 952 个模型榜单：[by-model/index.md](data/relays/by-model/index.md)
 
@@ -195,25 +195,25 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 <a id="backend"></a>
 ## 中转站 · 疑似同后端
 
-价格表完全相同的跨品牌站点，共 98 组 / 272 站。前 15 组：
+价格表完全相同的跨品牌站点，共 116 组 / 322 站。前 15 组：
 
 | 组 | 站数 | 站点 |
 |---|---|---|
-| B001 | 46 | `aiapihub.cloud` · `aiyiwei.vip` · `anyaigc.com` · `api-hub.vip` · `api.aibh.site` · `api.aicso.top` … |
-| B002 | 15 | `ai.kalehui.cn` · `aiopus.top` · `api.anthropicricardo.club` · `api.gpt666claude.top` · `api.token173.net` · `api.vectorengine.ai` … |
-| B003 | 10 | `aiwuje.com` · `api.echoflowai.cc` · `api.n1n.ai` · `api.quickrouter.ai` · `linoapi.com` · `llm-api.net` … |
-| B004 | 4 | `api.88api.chat` · `api.videocaptioner.cn` · `new.aigc2d.com` · `oyy-ai.xyz` |
-| B005 | 4 | `api.chatshare.one` · `api.tiantoken.com` · `tidewhisper-ai.xyz` · `token.34ku.com` |
-| B006 | 3 | `api.buzzgw.com` · `buzzai.cc` · `claude.buzz7.top` |
-| B007 | 3 | `api.cursorai.art` · `jeniya.cn` · `linoroute.com` |
-| B008 | 3 | `api.dawclaudecode.com` · `dawcode.com` · `dawvip.com` |
-| B009 | 3 | `api.tidewhisper-ai.xyz` · `gzxbykj.com` · `yunwu.org` |
-| B010 | 3 | `ciyuan.today` · `gptapi.top` · `makerend.com` |
-| B011 | 3 | `comeu.ai` · `keuapi.com` · `keutoken.com` |
-| B012 | 3 | `niuniutoken.com` · `purecall.cc` · `tokendawang.com` |
-| B013 | 2 | `1024token.cc` · `aitokenyes.com` |
-| B014 | 2 | `127api.top` · `127key.top` |
-| B015 | 2 | `2xa.cc.cd` · `2xapi.com` |
+| B001 | 43 | `aiapihub.cloud` · `aiyiwei.vip` · `anyaigc.com` · `api-hub.vip` · `api.aibh.site` · `api.aicso.top` … |
+| B002 | 15 | `4zapi.com` · `ai.kalehui.cn` · `aiopus.top` · `aipipe.site` · `api.anthropicricardo.club` · `api.modelyard.cc` … |
+| B003 | 8 | `aiwuje.com` · `api.cursorai.art` · `api.echoflowai.cc` · `api.n1n.ai` · `api.quickrouter.ai` · `llm-api.net` … |
+| B004 | 7 | `api.gpt666claude.top` · `api.token173.net` · `api.vectorengine.ai` · `api.zhongzhuan.vip` · `juhe.34ku.com` · `one.chatshare.one` … |
+| B005 | 4 | `api.88api.chat` · `lanbuff.app` · `new.aigc2d.com` · `oyy-ai.xyz` |
+| B006 | 4 | `api.chatshare.one` · `api.tiantoken.com` · `tidewhisper-ai.xyz` · `token.34ku.com` |
+| B007 | 4 | `apipro.maynor1024.live` · `linoapi.com` · `linoroute.com` · `tryallapi.com` |
+| B008 | 3 | `88.api456.me` · `api.supxh.xin` · `speed23.toter.me` |
+| B009 | 3 | `ai-one.vip` · `aizzz.vip` · `kuaipao.ai` |
+| B010 | 3 | `ai.comfly.org` · `ai.t8star.org` · `test-ssl.bltcy.ai` |
+| B011 | 3 | `ai.orbitlink.me` · `subrouter.ai` · `usawest.up.railway.app` |
+| B012 | 3 | `api.2000.run` · `api.chaiquan.cc` · `cn.wucur.com` |
+| B013 | 3 | `api.buzzgw.com` · `buzzai.cc` · `claude.buzz7.top` |
+| B014 | 3 | `api.dawclaudecode.com` · `dawcode.com` · `dawvip.com` |
+| B015 | 3 | `api.gemai.cc` · `api.gemapi.ai` · `gemai.huchan.cn` |
 
 [↑ 目录](#toc)
 
@@ -383,9 +383,9 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 路径 | 内容 |
 |---|---|
-| `data/relays/relays.csv` | 中转站主表（5165 站，一站一行） |
-| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4264） |
-| `data/relays/relay-models.csv` | 站 × 模型 × 价格（261303） |
+| `data/relays/relays.csv` | 中转站主表（5113 站，一站一行） |
+| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4316） |
+| `data/relays/relay-models.csv` | 站 × 模型 × 价格（266689） |
 | `data/relays/by-model/` | 模型榜单（952 页） |
 | `data/relays/medians.json` | 各模型正常价中位数 |
 | `data/relays/relay-systems.csv` | 中转站软件名录 |

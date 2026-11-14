@@ -1,6 +1,6 @@
 # grok-2-vision
 
-> 32 站提供 · 正常价 20 站 · 名义中位价 **$3.5**/1M 输入 · 实付中位价 **¥8**/1M 输入（18 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 19 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥8.8**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,12 +16,12 @@
 | 4 | `ocool.cn` | ¥3 | $3 / $15 | 1 | default | grok-2-vision-1212 |
 | 5 | `one.ooo.cool` | ¥3 | $3 / $15 | 1 | default | grok-2-vision-1212 |
 | 6 | `8s.hk` | ¥4 | $4 / $20 | 1 | 全模型自动 | grok-2-vision |
-| 7 | `zen-ai.top` | ¥6 | $6 / $6 | 1 | grok | grok-2-vision |
-| 8 | `api.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-vision-1212 |
-| 9 | `apilio.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-vision-1212 |
-| 10 | `test-ssl.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-vision-1212 |
+| 7 | `api.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-vision-1212 |
+| 8 | `apilio.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-vision-1212 |
+| 9 | `test-ssl.bltcy.ai` | ¥8 | $8 / $40 | 1 | openai官-优质 | grok-2-vision-1212 |
+| 10 | `ai.comfly.org` | ¥9.6 | $8 / $40 | 1.2 | openai官-优质 | grok-2-vision-1212 |
 | 11 | `ai.t8star.org` | ¥10.8 | $8 / $40 | 1.35 | openai官-优质 | grok-2-vision-1212 |
-| 12 | `koalaapi.com` | ¥11.9 | $1.7 / $8.5 | 7 | 企业推荐全模型分组 | grok-2-vision |
+| 12 | `getgoapi.com` | ¥11.52 | $1.6 / $8 | 7.2 | default | grok-2-vision-1212 |
 | 13 | `api.bianxie.ai` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2-vision |
 | 14 | `api.bianxieai.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2-vision |
 | 15 | `hy88.my` | ¥14.6 | $2 / $10 | 7.3 | grok_official | grok-2-vision |
@@ -33,7 +33,6 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `ai.comfly.org` | $8 / $40 | openai官-优质 | 4 | grok-2-vision-1212 |
-| 2 | `vip.zen-ai.top` | $50 / $50 | grok | 25 | grok-2-vision |
+| 1 | `vip.zen-ai.top` | $50 / $50 | grok | 25 | grok-2-vision |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

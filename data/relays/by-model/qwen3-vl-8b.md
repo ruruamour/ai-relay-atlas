@@ -1,6 +1,6 @@
 # qwen3-vl-8b
 
-> 106 站提供 · 正常价 84 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（19 站公开充值价） · 推算，未对账
+> 87 站提供 · 正常价 70 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,78 +13,77 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.09 | $0.09 / $0.27 | 1 | SiliconFlow | Qwen/Qwen3-VL-8B-Thinking |
 | 2 | `token101.site` | ¥0.18 | $0.18 / $2 | 1 | cn_model | Qwen/Qwen3-VL-8B-Thinking |
 | 3 | `api.eido.top` | ¥0.2 | $0.2 / $0.8 | 1 | default | qwen3-vl-8b-thinking |
-| 4 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 / $3 | 1 | aliyun | qwen3-vl-8b-thinking |
-| 5 | `gpt777.top` | ¥0.4 | $0.4 / $4 | 1 | opensource | Qwen/Qwen3-VL-8B-Thinking |
-| 6 | `api.qinzhiai.com` | ¥0.4095 | $0.4095 / $4.7775 | 1 | openrouter | qwen/qwen3-vl-8b-thinking |
-| 7 | `claudecn.ai` | ¥0.45 | $0.45 / $4.5 | 1 | 国产模型 | qwen3-vl-8b-thinking |
-| 8 | `api.ifopen.ai` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
-| 9 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
-| 10 | `keypool.space` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
-| 11 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
-| 12 | `xinsuanai.com` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
-| 13 | `www.ggwk1.online` | ¥0.504 | $0.504 / $5.85144 | 1 | 开源模型组 | Qwen/Qwen3-VL-8B-Thinking |
-| 14 | `yibuapi.com` | ¥0.6 | $0.4 / $4 | 1.5 | claude-code | qwen3-vl-8b-thinking |
-| 15 | `ai.mowen.vip` | ¥0.602 | $0.09 / $0.09 | 6.6892 | default | Qwen3-VL-8B-Thinking |
-| 16 | `www.hohoapi.com` | ¥0.78 | $0.26 / $2.6 | 3 | qwen | qwen3-vl-8b-thinking |
-| 17 | `ai.bytonsec.com` | ¥1.08 | $1.08 / $12.6 | 1 | OpenRouter | qwen/qwen3-vl-8b-thinking |
-| 18 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $2.1 | 7.3 | vip | qwen/qwen3-vl-8b-thinking |
-| 19 | `ai2.qiqiai.top` | ¥1.537 | $0.2106 / $2.457 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-thinking |
+| 4 | `aifast.site` | ¥0.3 | $0.3 / $3 | 1 | 国产文本 | qwen3-vl-8b-thinking |
+| 5 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥0.3 | $0.3 / $3 | 1 | aliyun | qwen3-vl-8b-thinking |
+| 6 | `gpt777.top` | ¥0.4 | $0.4 / $4 | 1 | opensource | Qwen/Qwen3-VL-8B-Thinking |
+| 7 | `api.ifopen.ai` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
+| 8 | `api2.aigcbest.top` | ¥0.455 | $0.13 / $1.3 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-8B-Thinking |
+| 9 | `keypool.space` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
+| 10 | `new.foxi-api.cn` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
+| 11 | `xinsuanai.com` | ¥0.5 | $0.5 / $5 | 1 | default | qwen3-vl-8b-thinking |
+| 12 | `ai.mowen.vip` | ¥0.6016 | $0.09 / $0.09 | 6.68494 | default | Qwen3-VL-8B-Thinking |
+| 13 | `ai.lgdfort.com` | ¥0.65 | $0.65 / $6.5 | 1 | default | Qwen/Qwen3-VL-8B-Thinking |
+| 14 | `www.hohoapi.com` | ¥0.78 | $0.26 / $2.6 | 3 | qwen | qwen3-vl-8b-thinking |
+| 15 | `api.orcarouter.ai` | ¥1.314 | $0.18 / $2.1 | 7.3 | vip | qwen/qwen3-vl-8b-thinking |
+| 16 | `or.mux.la` | ¥1.314 | $0.18 / $2.1 | 7.3 | default | qwen/qwen3-vl-8b-thinking |
+| 17 | `ai2.qiqiai.top` | ¥1.537 | $0.2106 / $2.457 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-8b-thinking |
+| 18 | `api.qinzhiai.com` | ¥2.989 | $0.4095 / $4.7775 | 7.3 | openrouter | qwen/qwen3-vl-8b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `or.mux.la` | $0.18 / $2.1 | default | 1 | qwen/qwen3-vl-8b-thinking |
-| 2 | `ai.kalehui.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 3 | `aiapihub.cloud` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 4 | `aiopus.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 5 | `aiyiwei.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 6 | `anyaigc.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 7 | `api-hub.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 8 | `api.aibh.site` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 9 | `api.aicso.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 10 | `api.anthropicricardo.club` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 11 | `api.antmoo.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 12 | `api.apiplus.org` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 13 | `api.bitidea.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 14 | `api.clai.click` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 15 | `api.cloudmist.cloud` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 16 | `api.gpt666claude.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 17 | `api.modelyard.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 18 | `api.mumuverse.space` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 19 | `api.qingyuntop.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 20 | `api.token173.net` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 21 | `api.vectorengine.ai` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 22 | `api.winfull.cloud-ip.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 23 | `api.wlai.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 24 | `api.xueai.me` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 25 | `api.zhiyikeji.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 26 | `api.zhongzhuan.chat` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 27 | `api.zhongzhuan.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 28 | `api123.eu.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 29 | `apilink.shop` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 30 | `apipro.maynor1024.live` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 31 | `apistudio.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 32 | `apixin.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 33 | `dawnnode.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 34 | `fluxapi.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 35 | `juapi.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 36 | `juhe.34ku.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 37 | `lemonapi.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 38 | `linxingran.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 39 | `minitoken.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 40 | `new.xhuoai.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 41 | `next.aigc2d.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 42 | `one.chatshare.one` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 43 | `qianfufu.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 44 | `ruishiglobal.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 45 | `s.qweapi.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 46 | `solidapi.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 47 | `sparkapi.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 48 | `startapi.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 49 | `tiantoken.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
-| 50 | `token.kkdmx.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 1 | `aiapihub.cloud` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 2 | `aiyiwei.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 3 | `anyaigc.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 4 | `api-hub.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 5 | `api.aibh.site` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 6 | `api.aicso.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 7 | `api.antmoo.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 8 | `api.apiplus.org` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 9 | `api.bitidea.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 10 | `api.clai.click` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 11 | `api.cloudmist.cloud` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 12 | `api.gpt666claude.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 13 | `api.mumuverse.space` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 14 | `api.qingyuntop.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 15 | `api.token173.net` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 16 | `api.vectorengine.ai` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 17 | `api.winfull.cloud-ip.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 18 | `api.wlai.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 19 | `api.xueai.me` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 20 | `api.zhiyikeji.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 21 | `api.zhongzhuan.chat` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 22 | `api.zhongzhuan.vip` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 23 | `api123.eu.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 24 | `apilink.shop` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 25 | `apixin.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 26 | `juapi.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 27 | `juhe.34ku.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 28 | `lemonapi.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 29 | `linxingran.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 30 | `minitoken.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 31 | `new.xhuoai.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 32 | `next.aigc2d.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 33 | `one.chatshare.one` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 34 | `qianfufu.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 35 | `ruishiglobal.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 36 | `s.qweapi.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 37 | `solidapi.cc` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 38 | `sparkapi.cn` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 39 | `startapi.top` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 40 | `uouo.fun` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 41 | `vipapi.online` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 42 | `www.aifast.club` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 43 | `www.aigeek.life` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 44 | `www.shiyunapi.net` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 45 | `xiaohumini.site` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 46 | `xinyuanai666.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 47 | `yansd666.com` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 48 | `yuli.host` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 49 | `yunai.chat` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
+| 50 | `yunshu.hk` | $0.5 / $5 | default | 1 | qwen3-vl-8b-thinking |
 
-> 另有 15 站未列出。
+> 另有 2 站未列出。
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

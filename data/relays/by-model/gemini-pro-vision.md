@@ -1,6 +1,6 @@
 # gemini-pro-vision
 
-> 20 站提供 · 正常价 15 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥4**/1M 输入（13 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 14 站 · 名义中位价 **$3.875**/1M 输入 · 实付中位价 **¥4**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,7 +22,6 @@
 | 10 | `webapi.xjai.cc` | ¥6 | $2 / $8 | 3 | default | gemini-pro-vision |
 | 11 | `getgoapi.com` | ¥14.4 | $2 / $16 | 7.2 | default | gemini-pro-vision |
 | 12 | `api.apib.ai` | ¥17.5 | $2.5 / $20 | 7 | - | gemini-pro-vision |
-| 13 | `api2.aigcbest.top` | ¥22.75 | $6.5 / $52 | 3.5 | 全模型专线渠道 | gemini-pro-vision |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -31,4 +30,4 @@
 | 1 | `g.openai365.top` | $6 / $24 | default | 1 | gemini-pro-vision |
 | 2 | `coultra.blueshirtmap.com` | $8 / $32 | - | - | gemini-pro-vision |
 
-> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

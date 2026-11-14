@@ -1,6 +1,6 @@
 # gpt-3.5-turbo
 
-> 370 站提供 · 正常价 338 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.056**/1M 输入（246 站公开充值价） · 推算，未对账
+> 348 站提供 · 正常价 322 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.003**/1M 输入（246 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,56 +10,56 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `comput.chat` | ¥0.05 | $0.05 / $0.15 | 1 | default | gpt-3.5-turbo |
-| 2 | `api.aliyunfuwu.top` | ¥0.075 | $0.075 / $0.3 | 1 | relay | gpt-3.5-turbo-0301 |
-| 3 | `daoxe.com` | ¥0.07725 | $0.075 / $0.225 | 1.03 | codex | gpt-3.5-turbo |
-| 4 | `n.lconai.com` | ¥0.125 | $0.125 / $1.5 | 1 | A1 | gpt-3.5-turbo-0125 |
-| 5 | `monking.ai` | ¥0.175 | $0.175 / $0.35 | 1 | codex-Pro | gpt-3.5-turbo |
-| 6 | `chrisapivip.com` | ¥0.2 | $0.2 / $0.6 | 1 | default | gpt-3.5-turbo |
-| 7 | `zhangsan.yun` | ¥0.225 | $0.225 / $0.45 | 1 | image-2分组 | gpt-3.5-turbo-0613 |
-| 8 | `big.sbgpt.site` | ¥0.24 | $0.24 / $0.48 | 1 | az-0.4 | gpt-3.5-turbo |
-| 9 | `go.sbgpt.site` | ¥0.24 | $0.24 / $0.48 | 1 | az-3 | gpt-3.5-turbo |
-| 10 | `aiapibase.top` | ¥0.25 | $0.25 / $3 | 1 | default | gpt-3.5-turbo-0125 |
+| 1 | `ymeng.cc` | ¥0.03 | $0.03 / $0.06 | 1 | 国模遥遥领先 | gpt-3.5-turbo |
+| 2 | `comput.chat` | ¥0.05 | $0.05 / $0.15 | 1 | default | gpt-3.5-turbo |
+| 3 | `api.aliyunfuwu.top` | ¥0.075 | $0.075 / $0.3 | 1 | relay | gpt-3.5-turbo-0301 |
+| 4 | `import.deepwl.net` | ¥0.1 | $0.1 / $0.2 | 1 | gpt | gpt-3.5-turbo |
+| 5 | `cdn.yorhamc.com` | ¥0.175 | $0.175 / $0.35 | 1 | default | gpt-3.5-turbo |
+| 6 | `monking.ai` | ¥0.175 | $0.175 / $0.35 | 1 | codex-Pro | gpt-3.5-turbo |
+| 7 | `aifast.site` | ¥0.2 | $0.2 / $0.4 | 1 | default | gpt-3.5-turbo |
+| 8 | `chrisapivip.com` | ¥0.2 | $0.2 / $0.6 | 1 | default | gpt-3.5-turbo |
+| 9 | `big.sbgpt.site` | ¥0.24 | $0.24 / $0.48 | 1 | az-0.4 | gpt-3.5-turbo |
+| 10 | `go.sbgpt.site` | ¥0.24 | $0.24 / $0.48 | 1 | 无审核az-0.38 | gpt-3.5-turbo |
 | 11 | `api.xingnian.vip` | ¥0.25 | $0.25 / $0.75 | 1 | default | gpt-3.5-turbo |
 | 12 | `api.zyai.online` | ¥0.25 | $0.25 / $0.75 | 1 | mini | gpt-3.5-turbo-0125 |
-| 13 | `kfcv50.link` | ¥0.25 | $0.25 / $0.75 | 1 | az_act05 | gpt-3.5-turbo |
-| 14 | `new.gateway.icu` | ¥0.25 | $0.25 / $0.5 | 1 | az-L1 | gpt-3.5-turbo-0125 |
-| 15 | `newapi.link` | ¥0.25 | $0.25 / $0.75 | 1 | default | gpt-3.5-turbo-0125 |
+| 13 | `new.gateway.icu` | ¥0.25 | $0.25 / $0.5 | 1 | az-L1 | gpt-3.5-turbo-0125 |
+| 14 | `newapi.link` | ¥0.25 | $0.25 / $0.75 | 1 | default | gpt-3.5-turbo-0125 |
+| 15 | `azapi.com.cn` | ¥0.3 | $0.3 / $0.9 | 1 | Azure | gpt-3.5-turbo |
 | 16 | `i-sh.v1api.cc` | ¥0.3 | $0.3 / $0.9 | 1 | deepseek | gpt-3.5-turbo |
 | 17 | `i.v1api.cc` | ¥0.3 | $0.3 / $0.9 | 1 | deepseek | gpt-3.5-turbo |
 | 18 | `pro.gemai.cc` | ¥0.35 | $0.35 / $0.7 | 1 | Azure All | gpt-3.5-turbo |
 | 19 | `rockapi.ai` | ¥0.35 | $0.35 / $1.05 | 1 | 0.7x | gpt-3.5-turbo |
 | 20 | `api.bltcy.ai` | ¥0.4 | $0.4 / $0.8 | 1 | vip | gpt-3.5-turbo |
 | 21 | `api.camel-hub.com` | ¥0.4 | $0.5 / $1 | 0.8 | default | gpt-3.5-turbo |
-| 22 | `api.xty.app` | ¥0.4 | $0.5 / $1.5 | 0.8 | default | gpt-3.5-turbo-0125 |
-| 23 | `apilio.ai` | ¥0.4 | $0.4 / $0.8 | 1 | vip | gpt-3.5-turbo |
-| 24 | `cn.gptapi.asia` | ¥0.4 | $0.4 / $1.2 | 1 | default | gpt-3.5-turbo |
-| 25 | `opus.v1api.cc` | ¥0.4 | $0.5 / $1 | 0.8 | default | gpt-3.5-turbo |
-| 26 | `test-ssl.bltcy.ai` | ¥0.4 | $0.4 / $0.8 | 1 | vip | gpt-3.5-turbo |
-| 27 | `xh.v1api.cc` | ¥0.4 | $0.5 / $1 | 0.8 | default | gpt-3.5-turbo |
-| 28 | `yutoapi.com` | ¥0.4 | $0.4 / $1.2 | 1 | default | gpt-3.5-turbo |
+| 22 | `api.rinko.ai` | ¥0.4 | $0.4 / $1.2 | 1 | 怀旧分组 | gpt-3.5-turbo-0125 |
+| 23 | `api.xty.app` | ¥0.4 | $0.5 / $1.5 | 0.8 | default | gpt-3.5-turbo-0125 |
+| 24 | `apilio.ai` | ¥0.4 | $0.4 / $0.8 | 1 | vip | gpt-3.5-turbo-0125 |
+| 25 | `kfcv50.link` | ¥0.4 | $0.4 / $1.2 | 1 | pure_az | gpt-3.5-turbo |
+| 26 | `opus.v1api.cc` | ¥0.4 | $0.5 / $1 | 0.8 | default | gpt-3.5-turbo |
+| 27 | `test-ssl.bltcy.ai` | ¥0.4 | $0.4 / $0.8 | 1 | vip | gpt-3.5-turbo |
+| 28 | `xh.v1api.cc` | ¥0.4 | $0.5 / $1 | 0.8 | default | gpt-3.5-turbo |
 | 29 | `ai.soruxgpt.com` | ¥0.45 | $0.45 / $0.9 | 1 | azure-low | gpt-3.5-turbo-0125 |
-| 30 | `api.openai-labs.com` | ¥0.45 | $0.45 / $1.35 | 1 | azure | gpt-3.5-turbo |
-| 31 | `cnapi.kksj.org` | ¥0.45 | $0.45 / $0.9 | 1 | default | gpt-3.5-turbo |
-| 32 | `gpt.venlacy.com` | ¥0.45 | $0.45 / $1.35 | 1 | Azure | gpt-3.5-turbo-0125 |
-| 33 | `ai.mowen.vip` | ¥0.5 | $0.0747473 / $0.149495 | 6.6892 | default | gpt-3.5-turbo |
-| 34 | `123api.co` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
-| 35 | `api.bblabu.hk` | ¥0.5 | $0.5 / $1.5 | 1 | OpenAI | gpt-3.5-turbo-0125 |
-| 36 | `api.chatgptid.net` | ¥0.5 | $1 / $2 | 0.5 | default | gpt-3.5-turbo |
-| 37 | `api.eido.top` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo-0125 |
-| 38 | `api.hopeai.cc` | ¥0.5 | $0.5 / $1 | 1 | default | gpt-3.5-turbo-0125 |
-| 39 | `api.manai8.xyz` | ¥0.5 | $0.5 / $1 | 1 | 生图专用 | gpt-3.5-turbo |
-| 40 | `api.new.bi` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
-| 41 | `api.qinzhiai.com` | ¥0.5 | $0.5 / $1.5 | 1 | az | gpt-3.5-turbo |
-| 42 | `api.routeeasy.ai` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
-| 43 | `api.wanapis.com` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
-| 44 | `api.yourapi.cn` | ¥0.5 | $0.5 / $1.5 | 1 | az-special | gpt-3.5-turbo-0125 |
-| 45 | `api.yuboar.com` | ¥0.5 | $0.5 / $1.5 | 1 | AzureOpenAI | gpt-3.5-turbo |
-| 46 | `coneverse.com` | ¥0.5 | $0.5 / $1.5 | 1 | supply-361a53f4a536c7d44b761806 | gpt-3.5-turbo |
-| 47 | `deepkey.top` | ¥0.5 | $0.5 / $1.5 | 1 | gpt-azure | gpt-3.5-turbo |
-| 48 | `dn.v1api.cc` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
-| 49 | `goapi.gptnb.ai` | ¥0.5 | $0.5 / $1.5 | 1 | Azure | gpt-3.5-turbo |
-| 50 | `gptimgaz.aiearth.dev` | ¥0.5 | $0.5 / $1.5 | 1 | AzureOpenAI | gpt-3.5-turbo |
+| 30 | `cnapi.kksj.org` | ¥0.45 | $0.45 / $0.9 | 1 | default | gpt-3.5-turbo |
+| 31 | `ai.comfly.org` | ¥0.48 | $0.4 / $0.8 | 1.2 | vip | gpt-3.5-turbo |
+| 32 | `123api.co` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
+| 33 | `api.bblabu.hk` | ¥0.5 | $0.5 / $1.5 | 1 | OpenAI | gpt-3.5-turbo-0125 |
+| 34 | `api.chatgptid.net` | ¥0.5 | $1 / $2 | 0.5 | default | gpt-3.5-turbo |
+| 35 | `api.eido.top` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo-0125 |
+| 36 | `api.hopeai.cc` | ¥0.5 | $0.5 / $1 | 1 | default | gpt-3.5-turbo-0125 |
+| 37 | `api.manai8.xyz` | ¥0.5 | $0.5 / $1 | 1 | 生图专用 | gpt-3.5-turbo |
+| 38 | `api.openai-labs.com` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
+| 39 | `api.routeeasy.ai` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
+| 40 | `api.wanapis.com` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
+| 41 | `api.yourapi.cn` | ¥0.5 | $0.5 / $1.5 | 1 | az-special | gpt-3.5-turbo-0125 |
+| 42 | `api.yuboar.com` | ¥0.5 | $0.5 / $1.5 | 1 | AzureOpenAI | gpt-3.5-turbo |
+| 43 | `deepkey.top` | ¥0.5 | $0.5 / $1.5 | 1 | gpt-azure | gpt-3.5-turbo |
+| 44 | `dn.v1api.cc` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo |
+| 45 | `goapi.gptnb.ai` | ¥0.5 | $0.5 / $1.5 | 1 | Azure | gpt-3.5-turbo |
+| 46 | `gptimgaz.aiearth.dev` | ¥0.5 | $0.5 / $1.5 | 1 | AzureOpenAI | gpt-3.5-turbo |
+| 47 | `gptnb.ai` | ¥0.5 | $0.5 / $1.5 | 1 | Azure | gpt-3.5-turbo |
+| 48 | `new.yihubang.top` | ¥0.5 | $0.5 / $1.5 | 1 | GPT 中转 | gpt-3.5-turbo |
+| 49 | `newapi.tu-zi.com` | ¥0.5 | $0.5 / $1.5 | 1 | default | gpt-3.5-turbo-0125 |
+| 50 | `oneapi.gptnb.ai` | ¥0.5 | $0.5 / $1.5 | 1 | Azure | gpt-3.5-turbo |
 
 > 另有 196 站未列出。
 
@@ -67,57 +67,57 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.vibe-subsapi.com` | $0.025 / $0.075 | ChatGPT 混池 | 0.05 | gpt-3.5-turbo |
-| 2 | `s169.bjhuiqu.net` | $0.03 / $0.09 | pro | 0.06 | gpt-3.5-turbo |
-| 3 | `xinyue.mom` | $0.04 / $0.12 | 不降智焚决【只有astra】 | 0.08 | gpt-3.5-turbo |
-| 4 | `api.clawhud.com` | $0.05 / $0.15 | Nvidia | 0.1 | gpt-3.5-turbo |
-| 5 | `api.socode.cc` | $0.05 / $0.15 | GPT[Main] | 0.1 | gpt-3.5-turbo |
-| 6 | `ai.mggoo.com` | $0.06 / $0.18 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-3.5-turbo |
-| 7 | `mgoole.com` | $0.06 / $0.18 | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-3.5-turbo |
-| 8 | `test-sub2.sjapi.top` | $0.075 / $0.225 | plus | 0.15 | gpt-3.5-turbo |
-| 9 | `saletoken.org` | $0.1 / $0.3 | CODEX-pro | 0.2 | gpt-3.5-turbo |
-| 10 | `sub2api.hyl2api.com` | $0.1 / $0.3 | GPT  | 0.2 | gpt-3.5-turbo |
-| 11 | `sub2api.simplaj.top` | $0.1 / $0.3 | GPT 纯血Pro 余额分组 | 0.2 | gpt-3.5-turbo |
-| 12 | `api.geniuscoder.net` | $0.125 / $0.375 | gpt优惠 | 0.25 | gpt-3.5-turbo |
-| 13 | `supersubscribe689.com` | $0.25 / $0.75 | chatgpt美区版 | 0.5 | gpt-3.5-turbo |
-| 14 | `azapi.com.cn` | $0.3 / $0.9 | Azure | 0.6 | gpt-3.5-turbo-0125 |
-| 15 | `ai.comfly.org` | $0.4 / $0.8 | vip | 0.8 | gpt-3.5-turbo |
-| 16 | `api.qhhengxin.top` | $0.5 / $1 | default | 1 | gpt-3.5-turbo |
-| 17 | `api.xistree.hk` | $0.5 / $1.5 | default | 1 | gpt-3.5-turbo |
-| 18 | `expapi.echoflowai.cc` | $0.5 / $1.5 | OpenAI-Pro渠道 | 1 | gpt-3.5-turbo |
-| 19 | `lobe.zen-ai.top` | $0.5 / $1.5 | momo | 1 | gpt-3.5-turbo |
-| 20 | `or.mux.la` | $0.5 / $1.5 | default | 1 | openai/gpt-3.5-turbo |
-| 21 | `ai.kalehui.cn` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 22 | `aiopus.top` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 23 | `api.anthropicricardo.club` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 24 | `api.gpt666claude.top` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 25 | `api.token173.net` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 26 | `api.vectorengine.ai` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 27 | `api.zhiyikeji.cn` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 28 | `api.zhongzhuan.vip` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 29 | `apistudio.vip` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 30 | `dawnnode.com` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 31 | `juhe.34ku.com` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 32 | `one.chatshare.one` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 33 | `ruishiglobal.com` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 34 | `tiantoken.cn` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 35 | `token.kkdmx.com` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 36 | `vortexapi.cn` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 37 | `www.xiaoruiera.top` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 38 | `yuli.host` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
-| 39 | `api.zhimigy.cn` | $0.8 / $2.4 | pro | 1.6 | gpt-3.5-turbo |
-| 40 | `aiapihub.cloud` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 41 | `aiyiwei.vip` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 42 | `anyaigc.com` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 43 | `api-hub.vip` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 44 | `api.aibh.site` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 45 | `api.aicso.top` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 46 | `api.antmoo.com` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 47 | `api.apiplus.org` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 48 | `api.bitidea.cn` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 49 | `api.clai.click` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
-| 50 | `api.cloudmist.cloud` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 1 | `s169.bjhuiqu.net` | $0.03 / $0.09 | pro | 0.06 | gpt-3.5-turbo |
+| 2 | `api.clawhud.com` | $0.05 / $0.15 | Nvidia | 0.1 | gpt-3.5-turbo |
+| 3 | `api.socode.cc` | $0.05 / $0.15 | GPT[Main] | 0.1 | gpt-3.5-turbo |
+| 4 | `test-sub2.sjapi.top` | $0.075 / $0.225 | plus | 0.15 | gpt-3.5-turbo |
+| 5 | `saletoken.org` | $0.1 / $0.3 | CODEX-pro | 0.2 | gpt-3.5-turbo |
+| 6 | `sub2api.hyl2api.com` | $0.1 / $0.3 | GPT  | 0.2 | gpt-3.5-turbo |
+| 7 | `new.984275579.xyz` | $0.115 / $0.345 | Codex-官KEY | 0.23 | gpt-3.5-turbo |
+| 8 | `api.geniuscoder.net` | $0.125 / $0.375 | gpt优惠 | 0.25 | gpt-3.5-turbo |
+| 9 | `supersubscribe689.com` | $0.25 / $0.75 | chatgpt美区版 | 0.5 | gpt-3.5-turbo |
+| 10 | `api.hy88.my` | $0.3 / $0.9 | gpt_high | 0.6 | gpt-3.5-turbo-0125 |
+| 11 | `momoai.asia` | $0.4 / $1.2 | codex余额分组 | 0.8 | gpt-3.5-turbo |
+| 12 | `lobe.zen-ai.top` | $0.5 / $1.5 | mt | 1 | gpt-3.5-turbo |
+| 13 | `fugui.im` | $0.7 / $2.1 | 【官渠】AZ-GPT-满血官渠 | 1.4 | gpt-3.5-turbo |
+| 14 | `api.gpt666claude.top` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 15 | `api.token173.net` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 16 | `api.vectorengine.ai` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 17 | `api.zhiyikeji.cn` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 18 | `api.zhongzhuan.vip` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 19 | `juhe.34ku.com` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 20 | `one.chatshare.one` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 21 | `ruishiglobal.com` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 22 | `yuli.host` | $0.75 / $2.25 | 纯AZ | 1.5 | gpt-3.5-turbo |
+| 23 | `api.zhimigy.cn` | $0.8 / $2.4 | pro | 1.6 | gpt-3.5-turbo |
+| 24 | `cccode.pro` | $0.85 / $2.55 | azgpt | 1.7 | gpt-3.5-turbo |
+| 25 | `aiapihub.cloud` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 26 | `aiyiwei.vip` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 27 | `anyaigc.com` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 28 | `api-hub.vip` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 29 | `api.aibh.site` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 30 | `api.aicso.top` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 31 | `api.antmoo.com` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 32 | `api.apiplus.org` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 33 | `api.bitidea.cn` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 34 | `api.clai.click` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 35 | `api.cloudmist.cloud` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 36 | `api.mumuverse.space` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 37 | `api.qingyuntop.top` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 38 | `api.winfull.cloud-ip.cc` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 39 | `api.wlai.vip` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 40 | `api.xueai.me` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 41 | `api.zhongzhuan.chat` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 42 | `api123.eu.cc` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 43 | `apilink.shop` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 44 | `apixin.cn` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 45 | `juapi.cc` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 46 | `lemonapi.cn` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 47 | `linxingran.top` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 48 | `minitoken.top` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 49 | `new.xhuoai.com` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
+| 50 | `next.aigc2d.com` | $1 / $2 | default | 1 | gpt-3.5-turbo-1106 |
 
-> 另有 42 站未列出。
+> 另有 26 站未列出。
 
-> 32 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3.8-omni-flash
 
-> 45 站提供 · 正常价 23 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.72**/1M 输入（21 站公开充值价） · 推算，未对账
+> 117 站提供 · 正常价 88 站 · 名义中位价 **$0.1125**/1M 输入 · 实付中位价 **¥0.6522**/1M 输入（87 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,33 +10,63 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `⚠️codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | qwen3.8-omni-flash |
-| 2 | `coneverse.com` | ¥0.1191 | $0.119057 / $0.401816 | 1 | supply-c8b615a9916b720126c045d3 | qwen3.8-omni-flash |
-| 3 | `infistar.ai` | ¥0.1191 | $0.119057 / $0.401816 | 1 | supply-c8b615a9916b720126c045d3 | qwen3.8-omni-flash |
-| 4 | `crowllm.com` | ¥0.15 | $0.15 / $0.32 | 1 | pro | qwen3.8-omni-flash |
-| 5 | `api.unorouter.com` | ¥0.3 | $0.3 / $0.93999 | 1 | open1-alibaba-qwen3.8-omni-flash | qwen3.8-omni-flash |
-| 6 | `ai.mowen.vip` | ¥0.3998 | $0.059766 / $0.20171 | 6.6892 | default | Qwen3.8-Omni-Flash |
-| 7 | `api.zcloudapi.com` | ¥0.52 | $0.0712329 / $0.240411 | 7.3 | 国产模型 | qwen3.8-omni-flash |
-| 8 | `kuaipao.ai` | ¥0.576 | $1.44 / $4.86 | 0.4 | China | qwen3.8-omni-flash |
-| 9 | `beeroute.ai` | ¥0.632 | $0.632 / $2.133 | 1 | CN-Model-Special​ | qwen3.8-omni-flash |
-| 10 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.632 | $0.632 / $2.133 | 1 | CN-Model-Special​ | qwen3.8-omni-flash |
-| 11 | `claudecn.ai` | ¥0.72 | $0.72 / $2.43 | 1 | 国产模型 | qwen3.8-omni-flash |
-| 12 | `ai-model.chinaz.net` | ¥0.8 | $0.109589 / $0.0958904 | 7.3 | default | qwen3.8-omni-flash |
-| 13 | `api.appintheloop.com` | ¥0.8343 | $0.114286 / $0.385714 | 7.3 | qwen-official-stable-h | qwen3.8-omni-flash |
-| 14 | `ai.bytonsec.com` | ¥0.9 | $0.9 / $2.82 | 1 | OpenRouter | qwen/qwen3.8-omni-flash |
-| 15 | `tokenflux.ai` | ¥1.05 | $0.15 / $0.469999 | 7 | default | qwen/qwen3.8-omni-flash |
-| 16 | `yibuapi.com` | ¥1.14 | $0.76 / $2.565 | 1.5 | default | qwen3.8-omni-flash |
-| 17 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $0.723077 | 7.3 | default | qwen/qwen3.8-omni-flash |
-| 18 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | qwen3.8-omni-flash |
-| 19 | `ruiyumaas.com` | ¥5.256 | $0.72 / $2.43 | 7.3 | qwen3.8 | qwen3.8-omni-flash |
-| 20 | `a6api.com` | ¥6.88 | $1 / $1 | 6.88 | default | qwen3.8-omni-flash |
-| 21 | `api.baoyouhuyu.com` | ¥73 | $10 / $10 | 7.3 | qwen | qwen3.8-omni-flash |
+| 1 | `newapi.prorisehub.com` | ¥0.075 | $0.075 / $0.234997 | 1 | 海外国产编程模 | qwen3.8-omni-flash |
+| 2 | `⚠️codelypixverse.com` | ¥0.07692 | $0.0769231 / $0.0769231 | 1 | default | qwen3.8-omni-flash |
+| 3 | `laysoai.com` | ¥0.07882 | $0.07882 / $0.266018 | 1 | Alibaba-1 | qwen3.8-omni-flash |
+| 4 | `coneverse.com` | ¥0.1191 | $0.119057 / $0.401816 | 1 | supply-c8b615a9916b720126c045d3 | qwen3.8-omni-flash |
+| 5 | `infistar.ai` | ¥0.1191 | $0.119057 / $0.401816 | 1 | supply-c8b615a9916b720126c045d3 | qwen3.8-omni-flash |
+| 6 | `crowllm.com` | ¥0.15 | $0.15 / $0.32 | 1 | pro | qwen3.8-omni-flash |
+| 7 | `xiaoqie.xyz` | ¥0.15 | $0.15 / $0.47 | 1 | OpenRouter官方线路 | qwen/qwen3.8-omni-flash |
+| 8 | `api9.bjhuiqu.net` | ¥0.16 | $0.16 / $0.54 | 1 | 国模特供 | qwen3.8-omni-flash |
+| 9 | `www.nexotoken.net` | ¥0.24 | $0.24 / $0.81 | 1 | 国产优选 | qwen3.8-omni-flash |
+| 10 | `chrisapivip.com` | ¥0.28 | $0.28 / $0.945 | 1 | HS火山引擎 | qwen3.8-omni-flash |
+| 11 | `api.unorouter.com` | ¥0.3 | $0.3 / $0.93999 | 1 | open1-alibaba-qwen3.8-omni-flash | qwen3.8-omni-flash |
+| 12 | `ai.kdysite.cloud` | ¥0.33 | $0.33 / $0.96 | 1 | 国产稳定-2 | qwen3.8-omni-flash |
+| 13 | `api.zcloudapi.com` | ¥0.4 | $0.0547945 / $0.184932 | 7.3 | 国产模型 | qwen3.8-omni-flash |
+| 14 | `api.openlux.ai` | ¥0.5017 | $0.075 / $0.235 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 15 | `api.relayrouter.ai` | ¥0.5017 | $0.075 / $0.235 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 16 | `openlux.zhongzhuan.chat` | ¥0.5017 | $0.075 / $0.235 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 17 | `4zapi.com` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 18 | `ai.kalehui.cn` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 19 | `aiopus.top` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 20 | `aipipe.site` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 21 | `api.anthropicricardo.club` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 22 | `api.modelyard.cc` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 23 | `api.tidewhisper-ai.xyz` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 24 | `apistudio.vip` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 25 | `dawnnode.com` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 26 | `gzxbykj.com` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 27 | `tiantoken.cn` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 28 | `token.kkdmx.com` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 29 | `vortexapi.cn` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 30 | `www.vectronode.com` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 31 | `www.xiaoruiera.top` | ¥0.5519 | $0.0825 / $0.2585 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 32 | `yunwu.org` | ¥0.5619 | $0.084 / $0.2632 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 33 | `api.antmoo.cc` | ¥0.577 | $0.08625 / $0.27025 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 34 | `v2.cloudmist.cloud` | ¥0.577 | $0.08625 / $0.27025 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 35 | `apiclaw.cn` | ¥0.6071 | $0.09075 / $0.28435 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 36 | `ciyuan.today` | ¥0.6271 | $0.09375 / $0.29375 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 37 | `gptapi.top` | ¥0.6271 | $0.09375 / $0.29375 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 38 | `makerend.com` | ¥0.6271 | $0.09375 / $0.29375 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 39 | `beeroute.ai` | ¥0.632 | $0.632 / $2.133 | 1 | CN-Model-Special​ | qwen3.8-omni-flash |
+| 40 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.632 | $0.632 / $2.133 | 1 | CN-Model-Special​ | qwen3.8-omni-flash |
+| 41 | `moliapi.com` | ¥0.6321 | $0.0945 / $0.2961 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 42 | `ai-api.cc` | ¥0.6522 | $0.0975 / $0.3055 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 43 | `infai.cc` | ¥0.6522 | $0.0975 / $0.3055 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 44 | `sucloud.vip` | ¥0.6522 | $0.0975 / $0.3055 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 45 | `newapi.xueai.me` | ¥0.6622 | $0.099 / $0.3102 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 46 | `nodapi.com` | ¥0.6622 | $0.099 / $0.3102 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 47 | `anyaigc.ai` | ¥0.6773 | $0.10125 / $0.31725 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 48 | `fluxapi.top` | ¥0.7024 | $0.105 / $0.329 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 49 | `sheepaiplus.top` | ¥0.7024 | $0.105 / $0.329 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+| 50 | `xiguapi.icu` | ¥0.7024 | $0.105 / $0.329 | 6.68934 | Self-Deployed-2 | qwen3.8-omni-flash |
+
+> 另有 37 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `ai.kdysite.cloud` | $0.11 / $0.32 | 国产经济区 | 0.1 | qwen3.8-omni-flash |
-| 2 | `nodeai.cc` | $0.4 / $1.35 |  Qwen | 0.5 | Qwen3.8-Omni-Flash |
+| 1 | `nodeai.cc` | $0.4 / $1.35 |  Qwen | 0.5 | Qwen3.8-Omni-Flash |
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 29 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

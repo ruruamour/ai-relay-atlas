@@ -1,6 +1,6 @@
 # gpt-image-1-mini
 
-> 252 站提供 · 正常价 130 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（107 站公开充值价） · 推算，未对账
+> 184 站提供 · 正常价 85 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥6.424**/1M 输入（67 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,85 +10,80 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.antmoo.cc` | ¥0.6799 | $0.1012 / $0.4048 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 2 | `v2.cloudmist.cloud` | ¥0.6799 | $0.1012 / $0.4048 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 3 | `www.vectronode.com` | ¥0.7094 | $0.1056 / $0.4224 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 4 | `apiclaw.cn` | ¥0.7153 | $0.10648 / $0.42592 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 5 | `newapi.xueai.me` | ¥0.7153 | $0.10648 / $0.42592 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 6 | `wodapis.com` | ¥0.7153 | $0.10648 / $0.42592 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 7 | `ciyuan.today` | ¥0.739 | $0.11 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 8 | `gptapi.top` | ¥0.739 | $0.11 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 9 | `makerend.com` | ¥0.739 | $0.11 / $0.44 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 10 | `moliapi.com` | ¥0.7449 | $0.11088 / $0.44352 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 11 | `ai-api.cc` | ¥0.7685 | $0.1144 / $0.4576 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 12 | `nodapi.com` | ¥0.7804 | $0.11616 / $0.46464 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 13 | `anyaigc.ai` | ¥0.7981 | $0.1188 / $0.4752 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 14 | `sheepaiplus.top` | ¥0.8277 | $0.1232 / $0.4928 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 15 | `xiguapi.icu` | ¥0.8277 | $0.1232 / $0.4928 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 16 | `api.88api.chat` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 17 | `api.88api.shop` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 18 | `api.videocaptioner.cn` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 19 | `lanbuff.app` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 20 | `new.aigc2d.com` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 21 | `oyy-ai.xyz` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 22 | `infai.cc` | ¥0.9341 | $0.13904 / $0.55616 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 23 | `api.nixapi.com` | ¥0.9991 | $0.14872 / $0.59488 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 24 | `aiwuje.com` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 25 | `api.cursorai.art` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 26 | `api.echoflowai.cc` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 27 | `api.n1n.ai` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 28 | `api.quickrouter.ai` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 29 | `jeniya.cn` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 30 | `linoapi.com` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 31 | `linoroute.com` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 32 | `llm-api.net` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 33 | `quanzil.com` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 34 | `token173.net` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 35 | `tryallapi.com` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 36 | `wellapi.ai` | ¥1.182 | $0.176 / $0.704 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 37 | `thousandengine.com` | ¥1.203 | $0.17908 / $0.71632 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
-| 38 | `kfcv50.link` | ¥1.6 | $1.6 / $6.4 | 1 | pure_az | gpt-image-1-mini |
-| 39 | `layso.ai` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-1 | gpt-image-1-mini |
-| 40 | `laysoai.com` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-1 | gpt-image-1-mini |
-| 41 | `api.aiskt.com` | ¥2 | $2 / $8 | 1 | azure1 | gpt-image-1-mini-2025-10-06 |
-| 42 | `api.bltcy.ai` | ¥2 | $2 / $8 | 1 | svip | gpt-image-1-mini |
-| 43 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | gpt-image-1-mini |
-| 44 | `api.routeeasy.ai` | ¥2 | $2 / $8 | 1 | default | gpt-image-1-mini |
-| 45 | `api.yuboar.com` | ¥2 | $2 / $8 | 1 | AzureOpenAI | gpt-image-1-mini |
-| 46 | `apilio.ai` | ¥2 | $2 / $8 | 1 | svip | gpt-image-1-mini |
-| 47 | `cn.gptapi.asia` | ¥2 | $2 / $7 | 1 | default | gpt-image-1-mini |
-| 48 | `goapi.gptnb.ai` | ¥2 | $2 / $8 | 1 | Azure | gpt-image-1-mini |
-| 49 | `gptimgaz.aiearth.dev` | ¥2 | $2 / $8 | 1 | AzureOpenAI | gpt-image-1-mini |
-| 50 | `gptnb.ai` | ¥2 | $2 / $8 | 1 | Azure | gpt-image-1-mini |
+| 1 | `api.videocaptioner.cn` | ¥0.8868 | $0.132 / $0.528 | 6.718 | Azure-Gpt-1 | gpt-image-1-mini |
+| 2 | `kfcv50.link` | ¥1.6 | $1.6 / $6.4 | 1 | pure_az | gpt-image-1-mini |
+| 3 | `layso.ai` | ¥1.95 | $1.95 / $7.8 | 1 | Azure-Gpt-1 | gpt-image-1-mini |
+| 4 | `api.aiskt.com` | ¥2 | $2 / $8 | 1 | azure1 | gpt-image-1-mini-2025-10-06 |
+| 5 | `api.bltcy.ai` | ¥2 | $2 / $8 | 1 | svip | gpt-image-1-mini |
+| 6 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | gpt-image-1-mini |
+| 7 | `api.routeeasy.ai` | ¥2 | $2 / $8 | 1 | default | gpt-image-1-mini |
+| 8 | `api.yuboar.com` | ¥2 | $2 / $8 | 1 | AzureOpenAI | gpt-image-1-mini |
+| 9 | `apilio.ai` | ¥2 | $2 / $8 | 1 | svip | gpt-image-1-mini |
+| 10 | `cn.gptapi.asia` | ¥2 | $2 / $7 | 1 | default | gpt-image-1-mini |
+| 11 | `goapi.gptnb.ai` | ¥2 | $2 / $8 | 1 | Azure | gpt-image-1-mini |
+| 12 | `gptimgaz.aiearth.dev` | ¥2 | $2 / $8 | 1 | AzureOpenAI | gpt-image-1-mini |
+| 13 | `gptnb.ai` | ¥2 | $2 / $8 | 1 | Azure | gpt-image-1-mini |
+| 14 | `oneapi.gptnb.ai` | ¥2 | $2 / $8 | 1 | Azure | gpt-image-1-mini |
+| 15 | `platform.anyrouter.ai` | ¥2 | $2 / $8 | 1 | Azure4 | gpt-image-1-mini |
+| 16 | `test-ssl.bltcy.ai` | ¥2 | $2 / $8 | 1 | svip | gpt-image-1-mini |
+| 17 | `yutoapi.com` | ¥2 | $2 / $7 | 1 | default | gpt-image-1-mini |
+| 18 | `zen-ai.top` | ¥2 | $2 / $8 | 1 | default | gpt-image-1-mini |
+| 19 | `ai.comfly.org` | ¥2.4 | $2 / $8 | 1.2 | svip | gpt-image-1-mini |
+| 20 | `api.camel-hub.com` | ¥2.4 | $3 / $9.6 | 0.8 | default | gpt-image-1-mini |
+| 21 | `dev.novaapi.ai` | ¥2.5 | $2.5 / $2.5 | 1 | default | gpt-image-1-mini |
+| 22 | `keypool.space` | ¥2.5 | $2.5 / $8 | 1 | default | gpt-image-1-mini |
+| 23 | `novaapi.ai` | ¥2.5 | $2.5 / $2.5 | 1 | default | gpt-image-1-mini |
+| 24 | `proaiapi.tech` | ¥2.5 | $2.5 / $10 | 1 | default | gpt-image-1-mini |
+| 25 | `xinsuanai.com` | ¥2.5 | $2.5 / $8 | 1 | default | gpt-image-1-mini |
+| 26 | `ai.t8star.org` | ¥2.7 | $2 / $8 | 1.35 | svip | gpt-image-1-mini |
+| 27 | `147ai.online` | ¥3.2 | $4 / $16 | 0.8 | default | gpt-image-1-mini |
+| 28 | `api.nekoapi.com` | ¥4 | $2 / $8 | 2 | default | gpt-image-1-mini |
+| 29 | `api.qiqiai.top` | ¥4 | $2 / $8 | 2 | default | gpt-image-1-mini |
+| 30 | `gpt777.top` | ¥4 | $4 / $16 | 1 | Azure | gpt-image-1-mini |
+| 31 | `test-api.apiqik.online` | ¥4.2 | $0.6 / $2.4 | 7 | openai | gpt-image-1-mini |
+| 32 | `mb.dmxapi.cn` | ¥5.625 | $1.125 / $3.15 | 5 | default | gpt-image-1-mini |
+| 33 | `api.xi-ai.cn` | ¥6 | $6 / $24 | 1 | default | gpt-image-1-mini |
+| 34 | `plusx.nyxos.shop` | ¥6.424 | $0.88 / $3.52 | 7.3 | Azure-GPT-1 | gpt-image-1-mini |
+| 35 | `api.ifopen.ai` | ¥7 | $2 / $8 | 3.5 | default | gpt-image-1-mini |
+| 36 | `api.openai-labs.com` | ¥7 | $7 / $28 | 1 | openai-max | gpt-image-1-mini |
+| 37 | `api2.aigcbest.top` | ¥7 | $2 / $8 | 3.5 | default | gpt-image-1-mini |
+| 38 | `api.xgapi.top` | ¥7.5 | $7.5 / $24 | 1 | default | gpt-image-1-mini |
+| 39 | `api.zyai.online` | ¥7.5 | $7.5 / $15 | 1 | chongzhi | gpt-image-1-mini |
+| 40 | `www.cybersol.net` | ¥9.6 | $4.8 / $19.2 | 2 | GPT Premium | gpt-image-1-mini |
+| 41 | `api1.147ai.com` | ¥10 | $10 / $40 | 1 | openai | gpt-image-1-mini |
+| 42 | `poloai.top` | ¥11.5 | $11.5 / $92 | 1 | fast-az | gpt-image-1-mini |
+| 43 | `poloapi.top` | ¥11.5 | $11.5 / $92 | 1 | fast-az | gpt-image-1-mini |
+| 44 | `getgoapi.com` | ¥11.52 | $1.6 / $6.4 | 7.2 | default | gpt-image-1-mini |
+| 45 | `ai2.qiqiai.top` | ¥11.68 | $1.6 / $6.4 | 7.3 | azure | gpt-image-1-mini |
+| 46 | `ai.mowen.vip` | ¥13.37 | $2 / $8 | 6.68494 | default | gpt-image-1-mini |
+| 47 | `airouter.org` | ¥13.6 | $13.6 / $54.4 | 1 | svip | gpt-image-1-mini |
+| 48 | `apicdn.xyc.ai` | ¥13.8 | $2 / $4 | 6.9 | gpt-flow | gpt-image-1-mini |
+| 49 | `apicdn.xycai.us` | ¥13.8 | $2 / $4 | 6.9 | gpt-flow | gpt-image-1-mini |
+| 50 | `api.apiyi.com` | ¥14 | $2 / $8 | 7 | default | gpt-image-1-mini |
 
-> 另有 57 站未列出。
+> 另有 17 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.vibe-subsapi.com` | $0.1 / - | ChatGPT 混池 | 0.05 | gpt-image-1-mini |
-| 2 | `s169.bjhuiqu.net` | $0.12 / - | pro | 0.06 | gpt-image-1-mini |
-| 3 | `xinyue.mom` | $0.16 / - | 不降智焚决【只有astra】 | 0.08 | gpt-image-1-mini |
-| 4 | `api.clawhud.com` | $0.2 / - | Nvidia | 0.1 | gpt-image-1-mini |
-| 5 | `api.socode.cc` | $0.2 / - | GPT[Main] | 0.1 | gpt-image-1-mini |
-| 6 | `ai.mggoo.com` | $0.24 / - | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-image-1-mini |
-| 7 | `mgoole.com` | $0.24 / - | GPT-20x(尽力低价-不稳就换) | 0.12 | gpt-image-1-mini |
-| 8 | `test-sub2.sjapi.top` | $0.3 / - | plus | 0.15 | gpt-image-1-mini |
-| 9 | `saletoken.org` | $0.4 / $0 | CODEX-pro | 0.2 | gpt-image-1-mini |
-| 10 | `sub2api.hyl2api.com` | $0.4 / - | GPT  | 0.2 | gpt-image-1-mini |
-| 11 | `sub2api.simplaj.top` | $0.4 / - | GPT 纯血Pro 余额分组 | 0.2 | gpt-image-1-mini |
-| 12 | `api.geniuscoder.net` | $0.5 / - | gpt优惠 | 0.25 | gpt-image-1-mini |
-| 13 | `spacetimeai.cc` | $0.6 / - | Codex Pro | 0.3 | gpt-image-1-mini |
-| 14 | `supersubscribe689.com` | $1 / - | chatgpt美区版 | 0.5 | gpt-image-1-mini |
-| 15 | `ai.comfly.org` | $2 / $8 | default | 1 | gpt-image-1-mini |
-| 16 | `api.zhiyikeji.cn` | $2 / $8 | default | 1 | gpt-image-1-mini |
-| 17 | `expapi.echoflowai.cc` | $2 / - | OpenAI-Pro渠道 | 1 | gpt-image-1-mini |
-| 18 | `lobe.zen-ai.top` | $2 / $8 | momo | 1 | gpt-image-1-mini |
-| 19 | `api.zhimigy.cn` | $3.2 / - | pro | 1.6 | gpt-image-1-mini |
-| 20 | `api.akko.space` | $5 / - | Codex Azure | 2.5 | gpt-image-1-mini |
-| 21 | `poloapi.top` | $7.5 / $60 | az | 1.5 | gpt-image-1-mini |
-| 22 | `vip.zen-ai.top` | $8.8 / $35.2 | azure | 4.4 | gpt-image-1-mini |
-| 23 | `sub.hongyun.chat` | $15 / - | gpt | 7.5 | gpt-image-1-mini |
+| 1 | `s169.bjhuiqu.net` | $0.12 / - | pro | 0.06 | gpt-image-1-mini |
+| 2 | `api.clawhud.com` | $0.2 / - | Nvidia | 0.1 | gpt-image-1-mini |
+| 3 | `api.socode.cc` | $0.2 / - | GPT[Main] | 0.1 | gpt-image-1-mini |
+| 4 | `test-sub2.sjapi.top` | $0.3 / - | plus | 0.15 | gpt-image-1-mini |
+| 5 | `saletoken.org` | $0.4 / $0 | CODEX-pro | 0.2 | gpt-image-1-mini |
+| 6 | `sub2api.hyl2api.com` | $0.4 / - | GPT  | 0.2 | gpt-image-1-mini |
+| 7 | `new.984275579.xyz` | $0.46 / - | Codex-官KEY | 0.23 | gpt-image-1-mini |
+| 8 | `api.geniuscoder.net` | $0.5 / - | gpt优惠 | 0.25 | gpt-image-1-mini |
+| 9 | `supersubscribe689.com` | $1 / - | chatgpt美区版 | 0.5 | gpt-image-1-mini |
+| 10 | `momoai.asia` | $1.6 / - | codex余额分组 | 0.8 | gpt-image-1-mini |
+| 11 | `api.zhiyikeji.cn` | $2 / $8 | default | 1 | gpt-image-1-mini |
+| 12 | `lobe.zen-ai.top` | $2 / $8 | momo | 1 | gpt-image-1-mini |
+| 13 | `8888.name` | $3 / - | GPT—Az渠道 | 1.5 | gpt-image-1-mini |
+| 14 | `api.zhimigy.cn` | $3.2 / - | pro | 1.6 | gpt-image-1-mini |
+| 15 | `api.akko.space` | $5 / - | Codex Azure | 2.5 | gpt-image-1-mini |
+| 16 | `vip.zen-ai.top` | $8.8 / $35.2 | azure | 4.4 | gpt-image-1-mini |
+| 17 | `sub.hongyun.chat` | $15 / - | gpt | 7.5 | gpt-image-1-mini |
+| 18 | `api.aabao.ai` | $16 / $64 | OpenAI直连 | 8 | gpt-image-1-mini |
 
-> 122 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 99 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

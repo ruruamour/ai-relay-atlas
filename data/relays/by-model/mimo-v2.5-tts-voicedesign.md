@@ -1,6 +1,6 @@
 # mimo-v2.5-tts-voicedesign
 
-> 40 站提供 · 正常价 4 站 · 名义中位价 **$0.7**/1M 输入 · 实付中位价 **¥2.708**/1M 输入（3 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 4 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥2.854**/1M 输入（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,14 +10,9 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `ai.hebox.net` | ¥0.0005475 | $0.000075 / $0.000075 | 7.3 | 零元购 | mimo-v2.5-tts-voicedesign |
+| 1 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | mimo-v2.5-tts-voicedesign |
 | 2 | `ai-api.loft.games` | ¥2.708 | $0.4 / $0.4 | 6.77 | default | mimo-v2.5-tts-voicedesign |
 | 3 | `otoken.pro` | ¥3 | $3 / $3 | 1 | default | mimo-v2.5-tts-voicedesign |
+| 4 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | mimo-v2.5-tts-voicedesign |
 
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `api.luoqianyi.qzz.io` | $1 / $1 | default | 1 | mimo-v2.5-tts-voicedesign |
-
-> 36 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

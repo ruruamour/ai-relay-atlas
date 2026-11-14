@@ -1,6 +1,6 @@
 # gemini-2.0-flash-exp-image-generation
 
-> 33 站提供 · 正常价 12 站 · 名义中位价 **$1.4**/1M 输入 · 实付中位价 **¥1.4**/1M 输入（12 站公开充值价） · 推算，未对账
+> 34 站提供 · 正常价 12 站 · 名义中位价 **$1.4**/1M 输入 · 实付中位价 **¥1.4**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,4 +23,4 @@
 | 11 | `www.micuapi.ai` | ¥2.5 | $2.5 / $10 | 1 | - | gemini-2.0-flash-exp-image-generation |
 | 12 | `webapi.xjai.cc` | ¥7.5 | $2.5 / $10 | 3 | default | gemini-2.0-flash-exp-image-generation |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

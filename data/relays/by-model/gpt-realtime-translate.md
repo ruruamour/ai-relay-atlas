@@ -1,6 +1,6 @@
 # gpt-realtime-translate
 
-> 31 站提供 · 正常价 2 站 · 名义中位价 **$27.2**/1M 输入 · 实付中位价 **¥27.2**/1M 输入（2 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 4 站 · 名义中位价 **$15.475**/1M 输入 · 实付中位价 **¥27.2**/1M 输入（2 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,4 +13,11 @@
 | 1 | `cn.gptapi.asia` | ¥27.2 | $27.2 / $27.2 | 1 | default | gpt-realtime-translate |
 | 2 | `yutoapi.com` | ¥27.2 | $27.2 / $27.2 | 1 | default | gpt-realtime-translate |
 
-> 29 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+## 名义价（未公开充值价，按 $ 排序）
+
+| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+|---|---|---|---|---|---|
+| 1 | `new.984275579.xyz` | $0.575 / $3.45 | Codex-官KEY | 0.23 | gpt-realtime-translate |
+| 2 | `8888.name` | $3.75 / $22.5 | GPT—Az渠道 | 1.5 | gpt-realtime-translate |
+
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

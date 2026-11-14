@@ -1,6 +1,6 @@
 # jev-1.13
 
-> 20 站提供 · 正常价 10 站 · 名义中位价 **$0.05565**/1M 输入 · 实付中位价 **¥0.2856**/1M 输入（9 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 10 站 · 名义中位价 **$0.07585**/1M 输入 · 实付中位价 **¥0.2898**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,19 +11,19 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `easyrouter.io` | ¥0.042 | $0.042 / $0 | 1 | default | typesafe/jev-1.13 |
-| 2 | `cf.modelflare.dev` | ¥0.0483 | $0.0483 / $0 | 1 | jev-premium | jev-1.13 |
-| 3 | `api.unorouter.com` | ¥0.084 | $0.0839989 / $0 | 1 | jev1 | jev-1.13 |
-| 4 | `botcf.com` | ¥0.2856 | $0.2856 / $0 | 1 | 🎲typesefe | jev-1.13 |
-| 5 | `xn--15q04w3tg4kio0a.com` | ¥0.2856 | $0.2856 / $0 | 1 | 🎲typesefe | jev-1.13 |
-| 6 | `api.tokenrouter.com` | ¥0.294 | $0.042 / $0 | 7 | default | typesafe/jev-1.13 |
-| 7 | `crazyrouter.com` | ¥0.294 | $0.042 / $0 | 7 | default | jev-1.13 |
-| 8 | `api.orcarouter.ai` | ¥0.3066 | $0.042 / $0 | 7.3 | vip | typesafe/jev-1.13 |
-| 9 | `ai.hebox.net` | ¥49.27 | $6.75 / $6.75 | 7.3 | 官转 | jev-1.13 |
+| 2 | `api.unorouter.com` | ¥0.0887 | $0.0887 / $0 | 1 | jev1 | jev-1.13 |
+| 3 | `botcf.com` | ¥0.2856 | $0.2856 / $0 | 1 | 🎲typesefe | jev-1.13 |
+| 4 | `xn--15q04w3tg4kio0a.com` | ¥0.2856 | $0.2856 / $0 | 1 | 🎲typesefe | jev-1.13 |
+| 5 | `api.tokenrouter.com` | ¥0.294 | $0.042 / $0 | 7 | vip | typesafe/jev-1.13 |
+| 6 | `api.orcarouter.ai` | ¥0.3066 | $0.042 / $0 | 7.3 | default | typesafe/jev-1.13 |
+| 7 | `mayi-eur.llmport.io` | ¥0.3066 | $0.042 / $0.042 | 7.3 | default | jev-1.13 |
+| 8 | `ai.hebox.net` | ¥4.928 | $0.675 / $0.675 | 7.3 | 官转 | jev-1.13 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `clodex.xyz` | $0.063 / $0.063 | default | 1 | jev-1.13 |
+| 2 | `meta-api.vip` | $1.40036 / $0 | 企业级 | 1 | jev-1.13 |
 
 > 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

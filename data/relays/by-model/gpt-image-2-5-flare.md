@@ -1,6 +1,6 @@
 # gpt-image-2-5-flare
 
-> 25 站提供 · 正常价 5 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥36.5**/1M 输入（1 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 12 站 · 名义中位价 **$0.0925**/次 · 实付中位价 **¥0.1125**/次（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -8,17 +8,24 @@
 
 实付 = 名义价 × 充值价（元 / 1 美元额度）。
 
-| # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
+| # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `agent.tokensea.ai` | ¥36.5 | $5 / $30 | 7.3 | svip | gpt-image-2-5-flare |
+| 1 | `dasuapi.com` | ¥0.05 | $0.05 | 1 | 生图 | gpt-image-2-5-flare |
+| 2 | `cn.jbbt.cc` | ¥0.06 | $0.06 | 1 | 生图 | gpt-image-2-5-flare |
+| 3 | `jbbtoken.cn` | ¥0.06 | $0.06 | 1 | 生图 | gpt-image-2-5-flare |
+| 4 | `api.nbility.ai` | ¥0.072 | $0.072 | 1 | image | gpt-image-2-5-flare |
+| 5 | `www.191u.cn` | ¥0.105 | $0.105 | 1 | A4-gpt官key | gpt-image-2-5-flare |
+| 6 | `qxy.jbbt.cc` | ¥0.12 | $0.12 | 1 | 生图 | gpt-image-2-5-flare |
+| 7 | `www.fastapi.ltd` | ¥0.15 | $0.15 | 1 | 1-gpt | gpt-image-2-5-flare |
+| 8 | `api.2slk.com` | ¥0.5 | $0.5 | 1 | default | gpt-image-2-5-flare |
+| 9 | `admin.cygnenoir.space` | ¥0.584 | $0.08 | 7.3 | vip | gpt-image-2-5-flare |
+| 10 | `api.humanwill.xyz` | ¥2.19 | $0.3 | 7.3 | 生图 | gpt-image-2-5-flare |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
+| # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `wqdsjhaoai.site` | $0.75 / $1.5 | newgpt | 0.15 | new-gpt-image-2-5-flare |
-| 2 | `8888.name` | $1 / $2 | GPT—官key | 0.2 | gpt-image-2-5-flare |
-| 3 | `anxiii.com` | $2 / $4 | openart | 1 | gpt-image-2-5-flare |
-| 4 | `api.text168.com` | $5 / $10 | image-2标准 | 1 | gpt-image-2-5-flare |
+| 1 | `yzstudio.vip` | $0.005 | 生图分组 | 0.1 | gpt-image-2-5-flare |
+| 2 | `www.ohmycodex.cn` | $0.12 | OpenAI - 图片生成专用 | 1 | gpt-image-2-5-flare |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

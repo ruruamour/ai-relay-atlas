@@ -1,6 +1,6 @@
 # text-embedding-v4
 
-> 29 站提供 · 正常价 18 站 · 名义中位价 **$0.395**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（17 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 17 站 · 名义中位价 **$0.395**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,21 +17,15 @@
 | 5 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.395 | $0.395 / $0.395 | 1 | CN-Model-Special​ | text-embedding-v4 |
 | 6 | `api.laozhang.ai` | ¥0.49 | $0.07 / $0.07 | 7 | default | text-embedding-v4 |
 | 7 | `ai.amaxsmp.com` | ¥0.5 | $0.5 / $0.5 | 1 | 原厂直供 | text-embedding-v4 |
-| 8 | `aiapibase.top` | ¥0.5 | $0.5 / $0.5 | 1 | default | text-embedding-v4 |
-| 9 | `api.xi-ai.cn` | ¥0.5 | $0.5 / $0.5 | 1 | 国产模型 | text-embedding-v4 |
-| 10 | `n.lconai.com` | ¥0.5 | $0.5 / $0.5 | 1 | A2 | text-embedding-v4 |
-| 11 | `maas.afirstsoft.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
-| 12 | `ssvip.dmxapi.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
-| 13 | `gpt777.top` | ¥0.56 | $0.56 / $0.56 | 1 | opensource | text-embedding-v4 |
-| 14 | `ai.mowen.vip` | ¥1.171 | $0.175 / $0.175 | 6.6892 | default | text-embedding-v4 |
-| 15 | `www.hohoapi.com` | ¥1.365 | $0.455 / $0.455 | 3 | default | text-embedding-v4 |
+| 8 | `api.xi-ai.cn` | ¥0.5 | $0.5 / $0.5 | 1 | 国产模型 | text-embedding-v4 |
+| 9 | `n.lconai.com` | ¥0.5 | $0.5 / $0.5 | 1 | A2 | text-embedding-v4 |
+| 10 | `maas.afirstsoft.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
+| 11 | `ssvip.dmxapi.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
+| 12 | `gpt777.top` | ¥0.56 | $0.56 / $0.56 | 1 | opensource | text-embedding-v4 |
+| 13 | `ai.mowen.vip` | ¥1.17 | $0.175 / $0.175 | 6.68494 | default | text-embedding-v4 |
+| 14 | `www.hohoapi.com` | ¥1.365 | $0.455 / $0.455 | 3 | default | text-embedding-v4 |
+| 15 | `cn.chrouter.com` | ¥3.4 | $0.5 / $0.5 | 6.8 | gpt | text-embedding-v4 |
 | 16 | `kaopuapi.com` | ¥3.65 | $0.5 / $0 | 7.3 | cn2 | text-embedding-v4 |
 | 17 | `mrouter.cn` | ¥3.65 | $0.5 / $0 | 7.3 | cn2 | text-embedding-v4 |
 
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `api.chatfire.cn` | $0.3 / $0.3 | alibailian | 0.6 | text-embedding-v4 |
-
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

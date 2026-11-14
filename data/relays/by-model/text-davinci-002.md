@@ -1,6 +1,6 @@
 # text-davinci-002
 
-> 28 站提供 · 正常价 19 站 · 名义中位价 **$40**/1M 输入 · 实付中位价 **¥40**/1M 输入（18 站公开充值价） · 推算，未对账
+> 29 站提供 · 正常价 15 站 · 名义中位价 **$30**/1M 输入 · 实付中位价 **¥30**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,25 +14,16 @@
 | 2 | `cnapi.kksj.org` | ¥18 | $18 / $18 | 1 | default | text-davinci-002 |
 | 3 | `ai.soruxgpt.com` | ¥20 | $20 / $20 | 1 | default | text-davinci-002 |
 | 4 | `api.hopeai.cc` | ¥20 | $20 / $20 | 1 | default | text-davinci-002 |
-| 5 | `api.ocoolai.com` | ¥30 | $30 / $30 | 1 | default | text-davinci-002 |
-| 6 | `ocool.cn` | ¥30 | $30 / $30 | 1 | default | text-davinci-002 |
-| 7 | `one.ooo.cool` | ¥30 | $30 / $30 | 1 | default | text-davinci-002 |
-| 8 | `gpt-api.soruxgpt.com` | ¥38 | $19 / $19 | 2 | vip | text-davinci-002 |
-| 9 | `api.132999.xyz` | ¥40 | $20 / $200 | 2 | default | text-davinci-002 |
-| 10 | `api.xi-ai.cn` | ¥40 | $40 / $40 | 1 | 优惠模型 | text-davinci-002 |
-| 11 | `big.sbgpt.site` | ¥45 | $45 / $45 | 1 | openai逆向 | text-davinci-002 |
-| 12 | `go.sbgpt.site` | ¥52.5 | $52.5 / $52.5 | 1 | openai逆向 | text-davinci-002 |
-| 13 | `newapi.link` | ¥75 | $75 / $75 | 1 | 备用 | text-davinci-002 |
-| 14 | `eo.wochirou.com` | ¥80 | $80 / $80 | 1 | openai_direct_mini | text-davinci-002 |
-| 15 | `wochirou.com` | ¥80 | $80 / $80 | 1 | openai_direct_mini | text-davinci-002 |
-| 16 | `cn.gptapi.asia` | ¥140 | $140 / $140 | 1 | enterprise | text-davinci-002 |
-| 17 | `yutoapi.com` | ¥140 | $140 / $140 | 1 | enterprise | text-davinci-002 |
-| 18 | `webapi.xjai.cc` | ¥225 | $75 / $75 | 3 | default | text-davinci-002 |
+| 5 | `wochirou.com` | ¥20 | $20 / $20 | 1 | default | text-davinci-002 |
+| 6 | `api.ocoolai.com` | ¥30 | $30 / $30 | 1 | default | text-davinci-002 |
+| 7 | `ocool.cn` | ¥30 | $30 / $30 | 1 | default | text-davinci-002 |
+| 8 | `one.ooo.cool` | ¥30 | $30 / $30 | 1 | default | text-davinci-002 |
+| 9 | `gpt-api.soruxgpt.com` | ¥38 | $19 / $19 | 2 | vip | text-davinci-002 |
+| 10 | `api.132999.xyz` | ¥40 | $20 / $200 | 2 | default | text-davinci-002 |
+| 11 | `api.xi-ai.cn` | ¥40 | $40 / $40 | 1 | 优惠模型 | text-davinci-002 |
+| 12 | `big.sbgpt.site` | ¥45 | $45 / $45 | 1 | openai逆向 | text-davinci-002 |
+| 13 | `go.sbgpt.site` | ¥52.5 | $52.5 / $52.5 | 1 | openai逆向 | text-davinci-002 |
+| 14 | `cn.gptapi.asia` | ¥140 | $140 / $140 | 1 | enterprise | text-davinci-002 |
+| 15 | `yutoapi.com` | ¥140 | $140 / $140 | 1 | enterprise | text-davinci-002 |
 
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `api.openai365.top` | $75 / $75 | default | 1 | text-davinci-002 |
-
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
