@@ -1,6 +1,6 @@
 # gemini-2.5-flash-lite
 
-> 648 站提供 · 正常价 522 站 · 名义中位价 **$0.09**/1M 输入 · 实付中位价 **¥0.1338**/1M 输入（392 站公开充值价） · 推算，未对账
+> 650 站提供 · 正常价 523 站 · 名义中位价 **$0.09**/1M 输入 · 实付中位价 **¥0.1338**/1M 输入（392 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -105,19 +105,19 @@
 | 36 | `api.inktandwkx.top` | $0.035 / $0.14 | Gemini | 0.35 | gemini-2.5-flash-lite |
 | 37 | `api.sanbailab.com` | $0.035 / $0.14 | Gemini Ultra 分组 | 0.35 | gemini-2.5-flash-lite |
 | 38 | `api.xiaojue.cloud` | $0.035 / $0.14 | Gemini ultra号池有4 | 0.35 | gemini-2.5-flash-lite |
-| 39 | `cn.fluxtoken.ai` | $0.038 / $0.152 | 【Gemini】Google Antigravity | 0.38 | gemini-2.5-flash-lite |
-| 40 | `aegisy.cc` | $0.04 / $0.16 | gemini反重力 | 0.4 | gemini-2.5-flash-lite |
-| 41 | `aicat.api.sumnece.com` | $0.04 / $0.16 | ultra | 0.4 | gemini-2.5-flash-lite |
-| 42 | `api.aliuapi.top` | $0.04 / $0.16 | NL - Gemini - 反代无缓 | 0.4 | gemini-2.5-flash-lite |
-| 43 | `api.lumenai.cc` | $0.04 / $0.16 | Gemini | 0.4 | gemini-2.5-flash-lite |
-| 44 | `api.tohoqing.com` | $0.04 / $0.16 | gemini cli（支持所有客户端） | 0.4 | gemini-2.5-flash-lite |
-| 45 | `cccode.pro` | $0.04 / $0.16 | 【反重力】gemini | 0.4 | gemini-2.5-flash-lite |
-| 46 | `kuai.dmxcode.com` | $0.04 / $0.16 | 按量-gemini-openai | 0.4 | gemini-2.5-flash-lite |
-| 47 | `sub.yancc.cloud` | $0.04 / $0.16 | Gemini | 0.4 | gemini-2.5-flash-lite |
-| 48 | `www.ohmycodex.cn` | $0.043 / $0.172 | Gemini - Ultra | 0.43 | gemini-2.5-flash-lite |
-| 49 | `api.tyasai.com` | $0.045 / $0.18 | Gemini 已破甲 0.45每刀 | 0.45 | gemini-2.5-flash-lite |
-| 50 | `fcodex.top` | $0.05 / $0.2 | Gemini | 0.5 | gemini-2.5-flash-lite |
+| 39 | `nuoapi.net` | $0.035 / $0.14 | Gemini | 0.35 | gemini-2.5-flash-lite |
+| 40 | `cn.fluxtoken.ai` | $0.038 / $0.152 | 【Gemini】Google Antigravity | 0.38 | gemini-2.5-flash-lite |
+| 41 | `aegisy.cc` | $0.04 / $0.16 | gemini反重力 | 0.4 | gemini-2.5-flash-lite |
+| 42 | `aicat.api.sumnece.com` | $0.04 / $0.16 | ultra | 0.4 | gemini-2.5-flash-lite |
+| 43 | `api.aliuapi.top` | $0.04 / $0.16 | NL - Gemini - 反代无缓 | 0.4 | gemini-2.5-flash-lite |
+| 44 | `api.lumenai.cc` | $0.04 / $0.16 | Gemini | 0.4 | gemini-2.5-flash-lite |
+| 45 | `api.tohoqing.com` | $0.04 / $0.16 | gemini cli（支持所有客户端） | 0.4 | gemini-2.5-flash-lite |
+| 46 | `cccode.pro` | $0.04 / $0.16 | 【反重力】gemini | 0.4 | gemini-2.5-flash-lite |
+| 47 | `kuai.dmxcode.com` | $0.04 / $0.16 | 按量-gemini-openai | 0.4 | gemini-2.5-flash-lite |
+| 48 | `sub.yancc.cloud` | $0.04 / $0.16 | Gemini | 0.4 | gemini-2.5-flash-lite |
+| 49 | `www.ohmycodex.cn` | $0.043 / $0.172 | Gemini - Ultra | 0.43 | gemini-2.5-flash-lite |
+| 50 | `api.tyasai.com` | $0.045 / $0.18 | Gemini 已破甲 0.45每刀 | 0.45 | gemini-2.5-flash-lite |
 
-> 另有 80 站未列出。
+> 另有 81 站未列出。
 
-> 126 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 127 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

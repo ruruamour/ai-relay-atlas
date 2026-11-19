@@ -1,6 +1,6 @@
 # deepseek-v4-flash-vision-exp
 
-> 298 站提供 · 正常价 187 站 · 名义中位价 **$0.44**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（111 站公开充值价） · 推算，未对账
+> 299 站提供 · 正常价 188 站 · 名义中位价 **$0.44**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（111 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -103,21 +103,21 @@
 | 34 | `api.opkaa.com` | $0.3 / $1.2 | DeepSeek | 0.3 | DeepSeek-V4-Flash-Vision-Exp |
 | 35 | `heilovehei.com` | $0.3 / $1.2 | DeepSeek | 0.15 | deepseek-v4-flash-vision-exp |
 | 36 | `kuai.dmxcode.com` | $0.3 / $1.2 | 国模-c | 0.15 | deepseek-v4-flash-vision-exp |
-| 37 | `wanfaai.com` | $0.3 / $1.2 | ds 4.1 | 0.3 | deepseek-v4-flash-vision-exp |
-| 38 | `www.qianweikeji.fun` | $0.3 / $1.2 | 国模3折 | 0.3 | deepseek-v4-flash-vision-exp |
-| 39 | `weilai.chat` | $0.32 / $1.28 | DeepSeek | 0.16 | deepseek-v4-flash-vision-exp |
-| 40 | `okmcode.com` | $0.336 / $0.98 | 国模cc兼容 | 0.2 | deepseek-v4-flash-vision-exp |
-| 41 | `api.schyler.top` | $0.35 / $1.4 | DeepSeek | 0.35 | deepseek-v4-flash-vision-exp |
-| 42 | `api.tyasai.com` | $0.35 / $1.4 | DeepSeek | 0.35 | deepseek-v4-flash-vision-exp |
-| 43 | `tokenkey.vip` | $0.36 / $1.08 | 【国模大全分组】 | 1 | deepseek-v4-flash-vision-exp |
-| 44 | `magicai.click` | $0.375 / $1.5 | 国模-聚合 | 2.5 | deepseek-v4-flash-vision-exp |
-| 45 | `api.binzzz.xyz` | $0.4 / $1.6 | 国模蒸馏专用分组【支持高并发】 | 0.2 | deepseek-v4-flash-vision-exp |
-| 46 | `api.tokenfree.chat` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4-flash-vision-exp |
-| 47 | `nmzz.wonderful.edu.kg` | $0.4 / $1.6 | 国模官key | 0.4 | deepseek-v4-flash-vision-exp |
-| 48 | `sub-lax.autorouter.io` | $0.4 / $0.8 | DeepSeek | 0.4 | deepseek-v4-flash-vision-exp |
-| 49 | `sub.wonderful.edu.kg` | $0.4 / $1.6 | 国模官key | 0.4 | deepseek-v4-flash-vision-exp |
-| 50 | `xindu.xyz` | $0.4 / $1.6 | 国模全系列 | 0.2 | deepseek-v4-flash-vision-exp |
+| 37 | `nuoapi.net` | $0.3 / $0.9 | 国模 (Chinese LLMs) | 0.2 | deepseek-v4-flash-vision-exp |
+| 38 | `wanfaai.com` | $0.3 / $1.2 | ds 4.1 | 0.3 | deepseek-v4-flash-vision-exp |
+| 39 | `www.qianweikeji.fun` | $0.3 / $1.2 | 国模3折 | 0.3 | deepseek-v4-flash-vision-exp |
+| 40 | `weilai.chat` | $0.32 / $1.28 | DeepSeek | 0.16 | deepseek-v4-flash-vision-exp |
+| 41 | `okmcode.com` | $0.336 / $0.98 | 国模cc兼容 | 0.2 | deepseek-v4-flash-vision-exp |
+| 42 | `api.schyler.top` | $0.35 / $1.4 | DeepSeek | 0.35 | deepseek-v4-flash-vision-exp |
+| 43 | `api.tyasai.com` | $0.35 / $1.4 | DeepSeek | 0.35 | deepseek-v4-flash-vision-exp |
+| 44 | `tokenkey.vip` | $0.36 / $1.08 | 【国模大全分组】 | 1 | deepseek-v4-flash-vision-exp |
+| 45 | `magicai.click` | $0.375 / $1.5 | 国模-聚合 | 2.5 | deepseek-v4-flash-vision-exp |
+| 46 | `api.binzzz.xyz` | $0.4 / $1.6 | 国模蒸馏专用分组【支持高并发】 | 0.2 | deepseek-v4-flash-vision-exp |
+| 47 | `api.tokenfree.chat` | $0.4 / $1.6 | DeepSeek | 0.2 | deepseek-v4-flash-vision-exp |
+| 48 | `nmzz.wonderful.edu.kg` | $0.4 / $1.6 | 国模官key | 0.4 | deepseek-v4-flash-vision-exp |
+| 49 | `sub-lax.autorouter.io` | $0.4 / $0.8 | DeepSeek | 0.4 | deepseek-v4-flash-vision-exp |
+| 50 | `sub.wonderful.edu.kg` | $0.4 / $1.6 | 国模官key | 0.4 | deepseek-v4-flash-vision-exp |
 
-> 另有 26 站未列出。
+> 另有 27 站未列出。
 
 > 111 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

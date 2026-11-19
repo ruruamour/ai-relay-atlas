@@ -1,6 +1,6 @@
 # kimi-k2.5
 
-> 444 站提供 · 正常价 366 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（271 站公开充值价） · 推算，未对账
+> 445 站提供 · 正常价 367 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（271 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -83,41 +83,41 @@
 | 14 | `sub2api.hyl2api.com` | $0.6 / $2.25 | Az-K3 | 1 | kimi-k2.5 |
 | 15 | `kukuai.ai` | $0.661766 / $3.47427 | 线路1 | 1 | Kimi-K2.5 |
 | 16 | `sub.skypoem.top` | $0.72 / $3.78 | qwen-自部署 | 0.18 | kimi-k2.5 |
-| 17 | `8888.name` | $0.9 / $4.5 | GPT—Az渠道 | 1.5 | FW-Kimi-K2.5 |
-| 18 | `api.jucode.cn` | $1 / $5.25 | 国产模型 · 自部署 | 0.25 | kimi-k2.5 |
-| 19 | `rapidapi.cc` | $1.05 / $5.4 | 国模二组（官key） | 0.15 | kimi-k2.5 |
-| 20 | `chat-api4.087654.xyz` | $1.2 / $6 | default | 2 | moonshotai/kimi-k2.5 |
-| 21 | `codexauv.com` | $1.32 / $6.93 | 国产模型聚合-阿里满血渠道 | 0.33 | kimi-k2.5 |
-| 22 | `api.apikl.ai` | $1.6 / $8.4 | Kimi | 0.4 | kimi-k2.5 |
-| 23 | `apiai.fun` | $1.6 / $8.4 | Kimi | 0.4 | kimi-k2.5 |
-| 24 | `goforai.top` | $1.6 / $8.4 | Kimi K3 | 0.4 | kimi-k2.5 |
-| 25 | `www.likeai520.cc` | $1.6 / $8.4 | 国模分组 | 0.4 | kimi-k2.5 |
-| 26 | `x.ailzd.com` | $1.6 / $8.4 | 国模(Anthropic) | 0.4 | kimi-k2.5 |
-| 27 | `api.1route.dev` | $2 / $10.5 | 月之暗面 Kimi 🌚（OpenAI协议） | 0.5 | kimi-k2.5 |
-| 28 | `api.aabao.ai` | $2 / $10.5 | DeepSeek-2 | 0.5 | kimi-k2.5 |
-| 29 | `happyapi.org` | $2 / $8 | default | 1 | kimi-k2.5 |
-| 30 | `nodeai.cc` | $2.1 / $7.875 | Kimi | 0.5 | kimi-k2.5 |
-| 31 | `api.bestai.chat` | $2.4 / $12.6 | 国产模型（Anthropic协议） | 0.6 | kimi-k2.5 |
-| 32 | `aiapihub.cloud` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 33 | `aiyiwei.vip` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 34 | `anyaigc.com` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 35 | `api-hub.vip` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 36 | `api.aibh.site` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 37 | `api.aicso.top` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 38 | `api.antmoo.com` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 39 | `api.apiplus.org` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 40 | `api.bitidea.cn` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 41 | `api.clai.click` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 42 | `api.cloudmist.cloud` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 43 | `api.gpt666claude.top` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 44 | `api.happyouai.org` | $4 / $21 | Kimi | 1 | kimi-k2.5 |
-| 45 | `api.mumuverse.space` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 46 | `api.qingyuntop.top` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 47 | `api.token173.net` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 48 | `api.vectorengine.ai` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 49 | `api.winfull.cloud-ip.cc` | $4 / $21 | default | 1 | kimi-k2.5 |
-| 50 | `api.wlai.vip` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 17 | `nuoapi.net` | $0.8 / $4.2 | 国模 (Chinese LLMs) | 0.2 | kimi-k2.5 |
+| 18 | `8888.name` | $0.9 / $4.5 | GPT—Az渠道 | 1.5 | FW-Kimi-K2.5 |
+| 19 | `api.jucode.cn` | $1 / $5.25 | 国产模型 · 自部署 | 0.25 | kimi-k2.5 |
+| 20 | `rapidapi.cc` | $1.05 / $5.4 | 国模二组（官key） | 0.15 | kimi-k2.5 |
+| 21 | `chat-api4.087654.xyz` | $1.2 / $6 | default | 2 | moonshotai/kimi-k2.5 |
+| 22 | `codexauv.com` | $1.32 / $6.93 | 国产模型聚合-阿里满血渠道 | 0.33 | kimi-k2.5 |
+| 23 | `api.apikl.ai` | $1.6 / $8.4 | Kimi | 0.4 | kimi-k2.5 |
+| 24 | `apiai.fun` | $1.6 / $8.4 | Kimi | 0.4 | kimi-k2.5 |
+| 25 | `goforai.top` | $1.6 / $8.4 | Kimi K3 | 0.4 | kimi-k2.5 |
+| 26 | `www.likeai520.cc` | $1.6 / $8.4 | 国模分组 | 0.4 | kimi-k2.5 |
+| 27 | `x.ailzd.com` | $1.6 / $8.4 | 国模(Anthropic) | 0.4 | kimi-k2.5 |
+| 28 | `api.1route.dev` | $2 / $10.5 | 月之暗面 Kimi 🌚（OpenAI协议） | 0.5 | kimi-k2.5 |
+| 29 | `api.aabao.ai` | $2 / $10.5 | DeepSeek-2 | 0.5 | kimi-k2.5 |
+| 30 | `happyapi.org` | $2 / $8 | default | 1 | kimi-k2.5 |
+| 31 | `nodeai.cc` | $2.1 / $7.875 | Kimi | 0.5 | kimi-k2.5 |
+| 32 | `api.bestai.chat` | $2.4 / $12.6 | 国产模型（Anthropic协议） | 0.6 | kimi-k2.5 |
+| 33 | `aiapihub.cloud` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 34 | `aiyiwei.vip` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 35 | `anyaigc.com` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 36 | `api-hub.vip` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 37 | `api.aibh.site` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 38 | `api.aicso.top` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 39 | `api.antmoo.com` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 40 | `api.apiplus.org` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 41 | `api.bitidea.cn` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 42 | `api.clai.click` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 43 | `api.cloudmist.cloud` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 44 | `api.gpt666claude.top` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 45 | `api.happyouai.org` | $4 / $21 | Kimi | 1 | kimi-k2.5 |
+| 46 | `api.mumuverse.space` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 47 | `api.qingyuntop.top` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 48 | `api.token173.net` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 49 | `api.vectorengine.ai` | $4 / $21 | default | 1 | kimi-k2.5 |
+| 50 | `api.winfull.cloud-ip.cc` | $4 / $21 | default | 1 | kimi-k2.5 |
 
-> 另有 45 站未列出。
+> 另有 46 站未列出。
 
 > 78 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

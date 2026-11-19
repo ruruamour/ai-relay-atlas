@@ -1,6 +1,6 @@
 # gpt-4o
 
-> 521 站提供 · 正常价 413 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥4.5**/1M 输入（371 站公开充值价） · 推算，未对账
+> 521 站提供 · 正常价 413 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥4.5**/1M 输入（372 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `cn.liantongapi.com` | ¥1.25 | $1.25 / $5 | 1 | gpt | gpt-4o |
 | 50 | `kfcv50.link` | ¥1.25 | $1.25 / $5 | 1 | az_act05 | gpt-4o |
 
-> 另有 321 站未列出。
+> 另有 322 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,34 +80,33 @@
 | 11 | `sub.sixoner.com` | $0.625 / $2.5 | ChatGPT-Pro 企业 | 0.25 | gpt-4o |
 | 12 | `api.xiaojue.cloud` | $0.7 / $2.8 | gpt纯官key禁止破限蒸馏 | 0.28 | gpt-4o |
 | 13 | `fugui.im` | $0.7 / $2.8 | 【土豆】GPT-PRO-企业组 | 0.28 | gpt-4o |
-| 14 | `api.coderplan.ai` | $0.875 / $3.5 | codex | 0.35 | gpt-4o |
-| 15 | `api.jiangxinmao.com` | $0.875 / $3.5 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-4o |
-| 16 | `dmit.yyrouter.cc` | $0.875 / $3.5 | OpenAI-Pro稳定版 | 0.35 | gpt-4o |
-| 17 | `ai.lazymo.qzz.io` | $1 / $4 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-4o |
-| 18 | `supersubscribe689.com` | $1.25 / $5 | chatgpt美区版 | 0.5 | gpt-4o |
-| 19 | `api.hy88.my` | $1.5 / $6 | gpt_high | 0.6 | gpt-4o |
-| 20 | `momoai.asia` | $2 / $8 | codex余额分组 | 0.8 | gpt-4o |
-| 21 | `api.apigiare.vn` | $2.5 / $10 | default | 1 | gpt-4o |
-| 22 | `api.yescale.io` | $2.5 / $10 | starter | 1 | gpt-4o |
-| 23 | `api.zhiyikeji.cn` | $2.5 / $10 | default | 1 | gpt-4o |
-| 24 | `lobe.zen-ai.top` | $2.5 / $10 | momo | 1 | gpt-4o |
-| 25 | `happyapi.org` | $3 / $12 | default | 1 | gpt-4o-2024-08-06 |
-| 26 | `8888.name` | $3.75 / $15 | GPT—Az渠道 | 1.5 | gpt-4o |
-| 27 | `subkkai.com` | $3.75 / $15 | GPT官key分组 | 1.5 | gpt-4o |
-| 28 | `api.zhimigy.cn` | $4 / $16 | pro | 1.6 | gpt-4o |
-| 29 | `cccode.pro` | $4.25 / $17 | azgpt | 1.7 | gpt-4o |
-| 30 | `codexauv.com` | $5 / $20 | GPT-Azure | 2 | gpt-4o |
-| 31 | `relaybases.com` | $5 / $20 | azure-gpt | 2 | gpt-4o |
-| 32 | `api.akko.space` | $6.25 / $25 | Codex Azure | 2.5 | gpt-4o |
-| 33 | `vip.zen-ai.top` | $7.5 / $30 | default | 3 | gpt-4o |
-| 34 | `api.hyhawang.com` | $8 / $32 | GPT offical | 3.2 | gpt-4o |
-| 35 | `www.qianweikeji.fun` | $8 / $32 | GPT offical | 3.2 | gpt-4o |
-| 36 | `ciyuan.fast` | $10 / $40 | AZ官key-全模型 | 4 | gpt-4o |
-| 37 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-4o |
-| 38 | `liangjiewis.com` | $70.312 / $281.25 | default | 1 | gpt-4o |
-| 39 | `meta-api.vip` | $82.5 / $330 | 企业级 | 1 | gpt-4o |
-| 40 | `cdn.juaiapi.com` | $525 / $2100 | GPT官方转发 | 210 | gpt-4o |
-| 41 | `www.juapi.net` | $525 / $2100 | GPT官方转发 | 210 | gpt-4o |
-| 42 | `www.tokenrouter.tech` | $525 / $2100 | GPT官方转发 | 210 | gpt-4o |
+| 14 | `api.jiangxinmao.com` | $0.875 / $3.5 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-4o |
+| 15 | `dmit.yyrouter.cc` | $0.875 / $3.5 | OpenAI-Pro稳定版 | 0.35 | gpt-4o |
+| 16 | `ai.lazymo.qzz.io` | $1 / $4 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-4o |
+| 17 | `supersubscribe689.com` | $1.25 / $5 | chatgpt美区版 | 0.5 | gpt-4o |
+| 18 | `api.hy88.my` | $1.5 / $6 | gpt_high | 0.6 | gpt-4o |
+| 19 | `momoai.asia` | $2 / $8 | codex余额分组 | 0.8 | gpt-4o |
+| 20 | `api.apigiare.vn` | $2.5 / $10 | default | 1 | gpt-4o |
+| 21 | `api.yescale.io` | $2.5 / $10 | starter | 1 | gpt-4o |
+| 22 | `api.zhiyikeji.cn` | $2.5 / $10 | default | 1 | gpt-4o |
+| 23 | `lobe.zen-ai.top` | $2.5 / $10 | momo | 1 | gpt-4o |
+| 24 | `happyapi.org` | $3 / $12 | default | 1 | gpt-4o-2024-08-06 |
+| 25 | `8888.name` | $3.75 / $15 | GPT—Az渠道 | 1.5 | gpt-4o |
+| 26 | `subkkai.com` | $3.75 / $15 | GPT官key分组 | 1.5 | gpt-4o |
+| 27 | `api.zhimigy.cn` | $4 / $16 | pro | 1.6 | gpt-4o |
+| 28 | `cccode.pro` | $4.25 / $17 | azgpt | 1.7 | gpt-4o |
+| 29 | `codexauv.com` | $5 / $20 | GPT-Azure | 2 | gpt-4o |
+| 30 | `relaybases.com` | $5 / $20 | azure-gpt | 2 | gpt-4o |
+| 31 | `api.akko.space` | $6.25 / $25 | Codex Azure | 2.5 | gpt-4o |
+| 32 | `vip.zen-ai.top` | $7.5 / $30 | default | 3 | gpt-4o |
+| 33 | `api.hyhawang.com` | $8 / $32 | GPT offical | 3.2 | gpt-4o |
+| 34 | `www.qianweikeji.fun` | $8 / $32 | GPT offical | 3.2 | gpt-4o |
+| 35 | `ciyuan.fast` | $10 / $40 | AZ官key-全模型 | 4 | gpt-4o |
+| 36 | `sub.hongyun.chat` | $18.75 / $75 | gpt | 7.5 | gpt-4o |
+| 37 | `liangjiewis.com` | $70.312 / $281.25 | default | 1 | gpt-4o |
+| 38 | `meta-api.vip` | $82.5 / $330 | 企业级 | 1 | gpt-4o |
+| 39 | `cdn.juaiapi.com` | $525 / $2100 | GPT官方转发 | 210 | gpt-4o |
+| 40 | `www.juapi.net` | $525 / $2100 | GPT官方转发 | 210 | gpt-4o |
+| 41 | `www.tokenrouter.tech` | $525 / $2100 | GPT官方转发 | 210 | gpt-4o |
 
 > 108 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-4.7-build-fast
 
-> 194 站提供 · 正常价 109 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1**/1M 输入（44 站公开充值价） · 推算，未对账
+> 195 站提供 · 正常价 110 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1**/1M 输入（44 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -99,17 +99,17 @@
 | 38 | `llmp.cc` | $0.8 / $2.4 | SuperGrok 0.2倍率 | 0.2 | grok-4.7-build-fast |
 | 39 | `sub.pikaqiu.shop` | $0.8 / $2.4 | grok订阅 | 0.2 | grok-4.7-build-fast |
 | 40 | `www.kk-vibe.top` | $0.8 / $2.4 | grok Ultra | 0.2 | grok-4.7-build-fast |
-| 41 | `business.starway.lol` | $1 / $3 | Grok-Business-Ultra池 | 0.25 | grok-4.7-build-fast |
-| 42 | `cuicuimianhua.top` | $1 / $3 | Grok Super | 0.25 | grok-4.7-build-fast |
-| 43 | `ebondai.com` | $1 / $3 | Grok Ultra | 0.25 | grok-4.7-build-fast |
-| 44 | `gptzzz.ai` | $1 / $3 | grok heavy | 0.25 | grok-4.7-build-fast |
-| 45 | `www.ohmycodex.cn` | $1.16 / $3.48 | Grok - Ultra | 0.29 | grok-4.7-build-fast |
-| 46 | `aegisy.cc` | $1.2 / $3.6 | grok-0.3 | 0.3 | grok-4.7-build-fast |
-| 47 | `ai.nexfaro.com` | $1.2 / $3.6 | Grok Heavy | 0.3 | grok-4.7-build-fast |
-| 48 | `api.boluomiapi.cc` | $1.2 / $3.6 | G01-grok heavy | 0.2 | grok-4.7-build-fast |
-| 49 | `api.jiangxinmao.com` | $1.2 / $3.6 | 稳定Grok 满血版-智能调度 | 0.3 | grok-4.7-build-fast |
-| 50 | `fugui.im` | $1.2 / $3.6 | 【魔神】Grok-反重力满血版 | 0.3 | grok-4.7-build-fast |
+| 41 | `aodo.ai` | $1 / $3 | Grok Ultra | 0.25 | grok-4.7-build-fast |
+| 42 | `business.starway.lol` | $1 / $3 | Grok-Business-Ultra池 | 0.25 | grok-4.7-build-fast |
+| 43 | `cuicuimianhua.top` | $1 / $3 | Grok Super | 0.25 | grok-4.7-build-fast |
+| 44 | `ebondai.com` | $1 / $3 | Grok Ultra | 0.25 | grok-4.7-build-fast |
+| 45 | `gptzzz.ai` | $1 / $3 | grok heavy | 0.25 | grok-4.7-build-fast |
+| 46 | `www.ohmycodex.cn` | $1.16 / $3.48 | Grok - Ultra | 0.29 | grok-4.7-build-fast |
+| 47 | `aegisy.cc` | $1.2 / $3.6 | grok-0.3 | 0.3 | grok-4.7-build-fast |
+| 48 | `ai.nexfaro.com` | $1.2 / $3.6 | Grok Heavy | 0.3 | grok-4.7-build-fast |
+| 49 | `api.boluomiapi.cc` | $1.2 / $3.6 | G01-grok heavy | 0.2 | grok-4.7-build-fast |
+| 50 | `api.jiangxinmao.com` | $1.2 / $3.6 | 稳定Grok 满血版-智能调度 | 0.3 | grok-4.7-build-fast |
 
-> 另有 15 站未列出。
+> 另有 16 站未列出。
 
 > 85 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-3.1-flash-lite-preview
 
-> 523 站提供 · 正常价 425 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.425**/1M 输入（365 站公开充值价） · 推算，未对账
+> 525 站提供 · 正常价 426 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.425**/1M 输入（365 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -84,40 +84,40 @@
 | 15 | `gptcodex.top` | $0.0825 / $0.495 | Gemini-反重力 | 0.33 | gemini-3.1-flash-lite-preview |
 | 16 | `api.inktandwkx.top` | $0.0875 / $0.525 | Gemini | 0.35 | gemini-3.1-flash-lite-preview |
 | 17 | `api.relaylink.cloud` | $0.0875 / $0.525 | gemini | 0.35 | gemini-3.1-flash-lite-preview |
-| 18 | `sub2api.luchikey.com` | $0.0875 / $0.525 | Gemini-Pro(支持并且包括生图) | 0.35 | gemini-3.1-flash-lite-preview |
-| 19 | `cn.fluxtoken.ai` | $0.095 / $0.57 | 【Gemini】Google Antigravity | 0.38 | gemini-3.1-flash-lite-preview |
-| 20 | `kukuai.ai` | $0.099266 / $0.529414 | 线路7 - 推荐 | 1 | gemini-3.1-flash-lite-preview |
-| 21 | `api.aliuapi.top` | $0.1 / $0.6 | NL - Gemini - 反代无缓 | 0.4 | gemini-3.1-flash-lite-preview |
-| 22 | `api.tohoqing.com` | $0.1 / $0.6 | gemini cli（支持所有客户端） | 0.4 | gemini-3.1-flash-lite-preview |
-| 23 | `api.vveai.com` | $0.1 / $0.6 | gemini_cli | 0.4 | gemini-3.1-flash-lite-preview |
-| 24 | `cccode.pro` | $0.1 / $0.6 | 【反重力】gemini | 0.4 | gemini-3.1-flash-lite-preview |
-| 25 | `kuai.dmxcode.com` | $0.1 / $0.6 | 按量-gemini-openai | 0.4 | gemini-3.1-flash-lite-preview |
-| 26 | `sub.aspirinz.cc` | $0.1 / $0.6 | gemini | 0.4 | gemini-3.1-flash-lite-preview |
-| 27 | `sub.yancc.cloud` | $0.1 / $0.6 | Gemini | 0.4 | gemini-3.1-flash-lite-preview |
-| 28 | `www.ohmycodex.cn` | $0.1075 / $0.645 | Gemini - Ultra | 0.43 | gemini-3.1-flash-lite-preview |
-| 29 | `llmp.cc` | $0.125 / $0.75 | Gemini-Vertex 企业级 API 账号 | 0.5 | gemini-3.1-flash-lite-preview |
-| 30 | `api.aabao.ai` | $0.15 / $0.9 | Gemini直连-2 | 0.6 | gemini-3.1-flash-lite-preview |
-| 31 | `api.hy88.my` | $0.15 / $0.9 | gemini_pro | 0.6 | gemini-3.1-flash-lite-preview |
-| 32 | `api.gpt666claude.top` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 33 | `api.rcouyi.com` | $0.25 / $1.5 | default | 1 | gemini-3.1-flash-lite-preview |
-| 34 | `api.token173.net` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 35 | `api.vectorengine.ai` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 36 | `api.yescale.io` | $0.25 / $1.5 | gemini | 1 | gemini-3.1-flash-lite-preview |
-| 37 | `api.zhiyikeji.cn` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 38 | `api.zhongzhuan.vip` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 39 | `coultra.blueshirtmap.com` | $0.25 / $1.5 | - | - | gemini-3.1-flash-lite-preview |
-| 40 | `ent.mmkg.cloud` | $0.25 / $1.5 | Gemini | 1 | gemini-3.1-flash-lite-preview |
-| 41 | `inferaichat.com` | $0.25 / $1.5 | auto分组 | 1 | gemini-3.1-flash-lite-preview |
-| 42 | `juhe.34ku.com` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 43 | `lobe.zen-ai.top` | $0.25 / $1.5 | default | 1 | gemini-3.1-flash-lite-preview |
-| 44 | `one.chatshare.one` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 45 | `ruishiglobal.com` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 46 | `tokenshengsheng.com` | $0.25 / $1.5 | Gemini模型Air | 1 | gemini-3.1-flash-lite-preview |
-| 47 | `yuli.host` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
-| 48 | `fugui.im` | $0.4 / $2.4 | 【VY】Gemini-官key-支持全4系列 | 1.6 | gemini-3.1-flash-lite-preview |
-| 49 | `kedaya.ai` | $0.5 / $3 | Gemini-vertex | 2 | gemini-3.1-flash-lite-preview |
-| 50 | `ai.12zx.net` | $0.75 / $4.5 | - | - | gemini-3.1-flash-lite-preview |
+| 18 | `nuoapi.net` | $0.0875 / $0.525 | Gemini | 0.35 | gemini-3.1-flash-lite-preview |
+| 19 | `sub2api.luchikey.com` | $0.0875 / $0.525 | Gemini-Pro(支持并且包括生图) | 0.35 | gemini-3.1-flash-lite-preview |
+| 20 | `cn.fluxtoken.ai` | $0.095 / $0.57 | 【Gemini】Google Antigravity | 0.38 | gemini-3.1-flash-lite-preview |
+| 21 | `kukuai.ai` | $0.099266 / $0.529414 | 线路7 - 推荐 | 1 | gemini-3.1-flash-lite-preview |
+| 22 | `api.aliuapi.top` | $0.1 / $0.6 | NL - Gemini - 反代无缓 | 0.4 | gemini-3.1-flash-lite-preview |
+| 23 | `api.tohoqing.com` | $0.1 / $0.6 | gemini cli（支持所有客户端） | 0.4 | gemini-3.1-flash-lite-preview |
+| 24 | `api.vveai.com` | $0.1 / $0.6 | gemini_cli | 0.4 | gemini-3.1-flash-lite-preview |
+| 25 | `cccode.pro` | $0.1 / $0.6 | 【反重力】gemini | 0.4 | gemini-3.1-flash-lite-preview |
+| 26 | `kuai.dmxcode.com` | $0.1 / $0.6 | 按量-gemini-openai | 0.4 | gemini-3.1-flash-lite-preview |
+| 27 | `sub.aspirinz.cc` | $0.1 / $0.6 | gemini | 0.4 | gemini-3.1-flash-lite-preview |
+| 28 | `sub.yancc.cloud` | $0.1 / $0.6 | Gemini | 0.4 | gemini-3.1-flash-lite-preview |
+| 29 | `www.ohmycodex.cn` | $0.1075 / $0.645 | Gemini - Ultra | 0.43 | gemini-3.1-flash-lite-preview |
+| 30 | `llmp.cc` | $0.125 / $0.75 | Gemini-Vertex 企业级 API 账号 | 0.5 | gemini-3.1-flash-lite-preview |
+| 31 | `api.aabao.ai` | $0.15 / $0.9 | Gemini直连-2 | 0.6 | gemini-3.1-flash-lite-preview |
+| 32 | `api.hy88.my` | $0.15 / $0.9 | gemini_pro | 0.6 | gemini-3.1-flash-lite-preview |
+| 33 | `api.gpt666claude.top` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 34 | `api.rcouyi.com` | $0.25 / $1.5 | default | 1 | gemini-3.1-flash-lite-preview |
+| 35 | `api.token173.net` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 36 | `api.vectorengine.ai` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 37 | `api.yescale.io` | $0.25 / $1.5 | gemini | 1 | gemini-3.1-flash-lite-preview |
+| 38 | `api.zhiyikeji.cn` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 39 | `api.zhongzhuan.vip` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 40 | `coultra.blueshirtmap.com` | $0.25 / $1.5 | - | - | gemini-3.1-flash-lite-preview |
+| 41 | `ent.mmkg.cloud` | $0.25 / $1.5 | Gemini | 1 | gemini-3.1-flash-lite-preview |
+| 42 | `inferaichat.com` | $0.25 / $1.5 | auto分组 | 1 | gemini-3.1-flash-lite-preview |
+| 43 | `juhe.34ku.com` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 44 | `lobe.zen-ai.top` | $0.25 / $1.5 | default | 1 | gemini-3.1-flash-lite-preview |
+| 45 | `one.chatshare.one` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 46 | `ruishiglobal.com` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 47 | `tokenshengsheng.com` | $0.25 / $1.5 | Gemini模型Air | 1 | gemini-3.1-flash-lite-preview |
+| 48 | `yuli.host` | $0.25 / $1.5 | gemini-cli | 1 | gemini-3.1-flash-lite-preview |
+| 49 | `fugui.im` | $0.4 / $2.4 | 【VY】Gemini-官key-支持全4系列 | 1.6 | gemini-3.1-flash-lite-preview |
+| 50 | `kedaya.ai` | $0.5 / $3 | Gemini-vertex | 2 | gemini-3.1-flash-lite-preview |
 
-> 另有 10 站未列出。
+> 另有 11 站未列出。
 
-> 98 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 99 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

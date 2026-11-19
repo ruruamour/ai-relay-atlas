@@ -1,6 +1,6 @@
 # deepseek-v4-flash
 
-> 1291 站提供 · 正常价 928 站 · 名义中位价 **$0.45**/1M 输入 · 实付中位价 **¥0.9994**/1M 输入（663 站公开充值价） · 推算，未对账
+> 1295 站提供 · 正常价 931 站 · 名义中位价 **$0.45**/1M 输入 · 实付中位价 **¥0.9994**/1M 输入（665 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,49 +19,49 @@
 | 7 | `api.banyane.top` | ¥0.045 | $0.045 / $0.09 | 1 | default | deepseek-v4-flash-0731 |
 | 8 | `api.yjs.im` | ¥0.05 | $0.05 / $0.2 | 1 | Rice | deepseek-v4-flash |
 | 9 | `last-api.ai` | ¥0.056 | $0.056 / $0.112 | 1 | Chinese-model | deepseek-v4-flash |
-| 10 | `ymeng.cc` | ¥0.06 | $0.06 / $0.12 | 1 | 国模遥遥领先 | deepseek-v4-flash |
-| 11 | `api.tokenfreeperday.com` | ¥0.066 | $0.066 / $0.198 | 1 | ALL | deepseek-v4-flash |
-| 12 | `api.aliyunfuwu.top` | ¥0.07 | $0.07 / $0.14 | 1 | relay | AITC-DeepSeek-V4-flash |
-| 13 | `router.hctopup.com` | ¥0.075 | $0.075 / $0.225 | 1 | Default | deepseek-v4-flash |
-| 14 | `api.unorouter.com` | ¥0.08 | $0.079996 / $0.159992 | 1 | rk1-deepseek-v4-flash | deepseek-v4-flash |
-| 15 | `nexa.buycodekey.com` | ¥0.08 | $0.08 / $0.1 | 1 | deepseek | deepseek-v4-flash-0731 |
-| 16 | `oneapi.gptnb.ai` | ¥0.0852 | $0.0852 / $0.2556 | 1 | CN_discount | deepseek-v4-flash |
-| 17 | `tiantianai.pro` | ¥0.088 | $0.088 / $0.264 | 1 | deepseek-wav | deepseek-v4-flash |
-| 18 | `ai.furry.vg` | ¥0.09 | $0.09 / $0.09 | 1 | default | deepseek-v4-flash-0731 |
-| 19 | `ai.kdysite.cloud` | ¥0.09 | $0.09 / $0.27 | 1 | 数据处理 | deepseek-v4-flash |
-| 20 | `synai996.space` | ¥0.09 | $0.09 / $0.36 | 1 | default | deepseek-v4-flash |
-| 21 | `www.token.me.uk` | ¥0.09 | $0.09 / $0.36 | 1 | DeepSeek 稳定-海外版 | deepseek-v4-flash |
-| 22 | `www.aiide.com` | ¥0.09286 | $0.0928571 / $0.185714 | 1 | deepseek | deepseek-v4-flash |
-| 23 | `rockapi.ai` | ¥0.098 | $0.098 / $0.196 | 1 | 0.7x | deepseek-v4-flash |
-| 24 | `api.xwsz.top` | ¥0.099 | $0.099 / $0.297 | 1 | deepseek[0066] | deepseek-v4-flash |
-| 25 | `crowllm.com` | ¥0.1 | $0.1 / $0.99 | 1 | pro | DeepSeek-V4-Flash-0731 |
-| 26 | `us-api.x5m5x.com` | ¥0.1 | $0.1 / $0.4 | 1 | 国模自营（2号主力池） | deepseek-v4-flash-0731 |
-| 27 | `fluxa.camila.qzz.io` | ¥0.103 | $0.1 / $0.4 | 1.03 | 【按量】deepseek | deepseek-v4-flash |
-| 28 | `coneverse.com` | ¥0.105 | $0.105 / $0.21 | 1 | supply-7915d6062450fbfbc983dc03 | deepseek-v4-flash |
-| 29 | `infistar.ai` | ¥0.105 | $0.105 / $0.21 | 1 | supply-7915d6062450fbfbc983dc03 | deepseek-v4-flash |
-| 30 | `sailapi.com` | ¥0.105 | $0.105 / $0.21 | 1 | default | deepseek-v4-flash |
-| 31 | `layso.ai` | ¥0.11 | $0.11 / $0.33 | 1 | DeepSeek-1 | deepseek-v4-flash |
-| 32 | `oai2api.com` | ¥0.11 | $0.11 / $0.33 | 1 | china_modal | deepseek-v4-flash-0731 |
-| 33 | `cn.gptapi.asia` | ¥0.112 | $0.112 / $0.224 | 1 | default | deepseek-v4-flash-0731 |
-| 34 | `yutoapi.com` | ¥0.112 | $0.112 / $0.224 | 1 | default | deepseek-v4-flash-0731 |
-| 35 | `aizzz.shop` | ¥0.12 | $0.12 / $0.36 | 1 | default | deepseek-v4-flash |
-| 36 | `api.mcapple.top` | ¥0.12 | $0.12 / $0.36 | 1 | workbuddy | deepseek-v4-flash-0731 |
-| 37 | `apiqd.com` | ¥0.12 | $0.12 / $0.36 | 1 | deepseek | deepseek-v4-flash |
-| 38 | `cf.rule91.wtf` | ¥0.12 | $0.12 / $0.36 | 1 | 炸弹国模 | deepseek-v4-flash |
-| 39 | `feiniu-ai.cn` | ¥0.12 | $0.12 / $0.21 | 1 | default | deepseek-v4-flash |
-| 40 | `api.liangrekui.com` | ¥0.125 | $0.125 / $0.5 | 1 | E deepseek-web逆 | deepseek-v4-flash |
-| 41 | `new.ainat.qzz.io` | ¥0.13 | $0.13 / $0.52 | 1 | 国模 | deepseek-v4-flash |
-| 42 | `feiniu-ai.xyz` | ¥0.133 | $0.133 / $0.266 | 1 | default | deepseek-v4-flash |
-| 43 | `llmai.freebird2913.tech` | ¥0.136 | $0.136 / $0.28 | 1 | DeepSeek官方 | deepseek-v4-flash |
-| 44 | `api.banban.plus` | ¥0.137 | $0.136986 / $0.547945 | 1 | E deepseek-火山-官key | deepseek-v4-flash |
-| 45 | `ai.ppaet.top` | ¥0.14 | $0.14 / $0.28 | 1 | DeepSeek官方 | deepseek-v4-flash |
-| 46 | `gptapi.app` | ¥0.14 | $0.14 / $0.28 | 1 | default | deepseek-v4-flash |
-| 47 | `otoken.pro` | ¥0.14 | $0.14 / $0.28 | 1 | default | DeepSeek-V4-Flash-0731 |
-| 48 | `tokenflux.cloud` | ¥0.14 | $0.14 / $0.28 | 1 | default | deepseek-v4-flash |
-| 49 | `tokensupply.ai` | ¥0.14 | $0.14 / $0.28 | 1 | svip | deepseek-v4-flash |
-| 50 | `tuokeapi.com` | ¥0.14 | $0.14 / $0.56 | 1 | deep seek | deepseek-v4-flash |
+| 10 | `llmoxy.com` | ¥0.06 | $0.06 / $0.24 | 1 | Deepseek | deepseek-v4-flash |
+| 11 | `ymeng.cc` | ¥0.06 | $0.06 / $0.12 | 1 | 国模遥遥领先 | deepseek-v4-flash |
+| 12 | `api.tokenfreeperday.com` | ¥0.066 | $0.066 / $0.198 | 1 | ALL | deepseek-v4-flash |
+| 13 | `api.aliyunfuwu.top` | ¥0.07 | $0.07 / $0.14 | 1 | relay | AITC-DeepSeek-V4-flash |
+| 14 | `router.hctopup.com` | ¥0.075 | $0.075 / $0.225 | 1 | Default | deepseek-v4-flash |
+| 15 | `api.unorouter.com` | ¥0.08 | $0.079996 / $0.159992 | 1 | rk1-deepseek-v4-flash | deepseek-v4-flash |
+| 16 | `nexa.buycodekey.com` | ¥0.08 | $0.08 / $0.1 | 1 | deepseek | deepseek-v4-flash-0731 |
+| 17 | `oneapi.gptnb.ai` | ¥0.0852 | $0.0852 / $0.2556 | 1 | CN_discount | deepseek-v4-flash |
+| 18 | `tiantianai.pro` | ¥0.088 | $0.088 / $0.264 | 1 | deepseek-wav | deepseek-v4-flash |
+| 19 | `ai.furry.vg` | ¥0.09 | $0.09 / $0.09 | 1 | default | deepseek-v4-flash-0731 |
+| 20 | `ai.kdysite.cloud` | ¥0.09 | $0.09 / $0.27 | 1 | 数据处理 | deepseek-v4-flash |
+| 21 | `synai996.space` | ¥0.09 | $0.09 / $0.36 | 1 | default | deepseek-v4-flash |
+| 22 | `www.token.me.uk` | ¥0.09 | $0.09 / $0.36 | 1 | DeepSeek 稳定-海外版 | deepseek-v4-flash |
+| 23 | `www.aiide.com` | ¥0.09286 | $0.0928571 / $0.185714 | 1 | deepseek | deepseek-v4-flash |
+| 24 | `rockapi.ai` | ¥0.098 | $0.098 / $0.196 | 1 | 0.7x | deepseek-v4-flash |
+| 25 | `api.xwsz.top` | ¥0.099 | $0.099 / $0.297 | 1 | deepseek[0066] | deepseek-v4-flash |
+| 26 | `crowllm.com` | ¥0.1 | $0.1 / $0.99 | 1 | pro | DeepSeek-V4-Flash-0731 |
+| 27 | `us-api.x5m5x.com` | ¥0.1 | $0.1 / $0.4 | 1 | 国模自营（2号主力池） | deepseek-v4-flash-0731 |
+| 28 | `fluxa.camila.qzz.io` | ¥0.103 | $0.1 / $0.4 | 1.03 | 【按量】deepseek | deepseek-v4-flash |
+| 29 | `coneverse.com` | ¥0.105 | $0.105 / $0.21 | 1 | supply-7915d6062450fbfbc983dc03 | deepseek-v4-flash |
+| 30 | `infistar.ai` | ¥0.105 | $0.105 / $0.21 | 1 | supply-7915d6062450fbfbc983dc03 | deepseek-v4-flash |
+| 31 | `sailapi.com` | ¥0.105 | $0.105 / $0.21 | 1 | default | deepseek-v4-flash |
+| 32 | `layso.ai` | ¥0.11 | $0.11 / $0.33 | 1 | DeepSeek-1 | deepseek-v4-flash |
+| 33 | `oai2api.com` | ¥0.11 | $0.11 / $0.33 | 1 | china_modal | deepseek-v4-flash-0731 |
+| 34 | `cn.gptapi.asia` | ¥0.112 | $0.112 / $0.224 | 1 | default | deepseek-v4-flash-0731 |
+| 35 | `yutoapi.com` | ¥0.112 | $0.112 / $0.224 | 1 | default | deepseek-v4-flash-0731 |
+| 36 | `aizzz.shop` | ¥0.12 | $0.12 / $0.36 | 1 | default | deepseek-v4-flash |
+| 37 | `api.mcapple.top` | ¥0.12 | $0.12 / $0.36 | 1 | workbuddy | deepseek-v4-flash-0731 |
+| 38 | `apiqd.com` | ¥0.12 | $0.12 / $0.36 | 1 | deepseek | deepseek-v4-flash |
+| 39 | `cf.rule91.wtf` | ¥0.12 | $0.12 / $0.36 | 1 | 炸弹国模 | deepseek-v4-flash |
+| 40 | `feiniu-ai.cn` | ¥0.12 | $0.12 / $0.21 | 1 | default | deepseek-v4-flash |
+| 41 | `api.liangrekui.com` | ¥0.125 | $0.125 / $0.5 | 1 | E deepseek-web逆 | deepseek-v4-flash |
+| 42 | `new.ainat.qzz.io` | ¥0.13 | $0.13 / $0.52 | 1 | 国模 | deepseek-v4-flash |
+| 43 | `feiniu-ai.xyz` | ¥0.133 | $0.133 / $0.266 | 1 | default | deepseek-v4-flash |
+| 44 | `llmai.freebird2913.tech` | ¥0.136 | $0.136 / $0.28 | 1 | DeepSeek官方 | deepseek-v4-flash |
+| 45 | `api.banban.plus` | ¥0.137 | $0.136986 / $0.547945 | 1 | E deepseek-火山-官key | deepseek-v4-flash |
+| 46 | `ai.ppaet.top` | ¥0.14 | $0.14 / $0.28 | 1 | DeepSeek官方 | deepseek-v4-flash |
+| 47 | `gptapi.app` | ¥0.14 | $0.14 / $0.28 | 1 | default | deepseek-v4-flash |
+| 48 | `otoken.pro` | ¥0.14 | $0.14 / $0.28 | 1 | default | DeepSeek-V4-Flash-0731 |
+| 49 | `tokenflux.cloud` | ¥0.14 | $0.14 / $0.28 | 1 | default | deepseek-v4-flash |
+| 50 | `tokensupply.ai` | ¥0.14 | $0.14 / $0.28 | 1 | svip | deepseek-v4-flash |
 
-> 另有 613 站未列出。
+> 另有 615 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `api.xiaojue.cloud` | $0.15 / $0.6 | 国模 | 0.15 | deepseek-v4-flash |
 | 50 | `business.starway.lol` | $0.15 / $0.6 | 国模大杂烩-P1组 | 0.15 | deepseek-v4-flash-0731 |
 
-> 另有 215 站未列出。
+> 另有 216 站未列出。
 
-> 363 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 364 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

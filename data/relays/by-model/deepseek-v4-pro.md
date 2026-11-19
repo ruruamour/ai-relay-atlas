@@ -1,6 +1,6 @@
 # deepseek-v4-pro
 
-> 1534 站提供 · 正常价 1135 站 · 名义中位价 **$1.65**/1M 输入 · 实付中位价 **¥3.6**/1M 输入（805 站公开充值价） · 推算，未对账
+> 1539 站提供 · 正常价 1139 站 · 名义中位价 **$1.65**/1M 输入 · 实付中位价 **¥3.6**/1M 输入（807 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,36 +32,36 @@
 | 20 | `ai.zyyun.xyz` | ¥0.225 | $0.225 / $1.35 | 1 | DeepSeek | deepseek-v4-pro |
 | 21 | `api.slomerex.xyz` | ¥0.225 | $0.225 / $0.45 | 1 | DeepSeek | deepseek-v4-pro |
 | 22 | `fluxapi.vip` | ¥0.225 | $0.225 / $0.675 | 1 | DeepSeek \| 低谷 0.05x | deepseek-v4-pro |
-| 23 | `ai.ikvv.cn` | ¥0.27 | $0.27 / $0.81 | 1 | ds1017 | deepseek-v4-pro |
-| 24 | `ai.kdysite.cloud` | ¥0.27 | $0.27 / $0.81 | 1 | 数据处理 | deepseek-v4-pro |
-| 25 | `api.886365.xyz` | ¥0.27 | $0.27 / $0.81 | 1 | 国模C7 | deepseek-v4-pro |
-| 26 | `suanzhou.top` | ¥0.27 | $0.27 / $0.81 | 1 | ds1017 | deepseek-v4-pro |
-| 27 | `api.ccode.vip` | ¥0.3 | $0.3 / $0.6 | 1 | 国模平价 | deepseek-v4-pro |
-| 28 | `coneverse.com` | ¥0.3262 | $0.32625 / $0.6525 | 1 | supply-938eaece173408f4d89f6df2 | deepseek-v4-pro |
-| 29 | `infistar.ai` | ¥0.3262 | $0.32625 / $0.6525 | 1 | supply-938eaece173408f4d89f6df2 | deepseek-v4-pro |
-| 30 | `sailapi.com` | ¥0.3262 | $0.32625 / $0.6525 | 1 | default | deepseek-v4-pro |
-| 31 | `layso.ai` | ¥0.33 | $0.33 / $0.99 | 1 | DeepSeek-1 | deepseek-v4-pro |
-| 32 | `oai2api.com` | ¥0.33 | $0.33 / $0.99 | 1 | china_modal | deepseek-v4-pro |
-| 33 | `api.banyane.top` | ¥0.35 | $0.35 / $0.8 | 1 | default | deepseek-v4-pro-0813 |
-| 34 | `feiniu-ai.cn` | ¥0.35 | $0.35 / $0.8 | 1 | default | deepseek-v4-pro |
-| 35 | `nexa.buycodekey.com` | ¥0.35 | $0.35 / $0.8 | 1 | deepseek | deepseek-v4-pro-0813 |
-| 36 | `api.mcapple.top` | ¥0.36 | $0.36 / $1.08 | 1 | workbuddy | deepseek-v4-pro-0813 |
-| 37 | `apiqd.com` | ¥0.36 | $0.36 / $1.08 | 1 | deepseek | deepseek-v4-pro |
-| 38 | `cf.rule91.wtf` | ¥0.36 | $0.36 / $1.08 | 1 | 炸弹国模 | deepseek-v4-pro |
-| 39 | `ai-pixel.online` | ¥0.375 | $0.375 / $0.375 | 1 | room-1483 | deepseek-v4-pro |
-| 40 | `code.oai1.online` | ¥0.375 | $0.375 / $3.375 | 1 | 国产模型 | deepseek-v4-pro-0813 |
-| 41 | `synai996.space` | ¥0.396 | $0.396 / $1.188 | 1 | default | deepseek-v4-pro |
-| 42 | `www.token.me.uk` | ¥0.396 | $0.396 / $1.188 | 1 | DeepSeek 稳定-海外版 | deepseek-v4-pro |
-| 43 | `ai.furry.vg` | ¥0.405 | $0.405 / $0.405 | 1 | default | deepseek-v4-pro-0813 |
-| 44 | `ai.ppaet.top` | ¥0.435 | $0.435 / $0.87 | 1 | DeepSeek官方 | deepseek-v4-pro |
-| 45 | `e.fishxcode.com` | ¥0.435 | $0.435 / $0.87 | 1 | default | deepseek-v4-pro |
-| 46 | `www.tokenbuy.shop` | ¥0.435 | $0.435 / $0.87 | 1 | 国产模型大全 | deepseek-v4-pro |
-| 47 | `aipipe.link` | ¥0.448 | $0.448 / $0.8955 | 1 | DeepSeek | deepseek-v4-pro |
-| 48 | `api3.kscsnkli.site` | ¥0.45 | $0.45 / $1.36 | 1 | deepseek | deepseek-v4-pro |
-| 49 | `code.aigcpro.org` | ¥0.45 | $0.45 / $1.35 | 1 | 国模 | deepseek-v4-pro |
-| 50 | `new.omniakey.com` | ¥0.45 | $0.45 / $0.88 | 1 | probe | deepseek-v4-pro |
+| 23 | `llmoxy.com` | ¥0.264 | $0.264 / $0.792 | 1 | Deepseek | deepseek-v4-pro |
+| 24 | `ai.ikvv.cn` | ¥0.27 | $0.27 / $0.81 | 1 | ds1017 | deepseek-v4-pro |
+| 25 | `ai.kdysite.cloud` | ¥0.27 | $0.27 / $0.81 | 1 | 数据处理 | deepseek-v4-pro |
+| 26 | `api.886365.xyz` | ¥0.27 | $0.27 / $0.81 | 1 | 国模C7 | deepseek-v4-pro |
+| 27 | `suanzhou.top` | ¥0.27 | $0.27 / $0.81 | 1 | ds1017 | deepseek-v4-pro |
+| 28 | `api.ccode.vip` | ¥0.3 | $0.3 / $0.6 | 1 | 国模平价 | deepseek-v4-pro |
+| 29 | `coneverse.com` | ¥0.3262 | $0.32625 / $0.6525 | 1 | supply-938eaece173408f4d89f6df2 | deepseek-v4-pro |
+| 30 | `infistar.ai` | ¥0.3262 | $0.32625 / $0.6525 | 1 | supply-938eaece173408f4d89f6df2 | deepseek-v4-pro |
+| 31 | `sailapi.com` | ¥0.3262 | $0.32625 / $0.6525 | 1 | default | deepseek-v4-pro |
+| 32 | `layso.ai` | ¥0.33 | $0.33 / $0.99 | 1 | DeepSeek-1 | deepseek-v4-pro |
+| 33 | `oai2api.com` | ¥0.33 | $0.33 / $0.99 | 1 | china_modal | deepseek-v4-pro |
+| 34 | `api.banyane.top` | ¥0.35 | $0.35 / $0.8 | 1 | default | deepseek-v4-pro-0813 |
+| 35 | `feiniu-ai.cn` | ¥0.35 | $0.35 / $0.8 | 1 | default | deepseek-v4-pro |
+| 36 | `nexa.buycodekey.com` | ¥0.35 | $0.35 / $0.8 | 1 | deepseek | deepseek-v4-pro-0813 |
+| 37 | `api.mcapple.top` | ¥0.36 | $0.36 / $1.08 | 1 | workbuddy | deepseek-v4-pro-0813 |
+| 38 | `apiqd.com` | ¥0.36 | $0.36 / $1.08 | 1 | deepseek | deepseek-v4-pro |
+| 39 | `cf.rule91.wtf` | ¥0.36 | $0.36 / $1.08 | 1 | 炸弹国模 | deepseek-v4-pro |
+| 40 | `ai-pixel.online` | ¥0.375 | $0.375 / $0.375 | 1 | room-1483 | deepseek-v4-pro |
+| 41 | `code.oai1.online` | ¥0.375 | $0.375 / $3.375 | 1 | 国产模型 | deepseek-v4-pro-0813 |
+| 42 | `synai996.space` | ¥0.396 | $0.396 / $1.188 | 1 | default | deepseek-v4-pro |
+| 43 | `www.token.me.uk` | ¥0.396 | $0.396 / $1.188 | 1 | DeepSeek 稳定-海外版 | deepseek-v4-pro |
+| 44 | `ai.furry.vg` | ¥0.405 | $0.405 / $0.405 | 1 | default | deepseek-v4-pro-0813 |
+| 45 | `ai.ppaet.top` | ¥0.435 | $0.435 / $0.87 | 1 | DeepSeek官方 | deepseek-v4-pro |
+| 46 | `e.fishxcode.com` | ¥0.435 | $0.435 / $0.87 | 1 | default | deepseek-v4-pro |
+| 47 | `www.tokenbuy.shop` | ¥0.435 | $0.435 / $0.87 | 1 | 国产模型大全 | deepseek-v4-pro |
+| 48 | `aipipe.link` | ¥0.448 | $0.448 / $0.8955 | 1 | DeepSeek | deepseek-v4-pro |
+| 49 | `api3.kscsnkli.site` | ¥0.45 | $0.45 / $1.36 | 1 | deepseek | deepseek-v4-pro |
+| 50 | `code.aigcpro.org` | ¥0.45 | $0.45 / $1.35 | 1 | 国模 | deepseek-v4-pro |
 
-> 另有 755 站未列出。
+> 另有 757 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `aixhub.shop` | $0.45 / $1.35 | deepseek | 0.1 | deepseek-v4-pro |
 | 50 | `api.aiportx.com` | $0.45 / $1.35 | Deepseek | 0.1 | deepseek-v4-pro |
 
-> 另有 280 站未列出。
+> 另有 282 站未列出。
 
-> 399 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 400 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

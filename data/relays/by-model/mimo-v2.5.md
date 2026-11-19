@@ -1,6 +1,6 @@
 # mimo-v2.5
 
-> 415 站提供 · 正常价 324 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.7726**/1M 输入（218 站公开充值价） · 推算，未对账
+> 417 站提供 · 正常价 325 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.7726**/1M 输入（218 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -107,17 +107,17 @@
 | 38 | `api.dreamaitoken.cloud` | $0.4 / $0.8 | Mimo | 1 | mimo-v2.5 |
 | 39 | `inferaichat.com` | $0.4 / $2 | auto分组 | 1 | mimo-v2.5 |
 | 40 | `nmzz.wonderful.edu.kg` | $0.4 / $0.8 | 国模官key | 0.4 | mimo-v2.5 |
-| 41 | `oapi.shop` | $0.4 / $0.8 | 国模/非GPT模型汇总 | 0.4 | xiaomi/mimo-v2.5 |
-| 42 | `sub.wonderful.edu.kg` | $0.4 / $0.8 | 国模官key | 0.4 | mimo-v2.5 |
-| 43 | `api.ylai.xyz` | $0.5 / $1 | 国内模型 | 0.5 | mimo-v2.5 |
-| 44 | `nodeai.cc` | $0.5 / $1 | MiMo | 0.5 | mimo-v2.5 |
-| 45 | `tuzkiapi.tuzki.online` | $0.52 / $1.05 | 国模兜底 | 0.1 | mimo-v2.5 |
-| 46 | `sub.skypoem.top` | $0.558 / $1.098 | qwen-自部署 | 0.18 | mimo-v2.5 |
-| 47 | `api.bestai.chat` | $0.6 / $1.2 | 国产模型（Anthropic协议） | 0.6 | mimo-v2.5 |
-| 48 | `aiapihub.cloud` | $1 / $2 | default | 1 | mimo-v2.5 |
-| 49 | `aiyiwei.vip` | $1 / $2 | default | 1 | mimo-v2.5 |
-| 50 | `anyaigc.com` | $1 / $2 | default | 1 | mimo-v2.5 |
+| 41 | `nuoapi.net` | $0.4 / $0.8 | 国模 (Chinese LLMs) | 0.2 | mimo-v2.5 |
+| 42 | `oapi.shop` | $0.4 / $0.8 | 国模/非GPT模型汇总 | 0.4 | xiaomi/mimo-v2.5 |
+| 43 | `sub.wonderful.edu.kg` | $0.4 / $0.8 | 国模官key | 0.4 | mimo-v2.5 |
+| 44 | `api.ylai.xyz` | $0.5 / $1 | 国内模型 | 0.5 | mimo-v2.5 |
+| 45 | `nodeai.cc` | $0.5 / $1 | MiMo | 0.5 | mimo-v2.5 |
+| 46 | `tuzkiapi.tuzki.online` | $0.52 / $1.05 | 国模兜底 | 0.1 | mimo-v2.5 |
+| 47 | `sub.skypoem.top` | $0.558 / $1.098 | qwen-自部署 | 0.18 | mimo-v2.5 |
+| 48 | `api.bestai.chat` | $0.6 / $1.2 | 国产模型（Anthropic协议） | 0.6 | mimo-v2.5 |
+| 49 | `aiapihub.cloud` | $1 / $2 | default | 1 | mimo-v2.5 |
+| 50 | `aiyiwei.vip` | $1 / $2 | default | 1 | mimo-v2.5 |
 
-> 另有 56 站未列出。
+> 另有 57 站未列出。
 
-> 91 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 92 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

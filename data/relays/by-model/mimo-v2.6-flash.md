@@ -1,6 +1,6 @@
 # mimo-v2.6-flash
 
-> 361 站提供 · 正常价 210 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.455**/1M 输入（169 站公开充值价） · 推算，未对账
+> 363 站提供 · 正常价 211 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.455**/1M 输入（169 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -98,15 +98,16 @@
 | 29 | `8888.name` | $0.4 / $0.8 | 国模 | 1 | mimo-v2.6-flash |
 | 30 | `api.8888.name` | $0.4 / $0.8 | 国模 | 1 | mimo-v2.6-flash |
 | 31 | `nmzz.wonderful.edu.kg` | $0.4 / $0.8 | 国模官key | 0.4 | mimo-v2.6-flash |
-| 32 | `sub.wonderful.edu.kg` | $0.4 / $0.8 | 国模官key | 0.4 | mimo-v2.6-flash |
-| 33 | `tokai.cc` | $0.4 / $0.8 | 国模 | 0.2 | mimo-v2.6-flash |
-| 34 | `codexauv.com` | $0.43 / $0.86 | 国产模型聚合-大厂渠道 | 0.43 | mimo-v2.6-flash |
-| 35 | `hapiopen.cc` | $0.6 / $1.2 | 国模 openai格式 | 0.6 | mimo-v2.6-flash |
-| 36 | `api.lmuai.ai` | $0.9 / $1.8 | 国产旗舰大模型甄选(Anthropic协议)-自由切换 | 0.9 | mimo-v2.6-flash |
-| 37 | `api.chuangxiangai.asia` | $1.4 / $2.8 | 国模 0.07x-0.13x | 0.7 | mimo-v2.6-flash |
-| 38 | `vapi.chuangxiangai.asia` | $1.4 / $2.8 | 国模 0.07x-0.13x | 0.7 | mimo-v2.6-flash |
-| 39 | `ai.hctopup.com` | $2 / $4 | 国产模型 | 1 | mimo-v2.6-flash |
-| 40 | `meta-api.vip` | $3.72561 / $7.45123 | 优选 | 0.8 | mimo-v2.6-flash |
-| 41 | `openai.sharkmagic.top` | $135 / $270 | tier_3 | 0.9 | [hm]u\|mimo-v2.6-flash |
+| 32 | `nuoapi.net` | $0.4 / $0.8 | 国模 (Chinese LLMs) | 0.2 | mimo-v2.6-flash |
+| 33 | `sub.wonderful.edu.kg` | $0.4 / $0.8 | 国模官key | 0.4 | mimo-v2.6-flash |
+| 34 | `tokai.cc` | $0.4 / $0.8 | 国模 | 0.2 | mimo-v2.6-flash |
+| 35 | `codexauv.com` | $0.43 / $0.86 | 国产模型聚合-大厂渠道 | 0.43 | mimo-v2.6-flash |
+| 36 | `hapiopen.cc` | $0.6 / $1.2 | 国模 openai格式 | 0.6 | mimo-v2.6-flash |
+| 37 | `api.lmuai.ai` | $0.9 / $1.8 | 国产旗舰大模型甄选(Anthropic协议)-自由切换 | 0.9 | mimo-v2.6-flash |
+| 38 | `api.chuangxiangai.asia` | $1.4 / $2.8 | 国模 0.07x-0.13x | 0.7 | mimo-v2.6-flash |
+| 39 | `vapi.chuangxiangai.asia` | $1.4 / $2.8 | 国模 0.07x-0.13x | 0.7 | mimo-v2.6-flash |
+| 40 | `ai.hctopup.com` | $2 / $4 | 国产模型 | 1 | mimo-v2.6-flash |
+| 41 | `meta-api.vip` | $3.72561 / $7.45123 | 优选 | 0.8 | mimo-v2.6-flash |
+| 42 | `openai.sharkmagic.top` | $135 / $270 | tier_3 | 0.9 | [hm]u\|mimo-v2.6-flash |
 
-> 151 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 152 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

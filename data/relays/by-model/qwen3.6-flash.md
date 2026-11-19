@@ -1,6 +1,6 @@
 # qwen3.6-flash
 
-> 148 站提供 · 正常价 81 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥1.203**/1M 输入（70 站公开充值价） · 推算，未对账
+> 149 站提供 · 正常价 82 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥1.203**/1M 输入（70 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -72,11 +72,12 @@
 | 3 | `api.hy88.my` | $0.176 / $1.056 | qwen | 1 | qwen3.6-flash |
 | 4 | `sub.skypoem.top` | $0.216 / $1.296 | qwen-自部署 | 0.18 | qwen3.6-flash |
 | 5 | `mzeapi.top` | $0.24 / $1.44 | 国模-【QWEN】 | 0.2 | qwen3.6-flash |
-| 6 | `goforai.top` | $0.48 / $2.88 | Kimi K3 | 0.4 | qwen3.6-flash |
-| 7 | `www.likeai520.cc` | $0.48 / $2.88 | 国模分组 | 0.4 | qwen3.6-flash |
-| 8 | `api.bestai.chat` | $0.72 / $4.32 | 国产模型（Anthropic协议） | 0.6 | qwen3.6-flash |
-| 9 | `api.lmuai.ai` | $0.96 / $5.76 | 阿里Qwen(Anthropic协议) | 0.8 | qwen3.6-flash |
-| 10 | `www.jiguang.me` | $1.2 / $7.2 | 千问 | 1 | qwen3.6-flash |
-| 11 | `sub.hookai.shop` | $2 / $2 | default | 1 | qwen3.6-flash |
+| 6 | `nuoapi.net` | $0.24 / $1.44 | 国模 (Chinese LLMs) | 0.2 | qwen3.6-flash |
+| 7 | `goforai.top` | $0.48 / $2.88 | Kimi K3 | 0.4 | qwen3.6-flash |
+| 8 | `www.likeai520.cc` | $0.48 / $2.88 | 国模分组 | 0.4 | qwen3.6-flash |
+| 9 | `api.bestai.chat` | $0.72 / $4.32 | 国产模型（Anthropic协议） | 0.6 | qwen3.6-flash |
+| 10 | `api.lmuai.ai` | $0.96 / $5.76 | 阿里Qwen(Anthropic协议) | 0.8 | qwen3.6-flash |
+| 11 | `www.jiguang.me` | $1.2 / $7.2 | 千问 | 1 | qwen3.6-flash |
+| 12 | `sub.hookai.shop` | $2 / $2 | default | 1 | qwen3.6-flash |
 
 > 67 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-3.5-flash
 
-> 1023 站提供 · 正常价 787 站 · 名义中位价 **$1.4**/1M 输入 · 实付中位价 **¥1.807**/1M 输入（614 站公开充值价） · 推算，未对账
+> 1024 站提供 · 正常价 788 站 · 名义中位价 **$1.375**/1M 输入 · 实付中位价 **¥1.807**/1M 输入（614 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -110,14 +110,14 @@
 | 41 | `gptcodex.top` | $0.495 / $2.97 | Gemini-反重力 | 0.33 | gemini-3.5-flash |
 | 42 | `happyapi.org` | $0.5 / $3 | default | 1 | gemini-3.5-flash |
 | 43 | `api.inktandwkx.top` | $0.525 / $3.15 | Gemini | 0.35 | gemini-3.5-flash |
-| 44 | `sub2api.luchikey.com` | $0.525 / $3.15 | Gemini-Pro(支持并且包括生图) | 0.35 | gemini-3.5-flash |
-| 45 | `you.loveme.space` | $0.525 / $3.15 | gemini-ultra | 0.35 | gemini-3.5-flash |
-| 46 | `www.kk-vibe.top` | $0.54 / $3.24 | Gemini Ultra | 0.36 | gemini-3.5-flash |
-| 47 | `cn.fluxtoken.ai` | $0.57 / $3.42 | 【Gemini】Google Antigravity | 0.38 | gemini-3.5-flash |
-| 48 | `aicat.api.sumnece.com` | $0.6 / $3.6 | ultra | 0.4 | gemini-3.5-flash-low |
-| 49 | `api.aicatstudios.com` | $0.6 / $3.6 | gemini分组（无审核） | 0.4 | gemini-3.5-flash |
-| 50 | `api.aliuapi.top` | $0.6 / $3.6 | NL - Gemini - 反代无缓 | 0.4 | gemini-3.5-flash |
+| 44 | `nuoapi.net` | $0.525 / $3.15 | Gemini | 0.35 | gemini-3.5-flash |
+| 45 | `sub2api.luchikey.com` | $0.525 / $3.15 | Gemini-Pro(支持并且包括生图) | 0.35 | gemini-3.5-flash |
+| 46 | `you.loveme.space` | $0.525 / $3.15 | gemini-ultra | 0.35 | gemini-3.5-flash |
+| 47 | `www.kk-vibe.top` | $0.54 / $3.24 | Gemini Ultra | 0.36 | gemini-3.5-flash |
+| 48 | `cn.fluxtoken.ai` | $0.57 / $3.42 | 【Gemini】Google Antigravity | 0.38 | gemini-3.5-flash |
+| 49 | `aicat.api.sumnece.com` | $0.6 / $3.6 | ultra | 0.4 | gemini-3.5-flash-low |
+| 50 | `api.aicatstudios.com` | $0.6 / $3.6 | gemini分组（无审核） | 0.4 | gemini-3.5-flash |
 
-> 另有 123 站未列出。
+> 另有 124 站未列出。
 
 > 236 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

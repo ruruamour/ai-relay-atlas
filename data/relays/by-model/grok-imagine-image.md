@@ -1,6 +1,6 @@
 # grok-imagine-image
 
-> 486 站提供 · 正常价 390 站 · 名义中位价 **$0.06**/次 · 实付中位价 **¥0.09326**/次（283 站公开充值价） · 推算，未对账
+> 489 站提供 · 正常价 391 站 · 名义中位价 **$0.06**/次 · 实付中位价 **¥0.09326**/次（283 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -80,44 +80,44 @@
 | 11 | `ltgpt.xyz` | $0.012 | Grok Heavy | 0.15 | grok-imagine-image |
 | 12 | `luckyapi.online` | $0.012 | LuckyAPI | 0.8 | grok-imagine-image |
 | 13 | `you.loveme.space` | $0.0128 | grok-ultra | 0.16 | grok-imagine-image |
-| 14 | `api.wopally.cn` | $0.0144 | grok 破甲 | 0.12 | grok-imagine-image |
-| 15 | `heilovehei.com` | $0.016 | Grok Heavy | 0.2 | grok-imagine-image |
-| 16 | `pureai.ink` | $0.016 | A-Grok-Heavy | 0.2 | grok-imagine-image |
-| 17 | `momoai.asia` | $0.017 | SuperGrok余额分组 | 0.85 | grok-imagine-image |
-| 18 | `api.jiguang.me` | $0.02 | grok-image-video | 1 | grok-imagine-image |
-| 19 | `api.okinto.com` | $0.02 | default | 1 | grok-imagine-image |
-| 20 | `www.jiguang.me` | $0.02 | grok-image-video | 1 | grok-imagine-image |
-| 21 | `mfttai.com` | $0.0225 | Grok | 0.25 | grok-imagine-image |
-| 22 | `meta-api.vip` | $0.033 | 生图和视频 | 0.05 | grok-imagine-image |
-| 23 | `api.api2cn.com` | $0.0375 | Grok-Heavy号池组 | 0.15 | grok-imagine-image |
-| 24 | `api.tyasai.com` | $0.05 | Grok生图 | 1 | grok-imagine-image |
-| 25 | `ican-gpt.com` | $0.05 | 【生图】Super Grok Heavy  | 1 | grok-imagine-image |
-| 26 | `sub.vcnovb.cn` | $0.05 | Grok生图 | 1 | grok-imagine-image |
-| 27 | `axis.yoga` | $0.0585 | 生图专业版 | 1 | grok-imagine-image |
-| 28 | `99ai.club` | $0.06 | 图像与视频 | 1 | grok-imagine-image |
-| 29 | `api.bestai.chat` | $0.06 | Grok | 0.6 | grok-imagine-image |
-| 30 | `create.99ai.club` | $0.06 | 图像与视频 | 1 | grok-imagine-image |
-| 31 | `emooo.cc` | $0.06 | 【图片模型】Grok Imagine | 1 | grok-imagine-image |
-| 32 | `vip.zen-ai.top` | $0.066 | grok-build | 3 | grok-imagine-image |
-| 33 | `api.ylai.xyz` | $0.08 | 图片模型 | 1 | grok-imagine-image |
-| 34 | `www.kk-vibe.top` | $0.08 | 无限画布 -- grok生图 | 1 | grok-imagine-image |
-| 35 | `api.20020723.xyz` | $0.09 | Grok分组 | 0.15 | grok-imagine-image |
-| 36 | `api.coderplan.ai` | $0.09 | imagevideo | 1 | grok-imagine-image |
-| 37 | `abinapi.com` | $0.1625 | Grok纯血 | 0.13 | grok-imagine-image |
-| 38 | `aichronos.xyz` | $0.2 | grok | 0.2 | grok-imagine-image |
-| 39 | `api.baosiai.com` | $0.2 | grok | 10 | grok-imagine-image |
-| 40 | `baosiapi.com` | $0.2 | grok | 10 | grok-imagine-image |
-| 41 | `aiapihub.cloud` | $0.208 | default | 1 | grok-imagine-image |
-| 42 | `aiyiwei.vip` | $0.208 | default | 1 | grok-imagine-image |
-| 43 | `anyaigc.com` | $0.208 | default | 1 | grok-imagine-image |
-| 44 | `api-hub.vip` | $0.208 | default | 1 | grok-imagine-image |
-| 45 | `api.aibh.site` | $0.208 | default | 1 | grok-imagine-image |
-| 46 | `api.aicso.top` | $0.208 | default | 1 | grok-imagine-image |
-| 47 | `api.antmoo.com` | $0.208 | default | 1 | grok-imagine-image |
-| 48 | `api.apiplus.org` | $0.208 | default | 1 | grok-imagine-image |
-| 49 | `api.bitidea.cn` | $0.208 | default | 1 | grok-imagine-image |
-| 50 | `api.clai.click` | $0.208 | default | 1 | grok-imagine-image |
+| 14 | `nuoapi.net` | $0.0132 | Grok | 0.22 | grok-imagine-image |
+| 15 | `api.wopally.cn` | $0.0144 | grok 破甲 | 0.12 | grok-imagine-image |
+| 16 | `heilovehei.com` | $0.016 | Grok Heavy | 0.2 | grok-imagine-image |
+| 17 | `pureai.ink` | $0.016 | A-Grok-Heavy | 0.2 | grok-imagine-image |
+| 18 | `momoai.asia` | $0.017 | SuperGrok余额分组 | 0.85 | grok-imagine-image |
+| 19 | `api.jiguang.me` | $0.02 | grok-image-video | 1 | grok-imagine-image |
+| 20 | `api.okinto.com` | $0.02 | default | 1 | grok-imagine-image |
+| 21 | `www.jiguang.me` | $0.02 | grok-image-video | 1 | grok-imagine-image |
+| 22 | `mfttai.com` | $0.0225 | Grok | 0.25 | grok-imagine-image |
+| 23 | `meta-api.vip` | $0.033 | 生图和视频 | 0.05 | grok-imagine-image |
+| 24 | `api.api2cn.com` | $0.0375 | Grok-Heavy号池组 | 0.15 | grok-imagine-image |
+| 25 | `api.tyasai.com` | $0.05 | Grok生图 | 1 | grok-imagine-image |
+| 26 | `ican-gpt.com` | $0.05 | 【生图】Super Grok Heavy  | 1 | grok-imagine-image |
+| 27 | `sub.vcnovb.cn` | $0.05 | Grok生图 | 1 | grok-imagine-image |
+| 28 | `axis.yoga` | $0.0585 | 生图专业版 | 1 | grok-imagine-image |
+| 29 | `99ai.club` | $0.06 | 图像与视频 | 1 | grok-imagine-image |
+| 30 | `api.bestai.chat` | $0.06 | Grok | 0.6 | grok-imagine-image |
+| 31 | `create.99ai.club` | $0.06 | 图像与视频 | 1 | grok-imagine-image |
+| 32 | `emooo.cc` | $0.06 | 【图片模型】Grok Imagine | 1 | grok-imagine-image |
+| 33 | `vip.zen-ai.top` | $0.066 | grok-build | 3 | grok-imagine-image |
+| 34 | `api.ylai.xyz` | $0.08 | 图片模型 | 1 | grok-imagine-image |
+| 35 | `www.kk-vibe.top` | $0.08 | 无限画布 -- grok生图 | 1 | grok-imagine-image |
+| 36 | `api.20020723.xyz` | $0.09 | Grok分组 | 0.15 | grok-imagine-image |
+| 37 | `api.coderplan.ai` | $0.09 | imagevideo | 1 | grok-imagine-image |
+| 38 | `abinapi.com` | $0.1625 | Grok纯血 | 0.13 | grok-imagine-image |
+| 39 | `aichronos.xyz` | $0.2 | grok | 0.2 | grok-imagine-image |
+| 40 | `api.baosiai.com` | $0.2 | grok | 10 | grok-imagine-image |
+| 41 | `baosiapi.com` | $0.2 | grok | 10 | grok-imagine-image |
+| 42 | `aiapihub.cloud` | $0.208 | default | 1 | grok-imagine-image |
+| 43 | `aiyiwei.vip` | $0.208 | default | 1 | grok-imagine-image |
+| 44 | `anyaigc.com` | $0.208 | default | 1 | grok-imagine-image |
+| 45 | `api-hub.vip` | $0.208 | default | 1 | grok-imagine-image |
+| 46 | `api.aibh.site` | $0.208 | default | 1 | grok-imagine-image |
+| 47 | `api.aicso.top` | $0.208 | default | 1 | grok-imagine-image |
+| 48 | `api.antmoo.com` | $0.208 | default | 1 | grok-imagine-image |
+| 49 | `api.apiplus.org` | $0.208 | default | 1 | grok-imagine-image |
+| 50 | `api.bitidea.cn` | $0.208 | default | 1 | grok-imagine-image |
 
-> 另有 57 站未列出。
+> 另有 58 站未列出。
 
-> 96 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 98 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gpt-image-2.6-flare
 
-> 780 站提供 · 正常价 208 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥23.81**/1M 输入（165 站公开充值价） · 推算，未对账
+> 783 站提供 · 正常价 209 站 · 名义中位价 **$5**/1M 输入 · 实付中位价 **¥24.15**/1M 输入（166 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `apijing.com` | ¥14 | $14 / $84 | 1 | oai生图 | gpt-image-2.6-flare |
 | 50 | `api.akane.win` | ¥15 | $15 / $30 | 1 | gpt-1k | gpt-image-2.6-flare |
 
-> 另有 115 站未列出。
+> 另有 116 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -111,4 +111,4 @@
 | 42 | `wish.sillydream.top` | $1000 / $6000 | default | 1 | 「YS」gpt-image-2.6-flare-official |
 | 43 | `windhub.online` | $4000 / $24000 | Fenghe 桌面统一路由 | 1 | gpt-image-2.6-flare-official |
 
-> 572 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 574 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

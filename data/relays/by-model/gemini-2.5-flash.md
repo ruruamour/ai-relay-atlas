@@ -1,6 +1,6 @@
 # gemini-2.5-flash
 
-> 890 站提供 · 正常价 759 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（595 站公开充值价） · 推算，未对账
+> 892 站提供 · 正常价 761 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.3**/1M 输入（596 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `api.yuaiapi.com` | ¥0.075 | $0.075 / $0.625 | 1 | Gemini | gemini-2.5-flash |
 | 50 | `code.aigcpro.org` | ¥0.075 | $0.075 / $0.625 | 1 | gemini | gemini-2.5-flash |
 
-> 另有 545 站未列出。
+> 另有 546 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -114,10 +114,10 @@
 | 45 | `gptcodex.top` | $0.099 / $0.825 | Gemini-反重力 | 0.33 | gemini-2.5-flash |
 | 46 | `api.inktandwkx.top` | $0.105 / $0.875 | Gemini | 0.35 | gemini-2.5-flash |
 | 47 | `api.sanbailab.com` | $0.105 / $0.875 | Gemini Ultra 分组 | 0.35 | gemini-2.5-flash |
-| 48 | `sub.aspirinz.cc` | $0.108 / $0.9 | gemini | 0.4 | gemini-2.5-flash |
-| 49 | `cn.fluxtoken.ai` | $0.114 / $0.95 | 【Gemini】Google Antigravity | 0.38 | gemini-2.5-flash |
-| 50 | `aegisy.cc` | $0.12 / $1 | gemini反重力 | 0.4 | gemini-2.5-flash |
+| 48 | `nuoapi.net` | $0.105 / $0.875 | Gemini | 0.35 | gemini-2.5-flash |
+| 49 | `sub.aspirinz.cc` | $0.108 / $0.9 | gemini | 0.4 | gemini-2.5-flash |
+| 50 | `cn.fluxtoken.ai` | $0.114 / $0.95 | 【Gemini】Google Antigravity | 0.38 | gemini-2.5-flash |
 
-> 另有 114 站未列出。
+> 另有 115 站未列出。
 
 > 131 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

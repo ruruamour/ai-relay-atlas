@@ -1,6 +1,6 @@
 # gemini-4-hydrogen
 
-> 506 站提供 · 正常价 281 站 · 名义中位价 **$0.627363**/1M 输入 · 实付中位价 **¥2.922**/1M 输入（213 站公开充值价） · 推算，未对账
+> 508 站提供 · 正常价 283 站 · 名义中位价 **$0.627363**/1M 输入 · 实付中位价 **¥2.922**/1M 输入（214 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `jbbtoken.cn` | ¥0.75 | $0.75 / $3.75 | 1 | 专用gemini | gemini-4-hydrogen |
 | 50 | `liangxinapi.top` | ¥0.75 | $0.75 / $3.75 | 1 | Gemini-pro | gemini-4-hydrogen |
 
-> 另有 163 站未列出。
+> 另有 164 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -103,21 +103,21 @@
 | 34 | `codexauv.com` | $0.48 / $2.4 | Gemini-Ultra-支持4a4c4H | 0.32 | gemini-4-hydrogen |
 | 35 | `aiapibank.com` | $0.525 / $2.625 | Gemini Ultra分组 | 0.35 | gemini-4-hydrogen |
 | 36 | `api.hualong.online` | $0.525 / $2.625 | Gemi-Ant-Ultra | 0.35 | gemini-4-hydrogen-high |
-| 37 | `wawazz.xyz` | $0.525 / $2.625 | Gemini-anti | 0.35 | gemini-4-hydrogen |
-| 38 | `www.kk-vibe.top` | $0.54 / $2.7 | Gemini Ultra | 0.36 | gemini-4-hydrogen |
-| 39 | `cn.fluxtoken.ai` | $0.57 / $2.85 | 【Gemini】Google Antigravity | 0.38 | gemini-4-hydrogen |
-| 40 | `sub.skypoem.top` | $0.57 / $2.85 | Gemini Ultra | 0.38 | gemini-4-hydrogen |
-| 41 | `aicat.api.sumnece.com` | $0.6 / $3 | ultra | 0.4 | gemini-4-hydrogen |
-| 42 | `api.hack3rx.top` | $0.6 / $3 | Gemini 余额卡 0.3 倍率 · 旗舰分组（Gemini Ultra） | 0.3 | gemini-4-hydrogen |
-| 43 | `api.tohoqing.com` | $0.6 / $3 | gemini cli（支持所有客户端） | 0.4 | gemini-4-hydrogen |
-| 44 | `foxbeeai.com` | $0.6 / $3 | Gemini4 系列专用 | 0.4 | gemini-4-hydrogen |
-| 45 | `lingzhanai.top` | $0.6 / $3 | Gemini Ultra | 0.4 | gemini-4-hydrogen |
-| 46 | `mfttai.com` | $0.6 / $3 | Gemini | 0.4 | gemini-4-hydrogen |
-| 47 | `origincoder.com` | $0.6 / $3 | Gemini-Pro-满血官方号池 | 0.4 | gemini-4-hydrogen |
-| 48 | `api.linkcode.site` | $0.675 / $3.375 | Gemini-反重力 | 0.45 | gemini-4-hydrogen |
-| 49 | `saletoken.org` | $0.675 / $3.375 | gemini-反重力 | 0.45 | gemini-4-hydrogen |
-| 50 | `api.20020723.xyz` | $0.75 / $3.75 | Gemini按量计价 | 0.5 | gemini-4-hydrogen |
+| 37 | `nuoapi.net` | $0.525 / $2.625 | Gemini | 0.35 | gemini-4-hydrogen |
+| 38 | `wawazz.xyz` | $0.525 / $2.625 | Gemini-anti | 0.35 | gemini-4-hydrogen |
+| 39 | `www.kk-vibe.top` | $0.54 / $2.7 | Gemini Ultra | 0.36 | gemini-4-hydrogen |
+| 40 | `cn.fluxtoken.ai` | $0.57 / $2.85 | 【Gemini】Google Antigravity | 0.38 | gemini-4-hydrogen |
+| 41 | `sub.skypoem.top` | $0.57 / $2.85 | Gemini Ultra | 0.38 | gemini-4-hydrogen |
+| 42 | `aicat.api.sumnece.com` | $0.6 / $3 | ultra | 0.4 | gemini-4-hydrogen |
+| 43 | `api.hack3rx.top` | $0.6 / $3 | Gemini 余额卡 0.3 倍率 · 旗舰分组（Gemini Ultra） | 0.3 | gemini-4-hydrogen |
+| 44 | `api.tohoqing.com` | $0.6 / $3 | gemini cli（支持所有客户端） | 0.4 | gemini-4-hydrogen |
+| 45 | `foxbeeai.com` | $0.6 / $3 | Gemini4 系列专用 | 0.4 | gemini-4-hydrogen |
+| 46 | `lingzhanai.top` | $0.6 / $3 | Gemini Ultra | 0.4 | gemini-4-hydrogen |
+| 47 | `mfttai.com` | $0.6 / $3 | Gemini | 0.4 | gemini-4-hydrogen |
+| 48 | `origincoder.com` | $0.6 / $3 | Gemini-Pro-满血官方号池 | 0.4 | gemini-4-hydrogen |
+| 49 | `api.linkcode.site` | $0.675 / $3.375 | Gemini-反重力 | 0.45 | gemini-4-hydrogen |
+| 50 | `saletoken.org` | $0.675 / $3.375 | gemini-反重力 | 0.45 | gemini-4-hydrogen |
 
-> 另有 18 站未列出。
+> 另有 19 站未列出。
 
 > 225 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

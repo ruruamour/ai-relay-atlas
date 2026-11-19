@@ -1,6 +1,6 @@
 # doubao-seed-2-1-turbo
 
-> 139 站提供 · 正常价 113 站 · 名义中位价 **$0.50625**/1M 输入 · 实付中位价 **¥3**/1M 输入（108 站公开充值价） · 推算，未对账
+> 140 站提供 · 正常价 114 站 · 名义中位价 **$0.50625**/1M 输入 · 实付中位价 **¥3**/1M 输入（108 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -68,9 +68,10 @@
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `sub.skypoem.top` | $0.54 / $2.7 | qwen-自部署 | 0.18 | doubao-seed-2-1-turbo |
-| 2 | `codexauv.com` | $0.99 / $4.95 | 国产模型聚合-阿里满血渠道 | 0.33 | doubao-seed-2-1-turbo |
-| 3 | `goforai.top` | $1.2 / $6 | Kimi K3 | 0.4 | doubao-seed-2-1-turbo |
-| 4 | `www.likeai520.cc` | $1.2 / $6 | 国模分组 | 0.4 | doubao-seed-2-1-turbo |
-| 5 | `api.bestai.chat` | $1.8 / $9 | 国产模型（Anthropic协议） | 0.6 | doubao-seed-2-1-turbo |
+| 2 | `nuoapi.net` | $0.6 / $3 | 国模 (Chinese LLMs) | 0.2 | doubao-seed-2-1-turbo |
+| 3 | `codexauv.com` | $0.99 / $4.95 | 国产模型聚合-阿里满血渠道 | 0.33 | doubao-seed-2-1-turbo |
+| 4 | `goforai.top` | $1.2 / $6 | Kimi K3 | 0.4 | doubao-seed-2-1-turbo |
+| 5 | `www.likeai520.cc` | $1.2 / $6 | 国模分组 | 0.4 | doubao-seed-2-1-turbo |
+| 6 | `api.bestai.chat` | $1.8 / $9 | 国产模型（Anthropic协议） | 0.6 | doubao-seed-2-1-turbo |
 
 > 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

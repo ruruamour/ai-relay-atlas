@@ -1,6 +1,6 @@
 # mimo-v2.5-pro
 
-> 429 站提供 · 正常价 341 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥2.401**/1M 输入（234 站公开充值价） · 推算，未对账
+> 431 站提供 · 正常价 342 站 · 名义中位价 **$0.75912**/1M 输入 · 实付中位价 **¥2.401**/1M 输入（234 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -101,23 +101,23 @@
 | 32 | `api.relaylink.cloud` | $0.62 / $1.22 | 国模分组 | 0.2 | mimo-v2.5-pro |
 | 33 | `okmcode.com` | $0.62 / $1.22 | 国模cc兼容 | 0.2 | mimo-v2.5-pro |
 | 34 | `api.dreamaitoken.cloud` | $0.8 / $1.5 | Mimo | 1 | mimo-v2.5-pro |
-| 35 | `chat-api4.087654.xyz` | $0.87 / $1.74 | default | 2 | mimo-v2.5-pro |
-| 36 | `api.opkaa.com` | $0.9 / $1.8 | Deepseek.. | 0.3 | mimo-v2.5-pro |
-| 37 | `codexauv.com` | $0.99 / $1.98 | 国产模型聚合-阿里满血渠道 | 0.33 | mimo-v2.5-pro |
-| 38 | `inferaichat.com` | $1 / $3 | auto分组 | 1 | mimo-v2.5-pro |
-| 39 | `pureai.ink` | $1.125 / $2.25 | Z-国产模型-破限专享 | 0.375 | mimo-v2.5-pro |
-| 40 | `goforai.top` | $1.2 / $2.4 | Kimi K3 | 0.4 | mimo-v2.5-pro |
-| 41 | `nmzz.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.5-pro |
-| 42 | `oapi.shop` | $1.2 / $2.4 | 国模/非GPT模型汇总 | 0.4 | xiaomi/mimo-v2.5-pro |
-| 43 | `sub.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.5-pro |
-| 44 | `api.1route.dev` | $1.5 / $3 | 国模大乱炖 🥘（啥都有） | 0.5 | mimo-v2.5-pro |
-| 45 | `api.ylai.xyz` | $1.5 / $3 | 国内模型 | 0.5 | mimo-v2.5-pro |
-| 46 | `nodeai.cc` | $1.5 / $3 | MiMo | 0.5 | mimo-v2.5-pro |
-| 47 | `api.bestai.chat` | $1.8 / $3.6 | 国产模型（Anthropic协议） | 0.6 | mimo-v2.5-pro |
-| 48 | `tokenshengsheng.com` | $2.1 / $4.2 | 国产模型Pro | 0.7 | mimo-v2.5-pro |
-| 49 | `levelup.mom` | $2.436 / $4.872 | OpenCode Go满血号池 | 0.2 | mimo-v2.5-pro |
-| 50 | `aiapihub.cloud` | $3 / $6 | default | 1 | mimo-v2.5-pro |
+| 35 | `nuoapi.net` | $0.82 / $1.64 | 国模 (Chinese LLMs) | 0.2 | mimo-v2.5-pro |
+| 36 | `chat-api4.087654.xyz` | $0.87 / $1.74 | default | 2 | mimo-v2.5-pro |
+| 37 | `api.opkaa.com` | $0.9 / $1.8 | Deepseek.. | 0.3 | mimo-v2.5-pro |
+| 38 | `codexauv.com` | $0.99 / $1.98 | 国产模型聚合-阿里满血渠道 | 0.33 | mimo-v2.5-pro |
+| 39 | `inferaichat.com` | $1 / $3 | auto分组 | 1 | mimo-v2.5-pro |
+| 40 | `pureai.ink` | $1.125 / $2.25 | Z-国产模型-破限专享 | 0.375 | mimo-v2.5-pro |
+| 41 | `goforai.top` | $1.2 / $2.4 | Kimi K3 | 0.4 | mimo-v2.5-pro |
+| 42 | `nmzz.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.5-pro |
+| 43 | `oapi.shop` | $1.2 / $2.4 | 国模/非GPT模型汇总 | 0.4 | xiaomi/mimo-v2.5-pro |
+| 44 | `sub.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.5-pro |
+| 45 | `api.1route.dev` | $1.5 / $3 | 国模大乱炖 🥘（啥都有） | 0.5 | mimo-v2.5-pro |
+| 46 | `api.ylai.xyz` | $1.5 / $3 | 国内模型 | 0.5 | mimo-v2.5-pro |
+| 47 | `nodeai.cc` | $1.5 / $3 | MiMo | 0.5 | mimo-v2.5-pro |
+| 48 | `api.bestai.chat` | $1.8 / $3.6 | 国产模型（Anthropic协议） | 0.6 | mimo-v2.5-pro |
+| 49 | `tokenshengsheng.com` | $2.1 / $4.2 | 国产模型Pro | 0.7 | mimo-v2.5-pro |
+| 50 | `levelup.mom` | $2.436 / $4.872 | OpenCode Go满血号池 | 0.2 | mimo-v2.5-pro |
 
-> 另有 57 站未列出。
+> 另有 58 站未列出。
 
-> 88 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 89 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image-preview
 
-> 820 站提供 · 正常价 468 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.175**/次（399 站公开充值价） · 推算，未对账
+> 822 站提供 · 正常价 469 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.175**/次（399 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -108,16 +108,16 @@
 | 39 | `ai.dyc.im` | $0.135 | Banana 生图 | 1.5 | gemini-3.1-flash-image-preview |
 | 40 | `ai.websee.top` | $0.135 | Banana 生图 | 1.5 | gemini-3.1-flash-image-preview |
 | 41 | `code.aicodeme.cn` | $0.15 | 生图分组-香蕉生图 | 1 | gemini-3.1-flash-image-preview |
-| 42 | `⚠️www.hejuapi.com` | $0.1875 | Gemini | 0.25 | gemini-3.1-flash-image-preview |
-| 43 | `uuapi.io` | $0.2 | Nano Banana香蕉生图 | 1 | gemini-3.1-flash-image-preview |
-| 44 | `kittyapi.xyz` | $0.350002 | 算力AI【图片模型】 | 1 | 香蕉出图优质-gemini-3.1-flash-image-preview |
-| 45 | `api.apigiare.vn` | $0.36 | default | 1 | gemini-3.1-flash-image-preview |
-| 46 | `api.zhiyikeji.cn` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image-preview |
-| 47 | `s.qweapi.com` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image-preview |
-| 48 | `vapi.chuangxiangai.asia` | $0.75 | 生图 | 1 | gemini-3.1-flash-image-preview |
-| 49 | `aiapi.market` | $0.9 | image-2 | 10 | gemini-3.1-flash-image-preview |
-| 50 | `aixor.cc` | $0.9 | medium | 2 | gemini-3.1-flash-image-preview |
+| 42 | `nuoapi.net` | $0.15 | image | 1 | gemini-3.1-flash-image-preview |
+| 43 | `⚠️www.hejuapi.com` | $0.1875 | Gemini | 0.25 | gemini-3.1-flash-image-preview |
+| 44 | `uuapi.io` | $0.2 | Nano Banana香蕉生图 | 1 | gemini-3.1-flash-image-preview |
+| 45 | `kittyapi.xyz` | $0.350002 | 算力AI【图片模型】 | 1 | 香蕉出图优质-gemini-3.1-flash-image-preview |
+| 46 | `api.apigiare.vn` | $0.36 | default | 1 | gemini-3.1-flash-image-preview |
+| 47 | `api.zhiyikeji.cn` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image-preview |
+| 48 | `s.qweapi.com` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image-preview |
+| 49 | `vapi.chuangxiangai.asia` | $0.75 | 生图 | 1 | gemini-3.1-flash-image-preview |
+| 50 | `aiapi.market` | $0.9 | image-2 | 10 | gemini-3.1-flash-image-preview |
 
-> 另有 19 站未列出。
+> 另有 20 站未列出。
 
-> 352 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 353 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-nano-banana-2.1
 
-> 523 站提供 · 正常价 263 站 · 名义中位价 **$0.09**/次 · 实付中位价 **¥0.12**/次（217 站公开充值价） · 推算，未对账
+> 524 站提供 · 正常价 263 站 · 名义中位价 **$0.09**/次 · 实付中位价 **¥0.12**/次（217 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -114,4 +114,4 @@
 | 45 | `www.juapi.net` | $7.5 | nano-banana-2 | 10 | gemini-nano-banana-2.1 |
 | 46 | `www.tokenrouter.tech` | $7.5 | nano-banana-2 | 10 | gemini-nano-banana-2.1 |
 
-> 260 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 261 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

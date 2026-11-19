@@ -1,6 +1,6 @@
 # grok-imagine-image-pro
 
-> 42 站提供 · 正常价 22 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.3335**/次（19 站公开充值价） · 推算，未对账
+> 43 站提供 · 正常价 22 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.3335**/次（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -38,4 +38,4 @@
 | 2 | `api.1route.dev` | $0.01 | GPT Image 🎨 | 1 | grok-imagine-image-pro |
 | 3 | `ai.soulecho.cc` | $15.6652 | xAI Grok | 8 | grok-imagine-image-pro |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

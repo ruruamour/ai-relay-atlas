@@ -1,6 +1,6 @@
 # gemini-2.5-flash-native-audio
 
-> 32 站提供 · 正常价 10 站 · 名义中位价 **$0.2**/1M 输入 · 推算，未对账
+> 33 站提供 · 正常价 10 站 · 名义中位价 **$0.2**/1M 输入 · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,4 +19,4 @@
 | 9 | `ccmaxshop.de5.net` | $2.5 / $10 | gemini反重力 | 5 | gemini-2.5-flash-native-audio-latest |
 | 10 | `api.rcouyi.com` | $60 / $500 | default | 1 | gemini-2.5-flash-native-audio-latest |
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

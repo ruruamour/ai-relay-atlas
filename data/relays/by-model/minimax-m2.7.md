@@ -1,6 +1,6 @@
 # minimax-m2.7
 
-> 552 站提供 · 正常价 415 站 · 名义中位价 **$0.66**/1M 输入 · 实付中位价 **¥2.099**/1M 输入（301 站公开充值价） · 推算，未对账
+> 553 站提供 · 正常价 416 站 · 名义中位价 **$0.66**/1M 输入 · 实付中位价 **¥2.099**/1M 输入（301 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -105,19 +105,19 @@
 | 36 | `api.kcne.top` | $0.42 / $1.68 | 国模组 | 1.4 | minimax-m2.7 |
 | 37 | `api.relaylink.cloud` | $0.42 / $1.68 | 国模分组 | 0.2 | MiniMax-M2.7 |
 | 38 | `levelup.mom` | $0.42 / $1.68 | OpenCode Go满血号池 | 0.2 | minimax-m2.7 |
-| 39 | `okmcode.com` | $0.42 / $1.68 | 国模cc兼容 | 0.2 | MiniMax-M2.7 |
-| 40 | `tokai.cc` | $0.42 / $1.68 | 国模 | 0.2 | MiniMax-M2.7 |
-| 41 | `officesai.top` | $0.45 / $1.8 | 基础普及通道 | 0.15 | minimax-m2.7 |
-| 42 | `api.lant.top` | $0.48 / $1.92 | 国模分组 | 1 | minimax-m2.7 |
-| 43 | `api.boluomiapi.cc` | $0.525 / $2.1 | Z04-其他国模 | 0.25 | MiniMax-M2.7 |
-| 44 | `tuzkiapi.tuzki.online` | $0.5375 / $1.975 | 国模兜底 | 0.1 | minimax-m2.7 |
-| 45 | `api.opkaa.com` | $0.63 / $2.52 | MiniMax | 0.3 | minimax-m2.7 |
-| 46 | `codexauv.com` | $0.66 / $2.772 | 国产模型聚合-阿里满血渠道 | 0.33 | MiniMax-M2.7 |
-| 47 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | minimax-m2.7 |
-| 48 | `goforai.top` | $0.84 / $3.36 | Kimi K3 | 0.4 | MiniMax-M2.7 |
-| 49 | `www.likeai520.cc` | $0.84 / $3.36 | 国模分组 | 0.4 | MiniMax-M2.7 |
-| 50 | `nodeai.cc` | $1.05 / $4.2 | MiniMax | 0.5 | minimax-m2.7 |
+| 39 | `nuoapi.net` | $0.42 / $1.68 | 国模 (Chinese LLMs) | 0.2 | MiniMax-M2.7 |
+| 40 | `okmcode.com` | $0.42 / $1.68 | 国模cc兼容 | 0.2 | MiniMax-M2.7 |
+| 41 | `tokai.cc` | $0.42 / $1.68 | 国模 | 0.2 | MiniMax-M2.7 |
+| 42 | `officesai.top` | $0.45 / $1.8 | 基础普及通道 | 0.15 | minimax-m2.7 |
+| 43 | `api.lant.top` | $0.48 / $1.92 | 国模分组 | 1 | minimax-m2.7 |
+| 44 | `api.boluomiapi.cc` | $0.525 / $2.1 | Z04-其他国模 | 0.25 | MiniMax-M2.7 |
+| 45 | `tuzkiapi.tuzki.online` | $0.5375 / $1.975 | 国模兜底 | 0.1 | minimax-m2.7 |
+| 46 | `api.opkaa.com` | $0.63 / $2.52 | MiniMax | 0.3 | minimax-m2.7 |
+| 47 | `codexauv.com` | $0.66 / $2.772 | 国产模型聚合-阿里满血渠道 | 0.33 | MiniMax-M2.7 |
+| 48 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | minimax-m2.7 |
+| 49 | `goforai.top` | $0.84 / $3.36 | Kimi K3 | 0.4 | MiniMax-M2.7 |
+| 50 | `www.likeai520.cc` | $0.84 / $3.36 | 国模分组 | 0.4 | MiniMax-M2.7 |
 
-> 另有 64 站未列出。
+> 另有 65 站未列出。
 
 > 137 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

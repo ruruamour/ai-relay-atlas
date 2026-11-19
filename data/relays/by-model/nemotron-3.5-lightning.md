@@ -1,6 +1,6 @@
 # nemotron-3.5-lightning
 
-> 34 站提供 · 正常价 13 站 · 名义中位价 **$0.107692**/1M 输入 · 实付中位价 **¥0.7**/1M 输入（13 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 13 站 · 名义中位价 **$0.107692**/1M 输入 · 实付中位价 **¥0.7**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,4 +24,4 @@
 | 12 | `elysiver.h-e.top` | ¥3.5 | $0.7 / $2 | 5 | unattended-jungling | nvidia/nemotron-3.5-lightning(fingerprint≈k17) |
 | 13 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | zerot | nemotron-3.5-lightning-free |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

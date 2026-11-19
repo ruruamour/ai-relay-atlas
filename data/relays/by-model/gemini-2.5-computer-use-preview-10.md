@@ -1,6 +1,6 @@
 # gemini-2.5-computer-use-preview-10
 
-> 44 站提供 · 正常价 21 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥4.375**/1M 输入（21 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 21 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥4.375**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,4 +32,4 @@
 | 20 | `api2.4xapi.com` | ¥36.5 | $5 / $40 | 7.3 | Gemini-官转 | gemini-2.5-computer-use-preview-10-2025 |
 | 21 | `gemini.ysaikeji.cn` | ¥438 | $60 / $60 | 7.3 | Gemini官转 | gemini-2.5-computer-use-preview-10-2025 |
 
-> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

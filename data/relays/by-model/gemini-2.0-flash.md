@@ -1,6 +1,6 @@
 # gemini-2.0-flash
 
-> 94 站提供 · 正常价 80 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.4**/1M 输入（68 站公开充值价） · 推算，未对账
+> 95 站提供 · 正常价 81 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.4**/1M 输入（69 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -57,11 +57,11 @@
 | 45 | `newapi.ailingnan.top` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
 | 46 | `newapi.floatai.cn` | ¥0.73 | $0.1 / $0.4 | 7.3 | vip | gemini-2.0-flash |
 | 47 | `one.zhihuiapi.top` | ¥0.73 | $0.1 / $0.4 | 7.3 | jy合作 | gemini-2.0-flash |
-| 48 | `xytoken.top` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
-| 49 | `ssvip.dmxapi.com` | ¥0.803 | $0.11 / $0.44 | 7.3 | default | gemini-2.0-flash-search |
-| 50 | `toapis.com` | ¥0.84 | $0.12 / $0.48 | 7 | default | gemini-2.0-flash-official |
+| 48 | `seedrouter.net` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
+| 49 | `xytoken.top` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash |
+| 50 | `ssvip.dmxapi.com` | ¥0.803 | $0.11 / $0.44 | 7.3 | default | gemini-2.0-flash-search |
 
-> 另有 18 站未列出。
+> 另有 19 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

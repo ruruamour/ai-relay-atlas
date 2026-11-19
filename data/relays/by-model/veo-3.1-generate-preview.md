@@ -1,6 +1,6 @@
 # veo-3.1-generate-preview
 
-> 57 站提供 · 正常价 36 站 · 名义中位价 **$0.55**/次 · 实付中位价 **¥2.8**/次（33 站公开充值价） · 推算，未对账
+> 58 站提供 · 正常价 37 站 · 名义中位价 **$0.5**/次 · 实付中位价 **¥2.8**/次（34 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,18 +31,19 @@
 | 19 | `api-core.weidu.pro` | ¥2.92 | $0.4 | 7.3 | default | veo-3.1-generate-preview |
 | 20 | `api.qhhengxin.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.1-generate-preview |
 | 21 | `newapi.ailingnan.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.1-generate-preview |
-| 22 | `xytoken.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.1-generate-preview |
-| 23 | `apimaster.ai` | ¥2.94 | $0.42 | 7 | default | veo-3.1-generate-preview |
-| 24 | `api.yuboar.com` | ¥3.2 | $3.2 | 1 | Gemini | veo-3.1-generate-preview |
-| 25 | `gptimgaz.aiearth.dev` | ¥3.2 | $3.2 | 1 | Gemini | veo-3.1-generate-preview |
-| 26 | `wochirou.com` | ¥3.2 | $3.2 | 1 | Official | veo-3.1-generate-preview |
-| 27 | `www.dayueai.fun` | ¥3.3 | $3.3 | 1 | vip | veo-3.1-generate-preview |
-| 28 | `yinli.pro` | ¥4.38 | $0.6 | 7.3 | Gemini-低价-90%稳定性 | veo-3.1-generate-preview |
-| 29 | `m78.newapi.botcf.com` | ¥6.36 | $0.8712 | 7.3 | 😡Gemini-Vertex | veo-3.1-generate-preview |
-| 30 | `toc.tmao.ai` | ¥8.76 | $1.2 | 7.3 | gemini | veo-3.1-generate-preview |
-| 31 | `api.zyai.online` | ¥9.6 | $9.6 | 1 | Banana2_VIP | veo-3.1-generate-preview |
-| 32 | `api.camel-hub.com` | ¥10.4 | $13 | 0.8 | OFC | veo-3.1-generate-preview |
-| 33 | `zen-ai.top` | ¥20 | $20 | 1 | 优质gemini | veo-3.1-generate-preview |
+| 22 | `seedrouter.net` | ¥2.92 | $0.4 | 7.3 | default | veo-3.1-generate-preview |
+| 23 | `xytoken.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.1-generate-preview |
+| 24 | `apimaster.ai` | ¥2.94 | $0.42 | 7 | default | veo-3.1-generate-preview |
+| 25 | `api.yuboar.com` | ¥3.2 | $3.2 | 1 | Gemini | veo-3.1-generate-preview |
+| 26 | `gptimgaz.aiearth.dev` | ¥3.2 | $3.2 | 1 | Gemini | veo-3.1-generate-preview |
+| 27 | `wochirou.com` | ¥3.2 | $3.2 | 1 | Official | veo-3.1-generate-preview |
+| 28 | `www.dayueai.fun` | ¥3.3 | $3.3 | 1 | vip | veo-3.1-generate-preview |
+| 29 | `yinli.pro` | ¥4.38 | $0.6 | 7.3 | Gemini-低价-90%稳定性 | veo-3.1-generate-preview |
+| 30 | `m78.newapi.botcf.com` | ¥6.36 | $0.8712 | 7.3 | 😡Gemini-Vertex | veo-3.1-generate-preview |
+| 31 | `toc.tmao.ai` | ¥8.76 | $1.2 | 7.3 | gemini | veo-3.1-generate-preview |
+| 32 | `api.zyai.online` | ¥9.6 | $9.6 | 1 | Banana2_VIP | veo-3.1-generate-preview |
+| 33 | `api.camel-hub.com` | ¥10.4 | $13 | 0.8 | OFC | veo-3.1-generate-preview |
+| 34 | `zen-ai.top` | ¥20 | $20 | 1 | 优质gemini | veo-3.1-generate-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

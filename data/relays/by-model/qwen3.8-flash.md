@@ -1,6 +1,6 @@
 # qwen3.8-flash
 
-> 564 站提供 · 正常价 409 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.68**/1M 输入（337 站公开充值价） · 推算，未对账
+> 565 站提供 · 正常价 410 站 · 名义中位价 **$0.24**/1M 输入 · 实付中位价 **¥0.68**/1M 输入（337 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -100,24 +100,24 @@
 | 31 | `api.8888.name` | $0.16 / $0.54 | 国模 | 1 | qwen3.8-flash |
 | 32 | `api.relaylink.cloud` | $0.16 / $0.54 | 国模分组 | 0.2 | qwen3.8-flash |
 | 33 | `mzeapi.top` | $0.16 / $0.54 | 国模-【QWEN】 | 0.2 | qwen3.8-flash |
-| 34 | `pro.fan142.top` | $0.16 / $0.47 | coding api | 1 | Qwen/Qwen3.8-Flash |
-| 35 | `sub.onetopai.com` | $0.16 / $0.54 | 国模分组 | 0.2 | qwen3.8-flash |
-| 36 | `sub.rkshadow.com` | $0.16 / $0.54 | 国模-高质量 | 0.2 | qwen3.8-flash |
-| 37 | `tokai.cc` | $0.16 / $0.54 | 国模 | 0.2 | qwen3.8-flash |
-| 38 | `xindu.xyz` | $0.16 / $0.54 | 国模全系列 | 0.2 | qwen3.8-flash |
-| 39 | `api.binzzz.xyz` | $0.17 / $0.51 | Qwen【满血】 | 0.17 | qwen3.8-flash |
-| 40 | `tokenkey.vip` | $0.172 / $0.5054 | 【国模大全分组】 | 1 | qwen3.8-flash |
-| 41 | `token.54421666.xyz` | $0.2 / $0.675 | Qwen | 0.25 | qwen3.8-flash |
-| 42 | `api.kcne.top` | $0.21 / $0.658 | 国模组 | 1.4 | qwen3.8-flash |
-| 43 | `okmcode.com` | $0.216 / $0.632 | 国模cc兼容 | 0.2 | qwen3.8-flash |
-| 44 | `new.zwaca.ggff.net` | $0.24 / $0.81 | deeseek | 0.3 | qwen3.8-flash |
-| 45 | `go.mkapi.top` | $0.25 / $0.75 | Qwen | 0.25 | qwen3.8-flash |
-| 46 | `tzcode.top` | $0.285431 / $0.96333 | default | 0.356789 | Qwen3.8-Flash |
-| 47 | `goforai.top` | $0.32 / $1.08 | Kimi K3 | 0.4 | qwen3.8-flash |
-| 48 | `nmzz.wonderful.edu.kg` | $0.32 / $1.08 | 国模官key | 0.4 | qwen3.8-flash |
-| 49 | `oapi.shop` | $0.32 / $1.08 | 国模/非GPT模型汇总 | 0.4 | Qwen/Qwen3.8-Flash |
-| 50 | `sub.wonderful.edu.kg` | $0.32 / $1.08 | 国模官key | 0.4 | qwen3.8-flash |
+| 34 | `nuoapi.net` | $0.16 / $0.54 | 国模 (Chinese LLMs) | 0.2 | qwen3.8-flash |
+| 35 | `pro.fan142.top` | $0.16 / $0.47 | coding api | 1 | Qwen/Qwen3.8-Flash |
+| 36 | `sub.onetopai.com` | $0.16 / $0.54 | 国模分组 | 0.2 | qwen3.8-flash |
+| 37 | `sub.rkshadow.com` | $0.16 / $0.54 | 国模-高质量 | 0.2 | qwen3.8-flash |
+| 38 | `tokai.cc` | $0.16 / $0.54 | 国模 | 0.2 | qwen3.8-flash |
+| 39 | `xindu.xyz` | $0.16 / $0.54 | 国模全系列 | 0.2 | qwen3.8-flash |
+| 40 | `api.binzzz.xyz` | $0.17 / $0.51 | Qwen【满血】 | 0.17 | qwen3.8-flash |
+| 41 | `tokenkey.vip` | $0.172 / $0.5054 | 【国模大全分组】 | 1 | qwen3.8-flash |
+| 42 | `token.54421666.xyz` | $0.2 / $0.675 | Qwen | 0.25 | qwen3.8-flash |
+| 43 | `api.kcne.top` | $0.21 / $0.658 | 国模组 | 1.4 | qwen3.8-flash |
+| 44 | `okmcode.com` | $0.216 / $0.632 | 国模cc兼容 | 0.2 | qwen3.8-flash |
+| 45 | `new.zwaca.ggff.net` | $0.24 / $0.81 | deeseek | 0.3 | qwen3.8-flash |
+| 46 | `go.mkapi.top` | $0.25 / $0.75 | Qwen | 0.25 | qwen3.8-flash |
+| 47 | `tzcode.top` | $0.285431 / $0.96333 | default | 0.356789 | Qwen3.8-Flash |
+| 48 | `goforai.top` | $0.32 / $1.08 | Kimi K3 | 0.4 | qwen3.8-flash |
+| 49 | `nmzz.wonderful.edu.kg` | $0.32 / $1.08 | 国模官key | 0.4 | qwen3.8-flash |
+| 50 | `oapi.shop` | $0.32 / $1.08 | 国模/非GPT模型汇总 | 0.4 | Qwen/Qwen3.8-Flash |
 
-> 另有 22 站未列出。
+> 另有 23 站未列出。
 
 > 155 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

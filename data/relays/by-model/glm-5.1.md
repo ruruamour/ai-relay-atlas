@@ -1,6 +1,6 @@
 # glm-5.1
 
-> 778 站提供 · 正常价 527 站 · 名义中位价 **$1.96**/1M 输入 · 实付中位价 **¥5.942**/1M 输入（368 站公开充值价） · 推算，未对账
+> 780 站提供 · 正常价 529 站 · 名义中位价 **$1.95**/1M 输入 · 实付中位价 **¥5.969**/1M 输入（369 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `e.fishxcode.com` | ¥1.143 | $1.14286 / $4 | 1 | default | ZHIPU/GLM-5.1 |
 | 50 | `www.mrouter.com` | ¥1.143 | $1.143 / $4 | 1 | cn | glm-5.1 |
 
-> 另有 318 站未列出。
+> 另有 319 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -111,13 +111,13 @@
 | 42 | `api.l4dder.dpdns.org` | $1.2 / $4.2 | glm-官key-0.15x | 0.15 | glm-5.1 |
 | 43 | `business.starway.lol` | $1.2 / $4.2 | 国模大杂烩-P1组 | 0.15 | glm-5.1 |
 | 44 | `hahacode.com` | $1.2 / $4.2 | GLM | 0.15 | glm-5.1 |
-| 45 | `www.largechestnut.com` | $1.2 / $4.2 | Zhipu-GLM | 0.15 | glm-5.1 |
-| 46 | `api.binzzz.xyz` | $1.36 / $4.76 | 智谱【满血】 | 0.17 | glm-5.1 |
-| 47 | `api.nornless.com` | $1.36 / $4.76 | 国产模型 按量 | 1 | glm-5.1 |
-| 48 | `tuzkiapi.tuzki.online` | $1.38 / $4.8 | 国模兜底 | 0.1 | glm-5.1 |
-| 49 | `api.clawhud.com` | $1.4 / $4.4 | GLM | 1 | glm-5.1 |
-| 50 | `inferaichat.com` | $1.4 / $4.4 | auto分组 | 1 | glm-5.1 |
+| 45 | `nuoapi.net` | $1.2 / $4.8 | 国模 (Chinese LLMs) | 0.2 | glm-5.1 |
+| 46 | `www.largechestnut.com` | $1.2 / $4.2 | Zhipu-GLM | 0.15 | glm-5.1 |
+| 47 | `api.binzzz.xyz` | $1.36 / $4.76 | 智谱【满血】 | 0.17 | glm-5.1 |
+| 48 | `api.nornless.com` | $1.36 / $4.76 | 国产模型 按量 | 1 | glm-5.1 |
+| 49 | `tuzkiapi.tuzki.online` | $1.38 / $4.8 | 国模兜底 | 0.1 | glm-5.1 |
+| 50 | `api.clawhud.com` | $1.4 / $4.4 | GLM | 1 | glm-5.1 |
 
-> 另有 109 站未列出。
+> 另有 110 站未列出。
 
 > 251 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

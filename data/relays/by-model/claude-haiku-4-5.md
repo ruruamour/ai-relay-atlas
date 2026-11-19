@@ -1,6 +1,6 @@
 # claude-haiku-4-5
 
-> 1773 站提供 · 正常价 1480 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥1**/1M 输入（1116 站公开充值价） · 推算，未对账
+> 1779 站提供 · 正常价 1485 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥1**/1M 输入（1120 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,53 +15,53 @@
 | 3 | `llmhub.ltd` | ¥0.04 | $0.04 / $0.2 | 1 | Claude-Kiro-Pro | claude-haiku-4-5 |
 | 4 | `hiapi.top` | ¥0.045 | $0.045 / $0.225 | 1 | Claude Kiro正价 | claude-haiku-4-5 |
 | 5 | `apijing.com` | ¥0.05 | $0.05 / $0.25 | 1 | claudecode带缓存 | claude-haiku-4-5 |
-| 6 | `fluxapi.vip` | ¥0.055 | $0.055 / $0.275 | 1 | kiro高缓存0.055x | claude-haiku-4-5-20251001 |
-| 7 | `api.llmgw.xyz` | ¥0.06 | $0.06 / $0.3 | 1 | kiro15 | claude-haiku-4-5 |
-| 8 | `api.suanniao.shop` | ¥0.06 | $0.06 / $0.3 | 1 | Kiro Claude  超高缓存 | claude-haiku-4-5-20251001 |
-| 9 | `frugalrelay.me` | ¥0.06 | $0.06 / $0.3 | 1 | claude_sale | claude-haiku-4-5-20251001 |
-| 10 | `synapse-ai.uk` | ¥0.06 | $0.06 / $0.3 | 1 | 95缓存Claude Kiro | claude-haiku-4-5-20251001 |
-| 11 | `wyh.apijing.com` | ¥0.06 | $0.06 / $0.3 | 1 | claude带缓存专属 | claude-haiku-4-5-20251001 |
-| 12 | `yetoken.vip` | ¥0.06 | $0.06 / $0.3 | 1 | F1-Kiro | claude-haiku-4-5-20251001 |
-| 13 | `shangyou.zhuozaiya.top` | ¥0.063 | $0.063 / $0.315 | 1 | CC【华强北】 | claude-haiku-4-5-20251001 |
-| 14 | `api.mcapple.top` | ¥0.07 | $0.07 / $0.35 | 1 | kiro高缓 | claude-haiku-4-5-20251001 |
-| 15 | `openkun.xyz` | ¥0.07 | $0.07 / $0.35 | 1 | Claude 正价Kiro | claude-haiku-4-5 |
-| 16 | `router.nerver.cc` | ¥0.07 | $0.07 / $0.35 | 1 | 满评分-Kiro | claude-haiku-4-5 |
-| 17 | `sub2api.atomflow.vip` | ¥0.07 | $0.07 / $0.35 | 1 | claude | claude-haiku-4-5-20251001 |
-| 18 | `yinziapi.top` | ¥0.07085 | $0.07085 / $0.35425 | 1 | 上游3-claude-kiro-99缓存高智商 | claude-haiku-4-5 |
-| 19 | `b.kr777.top` | ¥0.075 | $0.075 / $0.375 | 1 | kiro低缓 | claude-haiku-4-5-20251001 |
-| 20 | `ai.ttapy.com` | ¥0.08 | $0.08 / $0.4 | 1 | sonnet-4.5 | claude-haiku-4.5 |
-| 21 | `api.ciyuanshen.top` | ¥0.08 | $0.08 / $0.4 | 1 | Claude Kiro 90缓 | claude-haiku-4-5 |
-| 22 | `api.feng.cx` | ¥0.08 | $0.08 / $0.4 | 1 | kiro claude（华强北） | claude-haiku-4-5 |
-| 23 | `api.muxllm.com` | ¥0.08 | $0.08 / $0.4 | 1 | Claude Kiro | claude-haiku-4-5 |
-| 24 | `api.routeeasy.ai` | ¥0.08 | $0.08 / $0.4 | 1 | kiro-0.08-1011 | claude-haiku-4-5-20251001 |
-| 25 | `api.tokenbits.net` | ¥0.08 | $0.08 / $0.4 | 1 | claude-kiro | claude-haiku-4-5-20251001 |
-| 26 | `api9.bjhuiqu.net` | ¥0.08 | $0.08 / $0.4 | 1 | Claude-促销 | claude-haiku-4-5-20251001 |
-| 27 | `apipaths.com` | ¥0.08 | $0.08 / $0.4 | 1 | Claude-kiro-高缓 | claude-haiku-4-5 |
-| 28 | `cf.rule91.wtf` | ¥0.08 | $0.08 / $0.4 | 1 | CC-kiro | claude-haiku-4-5-20251001 |
-| 29 | `cf.sheapi.cc` | ¥0.08 | $0.08 / $0.4 | 1 | kiro-高缓 | claude-haiku-4-5 |
-| 30 | `code.aigcpro.org` | ¥0.08 | $0.08 / $0.4 | 1 | kiro | claude-haiku-4-5-20251001 |
-| 31 | `cpa057.meta-api.vip` | ¥0.08 | $0.08 / $0.4 | 1 | 3.1-claude-kiro跑量 | claude-haiku-4-5-20251001 |
-| 32 | `direct.mianyouyou.xyz` | ¥0.08 | $0.08 / $0.4 | 1 | kiro | claude-haiku-4-5-20251001 |
-| 33 | `liliapi.siphot.com` | ¥0.08 | $0.08 / $0.4 | 1 | kiro 高缓 | claude-haiku-4-5 |
-| 34 | `www.kamiapi.top` | ¥0.08 | $0.08 / $0.4 | 1 | Claude Kiro 标准版 | claude-haiku-4-5-20251001 |
-| 35 | `xixi.bjhuiqu.net` | ¥0.08 | $0.08 / $0.4 | 1 | site_34~5641acb98aaba7ce | claude-haiku-4-5-20251001 |
-| 36 | `airouter.mxyhi.com` | ¥0.081 | $0.081 / $0.405 | 1 | kiro | claude-haiku-4-5-20251001 |
-| 37 | `apibasis.com` | ¥0.085 | $0.085 / $0.425 | 1 | Kiro 90%缓存 | claude-haiku-4-5-20251001 |
-| 38 | `api.aihub8.top` | ¥0.09 | $0.09 / $0.45 | 1 | 【Claude】低价组 | claude-haiku-4-5-20251001 |
-| 39 | `api.zoowyoo.dpdns.org` | ¥0.09 | $0.09 / $0.45 | 1 | claude_kiro | claude-haiku-4-5-20251001 |
-| 40 | `nova.vcrauo.com` | ¥0.09 | $0.09 / $0.45 | 1 | Claude--kiro·稳定高缓渠道 | claude-haiku-4-5-20251001 |
-| 41 | `tk.8t.chat` | ¥0.09 | $0.09 / $0.45 | 1 | claude-kiro | claude-haiku-4-5 |
-| 42 | `qiuqiutoken.com` | ¥0.098 | $0.098 / $0.49 | 1 | Claude Code专用-Kiro | claude-haiku-4-5-20251001 |
-| 43 | `api.aisz.mom` | ¥0.099 | $0.099 / $0.495 | 1 | claude-3 | claude-haiku-4-5 |
-| 44 | `aircola.top` | ¥0.1 | $0.1 / $0.5 | 1 | kiro | claude-haiku-4-5-20251001 |
-| 45 | `api.duckcoding.ai` | ¥0.1 | $0.1 / $0.5 | 1 | CodeX转Claude Code | claude-haiku-4-5-20251001 |
-| 46 | `api.guaiyun.cc` | ¥0.1 | $0.1 / $0.5 | 1 | ClaudeCode-廉价渠道 | claude-haiku-4-5 |
-| 47 | `api.hopeplay.online` | ¥0.1 | $0.1 / $0.5 | 1 | Kiro低缓 | claude-haiku-4-5 |
-| 48 | `api.lukyface.com` | ¥0.1 | $0.1 / $0.5 | 1 | kiro | claude-haiku-4-5-20251001 |
-| 49 | `api.renice.cc` | ¥0.1 | $0.1 / $0.5 | 1 | default | claude-haiku-4-5-20251001 |
-| 50 | `api.sqface.sbs` | ¥0.1 | $0.1 / $0.5 | 1 | 新增cc | claude-haiku-4-5-20251001 |
+| 6 | `kiosapi.com` | ¥0.05 | $0.05 / $0.25 | 1 | Claude-Kiro-Discount | claude-haiku-4-5-20251001 |
+| 7 | `fluxapi.vip` | ¥0.055 | $0.055 / $0.275 | 1 | kiro高缓存0.055x | claude-haiku-4-5-20251001 |
+| 8 | `api.llmgw.xyz` | ¥0.06 | $0.06 / $0.3 | 1 | kiro15 | claude-haiku-4-5 |
+| 9 | `api.suanniao.shop` | ¥0.06 | $0.06 / $0.3 | 1 | Kiro Claude  超高缓存 | claude-haiku-4-5-20251001 |
+| 10 | `frugalrelay.me` | ¥0.06 | $0.06 / $0.3 | 1 | claude_sale | claude-haiku-4-5-20251001 |
+| 11 | `synapse-ai.uk` | ¥0.06 | $0.06 / $0.3 | 1 | 95缓存Claude Kiro | claude-haiku-4-5-20251001 |
+| 12 | `wyh.apijing.com` | ¥0.06 | $0.06 / $0.3 | 1 | claude带缓存专属 | claude-haiku-4-5-20251001 |
+| 13 | `yetoken.vip` | ¥0.06 | $0.06 / $0.3 | 1 | F1-Kiro | claude-haiku-4-5-20251001 |
+| 14 | `shangyou.zhuozaiya.top` | ¥0.063 | $0.063 / $0.315 | 1 | CC【华强北】 | claude-haiku-4-5-20251001 |
+| 15 | `api.mcapple.top` | ¥0.07 | $0.07 / $0.35 | 1 | kiro高缓 | claude-haiku-4-5-20251001 |
+| 16 | `openkun.xyz` | ¥0.07 | $0.07 / $0.35 | 1 | Claude 正价Kiro | claude-haiku-4-5 |
+| 17 | `router.nerver.cc` | ¥0.07 | $0.07 / $0.35 | 1 | 满评分-Kiro | claude-haiku-4-5 |
+| 18 | `sub2api.atomflow.vip` | ¥0.07 | $0.07 / $0.35 | 1 | claude | claude-haiku-4-5-20251001 |
+| 19 | `yinziapi.top` | ¥0.07085 | $0.07085 / $0.35425 | 1 | 上游3-claude-kiro-99缓存高智商 | claude-haiku-4-5 |
+| 20 | `b.kr777.top` | ¥0.075 | $0.075 / $0.375 | 1 | kiro低缓 | claude-haiku-4-5-20251001 |
+| 21 | `ai.ttapy.com` | ¥0.08 | $0.08 / $0.4 | 1 | sonnet-4.5 | claude-haiku-4.5 |
+| 22 | `api.ciyuanshen.top` | ¥0.08 | $0.08 / $0.4 | 1 | Claude Kiro 90缓 | claude-haiku-4-5 |
+| 23 | `api.feng.cx` | ¥0.08 | $0.08 / $0.4 | 1 | kiro claude（华强北） | claude-haiku-4-5 |
+| 24 | `api.muxllm.com` | ¥0.08 | $0.08 / $0.4 | 1 | Claude Kiro | claude-haiku-4-5 |
+| 25 | `api.routeeasy.ai` | ¥0.08 | $0.08 / $0.4 | 1 | kiro-0.08-1011 | claude-haiku-4-5-20251001 |
+| 26 | `api.tokenbits.net` | ¥0.08 | $0.08 / $0.4 | 1 | claude-kiro | claude-haiku-4-5-20251001 |
+| 27 | `api9.bjhuiqu.net` | ¥0.08 | $0.08 / $0.4 | 1 | Claude-促销 | claude-haiku-4-5-20251001 |
+| 28 | `apipaths.com` | ¥0.08 | $0.08 / $0.4 | 1 | Claude-kiro-高缓 | claude-haiku-4-5 |
+| 29 | `cf.rule91.wtf` | ¥0.08 | $0.08 / $0.4 | 1 | CC-kiro | claude-haiku-4-5-20251001 |
+| 30 | `cf.sheapi.cc` | ¥0.08 | $0.08 / $0.4 | 1 | kiro-高缓 | claude-haiku-4-5 |
+| 31 | `code.aigcpro.org` | ¥0.08 | $0.08 / $0.4 | 1 | kiro | claude-haiku-4-5-20251001 |
+| 32 | `cpa057.meta-api.vip` | ¥0.08 | $0.08 / $0.4 | 1 | 3.1-claude-kiro跑量 | claude-haiku-4-5-20251001 |
+| 33 | `direct.mianyouyou.xyz` | ¥0.08 | $0.08 / $0.4 | 1 | kiro | claude-haiku-4-5-20251001 |
+| 34 | `liliapi.siphot.com` | ¥0.08 | $0.08 / $0.4 | 1 | kiro 高缓 | claude-haiku-4-5 |
+| 35 | `www.kamiapi.top` | ¥0.08 | $0.08 / $0.4 | 1 | Claude Kiro 标准版 | claude-haiku-4-5-20251001 |
+| 36 | `xixi.bjhuiqu.net` | ¥0.08 | $0.08 / $0.4 | 1 | site_34~5641acb98aaba7ce | claude-haiku-4-5-20251001 |
+| 37 | `airouter.mxyhi.com` | ¥0.081 | $0.081 / $0.405 | 1 | kiro | claude-haiku-4-5-20251001 |
+| 38 | `apibasis.com` | ¥0.085 | $0.085 / $0.425 | 1 | Kiro 90%缓存 | claude-haiku-4-5-20251001 |
+| 39 | `api.aihub8.top` | ¥0.09 | $0.09 / $0.45 | 1 | 【Claude】低价组 | claude-haiku-4-5-20251001 |
+| 40 | `api.zoowyoo.dpdns.org` | ¥0.09 | $0.09 / $0.45 | 1 | claude_kiro | claude-haiku-4-5-20251001 |
+| 41 | `nova.vcrauo.com` | ¥0.09 | $0.09 / $0.45 | 1 | Claude--kiro·稳定高缓渠道 | claude-haiku-4-5-20251001 |
+| 42 | `tk.8t.chat` | ¥0.09 | $0.09 / $0.45 | 1 | claude-kiro | claude-haiku-4-5 |
+| 43 | `qiuqiutoken.com` | ¥0.098 | $0.098 / $0.49 | 1 | Claude Code专用-Kiro | claude-haiku-4-5-20251001 |
+| 44 | `api.aisz.mom` | ¥0.099 | $0.099 / $0.495 | 1 | claude-3 | claude-haiku-4-5 |
+| 45 | `aircola.top` | ¥0.1 | $0.1 / $0.5 | 1 | kiro | claude-haiku-4-5-20251001 |
+| 46 | `api.duckcoding.ai` | ¥0.1 | $0.1 / $0.5 | 1 | CodeX转Claude Code | claude-haiku-4-5-20251001 |
+| 47 | `api.guaiyun.cc` | ¥0.1 | $0.1 / $0.5 | 1 | ClaudeCode-廉价渠道 | claude-haiku-4-5 |
+| 48 | `api.hopeplay.online` | ¥0.1 | $0.1 / $0.5 | 1 | Kiro低缓 | claude-haiku-4-5 |
+| 49 | `api.lukyface.com` | ¥0.1 | $0.1 / $0.5 | 1 | kiro | claude-haiku-4-5-20251001 |
+| 50 | `api.renice.cc` | ¥0.1 | $0.1 / $0.5 | 1 | default | claude-haiku-4-5-20251001 |
 
-> 另有 1066 站未列出。
+> 另有 1070 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `yyds.chybenzun.top` | $0.1 / $0.5 | 【文本模型】Claude Kiro · 高缓存 按量 | 0.1 | claude-haiku-4-5 |
 | 50 | `business.starway.lol` | $0.12 / $0.6 | Claude-Cursor | 0.12 | claude-haiku-4-5 |
 
-> 另有 314 站未列出。
+> 另有 315 站未列出。
 
-> 293 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 294 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # veo-3.0-generate-001
 
-> 29 站提供 · 正常价 21 站 · 名义中位价 **$0.6**/次 · 实付中位价 **¥2.8**/次（20 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 22 站 · 名义中位价 **$0.6**/次 · 实付中位价 **¥2.8**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,13 +23,14 @@
 | 11 | `yutoapi.com` | ¥2.8 | $2.8 | 1 | enterprise | veo-3.0-generate-001 |
 | 12 | `api.qhhengxin.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.0-generate-001 |
 | 13 | `newapi.ailingnan.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.0-generate-001 |
-| 14 | `xytoken.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.0-generate-001 |
-| 15 | `api.openai-labs.com` | ¥3 | $3 | 1 | default | veo-3.0-generate-001 |
-| 16 | `wochirou.com` | ¥3.2 | $3.2 | 1 | Official | veo-3.0-generate-001 |
-| 17 | `www.dayueai.fun` | ¥3.3 | $3.3 | 1 | vip | veo-3.0-generate-001 |
-| 18 | `yinli.pro` | ¥4.38 | $0.6 | 7.3 | Gemini-低价-90%稳定性 | veo-3.0-generate-001 |
-| 19 | `toc.tmao.ai` | ¥8.76 | $1.2 | 7.3 | gemini | veo-3.0-generate-001 |
-| 20 | `zen-ai.top` | ¥20 | $20 | 1 | 优质gemini | veo-3.0-generate-001 |
+| 14 | `seedrouter.net` | ¥2.92 | $0.4 | 7.3 | default | veo-3.0-generate-001 |
+| 15 | `xytoken.top` | ¥2.92 | $0.4 | 7.3 | default | veo-3.0-generate-001 |
+| 16 | `api.openai-labs.com` | ¥3 | $3 | 1 | default | veo-3.0-generate-001 |
+| 17 | `wochirou.com` | ¥3.2 | $3.2 | 1 | Official | veo-3.0-generate-001 |
+| 18 | `www.dayueai.fun` | ¥3.3 | $3.3 | 1 | vip | veo-3.0-generate-001 |
+| 19 | `yinli.pro` | ¥4.38 | $0.6 | 7.3 | Gemini-低价-90%稳定性 | veo-3.0-generate-001 |
+| 20 | `toc.tmao.ai` | ¥8.76 | $1.2 | 7.3 | gemini | veo-3.0-generate-001 |
+| 21 | `zen-ai.top` | ¥20 | $20 | 1 | 优质gemini | veo-3.0-generate-001 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

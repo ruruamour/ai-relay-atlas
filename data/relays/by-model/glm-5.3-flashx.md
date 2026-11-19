@@ -1,6 +1,6 @@
 # glm-5.3-flashx
 
-> 342 站提供 · 正常价 203 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1**/1M 输入（138 站公开充值价） · 推算，未对账
+> 344 站提供 · 正常价 204 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1**/1M 输入（138 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -113,11 +113,11 @@
 | 44 | `ai.websee.top` | $0.4 / $1.4 | GLM | 0.2 | glm-5.3-flashx |
 | 45 | `api.8888.name` | $0.4 / $1.4 | 国模 | 1 | glm-5.3-flashx |
 | 46 | `api.relaycore.cn` | $0.4 / $1.4 | GLM | 0.2 | glm-5.3-flashx |
-| 47 | `sub.rkshadow.com` | $0.4 / $1.4 | 国模-高质量 | 0.2 | glm-5.3-flashx |
-| 48 | `api.maixun.icu` | $0.45 / $1.53 | GLM-官转 | 0.18 | glm-5.3-flashx |
-| 49 | `api.kcne.top` | $0.525 / $1.75 | 国模组 | 1.4 | glm-5.3-flashx |
-| 50 | `aiapibank.com` | $0.6 / $2.1 | 智谱GLM分组 | 0.3 | glm-5.3-flashx |
+| 47 | `nuoapi.net` | $0.4 / $1.4 | 国模 (Chinese LLMs) | 0.2 | glm-5.3-flashx |
+| 48 | `sub.rkshadow.com` | $0.4 / $1.4 | 国模-高质量 | 0.2 | glm-5.3-flashx |
+| 49 | `api.maixun.icu` | $0.45 / $1.53 | GLM-官转 | 0.18 | glm-5.3-flashx |
+| 50 | `api.kcne.top` | $0.525 / $1.75 | 国模组 | 1.4 | glm-5.3-flashx |
 
-> 另有 15 站未列出。
+> 另有 16 站未列出。
 
-> 139 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 140 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

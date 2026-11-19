@@ -1,6 +1,6 @@
 # codex-auto-review
 
-> 1164 站提供 · 正常价 677 站 · 名义中位价 **$0.65**/1M 输入 · 实付中位价 **¥0.9**/1M 输入（533 站公开充值价） · 推算，未对账
+> 1169 站提供 · 正常价 679 站 · 名义中位价 **$0.65**/1M 输入 · 实付中位价 **¥0.9**/1M 输入（533 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -90,34 +90,34 @@
 | 21 | `supersubscribe689.com` | $0.036 / $0.216 | Plus Discount Group Plus 优惠分组 | 0.18 | codex-auto-review |
 | 22 | `wandefu.ai` | $0.036 / $0.216 | Codex | 0.18 | codex-auto-review |
 | 23 | `88token.net` | $0.04 / $0.24 | B003 GPT Pro 50X《不降智分组》 | 0.2 | codex-auto-review |
-| 24 | `chat.aiprox.net` | $0.04 / $0.24 | GPT-PRO号池（非焚诀) | 0.2 | codex-auto-review |
-| 25 | `ebondai.com` | $0.04 / $0.24 | GPT Pro | 0.2 | codex-auto-review |
-| 26 | `sub2api.hyl2api.com` | $0.04 / $0.24 | GPT  | 0.2 | codex-auto-review |
-| 27 | `sub2api.simplaj.top` | $0.04 / $0.24 | GPT 纯血 Pro 余额分组 | 0.2 | codex-auto-review |
-| 28 | `tf.91token.com` | $0.04 / $0.24 | GPT-PLUS | 0.2 | codex-auto-review |
-| 29 | `xindu.xyz` | $0.04 / $0.24 | GPT-pro（自动踢降智号，高智商） | 0.2 | Codex Auto Review |
-| 30 | `cuicuimianhua.top` | $0.042 / $0.252 | GPT-Pro | 0.21 | Codex Auto Review |
-| 31 | `spacetimeai.cc` | $0.048 / $0.288 | Codex Pro | 0.24 | codex-auto-review |
-| 32 | `aipixapi.art` | $0.05 / $0.3 | luna 可蒸馏 | 0.25 | codex-auto-review |
-| 33 | `ai.lazymo.qzz.io` | $0.06 / $0.36 | 【GPT 官key】渠道key-禁破限、违规，发现封停且不退款 | 0.3 | codex-auto-review |
-| 34 | `cfjwlpro.com` | $0.06 / $0.36 | openai | 0.3 | codex-auto-review |
-| 35 | `kekeshop.top` | $0.06 / $0.36 | GPT 不降智池 | 0.3 | codex-auto-review |
-| 36 | `lianjieai.top` | $0.06 / $0.36 | ChatGPT Plus（性价比） | 0.3 | codex-auto-review |
-| 37 | `worldcodes.online` | $0.06 / $0.36 | Codex 企业对接 | 0.3 | codex-auto-review |
-| 38 | `www.ccgpai.com` | $0.06 / $0.36 | Codex-自营 | 0.3 | codex-auto-review |
-| 39 | `hrouter.net` | $0.064 / $0.384 | GPT Pro | 0.32 | codex-auto-review |
-| 40 | `api.jiangxinmao.com` | $0.07 / $0.42 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | codex-auto-review |
-| 41 | `api.keytunnels.com` | $0.07 / $0.42 | 【企业级】GPTPro-0035-鹈鹕糖果 | 0.35 | codex-auto-review |
-| 42 | `www.lingqiaotech.com` | $0.07 / $0.42 | [Openai] Codex | 0.35 | codex-auto-review |
-| 43 | `api.hpeak.net` | $0.08 / $0.48 | GPT - Cyber | 0.4 | codex-auto-review |
-| 44 | `chain888.vip` | $0.08 / $0.48 | Pro 官方充值 【最稳、最快、最强】推荐！ | 0.2 | codex-auto-review |
-| 45 | `api.milesai.pro` | $0.09 / $0.54 | GPT-Plus铂金版 | 0.45 | codex-auto-review |
-| 46 | `kimera.cc` | $0.0975 / $0.585 | 超便宜Plus池01 | 0.039 | codex-auto-review |
-| 47 | `api.ofapp.cn` | $0.1 / $0.6 | GPT Codex - 企业版 | 0.5 | codex-auto-review |
-| 48 | `www.alaiapi.top` | $0.1 / $0.6 | GLM全能按量组 | 0.5 | codex-auto-review |
-| 49 | `api.geniuscoder.net` | $0.12 / $0.72 | gpt企业 | 0.6 | codex-auto-review |
-| 50 | `nodeai.click` | $0.12 / $0.72 | gpt-fuli | 0.6 | codex-auto-review |
+| 24 | `aodo.ai` | $0.04 / $0.24 | GPT Pro | 0.2 | codex-auto-review |
+| 25 | `chat.aiprox.net` | $0.04 / $0.24 | GPT-PRO号池（非焚诀) | 0.2 | codex-auto-review |
+| 26 | `ebondai.com` | $0.04 / $0.24 | GPT Pro | 0.2 | codex-auto-review |
+| 27 | `sub2api.hyl2api.com` | $0.04 / $0.24 | GPT  | 0.2 | codex-auto-review |
+| 28 | `sub2api.simplaj.top` | $0.04 / $0.24 | GPT 纯血 Pro 余额分组 | 0.2 | codex-auto-review |
+| 29 | `tf.91token.com` | $0.04 / $0.24 | GPT-PLUS | 0.2 | codex-auto-review |
+| 30 | `xindu.xyz` | $0.04 / $0.24 | GPT-pro（自动踢降智号，高智商） | 0.2 | Codex Auto Review |
+| 31 | `cuicuimianhua.top` | $0.042 / $0.252 | GPT-Pro | 0.21 | Codex Auto Review |
+| 32 | `spacetimeai.cc` | $0.048 / $0.288 | Codex Pro | 0.24 | codex-auto-review |
+| 33 | `aipixapi.art` | $0.05 / $0.3 | luna 可蒸馏 | 0.25 | codex-auto-review |
+| 34 | `ai.lazymo.qzz.io` | $0.06 / $0.36 | 【GPT 官key】渠道key-禁破限、违规，发现封停且不退款 | 0.3 | codex-auto-review |
+| 35 | `cfjwlpro.com` | $0.06 / $0.36 | openai | 0.3 | codex-auto-review |
+| 36 | `kekeshop.top` | $0.06 / $0.36 | GPT 不降智池 | 0.3 | codex-auto-review |
+| 37 | `lianjieai.top` | $0.06 / $0.36 | ChatGPT Plus（性价比） | 0.3 | codex-auto-review |
+| 38 | `worldcodes.online` | $0.06 / $0.36 | Codex 企业对接 | 0.3 | codex-auto-review |
+| 39 | `www.ccgpai.com` | $0.06 / $0.36 | Codex-自营 | 0.3 | codex-auto-review |
+| 40 | `hrouter.net` | $0.064 / $0.384 | GPT Pro | 0.32 | codex-auto-review |
+| 41 | `api.jiangxinmao.com` | $0.07 / $0.42 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | codex-auto-review |
+| 42 | `api.keytunnels.com` | $0.07 / $0.42 | 【企业级】GPTPro-0035-鹈鹕糖果 | 0.35 | codex-auto-review |
+| 43 | `www.lingqiaotech.com` | $0.07 / $0.42 | [Openai] Codex | 0.35 | codex-auto-review |
+| 44 | `api.hpeak.net` | $0.08 / $0.48 | GPT - Cyber | 0.4 | codex-auto-review |
+| 45 | `chain888.vip` | $0.08 / $0.48 | Pro 官方充值 【最稳、最快、最强】推荐！ | 0.2 | codex-auto-review |
+| 46 | `api.milesai.pro` | $0.09 / $0.54 | GPT-Plus铂金版 | 0.45 | codex-auto-review |
+| 47 | `kimera.cc` | $0.0975 / $0.585 | 超便宜Plus池01 | 0.039 | codex-auto-review |
+| 48 | `api.ofapp.cn` | $0.1 / $0.6 | GPT Codex - 企业版 | 0.5 | codex-auto-review |
+| 49 | `www.alaiapi.top` | $0.1 / $0.6 | GLM全能按量组 | 0.5 | codex-auto-review |
+| 50 | `api.geniuscoder.net` | $0.12 / $0.72 | gpt企业 | 0.6 | codex-auto-review |
 
-> 另有 94 站未列出。
+> 另有 96 站未列出。
 
-> 487 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 490 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

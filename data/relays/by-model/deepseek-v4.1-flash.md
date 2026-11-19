@@ -1,6 +1,6 @@
 # deepseek-v4.1-flash
 
-> 1447 站提供 · 正常价 935 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.7242**/1M 输入（646 站公开充值价） · 推算，未对账
+> 1452 站提供 · 正常价 939 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.7242**/1M 输入（648 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -35,33 +35,33 @@
 | 23 | `fanrenapi.com` | ¥0.056 | $0.056 / $0.112 | 1 | 国模 | deepseek-v4.1-flash |
 | 24 | `ai.kdysite.cloud` | ¥0.06 | $0.06 / $0.24 | 1 | 数据处理 | deepseek-v4.1-flash |
 | 25 | `gpt.venlacy.com` | ¥0.06 | $0.06 / $0.12 | 1 | 逆向分组 | deepseek-ai/deepseek-v4.1-flash |
-| 26 | `ymeng.cc` | ¥0.06 | $0.06 / $0.12 | 1 | 国模遥遥领先 | deepseek-v4.1-flash |
-| 27 | `api.aliyunfuwu.top` | ¥0.07 | $0.07 / $0.14 | 1 | relay | deepseek-ai/deepseek-v4.1-flash |
-| 28 | `layso.ai` | ¥0.075 | $0.075 / $0.3 | 1 | DeepSeek-1 | deepseek-v4.1-flash |
-| 29 | `panel.raozheng.top` | ¥0.075 | $0.075 / $0.3 | 1 | 国模 | deepseek-v4.1-flash |
-| 30 | `www.wanmoapi.com` | ¥0.075 | $0.075 / $0.3 | 1 | bailian | deepseek-v4.1-flash |
-| 31 | `www.token.me.uk` | ¥0.09 | $0.09 / $0.36 | 1 | DeepSeek 稳定-海外版 | deepseek-v4.1-flash |
-| 32 | `router.hctopup.com` | ¥0.097 | $0.097 / $0.388 | 1 | Default | deepseek-v4.1-flash |
-| 33 | `api.arithcore.com` | ¥0.099 | $0.099 / $0.396 | 1 | deepseek专属 | deepseek-v4.1-flash |
-| 34 | `code.aigcpro.org` | ¥0.1 | $0.1 / $0.4 | 1 | 国模 | deepseek-v4.1-flash |
-| 35 | `us-api.x5m5x.com` | ¥0.1 | $0.1 / $0.4 | 1 | 国模自营（2号主力池） | deepseek-v4.1-flash |
-| 36 | `hk.moleapi.com` | ¥0.102 | $0.015 / $0.06 | 6.8 | temp | deepseek-v4.1-flash |
-| 37 | `fluxa.camila.qzz.io` | ¥0.103 | $0.1 / $0.4 | 1.03 | 【按量】deepseek | deepseek-v4.1-flash |
-| 38 | `api.token-hacker.com` | ¥0.105 | $0.105 / $0.35 | 1 | 国产热门模型 | deepseek-v4.1-flash |
-| 39 | `coneverse.com` | ¥0.105 | $0.105 / $0.21 | 1 | supply-34cd2b0af334b91642bb3f74 | deepseek-v4.1-flash |
-| 40 | `infistar.ai` | ¥0.105 | $0.105 / $0.21 | 1 | supply-34cd2b0af334b91642bb3f74 | deepseek-v4.1-flash |
-| 41 | `tokeasy.ai` | ¥0.105 | $0.10503 / $0.42012 | 1 | default | deepseek-v4.1-flash |
-| 42 | `openrouter.cloud` | ¥0.1095 | $0.015 / $0.06 | 7.3 | default | deepseek-v4.1-flash |
-| 43 | `ai.ikvv.cn` | ¥0.12 | $0.12 / $0.48 | 1 | ds1017 | deepseek-v4.1-flash |
-| 44 | `api.ethancode.xyz` | ¥0.12 | $0.12 / $0.48 | 1 | 各种国模 | deepseek-v4.1-flash |
-| 45 | `api.hlool.top` | ¥0.12 | $0.04 / $0.08 | 3 | default | deepseek-v4.1-flash |
-| 46 | `api.tccxy.top` | ¥0.12 | $0.12 / $0.48 | 1 | [自建]国模 | deepseek-v4.1-flash |
-| 47 | `api.xiaoyaoxx.cn` | ¥0.12 | $0.12 / $0.48 | 1 | 国模自部署 | deepseek-v4.1-flash |
-| 48 | `suanzhou.top` | ¥0.12 | $0.12 / $0.48 | 1 | ds1017 | deepseek-v4.1-flash |
-| 49 | `xlapis.com` | ¥0.12 | $0.12 / $0.48 | 1 | Deepseek-CHAT-周卡日卡专区1 | deepseek-v4.1-flash |
-| 50 | `api.strong-api.top` | ¥0.13 | $0.13 / $0.52 | 1 | 国产模型【GLM、MiniMax、Kimi】 | deepseek-v4.1-flash-1017 |
+| 26 | `llmoxy.com` | ¥0.06 | $0.06 / $0.24 | 1 | Deepseek | deepseek-v4.1-flash |
+| 27 | `ymeng.cc` | ¥0.06 | $0.06 / $0.12 | 1 | 国模遥遥领先 | deepseek-v4.1-flash |
+| 28 | `api.aliyunfuwu.top` | ¥0.07 | $0.07 / $0.14 | 1 | relay | deepseek-ai/deepseek-v4.1-flash |
+| 29 | `layso.ai` | ¥0.075 | $0.075 / $0.3 | 1 | DeepSeek-1 | deepseek-v4.1-flash |
+| 30 | `panel.raozheng.top` | ¥0.075 | $0.075 / $0.3 | 1 | 国模 | deepseek-v4.1-flash |
+| 31 | `www.wanmoapi.com` | ¥0.075 | $0.075 / $0.3 | 1 | bailian | deepseek-v4.1-flash |
+| 32 | `www.token.me.uk` | ¥0.09 | $0.09 / $0.36 | 1 | DeepSeek 稳定-海外版 | deepseek-v4.1-flash |
+| 33 | `router.hctopup.com` | ¥0.097 | $0.097 / $0.388 | 1 | Default | deepseek-v4.1-flash |
+| 34 | `api.arithcore.com` | ¥0.099 | $0.099 / $0.396 | 1 | deepseek专属 | deepseek-v4.1-flash |
+| 35 | `code.aigcpro.org` | ¥0.1 | $0.1 / $0.4 | 1 | 国模 | deepseek-v4.1-flash |
+| 36 | `us-api.x5m5x.com` | ¥0.1 | $0.1 / $0.4 | 1 | 国模自营（2号主力池） | deepseek-v4.1-flash |
+| 37 | `hk.moleapi.com` | ¥0.102 | $0.015 / $0.06 | 6.8 | temp | deepseek-v4.1-flash |
+| 38 | `fluxa.camila.qzz.io` | ¥0.103 | $0.1 / $0.4 | 1.03 | 【按量】deepseek | deepseek-v4.1-flash |
+| 39 | `api.token-hacker.com` | ¥0.105 | $0.105 / $0.35 | 1 | 国产热门模型 | deepseek-v4.1-flash |
+| 40 | `coneverse.com` | ¥0.105 | $0.105 / $0.21 | 1 | supply-34cd2b0af334b91642bb3f74 | deepseek-v4.1-flash |
+| 41 | `infistar.ai` | ¥0.105 | $0.105 / $0.21 | 1 | supply-34cd2b0af334b91642bb3f74 | deepseek-v4.1-flash |
+| 42 | `tokeasy.ai` | ¥0.105 | $0.10503 / $0.42012 | 1 | default | deepseek-v4.1-flash |
+| 43 | `openrouter.cloud` | ¥0.1095 | $0.015 / $0.06 | 7.3 | default | deepseek-v4.1-flash |
+| 44 | `ai.ikvv.cn` | ¥0.12 | $0.12 / $0.48 | 1 | ds1017 | deepseek-v4.1-flash |
+| 45 | `api.ethancode.xyz` | ¥0.12 | $0.12 / $0.48 | 1 | 各种国模 | deepseek-v4.1-flash |
+| 46 | `api.hlool.top` | ¥0.12 | $0.04 / $0.08 | 3 | default | deepseek-v4.1-flash |
+| 47 | `api.tccxy.top` | ¥0.12 | $0.12 / $0.48 | 1 | [自建]国模 | deepseek-v4.1-flash |
+| 48 | `api.xiaoyaoxx.cn` | ¥0.12 | $0.12 / $0.48 | 1 | 国模自部署 | deepseek-v4.1-flash |
+| 49 | `suanzhou.top` | ¥0.12 | $0.12 / $0.48 | 1 | ds1017 | deepseek-v4.1-flash |
+| 50 | `xlapis.com` | ¥0.12 | $0.12 / $0.48 | 1 | Deepseek-CHAT-周卡日卡专区1 | deepseek-v4.1-flash |
 
-> 另有 596 站未列出。
+> 另有 598 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `api.clawhud.com` | $0.1 / $0.4 | Nvidia | 0.1 | deepseek-v4.1-flash |
 | 50 | `api.deepspacecode.chat` | $0.1 / $0.4 | 国模 | 0.1 | deepseek-v4.1-flash |
 
-> 另有 239 站未列出。
+> 另有 241 站未列出。
 
-> 512 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 513 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

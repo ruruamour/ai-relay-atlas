@@ -1,6 +1,6 @@
 # gemini-embedding-2-preview
 
-> 173 站提供 · 正常价 132 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.5648**/1M 输入（116 站公开充值价） · 推算，未对账
+> 174 站提供 · 正常价 132 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.5648**/1M 输入（116 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -84,4 +84,4 @@
 | 15 | `wish.sillydream.top` | $16 / $16 | Gemini T3 | 2 | gemini-embedding-2-preview |
 | 16 | `api.rcouyi.com` | $60 / $60 | default | 1 | gemini-embedding-2-preview |
 
-> 41 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 42 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

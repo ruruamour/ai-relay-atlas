@@ -1,6 +1,6 @@
 # mimo-v2.6-pro
 
-> 400 站提供 · 正常价 235 站 · 名义中位价 **$0.435**/1M 输入 · 实付中位价 **¥1.26**/1M 输入（182 站公开充值价） · 推算，未对账
+> 402 站提供 · 正常价 236 站 · 名义中位价 **$0.435**/1M 输入 · 实付中位价 **¥1.26**/1M 输入（182 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -106,18 +106,18 @@
 | 37 | `cn-deepseek.sso.asia` | $0.75 / - | default | 0.01 | mimo-v2.6-pro |
 | 38 | `www.xmapi.cc` | $0.75 / $1.5 | 国模（逆向学习） | 0.25 | mimo-v2.6-pro |
 | 39 | `emooo.cc` | $0.795 / $1.575 | 【国模】反代★★★ | 0.15 | mimo-v2.6-pro |
-| 40 | `tokai.cc` | $0.85 / $1.74 | 国模 | 0.2 | mimo-v2.6-pro |
-| 41 | `8888.name` | $0.87 / $1.74 | 国模 | 1 | mimo-v2.6-pro |
-| 42 | `api.8888.name` | $0.87 / $1.74 | 国模 | 1 | mimo-v2.6-pro |
-| 43 | `aicat.api.sumnece.com` | $0.9 / $1.8 | 国模 | 1 | mimo-v2.6-pro |
-| 44 | `api.opkaa.com` | $0.9 / $1.8 | Deepseek.. | 0.3 | mimo-v2.6-pro |
-| 45 | `new.zwaca.ggff.net` | $0.9 / $1.8 | deeseek | 0.3 | mimo-v2.6-pro |
-| 46 | `nmzz.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.6-pro |
-| 47 | `sub.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.6-pro |
-| 48 | `ai.xem8k5.top` | $1.65 / $3.3 | 国模 | 0.55 | mimo-v2.6-pro |
-| 49 | `hapiopen.cc` | $1.8 / $3.6 | 国模 openai格式 | 0.6 | mimo-v2.6-pro |
-| 50 | `api.lmuai.ai` | $2.7 / $5.4 | 国产旗舰大模型甄选(Anthropic协议)-自由切换 | 0.9 | mimo-v2.6-pro |
+| 40 | `nuoapi.net` | $0.82 / $1.64 | 国模 (Chinese LLMs) | 0.2 | mimo-v2.6-pro |
+| 41 | `tokai.cc` | $0.85 / $1.74 | 国模 | 0.2 | mimo-v2.6-pro |
+| 42 | `8888.name` | $0.87 / $1.74 | 国模 | 1 | mimo-v2.6-pro |
+| 43 | `api.8888.name` | $0.87 / $1.74 | 国模 | 1 | mimo-v2.6-pro |
+| 44 | `aicat.api.sumnece.com` | $0.9 / $1.8 | 国模 | 1 | mimo-v2.6-pro |
+| 45 | `api.opkaa.com` | $0.9 / $1.8 | Deepseek.. | 0.3 | mimo-v2.6-pro |
+| 46 | `new.zwaca.ggff.net` | $0.9 / $1.8 | deeseek | 0.3 | mimo-v2.6-pro |
+| 47 | `nmzz.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.6-pro |
+| 48 | `sub.wonderful.edu.kg` | $1.2 / $2.4 | 国模官key | 0.4 | mimo-v2.6-pro |
+| 49 | `ai.xem8k5.top` | $1.65 / $3.3 | 国模 | 0.55 | mimo-v2.6-pro |
+| 50 | `hapiopen.cc` | $1.8 / $3.6 | 国模 openai格式 | 0.6 | mimo-v2.6-pro |
 
-> 另有 3 站未列出。
+> 另有 4 站未列出。
 
-> 165 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 166 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

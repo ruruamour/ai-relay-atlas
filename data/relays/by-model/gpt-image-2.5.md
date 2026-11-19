@@ -1,6 +1,6 @@
 # gpt-image-2.5
 
-> 676 站提供 · 正常价 475 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.08**/次（379 站公开充值价） · 推算，未对账
+> 679 站提供 · 正常价 476 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.08**/次（379 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -106,18 +106,18 @@
 | 37 | `api.jiguang.me` | $0.06 | 高性价比-生图 | 1 | gpt-image-2.5 |
 | 38 | `api.ylai.xyz` | $0.06 | 普通用户 | 0.2 | gpt-image-2.5 |
 | 39 | `create.99ai.club` | $0.06 | 图像与视频 | 1 | gpt-image-2.5 |
-| 40 | `tzcode.top` | $0.07 | Image&Video | 1 | gpt-image-2.5 |
-| 41 | `leverai.net` | $0.072 | ChatGPT Pro | 0.36 | gpt-image-2.5 |
-| 42 | `myai-gateway.kdns.fr` | $0.072 | GPT生图 | 1.44 | gpt-image-2.5 |
-| 43 | `api.schyler.top` | $0.08 | 1k-image2 | 0.8 | gpt-image-2.5 |
-| 44 | `api.zhiji.pro` | $0.08 | GPT-image-2-生图专用 | 1 | gpt-image-2.5 |
-| 45 | `hanhegufei.online` | $0.08 | codex生图 | 1 | gpt-image-2.5 |
-| 46 | `pureai.ink` | $0.08 | Generate Image-GPT | 1 | gpt-image-2.5 |
-| 47 | `uuapi.io` | $0.08 | gpt快速生图 | 1 | gpt-image-2.5 |
-| 48 | `api.tameac.com` | $0.1 | 生图（Adobe-gpt渠道）image-2.5可用 | 1 | gpt-image-2.5 |
-| 49 | `business.starway.lol` | $0.1 | 生图-Business分组 | 1 | gpt-image-2.5 |
-| 50 | `mollycloud.cn` | $0.1 | image-2.5 生图 | 1 | gpt-image-2.5 |
+| 40 | `nuoapi.net` | $0.06 | image | 1 | gpt-image-2.5 |
+| 41 | `tzcode.top` | $0.07 | Image&Video | 1 | gpt-image-2.5 |
+| 42 | `leverai.net` | $0.072 | ChatGPT Pro | 0.36 | gpt-image-2.5 |
+| 43 | `myai-gateway.kdns.fr` | $0.072 | GPT生图 | 1.44 | gpt-image-2.5 |
+| 44 | `api.schyler.top` | $0.08 | 1k-image2 | 0.8 | gpt-image-2.5 |
+| 45 | `api.zhiji.pro` | $0.08 | GPT-image-2-生图专用 | 1 | gpt-image-2.5 |
+| 46 | `hanhegufei.online` | $0.08 | codex生图 | 1 | gpt-image-2.5 |
+| 47 | `pureai.ink` | $0.08 | Generate Image-GPT | 1 | gpt-image-2.5 |
+| 48 | `uuapi.io` | $0.08 | gpt快速生图 | 1 | gpt-image-2.5 |
+| 49 | `api.tameac.com` | $0.1 | 生图（Adobe-gpt渠道）image-2.5可用 | 1 | gpt-image-2.5 |
+| 50 | `business.starway.lol` | $0.1 | 生图-Business分组 | 1 | gpt-image-2.5 |
 
-> 另有 46 站未列出。
+> 另有 47 站未列出。
 
-> 201 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 203 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

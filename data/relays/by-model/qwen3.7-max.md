@@ -1,6 +1,6 @@
 # qwen3.7-max
 
-> 620 站提供 · 正常价 445 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥9.375**/1M 输入（368 站公开充值价） · 推算，未对账
+> 622 站提供 · 正常价 446 站 · 名义中位价 **$2.9**/1M 输入 · 实付中位价 **¥9.375**/1M 输入（368 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -81,43 +81,43 @@
 | 12 | `flashcoding.ai` | $1.16 / $3.46 | 国产低价-均价0.1x | 1 | qwen3.7-max |
 | 13 | `hongai.co` | $1.2 / $3.6 | 国模-缓存正常 | 0.1 | qwen3.7-max |
 | 14 | `mzeapi.top` | $1.2 / $3.6 | 国模-【QWEN】 | 0.2 | qwen3.7-max |
-| 15 | `sub.pikaqiu.shop` | $1.2 / $3.6 | 国模大杂烩 | 0.1 | qwen3.7-max |
-| 16 | `sub.rkshadow.com` | $1.2 / $3.6 | 国模-高质量 | 0.2 | qwen3.7-max |
-| 17 | `tuzkiapi.tuzki.online` | $1.2 / $3.6 | 国模兜底 | 0.1 | qwen3.7-max |
-| 18 | `newapi.relayport17.asia` | $1.25 / $3.75 | 国产模型 | 0.5 | qwen3.7-max |
-| 19 | `tken.lol` | $1.325 / $3.975 | 官方全系稳定渠道 | 1.06 | qwen/qwen3.7-max |
-| 20 | `api.zayuapi.com` | $1.44 / $4.32 | Qwen-自部署 | 0.12 | qwen3.7-max |
-| 21 | `sub.flashcode.cc` | $1.44 / $4.32 | GPT Plus | 0.12 | qwen3.7-max |
-| 22 | `kukuai.ai` | $1.58824 / $4.76471 | 线路1 | 1 | qwen3.7-max |
-| 23 | `88.scxai.top` | $1.8 / $5.4 | 创世の鑫元 | 0.15 | qwen3.7-max |
-| 24 | `api.123uq.com` | $1.8 / $5.4 | 国产模型 | 0.15 | qwen3.7-max |
-| 25 | `business.starway.lol` | $1.8 / $5.4 | 国模大杂烩-P1组 | 0.15 | qwen3.7-max |
-| 26 | `emooo.cc` | $1.8 / $5.4 | 【国模】反代★★★ | 0.15 | qwen3.7-max |
-| 27 | `zhiyuanapis.top` | $1.8 / $5.4 | 国内模型 | 0.15 | qwen3.7-max |
-| 28 | `codexauv.com` | $1.98 / $5.94 | 国产模型聚合-阿里满血渠道 | 0.33 | qwen3.7-max |
-| 29 | `tokenshengsheng.com` | $2 / $6 | 国产模型Max | 0.8 | qwen3.7-max |
-| 30 | `api.nornless.com` | $2.04 / $6.12 | 国产模型 按量 | 1 | qwen3.7-max |
-| 31 | `inferaichat.com` | $2.071 / $6.207 | auto分组 | 1 | qwen3.7-max |
-| 32 | `ltgpt.xyz` | $2.16 / $6.48 | 国模分组A 0.18 | 0.18 | qwen3.7-max |
-| 33 | `sub.skypoem.top` | $2.16 / $6.48 | qwen-自部署 | 0.18 | qwen3.7-max |
-| 34 | `8888.name` | $2.4 / $7.2 | 国模 | 1 | qwen3.7-max |
-| 35 | `api.8888.name` | $2.4 / $7.2 | 国模 | 1 | qwen3.7-max |
-| 36 | `api.relaylink.cloud` | $2.4 / $7.2 | 国模分组 | 0.2 | qwen3.7-max |
-| 37 | `goforai.top` | $2.4 / $7.2 | Kimi K3 | 0.4 | qwen3.7-max |
-| 38 | `sub.onetopai.com` | $2.4 / $7.2 | 国模分组 | 0.2 | qwen3.7-max |
-| 39 | `www.likeai520.cc` | $2.4 / $7.2 | 国模分组 | 0.4 | qwen3.7-max |
-| 40 | `api.hy88.my` | $2.5 / $7.5 | qwen | 1 | qwen3.7-max |
-| 41 | `pincc.flowapi.fun` | $2.5 / $7.5 | Qwen专线 | 1 | qwen3.7-max |
-| 42 | `pro.fan142.top` | $2.5 / $7.5 | coding api | 1 | Qwen/Qwen3.7-Max |
-| 43 | `tokenkey.vip` | $2.8 / $8.4 | 【国模大全分组】 | 1 | qwen3.7-max |
-| 44 | `api.jucode.cn` | $3 / $9 | 国产模型 · 自部署 | 0.25 | qwen3.7-max |
-| 45 | `token.54421666.xyz` | $3 / $9 | Qwen | 0.25 | qwen3.7-max |
-| 46 | `api.kcne.top` | $3.5 / $10.5 | 国模组 | 1.4 | qwen3.7-max |
-| 47 | `levelup.mom` | $3.5 / $10.5 | OpenCode Go满血号池 | 0.2 | qwen3.7-max |
-| 48 | `okmcode.com` | $3.5 / $10.5 | 国模cc兼容 | 0.2 | qwen3.7-max |
-| 49 | `www.nmoon.cc` | $3.5 / $10.5 | Qwen | 0.2 | qwen3.7-max |
-| 50 | `api.bestai.chat` | $3.6 / $10.8 | 国产模型（Anthropic协议） | 0.6 | qwen3.7-max |
+| 15 | `nuoapi.net` | $1.2 / $3.6 | 国模 (Chinese LLMs) | 0.2 | qwen3.7-max |
+| 16 | `sub.pikaqiu.shop` | $1.2 / $3.6 | 国模大杂烩 | 0.1 | qwen3.7-max |
+| 17 | `sub.rkshadow.com` | $1.2 / $3.6 | 国模-高质量 | 0.2 | qwen3.7-max |
+| 18 | `tuzkiapi.tuzki.online` | $1.2 / $3.6 | 国模兜底 | 0.1 | qwen3.7-max |
+| 19 | `newapi.relayport17.asia` | $1.25 / $3.75 | 国产模型 | 0.5 | qwen3.7-max |
+| 20 | `tken.lol` | $1.325 / $3.975 | 官方全系稳定渠道 | 1.06 | qwen/qwen3.7-max |
+| 21 | `api.zayuapi.com` | $1.44 / $4.32 | Qwen-自部署 | 0.12 | qwen3.7-max |
+| 22 | `sub.flashcode.cc` | $1.44 / $4.32 | GPT Plus | 0.12 | qwen3.7-max |
+| 23 | `kukuai.ai` | $1.58824 / $4.76471 | 线路1 | 1 | qwen3.7-max |
+| 24 | `88.scxai.top` | $1.8 / $5.4 | 创世の鑫元 | 0.15 | qwen3.7-max |
+| 25 | `api.123uq.com` | $1.8 / $5.4 | 国产模型 | 0.15 | qwen3.7-max |
+| 26 | `business.starway.lol` | $1.8 / $5.4 | 国模大杂烩-P1组 | 0.15 | qwen3.7-max |
+| 27 | `emooo.cc` | $1.8 / $5.4 | 【国模】反代★★★ | 0.15 | qwen3.7-max |
+| 28 | `zhiyuanapis.top` | $1.8 / $5.4 | 国内模型 | 0.15 | qwen3.7-max |
+| 29 | `codexauv.com` | $1.98 / $5.94 | 国产模型聚合-阿里满血渠道 | 0.33 | qwen3.7-max |
+| 30 | `tokenshengsheng.com` | $2 / $6 | 国产模型Max | 0.8 | qwen3.7-max |
+| 31 | `api.nornless.com` | $2.04 / $6.12 | 国产模型 按量 | 1 | qwen3.7-max |
+| 32 | `inferaichat.com` | $2.071 / $6.207 | auto分组 | 1 | qwen3.7-max |
+| 33 | `ltgpt.xyz` | $2.16 / $6.48 | 国模分组A 0.18 | 0.18 | qwen3.7-max |
+| 34 | `sub.skypoem.top` | $2.16 / $6.48 | qwen-自部署 | 0.18 | qwen3.7-max |
+| 35 | `8888.name` | $2.4 / $7.2 | 国模 | 1 | qwen3.7-max |
+| 36 | `api.8888.name` | $2.4 / $7.2 | 国模 | 1 | qwen3.7-max |
+| 37 | `api.relaylink.cloud` | $2.4 / $7.2 | 国模分组 | 0.2 | qwen3.7-max |
+| 38 | `goforai.top` | $2.4 / $7.2 | Kimi K3 | 0.4 | qwen3.7-max |
+| 39 | `sub.onetopai.com` | $2.4 / $7.2 | 国模分组 | 0.2 | qwen3.7-max |
+| 40 | `www.likeai520.cc` | $2.4 / $7.2 | 国模分组 | 0.4 | qwen3.7-max |
+| 41 | `api.hy88.my` | $2.5 / $7.5 | qwen | 1 | qwen3.7-max |
+| 42 | `pincc.flowapi.fun` | $2.5 / $7.5 | Qwen专线 | 1 | qwen3.7-max |
+| 43 | `pro.fan142.top` | $2.5 / $7.5 | coding api | 1 | Qwen/Qwen3.7-Max |
+| 44 | `tokenkey.vip` | $2.8 / $8.4 | 【国模大全分组】 | 1 | qwen3.7-max |
+| 45 | `api.jucode.cn` | $3 / $9 | 国产模型 · 自部署 | 0.25 | qwen3.7-max |
+| 46 | `token.54421666.xyz` | $3 / $9 | Qwen | 0.25 | qwen3.7-max |
+| 47 | `api.kcne.top` | $3.5 / $10.5 | 国模组 | 1.4 | qwen3.7-max |
+| 48 | `levelup.mom` | $3.5 / $10.5 | OpenCode Go满血号池 | 0.2 | qwen3.7-max |
+| 49 | `okmcode.com` | $3.5 / $10.5 | 国模cc兼容 | 0.2 | qwen3.7-max |
+| 50 | `www.nmoon.cc` | $3.5 / $10.5 | Qwen | 0.2 | qwen3.7-max |
 
-> 另有 27 站未列出。
+> 另有 28 站未列出。
 
-> 175 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 176 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

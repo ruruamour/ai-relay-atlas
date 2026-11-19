@@ -1,6 +1,6 @@
 # gpt-4.1
 
-> 478 站提供 · 正常价 372 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥4**/1M 输入（336 站公开充值价） · 推算，未对账
+> 477 站提供 · 正常价 372 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥4**/1M 输入（337 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `v2.cloudmist.cloud` | ¥1.539 | $0.23 / $0.92 | 6.68934 | Azure-Gpt-2 | gpt-4.1 |
 | 50 | `api.bltcy.ai` | ¥1.6 | $1.6 / $3.2 | 1 | vip | gpt-4.1 |
 
-> 另有 286 站未列出。
+> 另有 287 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -79,29 +79,28 @@
 | 10 | `sub.sixoner.com` | $0.5 / $2 | ChatGPT-Pro 企业 | 0.25 | gpt-4.1 |
 | 11 | `api.xiaojue.cloud` | $0.56 / $2.24 | gpt纯官key禁止破限蒸馏 | 0.28 | gpt-4.1 |
 | 12 | `fugui.im` | $0.56 / $2.24 | 【土豆】GPT-PRO-企业组 | 0.28 | gpt-4.1 |
-| 13 | `api.coderplan.ai` | $0.7 / $2.8 | codex | 0.35 | gpt-4.1 |
-| 14 | `api.jiangxinmao.com` | $0.7 / $2.8 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-4.1 |
-| 15 | `dmit.yyrouter.cc` | $0.7 / $2.8 | OpenAI-Pro稳定版 | 0.35 | gpt-4.1 |
-| 16 | `ai.lazymo.qzz.io` | $0.8 / $3.2 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-4.1 |
-| 17 | `supersubscribe689.com` | $1 / $4 | chatgpt美区版 | 0.5 | gpt-4.1 |
-| 18 | `api.hy88.my` | $1.2 / $4.8 | gpt_high | 0.6 | gpt-4.1 |
-| 19 | `momoai.asia` | $1.6 / $6.4 | codex余额分组 | 0.8 | gpt-4.1 |
-| 20 | `api.apigiare.vn` | $2 / $4 | default | 1 | gpt-4.1 |
-| 21 | `api.yescale.io` | $2 / $8 | starter | 1 | gpt-4.1 |
-| 22 | `api.zhiyikeji.cn` | $2 / $8 | default | 1 | gpt-4.1 |
-| 23 | `happyapi.org` | $2 / $8 | vip | 1 | gpt-4.1 |
-| 24 | `lobe.zen-ai.top` | $2 / $8 | momo | 1 | gpt-4.1 |
-| 25 | `8888.name` | $3 / $12 | GPT—Az渠道 | 1.5 | gpt-4.1 |
-| 26 | `api.zhimigy.cn` | $3.2 / $12.8 | pro | 1.6 | gpt-4.1 |
-| 27 | `cccode.pro` | $3.4 / $13.6 | azgpt | 1.7 | gpt-4.1 |
-| 28 | `relaybases.com` | $4 / $8 | azure-gpt | 2 | gpt-4.1 |
-| 29 | `api.akko.space` | $5 / $20 | Codex Azure | 2.5 | gpt-4.1 |
-| 30 | `vip.zen-ai.top` | $6 / $24 | default | 3 | gpt-4.1 |
-| 31 | `api.hyhawang.com` | $6.4 / $25.6 | GPT offical | 3.2 | gpt-4.1 |
-| 32 | `www.qianweikeji.fun` | $6.4 / $25.6 | GPT offical | 3.2 | gpt-4.1 |
-| 33 | `ciyuan.fast` | $8 / $32 | AZ官key-全模型 | 4 | gpt-4.1 |
-| 34 | `sub.hongyun.chat` | $15 / $60 | gpt | 7.5 | gpt-4.1 |
-| 35 | `liangjiewis.com` | $56.25 / $225 | default | 1 | gpt-4.1 |
-| 36 | `meta-api.vip` | $66 / $264 | 企业级 | 1 | gpt-4.1 |
+| 13 | `api.jiangxinmao.com` | $0.7 / $2.8 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-4.1 |
+| 14 | `dmit.yyrouter.cc` | $0.7 / $2.8 | OpenAI-Pro稳定版 | 0.35 | gpt-4.1 |
+| 15 | `ai.lazymo.qzz.io` | $0.8 / $3.2 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-4.1 |
+| 16 | `supersubscribe689.com` | $1 / $4 | chatgpt美区版 | 0.5 | gpt-4.1 |
+| 17 | `api.hy88.my` | $1.2 / $4.8 | gpt_high | 0.6 | gpt-4.1 |
+| 18 | `momoai.asia` | $1.6 / $6.4 | codex余额分组 | 0.8 | gpt-4.1 |
+| 19 | `api.apigiare.vn` | $2 / $4 | default | 1 | gpt-4.1 |
+| 20 | `api.yescale.io` | $2 / $8 | starter | 1 | gpt-4.1 |
+| 21 | `api.zhiyikeji.cn` | $2 / $8 | default | 1 | gpt-4.1 |
+| 22 | `happyapi.org` | $2 / $8 | vip | 1 | gpt-4.1 |
+| 23 | `lobe.zen-ai.top` | $2 / $8 | momo | 1 | gpt-4.1 |
+| 24 | `8888.name` | $3 / $12 | GPT—Az渠道 | 1.5 | gpt-4.1 |
+| 25 | `api.zhimigy.cn` | $3.2 / $12.8 | pro | 1.6 | gpt-4.1 |
+| 26 | `cccode.pro` | $3.4 / $13.6 | azgpt | 1.7 | gpt-4.1 |
+| 27 | `relaybases.com` | $4 / $8 | azure-gpt | 2 | gpt-4.1 |
+| 28 | `api.akko.space` | $5 / $20 | Codex Azure | 2.5 | gpt-4.1 |
+| 29 | `vip.zen-ai.top` | $6 / $24 | default | 3 | gpt-4.1 |
+| 30 | `api.hyhawang.com` | $6.4 / $25.6 | GPT offical | 3.2 | gpt-4.1 |
+| 31 | `www.qianweikeji.fun` | $6.4 / $25.6 | GPT offical | 3.2 | gpt-4.1 |
+| 32 | `ciyuan.fast` | $8 / $32 | AZ官key-全模型 | 4 | gpt-4.1 |
+| 33 | `sub.hongyun.chat` | $15 / $60 | gpt | 7.5 | gpt-4.1 |
+| 34 | `liangjiewis.com` | $56.25 / $225 | default | 1 | gpt-4.1 |
+| 35 | `meta-api.vip` | $66 / $264 | 企业级 | 1 | gpt-4.1 |
 
-> 106 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 105 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

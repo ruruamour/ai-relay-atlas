@@ -1,6 +1,6 @@
 # doubao-seed-2-1-pro
 
-> 207 站提供 · 正常价 176 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6**/1M 输入（118 站公开充值价） · 推算，未对账
+> 208 站提供 · 正常价 177 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6**/1M 输入（118 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -68,56 +68,56 @@
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `sub.skypoem.top` | $1.08 / $5.4 | qwen-自部署 | 0.18 | doubao-seed-2-1-pro |
-| 2 | `codexauv.com` | $1.98 / $9.9 | 国产模型聚合-阿里满血渠道 | 0.33 | doubao-seed-2-1-pro |
-| 3 | `goforai.top` | $2.4 / $12 | Kimi K3 | 0.4 | doubao-seed-2-1-pro |
-| 4 | `www.likeai520.cc` | $2.4 / $12 | 国模分组 | 0.4 | doubao-seed-2-1-pro |
-| 5 | `api.bestai.chat` | $3.6 / $18 | 国产模型（Anthropic协议） | 0.6 | doubao-seed-2-1-pro |
-| 6 | `api.happyouai.org` | $6 / $30 | 火山引擎 | 1 | doubao-seed-2-1-pro-260628 |
-| 7 | `aiapihub.cloud` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 8 | `aiyiwei.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 9 | `anyaigc.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 10 | `api-hub.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 11 | `api.aibh.site` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 12 | `api.aicso.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 13 | `api.antmoo.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 14 | `api.apiplus.org` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 15 | `api.bitidea.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 16 | `api.clai.click` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 17 | `api.cloudmist.cloud` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 18 | `api.gpt666claude.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 19 | `api.mumuverse.space` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 20 | `api.qingyuntop.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 21 | `api.token173.net` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 22 | `api.vectorengine.ai` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 23 | `api.winfull.cloud-ip.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 24 | `api.wlai.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 25 | `api.xueai.me` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 26 | `api.zhiyikeji.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 27 | `api.zhongzhuan.chat` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 28 | `api.zhongzhuan.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 29 | `api123.eu.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 30 | `apilink.shop` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 31 | `apixin.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 32 | `juapi.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 33 | `juhe.34ku.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 34 | `lemonapi.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 35 | `linxingran.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 36 | `minitoken.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 37 | `new.xhuoai.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 38 | `next.aigc2d.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 39 | `one.chatshare.one` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 40 | `qianfufu.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 41 | `ruishiglobal.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 42 | `s.qweapi.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 43 | `solidapi.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 44 | `sparkapi.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 45 | `startapi.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 46 | `uouo.fun` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 47 | `vipapi.online` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 48 | `www.aifast.club` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 49 | `www.aigeek.life` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
-| 50 | `www.shiyunapi.net` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 2 | `nuoapi.net` | $1.2 / $6 | 国模 (Chinese LLMs) | 0.2 | doubao-seed-2-1-pro |
+| 3 | `codexauv.com` | $1.98 / $9.9 | 国产模型聚合-阿里满血渠道 | 0.33 | doubao-seed-2-1-pro |
+| 4 | `goforai.top` | $2.4 / $12 | Kimi K3 | 0.4 | doubao-seed-2-1-pro |
+| 5 | `www.likeai520.cc` | $2.4 / $12 | 国模分组 | 0.4 | doubao-seed-2-1-pro |
+| 6 | `api.bestai.chat` | $3.6 / $18 | 国产模型（Anthropic协议） | 0.6 | doubao-seed-2-1-pro |
+| 7 | `api.happyouai.org` | $6 / $30 | 火山引擎 | 1 | doubao-seed-2-1-pro-260628 |
+| 8 | `aiapihub.cloud` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 9 | `aiyiwei.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 10 | `anyaigc.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 11 | `api-hub.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 12 | `api.aibh.site` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 13 | `api.aicso.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 14 | `api.antmoo.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 15 | `api.apiplus.org` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 16 | `api.bitidea.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 17 | `api.clai.click` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 18 | `api.cloudmist.cloud` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 19 | `api.gpt666claude.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 20 | `api.mumuverse.space` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 21 | `api.qingyuntop.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 22 | `api.token173.net` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 23 | `api.vectorengine.ai` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 24 | `api.winfull.cloud-ip.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 25 | `api.wlai.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 26 | `api.xueai.me` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 27 | `api.zhiyikeji.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 28 | `api.zhongzhuan.chat` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 29 | `api.zhongzhuan.vip` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 30 | `api123.eu.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 31 | `apilink.shop` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 32 | `apixin.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 33 | `juapi.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 34 | `juhe.34ku.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 35 | `lemonapi.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 36 | `linxingran.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 37 | `minitoken.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 38 | `new.xhuoai.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 39 | `next.aigc2d.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 40 | `one.chatshare.one` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 41 | `qianfufu.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 42 | `ruishiglobal.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 43 | `s.qweapi.com` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 44 | `solidapi.cc` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 45 | `sparkapi.cn` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 46 | `startapi.top` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 47 | `uouo.fun` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 48 | `vipapi.online` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 49 | `www.aifast.club` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
+| 50 | `www.aigeek.life` | $9 / $45 | 纯AZ | 1.5 | doubao-seed-2-1-pro-260628 |
 
-> 另有 8 站未列出。
+> 另有 9 站未列出。
 
 > 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

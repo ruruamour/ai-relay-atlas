@@ -1,6 +1,6 @@
 # gemini-3.8-flash
 
-> 1379 站提供 · 正常价 1041 站 · 名义中位价 **$0.375**/1M 输入 · 实付中位价 **¥0.7378**/1M 输入（810 站公开充值价） · 推算，未对账
+> 1384 站提供 · 正常价 1044 站 · 名义中位价 **$0.375**/1M 输入 · 实付中位价 **¥0.7378**/1M 输入（812 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `momoapi.xin` | ¥0.165 | $0.165 / $0.825 | 1 | gemini02 | gemini-3.8-flash |
 | 50 | `api.tokenfreeperday.com` | ¥0.18 | $0.18 / $0.9 | 1 | ALL | gemini-3.8-flash |
 
-> 另有 760 站未列出。
+> 另有 762 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -87,37 +87,37 @@
 | 18 | `api.123uq.com` | $0.15 / $0.75 | 反重力gemini | 0.2 | gemini-3.8-flash |
 | 19 | `api.168box.xyz` | $0.15 / $0.75 | gemini | 0.2 | gemini-3.8-flash |
 | 20 | `api.9m8m.com` | $0.15 / $0.75 | Gemini分组 | 0.2 | gemini-3.8-flash-high |
-| 21 | `api.coderplan.ai` | $0.15 / $0.75 | gemini-vip | 0.2 | gemini-3.8-flash |
-| 22 | `api.hyhawang.com` | $0.15 / $0.75 | 反重力Gemini | 0.2 | gemini-3.8-flash |
-| 23 | `api.kcne.top` | $0.15 / $0.75 | 反重力Gemini | 0.2 | gemini-3.8-flash |
-| 24 | `api.uu6.top` | $0.15 / $0.75 | Gemini按次 | 0.2 | gemini-3.8-flash |
-| 25 | `app.yylx.io` | $0.15 / $0.75 | Gemini - 标准 | 0.2 | gemini-3.8-flash |
-| 26 | `business.starway.lol` | $0.15 / $0.75 | Gemini-Study-学习分组 | 0.2 | gemini-3.8-flash-high |
-| 27 | `kimera.cc` | $0.15 / $0.75 | Gemini Pro | 0.2 | gemini-3.8-flash |
-| 28 | `⚠️mhapi.net` | $0.15 / $0.75 | Gemini | 0.2 | gemini-3.8-flash |
-| 29 | `nextpro.top` | $0.15 / $0.75 | Gemini Ultra | 0.2 | gemini-3.8-flash |
-| 30 | `sub.bulita.net` | $0.15 / $0.75 | gemini | 0.2 | gemini-3.8-flash |
-| 31 | `sub.vcnovb.cn` | $0.15 / $0.75 | Anit Gemini | 0.2 | gemini-3.8-flash |
-| 32 | `www.largechestnut.com` | $0.15 / $0.75 | gemini | 0.2 | gemini-3.8-flash |
-| 33 | `www.qianweikeji.fun` | $0.15 / $0.75 | 反重力Gemini | 0.2 | gemini-3.8-flash |
-| 34 | `www.tokensupply.net` | $0.15 / $0.75 | Antigravity Gemini | 0.2 | gemini-3.8-flash |
-| 35 | `zcbbzzz.online` | $0.15 / $0.75 | Gemini - 满血反重力 | 0.2 | gemini-3.8-flash |
-| 36 | `sub.sixoner.com` | $0.165 / $0.825 | 反重力gemini | 0.22 | gemini-3.8-flash |
-| 37 | `ai.mzlone.top` | $0.18 / $0.9 | Gemini - Pro | 0.24 | gemini-3.8-flash |
-| 38 | `ai.entrylk.cn` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
-| 39 | `api.247kan.com` | $0.1875 / $0.9375 | Gemini Pro | 0.25 | gemini-3.8-flash |
-| 40 | `api.apikl.ai` | $0.1875 / $0.9375 | Gemini【反重力】 | 0.25 | gemini-3.8-flash |
-| 41 | `api.gguuai.com` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
-| 42 | `api.xiaojue.cloud` | $0.1875 / $0.9375 | 满血cursorClaude | 0.25 | gemini-3.8-flash |
-| 43 | `apiai.fun` | $0.1875 / $0.9375 | Gemini【反重力】 | 0.25 | gemini-3.8-flash |
-| 44 | `jizhiapi.site` | $0.1875 / $0.9375 | gemini 全模型线路 | 0.25 | gemini-3.8-flash |
-| 45 | `llm.twinight.co` | $0.1875 / $0.9375 | Gemini Pro | 0.25 | gemini-3.8-flash |
-| 46 | `loveapi.top` | $0.1875 / $0.9375 | Gemini 0.25x 反重力 | 0.25 | gemini-3.8-flash |
-| 47 | `momoapi.cn` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
-| 48 | `oapi.shop` | $0.1875 / $0.9375 | Gemini flash | 0.25 | gemini-3.8-flash |
-| 49 | `poolai.chat` | $0.1875 / $0.9375 | 哈基咪 | 0.25 | gemini-3.8-flash |
-| 50 | `riyuexy.cc` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash-high |
+| 21 | `api.hyhawang.com` | $0.15 / $0.75 | 反重力Gemini | 0.2 | gemini-3.8-flash |
+| 22 | `api.kcne.top` | $0.15 / $0.75 | 反重力Gemini | 0.2 | gemini-3.8-flash |
+| 23 | `api.uu6.top` | $0.15 / $0.75 | Gemini按次 | 0.2 | gemini-3.8-flash |
+| 24 | `app.yylx.io` | $0.15 / $0.75 | Gemini - 标准 | 0.2 | gemini-3.8-flash |
+| 25 | `business.starway.lol` | $0.15 / $0.75 | Gemini-Study-学习分组 | 0.2 | gemini-3.8-flash-high |
+| 26 | `kimera.cc` | $0.15 / $0.75 | Gemini Pro | 0.2 | gemini-3.8-flash |
+| 27 | `⚠️mhapi.net` | $0.15 / $0.75 | Gemini | 0.2 | gemini-3.8-flash |
+| 28 | `nextpro.top` | $0.15 / $0.75 | Gemini Ultra | 0.2 | gemini-3.8-flash |
+| 29 | `sub.bulita.net` | $0.15 / $0.75 | gemini | 0.2 | gemini-3.8-flash |
+| 30 | `sub.vcnovb.cn` | $0.15 / $0.75 | Anit Gemini | 0.2 | gemini-3.8-flash |
+| 31 | `www.largechestnut.com` | $0.15 / $0.75 | gemini | 0.2 | gemini-3.8-flash |
+| 32 | `www.qianweikeji.fun` | $0.15 / $0.75 | 反重力Gemini | 0.2 | gemini-3.8-flash |
+| 33 | `www.tokensupply.net` | $0.15 / $0.75 | Antigravity Gemini | 0.2 | gemini-3.8-flash |
+| 34 | `zcbbzzz.online` | $0.15 / $0.75 | Gemini - 满血反重力 | 0.2 | gemini-3.8-flash |
+| 35 | `sub.sixoner.com` | $0.165 / $0.825 | 反重力gemini | 0.22 | gemini-3.8-flash |
+| 36 | `ai.mzlone.top` | $0.18 / $0.9 | Gemini - Pro | 0.24 | gemini-3.8-flash |
+| 37 | `ai.entrylk.cn` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
+| 38 | `api.247kan.com` | $0.1875 / $0.9375 | Gemini Pro | 0.25 | gemini-3.8-flash |
+| 39 | `api.apikl.ai` | $0.1875 / $0.9375 | Gemini【反重力】 | 0.25 | gemini-3.8-flash |
+| 40 | `api.gguuai.com` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
+| 41 | `api.xiaojue.cloud` | $0.1875 / $0.9375 | 满血cursorClaude | 0.25 | gemini-3.8-flash |
+| 42 | `apiai.fun` | $0.1875 / $0.9375 | Gemini【反重力】 | 0.25 | gemini-3.8-flash |
+| 43 | `jizhiapi.site` | $0.1875 / $0.9375 | gemini 全模型线路 | 0.25 | gemini-3.8-flash |
+| 44 | `llm.twinight.co` | $0.1875 / $0.9375 | Gemini Pro | 0.25 | gemini-3.8-flash |
+| 45 | `loveapi.top` | $0.1875 / $0.9375 | Gemini 0.25x 反重力 | 0.25 | gemini-3.8-flash |
+| 46 | `momoapi.cn` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
+| 47 | `oapi.shop` | $0.1875 / $0.9375 | Gemini flash | 0.25 | gemini-3.8-flash |
+| 48 | `poolai.chat` | $0.1875 / $0.9375 | 哈基咪 | 0.25 | gemini-3.8-flash |
+| 49 | `riyuexy.cc` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash-high |
+| 50 | `sub2api.yunquedev.online` | $0.1875 / $0.9375 | Gemini | 0.25 | gemini-3.8-flash |
 
-> 另有 181 站未列出。
+> 另有 182 站未列出。
 
-> 338 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 340 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-3.1-pro-preview
 
-> 1076 站提供 · 正常价 783 站 · 名义中位价 **$1.8**/1M 输入 · 实付中位价 **¥3.249**/1M 输入（614 站公开充值价） · 推算，未对账
+> 1078 站提供 · 正常价 785 站 · 名义中位价 **$1.8**/1M 输入 · 实付中位价 **¥3.26**/1M 输入（615 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `xn--15q04w3tg4kio0a.com` | ¥0.6 | $0.6 / $3.6 | 1 | 🪐gemini-antigravity | gemini-3.1-pro-preview |
 | 50 | `xxapi.info` | ¥0.6 | $0.6 / $3.6 | 1 | Gemini稳定 | gemini-3.1-pro-preview-low |
 
-> 另有 564 站未列出。
+> 另有 565 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -112,12 +112,12 @@
 | 43 | `aiapibank.com` | $0.7 / $4.2 | Gemini Ultra分组 | 0.35 | gemini-3.1-pro-preview |
 | 44 | `api.inktandwkx.top` | $0.7 / $4.2 | Gemini | 0.35 | gemini-3.1-pro-preview |
 | 45 | `api.relaylink.cloud` | $0.7 / $4.2 | gemini | 0.35 | gemini-3.1-pro-preview |
-| 46 | `pureai.ink` | $0.7 / $4.2 | Gemini Antigravity Pro | 0.35 | gemini-3.1-pro-preview |
-| 47 | `sub2api.luchikey.com` | $0.7 / $4.2 | Gemini-Pro(支持并且包括生图) | 0.35 | gemini-3.1-pro-preview |
-| 48 | `cn.fluxtoken.ai` | $0.76 / $4.56 | 【Gemini】Google Antigravity | 0.38 | gemini-3.1-pro-preview |
-| 49 | `api.aicatstudios.com` | $0.8 / $4.8 | gemini分组（无审核） | 0.4 | gemini-3.1-pro-preview |
-| 50 | `api.aliuapi.top` | $0.8 / $4.8 | NL - Gemini - 反代无缓 | 0.4 | gemini-3.1-pro-preview |
+| 46 | `nuoapi.net` | $0.7 / $4.2 | Gemini | 0.35 | gemini-3.1-pro-preview |
+| 47 | `pureai.ink` | $0.7 / $4.2 | Gemini Antigravity Pro | 0.35 | gemini-3.1-pro-preview |
+| 48 | `sub2api.luchikey.com` | $0.7 / $4.2 | Gemini-Pro(支持并且包括生图) | 0.35 | gemini-3.1-pro-preview |
+| 49 | `cn.fluxtoken.ai` | $0.76 / $4.56 | 【Gemini】Google Antigravity | 0.38 | gemini-3.1-pro-preview |
+| 50 | `api.aicatstudios.com` | $0.8 / $4.8 | gemini分组（无审核） | 0.4 | gemini-3.1-pro-preview |
 
-> 另有 119 站未列出。
+> 另有 120 站未列出。
 
 > 293 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

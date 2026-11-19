@@ -1,6 +1,6 @@
 # gemini-3-pro-image
 
-> 618 站提供 · 正常价 340 站 · 名义中位价 **$0.2**/次 · 实付中位价 **¥0.24**/次（252 站公开充值价） · 推算，未对账
+> 620 站提供 · 正常价 341 站 · 名义中位价 **$0.2**/次 · 实付中位价 **¥0.24**/次（252 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -91,33 +91,33 @@
 | 22 | `code.aicodeme.cn` | $0.15 | 生图分组-香蕉生图 | 1 | gemini-3-pro-image |
 | 23 | `ican-gpt.com` | $0.15 | 【生图】Nano Banana -  4k | 1 | gemini-3-pro-image |
 | 24 | `mollycloud.cn` | $0.15 | gemini 生图组 | 1 | gemini-3-pro-image |
-| 25 | `relaybases.com` | $0.2 | media | 1 | gemini-3-pro-image |
-| 26 | `99ai.club` | $0.26 | 图像与视频 | 1 | gemini-3-pro-image |
-| 27 | `kittyapi.xyz` | $0.26 | 算力AI【图片模型】 | 1 | 香蕉出图优质-gemini-3-pro-image |
-| 28 | `api.bestai.chat` | $0.288 | Gemini | 0.6 | gemini-3-pro-image |
-| 29 | `code.doone.fun` | $0.3 | 生图分组 | 1 | gemini-3-pro-image |
-| 30 | `happyapi.org` | $0.3 | vip | 1 | gemini-3-pro-image |
-| 31 | `uuapi.io` | $0.3 | Nano Banana香蕉生图 | 1 | gemini-3-pro-image |
-| 32 | `aiapihub.cloud` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 33 | `aiyiwei.vip` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 34 | `anyaigc.com` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 35 | `api-hub.vip` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 36 | `api.aibh.site` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 37 | `api.aicso.top` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 38 | `api.antmoo.com` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 39 | `api.apiplus.org` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 40 | `api.bitidea.cn` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 41 | `api.clai.click` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 42 | `api.cloudmist.cloud` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 43 | `api.mumuverse.space` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 44 | `api.qingyuntop.top` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 45 | `api.winfull.cloud-ip.cc` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 46 | `api.wlai.vip` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 47 | `api.xueai.me` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 48 | `api.zhiyikeji.cn` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 49 | `api.zhongzhuan.chat` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
-| 50 | `api123.eu.cc` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 25 | `nuoapi.net` | $0.18 | image | 1 | gemini-3-pro-image |
+| 26 | `relaybases.com` | $0.2 | media | 1 | gemini-3-pro-image |
+| 27 | `99ai.club` | $0.26 | 图像与视频 | 1 | gemini-3-pro-image |
+| 28 | `kittyapi.xyz` | $0.26 | 算力AI【图片模型】 | 1 | 香蕉出图优质-gemini-3-pro-image |
+| 29 | `api.bestai.chat` | $0.288 | Gemini | 0.6 | gemini-3-pro-image |
+| 30 | `code.doone.fun` | $0.3 | 生图分组 | 1 | gemini-3-pro-image |
+| 31 | `happyapi.org` | $0.3 | vip | 1 | gemini-3-pro-image |
+| 32 | `uuapi.io` | $0.3 | Nano Banana香蕉生图 | 1 | gemini-3-pro-image |
+| 33 | `aiapihub.cloud` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 34 | `aiyiwei.vip` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 35 | `anyaigc.com` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 36 | `api-hub.vip` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 37 | `api.aibh.site` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 38 | `api.aicso.top` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 39 | `api.antmoo.com` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 40 | `api.apiplus.org` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 41 | `api.bitidea.cn` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 42 | `api.clai.click` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 43 | `api.cloudmist.cloud` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 44 | `api.mumuverse.space` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 45 | `api.qingyuntop.top` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 46 | `api.winfull.cloud-ip.cc` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 47 | `api.wlai.vip` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 48 | `api.xueai.me` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 49 | `api.zhiyikeji.cn` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
+| 50 | `api.zhongzhuan.chat` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image |
 
-> 另有 38 站未列出。
+> 另有 39 站未列出。
 
-> 278 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 279 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # nemotron-3-nano-omni-30b-a3b
 
-> 32 站提供 · 正常价 8 站 · 名义中位价 **$0.33125**/1M 输入 · 实付中位价 **¥0.45**/1M 输入（8 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 8 站 · 名义中位价 **$0.33125**/1M 输入 · 实付中位价 **¥0.45**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,4 +19,4 @@
 | 7 | `newapi.prorisehub.com` | ¥2 | $2 / $2 | 1 | default | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning |
 | 8 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-nano-omni-30b-a3b-reasoning |
 
-> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

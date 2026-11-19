@@ -1,6 +1,6 @@
 # minimax-m2.7-highspeed
 
-> 211 站提供 · 正常价 141 站 · 名义中位价 **$0.92**/1M 输入 · 实付中位价 **¥2.1**/1M 输入（102 站公开充值价） · 推算，未对账
+> 212 站提供 · 正常价 142 站 · 名义中位价 **$0.88**/1M 输入 · 实付中位价 **¥2.1**/1M 输入（102 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -91,20 +91,21 @@
 | 22 | `8888.name` | $0.84 / $3.36 | 国模 | 1 | MiniMax-M2.7-highspeed |
 | 23 | `api.8888.name` | $0.84 / $3.36 | 国模 | 1 | MiniMax-M2.7-highspeed |
 | 24 | `api.relaylink.cloud` | $0.84 / $3.36 | 国模分组 | 0.2 | MiniMax-M2.7-highspeed |
-| 25 | `tokai.cc` | $0.84 / $3.36 | 国模 | 0.2 | MiniMax-M2.7-highspeed |
-| 26 | `xindu.xyz` | $0.84 / $3.36 | 国模全系列 | 0.2 | MiniMax-M2.7-highspeed |
-| 27 | `api.boluomiapi.cc` | $1.05 / $4.2 | Z04-其他国模 | 0.25 | MiniMax-M2.7-highspeed |
-| 28 | `rivora.cc` | $1.08 / $4.32 | default | 1.8 | MiniMax-M2.7-highspeed |
-| 29 | `codexauv.com` | $1.386 / $5.544 | 国产模型聚合-阿里满血渠道 | 0.33 | MiniMax-M2.7-highspeed |
-| 30 | `goforai.top` | $1.68 / $6.72 | Kimi K3 | 0.4 | MiniMax-M2.7-highspeed |
-| 31 | `www.likeai520.cc` | $1.68 / $6.72 | 国模分组 | 0.4 | MiniMax-M2.7-highspeed |
-| 32 | `api.mytokenland.com` | $2 / $10 | default | 1 | MiniMax-M2.7-highspeed |
-| 33 | `ent.mmkg.cloud` | $2.1 / $8.4 | MiniMax | 1 | minimax-m2.7-highspeed |
-| 34 | `openclawroot.com` | $2.33 / $10.22 | default | 1 | MiniMax-M2.7-highspeed |
-| 35 | `api.bestai.chat` | $2.52 / $10.08 | 国产模型（Anthropic协议） | 0.6 | MiniMax-M2.7-highspeed |
-| 36 | `api.lmuai.ai` | $3.15 / $12.6 | MiniMax(Anthropic协议) | 0.75 | MiniMax-M2.7-highspeed |
-| 37 | `api.apikl.ai` | $3.36 / $13.44 | MiniMax | 0.8 | MiniMax-M2.7-highspeed |
-| 38 | `apiai.fun` | $3.36 / $13.44 | MiniMax | 0.8 | MiniMax-M2.7-highspeed |
-| 39 | `fanapi.cbbmax.com` | $8.61 / $34.44 | 国模合集-自部署 | 2.05 | MiniMax-M2.7-highspeed |
+| 25 | `nuoapi.net` | $0.84 / $3.36 | 国模 (Chinese LLMs) | 0.2 | MiniMax-M2.7-highspeed |
+| 26 | `tokai.cc` | $0.84 / $3.36 | 国模 | 0.2 | MiniMax-M2.7-highspeed |
+| 27 | `xindu.xyz` | $0.84 / $3.36 | 国模全系列 | 0.2 | MiniMax-M2.7-highspeed |
+| 28 | `api.boluomiapi.cc` | $1.05 / $4.2 | Z04-其他国模 | 0.25 | MiniMax-M2.7-highspeed |
+| 29 | `rivora.cc` | $1.08 / $4.32 | default | 1.8 | MiniMax-M2.7-highspeed |
+| 30 | `codexauv.com` | $1.386 / $5.544 | 国产模型聚合-阿里满血渠道 | 0.33 | MiniMax-M2.7-highspeed |
+| 31 | `goforai.top` | $1.68 / $6.72 | Kimi K3 | 0.4 | MiniMax-M2.7-highspeed |
+| 32 | `www.likeai520.cc` | $1.68 / $6.72 | 国模分组 | 0.4 | MiniMax-M2.7-highspeed |
+| 33 | `api.mytokenland.com` | $2 / $10 | default | 1 | MiniMax-M2.7-highspeed |
+| 34 | `ent.mmkg.cloud` | $2.1 / $8.4 | MiniMax | 1 | minimax-m2.7-highspeed |
+| 35 | `openclawroot.com` | $2.33 / $10.22 | default | 1 | MiniMax-M2.7-highspeed |
+| 36 | `api.bestai.chat` | $2.52 / $10.08 | 国产模型（Anthropic协议） | 0.6 | MiniMax-M2.7-highspeed |
+| 37 | `api.lmuai.ai` | $3.15 / $12.6 | MiniMax(Anthropic协议) | 0.75 | MiniMax-M2.7-highspeed |
+| 38 | `api.apikl.ai` | $3.36 / $13.44 | MiniMax | 0.8 | MiniMax-M2.7-highspeed |
+| 39 | `apiai.fun` | $3.36 / $13.44 | MiniMax | 0.8 | MiniMax-M2.7-highspeed |
+| 40 | `fanapi.cbbmax.com` | $8.61 / $34.44 | 国模合集-自部署 | 2.05 | MiniMax-M2.7-highspeed |
 
 > 70 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

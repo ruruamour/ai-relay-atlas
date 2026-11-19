@@ -683,8 +683,11 @@ bobrouter.com,api.bobrouter.com,same-host,scan
 agent.boft.ai,api.boft.ai,mirror,scan
 api-agent.boft.ai,api.boft.ai,mirror,scan
 api-direct.boft.ai,api.boft.ai,mirror,veridrop
+api-jiejie1.boft.ai,api.boft.ai,mirror,scan
 boft.ai,api.boft.ai,same-host,scan
 direct-agent.boft.ai,api.boft.ai,mirror,scan
+direct-jiejie1.boft.ai,api.boft.ai,mirror,scan
+jiejie1.boft.ai,api.boft.ai,mirror,scan
 opptrix.boft.ai,api.boft.ai,mirror,scan
 supply.boft.ai,api.boft.ai,mirror,veridrop
 www.boft.ai,api.boft.ai,same-host,scan
@@ -1198,8 +1201,6 @@ api-direct.solov.cc,api.solov.cc,mirror,scan
 dl.solov.cc,api.solov.cc,mirror,scan
 xm-direct.solov.cc,api.solov.cc,mirror,scan
 xm.solov.cc,api.solov.cc,mirror,scan
-apis.sonetto.top,api.sonetto.top,mirror,scan
-vip.sonetto.top,api.sonetto.top,same-host,scan
 api1.squarefaceicon.org,api.squarefaceicon.org,mirror,scan
 ssstoken.net,api.ssstoken.net,same-host,scan
 www.ssstoken.net,api.ssstoken.net,same-host,scan
@@ -2455,8 +2456,6 @@ jeniya.top,jeniya.cn,mirror,veridrop
 www.jgy.ai,jgy.ai,same-host,scan
 game.jianzhile.vip,jianzhile.vip,mirror,scan
 www.jianzhile.vip,jianzhile.vip,same-host,scan
-api-jiejie1.boft.ai,jiejie1.boft.ai,mirror,scan
-direct-jiejie1.boft.ai,jiejie1.boft.ai,mirror,scan
 jikeai.router.nerver.cc,jikeai.nervers.com,merged,scan
 www.jinglin.cc,jinglin.cc,same-host,scan
 www.jingtool.xyz,jingtool.xyz,same-host,scan
@@ -3455,8 +3454,11 @@ admin.toapis.com,toapis.com,mirror,scan
 api.toapis.cn,toapis.com,mirror,scan
 toapis.cn,toapis.com,mirror,scan
 api.togoapi.com,togoapi.com,same-host,veridrop
+api.sonetto.top,tok.sonetto.top,mirror,scan
+apis.sonetto.top,tok.sonetto.top,mirror,scan
 new.sonetto.top,tok.sonetto.top,mirror,scan
 new2.sonetto.top,tok.sonetto.top,mirror,scan
+vip.sonetto.top,tok.sonetto.top,mirror,scan
 www.tokeasy.ai,tokeasy.ai,same-host,scan
 api.token-go.click,token-go.click,same-host,scan
 origin-token-go.token-go.click,token-go.click,mirror,scan

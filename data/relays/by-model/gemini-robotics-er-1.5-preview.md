@@ -1,6 +1,6 @@
 # gemini-robotics-er-1.5-preview
 
-> 45 站提供 · 正常价 30 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.841**/1M 输入（26 站公开充值价） · 推算，未对账
+> 46 站提供 · 正常价 31 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥2.04**/1M 输入（27 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,11 +31,12 @@
 | 19 | `gemini.ysaikeji.cn` | ¥2.19 | $0.3 / $2.5 | 7.3 | default | gemini-robotics-er-1.5-preview |
 | 20 | `kubernetes-test-api.apiqik.online` | ¥2.19 | $0.3 / $2.5 | 7.3 | default | gemini-robotics-er-1.5-preview |
 | 21 | `newapi.ailingnan.top` | ¥2.19 | $0.3 / $2.5 | 7.3 | default | gemini-robotics-er-1.5-preview |
-| 22 | `xytoken.top` | ¥2.19 | $0.3 / $2.5 | 7.3 | default | gemini-robotics-er-1.5-preview |
-| 23 | `ai.ydcloud.org` | ¥4.38 | $0.6 / $6 | 7.3 | aistudio | gemini-robotics-er-1.5-preview |
-| 24 | `us.pomoai.xyz` | ¥4.38 | $0.6 / $5 | 7.3 | gemini-官转-stable | gemini-robotics-er-1.5-preview |
-| 25 | `m78.newapi.botcf.com` | ¥4.77 | $0.6534 / $6.534 | 7.3 | 😡Gemini-Vertex | gemini-robotics-er-1.5-preview |
-| 26 | `api2.4xapi.com` | ¥8.76 | $1.2 / $12 | 7.3 | Gemini-官转 | gemini-robotics-er-1.5-preview |
+| 22 | `seedrouter.net` | ¥2.19 | $0.3 / $2.5 | 7.3 | default | gemini-robotics-er-1.5-preview |
+| 23 | `xytoken.top` | ¥2.19 | $0.3 / $2.5 | 7.3 | default | gemini-robotics-er-1.5-preview |
+| 24 | `ai.ydcloud.org` | ¥4.38 | $0.6 / $6 | 7.3 | aistudio | gemini-robotics-er-1.5-preview |
+| 25 | `us.pomoai.xyz` | ¥4.38 | $0.6 / $5 | 7.3 | gemini-官转-stable | gemini-robotics-er-1.5-preview |
+| 26 | `m78.newapi.botcf.com` | ¥4.77 | $0.6534 / $6.534 | 7.3 | 😡Gemini-Vertex | gemini-robotics-er-1.5-preview |
+| 27 | `api2.4xapi.com` | ¥8.76 | $1.2 / $12 | 7.3 | Gemini-官转 | gemini-robotics-er-1.5-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # qwen3.6-plus
 
-> 394 站提供 · 正常价 301 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥2.759**/1M 输入（226 站公开充值价） · 推算，未对账
+> 395 站提供 · 正常价 302 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥2.759**/1M 输入（226 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -74,50 +74,50 @@
 | 5 | `tken.lol` | $0.3445 / $2.067 | 官方全系稳定渠道 | 1.06 | qwen/qwen3.6-plus |
 | 6 | `sub.skypoem.top` | $0.36 / $2.16 | qwen-自部署 | 0.18 | qwen3.6-plus |
 | 7 | `mzeapi.top` | $0.4 / $2.4 | 国模-【QWEN】 | 0.2 | qwen3.6-plus |
-| 8 | `inferaichat.com` | $0.4388 / $2.633 | auto分组 | 1 | qwen3.6-plus |
-| 9 | `pro.fan142.top` | $0.5 / $3 | coding api | 1 | Qwen/Qwen3.6-Plus |
-| 10 | `api.kcne.top` | $0.7 / $4.2 | 国模组 | 1.4 | qwen3.6-plus |
-| 11 | `levelup.mom` | $0.7 / $4.2 | OpenCode Go满血号池 | 0.2 | qwen3.6-plus |
-| 12 | `goforai.top` | $0.8 / $4.8 | Kimi K3 | 0.4 | qwen3.6-plus |
-| 13 | `www.likeai520.cc` | $0.8 / $4.8 | 国模分组 | 0.4 | qwen3.6-plus |
-| 14 | `nodeai.cc` | $1 / $6 |  Qwen | 0.5 | Qwen3.6-Plus |
-| 15 | `xmapi.me` | $1.15 / $6.9 | ChatGPT / Gemini / Grok 等 · 按量 | 1.15 | qwen3.6-plus |
-| 16 | `api.bestai.chat` | $1.2 / $7.2 | 国产模型（Anthropic协议） | 0.6 | qwen3.6-plus |
-| 17 | `api.lmuai.ai` | $1.6 / $9.6 | 阿里Qwen(Anthropic协议) | 0.8 | qwen3.6-plus |
-| 18 | `happyapi.org` | $1.6 / $9.6 | default | 1 | qwen3.6-plus |
-| 19 | `aiapihub.cloud` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 20 | `aiyiwei.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 21 | `anyaigc.com` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 22 | `api-hub.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 23 | `api.aibh.site` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 24 | `api.aicso.top` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 25 | `api.antmoo.com` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 26 | `api.apiplus.org` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 27 | `api.bitidea.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 28 | `api.clai.click` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 29 | `api.cloudmist.cloud` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 30 | `api.gpt666claude.top` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 31 | `api.mumuverse.space` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 32 | `api.qingyuntop.top` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 33 | `api.token173.net` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 34 | `api.vectorengine.ai` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 35 | `api.winfull.cloud-ip.cc` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 36 | `api.wlai.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 37 | `api.xueai.me` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 38 | `api.zhiyikeji.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 39 | `api.zhongzhuan.chat` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 40 | `api.zhongzhuan.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 41 | `api123.eu.cc` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 42 | `apilink.shop` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 43 | `apixin.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 44 | `juapi.cc` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 45 | `juhe.34ku.com` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 46 | `lemonapi.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 47 | `linxingran.top` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 48 | `minitoken.top` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 49 | `new.xhuoai.com` | $2 / $12 | default | 1 | qwen3.6-plus |
-| 50 | `next.aigc2d.com` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 8 | `nuoapi.net` | $0.4 / $2.4 | 国模 (Chinese LLMs) | 0.2 | qwen3.6-plus |
+| 9 | `inferaichat.com` | $0.4388 / $2.633 | auto分组 | 1 | qwen3.6-plus |
+| 10 | `pro.fan142.top` | $0.5 / $3 | coding api | 1 | Qwen/Qwen3.6-Plus |
+| 11 | `api.kcne.top` | $0.7 / $4.2 | 国模组 | 1.4 | qwen3.6-plus |
+| 12 | `levelup.mom` | $0.7 / $4.2 | OpenCode Go满血号池 | 0.2 | qwen3.6-plus |
+| 13 | `goforai.top` | $0.8 / $4.8 | Kimi K3 | 0.4 | qwen3.6-plus |
+| 14 | `www.likeai520.cc` | $0.8 / $4.8 | 国模分组 | 0.4 | qwen3.6-plus |
+| 15 | `nodeai.cc` | $1 / $6 |  Qwen | 0.5 | Qwen3.6-Plus |
+| 16 | `xmapi.me` | $1.15 / $6.9 | ChatGPT / Gemini / Grok 等 · 按量 | 1.15 | qwen3.6-plus |
+| 17 | `api.bestai.chat` | $1.2 / $7.2 | 国产模型（Anthropic协议） | 0.6 | qwen3.6-plus |
+| 18 | `api.lmuai.ai` | $1.6 / $9.6 | 阿里Qwen(Anthropic协议) | 0.8 | qwen3.6-plus |
+| 19 | `happyapi.org` | $1.6 / $9.6 | default | 1 | qwen3.6-plus |
+| 20 | `aiapihub.cloud` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 21 | `aiyiwei.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 22 | `anyaigc.com` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 23 | `api-hub.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 24 | `api.aibh.site` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 25 | `api.aicso.top` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 26 | `api.antmoo.com` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 27 | `api.apiplus.org` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 28 | `api.bitidea.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 29 | `api.clai.click` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 30 | `api.cloudmist.cloud` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 31 | `api.gpt666claude.top` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 32 | `api.mumuverse.space` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 33 | `api.qingyuntop.top` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 34 | `api.token173.net` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 35 | `api.vectorengine.ai` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 36 | `api.winfull.cloud-ip.cc` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 37 | `api.wlai.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 38 | `api.xueai.me` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 39 | `api.zhiyikeji.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 40 | `api.zhongzhuan.chat` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 41 | `api.zhongzhuan.vip` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 42 | `api123.eu.cc` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 43 | `apilink.shop` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 44 | `apixin.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 45 | `juapi.cc` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 46 | `juhe.34ku.com` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 47 | `lemonapi.cn` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 48 | `linxingran.top` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 49 | `minitoken.top` | $2 / $12 | default | 1 | qwen3.6-plus |
+| 50 | `new.xhuoai.com` | $2 / $12 | default | 1 | qwen3.6-plus |
 
-> 另有 25 站未列出。
+> 另有 26 站未列出。
 
 > 93 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

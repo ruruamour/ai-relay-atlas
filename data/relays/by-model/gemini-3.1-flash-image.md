@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image
 
-> 826 站提供 · 正常价 446 站 · 名义中位价 **$0.127496**/次 · 实付中位价 **¥0.1663**/次（344 站公开充值价） · 推算，未对账
+> 828 站提供 · 正常价 447 站 · 名义中位价 **$0.1333**/次 · 实付中位价 **¥0.1663**/次（344 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -104,20 +104,20 @@
 | 35 | `mollycloud.cn` | $0.12 | gemini 生图组 | 1 | gemini-3.1-flash-image |
 | 36 | `code.aicodeme.cn` | $0.15 | 生图分组-香蕉生图 | 1 | gemini-3.1-flash-image |
 | 37 | `jizhiapi.site` | $0.15 | gemini 全模型线路 | 0.25 | gemini-3.1-flash-image |
-| 38 | `relaybases.com` | $0.15 | media | 1 | gemini-3.1-flash-image |
-| 39 | `api.bestai.chat` | $0.18 | Gemini | 0.6 | gemini-3.1-flash-image |
-| 40 | `128api.cn` | $0.2 | pro付费全模型 | 2 | gemini-3.1-flash-image |
-| 41 | `code.doone.fun` | $0.2 | 生图分组 | 1 | gemini-3.1-flash-image |
-| 42 | `uuapi.io` | $0.2 | Nano Banana香蕉生图 | 1 | gemini-3.1-flash-image |
-| 43 | `kittyapi.xyz` | $0.350002 | 算力AI【图片模型】 | 1 | 香蕉出图优质-gemini-3.1-flash-image |
-| 44 | `aiapihub.cloud` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
-| 45 | `aiyiwei.vip` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
-| 46 | `anyaigc.com` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
-| 47 | `api-hub.vip` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
-| 48 | `api.aibh.site` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
-| 49 | `api.aicso.top` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
-| 50 | `api.antmoo.com` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
+| 38 | `nuoapi.net` | $0.15 | image | 1 | gemini-3.1-flash-image |
+| 39 | `relaybases.com` | $0.15 | media | 1 | gemini-3.1-flash-image |
+| 40 | `api.bestai.chat` | $0.18 | Gemini | 0.6 | gemini-3.1-flash-image |
+| 41 | `128api.cn` | $0.2 | pro付费全模型 | 2 | gemini-3.1-flash-image |
+| 42 | `code.doone.fun` | $0.2 | 生图分组 | 1 | gemini-3.1-flash-image |
+| 43 | `uuapi.io` | $0.2 | Nano Banana香蕉生图 | 1 | gemini-3.1-flash-image |
+| 44 | `kittyapi.xyz` | $0.350002 | 算力AI【图片模型】 | 1 | 香蕉出图优质-gemini-3.1-flash-image |
+| 45 | `aiapihub.cloud` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
+| 46 | `aiyiwei.vip` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
+| 47 | `anyaigc.com` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
+| 48 | `api-hub.vip` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
+| 49 | `api.aibh.site` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
+| 50 | `api.aicso.top` | $0.3972 | 优质gemini | 2.4 | gemini-3.1-flash-image |
 
-> 另有 52 站未列出。
+> 另有 53 站未列出。
 
-> 380 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 381 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

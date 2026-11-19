@@ -1,6 +1,6 @@
 # gemini-3-pro-image-preview
 
-> 813 站提供 · 正常价 478 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.2689**/次（406 站公开充值价） · 推算，未对账
+> 815 站提供 · 正常价 479 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.2689**/次（406 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -105,19 +105,19 @@
 | 36 | `goforai.top` | $0.15 | Gemini 香蕉生图 | 1 | gemini-3-pro-image-preview |
 | 37 | `ican-gpt.com` | $0.15 | 【生图】Nano Banana -  4k | 1 | gemini-3-pro-image-preview |
 | 38 | `sub-lax.autorouter.io` | $0.16 | Gemini | 0.4 | gemini-3-pro-image-preview |
-| 39 | `ai.dyc.im` | $0.189 | Banana 生图 | 1.5 | gemini-3-pro-image-preview |
-| 40 | `ai.websee.top` | $0.189 | Banana 生图 | 1.5 | gemini-3-pro-image-preview |
-| 41 | `128api.cn` | $0.2 | pro付费全模型 | 2 | gemini-3-pro-image-preview |
-| 42 | `⚠️www.hejuapi.com` | $0.25 | Gemini | 0.25 | gemini-3-pro-image-preview |
-| 43 | `kittyapi.xyz` | $0.26 | 算力AI【图片模型】 | 1 | 香蕉出图特惠-gemini-3-pro-image-preview |
-| 44 | `uuapi.io` | $0.3 | Nano Banana香蕉生图 | 1 | gemini-3-pro-image-preview |
-| 45 | `api.apigiare.vn` | $0.33 | default | 1 | gemini-3-pro-image-preview |
-| 46 | `ai.xem8k5.top` | $0.3618 | gemini | 18 | gemini-3-pro-image-preview |
-| 47 | `meta-api.vip` | $0.4 | 生图和视频 | 0.05 | gemini-3-pro-image-preview |
-| 48 | `api.okinto.com` | $0.6 | 图像 | 1 | gemini-3-pro-image-preview |
-| 49 | `api.zhiyikeji.cn` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image-preview |
-| 50 | `s.qweapi.com` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image-preview |
+| 39 | `nuoapi.net` | $0.18 | image | 1 | gemini-3-pro-image-preview |
+| 40 | `ai.dyc.im` | $0.189 | Banana 生图 | 1.5 | gemini-3-pro-image-preview |
+| 41 | `ai.websee.top` | $0.189 | Banana 生图 | 1.5 | gemini-3-pro-image-preview |
+| 42 | `128api.cn` | $0.2 | pro付费全模型 | 2 | gemini-3-pro-image-preview |
+| 43 | `⚠️www.hejuapi.com` | $0.25 | Gemini | 0.25 | gemini-3-pro-image-preview |
+| 44 | `kittyapi.xyz` | $0.26 | 算力AI【图片模型】 | 1 | 香蕉出图特惠-gemini-3-pro-image-preview |
+| 45 | `uuapi.io` | $0.3 | Nano Banana香蕉生图 | 1 | gemini-3-pro-image-preview |
+| 46 | `api.apigiare.vn` | $0.33 | default | 1 | gemini-3-pro-image-preview |
+| 47 | `ai.xem8k5.top` | $0.3618 | gemini | 18 | gemini-3-pro-image-preview |
+| 48 | `meta-api.vip` | $0.4 | 生图和视频 | 0.05 | gemini-3-pro-image-preview |
+| 49 | `api.okinto.com` | $0.6 | 图像 | 1 | gemini-3-pro-image-preview |
+| 50 | `api.zhiyikeji.cn` | $0.792 | 优质gemini | 2.4 | gemini-3-pro-image-preview |
 
-> 另有 22 站未列出。
+> 另有 23 站未列出。
 
-> 335 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 336 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

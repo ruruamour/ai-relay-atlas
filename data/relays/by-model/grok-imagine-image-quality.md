@@ -1,6 +1,6 @@
 # grok-imagine-image-quality
 
-> 339 站提供 · 正常价 264 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.1**/次（227 站公开充值价） · 推算，未对账
+> 342 站提供 · 正常价 265 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.1**/次（227 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -78,31 +78,32 @@
 | 9 | `api.1route.dev` | $0.01 | GPT Image 🎨 | 1 | grok-imagine-image-quality |
 | 10 | `sub.skypoem.top` | $0.0104 | grok-heavy | 0.13 | grok-imagine-image-quality |
 | 11 | `luckyapi.online` | $0.012 | LuckyAPI | 0.8 | grok-imagine-image-quality |
-| 12 | `api.wopally.cn` | $0.0144 | grok 破甲 | 0.12 | grok-imagine-image-quality |
-| 13 | `pureai.ink` | $0.016 | A-Grok-Heavy | 0.2 | grok-imagine-image-quality |
-| 14 | `mfttai.com` | $0.0225 | Grok | 0.25 | grok-imagine-image-quality |
-| 15 | `momoai.asia` | $0.034 | SuperGrok余额分组 | 0.85 | grok-imagine-image-quality |
-| 16 | `api.tyasai.com` | $0.05 | Grok生图 | 1 | grok-imagine-image-quality |
-| 17 | `api.okinto.com` | $0.055 | 图像 | 1 | grok-imagine-image-quality |
-| 18 | `www.jiguang.me` | $0.07 | grok-image-video | 1 | grok-imagine-image-quality |
-| 19 | `api.ylai.xyz` | $0.08 | 图片模型 | 1 | grok-imagine-image-quality |
-| 20 | `emooo.cc` | $0.08 | 【图片模型】Grok Imagine | 1 | grok-imagine-image-quality |
-| 21 | `sub.vcnovb.cn` | $0.08 | Grok生图 | 1 | grok-imagine-image-quality |
-| 22 | `www.kk-vibe.top` | $0.08 | 无限画布 -- grok生图 | 1 | grok-imagine-image-quality |
-| 23 | `api.20020723.xyz` | $0.09 | Grok分组 | 0.15 | grok-imagine-image-quality |
-| 24 | `ai.xem8k5.top` | $0.1 | grok-image | 12.5 | grok-imagine-image-quality |
-| 25 | `99ai.club` | $0.16 | 图像与视频 | 1 | grok-imagine-image-quality |
-| 26 | `create.99ai.club` | $0.16 | 图像与视频 | 1 | grok-imagine-image-quality |
-| 27 | `abinapi.com` | $0.1625 | Grok纯血 | 0.13 | grok-imagine-image-quality |
-| 28 | `ican-gpt.com` | $0.18 | 【生图】Super Grok Heavy  | 1 | grok-imagine-image-quality |
-| 29 | `vip.zen-ai.top` | $0.21 | grok-build | 3 | grok-imagine-image-quality |
-| 30 | `aichronos.xyz` | $0.3 | grok | 0.2 | grok-imagine-image-quality |
-| 31 | `api.baosiai.com` | $0.7 | grok | 10 | grok-imagine-image-quality |
-| 32 | `baosiapi.com` | $0.7 | default | 10 | grok-imagine-image-quality |
-| 33 | `aiapihub.cc` | $0.75 | 图片 2分/张 | 1 | grok-imagine-image-quality |
-| 34 | `api.aixhub.vip` | $0.75 | 图片 2分/张 | 1 | grok-imagine-image-quality |
-| 35 | `www.mxou.ai` | $0.8 | plus分组-1x | 1 | grok-imagine-image-quality |
-| 36 | `rurout.online` | $2 | RuRout | 1 | grok-imagine-image-quality |
-| 37 | `ai.soulecho.cc` | $15.6652 | xAI Grok | 8 | grok-imagine-image-quality |
+| 12 | `nuoapi.net` | $0.0132 | Grok | 0.22 | grok-imagine-image-quality |
+| 13 | `api.wopally.cn` | $0.0144 | grok 破甲 | 0.12 | grok-imagine-image-quality |
+| 14 | `pureai.ink` | $0.016 | A-Grok-Heavy | 0.2 | grok-imagine-image-quality |
+| 15 | `mfttai.com` | $0.0225 | Grok | 0.25 | grok-imagine-image-quality |
+| 16 | `momoai.asia` | $0.034 | SuperGrok余额分组 | 0.85 | grok-imagine-image-quality |
+| 17 | `api.tyasai.com` | $0.05 | Grok生图 | 1 | grok-imagine-image-quality |
+| 18 | `api.okinto.com` | $0.055 | 图像 | 1 | grok-imagine-image-quality |
+| 19 | `www.jiguang.me` | $0.07 | grok-image-video | 1 | grok-imagine-image-quality |
+| 20 | `api.ylai.xyz` | $0.08 | 图片模型 | 1 | grok-imagine-image-quality |
+| 21 | `emooo.cc` | $0.08 | 【图片模型】Grok Imagine | 1 | grok-imagine-image-quality |
+| 22 | `sub.vcnovb.cn` | $0.08 | Grok生图 | 1 | grok-imagine-image-quality |
+| 23 | `www.kk-vibe.top` | $0.08 | 无限画布 -- grok生图 | 1 | grok-imagine-image-quality |
+| 24 | `api.20020723.xyz` | $0.09 | Grok分组 | 0.15 | grok-imagine-image-quality |
+| 25 | `ai.xem8k5.top` | $0.1 | grok-image | 12.5 | grok-imagine-image-quality |
+| 26 | `99ai.club` | $0.16 | 图像与视频 | 1 | grok-imagine-image-quality |
+| 27 | `create.99ai.club` | $0.16 | 图像与视频 | 1 | grok-imagine-image-quality |
+| 28 | `abinapi.com` | $0.1625 | Grok纯血 | 0.13 | grok-imagine-image-quality |
+| 29 | `ican-gpt.com` | $0.18 | 【生图】Super Grok Heavy  | 1 | grok-imagine-image-quality |
+| 30 | `vip.zen-ai.top` | $0.21 | grok-build | 3 | grok-imagine-image-quality |
+| 31 | `aichronos.xyz` | $0.3 | grok | 0.2 | grok-imagine-image-quality |
+| 32 | `api.baosiai.com` | $0.7 | grok | 10 | grok-imagine-image-quality |
+| 33 | `baosiapi.com` | $0.7 | default | 10 | grok-imagine-image-quality |
+| 34 | `aiapihub.cc` | $0.75 | 图片 2分/张 | 1 | grok-imagine-image-quality |
+| 35 | `api.aixhub.vip` | $0.75 | 图片 2分/张 | 1 | grok-imagine-image-quality |
+| 36 | `www.mxou.ai` | $0.8 | plus分组-1x | 1 | grok-imagine-image-quality |
+| 37 | `rurout.online` | $2 | RuRout | 1 | grok-imagine-image-quality |
+| 38 | `ai.soulecho.cc` | $15.6652 | xAI Grok | 8 | grok-imagine-image-quality |
 
-> 75 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 77 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

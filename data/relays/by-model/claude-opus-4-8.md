@@ -1,6 +1,6 @@
 # claude-opus-4-8
 
-> 2087 站提供 · 正常价 1692 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5**/1M 输入（1272 站公开充值价） · 推算，未对账
+> 2093 站提供 · 正常价 1698 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5**/1M 输入（1276 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `tk.8t.chat` | ¥0.45 | $0.45 / $2.25 | 1 | claude-kiro | claude-opus-4-8 |
 | 50 | `www.dxlingxiapi.top` | ¥0.45 | $0.45 / $2.25 | 1 | Claude kiro | claude-opus-4-8 |
 
-> 另有 1222 站未列出。
+> 另有 1226 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -102,22 +102,22 @@
 | 33 | `ahao.online` | $0.5 / $2.5 | Claude-kiro | 0.1 | claude-opus-4-8 |
 | 34 | `ai.aicca.cc` | $0.5 / $2.5 | claude-kiro-补助 | 0.1 | claude-opus-4-8 |
 | 35 | `aigw.store` | $0.5 / $2.5 | Claude Kiro | 0.1 | claude-opus-4-8 |
-| 36 | `api.bobrouter.com` | $0.5 / $2.5 | Anthropic Kiro | 0.1 | claude-opus-4-8 |
-| 37 | `api.kcne.top` | $0.5 / $2.5 | Claude-Kiro | 0.1 | claude-opus-4-8 |
-| 38 | `api.tmiaow.cn` | $0.5 / $2.5 | ClaudeCode【高并发-临时分组】 | 0.1 | claude-opus-4-8 |
-| 39 | `api.tokenfree.chat` | $0.5 / $2.5 | KIRO 高缓 | 0.1 | claude-opus-4-8 |
-| 40 | `emooo.cc` | $0.5 / $2.5 | 【Claude】Kiro高智无缓 | 0.1 | claude-opus-4-8 |
-| 41 | `hetune.top` | $0.5 / $2.5 | Krio稳定 | 0.1 | claude-opus-4-8 |
-| 42 | `jinglin.cc` | $0.5 / $2.5 | cc kiro 90缓 | 0.1 | claude-opus-4-8 |
-| 43 | `llm-coding.space` | $0.5 / $2.5 | kiro | 0.1 | claude-opus-4-8 |
-| 44 | `pureai.ink` | $0.5 / $2.5 | B-Kiro-Cache 90+ | 0.1 | claude-opus-4-8 |
-| 45 | `sub.sixoner.com` | $0.5 / $2.5 | kiro 高缓 | 0.1 | claude-opus-4-8 |
-| 46 | `sub.skypoem.top` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
-| 47 | `sub2api.luchikey.com` | $0.5 / $2.5 | kiro反代普通 | 0.1 | claude-opus-4-8 |
-| 48 | `www.deponia.me` | $0.5 / $2.5 | Kiro90缓  | 0.1 | claude-opus-4-8 |
-| 49 | `www.largechestnut.com` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
-| 50 | `www.nmoon.cc` | $0.5 / $2.5 | kiro 华强北定制版 | 0.1 | claude-opus-4-8 |
+| 36 | `aodo.ai` | $0.5 / $2.5 | Claude Kiro | 0.1 | claude-opus-4-8 |
+| 37 | `api.bobrouter.com` | $0.5 / $2.5 | Anthropic Kiro | 0.1 | claude-opus-4-8 |
+| 38 | `api.kcne.top` | $0.5 / $2.5 | Claude-Kiro | 0.1 | claude-opus-4-8 |
+| 39 | `api.tmiaow.cn` | $0.5 / $2.5 | ClaudeCode【高并发-临时分组】 | 0.1 | claude-opus-4-8 |
+| 40 | `api.tokenfree.chat` | $0.5 / $2.5 | KIRO 高缓 | 0.1 | claude-opus-4-8 |
+| 41 | `emooo.cc` | $0.5 / $2.5 | 【Claude】Kiro高智无缓 | 0.1 | claude-opus-4-8 |
+| 42 | `hetune.top` | $0.5 / $2.5 | Krio稳定 | 0.1 | claude-opus-4-8 |
+| 43 | `jinglin.cc` | $0.5 / $2.5 | cc kiro 90缓 | 0.1 | claude-opus-4-8 |
+| 44 | `llm-coding.space` | $0.5 / $2.5 | kiro | 0.1 | claude-opus-4-8 |
+| 45 | `pureai.ink` | $0.5 / $2.5 | B-Kiro-Cache 90+ | 0.1 | claude-opus-4-8 |
+| 46 | `sub.sixoner.com` | $0.5 / $2.5 | kiro 高缓 | 0.1 | claude-opus-4-8 |
+| 47 | `sub.skypoem.top` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
+| 48 | `sub2api.luchikey.com` | $0.5 / $2.5 | kiro反代普通 | 0.1 | claude-opus-4-8 |
+| 49 | `www.deponia.me` | $0.5 / $2.5 | Kiro90缓  | 0.1 | claude-opus-4-8 |
+| 50 | `www.largechestnut.com` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
 
-> 另有 370 站未列出。
+> 另有 372 站未列出。
 
 > 395 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -22,6 +22,7 @@
 | `crtsh-domains.json` | crt.sh 证书透明日志 | 3,527 | 被动 SAN/根域候选，不等于在售站 |
 | `certspotter-domains.json` | Certspotter 备用 CT | 100 | 免费接口的批次结果 |
 | `prefix-expansion-candidates.txt` | 新增站点前缀/后缀扩展 | 8,894 | 定向组合，不是全网扫描 |
+| `contact-harvest.jsonl` | 联系人/邮件清单（收件人地址） | 130 | 只保留域名和 role/personal 分类，不存邮箱地址；49 个此前完全未收录，17 个是同品牌换后缀；128/130 可达 |
 | `candidate-index.jsonl` | 多路候选统一索引 | 28,644 | 一行一域名，汇总来源、探活、接口和卡网候选状态 |
 
 ## 验证证据
@@ -31,6 +32,7 @@
 - `*-scan.json`：只访问已公开的状态/价格/模型目录接口，不调用推理接口。`directory-scan.json` 是公开目录新候选的接口验证结果，208 个 2xx/3xx 中命中 114 个。
 - `unified-candidate-probe.jsonl` / `unified-candidate-scan.json`：最后一批补验证的 19 个未覆盖域名，19/19 返回 HTTP 200，17 个命中公开接口。
 - `veridrop-scan.json`：上述 Veridrop 补验证中 1,053 个 2xx/3xx 域名的公开接口结果，命中 584 个。
+- `contact-harvest.jsonl` / `contact-probe.jsonl` / `contact-scan.json`：从一份群发邮件的收件人清单提取的 130 个域名线索；与主表交叉后 44 个已收录（含换后缀/镜像）、17 个与已收录站同品牌不同后缀、20 个候选索引已有、49 个全新。全清单探活 128/130 可达（102 个 2xx/3xx，其余多为 5xx 而非域名失效），剔除已收录后 90 个未收录域名无一不可达；公开接口命中 22 个，合并后新增 14 站、刷新 10 站报价。清单是他人维护的行业联系人表，可达率接近 100% 说明经过整理，取值高于证书日志的随机候选；免费邮箱 local part 里的两条域名线索（`vipapi.online`、`ttchi.online`）也都对应已收录站，说明 local part 是有效线索。
 - `shop-fingerprint-candidates.jsonl`：首页卡网/系统指纹候选，**不是已确认商品店**；审核清单为 `data/shops/candidates.csv`。
 - `shop-browser-review.jsonl`：4 个高置信候选的浏览器渲染摘要；3 个首页显示商品/卡密相关内容，1 个访问受限。只保存标题、长度和布尔标记，不保存正文。
 - `candidate-index.jsonl`：把上述来源、探活、接口命中、主表状态和卡网指纹整理成一行一域名的复查索引；不替代主表。

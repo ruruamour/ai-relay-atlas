@@ -1,6 +1,6 @@
 # gpt-5.3-codex
 
-> 556 站提供 · 正常价 400 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥7**/1M 输入（342 站公开充值价） · 推算，未对账
+> 557 站提供 · 正常价 400 站 · 名义中位价 **$1.75**/1M 输入 · 实付中位价 **¥7**/1M 输入（343 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -61,7 +61,7 @@
 | 49 | `yutoapi.com` | ¥1.408 | $1.408 / $11.264 | 1 | default | gpt-5.3-codex |
 | 50 | `kaiycb.com` | ¥1.533 | $0.21 / $1.68 | 7.3 | gpt低价分组 | gpt-5.3-codex |
 
-> 另有 292 站未列出。
+> 另有 293 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -87,37 +87,37 @@
 | 18 | `sub.sixoner.com` | $0.4375 / $3.5 | ChatGPT-Pro 企业 | 0.25 | gpt-5.3-codex |
 | 19 | `api.xiaojue.cloud` | $0.49 / $3.92 | gpt纯官key禁止破限蒸馏 | 0.28 | gpt-5.3-codex |
 | 20 | `fugui.im` | $0.49 / $3.92 | 【土豆】GPT-PRO-企业组 | 0.28 | gpt-5.3-codex |
-| 21 | `api.coderplan.ai` | $0.6125 / $4.9 | codex | 0.35 | gpt-5.3-codex |
-| 22 | `api.jiangxinmao.com` | $0.6125 / $4.9 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-5.3-codex |
-| 23 | `api.tameac.com` | $0.6125 / $4.9 | ChatGPT 官key不 降智分组(0.35倍率) | 0.35 | gpt-5.3-codex |
-| 24 | `dmit.yyrouter.cc` | $0.6125 / $4.9 | OpenAI-Pro稳定版 | 0.35 | gpt-5.3-codex |
-| 25 | `ai.lazymo.qzz.io` | $0.7 / $5.6 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-5.3-codex |
-| 26 | `aichronos.xyz` | $0.7525 / $6.02 | GPT | 0.43 | gpt-5.3-codex |
-| 27 | `supersubscribe689.com` | $0.875 / $7 | chatgpt美区版 | 0.5 | gpt-5.3-codex |
-| 28 | `www.alaiapi.top` | $0.875 / $7 | GLM全能按量组 | 0.5 | gpt-5.3-codex |
-| 29 | `api.hy88.my` | $1.05 / $8.4 | gpt_high | 0.6 | gpt-5.3-codex |
-| 30 | `api.77port.com` | $1.225 / $9.8 | OpenAI | 0.7 | gpt-5.3-codex |
-| 31 | `api.zhiyikeji.cn` | $1.4 / $11.2 | Codex专属 | 0.8 | gpt-5.3-codex |
-| 32 | `momoai.asia` | $1.4 / $11.2 | codex余额分组 | 0.8 | gpt-5.3-codex |
-| 33 | `api.feifeimiao.top` | $1.75 / $14 | 生图 | 1 | gpt-5.3-codex |
-| 34 | `api.yescale.io` | $1.75 / $14 | openai | 1 | gpt-5.3-codex |
-| 35 | `inferaichat.com` | $1.75 / $14 | auto分组 | 1 | gpt-5.3-codex |
-| 36 | `lobe.zen-ai.top` | $1.75 / $14 | momo | 1 | gpt-5.3-codex |
-| 37 | `8888.name` | $2.625 / $21 | GPT—Az渠道 | 1.5 | gpt-5.3-codex |
-| 38 | `subkkai.com` | $2.625 / $21 | GPT官key分组 | 1.5 | gpt-5.3-codex |
-| 39 | `api.zhimigy.cn` | $2.8 / $22.4 | pro | 1.6 | gpt-5.3-codex |
-| 40 | `cccode.pro` | $2.975 / $23.8 | azgpt | 1.7 | gpt-5.3-codex |
-| 41 | `codexauv.com` | $3.5 / $28 | GPT-Azure | 2 | gpt-5.3-codex |
-| 42 | `relaybases.com` | $3.5 / $28 | azure-gpt | 2 | gpt-5.3-codex |
-| 43 | `api.akko.space` | $4.375 / $35 | Codex Azure | 2.5 | gpt-5.3-codex |
-| 44 | `api.getezclaw.com` | $4.375 / $34.9876 | chatgpt | 2.5 | gpt-5.3-codex |
-| 45 | `api.aabao.ai` | $5.25 / $31.5 | Azure-2 | 3 | gpt-5.3-codex |
-| 46 | `big-model.smart-agi.com` | $5.25 / $42 | GPT Pro 分组【企业】 | 3 | gpt-5.3-codex |
-| 47 | `vip.zen-ai.top` | $5.25 / $42 | default | 3 | gpt-5.3-codex |
-| 48 | `api.hyhawang.com` | $5.6 / $44.8 | GPT offical | 3.2 | gpt-5.3-codex |
-| 49 | `www.qianweikeji.fun` | $5.6 / $44.8 | GPT offical | 3.2 | gpt-5.3-codex |
-| 50 | `ciyuan.fast` | $7 / $56 | AZ官key-全模型 | 4 | gpt-5.3-codex |
+| 21 | `api.jiangxinmao.com` | $0.6125 / $4.9 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-5.3-codex |
+| 22 | `api.tameac.com` | $0.6125 / $4.9 | ChatGPT 官key不 降智分组(0.35倍率) | 0.35 | gpt-5.3-codex |
+| 23 | `dmit.yyrouter.cc` | $0.6125 / $4.9 | OpenAI-Pro稳定版 | 0.35 | gpt-5.3-codex |
+| 24 | `ai.lazymo.qzz.io` | $0.7 / $5.6 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-5.3-codex |
+| 25 | `aichronos.xyz` | $0.7525 / $6.02 | GPT | 0.43 | gpt-5.3-codex |
+| 26 | `supersubscribe689.com` | $0.875 / $7 | chatgpt美区版 | 0.5 | gpt-5.3-codex |
+| 27 | `www.alaiapi.top` | $0.875 / $7 | GLM全能按量组 | 0.5 | gpt-5.3-codex |
+| 28 | `api.hy88.my` | $1.05 / $8.4 | gpt_high | 0.6 | gpt-5.3-codex |
+| 29 | `api.77port.com` | $1.225 / $9.8 | OpenAI | 0.7 | gpt-5.3-codex |
+| 30 | `api.zhiyikeji.cn` | $1.4 / $11.2 | Codex专属 | 0.8 | gpt-5.3-codex |
+| 31 | `momoai.asia` | $1.4 / $11.2 | codex余额分组 | 0.8 | gpt-5.3-codex |
+| 32 | `api.feifeimiao.top` | $1.75 / $14 | 生图 | 1 | gpt-5.3-codex |
+| 33 | `api.yescale.io` | $1.75 / $14 | openai | 1 | gpt-5.3-codex |
+| 34 | `inferaichat.com` | $1.75 / $14 | auto分组 | 1 | gpt-5.3-codex |
+| 35 | `lobe.zen-ai.top` | $1.75 / $14 | momo | 1 | gpt-5.3-codex |
+| 36 | `8888.name` | $2.625 / $21 | GPT—Az渠道 | 1.5 | gpt-5.3-codex |
+| 37 | `subkkai.com` | $2.625 / $21 | GPT官key分组 | 1.5 | gpt-5.3-codex |
+| 38 | `api.zhimigy.cn` | $2.8 / $22.4 | pro | 1.6 | gpt-5.3-codex |
+| 39 | `cccode.pro` | $2.975 / $23.8 | azgpt | 1.7 | gpt-5.3-codex |
+| 40 | `codexauv.com` | $3.5 / $28 | GPT-Azure | 2 | gpt-5.3-codex |
+| 41 | `relaybases.com` | $3.5 / $28 | azure-gpt | 2 | gpt-5.3-codex |
+| 42 | `api.akko.space` | $4.375 / $35 | Codex Azure | 2.5 | gpt-5.3-codex |
+| 43 | `api.getezclaw.com` | $4.375 / $34.9876 | chatgpt | 2.5 | gpt-5.3-codex |
+| 44 | `api.aabao.ai` | $5.25 / $31.5 | Azure-2 | 3 | gpt-5.3-codex |
+| 45 | `big-model.smart-agi.com` | $5.25 / $42 | GPT Pro 分组【企业】 | 3 | gpt-5.3-codex |
+| 46 | `vip.zen-ai.top` | $5.25 / $42 | default | 3 | gpt-5.3-codex |
+| 47 | `api.hyhawang.com` | $5.6 / $44.8 | GPT offical | 3.2 | gpt-5.3-codex |
+| 48 | `www.qianweikeji.fun` | $5.6 / $44.8 | GPT offical | 3.2 | gpt-5.3-codex |
+| 49 | `ciyuan.fast` | $7 / $56 | AZ官key-全模型 | 4 | gpt-5.3-codex |
+| 50 | `xmapi.me` | $10.0625 / $80.5 | ChatGPT / Gemini / Grok 等 · 按量 | 1.15 | gpt-5.3-codex |
 
-> 另有 8 站未列出。
+> 另有 7 站未列出。
 
-> 156 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 157 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

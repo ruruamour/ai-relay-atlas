@@ -1,6 +1,6 @@
 # gpt-5.4-nano
 
-> 424 站提供 · 正常价 362 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.4**/1M 输入（270 站公开充值价） · 推算，未对账
+> 424 站提供 · 正常价 361 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.4**/1M 输入（270 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -80,44 +80,44 @@
 | 11 | `sub.sixoner.com` | $0.05 / $0.3125 | ChatGPT-Pro 企业 | 0.25 | gpt-5.4-nano |
 | 12 | `api.xiaojue.cloud` | $0.056 / $0.35 | gpt纯官key禁止破限蒸馏 | 0.28 | gpt-5.4-nano |
 | 13 | `fugui.im` | $0.056 / $0.35 | 【土豆】GPT-PRO-企业组 | 0.28 | gpt-5.4-nano |
-| 14 | `api.coderplan.ai` | $0.07 / $0.4375 | codex | 0.35 | gpt-5.4-nano |
-| 15 | `api.jiangxinmao.com` | $0.07 / $0.4375 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-5.4-nano |
-| 16 | `dmit.yyrouter.cc` | $0.07 / $0.4375 | OpenAI-Pro稳定版 | 0.35 | gpt-5.4-nano |
-| 17 | `ai.lazymo.qzz.io` | $0.08 / $0.5 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-5.4-nano |
-| 18 | `supersubscribe689.com` | $0.1 / $0.625 | chatgpt美区版 | 0.5 | gpt-5.4-nano |
-| 19 | `api.hy88.my` | $0.12 / $0.75 | gpt_high | 0.6 | gpt-5.4-nano |
-| 20 | `momoai.asia` | $0.16 / $1 | codex余额分组 | 0.8 | gpt-5.4-nano |
-| 21 | `aiapihub.cloud` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 22 | `aiyiwei.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 23 | `anyaigc.com` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 24 | `api-hub.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 25 | `api.aibh.site` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 26 | `api.aicso.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 27 | `api.antmoo.com` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 28 | `api.apiplus.org` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 29 | `api.bitidea.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 30 | `api.clai.click` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 31 | `api.cloudmist.cloud` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 32 | `api.gpt666claude.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 33 | `api.mumuverse.space` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 34 | `api.qingyuntop.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 35 | `api.token173.net` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 36 | `api.vectorengine.ai` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 37 | `api.winfull.cloud-ip.cc` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 38 | `api.wlai.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 39 | `api.xueai.me` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 40 | `api.yescale.io` | $0.2 / $1.6 | starter | 1 | gpt-5.4-nano |
-| 41 | `api.zhiyikeji.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano |
-| 42 | `api.zhongzhuan.chat` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 43 | `api.zhongzhuan.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 44 | `api123.eu.cc` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 45 | `apilink.shop` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 46 | `apixin.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 47 | `inferaichat.com` | $0.2 / $1.25 | auto分组 | 1 | gpt-5.4-nano |
-| 48 | `juapi.cc` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 49 | `juhe.34ku.com` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
-| 50 | `lemonapi.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 14 | `api.jiangxinmao.com` | $0.07 / $0.4375 | 稳定 企业级 GPT Pro号池 智能调度----推理极强！ | 0.35 | gpt-5.4-nano |
+| 15 | `dmit.yyrouter.cc` | $0.07 / $0.4375 | OpenAI-Pro稳定版 | 0.35 | gpt-5.4-nano |
+| 16 | `ai.lazymo.qzz.io` | $0.08 / $0.5 | 【GPT 官key】Azure官key-禁破限、违规，发现封停且不退款 | 0.4 | gpt-5.4-nano |
+| 17 | `supersubscribe689.com` | $0.1 / $0.625 | chatgpt美区版 | 0.5 | gpt-5.4-nano |
+| 18 | `api.hy88.my` | $0.12 / $0.75 | gpt_high | 0.6 | gpt-5.4-nano |
+| 19 | `momoai.asia` | $0.16 / $1 | codex余额分组 | 0.8 | gpt-5.4-nano |
+| 20 | `aiapihub.cloud` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 21 | `aiyiwei.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 22 | `anyaigc.com` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 23 | `api-hub.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 24 | `api.aibh.site` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 25 | `api.aicso.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 26 | `api.antmoo.com` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 27 | `api.apiplus.org` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 28 | `api.bitidea.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 29 | `api.clai.click` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 30 | `api.cloudmist.cloud` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 31 | `api.gpt666claude.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 32 | `api.mumuverse.space` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 33 | `api.qingyuntop.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 34 | `api.token173.net` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 35 | `api.vectorengine.ai` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 36 | `api.winfull.cloud-ip.cc` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 37 | `api.wlai.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 38 | `api.xueai.me` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 39 | `api.yescale.io` | $0.2 / $1.6 | starter | 1 | gpt-5.4-nano |
+| 40 | `api.zhiyikeji.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano |
+| 41 | `api.zhongzhuan.chat` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 42 | `api.zhongzhuan.vip` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 43 | `api123.eu.cc` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 44 | `apilink.shop` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 45 | `apixin.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 46 | `inferaichat.com` | $0.2 / $1.25 | auto分组 | 1 | gpt-5.4-nano |
+| 47 | `juapi.cc` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 48 | `juhe.34ku.com` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 49 | `lemonapi.cn` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
+| 50 | `linxingran.top` | $0.2 / $1.25 | default | 1 | gpt-5.4-nano-2026-03-17 |
 
-> 另有 42 站未列出。
+> 另有 41 站未列出。
 
-> 62 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 63 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
