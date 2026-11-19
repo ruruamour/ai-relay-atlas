@@ -35,6 +35,7 @@
 - `contact-harvest.jsonl` / `contact-probe.jsonl` / `contact-scan.json`：从一份群发邮件的收件人清单提取的 130 个域名线索；与主表交叉后 44 个已收录（含换后缀/镜像）、17 个与已收录站同品牌不同后缀、20 个候选索引已有、49 个全新。全清单探活 128/130 可达（102 个 2xx/3xx，其余多为 5xx 而非域名失效），剔除已收录后 90 个未收录域名无一不可达；公开接口命中 22 个，合并后新增 14 站、刷新 10 站报价。清单是他人维护的行业联系人表，可达率接近 100% 说明经过整理，取值高于证书日志的随机候选；免费邮箱 local part 里的两条域名线索（`vipapi.online`、`ttchi.online`）也都对应已收录站，说明 local part 是有效线索。
 - `contact-hard-scan.json`：对同一清单里首页返回 403/404/502/5xx 的 26 个主机也扫了公开接口（首页非 2xx 不等于不能查价），只有 `crowllm.com` 命中（403 首页、166 个模型）。该站已在主表，按快照整体刷新后报价行 267153 → 267079：站点删掉了 104 个免费/自定义模型、新增 30 个（`pricing_version` 从旧值变为 `a42d372c…`，`agnes-*`、`MiniCPM*` 已从目录消失，属真实下架而非解析失败）。结论：新候选不要只把 2xx/3xx 清单丢给 `scan.py`，403 首页也会藏着在售站。
 - `contact-brandscan.json`：对 20 个"与已收录站同品牌、不同后缀"的域名单独扫了一轮，只有 2 个有响应：`toknex.me`（Sub2API 模型广场 30 个模型，并入 `toknex.ai`，报价行 267079 → 267109）和 `nuoapi.com`（`registration_enabled` 与 `model_plaza_enabled` 都是 false，属于同品牌的非公开实例，按 merge 的规则不收录；公开的那个是 `nuoapi.net`）。其余 18 个换后缀域名虽然有首页或邮箱线索，但没有任何公开状态/价格接口，仍留在候选索引。
+- 同一批文档里像卡网的 12 个域名（`wokushop.com`、`fuka.win`、`minecrash.top`、`wookit.cn`、`xiass.com`、`pulseneko.com` 等）过了 `shop_fingerprint.py`，12/12 无卡网系统指纹、无卡密/发货关键词：这份清单是中转站与相邻业务（VPS、代充值、域名待售）的厂商名录，不是发卡站目录，因此没有进 `data/shops/candidates.csv`。
 - `shop-fingerprint-candidates.jsonl`：首页卡网/系统指纹候选，**不是已确认商品店**；审核清单为 `data/shops/candidates.csv`。
 - `shop-browser-review.jsonl`：4 个高置信候选的浏览器渲染摘要；3 个首页显示商品/卡密相关内容，1 个访问受限。只保存标题、长度和布尔标记，不保存正文。
 - `candidate-index.jsonl`：把上述来源、探活、接口命中、主表状态和卡网指纹整理成一行一域名的复查索引；不替代主表。
