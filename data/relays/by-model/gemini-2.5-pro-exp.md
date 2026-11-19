@@ -17,9 +17,9 @@
 | 5 | `cf-api.o1key.com` | ¥1.25 | $1.25 / - | 1 | - | gemini-2.5-pro-exp-03-25 |
 | 6 | `dn.v1api.cc` | ¥1.25 | $1.25 / $10 | 1 | default | gemini-2.5-pro-exp-03-25 |
 | 7 | `fluxlane.cn` | ¥1.25 | $1.25 / - | 1 | - | gemini-2.5-pro-exp-03-25 |
-| 8 | `i-sh.v1api.cc` | ¥1.25 | $1.25 / $10 | 1 | default | gemini-2.5-pro-exp-03-25 |
+| 8 | `i-sh.v1api.cc` | ¥1.25 | $1.25 / $10 | 1 | G25专23 | gemini-2.5-pro-exp-03-25 |
 | 9 | `i.v1api.cc` | ¥1.25 | $1.25 / $10 | 1 | default | gemini-2.5-pro-exp-03-25 |
-| 10 | `new.gateway.icu` | ¥1.25 | $1.25 / $5 | 1 | default | gemini-2.5-pro-exp-03-25 |
+| 10 | `new.gateway.icu` | ¥1.25 | $1.25 / $5 | 1 | reverse | gemini-2.5-pro-exp-03-25 |
 | 11 | `yun.v1api.cc` | ¥1.875 | $1.25 / $10 | 1.5 | default | gemini-2.5-pro-exp-03-25 |
 | 12 | `api.annyun.cn` | ¥2 | $2 / $16 | 1 | default | gemini-2.5-pro-exp-03-25 |
 | 13 | `xiaoma.best` | ¥2 | $2 / $12 | 1 | gemini | gemini-2.5-pro-exp-03-25 |

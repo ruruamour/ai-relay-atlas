@@ -1,6 +1,6 @@
 # sparkdesk-v1.1
 
-> 130 站提供 · 正常价 122 站 · 名义中位价 **$7.11964**/1M 输入 · 实付中位价 **¥27.17**/1M 输入（70 站公开充值价） · 推算，未对账
+> 85 站提供 · 正常价 77 站 · 名义中位价 **$20**/1M 输入 · 实付中位价 **¥23.81**/1M 输入（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,48 +20,21 @@
 | 8 | `keypool.space` | ¥20 | $20 / $20 | 1 | default | SparkDesk-v1.1 |
 | 9 | `new.foxi-api.cn` | ¥20 | $20 / $20 | 1 | default | SparkDesk-v1.1 |
 | 10 | `xinsuanai.com` | ¥20 | $20 / $20 | 1 | default | SparkDesk-v1.1 |
-| 11 | `api.openlux.ai` | ¥21.65 | $3.2362 / $3.2362 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 12 | `api.relayrouter.ai` | ¥21.65 | $3.2362 / $3.2362 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 13 | `openlux.zhongzhuan.chat` | ¥21.65 | $3.2362 / $3.2362 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 14 | `4zapi.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 15 | `ai.kalehui.cn` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 16 | `aiopus.top` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 17 | `aipipe.site` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 18 | `api.anthropicricardo.club` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 19 | `api.modelyard.cc` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 20 | `api.tidewhisper-ai.xyz` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 21 | `apistudio.vip` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 22 | `dawnnode.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 23 | `gzxbykj.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 24 | `tiantoken.cn` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 25 | `token.kkdmx.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 26 | `vortexapi.cn` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 27 | `www.vectronode.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 28 | `www.xiaoruiera.top` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 29 | `yunwu.org` | ¥24.25 | $3.62454 / $3.62454 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 30 | `api.antmoo.cc` | ¥24.9 | $3.72163 / $3.72163 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 31 | `v2.cloudmist.cloud` | ¥24.9 | $3.72163 / $3.72163 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 32 | `apiclaw.cn` | ¥26.19 | $3.9158 / $3.9158 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 33 | `ciyuan.today` | ¥27.06 | $4.04525 / $4.04525 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 34 | `gptapi.top` | ¥27.06 | $4.04525 / $4.04525 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 35 | `makerend.com` | ¥27.06 | $4.04525 / $4.04525 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 36 | `moliapi.com` | ¥27.28 | $4.07761 / $4.07761 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 37 | `ai-api.cc` | ¥28.14 | $4.20706 / $4.20706 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 38 | `infai.cc` | ¥28.14 | $4.20706 / $4.20706 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 39 | `sucloud.vip` | ¥28.14 | $4.20706 / $4.20706 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 40 | `newapi.xueai.me` | ¥28.58 | $4.27178 / $4.27178 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 41 | `nodapi.com` | ¥28.58 | $4.27178 / $4.27178 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 42 | `anyaigc.ai` | ¥29.22 | $4.36887 / $4.36887 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 43 | `fluxapi.top` | ¥30.31 | $4.53068 / $4.53068 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 44 | `sheepaiplus.top` | ¥30.31 | $4.53068 / $4.53068 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 45 | `xiguapi.icu` | ¥30.31 | $4.53068 / $4.53068 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 46 | `api.88api.chat` | ¥32.47 | $4.8543 / $4.8543 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 47 | `lanbuff.app` | ¥32.47 | $4.8543 / $4.8543 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 48 | `new.aigc2d.com` | ¥32.47 | $4.8543 / $4.8543 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 49 | `open.clai.click` | ¥32.47 | $4.8543 / $4.8543 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-| 50 | `oyy-ai.xyz` | ¥32.47 | $4.8543 / $4.8543 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
-
-> 另有 20 站未列出。
+| 11 | `dawnnode.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68752 | Spark-1 | SparkDesk-v1.1 |
+| 12 | `ai.kalehui.cn` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 13 | `gzxbykj.com` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 14 | `vortexapi.cn` | ¥23.81 | $3.55982 / $3.55982 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 15 | `api.antmoo.cc` | ¥24.89 | $3.72163 / $3.72163 | 6.68752 | Spark-1 | SparkDesk-v1.1 |
+| 16 | `makerend.com` | ¥27.05 | $4.04525 / $4.04525 | 6.68752 | Spark-1 | SparkDesk-v1.1 |
+| 17 | `gptapi.top` | ¥27.06 | $4.04525 / $4.04525 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 18 | `nodapi.com` | ¥28.58 | $4.27178 / $4.27178 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 19 | `fluxapi.top` | ¥30.31 | $4.53068 / $4.53068 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 20 | `new.aigc2d.com` | ¥32.46 | $4.8543 / $4.8543 | 6.68752 | Spark-1 | SparkDesk-v1.1 |
+| 21 | `oyy-ai.xyz` | ¥32.47 | $4.8543 / $4.8543 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 22 | `api.n1n.ai` | ¥43.28 | $6.4724 / $6.4724 | 6.68752 | Spark-1 | SparkDesk-v1.1 |
+| 23 | `token173.net` | ¥43.3 | $6.4724 / $6.4724 | 6.68934 | Spark-1 | SparkDesk-v1.1 |
+| 24 | `nbapi.net` | ¥146 | $20 / $20 | 7.3 | default | SparkDesk-v1.1 |
+| 25 | `plusx.nyxos.shop` | ¥236.2 | $32.362 / $32.362 | 7.3 | Spark-1 | SparkDesk-v1.1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

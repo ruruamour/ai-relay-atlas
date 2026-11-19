@@ -1,6 +1,6 @@
 # gemini-flash-lite-latest-thinking-*
 
-> 31 站提供 · 正常价 20 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.47**/1M 输入（18 站公开充值价） · 推算，未对账
+> 29 站提供 · 正常价 19 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.39**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,12 +22,11 @@
 | 10 | `botcf.com` | ¥0.55 | $0.55 / $3.3 | 1 | 💎gemini-official | gemini-flash-lite-latest-thinking-* |
 | 11 | `xn--15q04w3tg4kio0a.com` | ¥0.55 | $0.55 / $3.3 | 1 | 💎gemini-official | gemini-flash-lite-latest-thinking-* |
 | 12 | `mgrouter.com` | ¥0.68 | $0.1 / $0.6 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-lite-latest-thinking-* |
-| 13 | `api.hoxkai.top` | ¥1 | $1 / $6 | 1 | gemini-svip | gemini-flash-lite-latest-thinking-* |
-| 14 | `api.4xapi.com` | ¥1.277 | $0.175 / $1.05 | 7.3 | gemini-官转 | gemini-flash-lite-latest-thinking-* |
-| 15 | `console.qqqrouter.ai` | ¥1.75 | $0.25 / $1.5 | 7 | Gemini_Vertex直连 | gemini-flash-lite-latest-thinking-* |
-| 16 | `m78.newapi.botcf.com` | ¥3.975 | $0.5445 / $3.267 | 7.3 | 😡Gemini-Vertex | gemini-flash-lite-latest-thinking-* |
-| 17 | `us.pomoai.xyz` | ¥4.38 | $0.6 / $5 | 7.3 | gemini-官转-stable | gemini-flash-lite-latest-thinking-* |
-| 18 | `api2.4xapi.com` | ¥7.3 | $1 / $6 | 7.3 | Gemini-官转 | gemini-flash-lite-latest-thinking-* |
+| 13 | `api.4xapi.com` | ¥1.277 | $0.175 / $1.05 | 7.3 | gemini-官转 | gemini-flash-lite-latest-thinking-* |
+| 14 | `console.qqqrouter.ai` | ¥1.75 | $0.25 / $1.5 | 7 | Gemini_Vertex直连 | gemini-flash-lite-latest-thinking-* |
+| 15 | `m78.newapi.botcf.com` | ¥3.975 | $0.5445 / $3.267 | 7.3 | 😡Gemini-Vertex | gemini-flash-lite-latest-thinking-* |
+| 16 | `us.pomoai.xyz` | ¥4.38 | $0.6 / $5 | 7.3 | gemini-官转-stable | gemini-flash-lite-latest-thinking-* |
+| 17 | `api2.4xapi.com` | ¥7.3 | $1 / $6 | 7.3 | Gemini-官转 | gemini-flash-lite-latest-thinking-* |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -36,4 +35,4 @@
 | 1 | `api.vveai.com` | $0.15 / $0.6 | gemini | 1.5 | gemini-flash-lite-latest-thinking-* |
 | 2 | `officesai.top` | $7 / $42 | Image绘图 4K | 1 | gemini-flash-lite-latest-thinking-* |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

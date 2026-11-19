@@ -1,6 +1,6 @@
 # flux-1.1-pro
 
-> 78 站提供 · 正常价 71 站 · 名义中位价 **$0.45**/次 · 实付中位价 **¥0.3325**/次（18 站公开充值价） · 推算，未对账
+> 75 站提供 · 正常价 69 站 · 名义中位价 **$0.45**/次 · 实付中位价 **¥0.3325**/次（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,22 +12,20 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.camel-hub.com` | ¥0.032 | $0.04 | 0.8 | default | flux-1.1-pro |
 | 2 | `api.eido.top` | ¥0.16 | $0.16 | 1 | default | black-forest-labs/flux-1.1-pro |
-| 3 | `api.openai-labs.com` | ¥0.17 | $0.17 | 1 | default | flux-1.1-pro |
-| 4 | `api.qhhengxin.top` | ¥0.292 | $0.04 | 7.3 | default | black-forest-labs/flux-1.1-pro |
-| 5 | `kubernetes-test-api.apiqik.online` | ¥0.292 | $0.04 | 7.3 | default | black-forest-labs/flux-1.1-pro |
-| 6 | `newapi.ailingnan.top` | ¥0.292 | $0.04 | 7.3 | default | black-forest-labs/flux-1.1-pro |
-| 7 | `keypool.space` | ¥0.3 | $0.3 | 1 | default | flux-1.1-pro |
-| 8 | `proaiapi.tech` | ¥0.3 | $0.3 | 1 | default | flux-1.1-pro |
-| 9 | `xinsuanai.com` | ¥0.3 | $0.3 | 1 | default | flux-1.1-pro |
-| 10 | `hiapi.ai` | ¥0.365 | $0.05 | 7.3 | default | flux-1.1-pro |
-| 11 | `new.foxi-api.cn` | ¥0.45 | $0.45 | 1 | 纯AZ | flux-1.1-pro |
-| 12 | `api.videocaptioner.cn` | ¥0.6651 | $0.099 | 6.718 | Azure-Gpt-3 | flux-1.1-pro |
-| 13 | `api.ifopen.ai` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
-| 14 | `api2.aigcbest.top` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
-| 15 | `api.qinzhiai.com` | ¥0.7154 | $0.098 | 7.3 | open_source2 | black-forest-labs/FLUX-1.1-pro |
-| 16 | `layso.ai` | ¥0.975 | $0.975 | 1 | Azure-Gpt-3 | flux-1.1-pro |
-| 17 | `nbapi.net` | ¥2.19 | $0.3 | 7.3 | default | flux-1.1-pro |
-| 18 | `plusx.nyxos.shop` | ¥4.818 | $0.66 | 7.3 | Azure-GPT-3 | flux-1.1-pro |
+| 3 | `api.qhhengxin.top` | ¥0.292 | $0.04 | 7.3 | default | black-forest-labs/flux-1.1-pro |
+| 4 | `kubernetes-test-api.apiqik.online` | ¥0.292 | $0.04 | 7.3 | default | black-forest-labs/flux-1.1-pro |
+| 5 | `newapi.ailingnan.top` | ¥0.292 | $0.04 | 7.3 | default | black-forest-labs/flux-1.1-pro |
+| 6 | `keypool.space` | ¥0.3 | $0.3 | 1 | default | flux-1.1-pro |
+| 7 | `proaiapi.tech` | ¥0.3 | $0.3 | 1 | default | flux-1.1-pro |
+| 8 | `xinsuanai.com` | ¥0.3 | $0.3 | 1 | default | flux-1.1-pro |
+| 9 | `hiapi.ai` | ¥0.365 | $0.05 | 7.3 | default | flux-1.1-pro |
+| 10 | `new.foxi-api.cn` | ¥0.45 | $0.45 | 1 | 纯AZ | flux-1.1-pro |
+| 11 | `api.ifopen.ai` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
+| 12 | `api2.aigcbest.top` | ¥0.7 | $0.2 | 3.5 | default | black-forest-labs/flux-1.1-pro |
+| 13 | `api.qinzhiai.com` | ¥0.7154 | $0.098 | 7.3 | open_source2 | black-forest-labs/FLUX-1.1-pro |
+| 14 | `layso.ai` | ¥0.975 | $0.975 | 1 | Azure-Gpt-3 | flux-1.1-pro |
+| 15 | `nbapi.net` | ¥2.19 | $0.3 | 7.3 | default | flux-1.1-pro |
+| 16 | `plusx.nyxos.shop` | ¥4.818 | $0.66 | 7.3 | Azure-GPT-3 | flux-1.1-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -86,4 +84,4 @@
 
 > 另有 3 站未列出。
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

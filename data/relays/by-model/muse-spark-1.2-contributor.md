@@ -1,6 +1,6 @@
 # muse-spark-1.2-contributor
 
-> 47 站提供 · 正常价 22 站 · 名义中位价 **$0.14333**/1M 输入 · 实付中位价 **¥0.351**/1M 输入（18 站公开充值价） · 推算，未对账
+> 48 站提供 · 正常价 23 站 · 名义中位价 **$0.12**/1M 输入 · 实付中位价 **¥0.351**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -33,9 +33,10 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `newapi.relayport17.asia` | $0.05 / $0.1 | 国产模型 | 0.5 | muse-spark-1.2-contributor |
+| 1 | `newapi.relayport17.asia` | $0.01 / $0.02 | 国产模型 | 0.1 | muse-spark-1.2-contributor |
 | 2 | `pro.fan142.top` | $0.1 / $0.2 | coding api | 1 | meta/muse-spark-1.2-contributor |
-| 3 | `levelup.mom` | $0.18666 / $0.37334 | OpenCode Go满血号池 | 0.2 | muse-spark-1.2-contributor |
-| 4 | `oapi.shop` | $0.28 / $0.56 | 国模/非GPT模型汇总 | 0.4 | meta/muse-spark-1.2-contributor |
+| 3 | `clodex.xyz` | $0.12 / $0.12 | default | 1 | muse-spark-1.2-contributor |
+| 4 | `levelup.mom` | $0.18666 / $0.37334 | OpenCode Go满血号池 | 0.2 | muse-spark-1.2-contributor |
+| 5 | `oapi.shop` | $0.28 / $0.56 | 国模/非GPT模型汇总 | 0.4 | meta/muse-spark-1.2-contributor |
 
 > 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

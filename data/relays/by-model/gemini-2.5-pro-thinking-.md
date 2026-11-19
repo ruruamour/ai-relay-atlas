@@ -1,6 +1,6 @@
 # gemini-2.5-pro-thinking-*
 
-> 62 站提供 · 正常价 56 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3.4**/1M 输入（53 站公开充值价） · 推算，未对账
+> 60 站提供 · 正常价 55 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥3.4**/1M 输入（53 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -41,7 +41,7 @@
 | 29 | `api.wukong.support` | ¥3.75 | $3.75 / $30 | 1 | gemini官渠 | gemini-2.5-pro-thinking-* |
 | 30 | `api.zyai.online` | ¥3.75 | $3.75 / $30 | 1 | Banana2_VIP | gemini-2.5-pro-thinking-* |
 | 31 | `api1.147ai.com` | ¥3.75 | $3.75 / $30 | 1 | gemini | gemini-2.5-pro-thinking-* |
-| 32 | `poloai.top` | ¥3.75 | $3.75 / $30 | 1 | gemini-as | gemini-2.5-pro-thinking-* |
+| 32 | `poloai.top` | ¥3.75 | $3.75 / $30 | 1 | gemini-号池 | gemini-2.5-pro-thinking-* |
 | 33 | `poloapi.top` | ¥3.75 | $3.75 / $30 | 1 | gemini-as | gemini-2.5-pro-thinking-* |
 | 34 | `api.78code.cc` | ¥4 | $4 / $32 | 1 | gemini-image | gemini-2.5-pro-thinking-* |
 | 35 | `paw.v1chat.cc` | ¥4.5 | $4.5 / $17.181 | 1 | default | gemini-2.5-pro-thinking-* |
@@ -67,8 +67,7 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `lobe.zen-ai.top` | $1.25 / $10 | qy | 1 | gemini-2.5-pro-thinking-* |
-| 2 | `api.vveai.com` | $1.875 / $15 | gemini | 1.5 | gemini-2.5-pro-thinking-* |
-| 3 | `officesai.top` | $35 / $280 | Image绘图 4K | 1 | gemini-2.5-pro-thinking-* |
+| 1 | `api.vveai.com` | $1.875 / $15 | gemini | 1.5 | gemini-2.5-pro-thinking-* |
+| 2 | `officesai.top` | $35 / $280 | Image绘图 4K | 1 | gemini-2.5-pro-thinking-* |
 
-> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 5 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

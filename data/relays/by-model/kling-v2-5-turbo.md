@@ -11,8 +11,8 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.camel-hub.cn` | ¥1.04 | $1.3 | 0.8 | default | kling-v2-5-turbo |
-| 2 | `api.camel-hub.com` | ¥1.04 | $1.3 | 0.8 | default | kling-v2-5-turbo |
-| 3 | `api.kr777.top` | ¥1.04 | $1.3 | 0.8 | default | kling-v2-5-turbo |
+| 2 | `api.camel-hub.com` | ¥1.04 | $1.3 | 0.8 | CN | kling-v2-5-turbo |
+| 3 | `api.kr777.top` | ¥1.04 | $1.3 | 0.8 | CN | kling-v2-5-turbo |
 | 4 | `hs.ai.easyart.cc` | ¥1.47 | $1.47 | 1 | default | kling-v2-5-turbo |
 | 5 | `kfcv50.link` | ¥1.5 | $1.5 | 1 | default | kling-v2-5-turbo |
 | 6 | `hboom.ai` | ¥2.361 | $0.3472 | 6.8 | Kling-Top | kling-v2-5-turbo |

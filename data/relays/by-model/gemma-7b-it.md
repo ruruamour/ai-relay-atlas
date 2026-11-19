@@ -10,10 +10,10 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `new.gateway.icu` | ¥1 | $1 / $1 | 1 | reverse | gemma-7b-it |
+| 1 | `new.gateway.icu` | ¥1 | $1 / $1 | 1 | default | gemma-7b-it |
 | 2 | `ai.soruxgpt.com` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
 | 3 | `api.hopeai.cc` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
-| 4 | `keypool.space` | ¥2 | $2 / $2 | 1 | vip | gemma-7b-it |
+| 4 | `keypool.space` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
 | 5 | `new.foxi-api.cn` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
 | 6 | `newapi.tu-zi.com` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |
 | 7 | `xinsuanai.com` | ¥2 | $2 / $2 | 1 | default | gemma-7b-it |

@@ -1,6 +1,6 @@
 # gemini-flash-latest-thinking-*
 
-> 31 站提供 · 正常价 19 站 · 名义中位价 **$1.05**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（17 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 18 站 · 名义中位价 **$0.96**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,16 +17,15 @@
 | 5 | `8s.hk` | ¥0.6 | $0.6 / $5.004 | 1 | 全模型自动 | gemini-flash-latest-thinking-* |
 | 6 | `api.xpluse.plus` | ¥0.87 | $0.87 / $7.25 | 1 | gemini-T3 | gemini-flash-latest-thinking-* |
 | 7 | `www.hohoapi.com` | ¥1.17 | $0.39 / $3.25 | 3 | default | gemini-flash-latest-thinking-* |
-| 8 | `api.hoxkai.top` | ¥1.2 | $1.2 / $10 | 1 | gemini-svip | gemini-flash-latest-thinking-* |
-| 9 | `www.micuapi.ai` | ¥1.5 | $1.5 / $9 | 1 | - | gemini-flash-latest-thinking-* |
-| 10 | `botcf.com` | ¥3.3 | $3.3 / $19.8 | 1 | 💎gemini-official | gemini-flash-latest-thinking-* |
-| 11 | `xn--15q04w3tg4kio0a.com` | ¥3.3 | $3.3 / $19.8 | 1 | 💎gemini-official | gemini-flash-latest-thinking-* |
-| 12 | `mgrouter.com` | ¥4.08 | $0.6 / $3.6 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-latest-thinking-* |
-| 13 | `api.4xapi.com` | ¥7.665 | $1.05 / $6.3 | 7.3 | gemini-官转 | gemini-flash-latest-thinking-* |
-| 14 | `console.qqqrouter.ai` | ¥10.5 | $1.5 / $9 | 7 | Gemini_Vertex直连 | gemini-flash-latest-thinking-* |
-| 15 | `us.pomoai.xyz` | ¥10.95 | $1.5 / $7.5 | 7.3 | gemini-官转-stable | gemini-flash-latest-thinking-* |
-| 16 | `m78.newapi.botcf.com` | ¥23.85 | $3.267 / $19.602 | 7.3 | 😡Gemini-Vertex | gemini-flash-latest-thinking-* |
-| 17 | `api2.4xapi.com` | ¥43.8 | $6 / $36 | 7.3 | Gemini-官转 | gemini-flash-latest-thinking-* |
+| 8 | `www.micuapi.ai` | ¥1.5 | $1.5 / $9 | 1 | - | gemini-flash-latest-thinking-* |
+| 9 | `botcf.com` | ¥3.3 | $3.3 / $19.8 | 1 | 💎gemini-official | gemini-flash-latest-thinking-* |
+| 10 | `xn--15q04w3tg4kio0a.com` | ¥3.3 | $3.3 / $19.8 | 1 | 💎gemini-official | gemini-flash-latest-thinking-* |
+| 11 | `mgrouter.com` | ¥4.08 | $0.6 / $3.6 | 6.8 | Gemini-原厂标准版-4折 | gemini-flash-latest-thinking-* |
+| 12 | `api.4xapi.com` | ¥7.665 | $1.05 / $6.3 | 7.3 | gemini-官转 | gemini-flash-latest-thinking-* |
+| 13 | `console.qqqrouter.ai` | ¥10.5 | $1.5 / $9 | 7 | Gemini_Vertex直连 | gemini-flash-latest-thinking-* |
+| 14 | `us.pomoai.xyz` | ¥10.95 | $1.5 / $7.5 | 7.3 | gemini-官转-stable | gemini-flash-latest-thinking-* |
+| 15 | `m78.newapi.botcf.com` | ¥23.85 | $3.267 / $19.602 | 7.3 | 😡Gemini-Vertex | gemini-flash-latest-thinking-* |
+| 16 | `api2.4xapi.com` | ¥43.8 | $6 / $36 | 7.3 | Gemini-官转 | gemini-flash-latest-thinking-* |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -35,4 +34,4 @@
 | 1 | `api.vveai.com` | $0.45 / $3.75 | gemini | 1.5 | gemini-flash-latest-thinking-* |
 | 2 | `officesai.top` | $8.4 / $69.9972 | Image绘图 4K | 1 | gemini-flash-latest-thinking-* |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

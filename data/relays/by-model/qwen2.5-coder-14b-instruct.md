@@ -13,7 +13,7 @@
 | 1 | `api.zyai.online` | ¥1 | $1 / $3 | 1 | mini | qwen2.5-coder-14b-instruct |
 | 2 | `aifast.site` | ¥1.2 | $1.2 / $3.6 | 1 | 国产文本 | qwen2.5-coder-14b-instruct |
 | 3 | `gpt777.top` | ¥1.6 | $1.6 / $4.8 | 1 | opensource | qwen2.5-coder-14b-instruct |
-| 4 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-14b-instruct |
+| 4 | `keypool.space` | ¥2 | $2 / $6 | 1 | vip | qwen2.5-coder-14b-instruct |
 | 5 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwen2.5-coder-14b-instruct |
 | 6 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-14b-instruct |
 | 7 | `api.aiskt.com` | ¥2.857 | $2.8572 / $8.5716 | 1 | default | qwen2.5-coder-14b-instruct |

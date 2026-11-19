@@ -1,6 +1,6 @@
 # glm-4v-plus
 
-> 20 站提供 · 正常价 17 站 · 名义中位价 **$1.36986**/1M 输入 · 实付中位价 **¥5.443**/1M 输入（16 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 18 站 · 名义中位价 **$1.36986**/1M 输入 · 实付中位价 **¥4.035**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,20 +12,21 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.xi-ai.cn` | ¥0.568 | $0.568 / $0.568 | 1 | 国产模型 | glm-4v-plus |
 | 2 | `kfcv50.link` | ¥0.568 | $0.568 / $0.568 | 1 | Domestic | glm-4v-plus |
-| 3 | `goapi.gptnb.ai` | ¥1.8 | $1.8 / $1.8 | 1 | cn_official | glm-4v-plus |
-| 4 | `gptnb.ai` | ¥1.8 | $1.8 / $1.8 | 1 | cn_official | glm-4v-plus |
-| 5 | `oneapi.gptnb.ai` | ¥1.8 | $1.8 / $1.8 | 1 | CN_discount | glm-4v-plus |
-| 6 | `hk.moleapi.com` | ¥3.944 | $0.58 / $0.58 | 6.8 | default | glm-4v-plus |
-| 7 | `apicdn.xyc.ai` | ¥4.035 | $0.584795 / $0.584795 | 6.9 | glm-flow | glm-4v-plus |
-| 8 | `apicdn.xycai.us` | ¥4.035 | $0.584795 / $0.584795 | 6.9 | glm-flow | glm-4v-plus |
-| 9 | `mb.dmxapi.cn` | ¥6.85 | $1.37 / $1.37 | 5 | vip | glm-4v-plus |
-| 10 | `api.qhhengxin.top` | ¥10 | $1.36986 / $1.36986 | 7.3 | default | glm-4v-plus |
-| 11 | `kubernetes-test-api.apiqik.online` | ¥10 | $1.36986 / $1.36986 | 7.3 | default | glm-4v-plus |
-| 12 | `newapi.ailingnan.top` | ¥10 | $1.36986 / $1.36986 | 7.3 | default | glm-4v-plus |
-| 13 | `gpt777.top` | ¥11.2 | $11.2 / $11.2 | 1 | opensource | glm-4v-plus |
-| 14 | `api.ifopen.ai` | ¥12.74 | $3.64 / $3.64 | 3.5 | 通用大模型 | glm-4v-plus |
-| 15 | `api2.aigcbest.top` | ¥12.74 | $3.64 / $3.64 | 3.5 | 通用大模型 | glm-4v-plus |
-| 16 | `www.hohoapi.com` | ¥19.5 | $6.5 / $6.5 | 3 | default | glm-4v-plus |
+| 3 | `newapi.prorisehub.com` | ¥0.6849 | $0.684932 / $0.684932 | 1 | 海外国产编程模 | glm-4v-plus |
+| 4 | `goapi.gptnb.ai` | ¥1.8 | $1.8 / $1.8 | 1 | cn_official | glm-4v-plus |
+| 5 | `gptnb.ai` | ¥1.8 | $1.8 / $1.8 | 1 | cn_official | glm-4v-plus |
+| 6 | `oneapi.gptnb.ai` | ¥1.8 | $1.8 / $1.8 | 1 | CN_discount | glm-4v-plus |
+| 7 | `hk.moleapi.com` | ¥3.944 | $0.58 / $0.58 | 6.8 | default | glm-4v-plus |
+| 8 | `apicdn.xyc.ai` | ¥4.035 | $0.584795 / $0.584795 | 6.9 | glm-flow | glm-4v-plus |
+| 9 | `apicdn.xycai.us` | ¥4.035 | $0.584795 / $0.584795 | 6.9 | glm-flow | glm-4v-plus |
+| 10 | `mb.dmxapi.cn` | ¥6.85 | $1.37 / $1.37 | 5 | default | glm-4v-plus |
+| 11 | `api.qhhengxin.top` | ¥10 | $1.36986 / $1.36986 | 7.3 | default | glm-4v-plus |
+| 12 | `kubernetes-test-api.apiqik.online` | ¥10 | $1.36986 / $1.36986 | 7.3 | default | glm-4v-plus |
+| 13 | `newapi.ailingnan.top` | ¥10 | $1.36986 / $1.36986 | 7.3 | default | glm-4v-plus |
+| 14 | `gpt777.top` | ¥11.2 | $11.2 / $11.2 | 1 | opensource | glm-4v-plus |
+| 15 | `api.ifopen.ai` | ¥12.74 | $3.64 / $3.64 | 3.5 | 通用大模型 | glm-4v-plus |
+| 16 | `api2.aigcbest.top` | ¥12.74 | $3.64 / $3.64 | 3.5 | 通用大模型 | glm-4v-plus |
+| 17 | `www.hohoapi.com` | ¥19.5 | $6.5 / $6.5 | 3 | default | glm-4v-plus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -33,4 +34,4 @@
 |---|---|---|---|---|---|
 | 1 | `aixhub.shop` | $0.4 / $0.4 | deepseek | 0.1 | glm-4v-plus-0111 |
 
-> 3 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 2 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

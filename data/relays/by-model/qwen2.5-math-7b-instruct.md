@@ -13,7 +13,7 @@
 | 1 | `api.zyai.online` | ¥0.5 | $0.5 / $1 | 1 | mini | qwen2.5-math-7b-instruct |
 | 2 | `aifast.site` | ¥0.6 | $0.6 / $1.2 | 1 | 国产文本 | qwen2.5-math-7b-instruct |
 | 3 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | qwen2.5-math-7b-instruct |
-| 4 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
+| 4 | `keypool.space` | ¥1 | $1 / $2 | 1 | vip | qwen2.5-math-7b-instruct |
 | 5 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-math-7b-instruct |
 | 6 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-math-7b-instruct |
 | 7 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-math-7b-instruct |

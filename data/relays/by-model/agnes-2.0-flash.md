@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `admin.cygnenoir.space` | ¥0.219 | $0.03 / $0.15 | 7.3 | vip | agnes-2.0-flash |
+| 1 | `admin.cygnenoir.space` | ¥0.219 | $0.03 / $0.15 | 7.3 | default | agnes-2.0-flash |
 | 2 | `crownapi.org` | ¥0.67 | $0.1 / $0.1 | 6.7 | default | agnes-2.0-flash |
 | 3 | `api1.link-ai.cc` | ¥1 | $1 / $5 | 1 | 国产2折 | agnes-2.0-flash |
 | 4 | `api.34ku.com` | ¥2.6 | $2.6 / $10.4 | 1 | default | agnes-2.0-flash |

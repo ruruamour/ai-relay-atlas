@@ -21,7 +21,7 @@
 | 9 | `newapi.tu-zi.com` | ¥4 | $4 / $16 | 1 | default | gemini-1.5-pro-001 |
 | 10 | `www.micuapi.ai` | ¥4 | $4 / $16 | 1 | - | gemini-1.5-pro-001 |
 | 11 | `8s.hk` | ¥5 | $5 / $20 | 1 | 全模型自动 | gemini-1.5-pro-001 |
-| 12 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | default | gemini-1.5-pro-001 |
+| 12 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | svip | gemini-1.5-pro-001 |
 | 13 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-1.5-pro-001 |
 | 14 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-001 |
 | 15 | `api.bianxieai.com` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-1.5-pro-001 |

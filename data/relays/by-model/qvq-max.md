@@ -1,6 +1,6 @@
 # qvq-max
 
-> 84 站提供 · 正常价 70 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥8**/1M 输入（18 站公开充值价） · 推算，未对账
+> 82 站提供 · 正常价 68 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥8**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,18 +16,16 @@
 | 4 | `api.zyai.online` | ¥4 | $4 / $16 | 1 | mini | qvq-max |
 | 5 | `platform.anyrouter.ai` | ¥4.8 | $4.8 / $19.2 | 1 | official_cn | qvq-max |
 | 6 | `gpt777.top` | ¥6.4 | $6.4 / $25.6 | 1 | opensource | qvq-max |
-| 7 | `api.ifopen.ai` | ¥7.28 | $2.08 / $8.32 | 3.5 | 通用大模型 | qvq-max |
-| 8 | `api2.aigcbest.top` | ¥7.28 | $2.08 / $8.32 | 3.5 | 通用大模型 | qvq-max |
-| 9 | `keypool.space` | ¥8 | $8 / $32 | 1 | vip | qvq-max |
-| 10 | `kfcv50.link` | ¥8 | $8 / $32 | 1 | Domestic | qvq-max |
-| 11 | `new.foxi-api.cn` | ¥8 | $8 / $32 | 1 | default | qvq-max |
-| 12 | `xinsuanai.com` | ¥8 | $8 / $32 | 1 | default | qvq-max |
-| 13 | `ssvip.dmxapi.com` | ¥8.03 | $1.1 / $4.4 | 7.3 | default | qvq-max |
-| 14 | `cn.gptapi.asia` | ¥8.12 | $8.12 / $32.48 | 1 | enterprise | qvq-max |
-| 15 | `yutoapi.com` | ¥8.12 | $8.12 / $32.48 | 1 | enterprise | qvq-max |
-| 16 | `tokensmind.ai` | ¥8.322 | $1.14 / $4.57 | 7.3 | default | qvq-max |
-| 17 | `codeyy.top` | ¥58.4 | $8 / $32 | 7.3 | default | qvq-max |
-| 18 | `nbapi.net` | ¥58.4 | $8 / $32 | 7.3 | default | qvq-max |
+| 7 | `keypool.space` | ¥8 | $8 / $32 | 1 | vip | qvq-max |
+| 8 | `kfcv50.link` | ¥8 | $8 / $32 | 1 | Domestic | qvq-max |
+| 9 | `new.foxi-api.cn` | ¥8 | $8 / $32 | 1 | default | qvq-max |
+| 10 | `xinsuanai.com` | ¥8 | $8 / $32 | 1 | default | qvq-max |
+| 11 | `ssvip.dmxapi.com` | ¥8.03 | $1.1 / $4.4 | 7.3 | default | qvq-max |
+| 12 | `cn.gptapi.asia` | ¥8.12 | $8.12 / $32.48 | 1 | enterprise | qvq-max |
+| 13 | `yutoapi.com` | ¥8.12 | $8.12 / $32.48 | 1 | enterprise | qvq-max |
+| 14 | `tokensmind.ai` | ¥8.322 | $1.14 / $4.57 | 7.3 | default | qvq-max |
+| 15 | `codeyy.top` | ¥58.4 | $8 / $32 | 7.3 | default | qvq-max |
+| 16 | `nbapi.net` | ¥58.4 | $8 / $32 | 7.3 | default | qvq-max |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

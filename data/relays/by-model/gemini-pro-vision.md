@@ -19,7 +19,7 @@
 | 7 | `newapi.tu-zi.com` | ¥4 | $4 / $12 | 1 | default | gemini-pro-vision |
 | 8 | `www.micuapi.ai` | ¥4 | $4 / $12 | 1 | - | gemini-pro-vision |
 | 9 | `8s.hk` | ¥5 | $5 / $40 | 1 | 全模型自动 | gemini-pro-vision |
-| 10 | `webapi.xjai.cc` | ¥6 | $2 / $8 | 3 | default | gemini-pro-vision |
+| 10 | `webapi.xjai.cc` | ¥6 | $2 / $8 | 3 | vip | gemini-pro-vision |
 | 11 | `getgoapi.com` | ¥14.4 | $2 / $16 | 7.2 | default | gemini-pro-vision |
 | 12 | `api.apib.ai` | ¥17.5 | $2.5 / $20 | 7 | - | gemini-pro-vision |
 

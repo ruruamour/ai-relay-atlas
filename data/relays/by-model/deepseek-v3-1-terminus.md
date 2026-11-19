@@ -1,6 +1,6 @@
 # deepseek-v3-1-terminus
 
-> 25 站提供 · 正常价 20 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥29.2**/1M 输入（11 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 21 站 · 名义中位价 **$4**/1M 输入 · 实付中位价 **¥18.25**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,17 +10,18 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.chatfire.cn` | ¥1 | $1 / $1.5 | 1 | OpenSource | deepseek-v3-1-terminus |
-| 2 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | deepseek-v3-1-terminus |
-| 3 | `api.eido.top` | ¥4 | $4 / $6 | 1 | default | deepseek-v3-1-terminus |
-| 4 | `apiai.shop` | ¥4.8 | $4 / $6 | 1.2 | default | deepseek-v3-1-terminus |
-| 5 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | deepseek-v3-1-terminus |
-| 6 | `api.ai-gaochao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
-| 7 | `api.chatshare.one` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
-| 8 | `api.tiantoken.com` | ¥29.2 | $4 / $6 | 7.3 | 特供02 | deepseek-v3-1-terminus |
-| 9 | `apius.shubiaobiao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
-| 10 | `tidewhisper-ai.xyz` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
-| 11 | `token.34ku.com` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
+| 1 | `api.openai-labs.com` | ¥0.6 | $0.6 / $2.4 | 1 | gcBusiness | deepseek-v3-1-terminus |
+| 2 | `api.chatfire.cn` | ¥1 | $1 / $1.5 | 1 | OpenSource | deepseek-v3-1-terminus |
+| 3 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | deepseek-v3-1-terminus |
+| 4 | `api.eido.top` | ¥4 | $4 / $6 | 1 | default | deepseek-v3-1-terminus |
+| 5 | `apiai.shop` | ¥4.8 | $4 / $6 | 1.2 | default | deepseek-v3-1-terminus |
+| 6 | `ai.nodeloc.com` | ¥7.3 | $1 / $4 | 7.3 | default | deepseek-v3-1-terminus |
+| 7 | `api.ai-gaochao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
+| 8 | `api.chatshare.one` | ¥29.2 | $4 / $6 | 7.3 | default | deepseek-v3-1-terminus |
+| 9 | `api.tiantoken.com` | ¥29.2 | $4 / $6 | 7.3 | default | deepseek-v3-1-terminus |
+| 10 | `apius.shubiaobiao.cn` | ¥29.2 | $4 / $12 | 7.3 | tieta | deepseek-v3-1-terminus |
+| 11 | `tidewhisper-ai.xyz` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
+| 12 | `token.34ku.com` | ¥29.2 | $4 / $6 | 7.3 | 特供-default | deepseek-v3-1-terminus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

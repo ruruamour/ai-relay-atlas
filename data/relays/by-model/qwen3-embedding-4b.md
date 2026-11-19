@@ -1,6 +1,6 @@
 # qwen3-embedding-4b
 
-> 44 站提供 · 正常价 24 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.205**/1M 输入（22 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 24 站 · 名义中位价 **$0.16**/1M 输入 · 实付中位价 **¥0.205**/1M 输入（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,11 +25,11 @@
 | 13 | `www.yibuapi.cn` | ¥0.27 | $0.18 / $0.18 | 1.5 | default | qwen3-embedding-4b |
 | 14 | `yibuapi.cn` | ¥0.27 | $0.18 / $0.18 | 1.5 | default | qwen3-embedding-4b |
 | 15 | `gpt777.top` | ¥0.32 | $0.32 / $0.32 | 1 | opensource | Qwen/Qwen3-Embedding-4B |
-| 16 | `api.ifopen.ai` | ¥0.364 | $0.104 / $0.104 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-4B |
-| 17 | `api2.aigcbest.top` | ¥0.364 | $0.104 / $0.104 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-4B |
-| 18 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen3-Embedding-4B |
-| 19 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen3-Embedding-4B |
-| 20 | `ai.mowen.vip` | ¥0.502 | $0.0751 / $0 | 6.68494 | default | Qwen3-Embedding-4B |
+| 16 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen3-Embedding-4B |
+| 17 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen3-Embedding-4B |
+| 18 | `ai.mowen.vip` | ¥0.502 | $0.0751 / $0 | 6.68494 | default | Qwen3-Embedding-4B |
+| 19 | `api.ifopen.ai` | ¥1.4 | $0.4 / $0.4 | 3.5 | default | Qwen/Qwen3-Embedding-4B |
+| 20 | `api2.aigcbest.top` | ¥1.4 | $0.4 / $0.4 | 3.5 | default | Qwen/Qwen3-Embedding-4B |
 | 21 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🧬Embedding | Qwen3-Embedding-4B |
 | 22 | `zen-ai.top` | ¥24 | $24 / $96 | 1 | 开源 | qwen3-embedding-4b |
 
@@ -40,4 +40,4 @@
 | 1 | `api.akko.space` | $0.1 / - | Embedding | 1 | embed-Qwen/Qwen3-Embedding-4B |
 | 2 | `vip.zen-ai.top` | $240 / $960 | deepseek | 4 | qwen3-embedding-4b |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

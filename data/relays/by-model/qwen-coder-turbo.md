@@ -1,6 +1,6 @@
 # qwen-coder-turbo
 
-> 38 站提供 · 正常价 22 站 · 名义中位价 **$1.71432**/1M 输入 · 实付中位价 **¥2**/1M 输入（22 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 20 站 · 名义中位价 **$1.71432**/1M 输入 · 实付中位价 **¥1.857**/1M 输入（20 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,13 +24,11 @@
 | 12 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwen-coder-turbo |
 | 13 | `magic666.top` | ¥2 | $2.00004 / $2.00004 | 1 | 国产模型 | qwen-coder-turbo |
 | 14 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen-coder-turbo-latest |
-| 15 | `cc.zhihuiapi.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen | qwen-coder-turbo |
-| 16 | `cn.zhihuiai.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen | qwen-coder-turbo |
-| 17 | `wrduai.com` | ¥7.3 | $1 / $3 | 7.3 | 官转 | qwen-coder-turbo |
-| 18 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen-coder-turbo |
-| 19 | `cn.gptapi.asia` | ¥14 | $14 / $42 | 1 | enterprise | qwen-coder-turbo-0919 |
-| 20 | `yutoapi.com` | ¥14 | $14 / $42 | 1 | enterprise | qwen-coder-turbo-0919 |
-| 21 | `codeyy.top` | ¥14.6 | $2 / $6 | 7.3 | default | qwen-coder-turbo |
-| 22 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-coder-turbo |
+| 15 | `wrduai.com` | ¥7.3 | $1 / $3 | 7.3 | 官转 | qwen-coder-turbo |
+| 16 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen-coder-turbo |
+| 17 | `cn.gptapi.asia` | ¥14 | $14 / $42 | 1 | enterprise | qwen-coder-turbo-0919 |
+| 18 | `yutoapi.com` | ¥14 | $14 / $42 | 1 | enterprise | qwen-coder-turbo-0919 |
+| 19 | `codeyy.top` | ¥14.6 | $2 / $6 | 7.3 | default | qwen-coder-turbo |
+| 20 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-coder-turbo |
 
 > 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

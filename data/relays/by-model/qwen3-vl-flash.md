@@ -19,7 +19,7 @@
 | 7 | `runapi.co` | ¥0.1157 | $0.017142 / $0.17142 | 6.75 | default | qwen3-vl-flash |
 | 8 | `api.aiskt.com` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
 | 9 | `azapi.com.cn` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
-| 10 | `keypool.space` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
+| 10 | `keypool.space` | ¥0.15 | $0.15 / $1.5 | 1 | vip | qwen3-vl-flash |
 | 11 | `new.foxi-api.cn` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
 | 12 | `xinsuanai.com` | ¥0.15 | $0.15 / $1.5 | 1 | default | qwen3-vl-flash |
 | 13 | `ai.mowen.vip` | ¥0.1671 | $0.025 / $0.2 | 6.68494 | default | qwen3-vl-flash |
@@ -27,7 +27,7 @@
 | 15 | `layso.ai` | ¥0.2112 | $0.21125 / $1.69 | 1 | Alibaba-1 | qwen3-vl-flash |
 | 16 | `www.hohoapi.com` | ¥0.234 | $0.078 / $0.78 | 3 | qwen | qwen3-vl-flash |
 | 17 | `gpt777.top` | ¥0.48 | $0.48 / $4.8 | 1 | opensource | qwen3-vl-flash |
-| 18 | `n.lconai.com` | ¥0.6 | $0.6 / $6 | 1 | B1 | qwen3-vl-flash |
+| 18 | `n.lconai.com` | ¥0.6 | $0.6 / $6 | 1 | A2 | qwen3-vl-flash |
 | 19 | `hy88.my` | ¥0.6132 | $0.084 / $0.84 | 7.3 | qwen | qwen3-vl-flash |
 | 20 | `ai.tiantoken.com` | ¥0.7117 | $0.0975 / $0.975 | 7.3 | 鹏宇国内模型1 | qwen3-vl-flash |
 | 21 | `cn.gptapi.asia` | ¥0.98 | $0.98 / $10.5056 | 1 | enterprise | qwen3-vl-flash |

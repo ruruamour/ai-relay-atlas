@@ -1,6 +1,6 @@
 # mj-variation
 
-> 109 站提供 · 正常价 104 站 · 名义中位价 **$0.073647**/次 · 实付中位价 **¥0.3864**/次（102 站公开充值价） · 推算，未对账
+> 109 站提供 · 正常价 104 站 · 名义中位价 **$0.073647**/次 · 实付中位价 **¥0.3834**/次（102 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -26,40 +26,40 @@
 | 14 | `api.34ku.com` | ¥0.26 | $0.26 | 1 | default | mj_variation |
 | 15 | `cnapi.kksj.org` | ¥0.27 | $0.27 | 1 | default | mj_variation |
 | 16 | `fastapi.top` | ¥0.292 | $0.04 | 7.3 | default | mj_variation |
-| 17 | `api.openlux.ai` | ¥0.295 | $0.0441 | 6.68934 | MJ-3 | mj_variation |
-| 18 | `api.relayrouter.ai` | ¥0.295 | $0.0441 | 6.68934 | MJ-3 | mj_variation |
-| 19 | `openlux.zhongzhuan.chat` | ¥0.295 | $0.0441 | 6.68934 | MJ-3 | mj_variation |
+| 17 | `api.openlux.ai` | ¥0.2949 | $0.0441 | 6.68752 | MJ-3 | mj_variation |
+| 18 | `api.relayrouter.ai` | ¥0.2949 | $0.0441 | 6.68752 | MJ-3 | mj_variation |
+| 19 | `openlux.zhongzhuan.chat` | ¥0.2949 | $0.0441 | 6.68752 | MJ-3 | mj_variation |
 | 20 | `keypool.space` | ¥0.3 | $0.3 | 1 | default | mj_variation |
 | 21 | `xinsuanai.com` | ¥0.3 | $0.3 | 1 | default | mj_variation |
-| 22 | `webapi.xjai.cc` | ¥0.3 | $0.1 | 3 | svip | mj_variation |
-| 23 | `4zapi.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 24 | `ai.kalehui.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 25 | `aiopus.top` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 26 | `aipipe.site` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 27 | `api.anthropicricardo.club` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 28 | `api.modelyard.cc` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 29 | `api.tidewhisper-ai.xyz` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 30 | `apistudio.vip` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 31 | `dawnnode.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 32 | `gzxbykj.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 33 | `tiantoken.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 34 | `token.kkdmx.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 35 | `vortexapi.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 36 | `www.vectronode.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 37 | `www.xiaoruiera.top` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
-| 38 | `yunwu.org` | ¥0.3304 | $0.049392 | 6.68934 | MJ-3 | mj_variation |
-| 39 | `api.antmoo.cc` | ¥0.3392 | $0.050715 | 6.68934 | MJ-3 | mj_variation |
-| 40 | `v2.cloudmist.cloud` | ¥0.3392 | $0.050715 | 6.68934 | MJ-3 | mj_variation |
+| 22 | `webapi.xjai.cc` | ¥0.3 | $0.1 | 3 | default | mj_variation |
+| 23 | `4zapi.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 24 | `aiopus.top` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 25 | `aipipe.site` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 26 | `api.anthropicricardo.club` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 27 | `api.modelyard.cc` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 28 | `api.tidewhisper-ai.xyz` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 29 | `apistudio.vip` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 30 | `dawnnode.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 31 | `tiantoken.cn` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 32 | `token.kkdmx.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 33 | `www.vectronode.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 34 | `www.xiaoruiera.top` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_variation |
+| 35 | `ai.kalehui.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
+| 36 | `gzxbykj.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
+| 37 | `vortexapi.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_variation |
+| 38 | `yunwu.org` | ¥0.3303 | $0.049392 | 6.68752 | MJ-3 | mj_variation |
+| 39 | `api.antmoo.cc` | ¥0.3392 | $0.050715 | 6.68752 | MJ-3 | mj_variation |
+| 40 | `v2.cloudmist.cloud` | ¥0.3392 | $0.050715 | 6.68752 | MJ-3 | mj_variation |
 | 41 | `suanliai.top` | ¥0.35 | $0.35 | 1 | default | mj_variation |
-| 42 | `apiclaw.cn` | ¥0.3569 | $0.053361 | 6.68934 | MJ-3 | mj_variation |
-| 43 | `api.bianxie.ai` | ¥0.365 | $0.05 | 7.3 | default | mj_variation |
-| 44 | `api.bianxieai.com` | ¥0.365 | $0.05 | 7.3 | default | mj_variation |
-| 45 | `ciyuan.today` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_variation |
-| 46 | `gptapi.top` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_variation |
-| 47 | `makerend.com` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_variation |
-| 48 | `moliapi.com` | ¥0.3717 | $0.055566 | 6.68934 | MJ-3 | mj_variation |
-| 49 | `ai-api.cc` | ¥0.3835 | $0.05733 | 6.68934 | MJ-3 | mj_variation |
-| 50 | `infai.cc` | ¥0.3835 | $0.05733 | 6.68934 | MJ-3 | mj_variation |
+| 42 | `apiclaw.cn` | ¥0.3569 | $0.053361 | 6.68752 | MJ-3 | mj_variation |
+| 43 | `newapi.xueai.me` | ¥0.3569 | $0.053361 | 6.68752 | MJ-3 | mj_variation |
+| 44 | `api.bianxie.ai` | ¥0.365 | $0.05 | 7.3 | default | mj_variation |
+| 45 | `api.bianxieai.com` | ¥0.365 | $0.05 | 7.3 | default | mj_variation |
+| 46 | `ciyuan.today` | ¥0.3686 | $0.055125 | 6.68752 | MJ-3 | mj_variation |
+| 47 | `makerend.com` | ¥0.3686 | $0.055125 | 6.68752 | MJ-3 | mj_variation |
+| 48 | `gptapi.top` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_variation |
+| 49 | `moliapi.com` | ¥0.3716 | $0.055566 | 6.68752 | MJ-3 | mj_variation |
+| 50 | `ai-api.cc` | ¥0.3834 | $0.05733 | 6.68752 | MJ-3 | mj_variation |
 
 > 另有 52 站未列出。
 

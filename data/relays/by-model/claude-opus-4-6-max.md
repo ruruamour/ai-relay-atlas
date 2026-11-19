@@ -44,7 +44,7 @@
 | 32 | `api.qhhengxin.top` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-6-max |
 | 33 | `api.ysaikeji.cn` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-6-max |
 | 34 | `bita-api-production.up.railway.app` | ¥36.5 | $5 / $25 | 7.3 | claude-aws | claude-opus-4-6-max |
-| 35 | `claude.ysaikeji.cn` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-6-max |
+| 35 | `claude.ysaikeji.cn` | ¥36.5 | $5 / $25 | 7.3 | claude | claude-opus-4-6-max |
 | 36 | `gemini.ysaikeji.cn` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-6-max |
 | 37 | `kubernetes-test-api.apiqik.online` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-6-max |
 | 38 | `newapi.ailingnan.top` | ¥36.5 | $5 / $25 | 7.3 | default | claude-opus-4-6-max |

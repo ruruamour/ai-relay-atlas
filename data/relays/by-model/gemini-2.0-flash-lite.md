@@ -1,6 +1,6 @@
 # gemini-2.0-flash-lite
 
-> 105 站提供 · 正常价 85 站 · 名义中位价 **$0.27**/1M 输入 · 实付中位价 **¥0.525**/1M 输入（31 站公开充值价） · 推算，未对账
+> 104 站提供 · 正常价 85 站 · 名义中位价 **$0.27**/1M 输入 · 实付中位价 **¥0.525**/1M 输入（31 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,8 +23,8 @@
 | 11 | `test-api.apiqik.online` | ¥0.1785 | $0.0255 / $0.102 | 7 | vertex/sp/gemini | gemini-2.0-flash-lite |
 | 12 | `xinsuanai.com` | ¥0.225 | $0.225 / $0.9 | 1 | vip | gemini-2.0-flash-lite |
 | 13 | `new.foxi-api.cn` | ¥0.27 | $0.27 / $1.08 | 1 | 官转gemini | gemini-2.0-flash-lite |
-| 14 | `toapis.com` | ¥0.42 | $0.06 / $0.24 | 7 | default | gemini-2.0-flash-lite-official |
-| 15 | `chat.cloudapi.vip` | ¥0.444 | $0.222 / $0.888 | 2 | default | gemini-2.0-flash-lite |
+| 14 | `toapis.com` | ¥0.42 | $0.06 / $0.24 | 7 | vip | gemini-2.0-flash-lite-official |
+| 15 | `chat.cloudapi.vip` | ¥0.444 | $0.222 / $0.888 | 2 | svip | gemini-2.0-flash-lite |
 | 16 | `api.apib.ai` | ¥0.525 | $0.075 / $0.3 | 7 | - | gemini-2.0-flash-lite |
 | 17 | `layso.ai` | ¥0.5363 | $0.53625 / $2.145 | 1 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
 | 18 | `api.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite |
@@ -32,8 +32,8 @@
 | 20 | `cn.gptapi.asia` | ¥0.56 | $0.56 / $2.24 | 1 | enterprise | gemini-2.0-flash-lite |
 | 21 | `yutoapi.com` | ¥0.56 | $0.56 / $2.24 | 1 | enterprise | gemini-2.0-flash-lite |
 | 22 | `new.gateway.icu` | ¥0.65 | $0.65 / $2.6 | 1 | gemini-aistudio-o | gemini-2.0-flash-lite |
-| 23 | `api.videocaptioner.cn` | ¥0.6802 | $0.10125 / $0.405 | 6.718 | Vertex-Gemini-3 | gemini-2.0-flash-lite |
-| 24 | `aio-api-ssvip.aiearth.dev` | ¥0.73 | $0.1 / $0.4 | 7.3 | vip | gemini-2.0-flash-lite |
+| 23 | `api.laozhang.ai` | ¥0.7 | $0.1 / $0.4 | 7 | default | gemini-2.0-flash-lite |
+| 24 | `aio-api-ssvip.aiearth.dev` | ¥0.73 | $0.1 / $0.4 | 7.3 | gemini | gemini-2.0-flash-lite |
 | 25 | `api.xistree.hk` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash-lite |
 | 26 | `yinli.pro` | ¥0.8213 | $0.1125 / $0.45 | 7.3 | Gemini-低价-90%稳定性 | gemini-2.0-flash-lite |
 | 27 | `api.ilaien.com` | ¥0.876 | $0.12 / $0.48 | 7.3 | default | gemini-2.0-flash-lite-official |
@@ -99,4 +99,4 @@
 
 > 另有 4 站未列出。
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

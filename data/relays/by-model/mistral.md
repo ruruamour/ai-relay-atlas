@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.ouu.ch` | ¥0.44 | $0.44 / $1.32 | 1 | default | mistral-medium-latest |
-| 2 | `new.gateway.icu` | ¥1 | $1 / $3 | 1 | reverse | mistral-medium |
+| 2 | `new.gateway.icu` | ¥1 | $1 / $3 | 1 | default | mistral-medium |
 | 3 | `api.aliyunfuwu.top` | ¥1.35 | $1.35 / $4.05 | 1 | Mistral | mistral-medium |
 | 4 | `llm.kagu.one` | ¥1.46 | $0.2 / $0.6 | 7.3 | 大杂烩 | mistral-medium-2505 |
 | 5 | `ai.soruxgpt.com` | ¥2 | $2 / $6 | 1 | default | mistral-medium |

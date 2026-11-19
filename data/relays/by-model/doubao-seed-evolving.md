@@ -31,7 +31,7 @@
 | 19 | `api.chatshare.one` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
 | 20 | `api.tiantoken.com` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
 | 21 | `tidewhisper-ai.xyz` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
-| 22 | `token.34ku.com` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-evolving |
+| 22 | `token.34ku.com` | ¥43.8 | $6 / $30 | 7.3 | 特供-default | doubao-seed-evolving |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

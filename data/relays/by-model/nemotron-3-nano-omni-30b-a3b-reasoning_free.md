@@ -1,6 +1,6 @@
 # nemotron-3-nano-omni-30b-a3b-reasoning:free
 
-> 27 站提供 · 正常价 2 站 · 名义中位价 **$0.0350038**/1M 输入 · 实付中位价 **¥0.2555**/1M 输入（2 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 2 站 · 名义中位价 **$0.0350038**/1M 输入 · 实付中位价 **¥0.2555**/1M 输入（2 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,4 +13,4 @@
 | 1 | `ai.hebox.net` | ¥5.475e-05 | $0.0000075 / $0.0000075 | 7.3 | 零元购 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free |
 | 2 | `api.qinzhiai.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | openrouter | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free |
 
-> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

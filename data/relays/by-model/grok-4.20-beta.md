@@ -1,6 +1,6 @@
 # grok-4.20-beta
 
-> 42 站提供 · 正常价 27 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥8.75**/1M 输入（25 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 27 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥8.75**/1M 输入（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -28,7 +28,7 @@
 | 16 | `ai.comfly.org` | ¥9.6 | $8 / $24 | 1.2 | openai官-优质 | grok-4.20-beta-0309-reasoning |
 | 17 | `ai.t8star.org` | ¥10.8 | $8 / $24 | 1.35 | openai官-优质 | grok-4.20-beta-0309-reasoning |
 | 18 | `getgoapi.com` | ¥11.52 | $1.6 / $4.8 | 7.2 | default | grok-4.20-beta-0309-reasoning |
-| 19 | `api.tokenrouter.com` | ¥14 | $2 / $6 | 7 | vip | x-ai/grok-4.20-beta |
+| 19 | `api.tokenrouter.com` | ¥14 | $2 / $6 | 7 | default | x-ai/grok-4.20-beta |
 | 20 | `api.ai-gaochao.cn` | ¥14.6 | $2 / $6 | 7.3 | Evan | grok-4.20-beta-0309-reasoning |
 | 21 | `apius.shubiaobiao.cn` | ¥14.6 | $2 / $6 | 7.3 | Evan | grok-4.20-beta-0309-reasoning |
 | 22 | `hk.apitoken.ai` | ¥14.6 | $2 / $6 | 7.3 | default | grok-4.20-beta-0309-reasoning |
@@ -43,4 +43,4 @@
 | 1 | `api.aabao.ai` | $0.5 / $1 | Grok官逆 | 0.4 | grok-4.20-beta |
 | 2 | `vip.zen-ai.top` | $37.5 / $75 | grok | 25 | grok-4.20-beta-0309-reasoning |
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

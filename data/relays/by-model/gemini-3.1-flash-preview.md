@@ -1,6 +1,6 @@
 # gemini-3.1-flash-preview
 
-> 27 站提供 · 正常价 16 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥0.9**/1M 输入（13 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 16 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥0.9**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -30,6 +30,6 @@
 |---|---|---|---|---|---|
 | 1 | `128api.cn` | $2.6 / $31.2 | default | 1 | gemini-3.1-flash-preview |
 | 2 | `888api.top` | $4.5 / $54 | default | 1.5 | gemini-3.1-flash-preview |
-| 3 | `vip.zen-ai.top` | $7.5 / $45 | 优质gemini | 15 | gemini-3.1-flash-preview |
+| 3 | `vip.zen-ai.top` | $10 / $60 | 优质gemini2 | 20 | gemini-3.1-flash-preview |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

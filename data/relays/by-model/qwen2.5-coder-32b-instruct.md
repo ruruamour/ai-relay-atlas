@@ -17,7 +17,7 @@
 | 5 | `aifast.site` | ¥1.2 | $1.2 / $3.6 | 1 | 国产文本 | qwen2.5-coder-32b-instruct |
 | 6 | `gpt-api.cc` | ¥1.457 | $1.4572 / $2.9144 | 1 | vip | Qwen/Qwen2.5-Coder-32B-Instruct |
 | 7 | `gpt777.top` | ¥1.6 | $1.6 / $4.8 | 1 | opensource | qwen2.5-coder-32b-instruct |
-| 8 | `keypool.space` | ¥2 | $2 / $6 | 1 | vip | qwen2.5-coder-32b-instruct |
+| 8 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-32b-instruct |
 | 9 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwen2.5-coder-32b-instruct |
 | 10 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwen2.5-coder-32b-instruct |
 | 11 | `ai.mowen.vip` | ¥2.206 | $0.33 / $0.5 | 6.68494 | default | qwen2.5-coder-32b-instruct |

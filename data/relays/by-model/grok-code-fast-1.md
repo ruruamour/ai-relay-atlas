@@ -1,6 +1,6 @@
 # grok-code-fast-1
 
-> 51 站提供 · 正常价 43 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.224**/1M 输入（41 站公开充值价） · 推算，未对账
+> 51 站提供 · 正常价 42 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.224**/1M 输入（41 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,7 +27,7 @@
 | 15 | `api.ccode.vip` | ¥0.56 | $0.56 / $4.35 | 1 | Grok Official | grok-code-fast-1 |
 | 16 | `api.zyai.online` | ¥0.6 | $0.6 / $4.5 | 1 | chongzhi | grok-code-fast-1 |
 | 17 | `mgrouter.com` | ¥0.9248 | $0.136 / $1.02 | 6.8 | Grok-原厂稳定版-6.8折 | grok-code-fast-1 |
-| 18 | `mb.dmxapi.cn` | ¥1 | $0.2 / $1.5 | 5 | vip | grok-code-fast-1 |
+| 18 | `mb.dmxapi.cn` | ¥1 | $0.2 / $1.5 | 5 | default | grok-code-fast-1 |
 | 19 | `getgoapi.com` | ¥1.037 | $0.144 / $1.08 | 7.2 | default | grok-code-fast-1 |
 | 20 | `ai2.qiqiai.top` | ¥1.051 | $0.144 / $1.08 | 7.3 | azure | grok-code-fast-1 |
 | 21 | `airouter.org` | ¥1.224 | $1.224 / $9.18 | 1 | svip | grok-code-fast-1 |
@@ -57,6 +57,5 @@
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `happyapi.org` | $0.4 / $3 | default | 1 | grok-code-fast-1 |
-| 2 | `vip.zen-ai.top` | $0.6 / $4.5 | default | 3 | grok-code-fast-1 |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

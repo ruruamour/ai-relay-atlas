@@ -18,7 +18,7 @@
 | 6 | `api.hopeai.cc` | ¥2 | $2 / $2 | 1 | default | grok-beta |
 | 7 | `newapi.link` | ¥2.5 | $2.5 / $2.5 | 1 | default | grok-beta |
 | 8 | `kfcv50.link` | ¥5 | $5 / $15 | 1 | default | grok-beta |
-| 9 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | vip | grok-beta |
+| 9 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | default | grok-beta |
 | 10 | `api.ocoolai.com` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
 | 11 | `ocool.cn` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |
 | 12 | `one.ooo.cool` | ¥7.5 | $7.5 / $22.5 | 1 | default | grok-beta |

@@ -23,8 +23,8 @@
 | 11 | `paw.v1chat.cc` | ¥0.01 | $0.01 | 1 | default | stable-diffusion |
 | 12 | `test-ssl.bltcy.ai` | ¥0.01 | $0.01 | 1 | default | stable-diffusion |
 | 13 | `vg.v1api.cc` | ¥0.01 | $0.01 | 1 | default | stable-diffusion |
-| 14 | `ai.comfly.org` | ¥0.012 | $0.01 | 1.2 | default | stable-diffusion |
-| 15 | `ai.t8star.org` | ¥0.0135 | $0.01 | 1.35 | default | stable-diffusion |
+| 14 | `ai.comfly.org` | ¥0.012 | $0.01 | 1.2 | vvip | stable-diffusion |
+| 15 | `ai.t8star.org` | ¥0.0135 | $0.01 | 1.35 | vvip | stable-diffusion |
 | 16 | `i-sh.v1api.cc` | ¥0.018 | $0.018 | 1 | default | stable-diffusion |
 | 17 | `i.v1api.cc` | ¥0.018 | $0.018 | 1 | default | stable-diffusion |
 | 18 | `opus.v1api.cc` | ¥0.032 | $0.04 | 0.8 | default | stable-diffusion |

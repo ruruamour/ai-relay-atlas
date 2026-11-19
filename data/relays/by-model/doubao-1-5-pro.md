@@ -1,6 +1,6 @@
 # doubao-1-5-pro
 
-> 30 站提供 · 正常价 26 站 · 名义中位价 **$0.78**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（26 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 24 站 · 名义中位价 **$0.76**/1M 输入 · 实付中位价 **¥0.8**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,14 +27,12 @@
 | 15 | `api.34ku.com` | ¥1.04 | $1.04 / $2.6 | 1 | default | doubao-1-5-pro-32k-250115 |
 | 16 | `yun.v1api.cc` | ¥1.2 | $0.8 / $2 | 1.5 | default | doubao-1-5-pro-32k |
 | 17 | `www.hohoapi.com` | ¥2.496 | $0.832 / $2.08 | 3 | default | doubao-1-5-pro-32k |
-| 18 | `api.ifopen.ai` | ¥2.8 | $0.8 / $2 | 3.5 | default | doubao-1-5-pro-32k-250115 |
-| 19 | `api2.aigcbest.top` | ¥2.8 | $0.8 / $2 | 3.5 | default | doubao-1-5-pro-32k-250115 |
-| 20 | `api.ai-gaochao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
-| 21 | `apius.shubiaobiao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
-| 22 | `hightpm.aiearth.dev` | ¥3.65 | $0.5 / $1.5 | 7.3 | 官方直连-Azure-Claude-Gemini | doubao-1-5-pro-32k-250115 |
-| 23 | `fs.dmxapi.cn` | ¥3.796 | $0.52 / $1.3 | 7.3 | default | doubao-1-5-pro-32k-250115 |
-| 24 | `opus.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
-| 25 | `xh.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
-| 26 | `api.xistree.hk` | ¥5.84 | $0.8 / $2 | 7.3 | default | doubao-1-5-pro-32k-250115 |
+| 18 | `api.ai-gaochao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
+| 19 | `apius.shubiaobiao.cn` | ¥2.92 | $0.4 / $1 | 7.3 | GZD | doubao-1-5-pro-32k-250115 |
+| 20 | `hightpm.aiearth.dev` | ¥3.65 | $0.5 / $1.5 | 7.3 | 官方直连-Azure-Claude-Gemini | doubao-1-5-pro-32k-250115 |
+| 21 | `fs.dmxapi.cn` | ¥3.796 | $0.52 / $1.3 | 7.3 | default | doubao-1-5-pro-32k-250115 |
+| 22 | `opus.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
+| 23 | `xh.v1api.cc` | ¥4.8 | $6 / $24 | 0.8 | default | doubao-1-5-pro-256k-250115 |
+| 24 | `api.xistree.hk` | ¥5.84 | $0.8 / $2 | 7.3 | default | doubao-1-5-pro-32k-250115 |
 
 > 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-imagine-edit
 
-> 22 站提供 · 正常价 9 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.16**/次（4 站公开充值价） · 推算，未对账
+> 21 站提供 · 正常价 9 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.16**/次（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `yinziapi.top` | ¥0.003 | $0.003 | 1 | grok稳定备用分组4 | grok-imagine-edit |
-| 2 | `apibasis.com` | ¥0.12 | $0.12 | 1 | Grok super | grok-imagine-edit |
+| 2 | `apibasis.com` | ¥0.12 | $0.12 | 1 | Grok Heavy | grok-imagine-edit |
 | 3 | `apipaths.com` | ¥0.2 | $0.2 | 1 | 生图模型 | grok-imagine-edit |
 | 4 | `api.wapq.cn` | ¥18.25 | $2.5 | 7.3 | default | grok-imagine-edit |
 
@@ -25,4 +25,4 @@
 | 4 | `aichronos.xyz` | $0.2 | grok | 0.2 | grok-imagine-edit |
 | 5 | `ai.soulecho.cc` | $15.6652 | xAI Grok | 8 | grok-imagine-edit |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

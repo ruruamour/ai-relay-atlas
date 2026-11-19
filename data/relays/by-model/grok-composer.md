@@ -1,6 +1,6 @@
 # grok-composer
 
-> 42 站提供 · 正常价 31 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（19 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 31 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `apibasis.com` | ¥0.12 | $0.12 / $0.12 | 1 | Grok super | grok-composer |
+| 1 | `apibasis.com` | ¥0.12 | $0.12 / $0.12 | 1 | Grok Heavy | grok-composer |
 | 2 | `yinziapi.top` | ¥0.15 | $0.15 / $0.3 | 1 | grok稳定备用分组4 | grok-composer |
 | 3 | `newapi.ailyyzdk.xyz` | ¥0.5 | $0.5 / $1.5 | 1 | grok | grok-composer |
 | 4 | `ai.lt4net.org` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | grok-composer |
@@ -22,7 +22,7 @@
 | 10 | `suanlitaikong.com` | ¥1.5 | $1.5 / $7.5 | 1 | grok-额度计费 | grok-composer |
 | 11 | `grok101.site` | ¥1.65 | $1.65 / $8.25 | 1 | grok-官转 | grok-composer |
 | 12 | `llm-all.pro` | ¥1.65 | $1.65 / $8.25 | 1 | grok-官转 | grok-composer |
-| 13 | `model101.site` | ¥1.65 | $1.65 / $8.25 | 1 | grok-官转 | grok-composer |
+| 13 | `model101.site` | ¥1.65 | $1.65 / $8.25 | 1 | grok-额度计费 | grok-composer |
 | 14 | `o-ai.me` | ¥1.65 | $1.65 / $8.25 | 1 | grok-官转 | grok-composer |
 | 15 | `token101.site` | ¥1.65 | $1.65 / $8.25 | 1 | grok-官转 | grok-composer |
 | 16 | `u-ai.me` | ¥1.65 | $1.65 / $8.25 | 1 | grok-官转 | grok-composer |
@@ -47,4 +47,4 @@
 | 11 | `api.gohok.top` | $0.3 / $0.6 | grok | 0.3 | grok-composer |
 | 12 | `big-model.smart-agi.com` | $2 / $4 | Gork Heavy 年费账号【稳定】 | 2 | grok-composer |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

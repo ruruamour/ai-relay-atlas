@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image-preview-c
 
-> 34 站提供 · 正常价 21 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.12**/次（16 站公开充值价） · 推算，未对账
+> 33 站提供 · 正常价 19 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.12**/次（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,13 +19,11 @@
 | 7 | `pay.magic666.top` | ¥0.12 | $0.12 | 1 | default | gemini-3.1-flash-image-preview-c |
 | 8 | `top.qingyuntop.top` | ¥0.12 | $0.12 | 1 | 按次计费 | gemini-3.1-flash-image-preview-c |
 | 9 | `zx1.deepwl.net` | ¥0.12 | $0.12 | 1 | default | gemini-3.1-flash-image-preview-c |
-| 10 | `api.new.bi` | ¥0.14 | $0.14 | 1 | default | gemini-3.1-flash-image-preview-c |
-| 11 | `api.mooko.ai` | ¥0.15 | $0.15 | 1 | default | gemini-3.1-flash-image-preview-c |
-| 12 | `api.routeeasy.ai` | ¥0.151 | $0.151 | 1 | default | gemini-3.1-flash-image-preview-c |
-| 13 | `zen-ai.top` | ¥0.302 | $0.302 | 1 | 优质gemini | gemini-3.1-flash-image-preview-c |
-| 14 | `www.amutes.com` | ¥0.365 | $0.05 | 7.3 | 逆向banana2 | gemini-3.1-flash-image-preview-c |
-| 15 | `api1.uiuiapi.com` | ¥0.5089 | $0.151 | 3.37 | default | gemini-3.1-flash-image-preview-c |
-| 16 | `api.apipro.ai` | ¥0.84 | $0.12 | 7 | default | gemini-3.1-flash-image-preview-c |
+| 10 | `api.mooko.ai` | ¥0.15 | $0.15 | 1 | default | gemini-3.1-flash-image-preview-c |
+| 11 | `api.routeeasy.ai` | ¥0.151 | $0.151 | 1 | default | gemini-3.1-flash-image-preview-c |
+| 12 | `zen-ai.top` | ¥0.302 | $0.302 | 1 | 优质gemini | gemini-3.1-flash-image-preview-c |
+| 13 | `api1.uiuiapi.com` | ¥0.5089 | $0.151 | 3.37 | default | gemini-3.1-flash-image-preview-c |
+| 14 | `api.apipro.ai` | ¥0.84 | $0.12 | 7 | default | gemini-3.1-flash-image-preview-c |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -34,7 +32,7 @@
 | 1 | `ai.juguang.chat` | $1.2 | default | 4 | gemini-3.1-flash-image-preview-c |
 | 2 | `www.redbox.ink` | $1.2 | default | 4 | gemini-3.1-flash-image-preview-c |
 | 3 | `vip.zen-ai.top` | $1.51 | 逆向 | 10 | gemini-3.1-flash-image-preview-c |
-| 4 | `wish.sillydream.top` | $5 | 绘图 | 1 | gemini-3.1-flash-image-preview-c |
+| 4 | `wish.sillydream.top` | $5 | default | 1 | gemini-3.1-flash-image-preview-c |
 | 5 | `openai.sharkmagic.top` | $45 | tier_3 | 0.9 | [lq]q\|gemini-3.1-flash-image-preview-c |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

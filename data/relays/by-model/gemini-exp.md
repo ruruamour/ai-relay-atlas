@@ -1,6 +1,6 @@
 # gemini-exp
 
-> 38 站提供 · 正常价 24 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.458**/1M 输入（16 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 26 站 · 名义中位价 **$1.945**/1M 输入 · 实付中位价 **¥2.458**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,14 +15,14 @@
 | 3 | `ocool.cn` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-exp-1114 |
 | 4 | `one.ooo.cool` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-exp-1114 |
 | 5 | `api.eido.top` | ¥2 | $2 / $10 | 1 | default | gemini-exp-1206 |
-| 6 | `new.gateway.icu` | ¥2 | $2 / $8 | 1 | default | gemini-exp-1114 |
+| 6 | `new.gateway.icu` | ¥2 | $2 / $8 | 1 | reverse | gemini-exp-1114 |
 | 7 | `big.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | openai逆向 | gemini-exp-1114 |
 | 8 | `go.sbgpt.site` | ¥2.4 | $2.4 / $9.6 | 1 | gemini全模型 | gemini-exp-1114 |
 | 9 | `8s.hk` | ¥2.516 | $2.516 / $9.996 | 1 | 全模型自动 | gemini-exp-1206 |
 | 10 | `ai.soruxgpt.com` | ¥4 | $4 / $16 | 1 | default | gemini-exp-1114 |
 | 11 | `api.hopeai.cc` | ¥4 | $4 / $16 | 1 | default | gemini-exp-1114 |
 | 12 | `www.micuapi.ai` | ¥4 | $4 / $16 | 1 | - | gemini-exp-1114 |
-| 13 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | default | gemini-exp-1114 |
+| 13 | `webapi.xjai.cc` | ¥12 | $4 / $16 | 3 | vip | gemini-exp-1114 |
 | 14 | `api.apib.ai` | ¥17.5 | $2.5 / $10 | 7 | - | gemini-exp-1114 |
 | 15 | `api.bianxie.ai` | ¥29.2 | $4 / $16 | 7.3 | default | gemini-exp-1114 |
 | 16 | `api.bianxieai.com` | ¥29.2 | $4 / $16 | 7.3 | default | gemini-exp-1114 |
@@ -32,12 +32,14 @@
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `aiapibank.com` | $0.105 / $0.875 | Gemini Ultra分组 | 0.35 | gemini-exp-1206 |
-| 2 | `saletoken.org` | $0.135 / $1.125 | gemini-反重力 | 0.45 | gemini-exp-1206 |
-| 3 | `api.clawhud.com` | $0.3 / $2.5 | Gemini | 1 | gemini-exp-1206 |
-| 4 | `momoai.asia` | $0.33 / $2.75 | Gemini余额分组 | 1.1 | gemini-exp-1206 |
-| 5 | `coultra.blueshirtmap.com` | $1.25 / $0.78125 | - | - | gemini-exp-1114 |
-| 6 | `g.openai365.top` | $1.26 / $5.04 | default | 1 | gemini-exp-1206 |
-| 7 | `ccmaxshop.de5.net` | $1.5 / $12.5 | gemini反重力 | 5 | gemini-exp-1206 |
-| 8 | `chat-api4.087654.xyz` | $2.516 / $9.996 | default | 2 | gemini-exp-1206 |
+| 2 | `new.984275579.xyz` | $0.12 / $1 | gemini （无缓存） | 0.4 | gemini-exp-1206 |
+| 3 | `saletoken.org` | $0.135 / $1.125 | gemini-反重力 | 0.45 | gemini-exp-1206 |
+| 4 | `api.clawhud.com` | $0.3 / $2.5 | Gemini | 1 | gemini-exp-1206 |
+| 5 | `xclaude.cn` | $0.3 / $2.5 | gemini按量计费 | 1 | gemini-exp-1206 |
+| 6 | `momoai.asia` | $0.33 / $2.75 | Gemini余额分组 | 1.1 | gemini-exp-1206 |
+| 7 | `coultra.blueshirtmap.com` | $1.25 / $0.78125 | - | - | gemini-exp-1114 |
+| 8 | `g.openai365.top` | $1.26 / $5.04 | default | 1 | gemini-exp-1206 |
+| 9 | `ccmaxshop.de5.net` | $1.5 / $12.5 | gemini反重力 | 5 | gemini-exp-1206 |
+| 10 | `chat-api4.087654.xyz` | $2.516 / $9.996 | default | 2 | gemini-exp-1206 |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

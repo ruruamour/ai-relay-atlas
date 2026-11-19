@@ -1,6 +1,6 @@
 # gemini-1.5-flash
 
-> 38 站提供 · 正常价 35 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.355**/1M 输入（30 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 35 站 · 名义中位价 **$0.15**/1M 输入 · 实付中位价 **¥0.355**/1M 输入（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,7 +24,7 @@
 | 12 | `webapi.xjai.cc` | ¥0.225 | $0.075 / $0.3 | 3 | default | gemini-1.5-flash |
 | 13 | `chat.cloudapi.vip` | ¥0.3 | $0.15 / $0.6 | 2 | default | gemini-1.5-flash-latest |
 | 14 | `n.lconai.com` | ¥0.3 | $0.3 / $1.2 | 1 | B1 | gemini-1.5-flash-latest |
-| 15 | `new.gateway.icu` | ¥0.35 | $0.35 / $1.4 | 1 | gemini-aistudio-o | gemini-1.5-flash |
+| 15 | `new.gateway.icu` | ¥0.35 | $0.35 / $1.4 | 1 | default | gemini-1.5-flash |
 | 16 | `apiai.shop` | ¥0.36 | $0.3 / $1.2 | 1.2 | default | gemini-1.5-flash-latest |
 | 17 | `hightpm.aiearth.dev` | ¥0.365 | $0.05 / $0.2 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-1.5-flash-latest |
 | 18 | `api.wukong.support` | ¥0.45 | $0.45 / $1.8 | 1 | gemini官渠 | gemini-1.5-flash-latest |
@@ -51,4 +51,4 @@
 | 4 | `happyapi.org` | $0.24 / $0.96 | default | 1 | gemini-1.5-flash |
 | 5 | `g.openai365.top` | $0.5 / $2 | default | 1 | gemini-1.5-flash |
 
-> 3 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 4 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

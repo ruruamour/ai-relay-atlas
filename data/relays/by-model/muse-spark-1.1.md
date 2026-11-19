@@ -1,6 +1,6 @@
 # muse-spark-1.1
 
-> 26 站提供 · 正常价 17 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥6.525**/1M 输入（16 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 18 站 · 名义中位价 **$1.25**/1M 输入 · 实付中位价 **¥6.525**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,7 +21,7 @@
 | 9 | `modelsell.com` | ¥6.8 | $1 / $3.4 | 6.8 | Meta | muse-spark-1.1 |
 | 10 | `cn.gptapi.asia` | ¥8.75 | $8.75 / $29.75 | 1 | enterprise | muse-spark-1.1 |
 | 11 | `yutoapi.com` | ¥8.75 | $8.75 / $29.75 | 1 | enterprise | muse-spark-1.1 |
-| 12 | `api.orcarouter.ai` | ¥9.125 | $1.25 / $4.25 | 7.3 | vip | meta/muse-spark-1.1 |
+| 12 | `api.orcarouter.ai` | ¥9.125 | $1.25 / $4.25 | 7.3 | default | meta/muse-spark-1.1 |
 | 13 | `jack-lucky.ai` | ¥9.125 | $1.25 / $4.25 | 7.3 | default | muse-spark-1.1 |
 | 14 | `or.mux.la` | ¥9.125 | $1.25 / $4.25 | 7.3 | default | meta/muse-spark-1.1 |
 | 15 | `api.tacklekey.com` | ¥14.04 | $1.92308 / $6.53846 | 7.3 | default | meta/muse-spark-1.1 |
@@ -31,6 +31,7 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `meta-api.vip` | $41.5805 / $141.374 | 企业级 | 1 | muse-spark-1.1 |
+| 1 | `clodex.xyz` | $0.09 / $0.09 | default | 1 | muse-spark-1.1 |
+| 2 | `meta-api.vip` | $41.5805 / $141.374 | 企业级 | 1 | muse-spark-1.1 |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

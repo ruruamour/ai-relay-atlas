@@ -1,6 +1,6 @@
 # deepseek
 
-> 44 站提供 · 正常价 5 站 · 名义中位价 **$0.54**/1M 输入 · 实付中位价 **¥14.6**/1M 输入（2 站公开充值价） · 推算，未对账
+> 63 站提供 · 正常价 10 站 · 名义中位价 **$0.12**/1M 输入 · 实付中位价 **¥14.6**/1M 输入（2 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,8 +17,13 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `ai.lazymo.qzz.io` | $0.06 / $0.24 | 【DeepSeek】官key-按量 | 0.4 | deepseek-search |
-| 2 | `sub.sixoner.com` | $0.066 / $0.198 | Deepseek 官key | 0.3 | deepseek-search |
-| 3 | `ciyuan.fast` | $0.54 / $2.16 | Deepseek专线 | 3.6 | deepseek-search |
+| 1 | `kimera.cc` | $0.045 / $0.18 | 国模官Key系列 | 0.3 | deepseek-search |
+| 2 | `api.qiuming-ai.com` | $0.0704 / $0.2112 | Kimi | 0.32 | deepseek-search |
+| 3 | `api.qiuming-web.com` | $0.0704 / $0.2112 | Kimi | 0.32 | deepseek-search |
+| 4 | `supercodes.vip` | $0.09 / $0.36 | 微软 | 0.3 | deepseek |
+| 5 | `ai.lazymo.qzz.io` | $0.12 / $0.48 | 【DeepSeek】官key-按量 | 0.4 | deepseek-search |
+| 6 | `www.digitalcats.cc` | $0.12 / $0.48 | Deepseek 官key | 0.4 | deepseek-search |
+| 7 | `sub.sixoner.com` | $0.132 / $0.396 | Deepseek 官key | 0.3 | deepseek-search |
+| 8 | `ciyuan.fast` | $1.08 / $4.32 | Deepseek专线 | 3.6 | deepseek-search |
 
-> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 53 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

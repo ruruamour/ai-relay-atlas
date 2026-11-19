@@ -1,6 +1,6 @@
 # kling-v2-6
 
-> 26 站提供 · 正常价 18 站 · 名义中位价 **$0.3736**/次 · 实付中位价 **¥1.04**/次（18 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 17 站 · 名义中位价 **$0.3472**/次 · 实付中位价 **¥1.04**/次（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,7 +13,7 @@
 | 1 | `www.hohoapi.com` | ¥0.2898 | $0.0966 | 3 | video | kling-v2-6 |
 | 2 | `api.wanapis.com` | ¥0.3 | $0.3 | 1 | default | kling-v2-6 |
 | 3 | `api.orcarouter.ai` | ¥0.3066 | $0.042 | 7.3 | vip | kling/kling-v2-6 |
-| 4 | `synthapi.asia` | ¥0.3089 | $0.04232 | 7.3 | 视频模型聚合 | kling-v2-6 |
+| 4 | `synthapi.asia` | ¥0.3089 | $0.04232 | 7.3 | 图像模型聚合(可自定义图像参数) | kling-v2-6 |
 | 5 | `relaydance.com` | ¥0.357 | $0.0525 | 6.8 | default | kling-v2-6 |
 | 6 | `clawrouter.com` | ¥0.45 | $0.0616438 | 7.3 | multipurpose | kling-v2-6 |
 | 7 | `api.ilaien.com` | ¥0.4701 | $0.0644 | 7.3 | default | kling-v2-6 |
@@ -24,9 +24,8 @@
 | 12 | `hboom.ai` | ¥2.361 | $0.3472 | 6.8 | Kling-Top | kling-v2-6 |
 | 13 | `hk.hbapis.com` | ¥2.361 | $0.3472 | 6.8 | Kling-Top | kling-v2-6 |
 | 14 | `hs.ai.easyart.cc` | ¥2.45 | $2.45 | 1 | default | kling-v2-6 |
-| 15 | `ai.skywalk.cloud` | ¥2.92 | $0.4 | 7.3 | default | kling-v2-6 |
-| 16 | `api.xhuoai.com` | ¥7.5 | $5 | 1.5 | default | kling-v2-6 |
-| 17 | `yun.v1api.cc` | ¥7.5 | $5 | 1.5 | default | kling-v2-6 |
-| 18 | `api.tokenrouter.com` | ¥11.76 | $1.68 | 7 | default | kling-v2-6 |
+| 15 | `api.xhuoai.com` | ¥7.5 | $5 | 1.5 | default | kling-v2-6 |
+| 16 | `yun.v1api.cc` | ¥7.5 | $5 | 1.5 | default | kling-v2-6 |
+| 17 | `api.tokenrouter.com` | ¥11.76 | $1.68 | 7 | default | kling-v2-6 |
 
 > 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -10,11 +10,11 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `keypool.space` | ¥0.8 | $0.8 / $0 | 1 | default | qwen3-tts-flash |
+| 1 | `keypool.space` | ¥0.8 | $0.8 / $0 | 1 | vip | qwen3-tts-flash |
 | 2 | `xinsuanai.com` | ¥0.8 | $0.8 / $0 | 1 | default | qwen3-tts-flash |
-| 3 | `swaychip-ai.com` | ¥13.33 | $2 / $2 | 6.6647 | default | qwen3-tts-flash |
+| 3 | `swaychip-ai.com` | ¥13.32 | $2 / $2 | 6.6614 | default | qwen3-tts-flash |
 | 4 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-tts-flash |
-| 5 | `autorouter.top` | ¥30 | $30 / $0 | 1 | ssvip | qwen3-tts-flash |
+| 5 | `autorouter.top` | ¥30 | $30 / $0 | 1 | default | qwen3-tts-flash |
 | 6 | `e-flowcode.cc` | ¥32 | $32 / $32 | 1 | 0_Tools_Sound | qwen3-tts-flash |
 | 7 | `api.zyai.online` | ¥37.5 | $37.5 / $37.5 | 1 | mini | qwen3-tts-flash |
 | 8 | `api.ifopen.ai` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3-tts-flash |

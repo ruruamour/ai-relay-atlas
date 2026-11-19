@@ -1,6 +1,6 @@
 # qwen-max
 
-> 218 站提供 · 正常价 186 站 · 名义中位价 **$1.68**/1M 输入 · 实付中位价 **¥5.887**/1M 输入（133 站公开充值价） · 推算，未对账
+> 218 站提供 · 正常价 186 站 · 名义中位价 **$1.68**/1M 输入 · 实付中位价 **¥5.885**/1M 输入（133 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,24 +16,24 @@
 | 4 | `ai.mowen.vip` | ¥0.9693 | $0.145 / $0.58 | 6.68494 | default | qwen-max-0107 |
 | 5 | `api.zyai.online` | ¥1.2 | $1.2 / $4.8 | 1 | mini | qwen-max |
 | 6 | `newapi.prorisehub.com` | ¥1.2 | $1.2 / $4.8 | 1 | 海外国产编程模 | qwen-max |
-| 7 | `open.xiaojingai.com` | ¥1.2 | $1.2 / $4.8 | 1 | Ali | qwen-max |
-| 8 | `pay.magic666.top` | ¥1.2 | $1.2 / $4.8 | 1 | 国产 | qwen-max |
-| 9 | `aifast.site` | ¥1.44 | $1.44 / $5.76 | 1 | 国产文本 | qwen-max |
-| 10 | `api.yanai.it.com` | ¥1.44 | $1.44 / $5.76 | 1 | 阿里百炼 | qwen-max |
-| 11 | `goapi.gptnb.ai` | ¥1.44 | $1.44 / $5.76 | 1 | cn_official | qwen-max |
-| 12 | `gptnb.ai` | ¥1.44 | $1.44 / $5.76 | 1 | cn_official | qwen-max |
-| 13 | `oneapi.gptnb.ai` | ¥1.44 | $1.44 / $5.76 | 1 | CN_discount | qwen-max |
-| 14 | `platform.anyrouter.ai` | ¥1.44 | $1.44 / $5.76 | 1 | official_cn | qwen-max |
-| 15 | `poloai.top` | ¥1.44 | $1.44 / $5.76 | 1 | qwen-new | qwen-max-0403 |
-| 16 | `poloapi.top` | ¥1.44 | $1.44 / $5.76 | 1 | qwen-new | qwen-max-0403 |
-| 17 | `api.camel-hub.cn` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
-| 18 | `api.camel-hub.com` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
-| 19 | `api.kr777.top` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
-| 20 | `580.4sapi.com` | ¥1.68 | $1.68 / $6.72 | 1 | 国产模型-自部署 | qwen-max |
-| 21 | `cn.580ai.net` | ¥1.68 | $1.68 / $6.72 | 1 | 国产模型-自部署 | qwen-max |
-| 22 | `magic666.top` | ¥1.68 | $1.68 / $6.72 | 1 | 国产模型 | qwen-max |
-| 23 | `rockapi.ai` | ¥1.68 | $1.68 / $6.72 | 1 | 0.7x | qwen-max |
-| 24 | `gpt777.top` | ¥1.92 | $1.92 / $7.68 | 1 | opensource | qwen-max |
+| 7 | `pay.magic666.top` | ¥1.2 | $1.2 / $4.8 | 1 | 国产 | qwen-max |
+| 8 | `aifast.site` | ¥1.44 | $1.44 / $5.76 | 1 | 国产文本 | qwen-max |
+| 9 | `api.yanai.it.com` | ¥1.44 | $1.44 / $5.76 | 1 | 阿里百炼 | qwen-max |
+| 10 | `goapi.gptnb.ai` | ¥1.44 | $1.44 / $5.76 | 1 | cn_official | qwen-max |
+| 11 | `gptnb.ai` | ¥1.44 | $1.44 / $5.76 | 1 | cn_official | qwen-max |
+| 12 | `oneapi.gptnb.ai` | ¥1.44 | $1.44 / $5.76 | 1 | CN_discount | qwen-max |
+| 13 | `platform.anyrouter.ai` | ¥1.44 | $1.44 / $5.76 | 1 | official_cn | qwen-max |
+| 14 | `poloai.top` | ¥1.44 | $1.44 / $5.76 | 1 | qwen-new | qwen-max-0403 |
+| 15 | `poloapi.top` | ¥1.44 | $1.44 / $5.76 | 1 | qwen-new | qwen-max-0403 |
+| 16 | `api.camel-hub.cn` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
+| 17 | `api.camel-hub.com` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
+| 18 | `api.kr777.top` | ¥1.44 | $1.8 / $7.2 | 0.8 | default | qwen-max |
+| 19 | `580.4sapi.com` | ¥1.68 | $1.68 / $6.72 | 1 | 国产模型-自部署 | qwen-max |
+| 20 | `cn.580ai.net` | ¥1.68 | $1.68 / $6.72 | 1 | 国产模型-自部署 | qwen-max |
+| 21 | `magic666.top` | ¥1.68 | $1.68 / $6.72 | 1 | 国产模型 | qwen-max |
+| 22 | `rockapi.ai` | ¥1.68 | $1.68 / $6.72 | 1 | 0.7x | qwen-max |
+| 23 | `gpt777.top` | ¥1.92 | $1.92 / $7.68 | 1 | opensource | qwen-max |
+| 24 | `open.xiaojingai.com` | ¥2.16 | $2.16 / $8.64 | 1 | Ali_Advanced | qwen-max |
 | 25 | `api.ifopen.ai` | ¥2.184 | $0.624 / $2.496 | 3.5 | 通用大模型 | qwen-max |
 | 26 | `api2.aigcbest.top` | ¥2.184 | $0.624 / $2.496 | 3.5 | 通用大模型 | qwen-max |
 | 27 | `ai-model.chinaz.net` | ¥2.4 | $0.328767 / $1.31507 | 7.3 | default | qwen-max |
@@ -50,16 +50,16 @@
 | 38 | `xinsuanai.com` | ¥2.4 | $2.4 / $9.6 | 1 | default | qwen-max |
 | 39 | `api.pezayo.com` | ¥2.502 | $0.3428 / $1.36822 | 7.3 | default | qwen-max |
 | 40 | `www.tokenage.ai` | ¥2.515 | $0.344479 / $1.37792 | 7.3 | vip | qwen-max |
-| 41 | `cc.zhihuiapi.top` | ¥2.56 | $2.56 / $20.48 | 1 | qwen | qwen-max-0428 |
-| 42 | `cn.zhihuiai.top` | ¥2.56 | $2.56 / $20.48 | 1 | qwen | qwen-max-0428 |
-| 43 | `zgc.apihy.com` | ¥2.576 | $0.3529 / $1.4118 | 7.3 | default | qwen-max |
-| 44 | `api.bianxie.ai` | ¥2.584 | $0.354 / $1.416 | 7.3 | default | qwen-max |
-| 45 | `api.bianxieai.com` | ¥2.584 | $0.354 / $1.416 | 7.3 | default | qwen-max |
-| 46 | `ssvip.dmxapi.com` | ¥2.628 | $0.36 / $1.44 | 7.3 | default | qwen-max-2025-01-25 |
-| 47 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $11.4288 | 1 | 国产模型 | qwen-max-latest |
-| 48 | `apiai.shop` | ¥2.88 | $2.4 / $9.6 | 1.2 | default | qwen-max-latest |
-| 49 | `yibuapi.com` | ¥2.88 | $1.92 / $7.68 | 1.5 | claude-code | qwen-max |
-| 50 | `api.34ku.com` | ¥3.12 | $3.12 / $12.48 | 1 | default | qwen-max |
+| 41 | `zgc.apihy.com` | ¥2.576 | $0.3529 / $1.4118 | 7.3 | default | qwen-max |
+| 42 | `api.bianxie.ai` | ¥2.584 | $0.354 / $1.416 | 7.3 | default | qwen-max |
+| 43 | `api.bianxieai.com` | ¥2.584 | $0.354 / $1.416 | 7.3 | default | qwen-max |
+| 44 | `ssvip.dmxapi.com` | ¥2.628 | $0.36 / $1.44 | 7.3 | default | qwen-max-2025-01-25 |
+| 45 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $11.4288 | 1 | 国产模型 | qwen-max-latest |
+| 46 | `apiai.shop` | ¥2.88 | $2.4 / $9.6 | 1.2 | default | qwen-max-latest |
+| 47 | `yibuapi.com` | ¥2.88 | $1.92 / $7.68 | 1.5 | claude-code | qwen-max |
+| 48 | `api.34ku.com` | ¥3.12 | $3.12 / $12.48 | 1 | default | qwen-max |
+| 49 | `mb.dmxapi.cn` | ¥3.5 | $0.7 / $2.8 | 5 | default | qwen-max |
+| 50 | `www.yibuapi.cn` | ¥3.6 | $2.4 / $9.6 | 1.5 | claude-code | qwen-max |
 
 > 另有 83 站未列出。
 

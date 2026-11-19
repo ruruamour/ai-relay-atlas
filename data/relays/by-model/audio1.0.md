@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.camel-hub.com` | ¥0.012 | $0.015 | 0.8 | default | audio1.0 |
-| 2 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | audio1.0 |
+| 2 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | audio1.0 |
 | 3 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | audio1.0 |
 | 4 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | audio1.0 |
 | 5 | `kfcv50.link` | ¥0.625 | $0.625 | 1 | default | audio1.0 |

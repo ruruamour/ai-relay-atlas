@@ -1,6 +1,6 @@
 # dall-e-3
 
-> 153 站提供 · 正常价 109 站 · 名义中位价 **$0.04**/次 · 实付中位价 **¥0.091**/次（55 站公开充值价） · 推算，未对账
+> 152 站提供 · 正常价 109 站 · 名义中位价 **$0.04**/次 · 实付中位价 **¥0.0875**/次（54 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -46,22 +46,22 @@
 | 34 | `www.cybersol.net` | ¥0.192 | $0.096 | 2 | GPT Premium | dall-e-3 |
 | 35 | `treerouter.com` | ¥0.224 | $0.032 | 7 | 企业推荐全模型分组 | dall-e-3 |
 | 36 | `ai2.qiqiai.top` | ¥0.2336 | $0.032 | 7.3 | azure | dall-e-3 |
-| 37 | `apiplus.online` | ¥0.2628 | $0.036 | 7.3 | default | dall-e-3 |
-| 38 | `api.qhhengxin.top` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
-| 39 | `kubernetes-test-api.apiqik.online` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
-| 40 | `nbapi.net` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
-| 41 | `newapi.ailingnan.top` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
-| 42 | `tenzen.ai` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
-| 43 | `gptnb.ai` | ¥0.34 | $0.34 | 1 | official | dall-e-3 |
-| 44 | `goapi.gptnb.ai` | ¥0.46 | $0.46 | 1 | official | dall-e-3 |
-| 45 | `oneapi.gptnb.ai` | ¥0.46 | $0.46 | 1 | official | dall-e-3 |
-| 46 | `new.xjai.cc` | ¥0.4672 | $0.064 | 7.3 | az-L2 | dall-e-3 |
-| 47 | `api.annyun.cn` | ¥0.5 | $0.5 | 1 | default | dall-e-3 |
-| 48 | `api1.147ai.com` | ¥0.5 | $0.5 | 1 | openai | dall-e-3 |
-| 49 | `fastapi.top` | ¥0.584 | $0.08 | 7.3 | default | dall-e-3 |
-| 50 | `api.qinzhiai.com` | ¥0.73 | $0.1 | 7.3 | openai | dall-e-3 |
+| 37 | `api.qhhengxin.top` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
+| 38 | `kubernetes-test-api.apiqik.online` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
+| 39 | `nbapi.net` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
+| 40 | `newapi.ailingnan.top` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
+| 41 | `tenzen.ai` | ¥0.292 | $0.04 | 7.3 | default | dall-e-3 |
+| 42 | `gptnb.ai` | ¥0.34 | $0.34 | 1 | official | dall-e-3 |
+| 43 | `goapi.gptnb.ai` | ¥0.46 | $0.46 | 1 | official | dall-e-3 |
+| 44 | `oneapi.gptnb.ai` | ¥0.46 | $0.46 | 1 | official | dall-e-3 |
+| 45 | `new.xjai.cc` | ¥0.4672 | $0.064 | 7.3 | az-L2 | dall-e-3 |
+| 46 | `api.annyun.cn` | ¥0.5 | $0.5 | 1 | default | dall-e-3 |
+| 47 | `api1.147ai.com` | ¥0.5 | $0.5 | 1 | openai | dall-e-3 |
+| 48 | `fastapi.top` | ¥0.584 | $0.08 | 7.3 | default | dall-e-3 |
+| 49 | `api.qinzhiai.com` | ¥0.73 | $0.1 | 7.3 | openai | dall-e-3 |
+| 50 | `api.ysaikeji.cn` | ¥0.876 | $0.12 | 7.3 | Gpt官转(3倍消耗) | dall-e-3 |
 
-> 另有 5 站未列出。
+> 另有 4 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `yuli.host` | $0.04 | default | 1 | dall-e-3 |
 | 50 | `yunai.chat` | $0.04 | default | 1 | dall-e-3 |
 
-> 另有 4 站未列出。
+> 另有 5 站未列出。
 
-> 44 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 43 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

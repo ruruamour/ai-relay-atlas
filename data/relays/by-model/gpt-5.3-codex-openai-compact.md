@@ -19,7 +19,7 @@
 | 7 | `one.ooo.cool` | ¥2.625 | $2.625 / $21 | 1 | codex | gpt-5.3-codex-openai-compact |
 | 8 | `api.ulastai.com` | ¥2.81 | $0.385 / $3.08 | 7.3 | gptpro | gpt-5.3-codex-openai-compact |
 | 9 | `api.llms.best` | ¥3.78 | $0.525 / $4.2 | 7.2 | Codex | gpt-5.3-codex-openai-compact |
-| 10 | `api.onefaka.com` | ¥9.125 | $1.25 / $10 | 7.3 | svip | gpt-5.3-codex-openai-compact |
+| 10 | `api.onefaka.com` | ¥9.125 | $1.25 / $10 | 7.3 | ssvip | gpt-5.3-codex-openai-compact |
 | 11 | `api.vivijane.pro` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.3-codex-openai-compact |
 | 12 | `ayong.qiuqiutoken.com` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.3-codex-openai-compact |
 | 13 | `wrduai.com` | ¥44.71 | $6.125 / $49 | 7.3 | 官转 | gpt-5.3-codex-openai-compact |
@@ -30,8 +30,8 @@
 |---|---|---|---|---|---|
 | 1 | `www.largechestnut.com` | $0.21 / $1.68 | gpt-plus | 0.12 | gpt-5.3-codex-openai-compact |
 | 2 | `api.168box.xyz` | $0.23625 / $1.89 | codex | 0.135 | gpt-5.3-codex-openai-compact |
-| 3 | `ai.nodeseek.in` | $1.75 / $14 | vip | 1 | gpt-5.3-codex-openai-compact |
-| 4 | `wjapi.xyz` | $21.25 / $170 | GPT_plus | 8.5 | gpt-5.3-codex-openai-compact |
+| 3 | `ai.nodeseek.in` | $1.75 / $14 | default | 1 | gpt-5.3-codex-openai-compact |
+| 4 | `wjapi.xyz` | $21.25 / $170 | default | 8.5 | gpt-5.3-codex-openai-compact |
 | 5 | `tianyuai.lol` | $32 / $256 | GPT_pro号池 | 16 | gpt-5.3-codex-openai-compact |
 
 > 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gpt-image
 
-> 39 站提供 · 正常价 17 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.09625**/次（14 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 16 站 · 名义中位价 **$0.06592**/次 · 实付中位价 **¥0.08**/次（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,11 +19,10 @@
 | 7 | `buliangrenai.com` | ¥0.08 | $0.08 | 1 | auto | gpt-image-4K |
 | 8 | `chrisapivip.com` | ¥0.1125 | $0.1125 | 1 | image-2-pro | gpt-image-high |
 | 9 | `gptch.cloud` | ¥0.15 | $0.15 | 1 | gpt-image-2 | gpt-image-4K |
-| 10 | `sudobug.top` | ¥0.15 | $0.15 | 1 | 生图专用Image-2/4k | gpt-image-medium |
-| 11 | `www.371181668.xyz` | ¥0.15 | $0.15 | 1 | default | gpt-image-medium |
-| 12 | `api.manbeihu.top` | ¥0.18 | $0.18 | 1 | image生图原生2/4K | gpt-image-medium |
-| 13 | `ai.hebox.net` | ¥0.2 | $0.0273973 | 7.3 | gpt-image原生4K | gpt-image-medium |
-| 14 | `api.3365api.cn` | ¥3.285 | $0.45 | 7.3 | image-2稳定生图 | gpt-image-4K |
+| 10 | `www.371181668.xyz` | ¥0.15 | $0.15 | 1 | default | gpt-image-medium |
+| 11 | `api.manbeihu.top` | ¥0.18 | $0.18 | 1 | image生图原生2/4K | gpt-image-medium |
+| 12 | `ai.hebox.net` | ¥0.2 | $0.0273973 | 7.3 | gpt-image原生4K | gpt-image |
+| 13 | `api.3365api.cn` | ¥3.285 | $0.45 | 7.3 | image-2稳定生图 | gpt-image-4K |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -33,4 +32,4 @@
 | 2 | `api.1route.dev` | $0.134 | GPT Image 🎨 | 1 | gpt-image-high |
 | 3 | `api.yescale.io` | $1.25 | task | 1.25 | gpt-image |
 
-> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

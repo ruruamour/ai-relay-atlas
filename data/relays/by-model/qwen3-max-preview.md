@@ -1,6 +1,6 @@
 # qwen3-max-preview
 
-> 114 站提供 · 正常价 88 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥8.68**/1M 输入（34 站公开充值价） · 推算，未对账
+> 111 站提供 · 正常价 84 站 · 名义中位价 **$6**/1M 输入 · 实付中位价 **¥8.68**/1M 输入（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,31 +19,27 @@
 | 7 | `gpt777.top` | ¥5.6 | $5.6 / $22.4 | 1 | opensource | qwen3-max-preview |
 | 8 | `tokensmind.ai` | ¥5.986 | $0.82 / $3.29 | 7.3 | default | qwen3-max-preview |
 | 9 | `api.eido.top` | ¥6 | $6 / $24 | 1 | default | qwen3-max-preview |
-| 10 | `keypool.space` | ¥6 | $6 / $24 | 1 | vip | qwen3-max-preview |
+| 10 | `keypool.space` | ¥6 | $6 / $24 | 1 | default | qwen3-max-preview |
 | 11 | `new.foxi-api.cn` | ¥6 | $6 / $24 | 1 | default | qwen3-max-preview |
 | 12 | `xinsuanai.com` | ¥6 | $6 / $24 | 1 | default | qwen3-max-preview |
-| 13 | `api.orcarouter.ai` | ¥6.285 | $0.861 / $3.441 | 7.3 | vip | qwen/qwen3-max-preview |
-| 14 | `api.ifopen.ai` | ¥6.37 | $1.82 / $7.28 | 3.5 | 通用大模型 | qwen3-max-preview |
-| 15 | `api2.aigcbest.top` | ¥6.37 | $1.82 / $7.28 | 3.5 | 通用大模型 | qwen3-max-preview |
-| 16 | `poloai.top` | ¥8 | $8 / $32 | 1 | qwen千问 | qwen3-max-preview |
-| 17 | `poloapi.top` | ¥8 | $8 / $32 | 1 | qwen千问 | qwen3-max-preview |
-| 18 | `www.hohoapi.com` | ¥9.36 | $3.12 / $12.48 | 3 | qwen | qwen3-max-preview |
-| 19 | `aidianwo.com` | ¥10 | $10 / $60 | 1 | default | qwen3-max-preview |
-| 20 | `rockapi.ai` | ¥10.5 | $10.5 / $42 | 1 | 0.7x | qwen3-max-preview |
-| 21 | `ai.nodeloc.com` | ¥12.78 | $1.75 / $7 | 7.3 | default | qwen3-max-preview |
-| 22 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-max-preview |
-| 23 | `api.aiskt.com` | ¥15 | $15 / $75 | 1 | default | qwen3-max-preview |
-| 24 | `kfcv50.link` | ¥15 | $15 / $60 | 1 | Domestic | qwen3-max-preview |
-| 25 | `n.lconai.com` | ¥15 | $15 / $60 | 1 | A2 | qwen3-max-preview |
-| 26 | `ai.38yun.cn` | ¥15.75 | $15.75 / $63 | 1 | 官方全系稳定渠道 | qwen3-max-preview |
-| 27 | `cc.zhihuiapi.top` | ¥16 | $16 / $64 | 1 | qwen | qwen3-max-preview |
-| 28 | `cn.zhihuiai.top` | ¥16 | $16 / $64 | 1 | qwen | qwen3-max-preview |
-| 29 | `api.34ku.com` | ¥19.5 | $19.5 / $78 | 1 | default | qwen3-max-preview |
-| 30 | `ai.tiantoken.com` | ¥28.47 | $3.9 / $15.6 | 7.3 | 鹏宇国内模型1 | qwen3-max-preview |
-| 31 | `codeyy.top` | ¥43.8 | $6 / $24 | 7.3 | default | qwen3-max-preview |
-| 32 | `hy88.my` | ¥43.8 | $6 / $24 | 7.3 | qwen | qwen3-max-preview |
-| 33 | `cn.gptapi.asia` | ¥105 | $105 / $420 | 1 | enterprise | qwen3-max-preview |
-| 34 | `yutoapi.com` | ¥105 | $105 / $420 | 1 | enterprise | qwen3-max-preview |
+| 13 | `api.orcarouter.ai` | ¥6.285 | $0.861 / $3.441 | 7.3 | default | qwen/qwen3-max-preview |
+| 14 | `poloai.top` | ¥8 | $8 / $32 | 1 | qwen千问 | qwen3-max-preview |
+| 15 | `poloapi.top` | ¥8 | $8 / $32 | 1 | qwen千问 | qwen3-max-preview |
+| 16 | `www.hohoapi.com` | ¥9.36 | $3.12 / $12.48 | 3 | qwen | qwen3-max-preview |
+| 17 | `aidianwo.com` | ¥10 | $10 / $60 | 1 | default | qwen3-max-preview |
+| 18 | `rockapi.ai` | ¥10.5 | $10.5 / $42 | 1 | 0.7x | qwen3-max-preview |
+| 19 | `ai.nodeloc.com` | ¥12.78 | $1.75 / $7 | 7.3 | default | qwen3-max-preview |
+| 20 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-max-preview |
+| 21 | `api.aiskt.com` | ¥15 | $15 / $75 | 1 | default | qwen3-max-preview |
+| 22 | `kfcv50.link` | ¥15 | $15 / $60 | 1 | Domestic | qwen3-max-preview |
+| 23 | `n.lconai.com` | ¥15 | $15 / $60 | 1 | A2 | qwen3-max-preview |
+| 24 | `ai.38yun.cn` | ¥15.75 | $15.75 / $63 | 1 | 官方全系稳定渠道 | qwen3-max-preview |
+| 25 | `api.34ku.com` | ¥19.5 | $19.5 / $78 | 1 | default | qwen3-max-preview |
+| 26 | `ai.tiantoken.com` | ¥28.47 | $3.9 / $15.6 | 7.3 | 鹏宇国内模型1 | qwen3-max-preview |
+| 27 | `codeyy.top` | ¥43.8 | $6 / $24 | 7.3 | default | qwen3-max-preview |
+| 28 | `hy88.my` | ¥43.8 | $6 / $24 | 7.3 | qwen | qwen3-max-preview |
+| 29 | `cn.gptapi.asia` | ¥105 | $105 / $420 | 1 | enterprise | qwen3-max-preview |
+| 30 | `yutoapi.com` | ¥105 | $105 / $420 | 1 | enterprise | qwen3-max-preview |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -102,4 +98,4 @@
 
 > 另有 4 站未列出。
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

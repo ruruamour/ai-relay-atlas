@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `keypool.space` | ¥0.016 | $0.016 | 1 | default | vidu2.0 |
+| 1 | `keypool.space` | ¥0.016 | $0.016 | 1 | vip | vidu2.0 |
 | 2 | `new.foxi-api.cn` | ¥0.016 | $0.016 | 1 | default | vidu2.0 |
 | 3 | `xinsuanai.com` | ¥0.016 | $0.016 | 1 | default | vidu2.0 |
 | 4 | `api.camel-hub.cn` | ¥0.12 | $0.15 | 0.8 | default | vidu2.0 |

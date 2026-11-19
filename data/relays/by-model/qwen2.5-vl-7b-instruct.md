@@ -1,6 +1,6 @@
 # qwen2.5-vl-7b-instruct
 
-> 37 站提供 · 正常价 24 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（15 站公开充值价） · 推算，未对账
+> 35 站提供 · 正常价 22 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,11 +20,9 @@
 | 8 | `keypool.space` | ¥2 | $2 / $5 | 1 | default | qwen2.5-vl-7b-instruct |
 | 9 | `xinsuanai.com` | ¥2 | $2 / $5 | 1 | default | qwen2.5-vl-7b-instruct |
 | 10 | `gpt777.top` | ¥2.4 | $2.4 / $7.2 | 1 | opensource | qwen2.5-vl-7b-instruct |
-| 11 | `api.ifopen.ai` | ¥2.73 | $0.78 / $2.34 | 3.5 | 通用大模型 | qwen2.5-vl-7b-instruct |
-| 12 | `api2.aigcbest.top` | ¥2.73 | $0.78 / $2.34 | 3.5 | 通用大模型 | qwen2.5-vl-7b-instruct |
-| 13 | `mb.dmxapi.cn` | ¥3.4 | $0.68 / $0.68 | 5 | vip | qwen2.5-vl-7b-instruct |
-| 14 | `kaopuapi.com` | ¥14.6 | $2 / $5 | 7.3 | cn1 | Qwen2.5-VL-7B-Instruct |
-| 15 | `mrouter.cn` | ¥14.6 | $2 / $5 | 7.3 | cn1 | Qwen2.5-VL-7B-Instruct |
+| 11 | `mb.dmxapi.cn` | ¥3.4 | $0.68 / $0.68 | 5 | vip | qwen2.5-vl-7b-instruct |
+| 12 | `kaopuapi.com` | ¥14.6 | $2 / $5 | 7.3 | cn1 | Qwen2.5-VL-7B-Instruct |
+| 13 | `mrouter.cn` | ¥14.6 | $2 / $5 | 7.3 | cn1 | Qwen2.5-VL-7B-Instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

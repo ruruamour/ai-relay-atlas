@@ -1,6 +1,6 @@
 # omni-moderation
 
-> 45 站提供 · 正常价 14 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥0.85**/1M 输入（14 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 15 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,5 +24,6 @@
 | 12 | `api.apiyi.com` | ¥1.4 | $0.2 / $0.2 | 7 | default | omni-moderation-2024-09-26 |
 | 13 | `api.bianxie.ai` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | omni-moderation-2024-09-26 |
 | 14 | `api.bianxieai.com` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | omni-moderation-2024-09-26 |
+| 15 | `api.openai-labs.com` | ¥1.5 | $1.5 / $6 | 1 | ultimate | omni-moderation-2024-09-26 |
 
-> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

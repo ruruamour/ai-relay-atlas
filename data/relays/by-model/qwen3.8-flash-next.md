@@ -1,6 +1,6 @@
 # qwen3.8-flash-next
 
-> 26 站提供 · 正常价 12 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥2.046**/1M 输入（11 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 14 站 · 名义中位价 **$0.25**/1M 输入 · 实付中位价 **¥2.848**/1M 输入（12 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,11 +21,13 @@
 | 9 | `kaopuapi.com` | ¥5.84 | $0.8 / $2.7 | 7.3 | mr_sale | Qwen3.8-Flash-Next |
 | 10 | `mrouter.cn` | ¥5.84 | $0.8 / $2.7 | 7.3 | mr_sale | Qwen3.8-Flash-Next |
 | 11 | `xiaobai-api.top` | ¥6 | $6 / $18 | 1 | 自部署无审查 | qwen3.8-flash-next |
+| 12 | `api.kaopuapi.xyz` | ¥7.3 | $1 / $3 | 7.3 | default | qwen3.8-flash-next |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.clawhud.com` | $0.015 / $0.047 | Nvidia | 0.1 | Qwen3.8-Flash-Next |
+| 2 | `supercodes.vip` | $0.06 / $0.15 | 微软 | 0.3 | qwen3.8-flash-next |
 
 > 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

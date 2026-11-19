@@ -1,6 +1,6 @@
 # qwen3-vl-32b
 
-> 80 站提供 · 正常价 65 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（13 站公开充值价） · 推算，未对账
+> 80 站提供 · 正常价 65 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,17 +11,17 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `gpt777.top` | ¥0.8 | $0.8 / $8 | 1 | opensource | Qwen/Qwen3-VL-32B-Thinking |
-| 2 | `api.ifopen.ai` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-32B-Thinking |
-| 3 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $2.6 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-32B-Thinking |
-| 4 | `ai.mowen.vip` | ¥0.9988 | $0.149416 / $1.49416 | 6.68494 | default | Qwen3-VL-32B-Thinking |
-| 5 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-vl-32b-thinking |
-| 6 | `aifast.site` | ¥1.2 | $1.2 / $12 | 1 | 国产文本 | qwen3-vl-32b-thinking |
-| 7 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥1.2 | $1.2 / $12 | 1 | aliyun | qwen3-vl-32b-thinking |
-| 8 | `ai.lgdfort.com` | ¥1.3 | $1.3 / $13 | 1 | default | Qwen/Qwen3-VL-32B-Thinking |
-| 9 | `keypool.space` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
-| 10 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
-| 11 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
-| 12 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-32b-thinking |
+| 2 | `ai.mowen.vip` | ¥0.9988 | $0.149416 / $1.49416 | 6.68494 | default | Qwen3-VL-32B-Thinking |
+| 3 | `api.zyai.online` | ¥1 | $1 / $10 | 1 | mini | qwen3-vl-32b-thinking |
+| 4 | `aifast.site` | ¥1.2 | $1.2 / $12 | 1 | 国产文本 | qwen3-vl-32b-thinking |
+| 5 | `kubernetes-apiqik-3006-api.apiqik.online` | ¥1.2 | $1.2 / $12 | 1 | aliyun | qwen3-vl-32b-thinking |
+| 6 | `ai.lgdfort.com` | ¥1.3 | $1.3 / $13 | 1 | default | Qwen/Qwen3-VL-32B-Thinking |
+| 7 | `keypool.space` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
+| 8 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
+| 9 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-32b-thinking |
+| 10 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-32b-thinking |
+| 11 | `api.ifopen.ai` | ¥3.5 | $1 / $10 | 3.5 | default | Qwen/Qwen3-VL-32B-Thinking |
+| 12 | `api2.aigcbest.top` | ¥3.5 | $1 / $10 | 3.5 | default | Qwen/Qwen3-VL-32B-Thinking |
 | 13 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-32b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）

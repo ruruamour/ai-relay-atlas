@@ -1,6 +1,6 @@
 # qwen3-vl-32b-instruct
 
-> 95 站提供 · 正常价 75 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（23 站公开充值价） · 推算，未对账
+> 96 站提供 · 正常价 75 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,16 +22,16 @@
 | 10 | `ai.lgdfort.com` | ¥1.3 | $1.3 / $5.2 | 1 | default | Qwen/Qwen3-VL-32B-Instruct |
 | 11 | `ai2.qiqiai.top` | ¥1.367 | $0.1872 / $0.7488 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-32b-instruct |
 | 12 | `gpt777.top` | ¥1.6 | $1.6 / $6.4 | 1 | opensource | Qwen/Qwen3-VL-32B-Instruct |
-| 13 | `api.ifopen.ai` | ¥1.82 | $0.52 / $2.08 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-32B-Instruct |
-| 14 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $2.08 | 3.5 | 通用大模型 | Qwen/Qwen3-VL-32B-Instruct |
-| 15 | `api.mountainsea.ai` | ¥1.836 | $0.274 / $1.096 | 6.7 | default | Qwen3-VL-32B-Instruct |
-| 16 | `keypool.space` | ¥2 | $2 / $8 | 1 | vip | qwen3-vl-32b-instruct |
-| 17 | `new.foxi-api.cn` | ¥2 | $2 / $8 | 1 | default | qwen3-vl-32b-instruct |
-| 18 | `xinsuanai.com` | ¥2 | $2 / $8 | 1 | default | qwen3-vl-32b-instruct |
-| 19 | `ssvip.dmxapi.com` | ¥2 | $0.274 / $1.096 | 7.3 | default | qwen3-vl-32b-instruct |
-| 20 | `yibuapi.com` | ¥2.4 | $1.6 / $6.4 | 1.5 | default | qwen3-vl-32b-instruct |
-| 21 | `api.qinzhiai.com` | ¥2.657 | $0.364 / $1.456 | 7.3 | openrouter | qwen/qwen3-vl-32b-instruct |
-| 22 | `www.hohoapi.com` | ¥3.12 | $1.04 / $4.16 | 3 | qwen | qwen3-vl-32b-instruct |
+| 13 | `api.mountainsea.ai` | ¥1.836 | $0.274 / $1.096 | 6.7 | default | Qwen3-VL-32B-Instruct |
+| 14 | `keypool.space` | ¥2 | $2 / $8 | 1 | default | qwen3-vl-32b-instruct |
+| 15 | `new.foxi-api.cn` | ¥2 | $2 / $8 | 1 | default | qwen3-vl-32b-instruct |
+| 16 | `xinsuanai.com` | ¥2 | $2 / $8 | 1 | default | qwen3-vl-32b-instruct |
+| 17 | `ssvip.dmxapi.com` | ¥2 | $0.274 / $1.096 | 7.3 | default | qwen3-vl-32b-instruct |
+| 18 | `yibuapi.com` | ¥2.4 | $1.6 / $6.4 | 1.5 | default | qwen3-vl-32b-instruct |
+| 19 | `api.qinzhiai.com` | ¥2.657 | $0.364 / $1.456 | 7.3 | openrouter | qwen/qwen3-vl-32b-instruct |
+| 20 | `www.hohoapi.com` | ¥3.12 | $1.04 / $4.16 | 3 | qwen | qwen3-vl-32b-instruct |
+| 21 | `api.ifopen.ai` | ¥7 | $2 / $8 | 3.5 | default | Qwen/Qwen3-VL-32B-Instruct |
+| 22 | `api2.aigcbest.top` | ¥7 | $2 / $8 | 3.5 | default | Qwen/Qwen3-VL-32B-Instruct |
 | 23 | `hy88.my` | ¥8.76 | $1.2 / $4.8 | 7.3 | qwen | qwen3-vl-32b-instruct |
 
 ## 名义价（未公开充值价，按 $ 排序）
@@ -91,4 +91,4 @@
 
 > 另有 2 站未列出。
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

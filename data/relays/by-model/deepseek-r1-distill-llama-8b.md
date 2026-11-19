@@ -22,6 +22,6 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `newapi.relayport17.asia` | $22 / $66 | ds专属分组 | 100 | deepseek-r1-distill-llama-8b |
+| 1 | `newapi.relayport17.asia` | $0.0396 / $0.1188 | 不降智分组 | 0.09 | deepseek-r1-distill-llama-8b |
 
 > 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

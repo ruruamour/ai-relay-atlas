@@ -1,6 +1,6 @@
 # doubao-1-5-lite
 
-> 22 站提供 · 正常价 20 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3342**/1M 输入（19 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 18 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3066**/1M 输入（17 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,12 +23,10 @@
 | 11 | `api.xhuoai.com` | ¥0.45 | $0.3 / $0.6 | 1.5 | default | doubao-1-5-lite-32k-250115 |
 | 12 | `yun.v1api.cc` | ¥0.45 | $0.3 / $0.6 | 1.5 | default | doubao-1-5-lite-32k-250115 |
 | 13 | `www.hohoapi.com` | ¥0.936 | $0.312 / $0.624 | 3 | default | doubao-1-5-lite-32k |
-| 14 | `api.ifopen.ai` | ¥1.05 | $0.3 / $0.6 | 3.5 | default | doubao-1-5-lite-32k-250115 |
-| 15 | `api2.aigcbest.top` | ¥1.05 | $0.3 / $0.6 | 3.5 | default | doubao-1-5-lite-32k-250115 |
-| 16 | `hightpm.aiearth.dev` | ¥1.825 | $0.25 / $0.75 | 7.3 | 官方直连-Azure-Claude-Gemini | doubao-1-5-lite-32k |
-| 17 | `api.xistree.hk` | ¥2.19 | $0.3 / $0.6 | 7.3 | default | doubao-1-5-lite-32k-250115 |
-| 18 | `api.ai-gaochao.cn` | ¥10.95 | $1.5 / $3 | 7.3 | GZD | doubao-1-5-lite-32k-250115 |
-| 19 | `apius.shubiaobiao.cn` | ¥10.95 | $1.5 / $3 | 7.3 | GZD | doubao-1-5-lite-32k-250115 |
+| 14 | `hightpm.aiearth.dev` | ¥1.825 | $0.25 / $0.75 | 7.3 | 官方直连-Azure-Claude-Gemini | doubao-1-5-lite-32k |
+| 15 | `api.xistree.hk` | ¥2.19 | $0.3 / $0.6 | 7.3 | default | doubao-1-5-lite-32k-250115 |
+| 16 | `api.ai-gaochao.cn` | ¥10.95 | $1.5 / $3 | 7.3 | GZD | doubao-1-5-lite-32k-250115 |
+| 17 | `apius.shubiaobiao.cn` | ¥10.95 | $1.5 / $3 | 7.3 | GZD | doubao-1-5-lite-32k-250115 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

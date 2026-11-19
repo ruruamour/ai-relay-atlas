@@ -1,6 +1,6 @@
 # doubao-seed-2.0-lite
 
-> 52 站提供 · 正常价 21 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.61**/1M 输入（16 站公开充值价） · 推算，未对账
+> 50 站提供 · 正常价 19 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.61**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,10 +31,8 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.relaycore.cn` | $0.036 / $0.216 | 国模-临时 | 0.06 | doubao-seed-2.0-lite |
-| 2 | `sub.skypoem.top` | $0.324 / $1.944 | qwen-自部署 | 0.18 | doubao-seed-2.0-lite |
-| 3 | `aichronos.xyz` | $0.36 / $2.16 | 国模 | 0.6 | doubao-seed-2.0-lite |
-| 4 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | doubao-seed-2.0-lite-260215 |
-| 5 | `openclawroot.com` | $5 / $25 | default | 1 | Doubao-Seed-2.0-lite |
+| 1 | `sub.skypoem.top` | $0.324 / $1.944 | qwen-自部署 | 0.18 | doubao-seed-2.0-lite |
+| 2 | `aichronos.xyz` | $0.36 / $2.16 | 国模 | 0.6 | doubao-seed-2.0-lite |
+| 3 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | doubao-seed-2.0-lite-260215 |
 
 > 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

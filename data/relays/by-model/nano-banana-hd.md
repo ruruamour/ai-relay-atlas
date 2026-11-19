@@ -19,7 +19,7 @@
 | 7 | `api.hopeai.cc` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
 | 8 | `apilio.ai` | ¥0.24 | $0.24 | 1 | gemini优质 | nano-banana-hd |
 | 9 | `kfcv50.link` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
-| 10 | `new.gateway.icu` | ¥0.24 | $0.24 | 1 | reverse | nano-banana-hd |
+| 10 | `new.gateway.icu` | ¥0.24 | $0.24 | 1 | default | nano-banana-hd |
 | 11 | `test-ssl.bltcy.ai` | ¥0.24 | $0.24 | 1 | gemini优质 | nano-banana-hd |
 | 12 | `cnapi.kksj.org` | ¥0.27 | $0.27 | 1 | default | nano-banana-hd |
 | 13 | `ai.comfly.org` | ¥0.288 | $0.24 | 1.2 | gemini优质 | nano-banana-hd |

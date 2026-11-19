@@ -1,6 +1,6 @@
 # qwen-coder-plus
 
-> 39 站提供 · 正常价 25 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2.8**/1M 输入（25 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 23 站 · 名义中位价 **$1.82**/1M 输入 · 实付中位价 **¥2.8**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -27,13 +27,11 @@
 | 15 | `kfcv50.link` | ¥2.857 | $2.8572 / $2.8572 | 1 | Domestic | qwen-coder-plus-latest |
 | 16 | `api.aiskt.com` | ¥3.5 | $3.5 / $7 | 1 | default | qwen-coder-plus |
 | 17 | `www.hohoapi.com` | ¥5.46 | $1.82 / $3.64 | 3 | qwen | qwen-coder-plus |
-| 18 | `cc.zhihuiapi.top` | ¥5.6 | $5.6 / $11.2 | 1 | qwen | qwen-coder-plus |
-| 19 | `cn.zhihuiai.top` | ¥5.6 | $5.6 / $11.2 | 1 | qwen | qwen-coder-plus |
-| 20 | `hy88.my` | ¥12.51 | $1.71432 / $1.71432 | 7.3 | qwen | qwen-coder-plus-latest |
-| 21 | `wrduai.com` | ¥12.78 | $1.75 / $3.5 | 7.3 | 官转 | qwen-coder-plus |
-| 22 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-coder-plus |
-| 23 | `cn.gptapi.asia` | ¥20.02 | $20.02 / $40.04 | 1 | enterprise | qwen-coder-plus |
-| 24 | `yutoapi.com` | ¥20.02 | $20.02 / $40.04 | 1 | enterprise | qwen-coder-plus |
-| 25 | `codeyy.top` | ¥25.55 | $3.5 / $7 | 7.3 | default | qwen-coder-plus |
+| 18 | `hy88.my` | ¥12.51 | $1.71432 / $1.71432 | 7.3 | qwen | qwen-coder-plus-latest |
+| 19 | `wrduai.com` | ¥12.78 | $1.75 / $3.5 | 7.3 | 官转 | qwen-coder-plus |
+| 20 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-coder-plus |
+| 21 | `cn.gptapi.asia` | ¥20.02 | $20.02 / $40.04 | 1 | enterprise | qwen-coder-plus |
+| 22 | `yutoapi.com` | ¥20.02 | $20.02 / $40.04 | 1 | enterprise | qwen-coder-plus |
+| 23 | `codeyy.top` | ¥25.55 | $3.5 / $7 | 7.3 | default | qwen-coder-plus |
 
 > 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

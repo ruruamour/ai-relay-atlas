@@ -1,6 +1,6 @@
 # tts-1
 
-> 195 站提供 · 正常价 119 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥30**/1M 输入（114 站公开充值价） · 推算，未对账
+> 194 站提供 · 正常价 117 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥30**/1M 输入（112 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -32,45 +32,45 @@
 | 20 | `api.hopeai.cc` | ¥15 | $15 / $15 | 1 | default | tts-1-1106 |
 | 21 | `api.routeeasy.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
 | 22 | `api.yuboar.com` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
-| 23 | `apilio.ai` | ¥15 | $15 / $15 | 1 | svip | tts-1 |
-| 24 | `dev.novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 25 | `dn.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 26 | `goapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
-| 27 | `gptimgaz.aiearth.dev` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
-| 28 | `gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
-| 29 | `i-sh.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 30 | `i.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 31 | `newapi.link` | ¥15 | $15 / $15 | 1 | 备用 | tts-1-1106 |
-| 32 | `newapi.prorisehub.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 33 | `newapi.tu-zi.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 34 | `novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 35 | `oneapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
-| 36 | `platform.anyrouter.ai` | ¥15 | $15 / $15 | 1 | Azure4 | tts-1 |
+| 23 | `apijing.com` | ¥15 | $15 / $15 | 1 | 生图模型 | tts-1 |
+| 24 | `apilio.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 25 | `dev.novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 26 | `dn.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 27 | `goapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
+| 28 | `gptimgaz.aiearth.dev` | ¥15 | $15 / $15 | 1 | AzureOpenAI | tts-1 |
+| 29 | `gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
+| 30 | `i-sh.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 31 | `i.v1api.cc` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 32 | `newapi.link` | ¥15 | $15 / $15 | 1 | 备用 | tts-1-1106 |
+| 33 | `newapi.prorisehub.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 34 | `newapi.tu-zi.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 35 | `novaapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
+| 36 | `oneapi.gptnb.ai` | ¥15 | $15 / $15 | 1 | Azure | tts-1 |
 | 37 | `rockapi.ai` | ¥15 | $15 / $15 | 1 | default | tts-1 |
 | 38 | `test-ssl.bltcy.ai` | ¥15 | $15 / $15 | 1 | svip | tts-1 |
 | 39 | `wochirou.com` | ¥15 | $15 / $15 | 1 | default | tts-1 |
 | 40 | `zen-ai.top` | ¥15 | $15 / $15 | 1 | default | tts-1 |
-| 41 | `ai.comfly.org` | ¥18 | $15 / $15 | 1.2 | svip | tts-1 |
+| 41 | `ai.comfly.org` | ¥18 | $15 / $15 | 1.2 | default | tts-1 |
 | 42 | `emoxia.meta-api.vip` | ¥18.09 | $60.3 / $60.3 | 0.3 | vip | tts-1 |
 | 43 | `api.34ku.com` | ¥19.5 | $19.5 / $19.5 | 1 | default | tts-1 |
 | 44 | `api.annyun.cn` | ¥20 | $20 / $20 | 1 | default | tts-1 |
-| 45 | `ai.t8star.org` | ¥20.25 | $15 / $15 | 1.35 | svip | tts-1 |
+| 45 | `ai.t8star.org` | ¥20.25 | $15 / $15 | 1.35 | default | tts-1 |
 | 46 | `ai.astrumflow.com` | ¥22.5 | $22.5 / $22.5 | 1 | 官转OpenAI | tts-1 |
 | 47 | `api.ocoolai.com` | ¥22.5 | $22.5 / $22.5 | 1 | default | tts-1 |
 | 48 | `api.xhuoai.com` | ¥22.5 | $15 / $15 | 1.5 | default | tts-1 |
 | 49 | `learn-ai.top` | ¥22.5 | $22.5 / $22.5 | 1 | openai | tts-1 |
 | 50 | `ocool.cn` | ¥22.5 | $22.5 / $22.5 | 1 | default | tts-1 |
 
-> 另有 64 站未列出。
+> 另有 62 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.yescale.io` | $15 / $15 | normal | 1 | tts-1 |
+| 1 | `api.yescale.io` | $15 / $15 | starter | 1 | tts-1 |
 | 2 | `lobe.zen-ai.top` | $15 / $15 | momo | 1 | tts-1 |
-| 3 | `vip.zen-ai.top` | $45 / $45 | default | 3 | tts-1-1106 |
+| 3 | `vip.zen-ai.top` | $45 / $45 | default | 3 | tts-1 |
 | 4 | `api.hy88.my` | $48 / $48 | minimax | 0.8 | tts-1 |
 | 5 | `api.aabao.ai` | $120 / $240 | OpenAI直连 | 8 | tts-1 |
 
-> 76 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 77 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -22,11 +22,11 @@
 | 10 | `kfcv50.link` | ¥3 | $3 / $15 | 1 | default | grok-3-deepsearch |
 | 11 | `n.lconai.com` | ¥3 | $3 / $15 | 1 | B1 | grok-3-deepsearch |
 | 12 | `opus.v1api.cc` | ¥3.2 | $4 / $20 | 0.8 | default | grok-3-deepsearch |
-| 13 | `i-sh.v1api.cc` | ¥3.6 | $3.6 / $10.8 | 1 | china | grok-3-deepsearch |
+| 13 | `i-sh.v1api.cc` | ¥3.6 | $3.6 / $10.8 | 1 | deepseek | grok-3-deepsearch |
 | 14 | `i.v1api.cc` | ¥3.6 | $3.6 / $10.8 | 1 | china | grok-3-deepsearch |
 | 15 | `8s.hk` | ¥4 | $4 / $20 | 1 | 全模型自动 | grok-3-deepsearch |
 | 16 | `gpt-api.soruxgpt.com` | ¥4.8 | $2.4 / $6 | 2 | default | grok-3-deepsearch |
-| 17 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | default | grok-3-deepsearch |
+| 17 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | vip | grok-3-deepsearch |
 | 18 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-3-deepsearch |
 | 19 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | grok-3-deepsearch |
 | 20 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3-deepsearch |

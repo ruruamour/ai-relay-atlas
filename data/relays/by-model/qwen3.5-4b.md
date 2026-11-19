@@ -1,6 +1,6 @@
 # qwen3.5-4b
 
-> 25 站提供 · 正常价 9 站 · 名义中位价 **$0.16**/1M 输入 · 实付中位价 **¥0.182**/1M 输入（9 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 9 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.7**/1M 输入（9 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,11 +13,11 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.15 | 1 | relay | Qwen3.5-4B |
 | 2 | `llm.kagu.one` | ¥0.146 | $0.02 / $0.035 | 7.3 | 大杂烩 | qwen/qwen3.5-4b |
 | 3 | `gpt777.top` | ¥0.16 | $0.16 / $0.48 | 1 | opensource | Qwen/Qwen3.5-4B |
-| 4 | `api.ifopen.ai` | ¥0.182 | $0.052 / $0.156 | 3.5 | 通用大模型 | Qwen/Qwen3.5-4B |
-| 5 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.156 | 3.5 | 通用大模型 | Qwen/Qwen3.5-4B |
+| 4 | `api.ifopen.ai` | ¥0.7 | $0.2 / $0.6 | 3.5 | default | Qwen/Qwen3.5-4B |
+| 5 | `api2.aigcbest.top` | ¥0.7 | $0.2 / $0.6 | 3.5 | default | Qwen/Qwen3.5-4B |
 | 6 | `yibuapi.com` | ¥0.72 | $0.48 / $3.84 | 1.5 | default | qwen3.5-4b |
 | 7 | `www.yibuapi.cn` | ¥0.9 | $0.6 / $4.8 | 1.5 | claude-code | qwen3.5-4b |
 | 8 | `yibuapi.cn` | ¥0.9 | $0.6 / $4.8 | 1.5 | claude-code | qwen3.5-4b |
 | 9 | `elysiver.h-e.top` | ¥2 | $0.4 / $0.7 | 5 | unattended-jungling | qwen3.5-4b(fingerprint≈k11) |
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3-vl-235b-a22b
 
-> 91 站提供 · 正常价 76 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（24 站公开充值价） · 推算，未对账
+> 89 站提供 · 正常价 73 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,17 +23,14 @@
 | 11 | `new.foxi-api.cn` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
 | 12 | `xinsuanai.com` | ¥2 | $2 / $20 | 1 | default | qwen3-vl-235b-a22b-thinking |
 | 13 | `ssvip.dmxapi.com` | ¥2 | $0.274 / $2.74 | 7.3 | default | qwen3-vl-235b-a22b-thinking |
-| 14 | `api.orcarouter.ai` | ¥2.92 | $0.4 / $4 | 7.3 | vip | qwen/qwen3-vl-235b-a22b-thinking |
+| 14 | `api.orcarouter.ai` | ¥2.92 | $0.4 / $4 | 7.3 | default | qwen/qwen3-vl-235b-a22b-thinking |
 | 15 | `or.mux.la` | ¥2.92 | $0.4 / $4 | 7.3 | default | qwen/qwen3-vl-235b-a22b-thinking |
-| 16 | `mb.dmxapi.cn` | ¥2.926 | $0.5852 / $5.8519 | 5 | default | qwen3-vl-235b-a22b-thinking |
-| 17 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-235b-a22b-thinking |
-| 18 | `cc.zhihuiapi.top` | ¥3.2 | $3.2 / $32 | 1 | qwen | qwen3-vl-235b-a22b-thinking |
-| 19 | `cn.zhihuiai.top` | ¥3.2 | $3.2 / $32 | 1 | qwen | qwen3-vl-235b-a22b-thinking |
-| 20 | `ai.mowen.vip` | ¥3.276 | $0.49 / $1.975 | 6.68494 | default | qwen3-vl-235b-a22b-thinking |
-| 21 | `ai2.qiqiai.top` | ¥3.416 | $0.468 / $4.68 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-235b-a22b-thinking |
-| 22 | `api.qinzhiai.com` | ¥6.643 | $0.91 / $9.1 | 7.3 | openrouter | qwen/qwen3-vl-235b-a22b-thinking |
-| 23 | `api.xistree.hk` | ¥7.3 | $1 / $10 | 7.3 | default | qwen3-vl-235b-a22b |
-| 24 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-235b-a22b-thinking |
+| 16 | `www.hohoapi.com` | ¥3.12 | $1.04 / $10.4 | 3 | qwen | qwen3-vl-235b-a22b-thinking |
+| 17 | `ai.mowen.vip` | ¥3.276 | $0.49 / $1.975 | 6.68494 | default | qwen3-vl-235b-a22b-thinking |
+| 18 | `ai2.qiqiai.top` | ¥3.416 | $0.468 / $4.68 | 7.3 | 官方合作渠道 | qwen/qwen3-vl-235b-a22b-thinking |
+| 19 | `api.qinzhiai.com` | ¥6.643 | $0.91 / $9.1 | 7.3 | openrouter | qwen/qwen3-vl-235b-a22b-thinking |
+| 20 | `api.xistree.hk` | ¥7.3 | $1 / $10 | 7.3 | default | qwen3-vl-235b-a22b |
+| 21 | `hy88.my` | ¥8.76 | $1.2 / $12 | 7.3 | qwen | qwen3-vl-235b-a22b-thinking |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -92,4 +89,4 @@
 
 > 另有 2 站未列出。
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

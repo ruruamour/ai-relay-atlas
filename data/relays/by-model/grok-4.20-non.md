@@ -1,6 +1,6 @@
 # grok-4.20-non
 
-> 46 站提供 · 正常价 32 站 · 名义中位价 **$0.2125**/1M 输入 · 实付中位价 **¥0.9581**/1M 输入（12 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 34 站 · 名义中位价 **$0.2125**/1M 输入 · 实付中位价 **¥0.9581**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,18 +10,20 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `apibasis.com` | ¥0.15 | $0.15 / $0.1875 | 1 | Grok super | grok-4.20-non-reasoning |
-| 2 | `ai.hebox.net` | ¥0.2737 | $0.0375 / $0.075 | 7.3 | grok（推荐） | grok-4.20-non-reasoning |
-| 3 | `www.omniroute.cc` | ¥0.4 | $0.4 / $1.2 | 1 | SuperGrok 【Ultra】 | grok-4.20-non-reasoning |
-| 4 | `newapi.ailyyzdk.xyz` | ¥0.5 | $0.5 / $1.5 | 1 | grok | grok-4.20-non-reasoning |
-| 5 | `ai.lt4net.org` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | grok-4.20-non-reasoning |
-| 6 | `ai.ltcraft.cn` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | grok-4.20-non-reasoning |
-| 7 | `image.cjyyswq.com` | ¥1.369 | $0.1875 / $0.375 | 7.3 | grok heavy满血（倍率区间：0.12-0.2） | grok-4.20-non-reasoning |
-| 8 | `api.unorouter.com` | ¥1.969 | $1.96875 / $3.9375 | 1 | grokkey-pol-grok-4.20-non-reasoning | grok-4.20-non-reasoning |
-| 9 | `new.yihubang.top` | ¥2 | $2 / $6 | 1 | gork | xai/grok-4.20-non-reasoning |
-| 10 | `ai-api.loft.games` | ¥6.77 | $1 / $2 | 6.77 | default | grok-4.20-non-reasoning |
-| 11 | `hub.yzcld.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | Grok | grok-4.20-non-reasoning |
-| 12 | `api.wapq.cn` | ¥18.25 | $2.5 / $1.5 | 7.3 | default | grok-4.20-non-reasoning |
+| 1 | `api.zhehentiaohe.cn` | ¥0.15 | $0.15 / $0.3 | 1 | grok | grok-4.20-non-reasoning |
+| 2 | `apibasis.com` | ¥0.15 | $0.15 / $0.1875 | 1 | Grok Heavy | grok-4.20-non-reasoning |
+| 3 | `ai.hebox.net` | ¥0.2737 | $0.0375 / $0.075 | 7.3 | grok（推荐） | grok-4.20-non-reasoning |
+| 4 | `www.omniroute.cc` | ¥0.4 | $0.4 / $1.2 | 1 | SuperGrok 【Ultra】 | grok-4.20-non-reasoning |
+| 5 | `newapi.ailyyzdk.xyz` | ¥0.5 | $0.5 / $1.5 | 1 | grok | grok-4.20-non-reasoning |
+| 6 | `ai.lt4net.org` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | grok-4.20-non-reasoning |
+| 7 | `ai.ltcraft.cn` | ¥0.5475 | $0.075 / $0.075 | 7.3 | default | grok-4.20-non-reasoning |
+| 8 | `image.cjyyswq.com` | ¥1.369 | $0.1875 / $0.375 | 7.3 | grok heavy满血（倍率区间：0.12-0.2） | grok-4.20-non-reasoning |
+| 9 | `api.unorouter.com` | ¥1.969 | $1.96875 / $3.9375 | 1 | grokkey-pol-grok-4.20-non-reasoning | grok-4.20-non-reasoning |
+| 10 | `new.yihubang.top` | ¥2 | $2 / $6 | 1 | gork | xai/grok-4.20-non-reasoning |
+| 11 | `ai-api.loft.games` | ¥6.77 | $1 / $2 | 6.77 | default | grok-4.20-non-reasoning |
+| 12 | `api.jiguang.online` | ¥9.125 | $1.25 / $2.5 | 7.3 | grok--cli | grok-4.20-non-reasoning |
+| 13 | `hub.yzcld.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | Grok | grok-4.20-non-reasoning |
+| 14 | `api.wapq.cn` | ¥18.25 | $2.5 / $1.5 | 7.3 | default | grok-4.20-non-reasoning |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -40,12 +42,12 @@
 | 11 | `create.99ai.club` | $0.1875 / $0.375 | Grok Heavy | 0.15 | grok-4.20-non-reasoning |
 | 12 | `loveapi.top` | $0.2375 / $0.475 | Grok 0.19 super heavy | 0.19 | grok-4.20-non-reasoning |
 | 13 | `yyds.chybenzun.top` | $0.24 / $0.72 | 【文本模型】Grok Heavy 4.7 | 0.12 | grok-4.20-non-reasoning |
-| 14 | `api.tameac.com` | $0.25 / $0.5 | grok heavy | 0.2 | grok-4.20-non-reasoning |
-| 15 | `cfjwlpro.com` | $0.25 / $0.5 | grok | 0.2 | grok-4.20-non-reasoning |
-| 16 | `llmp.cc` | $0.25 / $0.5 | SuperGrok 0.2倍率 | 0.2 | grok-4.20-non-reasoning |
-| 17 | `api.gohok.top` | $0.375 / $0.75 | grok | 0.3 | grok-4.20-non-reasoning |
-| 18 | `www.jiguang.me` | $0.5 / $1 | grok官转不降智！ | 0.4 | grok-4.20-non-reasoning |
+| 14 | `api.hpeak.net` | $0.25 / $0.5 | Grok - heavy | 0.2 | grok-4.20-non-reasoning |
+| 15 | `api.tameac.com` | $0.25 / $0.5 | grok heavy | 0.2 | grok-4.20-non-reasoning |
+| 16 | `cfjwlpro.com` | $0.25 / $0.5 | grok | 0.2 | grok-4.20-non-reasoning |
+| 17 | `llmp.cc` | $0.25 / $0.5 | SuperGrok 0.2倍率 | 0.2 | grok-4.20-non-reasoning |
+| 18 | `api.gohok.top` | $0.375 / $0.75 | grok | 0.3 | grok-4.20-non-reasoning |
 | 19 | `nodeai.click` | $1.25 / $2.5 | grok | 1 | grok-4.20-non-reasoning |
 | 20 | `big-model.smart-agi.com` | $2.5 / $5 | Gork Heavy 年费账号【稳定】 | 2 | grok-4.20-non-reasoning |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

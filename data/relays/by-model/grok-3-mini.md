@@ -1,6 +1,6 @@
 # grok-3-mini
 
-> 173 站提供 · 正常价 91 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.306**/1M 输入（70 站公开充值价） · 推算，未对账
+> 171 站提供 · 正常价 91 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.224**/1M 输入（71 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,60 +15,60 @@
 | 3 | `model-probe.jbbtoken.cn` | ¥0.025 | $0.025 / $0.05 | 1 | 专用grok | grok-3-mini |
 | 4 | `aircola.top` | ¥0.045 | $0.045 / $0.075 | 1 | grok heavy | grok-3-mini |
 | 5 | `api.aitokensflux.com` | ¥0.06 | $0.06 / $0.1 | 1 | grok | grok-3-mini |
-| 6 | `new.yihubang.top` | ¥0.09 | $0.09 / $0.15 | 1 | gork 4.5 | grok-3-mini |
-| 7 | `new.yunai.link` | ¥0.09 | $0.09 / $0.1503 | 1 | azure03-0 | grok-3-mini |
-| 8 | `aifast.site` | ¥0.12 | $0.12 / $0.2004 | 1 | default | grok-3-mini |
-| 9 | `go.sbgpt.site` | ¥0.12 | $0.12 / $0.12 | 1 | 无审核az-0.4倍率 | grok-3-mini |
-| 10 | `api.zyai.online` | ¥0.15 | $0.15 / $0.2505 | 1 | mini | grok-3-mini |
-| 11 | `kfcv50.link` | ¥0.15 | $0.15 / $0.02505 | 1 | az_act05 | grok-3-mini |
-| 12 | `tokenflux.cloud` | ¥0.15 | $0.15 / $0.25 | 1 | Gork | grok-3-mini |
-| 13 | `azapi.com.cn` | ¥0.18 | $0.18 / $0.30006 | 1 | Azure | grok-3-mini |
-| 14 | `gcp-proxy.proxy-ai.tech` | ¥0.18 | $0.18 / $0.3 | 1 | Grok | grok-3-mini |
-| 15 | `api.aiskt.com` | ¥0.3 | $0.3 / $0.5 | 1 | azure1 | grok-3-mini |
-| 16 | `api.routeeasy.ai` | ¥0.3 | $0.3 / $0.0501 | 1 | default | grok-3-mini |
-| 17 | `apiai.shop` | ¥0.3 | $0.25 / $1.25 | 1.2 | default | grok-3-mini |
-| 18 | `easymax.ai` | ¥0.3 | $0.3 / $0.5 | 1 | grok | grok-3-mini |
-| 19 | `hk-api.shqbb.com` | ¥0.3 | $0.3 / $0.5 | 1 | grok | grok-3-mini |
-| 20 | `keypool.space` | ¥0.3 | $0.3 / $0.501 | 1 | vip | grok-3-mini |
-| 21 | `learn-ai.top` | ¥0.3 | $0.3 / $0.50001 | 1 | grok | grok-3-mini |
-| 22 | `www.ggwk1.online` | ¥0.3 | $0.3 / $0.500001 | 1 | a全模型综合组-1倍率 | grok-3-mini |
-| 23 | `xinsuanai.com` | ¥0.3 | $0.3 / $0.501 | 1 | default | grok-3-mini |
-| 24 | `yilian.space` | ¥0.3125 | $0.3125 / $0.625 | 1 | grok | grok-3-mini |
-| 25 | `api.34ku.com` | ¥0.39 | $0.39 / $0.6513 | 1 | default | grok-3-mini |
-| 26 | `api.eido.top` | ¥0.4 | $0.4 / $0.08 | 1 | default | grok-3-mini |
-| 27 | `n.lconai.com` | ¥0.45 | $0.45 / $0.7515 | 1 | default | grok-3-mini |
-| 28 | `ai.vale.xin` | ¥0.5931 | $0.08125 / $0.1625 | 7.3 | vale-text | grok-3-mini |
-| 29 | `8s.hk` | ¥0.6 | $0.6 / $1 | 1 | 全模型自动 | grok-3-mini |
-| 30 | `chrisapivip.com` | ¥0.6 | $0.6 / $1.002 | 1 | grok | grok-3-mini |
-| 31 | `zen-ai.top` | ¥0.6 | $0.6 / $0.9996 | 1 | default | grok-3-mini |
-| 32 | `api.ccode.vip` | ¥0.84 | $0.84 / $1.45 | 1 | Grok Official | grok-3-mini |
-| 33 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-3-mini |
-| 34 | `ai.mowen.vip` | ¥1.003 | $0.15 / $0.25 | 6.68494 | default | grok-3-mini |
-| 35 | `modelsell.com` | ¥1.224 | $0.18 / $0.3006 | 6.8 | xAI | grok-3-mini |
-| 36 | `mgrouter.com` | ¥1.387 | $0.204 / $0.34 | 6.8 | Grok-原厂稳定版-6.8折 | grok-3-mini |
-| 37 | `mb.dmxapi.cn` | ¥1.5 | $0.3 / $0.501 | 5 | default | grok-3-mini |
-| 38 | `getgoapi.com` | ¥1.728 | $0.24 / $0.4 | 7.2 | default | grok-3-mini |
-| 39 | `ai2.qiqiai.top` | ¥1.752 | $0.24 / $0.4 | 7.3 | azure | grok-3-mini |
-| 40 | `api.ocoolai.com` | ¥1.89 | $1.89 / $3.1563 | 1 | claude_official | grok-3-mini |
-| 41 | `ocool.cn` | ¥1.89 | $1.89 / $3.1563 | 1 | claude_official | grok-3-mini |
-| 42 | `one.ooo.cool` | ¥1.89 | $1.89 / $3.1563 | 1 | claude_official | grok-3-mini |
-| 43 | `aidianwo.com` | ¥2 | $2 / $4 | 1 | default | grok-3-mini |
-| 44 | `api.aialma.club` | ¥2.01 | $0.3 / $0.3 | 6.7 | default | grok-3-mini |
-| 45 | `api.mountainsea.ai` | ¥2.01 | $0.3 / $0.501 | 6.7 | default | grok-3-mini |
-| 46 | `api.apipro.ai` | ¥2.1 | $0.3 / $0.5 | 7 | grok | grok-3-mini |
-| 47 | `api.laozhang.ai` | ¥2.1 | $0.3 / $1.8 | 7 | default | grok-3-mini |
-| 48 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $3.507 | 1 | enterprise | grok-3-mini |
-| 49 | `yutoapi.com` | ¥2.1 | $2.1 / $3.507 | 1 | enterprise | grok-3-mini |
-| 50 | `2coding.com` | ¥2.19 | $0.3 / $0.5 | 7.3 | grok | grok-3-mini |
+| 6 | `api.996444.cn` | ¥0.09 | $0.09 / $0.15 | 1 | Grok-Heavy | grok-3-mini |
+| 7 | `new.yihubang.top` | ¥0.09 | $0.09 / $0.15 | 1 | gork 4.5 | grok-3-mini |
+| 8 | `new.yunai.link` | ¥0.09 | $0.09 / $0.1503 | 1 | azure03-0 | grok-3-mini |
+| 9 | `aifast.site` | ¥0.12 | $0.12 / $0.2004 | 1 | default | grok-3-mini |
+| 10 | `go.sbgpt.site` | ¥0.12 | $0.12 / $0.12 | 1 | 无审核az-0.4倍率 | grok-3-mini |
+| 11 | `api.zyai.online` | ¥0.15 | $0.15 / $0.2505 | 1 | mini | grok-3-mini |
+| 12 | `kfcv50.link` | ¥0.15 | $0.15 / $0.02505 | 1 | az_act05 | grok-3-mini |
+| 13 | `tokenflux.cloud` | ¥0.15 | $0.15 / $0.25 | 1 | Gork | grok-3-mini |
+| 14 | `azapi.com.cn` | ¥0.18 | $0.18 / $0.30006 | 1 | Azure | grok-3-mini |
+| 15 | `gcp-proxy.proxy-ai.tech` | ¥0.18 | $0.18 / $0.3 | 1 | Grok | grok-3-mini |
+| 16 | `api.aiskt.com` | ¥0.3 | $0.3 / $0.5 | 1 | azure1 | grok-3-mini |
+| 17 | `api.routeeasy.ai` | ¥0.3 | $0.3 / $0.0501 | 1 | default | grok-3-mini |
+| 18 | `apiai.shop` | ¥0.3 | $0.25 / $1.25 | 1.2 | default | grok-3-mini |
+| 19 | `easymax.ai` | ¥0.3 | $0.3 / $0.5 | 1 | grok | grok-3-mini |
+| 20 | `hk-api.shqbb.com` | ¥0.3 | $0.3 / $0.5 | 1 | grok | grok-3-mini |
+| 21 | `keypool.space` | ¥0.3 | $0.3 / $0.501 | 1 | default | grok-3-mini |
+| 22 | `learn-ai.top` | ¥0.3 | $0.3 / $0.50001 | 1 | grok | grok-3-mini |
+| 23 | `www.ggwk1.online` | ¥0.3 | $0.3 / $0.500001 | 1 | a全模型综合组-1倍率 | grok-3-mini |
+| 24 | `xinsuanai.com` | ¥0.3 | $0.3 / $0.501 | 1 | default | grok-3-mini |
+| 25 | `yilian.space` | ¥0.3125 | $0.3125 / $0.625 | 1 | grok | grok-3-mini |
+| 26 | `api.34ku.com` | ¥0.39 | $0.39 / $0.6513 | 1 | default | grok-3-mini |
+| 27 | `api.eido.top` | ¥0.4 | $0.4 / $0.08 | 1 | default | grok-3-mini |
+| 28 | `n.lconai.com` | ¥0.45 | $0.45 / $0.7515 | 1 | default | grok-3-mini |
+| 29 | `ai.vale.xin` | ¥0.5931 | $0.08125 / $0.1625 | 7.3 | vale-text | grok-3-mini |
+| 30 | `8s.hk` | ¥0.6 | $0.6 / $1 | 1 | 全模型自动 | grok-3-mini |
+| 31 | `chrisapivip.com` | ¥0.6 | $0.6 / $1.002 | 1 | grok | grok-3-mini |
+| 32 | `zen-ai.top` | ¥0.6 | $0.6 / $0.9996 | 1 | default | grok-3-mini |
+| 33 | `api.ccode.vip` | ¥0.84 | $0.84 / $1.45 | 1 | Grok Official | grok-3-mini |
+| 34 | `api.camel-hub.com` | ¥1 | $1.25 / $2.5 | 0.8 | default | grok-3-mini |
+| 35 | `ai.mowen.vip` | ¥1.003 | $0.15 / $0.25 | 6.68494 | default | grok-3-mini |
+| 36 | `modelsell.com` | ¥1.224 | $0.18 / $0.3006 | 6.8 | xAI | grok-3-mini |
+| 37 | `mgrouter.com` | ¥1.387 | $0.204 / $0.34 | 6.8 | Grok-原厂稳定版-6.8折 | grok-3-mini |
+| 38 | `mb.dmxapi.cn` | ¥1.5 | $0.3 / $0.501 | 5 | default | grok-3-mini |
+| 39 | `getgoapi.com` | ¥1.728 | $0.24 / $0.4 | 7.2 | default | grok-3-mini |
+| 40 | `ai2.qiqiai.top` | ¥1.752 | $0.24 / $0.4 | 7.3 | azure | grok-3-mini |
+| 41 | `api.ocoolai.com` | ¥1.89 | $1.89 / $3.1563 | 1 | claude_official | grok-3-mini |
+| 42 | `ocool.cn` | ¥1.89 | $1.89 / $3.1563 | 1 | claude_official | grok-3-mini |
+| 43 | `one.ooo.cool` | ¥1.89 | $1.89 / $3.1563 | 1 | claude_official | grok-3-mini |
+| 44 | `aidianwo.com` | ¥2 | $2 / $4 | 1 | default | grok-3-mini |
+| 45 | `api.aialma.club` | ¥2.01 | $0.3 / $0.3 | 6.7 | default | grok-3-mini |
+| 46 | `api.mountainsea.ai` | ¥2.01 | $0.3 / $0.501 | 6.7 | default | grok-3-mini |
+| 47 | `api.apipro.ai` | ¥2.1 | $0.3 / $0.5 | 7 | grok | grok-3-mini |
+| 48 | `api.laozhang.ai` | ¥2.1 | $0.3 / $1.8 | 7 | default | grok-3-mini |
+| 49 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $3.507 | 1 | enterprise | grok-3-mini |
+| 50 | `yutoapi.com` | ¥2.1 | $2.1 / $3.507 | 1 | enterprise | grok-3-mini |
 
-> 另有 20 站未列出。
+> 另有 21 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.168box.xyz` | $0.024 / $0.04 | grok | 0.08 | grok-3-mini |
-| 2 | `api.wopally.cn` | $0.036 / $0.06 | grok 破甲 | 0.12 | grok-3-mini |
+| 2 | `api.wopally.cn` | $0.027 / $0.045 | grok｜0.09x | 0.09 | grok-3-mini |
 | 3 | `sub.hotapi.top` | $0.042 / $0.07 | grok heavy | 0.14 | grok-3-mini |
 | 4 | `api.lumenai.cc` | $0.045 / $0.075 | Grok 分组 | 0.15 | grok-3-mini |
 | 5 | `chat.aiprox.net` | $0.045 / $0.075 | grok | 0.15 | grok-3-mini |
@@ -82,11 +82,10 @@
 | 13 | `api.gohok.top` | $0.09 / $0.15 | grok | 0.3 | grok-3-mini |
 | 14 | `yyds.chybenzun.top` | $0.24 / $0.72 | 【文本模型】Grok Heavy 4.7 | 0.12 | grok-3-mini |
 | 15 | `ai.nodeseek.in` | $0.3 / $0.5 | default | 1 | grok-3-mini |
-| 16 | `api.yescale.io` | $0.3 / $0.501 | starter | 1 | grok-3-mini |
+| 16 | `api.yescale.io` | $0.3 / $0.501 | normal | 1 | grok-3-mini |
 | 17 | `api.zhiyikeji.cn` | $0.3 / $0.501 | default | 1 | grok-3-mini |
-| 18 | `8888.name` | $0.45 / $0.75 | GPT—Az渠道 | 1.5 | grok-3-mini |
-| 19 | `vip.zen-ai.top` | $1.8 / $2.9988 | grok-build | 3 | grok-3-mini |
-| 20 | `api.baosiai.com` | $3 / $5 | default | 10 | grok-3-mini |
-| 21 | `baosiapi.com` | $3 / $5 | grok | 10 | grok-3-mini |
+| 18 | `vip.zen-ai.top` | $1.8 / $2.9988 | grok-build | 3 | grok-3-mini |
+| 19 | `api.baosiai.com` | $3 / $5 | default | 10 | grok-3-mini |
+| 20 | `baosiapi.com` | $3 / $5 | grok | 10 | grok-3-mini |
 
-> 82 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 80 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

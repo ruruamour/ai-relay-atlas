@@ -13,7 +13,7 @@
 | 1 | `chrisapivip.com` | ¥0.8 | $0.8 / $3.2 | 1 | default | llama-3.1-405b-instruct |
 | 2 | `new.yunai.link` | ¥1.5 | $1.5 / $4.8 | 1 | azure03-0 | llama-3.1-405b-instruct |
 | 3 | `api.camel-hub.com` | ¥3.6 | $4.5 / $9 | 0.8 | default | llama-3.1-405b-instruct |
-| 4 | `keypool.space` | ¥6 | $6 / $12 | 1 | vip | llama-3.1-405b-instruct |
+| 4 | `keypool.space` | ¥6 | $6 / $12 | 1 | default | llama-3.1-405b-instruct |
 | 5 | `xinsuanai.com` | ¥6 | $6 / $12 | 1 | default | llama-3.1-405b-instruct |
 | 6 | `new.foxi-api.cn` | ¥9 | $9 / $18 | 1 | 纯AZ | llama-3.1-405b-instruct |
 | 7 | `api.eido.top` | ¥10 | $10 / $60 | 1 | default | llama-3.1-405b-instruct |

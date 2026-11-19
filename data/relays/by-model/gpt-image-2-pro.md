@@ -1,6 +1,6 @@
 # gpt-image-2-pro
 
-> 49 站提供 · 正常价 40 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.139**/次（37 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 40 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.15**/次（37 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `nihao.dog` | ¥0.01 | $0.01 | 1 | 生图 | gpt-image-2-pro |
-| 2 | `api.bjhuiqu.net` | ¥0.03 | $0.03 | 1 | 9.1-gpt2+香蕉+grok生图 | gpt-image-2-pro |
+| 2 | `api.bjhuiqu.net` | ¥0.03 | $0.03 | 1 | 0.无限画布专用 | gpt-image-2-pro |
 | 3 | `cpa057.meta-api.vip` | ¥0.03 | $0.03 | 1 | 1-生图系列 | gpt-image-2-pro |
 | 4 | `xixi.bjhuiqu.net` | ¥0.03 | $0.03 | 1 | site_34~4dc9fcbd26735987 | gpt-image-2-pro |
 | 5 | `xapi.bjhuiqu.net` | ¥0.039 | $0.039 | 1 | site_33~4dc9fcbd26735987 | gpt-image-2-pro |
@@ -20,21 +20,21 @@
 | 8 | `api.routeeasy.ai` | ¥0.06 | $0.06 | 1 | gpt_image_pro_0604_0545 | gpt-image-2-pro |
 | 9 | `aigateway.geekerone.top` | ¥0.08 | $0.08 | 1 | default | gpt-image-2-pro |
 | 10 | `aigateway.geekhoner.com` | ¥0.08 | $0.08 | 1 | default | gpt-image-2-pro |
-| 11 | `pay.magic666.top` | ¥0.08 | $0.08 | 1 | default | gpt-image-2-pro |
-| 12 | `ai.hsuan.vip` | ¥0.088 | $0.088 | 1 | HSuan创作台专用 | gpt-image-2-pro |
-| 13 | `api.foo` | ¥0.1 | $0.1 | 1 | gpt-image-2-pro【生图】 | gpt-image-2-pro |
-| 14 | `www.dayueai.fun` | ¥0.1 | $0.1 | 1 | vip | gpt-image-2-pro |
-| 15 | `www.kamiapi.top` | ¥0.1 | $0.1 | 1 | 生图混合分组 | gpt-image-2-pro |
-| 16 | `chrisapivip.com` | ¥0.12 | $0.12 | 1 | image-2-pro | gpt-image-2-pro |
-| 17 | `pro.gemai.cc` | ¥0.12 | $0.12 | 1 | default | gpt-image-2-pro |
-| 18 | `n.lconai.com` | ¥0.125 | $0.125 | 1 | A1 | gpt-image-2-pro |
-| 19 | `yomiapi.com` | ¥0.139 | $0.02 | 6.95 | 生图专用分组 | gpt-image-2-pro |
-| 20 | `zl.yyapi.cloud` | ¥0.15 | $0.15 | 1 | default | [专线] gpt-image-2-pro |
-| 21 | `api.eido.top` | ¥0.16 | $0.16 | 1 | default | gpt-image-2-pro |
-| 22 | `api.nekoapi.com` | ¥0.16 | $0.08 | 2 | default | gpt-image-2-pro-all |
-| 23 | `api.jui87.com` | ¥0.2 | $0.2 | 1 | image-2 | gpt-image-2-pro |
-| 24 | `magic666.top` | ¥0.2 | $0.2 | 1 | default | gpt-image-2-pro |
-| 25 | `aiapibase.top` | ¥0.2625 | $0.2625 | 1 | OpenAI-A1 | gpt-image-2-pro |
+| 11 | `ai.hsuan.vip` | ¥0.088 | $0.088 | 1 | HSuan创作台专用 | gpt-image-2-pro |
+| 12 | `api.foo` | ¥0.1 | $0.1 | 1 | gpt-image-2-pro【生图】 | gpt-image-2-pro |
+| 13 | `www.dayueai.fun` | ¥0.1 | $0.1 | 1 | vip | gpt-image-2-pro |
+| 14 | `www.kamiapi.top` | ¥0.1 | $0.1 | 1 | 生图混合分组 | gpt-image-2-pro |
+| 15 | `chrisapivip.com` | ¥0.12 | $0.12 | 1 | image-2-pro | gpt-image-2-pro |
+| 16 | `pro.gemai.cc` | ¥0.12 | $0.12 | 1 | default | gpt-image-2-pro |
+| 17 | `n.lconai.com` | ¥0.125 | $0.125 | 1 | A1 | gpt-image-2-pro |
+| 18 | `yomiapi.com` | ¥0.139 | $0.02 | 6.95 | 生图专用分组 | gpt-image-2-pro |
+| 19 | `zl.yyapi.cloud` | ¥0.15 | $0.15 | 1 | default | [专线] gpt-image-2-pro |
+| 20 | `api.eido.top` | ¥0.16 | $0.16 | 1 | default | gpt-image-2-pro |
+| 21 | `api.nekoapi.com` | ¥0.16 | $0.08 | 2 | default | gpt-image-2-pro-all |
+| 22 | `api.jui87.com` | ¥0.2 | $0.2 | 1 | image-2 | gpt-image-2-pro |
+| 23 | `magic666.top` | ¥0.2 | $0.2 | 1 | default | gpt-image-2-pro |
+| 24 | `pay.magic666.top` | ¥0.24 | $0.24 | 1 | GPT绘图优质分组 | gpt-image-2-pro |
+| 25 | `aiapibase.top` | ¥0.25 | $0.25 | 1 | default | gpt-image-2-pro |
 | 26 | `apiai.shop` | ¥0.3 | $0.25 | 1.2 | default | gpt-image-2-pro |
 | 27 | `api.ccode.vip` | ¥0.35 | $0.35 | 1 | Image生图 | gpt-image-2-pro |
 | 28 | `api1.uiuiapi.com` | ¥0.3707 | $0.11 | 3.37 | default | gpt-image-2-pro |

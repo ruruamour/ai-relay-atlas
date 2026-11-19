@@ -1,6 +1,6 @@
 # bce-reranker-base-v1
 
-> 73 站提供 · 正常价 64 站 · 名义中位价 **$0.01**/1M 输入 · 实付中位价 **¥0.07674**/1M 输入（12 站公开充值价） · 推算，未对账
+> 72 站提供 · 正常价 63 站 · 名义中位价 **$0.01**/1M 输入 · 实付中位价 **¥0.08048**/1M 输入（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,15 +13,14 @@
 | 1 | `keypool.space` | ¥0.01 | $0.01 / $0.01 | 1 | default | netease-youdao/bce-reranker-base_v1 |
 | 2 | `new.foxi-api.cn` | ¥0.01 | $0.01 / $0.01 | 1 | default | netease-youdao/bce-reranker-base_v1 |
 | 3 | `xinsuanai.com` | ¥0.01 | $0.01 / $0.01 | 1 | default | netease-youdao/bce-reranker-base_v1 |
-| 4 | `api.videocaptioner.cn` | ¥0.01111 | $0.00165375 / $0.00165375 | 6.718 | SiliconFlow-1 | netease-youdao/bce-reranker-base_v1 |
-| 5 | `api.camel-hub.com` | ¥0.032 | $0.04 / $0.04 | 0.8 | default | netease-youdao/bce-reranker-base_v1 |
-| 6 | `nbapi.net` | ¥0.073 | $0.01 / $0.01 | 7.3 | default | netease-youdao/bce-reranker-base_v1 |
-| 7 | `plusx.nyxos.shop` | ¥0.08048 | $0.011025 / $0.011025 | 7.3 | SiliconFlow-1 | netease-youdao/bce-reranker-base_v1 |
-| 8 | `api.bltcy.ai` | ¥0.2 | $0.2 / $0.2 | 1 | default | netease-youdao/bce-reranker-base_v1 |
-| 9 | `apilio.ai` | ¥0.2 | $0.2 / $0.2 | 1 | default | netease-youdao/bce-reranker-base_v1 |
-| 10 | `test-ssl.bltcy.ai` | ¥0.2 | $0.2 / $0.2 | 1 | default | netease-youdao/bce-reranker-base_v1 |
-| 11 | `ai.comfly.org` | ¥0.24 | $0.2 / $0.2 | 1.2 | default | netease-youdao/bce-reranker-base_v1 |
-| 12 | `ai.t8star.org` | ¥0.27 | $0.2 / $0.2 | 1.35 | default | netease-youdao/bce-reranker-base_v1 |
+| 4 | `api.camel-hub.com` | ¥0.032 | $0.04 / $0.04 | 0.8 | default | netease-youdao/bce-reranker-base_v1 |
+| 5 | `nbapi.net` | ¥0.073 | $0.01 / $0.01 | 7.3 | default | netease-youdao/bce-reranker-base_v1 |
+| 6 | `plusx.nyxos.shop` | ¥0.08048 | $0.011025 / $0.011025 | 7.3 | SiliconFlow-1 | netease-youdao/bce-reranker-base_v1 |
+| 7 | `api.bltcy.ai` | ¥0.2 | $0.2 / $0.2 | 1 | default | netease-youdao/bce-reranker-base_v1 |
+| 8 | `apilio.ai` | ¥0.2 | $0.2 / $0.2 | 1 | default | netease-youdao/bce-reranker-base_v1 |
+| 9 | `test-ssl.bltcy.ai` | ¥0.2 | $0.2 / $0.2 | 1 | default | netease-youdao/bce-reranker-base_v1 |
+| 10 | `ai.comfly.org` | ¥0.24 | $0.2 / $0.2 | 1.2 | default | netease-youdao/bce-reranker-base_v1 |
+| 11 | `ai.t8star.org` | ¥0.27 | $0.2 / $0.2 | 1.35 | default | netease-youdao/bce-reranker-base_v1 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

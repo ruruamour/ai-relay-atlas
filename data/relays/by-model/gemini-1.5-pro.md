@@ -25,7 +25,7 @@
 | 13 | `www.micuapi.ai` | ¥2.5 | $2.5 / - | 1 | - | gemini-1.5-pro-latest |
 | 14 | `aio-api-ssvip.aiearth.dev` | ¥2.737 | $0.375 / $1.5 | 7.3 | nx | gemini-1.5-pro |
 | 15 | `api.eido.top` | ¥3.5 | $3.5 / $14 | 1 | default | gemini-1.5-pro-latest |
-| 16 | `new.gateway.icu` | ¥3.5 | $3.5 / $14 | 1 | default | gemini-1.5-pro |
+| 16 | `new.gateway.icu` | ¥3.5 | $3.5 / $14 | 1 | gemini-aistudio-o | gemini-1.5-pro |
 | 17 | `webapi.xjai.cc` | ¥3.75 | $1.25 / $5 | 3 | default | gemini-1.5-pro |
 | 18 | `hightpm.aiearth.dev` | ¥4.562 | $0.625 / $2.5 | 7.3 | 官方直连-Azure-Claude-Gemini | gemini-1.5-pro |
 | 19 | `8s.hk` | ¥5 | $5 / $20 | 1 | 全模型自动 | gemini-1.5-pro |

@@ -1,6 +1,6 @@
 # omni-fast-no-water
 
-> 26 站提供 · 正常价 24 站 · 名义中位价 **$1.125**/次 · 实付中位价 **¥1.15**/次（18 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 23 站 · 名义中位价 **$1.15**/次 · 实付中位价 **¥1.15**/次（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,13 +10,13 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `vibeapi.cc` | ¥0.55 | $0.55 | 1 | media | omni-fast-no-water |
+| 1 | `vibeapi.cc` | ¥0.55 | $0.55 | 1 | default | omni-fast-no-water |
 | 2 | `chrisapivip.com` | ¥0.6 | $0.6 | 1 | veo3-omini | omni-fast-no-water |
-| 3 | `aceoai.com` | ¥0.68 | $0.68 | 1 | google-video专用 | omni-fast-no-water |
-| 4 | `ai.cangyuansuanli.cn` | ¥0.81 | $0.81 | 1 | VIDEO | omni-fast-no-water |
-| 5 | `direct-api.cangyuansuanli.cn` | ¥0.81 | $0.81 | 1 | VIDEO | omni-fast-no-water |
-| 6 | `cgapi.top` | ¥0.88 | $0.88 | 1 | Gemini 反重力 | omni-fast-no-water |
-| 7 | `api.muxllm.com` | ¥0.9 | $0.9 | 1 | Gemini图片/视频模型 | omni-fast-no-water |
+| 3 | `ai.cangyuansuanli.cn` | ¥0.81 | $0.81 | 1 | VIDEO | omni-fast-no-water |
+| 4 | `direct-api.cangyuansuanli.cn` | ¥0.81 | $0.81 | 1 | VIDEO | omni-fast-no-water |
+| 5 | `cgapi.top` | ¥0.88 | $0.88 | 1 | Gemini 反重力 | omni-fast-no-water |
+| 6 | `api.muxllm.com` | ¥0.9 | $0.9 | 1 | Gemini图片/视频模型 | omni-fast-no-water |
+| 7 | `sub.aigege.one` | ¥1.053 | $1.053 | 1 | 生视频分组 | omni-fast-no-water |
 | 8 | `sub.linkrun.org` | ¥1.053 | $1.053 | 1 | default | omni-fast-no-water |
 | 9 | `api.zyai.online` | ¥1.1 | $1.1 | 1 | default | omni-fast-no-water |
 | 10 | `4sapi.com` | ¥1.2 | $1.2 | 1 | veo3.1 | omni-fast-no-water |
@@ -25,8 +25,8 @@
 | 13 | `api.zq4i.com` | ¥1.81 | $1.81 | 1 | 视频渠道 | omni-fast-no-water |
 | 14 | `tu.988236.xyz` | ¥4.234 | $0.58 | 7.3 | omni和veo系列视频 | omni-fast-no-water |
 | 15 | `1sapi.com` | ¥7.3 | $1 | 7.3 | veo-逆向 | omni-fast-no-water |
-| 16 | `sub.aigege.one` | ¥7.687 | $1.053 | 7.3 | 生视频分组 | omni-fast-no-water |
-| 17 | `image.cjyyswq.com` | ¥8.395 | $1.15 | 7.3 | default | omni-fast-no-water |
+| 16 | `pcore.ai` | ¥8.064 | $1.2 | 6.72 | video | omni-fast-no-water |
+| 17 | `image.cjyyswq.com` | ¥8.395 | $1.15 | 7.3 | 视频模型分组 | omni-fast-no-water |
 | 18 | `superxihe.com` | ¥9.563 | $1.31 | 7.3 | video | omni-fast-no-water |
 
 ## 名义价（未公开充值价，按 $ 排序）
@@ -35,9 +35,8 @@
 |---|---|---|---|---|---|
 | 1 | `hetune.top` | $1.55 | 视频统一分组 | 1 | omni-fast-no-water |
 | 2 | `api.chuangxiangai.asia` | $9.52941 | 视频 | 1 | omni-fast-no-water |
-| 3 | `vapi.chuangxiangai.asia` | $9.6 | 视频 | 1 | omni-fast-no-water |
-| 4 | `aiapi.market` | $9.72 | media | 10 | omni-fast-no-water |
-| 5 | `api.bblabu.ai` | $24 | 视频模型分组 | 1 | omni-fast-no-water |
-| 6 | `openai.sharkmagic.top` | $252 | tier_3 | 0.9 | [lq]q\|Rim/omni-fast-no-water |
+| 3 | `aiapi.market` | $9.72 | media | 10 | omni-fast-no-water |
+| 4 | `api.bblabu.ai` | $24 | 视频模型分组 | 1 | omni-fast-no-water |
+| 5 | `openai.sharkmagic.top` | $252 | tier_3 | 0.9 | [lq]q\|Rim/omni-fast-no-water |
 
 > 2 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

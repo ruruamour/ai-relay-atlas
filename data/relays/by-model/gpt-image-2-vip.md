@@ -1,6 +1,6 @@
 # gpt-image-2-vip
 
-> 48 站提供 · 正常价 35 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.1721**/次（34 站公开充值价） · 推算，未对账
+> 47 站提供 · 正常价 35 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.1721**/次（34 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `nihao.dog` | ¥0.01 | $0.01 | 1 | 生图 | gpt-image-2-vip |
 | 2 | `api.aiskt.com` | ¥0.05 | $0.05 | 1 | default | gpt-image-2-vip |
-| 3 | `new.gateway.icu` | ¥0.05 | $0.05 | 1 | default | gpt-image-2-vip |
+| 3 | `new.gateway.icu` | ¥0.05 | $0.05 | 1 | reverse | gpt-image-2-vip |
 | 4 | `api.xi-ai.cn` | ¥0.08 | $0.08 | 1 | image_video | gpt-image-2-vip |
 | 5 | `api.bltcy.ai` | ¥0.1 | $0.1 | 1 | default | gpt-image-2-vip |
 | 6 | `apilio.ai` | ¥0.1 | $0.1 | 1 | default | gpt-image-2-vip |
@@ -51,4 +51,4 @@
 |---|---|---|---|---|---|
 | 1 | `windhub.online` | $32.68 | Fenghe 桌面统一路由 | 1 | t-gpt-image-2-vip |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

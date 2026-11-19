@@ -13,10 +13,10 @@ The project is optimized for broad discovery first; prices are public-page estim
 
 | Metric | Count |
 |---|---:|
-| Relay sites | 5146 (4615 homepage HTTP 200) |
-| Relay aliases / mirrors | 4320 |
-| Site × model price rows | 267083 |
-| Normalized model bases | 13848 |
+| Relay sites | 5140 (4560 homepage HTTP 200) |
+| Relay aliases / mirrors | 4326 |
+| Site × model price rows | 271412 |
+| Normalized model bases | 14253 |
 | Virtual-goods shops | 430 |
 | Shop product quotes | 17212 |
 

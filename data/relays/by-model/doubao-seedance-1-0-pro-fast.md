@@ -1,6 +1,6 @@
 # doubao-seedance-1-0-pro-fast
 
-> 83 站提供 · 正常价 57 站 · 名义中位价 **$6.3**/次 · 实付中位价 **¥3.64**/次（4 站公开充值价） · 推算，未对账
+> 82 站提供 · 正常价 56 站 · 名义中位价 **$6.3**/次 · 实付中位价 **¥2.52**/次（3 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,8 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `www.ggwk1.online` | ¥0.48 | $0.48 | 1 | AI视频 | doubao-seedance-1-0-pro-fast-251015 |
 | 2 | `mt.ccapi.ai` | ¥2.52 | $0.36516 | 6.9 | seedance-A | doubao-seedance-1-0-pro-fast-251015 |
-| 3 | `api.videocaptioner.cn` | ¥4.761 | $0.70875 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-fast-251015 |
-| 4 | `new.foxi-api.cn` | ¥6.3 | $6.3 | 1 | 纯AZ | doubao-seedance-1-0-pro-fast-251015 |
+| 3 | `new.foxi-api.cn` | ¥6.3 | $6.3 | 1 | 纯AZ | doubao-seedance-1-0-pro-fast-251015 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # qwen3-livetranslate-flash-realtime
 
-> 22 站提供 · 正常价 7 站 · 名义中位价 **$19.5**/1M 输入 · 实付中位价 **¥64**/1M 输入（7 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 5 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥14.6**/1M 输入（5 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,8 +14,6 @@
 | 2 | `api.xi-ai.cn` | ¥10 | $10 / $10 | 1 | 国产模型 | qwen3-livetranslate-flash-realtime |
 | 3 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-livetranslate-flash-realtime |
 | 4 | `api.aiskt.com` | ¥64 | $64 / $243.2 | 1 | default | qwen3-livetranslate-flash-realtime |
-| 5 | `api.ifopen.ai` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3-livetranslate-flash-realtime |
-| 6 | `api2.aigcbest.top` | ¥68.25 | $19.5 / $19.5 | 3.5 | 通用大模型 | qwen3-livetranslate-flash-realtime |
-| 7 | `codeyy.top` | ¥467.2 | $64 / $8 | 7.3 | default | qwen3-livetranslate-flash-realtime |
+| 5 | `codeyy.top` | ¥467.2 | $64 / $8 | 7.3 | default | qwen3-livetranslate-flash-realtime |
 
 > 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

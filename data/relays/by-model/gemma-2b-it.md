@@ -13,7 +13,7 @@
 | 1 | `new.gateway.icu` | ¥1 | $1 / $1 | 1 | default | gemma-2b-it |
 | 2 | `ai.soruxgpt.com` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
 | 3 | `api.hopeai.cc` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
-| 4 | `keypool.space` | ¥2 | $2 / $2 | 1 | vip | gemma-2b-it |
+| 4 | `keypool.space` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
 | 5 | `newapi.tu-zi.com` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
 | 6 | `xinsuanai.com` | ¥2 | $2 / $2 | 1 | default | gemma-2b-it |
 | 7 | `nbapi.net` | ¥14.6 | $2 / $2 | 7.3 | default | gemma-2b-it |

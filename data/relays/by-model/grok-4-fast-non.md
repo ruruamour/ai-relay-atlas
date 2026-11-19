@@ -1,6 +1,6 @@
 # grok-4-fast-non
 
-> 124 站提供 · 正常价 56 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.224**/1M 输入（53 站公开充值价） · 推算，未对账
+> 122 站提供 · 正常价 53 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.138**/1M 输入（52 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -54,21 +54,19 @@
 | 42 | `api.humanwill.xyz` | ¥2.19 | $0.3 / $0.75 | 7.3 | Grok_heavy | grok-4-fast-non-reasoning |
 | 43 | `apiai.shop` | ¥2.4 | $2 / $3 | 1.2 | default | grok-4-fast-non-reasoning |
 | 44 | `api.34ku.com` | ¥2.6 | $2.6 / $6.5 | 1 | default | grok-4-fast-non-reasoning |
-| 45 | `www.ggwk1.online` | ¥3 | $3 / $7.5 | 1 | a全模型综合组-1倍率 | grok-4-fast-non-reasoning |
-| 46 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥3 | $3 / $2 | 1 | default | grok-4-fast-non-reasoning |
-| 47 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | grok-4-fast-non-reasoning |
-| 48 | `api.hoxkai.top` | ¥3.75 | $3.75 / $7.5 | 1 | grok | grok-4-fast-non-reasoning |
-| 49 | `api.ysaikeji.cn` | ¥4.38 | $0.6 / $1.5 | 7.3 | grok官转 | grok-4-fast-non-reasoning |
-| 50 | `n.lconai.com` | ¥7 | $7 / $10.5 | 1 | C2 | grok-4-fast-non-reasoning |
+| 45 | `www.ggwk1.online` | ¥3 | $3 / $7.5 | 1 | grok组 | grok-4-fast-non-reasoning |
+| 46 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | grok-4-fast-non-reasoning |
+| 47 | `api.hoxkai.top` | ¥3.75 | $3.75 / $7.5 | 1 | grok | grok-4-fast-non-reasoning |
+| 48 | `api.ysaikeji.cn` | ¥4.38 | $0.6 / $1.5 | 7.3 | grok官转 | grok-4-fast-non-reasoning |
+| 49 | `n.lconai.com` | ¥7 | $7 / $10.5 | 1 | C2 | grok-4-fast-non-reasoning |
+| 50 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4-fast-non-reasoning |
 
-> 另有 3 站未列出。
+> 另有 2 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.zhiyikeji.cn` | $0.2 / $0.5 | default | 1 | grok-4-fast-non-reasoning |
-| 2 | `vip.zen-ai.top` | $0.6 / $1.5 | default | 3 | grok-4-fast-non-reasoning |
-| 3 | `8888.name` | $3 / $9 | GPT—Az渠道 | 1.5 | grok-4-fast-non-reasoning |
 
-> 68 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 69 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gemini-3-flash-preview-thinking-*
 
-> 39 站提供 · 正常价 26 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1.3**/1M 输入（24 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 26 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1.3**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -42,4 +42,4 @@
 | 1 | `api.vveai.com` | $0.75 / $4.5 | gemini | 1.5 | gemini-3-flash-preview-thinking-* |
 | 2 | `officesai.top` | $14 / $84 | Image绘图 4K | 1 | gemini-3-flash-preview-thinking-* |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

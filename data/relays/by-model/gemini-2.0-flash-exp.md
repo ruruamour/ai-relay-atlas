@@ -1,6 +1,6 @@
 # gemini-2.0-flash-exp
 
-> 48 站提供 · 正常价 32 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.55**/1M 输入（28 站公开充值价） · 推算，未对账
+> 47 站提供 · 正常价 32 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.55**/1M 输入（28 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -14,7 +14,7 @@
 | 2 | `api.eido.top` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-exp |
 | 3 | `yun.v1api.cc` | ¥0.15 | $0.1 / $0.4 | 1.5 | default | gemini-2.0-flash-exp |
 | 4 | `api.xhuoai.com` | ¥0.3 | $0.2 / $0.8 | 1.5 | gemini2 | gemini-2.0-flash-exp |
-| 5 | `new.gateway.icu` | ¥0.6 | $0.6 / $2.4 | 1 | reverse | gemini-2.0-flash-exp |
+| 5 | `new.gateway.icu` | ¥0.6 | $0.6 / $2.4 | 1 | default | gemini-2.0-flash-exp |
 | 6 | `big.sbgpt.site` | ¥0.72 | $0.72 / $2.88 | 1 | openai逆向 | gemini-2.0-flash-exp |
 | 7 | `go.sbgpt.site` | ¥0.72 | $0.72 / $2.88 | 1 | gemini全模型 | gemini-2.0-flash-exp |
 | 8 | `api.xistree.hk` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | gemini-2.0-flash-exp |
@@ -32,7 +32,7 @@
 | 20 | `one.ooo.cool` | ¥1.89 | $1.89 / $7.56 | 1 | default | gemini-2.0-flash-exp-search |
 | 21 | `8s.hk` | ¥2 | $2 / $8 | 1 | 全模型自动 | gemini-2.0-flash-exp |
 | 22 | `paw.v1chat.cc` | ¥2 | $2 / $8 | 1 | default | gemini-2.0-flash-exp |
-| 23 | `webapi.xjai.cc` | ¥3.6 | $1.2 / $4.8 | 3 | default | gemini-2.0-flash-exp |
+| 23 | `webapi.xjai.cc` | ¥3.6 | $1.2 / $4.8 | 3 | vip | gemini-2.0-flash-exp |
 | 24 | `ai.nodeloc.com` | ¥4.38 | $0.6 / $2.4 | 7.3 | default | gemini-2.0-flash-exp |
 | 25 | `api.apib.ai` | ¥7 | $1 / $4 | 7 | - | gemini-2.0-flash-exp |
 | 26 | `api.bianxie.ai` | ¥18.25 | $2.5 / $10 | 7.3 | default | gemini-2.0-flash-exp |
@@ -48,4 +48,4 @@
 | 3 | `g.openai365.top` | $1.26 / $5.04 | default | 1 | gemini-2.0-flash-exp |
 | 4 | `chat-api4.087654.xyz` | $2.8 / $11.2 | default | 2 | gemini-2.0-flash-exp |
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

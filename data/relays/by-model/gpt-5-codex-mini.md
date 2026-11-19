@@ -18,7 +18,7 @@
 | 6 | `ocool.cn` | ¥1.875 | $1.875 / $15 | 1 | codex | gpt-5-codex-mini |
 | 7 | `one.ooo.cool` | ¥1.875 | $1.875 / $15 | 1 | codex | gpt-5-codex-mini |
 | 8 | `api.xi-ai.cn` | ¥2.5 | $2.5 / $20 | 1 | 优惠模型 | gpt-5-codex-mini |
-| 9 | `chat.cloudapi.vip` | ¥2.5 | $1.25 / $10 | 2 | default | gpt-5-codex-mini |
+| 9 | `chat.cloudapi.vip` | ¥2.5 | $1.25 / $10 | 2 | svip | gpt-5-codex-mini |
 | 10 | `gpt777.top` | ¥2.5 | $2.5 / $20 | 1 | Azure | gpt-5-codex-mini |
 | 11 | `api.ifopen.ai` | ¥4.375 | $1.25 / $10 | 3.5 | default | gpt-5-codex-mini |
 | 12 | `api2.aigcbest.top` | ¥4.375 | $1.25 / $10 | 3.5 | default | gpt-5-codex-mini |

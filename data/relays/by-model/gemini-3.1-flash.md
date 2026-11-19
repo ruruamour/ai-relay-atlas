@@ -1,6 +1,6 @@
 # gemini-3.1-flash
 
-> 25 站提供 · 正常价 8 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.35**/1M 输入（6 站公开充值价） · 推算，未对账
+> 22 站提供 · 正常价 6 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（5 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,18 +10,16 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.youzi11.com` | ¥0.1 | $0.1 / $0.6 | 1 | gemini | gemini-3.1-flash |
-| 2 | `api.yuaiapi.com` | ¥0.125 | $0.125 / $0.75 | 1 | Gemini | gemini-3.1-flash |
-| 3 | `liangxinapi.top` | ¥0.2 | $0.2 / $1.2 | 1 | Gemini-cli | gemini-3.1-flash |
-| 4 | `cc.anyroute.io` | ¥0.5 | $0.5 / $3 | 1 | Gemini 企业渠道 | gemini-3.1-flash |
-| 5 | `api.zhengmi.org` | ¥1.46 | $0.2 / $1.2 | 7.3 | Gemini-cli | gemini-3.1-flash |
-| 6 | `ai.mowen.vip` | ¥1.905 | $0.285 / $1.71 | 6.68494 | default | gemini-3.1-flash |
+| 1 | `www.youzi11.com` | ¥0.175 | $0.175 / $1.05 | 1 | gemini | gemini-3.1-flash |
+| 2 | `liangxinapi.top` | ¥0.2 | $0.2 / $1.2 | 1 | Gemini-cli | gemini-3.1-flash |
+| 3 | `cc.anyroute.io` | ¥0.5 | $0.5 / $3 | 1 | Gemini 企业渠道 | gemini-3.1-flash |
+| 4 | `api.zhengmi.org` | ¥1.46 | $0.2 / $1.2 | 7.3 | Gemini-cli | gemini-3.1-flash |
+| 5 | `ai.mowen.vip` | ¥1.905 | $0.285 / $1.71 | 6.68494 | default | gemini-3.1-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.llmgo.net` | $0.125 / $0.75 | 逆向Gemini | 0.5 | gemini-3.1-flash |
-| 2 | `api.tyasai.com` | $0.225 / $1.35 | Gemini 已破甲 0.45每刀 | 0.45 | gemini-3.1-flash |
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

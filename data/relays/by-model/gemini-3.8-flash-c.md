@@ -1,6 +1,6 @@
 # gemini-3.8-flash-c
 
-> 24 站提供 · 正常价 16 站 · 名义中位价 **$0.0215**/次 · 实付中位价 **¥0.025**/次（15 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 14 站 · 名义中位价 **$0.0215**/次 · 实付中位价 **¥0.018**/次（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,14 +17,12 @@
 | 5 | `api.yuaiapi.com` | ¥0.015 | $0.015 | 1 | Gemini按次 | gemini-3.8-flash-c |
 | 6 | `botcf.com` | ¥0.018 | $0.018 | 1 | 🤓gemini-antigravity-request | gemini-3.8-flash-c |
 | 7 | `xn--15q04w3tg4kio0a.com` | ¥0.018 | $0.018 | 1 | 🤓gemini-antigravity-request | gemini-3.8-flash-c |
-| 8 | `azemm.cc` | ¥0.025 | $0.025 | 1 | 3000 | gemini-3.8-flash-c |
-| 9 | `chrisapivip.com` | ¥0.025 | $0.025 | 1 | gemini-c | gemini-3.8-flash-c |
-| 10 | `poloai.top` | ¥0.035 | $0.035 | 1 | gemini-anti | gemini-3.8-flash-c |
-| 11 | `poloapi.top` | ¥0.035 | $0.035 | 1 | gemini-anti | gemini-3.8-flash-c |
-| 12 | `api.astroflowing.com` | ¥0.036 | $0.036 | 1 | Gemini按次 | a/gemini-3.8-flash-c |
-| 13 | `api.ethancode.xyz` | ¥0.04 | $0.04 | 1 | gemini-anti-按次 | gemini-3.8-flash-c |
-| 14 | `new.lingyicai.xyz` | ¥0.04015 | $0.0055 | 7.3 | Gemini-按次 | gemini-3.8-flash-c |
-| 15 | `open.selart.cc` | ¥0.12 | $0.12 | 1 | default | [江南韵]gemini-3.8-flash-c |
+| 8 | `chrisapivip.com` | ¥0.025 | $0.025 | 1 | gemini-c | gemini-3.8-flash-c |
+| 9 | `poloai.top` | ¥0.035 | $0.035 | 1 | gemini-anti | gemini-3.8-flash-c |
+| 10 | `poloapi.top` | ¥0.035 | $0.035 | 1 | gemini-anti | gemini-3.8-flash-c |
+| 11 | `api.astroflowing.com` | ¥0.036 | $0.036 | 1 | Gemini按次 | a/gemini-3.8-flash-c |
+| 12 | `api.ethancode.xyz` | ¥0.04 | $0.04 | 1 | gemini-anti-按次 | gemini-3.8-flash-c |
+| 13 | `open.selart.cc` | ¥0.12 | $0.12 | 1 | gemini系列 | [江南韵]gemini-3.8-flash-c |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +30,4 @@
 |---|---|---|---|---|---|
 | 1 | `openclawroot.com` | $0.075 | default | 1 | gemini-3.8-flash-c |
 
-> 8 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

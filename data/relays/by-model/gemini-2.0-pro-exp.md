@@ -13,7 +13,7 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.15 | $0.15 / $0.6 | 1 | relay | gemini-2.0-pro-exp-02-05 |
 | 2 | `new.gateway.icu` | ¥1 | $1 / $4 | 1 | cursor | gemini-2.0-pro-exp |
 | 3 | `api.eido.top` | ¥1.25 | $1.25 / $5 | 1 | default | gemini-2.0-pro-exp |
-| 4 | `i-sh.v1api.cc` | ¥1.25 | $1.25 / $5 | 1 | genini | gemini-2.0-pro-exp-02-05 |
+| 4 | `i-sh.v1api.cc` | ¥1.25 | $1.25 / $5 | 1 | default | gemini-2.0-pro-exp-02-05 |
 | 5 | `i.v1api.cc` | ¥1.25 | $1.25 / $5 | 1 | default | gemini-2.0-pro-exp-02-05 |
 | 6 | `apiai.shop` | ¥1.5 | $1.25 / $5 | 1.2 | default | gemini-2.0-pro-exp-02-05 |
 | 7 | `yun.v1api.cc` | ¥1.875 | $1.25 / $5 | 1.5 | default | gemini-2.0-pro-exp-02-05 |

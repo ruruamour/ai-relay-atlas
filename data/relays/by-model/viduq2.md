@@ -1,6 +1,6 @@
 # viduq2
 
-> 135 站提供 · 正常价 122 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.008263**/次（70 站公开充值价） · 推算，未对账
+> 135 站提供 · 正常价 122 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥0.008262**/次（70 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,56 +10,56 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.openlux.ai` | ¥0.005902 | $0.00088236 | 6.68934 | Vidu-1 | viduq2 |
-| 2 | `api.relayrouter.ai` | ¥0.005902 | $0.00088236 | 6.68934 | Vidu-1 | viduq2 |
-| 3 | `openlux.zhongzhuan.chat` | ¥0.005902 | $0.00088236 | 6.68934 | Vidu-1 | viduq2 |
-| 4 | `4zapi.com` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 5 | `ai.kalehui.cn` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 6 | `aiopus.top` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 7 | `aipipe.site` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 8 | `api.anthropicricardo.club` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 9 | `api.modelyard.cc` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 10 | `api.tidewhisper-ai.xyz` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 11 | `apistudio.vip` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 12 | `dawnnode.com` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 13 | `gzxbykj.com` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 14 | `tiantoken.cn` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 15 | `token.kkdmx.com` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 16 | `vortexapi.cn` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 17 | `www.vectronode.com` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 18 | `www.xiaoruiera.top` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
-| 19 | `yunwu.org` | ¥0.006611 | $0.000988243 | 6.68934 | Vidu-1 | viduq2 |
-| 20 | `api.antmoo.cc` | ¥0.006788 | $0.00101471 | 6.68934 | Vidu-1 | viduq2 |
-| 21 | `v2.cloudmist.cloud` | ¥0.006788 | $0.00101471 | 6.68934 | Vidu-1 | viduq2 |
-| 22 | `apiclaw.cn` | ¥0.007142 | $0.00106766 | 6.68934 | Vidu-1 | viduq2 |
-| 23 | `ciyuan.today` | ¥0.007378 | $0.00110295 | 6.68934 | Vidu-1 | viduq2 |
-| 24 | `gptapi.top` | ¥0.007378 | $0.00110295 | 6.68934 | Vidu-1 | viduq2 |
-| 25 | `makerend.com` | ¥0.007378 | $0.00110295 | 6.68934 | Vidu-1 | viduq2 |
-| 26 | `moliapi.com` | ¥0.007437 | $0.00111177 | 6.68934 | Vidu-1 | viduq2 |
-| 27 | `layso.ai` | ¥0.007647 | $0.00764712 | 1 | Vidu-1 | viduq2 |
-| 28 | `ai-api.cc` | ¥0.007673 | $0.00114707 | 6.68934 | Vidu-1 | viduq2 |
-| 29 | `infai.cc` | ¥0.007673 | $0.00114707 | 6.68934 | Vidu-1 | viduq2 |
-| 30 | `sucloud.vip` | ¥0.007673 | $0.00114707 | 6.68934 | Vidu-1 | viduq2 |
-| 31 | `newapi.xueai.me` | ¥0.007791 | $0.00116472 | 6.68934 | Vidu-1 | viduq2 |
+| 1 | `api.openlux.ai` | ¥0.005901 | $0.00088236 | 6.68752 | Vidu-1 | viduq2 |
+| 2 | `api.relayrouter.ai` | ¥0.005901 | $0.00088236 | 6.68752 | Vidu-1 | viduq2 |
+| 3 | `openlux.zhongzhuan.chat` | ¥0.005901 | $0.00088236 | 6.68752 | Vidu-1 | viduq2 |
+| 4 | `4zapi.com` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 5 | `aiopus.top` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 6 | `aipipe.site` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 7 | `api.anthropicricardo.club` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 8 | `api.modelyard.cc` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 9 | `api.tidewhisper-ai.xyz` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 10 | `apistudio.vip` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 11 | `dawnnode.com` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 12 | `tiantoken.cn` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 13 | `token.kkdmx.com` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 14 | `www.vectronode.com` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 15 | `www.xiaoruiera.top` | ¥0.006491 | $0.000970596 | 6.68752 | Vidu-1 | viduq2 |
+| 16 | `ai.kalehui.cn` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
+| 17 | `gzxbykj.com` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
+| 18 | `vortexapi.cn` | ¥0.006493 | $0.000970596 | 6.68934 | Vidu-1 | viduq2 |
+| 19 | `yunwu.org` | ¥0.006609 | $0.000988243 | 6.68752 | Vidu-1 | viduq2 |
+| 20 | `api.antmoo.cc` | ¥0.006786 | $0.00101471 | 6.68752 | Vidu-1 | viduq2 |
+| 21 | `v2.cloudmist.cloud` | ¥0.006786 | $0.00101471 | 6.68752 | Vidu-1 | viduq2 |
+| 22 | `apiclaw.cn` | ¥0.00714 | $0.00106766 | 6.68752 | Vidu-1 | viduq2 |
+| 23 | `newapi.xueai.me` | ¥0.00714 | $0.00106766 | 6.68752 | Vidu-1 | viduq2 |
+| 24 | `ciyuan.today` | ¥0.007376 | $0.00110295 | 6.68752 | Vidu-1 | viduq2 |
+| 25 | `makerend.com` | ¥0.007376 | $0.00110295 | 6.68752 | Vidu-1 | viduq2 |
+| 26 | `gptapi.top` | ¥0.007378 | $0.00110295 | 6.68934 | Vidu-1 | viduq2 |
+| 27 | `moliapi.com` | ¥0.007435 | $0.00111177 | 6.68752 | Vidu-1 | viduq2 |
+| 28 | `layso.ai` | ¥0.007647 | $0.00764712 | 1 | Vidu-1 | viduq2 |
+| 29 | `ai-api.cc` | ¥0.007671 | $0.00114707 | 6.68752 | Vidu-1 | viduq2 |
+| 30 | `infai.cc` | ¥0.007671 | $0.00114707 | 6.68752 | Vidu-1 | viduq2 |
+| 31 | `sucloud.vip` | ¥0.007671 | $0.00114707 | 6.68752 | Vidu-1 | viduq2 |
 | 32 | `nodapi.com` | ¥0.007791 | $0.00116472 | 6.68934 | Vidu-1 | viduq2 |
-| 33 | `anyaigc.ai` | ¥0.007968 | $0.00119119 | 6.68934 | Vidu-1 | viduq2 |
-| 34 | `fluxapi.top` | ¥0.008263 | $0.0012353 | 6.68934 | Vidu-1 | viduq2 |
-| 35 | `sheepaiplus.top` | ¥0.008263 | $0.0012353 | 6.68934 | Vidu-1 | viduq2 |
-| 36 | `xiguapi.icu` | ¥0.008263 | $0.0012353 | 6.68934 | Vidu-1 | viduq2 |
-| 37 | `api.88api.chat` | ¥0.008854 | $0.00132354 | 6.68934 | Vidu-1 | viduq2 |
-| 38 | `lanbuff.app` | ¥0.008854 | $0.00132354 | 6.68934 | Vidu-1 | viduq2 |
-| 39 | `new.aigc2d.com` | ¥0.008854 | $0.00132354 | 6.68934 | Vidu-1 | viduq2 |
-| 40 | `open.clai.click` | ¥0.008854 | $0.00132354 | 6.68934 | Vidu-1 | viduq2 |
+| 33 | `anyaigc.ai` | ¥0.007966 | $0.00119119 | 6.68752 | Vidu-1 | viduq2 |
+| 34 | `sheepaiplus.top` | ¥0.008261 | $0.0012353 | 6.68752 | Vidu-1 | viduq2 |
+| 35 | `xiguapi.icu` | ¥0.008261 | $0.0012353 | 6.68752 | Vidu-1 | viduq2 |
+| 36 | `fluxapi.top` | ¥0.008263 | $0.0012353 | 6.68934 | Vidu-1 | viduq2 |
+| 37 | `api.88api.chat` | ¥0.008851 | $0.00132354 | 6.68752 | Vidu-1 | viduq2 |
+| 38 | `lanbuff.app` | ¥0.008851 | $0.00132354 | 6.68752 | Vidu-1 | viduq2 |
+| 39 | `new.aigc2d.com` | ¥0.008851 | $0.00132354 | 6.68752 | Vidu-1 | viduq2 |
+| 40 | `open.clai.click` | ¥0.008851 | $0.00132354 | 6.68752 | Vidu-1 | viduq2 |
 | 41 | `oyy-ai.xyz` | ¥0.008854 | $0.00132354 | 6.68934 | Vidu-1 | viduq2 |
-| 42 | `api.videocaptioner.cn` | ¥0.008892 | $0.00132354 | 6.718 | Vidu-1 | viduq2 |
-| 43 | `wodapis.com` | ¥0.009739 | $0.00145589 | 6.68934 | Vidu-1 | viduq2 |
-| 44 | `api.nixapi.com` | ¥0.009975 | $0.00149119 | 6.68934 | Vidu-1 | viduq2 |
-| 45 | `aiwuje.com` | ¥0.0118 | $0.00176472 | 6.68934 | Vidu-1 | viduq2 |
-| 46 | `api.cursorai.art` | ¥0.0118 | $0.00176472 | 6.68934 | Vidu-1 | viduq2 |
-| 47 | `api.echoflowai.cc` | ¥0.0118 | $0.00176472 | 6.68934 | Vidu-1 | viduq2 |
-| 48 | `api.n1n.ai` | ¥0.0118 | $0.00176472 | 6.68934 | Vidu-1 | viduq2 |
-| 49 | `api.quickrouter.ai` | ¥0.0118 | $0.00176472 | 6.68934 | Vidu-1 | viduq2 |
-| 50 | `llm-api.net` | ¥0.0118 | $0.00176472 | 6.68934 | Vidu-1 | viduq2 |
+| 42 | `api.videocaptioner.cn` | ¥0.009441 | $0.00141178 | 6.68752 | Vidu-1 | viduq2 |
+| 43 | `wodapis.com` | ¥0.009736 | $0.00145589 | 6.68752 | Vidu-1 | viduq2 |
+| 44 | `api.nixapi.com` | ¥0.009972 | $0.00149119 | 6.68752 | Vidu-1 | viduq2 |
+| 45 | `aiwuje.com` | ¥0.0118 | $0.00176472 | 6.68752 | Vidu-1 | viduq2 |
+| 46 | `api.cursorai.art` | ¥0.0118 | $0.00176472 | 6.68752 | Vidu-1 | viduq2 |
+| 47 | `api.echoflowai.cc` | ¥0.0118 | $0.00176472 | 6.68752 | Vidu-1 | viduq2 |
+| 48 | `api.n1n.ai` | ¥0.0118 | $0.00176472 | 6.68752 | Vidu-1 | viduq2 |
+| 49 | `api.quickrouter.ai` | ¥0.0118 | $0.00176472 | 6.68752 | Vidu-1 | viduq2 |
+| 50 | `llm-api.net` | ¥0.0118 | $0.00176472 | 6.68752 | Vidu-1 | viduq2 |
 
 > 另有 20 站未列出。
 

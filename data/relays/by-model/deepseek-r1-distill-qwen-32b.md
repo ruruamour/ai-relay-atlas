@@ -1,6 +1,6 @@
 # deepseek-r1-distill-qwen-32b
 
-> 94 站提供 · 正常价 75 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.9**/1M 输入（22 站公开充值价） · 推算，未对账
+> 93 站提供 · 正常价 73 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥2**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,28 +10,27 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `rockapi.ai` | ¥0.2009 | $0.2009 / $0.6027 | 1 | 0.7x | deepseek-r1-distill-qwen-32b |
-| 2 | `e.fishxcode.com` | ¥0.2857 | $0.285714 / $0.857143 | 1 | default | deepseek-r1-distill-qwen-32b |
-| 3 | `windhub.cc` | ¥0.7728 | $0.2485 / $2.4405 | 3.11 | Translate | deepseek-r1-distill-qwen-32b |
-| 4 | `ai.mowen.vip` | ¥0.9593 | $0.1435 / $0.4305 | 6.68494 | default | DeepSeek-R1-Distill-Qwen-32B |
-| 5 | `aifast.site` | ¥1.2 | $1.2 / $3.6 | 1 | 国产文本 | deepseek-r1-distill-qwen-32b |
-| 6 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | opensource | deepseek-r1-distill-qwen-32b |
-| 7 | `hk.moleapi.com` | ¥1.238 | $0.182 / $0.182 | 6.8 | default | deepseek-r1-distill-qwen-32b |
-| 8 | `api.aiskt.com` | ¥1.5 | $1.5 / $14.64 | 1 | default | deepseek-r1-distill-qwen-32b |
-| 9 | `apiai.shop` | ¥1.8 | $1.5 / $6 | 1.2 | default | deepseek-r1-distill-qwen-32b |
-| 10 | `poloai.top` | ¥1.8 | $1.8 / $5.4 | 1 | qwen-new | deepseek-r1-distill-qwen-32b |
-| 11 | `poloapi.top` | ¥1.8 | $1.8 / $5.4 | 1 | qwen-new | deepseek-r1-distill-qwen-32b |
-| 12 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | deepseek-r1-distill-qwen-32b |
-| 13 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-32b |
-| 14 | `new.foxi-api.cn` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-32b |
-| 15 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-32b |
-| 16 | `www.dayueai.fun` | ¥2.5 | $2.5 / $6.5 | 1 | vip | deepseek-r1-distill-qwen-32b |
-| 17 | `kfcv50.link` | ¥3 | $3 / $12 | 1 | cn_discount_0407_075 | deepseek-r1-distill-qwen-32b |
-| 18 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | deepseek-r1-distill-qwen-32b |
-| 19 | `hightpm.aiearth.dev` | ¥7.3 | $1 / $1 | 7.3 | 官方直连-Azure-Claude-Gemini | deepseek-r1-distill-qwen-32b |
-| 20 | `api.qinzhiai.com` | ¥7.409 | $1.015 / $1.015 | 7.3 | openrouter | deepseek/deepseek-r1-distill-qwen-32b |
-| 21 | `codeyy.top` | ¥14.6 | $2 / $6 | 7.3 | default | deepseek-r1-distill-qwen-32b |
-| 22 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-32b |
+| 1 | `e.fishxcode.com` | ¥0.2857 | $0.285714 / $0.857143 | 1 | default | deepseek-r1-distill-qwen-32b |
+| 2 | `windhub.cc` | ¥0.7728 | $0.2485 / $2.4405 | 3.11 | Translate | deepseek-r1-distill-qwen-32b |
+| 3 | `ai.mowen.vip` | ¥0.9593 | $0.1435 / $0.4305 | 6.68494 | default | DeepSeek-R1-Distill-Qwen-32B |
+| 4 | `aifast.site` | ¥1.2 | $1.2 / $3.6 | 1 | 国产文本 | deepseek-r1-distill-qwen-32b |
+| 5 | `gpt777.top` | ¥1.2 | $1.2 / $4.8 | 1 | opensource | deepseek-r1-distill-qwen-32b |
+| 6 | `hk.moleapi.com` | ¥1.238 | $0.182 / $0.182 | 6.8 | default | deepseek-r1-distill-qwen-32b |
+| 7 | `api.aiskt.com` | ¥1.5 | $1.5 / $14.64 | 1 | default | deepseek-r1-distill-qwen-32b |
+| 8 | `apiai.shop` | ¥1.8 | $1.5 / $6 | 1.2 | default | deepseek-r1-distill-qwen-32b |
+| 9 | `poloai.top` | ¥1.8 | $1.8 / $5.4 | 1 | qwen-new | deepseek-r1-distill-qwen-32b |
+| 10 | `poloapi.top` | ¥1.8 | $1.8 / $5.4 | 1 | qwen-new | deepseek-r1-distill-qwen-32b |
+| 11 | `api.eido.top` | ¥2 | $2 / $8 | 1 | default | deepseek-r1-distill-qwen-32b |
+| 12 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-32b |
+| 13 | `new.foxi-api.cn` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-32b |
+| 14 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-32b |
+| 15 | `www.dayueai.fun` | ¥2.5 | $2.5 / $6.5 | 1 | vip | deepseek-r1-distill-qwen-32b |
+| 16 | `kfcv50.link` | ¥3 | $3 / $12 | 1 | cn_discount_0407_075 | deepseek-r1-distill-qwen-32b |
+| 17 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | deepseek-r1-distill-qwen-32b |
+| 18 | `hightpm.aiearth.dev` | ¥7.3 | $1 / $1 | 7.3 | 官方直连-Azure-Claude-Gemini | deepseek-r1-distill-qwen-32b |
+| 19 | `api.qinzhiai.com` | ¥7.409 | $1.015 / $1.015 | 7.3 | openrouter | deepseek/deepseek-r1-distill-qwen-32b |
+| 20 | `codeyy.top` | ¥14.6 | $2 / $6 | 7.3 | default | deepseek-r1-distill-qwen-32b |
+| 21 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-32b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -88,6 +87,6 @@
 | 49 | `yunai.chat` | $2 / $6 | default | 1 | deepseek-r1-distill-qwen-32b |
 | 50 | `yunshu.hk` | $2 / $6 | default | 1 | deepseek-r1-distill-qwen-32b |
 
-> 另有 3 站未列出。
+> 另有 2 站未列出。
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

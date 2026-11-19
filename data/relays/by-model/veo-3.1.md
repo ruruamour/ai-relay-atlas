@@ -23,7 +23,7 @@
 | 11 | `ergouzi.life` | ¥1.2 | $0.164384 | 7.3 | cande-video | veo-3.1 |
 | 12 | `sub.linkrun.org` | ¥1.287 | $1.287 | 1 | default | veo-3.1 |
 | 13 | `qiye.kpzhu.com` | ¥1.46 | $0.2 | 7.3 | veo | veo-3.1 |
-| 14 | `a6api.com` | ¥2.668 | $0.4 | 6.67 | default | veo-3.1 |
+| 14 | `a6api.com` | ¥2.692 | $0.4 | 6.73 | default | veo-3.1 |
 | 15 | `llm-hub.top` | ¥3.9 | $3.9 | 1 | default | veo-3.1 |
 | 16 | `api.zcloudapi.com` | ¥5.22 | $0.715068 | 7.3 | rg_806af6a320644bff8b1ef7a2ac5b6735 | veo-3.1 |
 | 17 | `2api.powerapi.cc` | ¥10.95 | $1.5 | 7.3 | veo | veo-3.1 |

@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `mb.dmxapi.cn` | ¥0.15 | $0.03 / $0.06 | 5 | default | Doubao-1.5-lite-32k |
+| 1 | `mb.dmxapi.cn` | ¥0.15 | $0.03 / $0.06 | 5 | vip | Doubao-1.5-lite-32k |
 | 2 | `new.gateway.icu` | ¥0.15 | $0.15 / $0.3 | 1 | default | Doubao-1.5-lite-32k |
 | 3 | `ai.soruxgpt.com` | ¥0.3 | $0.3 / $0.6 | 1 | default | Doubao-1.5-lite-32k |
 | 4 | `api.eido.top` | ¥0.3 | $0.3 / $0.6 | 1 | default | Doubao-1.5-lite-32k |

@@ -1,6 +1,6 @@
 # mimo-v2-pro
 
-> 94 站提供 · 正常价 84 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥7**/1M 输入（27 站公开充值价） · 推算，未对账
+> 92 站提供 · 正常价 82 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6.721**/1M 输入（25 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,7 +13,7 @@
 | 1 | `www.kamiapi.top` | ¥0.3 | $0.3 / $0.6 | 1 | 国模分组 | mimo-v2-pro |
 | 2 | `feiniu-ai.xyz` | ¥0.435 | $0.435 / $0.87 | 1 | default | mimo-v2-pro |
 | 3 | `api.pezayo.com` | ¥1.46 | $0.2 / $0.2 | 7.3 | coding anthropic | mimo-v2-pro |
-| 4 | `botcf.com` | ¥1.8 | $1.8 / $3.6 | 1 | 📱xiaomi-mix | mimo-v2-pro |
+| 4 | `botcf.com` | ¥1.8 | $1.8 / $3.6 | 1 | 🚄openweight-fast | mimo-v2-pro |
 | 5 | `xn--15q04w3tg4kio0a.com` | ¥1.8 | $1.8 / $3.6 | 1 | 📱xiaomi-mix | mimo-v2-pro |
 | 6 | `new.foxi-api.cn` | ¥3 | $3 / $6 | 1 | default | mimo-v2-pro |
 | 7 | `ai.38yun.cn` | ¥3.15 | $3.15 / $6.3 | 1 | 官方全系稳定渠道 | mimo-v2-pro |
@@ -25,18 +25,16 @@
 | 13 | `aiapi.world` | ¥6.721 | $0.98838 / $2.96514 | 6.8 | cmodels | mimo-v2-pro |
 | 14 | `api.tokenrouter.com` | ¥7 | $1 / $3 | 7 | default | xiaomi/mimo-v2-pro |
 | 15 | `freegpt.tech` | ¥7 | $7 / $21 | 1 | default | mimo-v2-pro |
-| 16 | `zgc.apihy.com` | ¥7.512 | $1.029 / $3.088 | 7.3 | default | mimo-v2-pro |
-| 17 | `api.34ku.com` | ¥9.1 | $9.1 / $27.3 | 1 | default | mimo-v2-pro |
-| 18 | `keypool.space` | ¥10 | $10 / $10 | 1 | vip | mimo-v2-pro |
-| 19 | `xinsuanai.com` | ¥10 | $10 / $10 | 1 | default | mimo-v2-pro |
-| 20 | `mb.dmxapi.cn` | ¥12.92 | $2.583 / $7.749 | 5 | default | mimo-v2-pro |
-| 21 | `api.ai-gaochao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-pro |
-| 22 | `apius.shubiaobiao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-pro |
-| 23 | `api.zaowuyun.com` | ¥21 | $3 / - | 7 | default | mimo-v2-pro |
-| 24 | `api.qinzhiai.com` | ¥25.55 | $3.5 / $10.5 | 7.3 | openrouter | xiaomi/mimo-v2-pro |
-| 25 | `cn.gptapi.asia` | ¥49 | $49 / $147 | 1 | enterprise | mimo-v2-pro |
-| 26 | `yutoapi.com` | ¥49 | $49 / $147 | 1 | enterprise | mimo-v2-pro |
-| 27 | `nbapi.net` | ¥73 | $10 / $10 | 7.3 | default | mimo-v2-pro |
+| 16 | `api.34ku.com` | ¥9.1 | $9.1 / $27.3 | 1 | default | mimo-v2-pro |
+| 17 | `keypool.space` | ¥10 | $10 / $10 | 1 | vip | mimo-v2-pro |
+| 18 | `xinsuanai.com` | ¥10 | $10 / $10 | 1 | default | mimo-v2-pro |
+| 19 | `api.ai-gaochao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-pro |
+| 20 | `apius.shubiaobiao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-pro |
+| 21 | `api.zaowuyun.com` | ¥21 | $3 / - | 7 | default | mimo-v2-pro |
+| 22 | `api.qinzhiai.com` | ¥25.55 | $3.5 / $10.5 | 7.3 | openrouter | xiaomi/mimo-v2-pro |
+| 23 | `cn.gptapi.asia` | ¥49 | $49 / $147 | 1 | enterprise | mimo-v2-pro |
+| 24 | `yutoapi.com` | ¥49 | $49 / $147 | 1 | enterprise | mimo-v2-pro |
+| 25 | `nbapi.net` | ¥73 | $10 / $10 | 7.3 | default | mimo-v2-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

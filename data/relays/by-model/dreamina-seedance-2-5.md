@@ -13,7 +13,7 @@
 | 1 | `api.dogrouter.ai` | ¥7 | $7 / $7 | 1 | default | dreamina-seedance-2-5-260628 |
 | 2 | `easyrouter.io` | ¥11.7 | $11.7 / $11.7 | 1 | default | dreamina-seedance-2-5 |
 | 3 | `wetoken.ai` | ¥21.4 | $21.4 / $21.4 | 1 | default | dreamina-seedance-2-5 |
-| 4 | `sub.666api.ai` | ¥46.72 | $6.4 / $6.4 | 7.3 | 视频生成分组 | dreamina-seedance-2-5 |
+| 4 | `sub.666api.ai` | ¥46.72 | $6.4 / $6.4 | 7.3 | svip | dreamina-seedance-2-5 |
 | 5 | `aiapi.hk` | ¥74.9 | $10.7 / $10.7 | 7 | seedance-2-5 | dreamina-seedance-2-5-260628 |
 | 6 | `ai.centos.hk` | ¥77 | $77 / $77 | 1 | 海外-dreamina-seedance2 | dreamina-seedance-2-5-260628 |
 | 7 | `ccoo.ai` | ¥79.56 | $11.7 / $11.7 | 6.8 | Seedance 国际版开白 | dreamina-seedance-2-5-260628 |

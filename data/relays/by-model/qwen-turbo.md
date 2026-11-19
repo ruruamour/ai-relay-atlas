@@ -1,6 +1,6 @@
 # qwen-turbo
 
-> 137 站提供 · 正常价 121 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3342**/1M 输入（67 站公开充值价） · 推算，未对账
+> 132 站提供 · 正常价 117 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.3342**/1M 输入（63 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,7 +19,7 @@
 | 7 | `gptnb.ai` | ¥0.18 | $0.18 / $0.36 | 1 | cn_official | qwen-turbo |
 | 8 | `oneapi.gptnb.ai` | ¥0.18 | $0.18 / $0.36 | 1 | CN_discount | qwen-turbo |
 | 9 | `platform.anyrouter.ai` | ¥0.18 | $0.18 / $1.8 | 1 | official_cn | qwen-turbo |
-| 10 | `mb.dmxapi.cn` | ¥0.2 | $0.04 / $0.08 | 5 | default | qwen-turbo |
+| 10 | `mb.dmxapi.cn` | ¥0.2 | $0.04 / $0.08 | 5 | vip | qwen-turbo |
 | 11 | `magic666.top` | ¥0.21 | $0.21 / $2.1 | 1 | 国产模型 | qwen-turbo-2025-04-28 |
 | 12 | `rockapi.ai` | ¥0.21 | $0.21 / $2.1 | 1 | 0.7x | qwen-turbo |
 | 13 | `gpt777.top` | ¥0.24 | $0.24 / $2.4 | 1 | opensource | qwen-turbo |
@@ -30,38 +30,38 @@
 | 18 | `api.solov.cc` | ¥0.3 | $0.3 / $3 | 1 | Qwen-通义千问 | qwen-turbo |
 | 19 | `api.xgapi.top` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
 | 20 | `azapi.com.cn` | ¥0.3 | $0.3 / $3 | 1 | default | qwen-turbo |
-| 21 | `coneverse.com` | ¥0.3 | $0.3 / $0.6 | 1 | qwen-official | qwen-turbo |
-| 22 | `gpt-api.cc` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
-| 23 | `infistar.ai` | ¥0.3 | $0.3 / $0.6 | 1 | qwen-official | qwen-turbo |
-| 24 | `keypool.space` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
-| 25 | `kfcv50.link` | ¥0.3 | $0.3 / $3 | 1 | Domestic | qwen-turbo |
-| 26 | `n.lconai.com` | ¥0.3 | $0.3 / $0.6 | 1 | A2 | qwen-turbo |
-| 27 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo-2025-07-15 |
-| 28 | `xinsuanai.com` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
-| 29 | `vke-api.gravitex.ai` | ¥0.3 | $0.041096 / $0.082192 | 7.3 | default | qwen-turbo |
-| 30 | `api.pezayo.com` | ¥0.3129 | $0.04286 / $0.0847459 | 7.3 | default | qwen-turbo |
-| 31 | `ai.38yun.cn` | ¥0.315 | $0.315 / $3.15 | 1 | 官方全系稳定渠道 | qwen-turbo |
-| 32 | `api.bianxie.ai` | ¥0.3212 | $0.044 / $0.088 | 7.3 | default | qwen-turbo |
-| 33 | `api.bianxieai.com` | ¥0.3212 | $0.044 / $0.088 | 7.3 | default | qwen-turbo |
-| 34 | `ai.mowen.vip` | ¥0.3342 | $0.05 / $0.2 | 6.68494 | default | qwen-turbo |
-| 35 | `apiai.shop` | ¥0.36 | $0.3 / $0.6 | 1.2 | default | qwen-turbo |
-| 36 | `api.ocoolai.com` | ¥0.45 | $0.45 / $4.5 | 1 | default | qwen-turbo |
-| 37 | `ocool.cn` | ¥0.45 | $0.45 / $4.5 | 1 | default | qwen-turbo |
-| 38 | `one.ooo.cool` | ¥0.45 | $0.45 / $4.5 | 1 | default | qwen-turbo |
-| 39 | `www.hohoapi.com` | ¥0.468 | $0.156 / $0.312 | 3 | qwen | qwen-turbo |
-| 40 | `cc.zhihuiapi.top` | ¥0.48 | $0.48 / $4.8 | 1 | qwen | qwen-turbo |
-| 41 | `cn.zhihuiai.top` | ¥0.48 | $0.48 / $4.8 | 1 | qwen | qwen-turbo |
-| 42 | `api.qiqiai.top` | ¥0.8572 | $0.4286 / $4.286 | 2 | 国产模型系列 | qwen-turbo |
-| 43 | `api.camel-hub.cn` | ¥0.9 | $1.125 / $2.25 | 0.8 | OFC | qwen-turbo |
-| 44 | `api.camel-hub.com` | ¥0.9 | $1.125 / $2.25 | 0.8 | OFC | qwen-turbo |
-| 45 | `api.kr777.top` | ¥0.9 | $1.125 / $2.25 | 0.8 | OFC | qwen-turbo |
-| 46 | `runapi.co` | ¥0.945 | $0.14 / $0.28 | 6.75 | default | qwen-turbo |
-| 47 | `hy88.my` | ¥1.314 | $0.18 / $1.8 | 7.3 | qwen | qwen-turbo |
-| 48 | `api.eido.top` | ¥1.714 | $1.7144 / $1.7144 | 1 | default | qwen-turbo |
-| 49 | `www.dayueai.fun` | ¥1.714 | $1.7144 / $1.7144 | 1 | vip | qwen-turbo |
-| 50 | `hk.moleapi.com` | ¥2.04 | $0.3 / $3 | 6.8 | default | qwen-turbo |
+| 21 | `gpt-api.cc` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
+| 22 | `keypool.space` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
+| 23 | `kfcv50.link` | ¥0.3 | $0.3 / $3 | 1 | Domestic | qwen-turbo |
+| 24 | `n.lconai.com` | ¥0.3 | $0.3 / $0.6 | 1 | A2 | qwen-turbo |
+| 25 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo-2025-07-15 |
+| 26 | `xinsuanai.com` | ¥0.3 | $0.3 / $0.6 | 1 | default | qwen-turbo |
+| 27 | `vke-api.gravitex.ai` | ¥0.3 | $0.041096 / $0.082192 | 7.3 | default | qwen-turbo |
+| 28 | `api.pezayo.com` | ¥0.3129 | $0.04286 / $0.0847459 | 7.3 | default | qwen-turbo |
+| 29 | `ai.38yun.cn` | ¥0.315 | $0.315 / $3.15 | 1 | 官方全系稳定渠道 | qwen-turbo |
+| 30 | `api.bianxie.ai` | ¥0.3212 | $0.044 / $0.088 | 7.3 | default | qwen-turbo |
+| 31 | `api.bianxieai.com` | ¥0.3212 | $0.044 / $0.088 | 7.3 | default | qwen-turbo |
+| 32 | `ai.mowen.vip` | ¥0.3342 | $0.05 / $0.2 | 6.68494 | default | qwen-turbo |
+| 33 | `apiai.shop` | ¥0.36 | $0.3 / $0.6 | 1.2 | default | qwen-turbo |
+| 34 | `api.ocoolai.com` | ¥0.45 | $0.45 / $4.5 | 1 | default | qwen-turbo |
+| 35 | `ocool.cn` | ¥0.45 | $0.45 / $4.5 | 1 | default | qwen-turbo |
+| 36 | `one.ooo.cool` | ¥0.45 | $0.45 / $4.5 | 1 | default | qwen-turbo |
+| 37 | `www.hohoapi.com` | ¥0.468 | $0.156 / $0.312 | 3 | qwen | qwen-turbo |
+| 38 | `api.qiqiai.top` | ¥0.8572 | $0.4286 / $4.286 | 2 | 国产模型系列 | qwen-turbo |
+| 39 | `api.camel-hub.cn` | ¥0.9 | $1.125 / $2.25 | 0.8 | OFC | qwen-turbo |
+| 40 | `api.camel-hub.com` | ¥0.9 | $1.125 / $2.25 | 0.8 | OFC | qwen-turbo |
+| 41 | `api.kr777.top` | ¥0.9 | $1.125 / $2.25 | 0.8 | OFC | qwen-turbo |
+| 42 | `runapi.co` | ¥0.945 | $0.14 / $0.28 | 6.75 | default | qwen-turbo |
+| 43 | `hy88.my` | ¥1.314 | $0.18 / $1.8 | 7.3 | qwen | qwen-turbo |
+| 44 | `api.eido.top` | ¥1.714 | $1.7144 / $1.7144 | 1 | default | qwen-turbo |
+| 45 | `www.dayueai.fun` | ¥1.714 | $1.7144 / $1.7144 | 1 | vip | qwen-turbo |
+| 46 | `hk.moleapi.com` | ¥2.04 | $0.3 / $3 | 6.8 | default | qwen-turbo |
+| 47 | `cn.gptapi.asia` | ¥2.1 | $2.1 / $4.2 | 1 | enterprise | qwen-turbo-0919 |
+| 48 | `yutoapi.com` | ¥2.1 | $2.1 / $4.2 | 1 | enterprise | qwen-turbo-0919 |
+| 49 | `ai.nodeloc.com` | ¥2.19 | $0.3 / $0.6 | 7.3 | default | qwen-turbo |
+| 50 | `codeyy.top` | ¥2.19 | $0.3 / $0.6 | 7.3 | default | qwen-turbo |
 
-> 另有 17 站未列出。
+> 另有 13 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 4 站未列出。
 
-> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

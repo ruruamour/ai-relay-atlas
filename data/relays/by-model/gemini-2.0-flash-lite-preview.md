@@ -24,7 +24,7 @@
 | 12 | `api.eido.top` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
 | 13 | `api.hopeai.cc` | ¥0.15 | $0.15 / $0.6 | 1 | default | gemini-2.0-flash-lite-preview-02-05 |
 | 14 | `www.micuapi.ai` | ¥0.15 | $0.15 / $0.6 | 1 | - | gemini-2.0-flash-lite-preview-02-05 |
-| 15 | `webapi.xjai.cc` | ¥0.225 | $0.075 / $0.3 | 3 | default | gemini-2.0-flash-lite-preview-02-05 |
+| 15 | `webapi.xjai.cc` | ¥0.225 | $0.075 / $0.3 | 3 | svip | gemini-2.0-flash-lite-preview-02-05 |
 | 16 | `api.apib.ai` | ¥0.525 | $0.075 / $0.3 | 7 | - | gemini-2.0-flash-lite-preview |
 | 17 | `gemini.ysaikeji.cn` | ¥0.5475 | $0.075 / $0.3 | 7.3 | default | gemini-2.0-flash-lite-preview |
 | 18 | `n.lconai.com` | ¥1.2 | $1.2 / $4.8 | 1 | B1 | gemini-2.0-flash-lite-preview |

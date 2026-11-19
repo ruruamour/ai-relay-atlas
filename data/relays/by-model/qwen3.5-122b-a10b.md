@@ -1,6 +1,6 @@
 # qwen3.5-122b-a10b
 
-> 202 站提供 · 正常价 168 站 · 名义中位价 **$0.42**/1M 输入 · 实付中位价 **¥1.472**/1M 输入（114 站公开充值价） · 推算，未对账
+> 203 站提供 · 正常价 169 站 · 名义中位价 **$0.44**/1M 输入 · 实付中位价 **¥1.538**/1M 输入（115 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,53 +15,53 @@
 | 3 | `zen-ai.top` | ¥0.16 | $0.16 / $1.28 | 1 | 开源 | qwen3.5-122b-a10b |
 | 4 | `tokenflowsolution.com` | ¥0.18 | $0.18 / $1.44 | 1 | 国模通用 | qwen3.5-122b-a10b |
 | 5 | `newapi.prorisehub.com` | ¥0.2 | $0.2 / $1.6 | 1 | 海外国产编程模 | qwen3.5-122b-a10b |
-| 6 | `xiaoqie.xyz` | ¥0.26 | $0.26 / $2.08 | 1 | OpenRouter官方线路 | qwen/qwen3.5-122b-a10b |
-| 7 | `rockapi.ai` | ¥0.3108 | $0.3108 / $2.1742 | 1 | 0.7x | qwen3.5-122b-a10b |
-| 8 | `open.xiaojingai.com` | ¥0.4 | $0.4 / $3.2 | 1 | Ali | qwen3.5-122b-a10b |
+| 6 | `apijing.com` | ¥0.26 | $0.26 / $2.08 | 1 | default | qwen/qwen3.5-122b-a10b |
+| 7 | `xiaoqie.xyz` | ¥0.26 | $0.26 / $2.08 | 1 | OpenRouter官方线路 | qwen/qwen3.5-122b-a10b |
+| 8 | `rockapi.ai` | ¥0.3108 | $0.3108 / $2.1742 | 1 | 0.7x | qwen3.5-122b-a10b |
 | 9 | `llm.kagu.one` | ¥0.4198 | $0.0575 / $0.4585 | 7.3 | 大杂烩 | qwen/qwen3.5-122b-a10b |
 | 10 | `aifast.site` | ¥0.48 | $0.48 / $3.84 | 1 | 国产文本 | qwen3.5-122b-a10b |
 | 11 | `api.camel-hub.cn` | ¥0.48 | $0.6 / $4.8 | 0.8 | default | qwen3.5-122b-a10b |
-| 12 | `api.camel-hub.com` | ¥0.48 | $0.6 / $4.8 | 0.8 | default | qwen3.5-122b-a10b |
-| 13 | `api.kr777.top` | ¥0.48 | $0.6 / $4.8 | 0.8 | default | qwen3.5-122b-a10b |
-| 14 | `maisi-ai.com` | ¥0.584 | $0.08 / $0.4 | 7.3 | 国模分组 | qwen3.5-122b-a10b |
-| 15 | `gpt777.top` | ¥0.64 | $0.64 / $1.6 | 1 | opensource | Qwen/Qwen3.5-122B-A10B |
-| 16 | `api.ifopen.ai` | ¥0.728 | $0.208 / $0.52 | 3.5 | 通用大模型 | Qwen/Qwen3.5-122B-A10B |
-| 17 | `api2.aigcbest.top` | ¥0.728 | $0.208 / $0.52 | 3.5 | 通用大模型 | Qwen/Qwen3.5-122B-A10B |
-| 18 | `ihonghu.com.cn` | ¥0.73 | $0.1 / $0.8 | 7.3 | yuanli | qwen3.5-122b-a10b |
-| 19 | `open.cherryin.ai` | ¥0.7729 | $0.114 / $0.912 | 6.78 | default | qwen/qwen3.5-122b-a10b |
-| 20 | `hk.moleapi.com` | ¥0.7888 | $0.116 / $0.928 | 6.8 | default | qwen3.5-122b-a10b |
-| 21 | `api.yuboar.com` | ¥0.8 | $0.8 / $6.4 | 1 | domestic | qwen3.5-122b-a10b |
-| 22 | `coneverse.com` | ¥0.8 | $0.8 / $6.4 | 1 | qwen-official | qwen3.5-122b-a10b |
-| 23 | `infistar.ai` | ¥0.8 | $0.8 / $6.4 | 1 | qwen-official | qwen3.5-122b-a10b |
-| 24 | `keypool.space` | ¥0.8 | $0.8 / $6.4 | 1 | default | qwen3.5-122b-a10b |
-| 25 | `mb.dmxapi.cn` | ¥0.8 | $0.16 / $1.28 | 5 | vip | qwen3.5-122b-a10b |
-| 26 | `new.foxi-api.cn` | ¥0.8 | $0.8 / $6.4 | 1 | default | qwen3.5-122b-a10b |
-| 27 | `xinsuanai.com` | ¥0.8 | $0.8 / $6.4 | 1 | default | qwen3.5-122b-a10b |
-| 28 | `hk.apitoken.ai` | ¥0.803 | $0.11 / $0.66 | 7.3 | default | Qwen3.5-122B-A10B |
-| 29 | `express-ent-admin.cherryin.net` | ¥0.8208 | $0.114 / $0.912 | 7.2 | default | qwen/qwen3.5-122b-a10b |
-| 30 | `api.orcarouter.ai` | ¥0.8395 | $0.115 / $0.917 | 7.3 | vip | qwen/qwen3.5-122b-a10b |
-| 31 | `api.apiyi.com` | ¥0.84 | $0.12 / $0.96 | 7 | default | qwen3.5-122b-a10b |
-| 32 | `newapi.gancmcs.top` | ¥0.8728 | $0.119558 / $0.956464 | 7.3 | 默认全模型 | Qwen/Qwen3.5-122B-A10B |
-| 33 | `zgc.apihy.com` | ¥0.876 | $0.12 / $0.93 | 7.3 | default | qwen3.5-122b-a10b |
-| 34 | `yibuapi.com` | ¥0.96 | $0.64 / $5.12 | 1.5 | claude-code | qwen3.5-122b-a10b |
-| 35 | `ai.lgdfort.com` | ¥1.04 | $1.04 / $8.32 | 1 | default | Qwen/Qwen3.5-122B-A10B |
-| 36 | `www.yibuapi.cn` | ¥1.2 | $0.8 / $6.4 | 1.5 | claude-code | qwen3.5-122b-a10b |
-| 37 | `yibuapi.cn` | ¥1.2 | $0.8 / $6.4 | 1.5 | claude-code | qwen3.5-122b-a10b |
-| 38 | `www.hohoapi.com` | ¥1.248 | $0.416 / $3.328 | 3 | qwen | qwen3.5-122b-a10b |
-| 39 | `ai.mowen.vip` | ¥1.337 | $0.2 / $1.6 | 6.68494 | default | Qwen3.5-122B-A10B |
-| 40 | `api.openlux.ai` | ¥1.338 | $0.2 / $1.6 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 41 | `api.relayrouter.ai` | ¥1.338 | $0.2 / $1.6 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 42 | `openlux.zhongzhuan.chat` | ¥1.338 | $0.2 / $1.6 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 43 | `open-test.xiaojingai.com` | ¥1.46 | $0.2 / $1.6 | 7.3 | codex2 | qwen3.5-122b-a10b |
-| 44 | `4zapi.com` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 45 | `ai.kalehui.cn` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 46 | `aiopus.top` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 47 | `aipipe.site` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 48 | `api.anthropicricardo.club` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 49 | `api.modelyard.cc` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
-| 50 | `api.tidewhisper-ai.xyz` | ¥1.472 | $0.22 / $1.76 | 6.68934 | Alibaba-1 | qwen3.5-122b-a10b |
+| 12 | `maisi-ai.com` | ¥0.584 | $0.08 / $0.4 | 7.3 | 国模分组 | qwen3.5-122b-a10b |
+| 13 | `gpt777.top` | ¥0.64 | $0.64 / $1.6 | 1 | opensource | Qwen/Qwen3.5-122B-A10B |
+| 14 | `open.xiaojingai.com` | ¥0.72 | $0.72 / $5.76 | 1 | Ali_Advanced | qwen3.5-122b-a10b |
+| 15 | `ihonghu.com.cn` | ¥0.73 | $0.1 / $0.8 | 7.3 | yuanli | qwen3.5-122b-a10b |
+| 16 | `open.cherryin.ai` | ¥0.7729 | $0.114 / $0.912 | 6.78 | default | qwen/qwen3.5-122b-a10b |
+| 17 | `hk.moleapi.com` | ¥0.7888 | $0.116 / $0.928 | 6.8 | default | qwen3.5-122b-a10b |
+| 18 | `api.yuboar.com` | ¥0.8 | $0.8 / $6.4 | 1 | domestic | qwen3.5-122b-a10b |
+| 19 | `coneverse.com` | ¥0.8 | $0.8 / $6.4 | 1 | qwen-official | qwen3.5-122b-a10b |
+| 20 | `infistar.ai` | ¥0.8 | $0.8 / $6.4 | 1 | qwen-official | qwen3.5-122b-a10b |
+| 21 | `keypool.space` | ¥0.8 | $0.8 / $6.4 | 1 | vip | qwen3.5-122b-a10b |
+| 22 | `mb.dmxapi.cn` | ¥0.8 | $0.16 / $1.28 | 5 | default | qwen3.5-122b-a10b |
+| 23 | `new.foxi-api.cn` | ¥0.8 | $0.8 / $6.4 | 1 | default | qwen3.5-122b-a10b |
+| 24 | `xinsuanai.com` | ¥0.8 | $0.8 / $6.4 | 1 | default | qwen3.5-122b-a10b |
+| 25 | `hk.apitoken.ai` | ¥0.803 | $0.11 / $0.66 | 7.3 | default | Qwen3.5-122B-A10B |
+| 26 | `express-ent-admin.cherryin.net` | ¥0.8208 | $0.114 / $0.912 | 7.2 | default | qwen/qwen3.5-122b-a10b |
+| 27 | `api.orcarouter.ai` | ¥0.8395 | $0.115 / $0.917 | 7.3 | default | qwen/qwen3.5-122b-a10b |
+| 28 | `api.apiyi.com` | ¥0.84 | $0.12 / $0.96 | 7 | default | qwen3.5-122b-a10b |
+| 29 | `newapi.gancmcs.top` | ¥0.8728 | $0.119558 / $0.956464 | 7.3 | 默认全模型 | Qwen/Qwen3.5-122B-A10B |
+| 30 | `zgc.apihy.com` | ¥0.876 | $0.12 / $0.93 | 7.3 | default | qwen3.5-122b-a10b |
+| 31 | `yibuapi.com` | ¥0.96 | $0.64 / $5.12 | 1.5 | claude-code | qwen3.5-122b-a10b |
+| 32 | `ai.lgdfort.com` | ¥1.04 | $1.04 / $8.32 | 1 | default | Qwen/Qwen3.5-122B-A10B |
+| 33 | `www.yibuapi.cn` | ¥1.2 | $0.8 / $6.4 | 1.5 | claude-code | qwen3.5-122b-a10b |
+| 34 | `yibuapi.cn` | ¥1.2 | $0.8 / $6.4 | 1.5 | claude-code | qwen3.5-122b-a10b |
+| 35 | `www.hohoapi.com` | ¥1.248 | $0.416 / $3.328 | 3 | qwen | qwen3.5-122b-a10b |
+| 36 | `ai.mowen.vip` | ¥1.337 | $0.2 / $1.6 | 6.68494 | default | Qwen3.5-122B-A10B |
+| 37 | `api.openlux.ai` | ¥1.338 | $0.2 / $1.6 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 38 | `api.relayrouter.ai` | ¥1.338 | $0.2 / $1.6 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 39 | `openlux.zhongzhuan.chat` | ¥1.338 | $0.2 / $1.6 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 40 | `open-test.xiaojingai.com` | ¥1.46 | $0.2 / $1.6 | 7.3 | codex2 | qwen3.5-122b-a10b |
+| 41 | `4zapi.com` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 42 | `aiopus.top` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 43 | `aipipe.site` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 44 | `api.anthropicricardo.club` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 45 | `api.modelyard.cc` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 46 | `api.tidewhisper-ai.xyz` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 47 | `apistudio.vip` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 48 | `dawnnode.com` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 49 | `tiantoken.cn` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
+| 50 | `token.kkdmx.com` | ¥1.471 | $0.22 / $1.76 | 6.68752 | Alibaba-1 | qwen3.5-122b-a10b |
 
-> 另有 64 站未列出。
+> 另有 65 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

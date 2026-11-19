@@ -1,6 +1,6 @@
 # mistral-small
 
-> 39 站提供 · 正常价 24 站 · 名义中位价 **$0.4**/1M 输入 · 实付中位价 **¥1.912**/1M 输入（22 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 25 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.853**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,25 +13,26 @@
 | 1 | `api.aliyunfuwu.top` | ¥0.135 | $0.135 / $0.405 | 1 | Mistral | mistral-small-2603 |
 | 2 | `8s.hk` | ¥0.15 | $0.15 / $0.45 | 1 | 全模型自动 | mistral-small |
 | 3 | `api.ouu.ch` | ¥0.15 | $0.15 / $0.45 | 1 | default | mistral-small-latest |
-| 4 | `wzw.pp.ua` | ¥0.15 | $0.15 / $0.45 | 1 | default | mistral-small-2603 |
-| 5 | `xiaoqie.xyz` | ¥0.15 | $0.15 / $0.6 | 1 | OpenRouter官方线路 | mistralai/mistral-small-2603 |
-| 6 | `api.unorouter.com` | ¥0.3 | $0.3 / $0.9 | 1 | open1-mistral-zdr-mistral-small | mistral-small |
-| 7 | `llm.kagu.one` | ¥0.5475 | $0.075 / $0.225 | 7.3 | 大杂烩 | mistral-small-2603 |
-| 8 | `chrisapivip.com` | ¥0.8 | $0.8 / $2.4 | 1 | default | mistral-small-latest |
-| 9 | `api.tokenrouter.com` | ¥1.05 | $0.15 / $0.6 | 7 | default | mistralai/mistral-small-2603 |
-| 10 | `or.mux.la` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | mistralai/mistral-small-2603 |
-| 11 | `api.tacklekey.com` | ¥1.853 | $0.253846 / $1.01538 | 7.3 | default | mistralai/mistral-small-2603 |
-| 12 | `ai2.qiqiai.top` | ¥1.971 | $0.27 / $1.08 | 7.3 | 官方合作渠道 | mistralai/mistral-small-2603 |
-| 13 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | mistral-small-latest |
-| 14 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | mistral-small-latest |
-| 15 | `api.ifopen.ai` | ¥3.5 | $1 / $3 | 3.5 | default | mistral-small-2506 |
-| 16 | `api2.aigcbest.top` | ¥3.5 | $1 / $3 | 3.5 | default | mistral-small-2506 |
-| 17 | `api.wapq.cn` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistral-small-latest |
-| 18 | `api.qinzhiai.com` | ¥3.833 | $0.525 / $2.1 | 7.3 | openrouter | mistralai/mistral-small-2603 |
-| 19 | `⚠️aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-small-latest |
-| 20 | `elysiver.h-e.top` | ¥5 | $1 / $1 | 5 | unattended-jungling | plugsky-mistral-small(fingerprint≈k16) |
-| 21 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | mistral-small-latest |
-| 22 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | mistral-small-latest |
+| 4 | `apijing.com` | ¥0.15 | $0.15 / $0.6 | 1 | default | mistralai/mistral-small-2603 |
+| 5 | `wzw.pp.ua` | ¥0.15 | $0.15 / $0.45 | 1 | default | mistral-small-2603 |
+| 6 | `xiaoqie.xyz` | ¥0.15 | $0.15 / $0.6 | 1 | OpenRouter官方线路 | mistralai/mistral-small-2603 |
+| 7 | `api.unorouter.com` | ¥0.3 | $0.3 / $0.9 | 1 | open1-mistral-zdr-mistral-small | mistral-small |
+| 8 | `llm.kagu.one` | ¥0.5475 | $0.075 / $0.225 | 7.3 | 大杂烩 | mistral-small-2603 |
+| 9 | `chrisapivip.com` | ¥0.8 | $0.8 / $2.4 | 1 | default | mistral-small-latest |
+| 10 | `api.tokenrouter.com` | ¥1.05 | $0.15 / $0.6 | 7 | default | mistralai/mistral-small-2603 |
+| 11 | `or.mux.la` | ¥1.095 | $0.15 / $0.6 | 7.3 | default | mistralai/mistral-small-2603 |
+| 12 | `api.tacklekey.com` | ¥1.853 | $0.253846 / $1.01538 | 7.3 | default | mistralai/mistral-small-2603 |
+| 13 | `ai2.qiqiai.top` | ¥1.971 | $0.27 / $1.08 | 7.3 | 官方合作渠道 | mistralai/mistral-small-2603 |
+| 14 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | mistral-small-latest |
+| 15 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | mistral-small-latest |
+| 16 | `api.ifopen.ai` | ¥3.5 | $1 / $3 | 3.5 | default | mistral-small-2506 |
+| 17 | `api2.aigcbest.top` | ¥3.5 | $1 / $3 | 3.5 | default | mistral-small-2506 |
+| 18 | `api.wapq.cn` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistral-small-latest |
+| 19 | `api.qinzhiai.com` | ¥3.833 | $0.525 / $2.1 | 7.3 | openrouter | mistralai/mistral-small-2603 |
+| 20 | `⚠️aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-small-latest |
+| 21 | `elysiver.h-e.top` | ¥5 | $1 / $1 | 5 | unattended-jungling | plugsky-mistral-small(fingerprint≈k16) |
+| 22 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | mistral-small-latest |
+| 23 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | mistral-small-latest |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -40,4 +41,4 @@
 | 1 | `happyapi.org` | $0.15 / $0.45 | default | 1 | mistral-small-2603 |
 | 2 | `meta-api.vip` | $4.98966 / $19.9586 | 企业级 | 1 | mistral-small-2603 |
 
-> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

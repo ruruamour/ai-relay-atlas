@@ -14,9 +14,9 @@
 | 2 | `zen-ai.top` | ¥0.112 | $0.112 / $0.112 | 1 | 开源 | qwen3-reranker-8b |
 | 3 | `api.paasai.cc` | ¥0.224 | $0.224 / $0 | 1 | 八折 国模 | qwen3-reranker-8b |
 | 4 | `aiapi.world` | ¥0.2358 | $0.03468 / $0 | 6.8 | cmodels | qwen3-reranker-8b |
-| 5 | `open.xiaojingai.com` | ¥0.25 | $0.25 / $0.0025 | 1 | default | qwen3-reranker-8b |
-| 6 | `api.lingyaai.cn` | ¥0.28 | $0.28 / $0 | 1 | default | qwen3-reranker-8b |
-| 7 | `beeroute.ai` | ¥0.28 | $0.28 / $0 | 1 | default | qwen3-reranker-8b |
+| 5 | `api.lingyaai.cn` | ¥0.28 | $0.28 / $0 | 1 | default | qwen3-reranker-8b |
+| 6 | `beeroute.ai` | ¥0.28 | $0.28 / $0 | 1 | default | qwen3-reranker-8b |
+| 7 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.28 | $0.28 / $0 | 1 | default | qwen3-reranker-8b |
 | 8 | `ai.lgdfort.com` | ¥0.364 | $0.364 / $0 | 1 | default | Qwen/Qwen3-Reranker-8B |
 | 9 | `yibuapi.com` | ¥0.42 | $0.28 / $0.28 | 1.5 | default | qwen3-reranker-8b |
 | 10 | `open-test.xiaojingai.com` | ¥0.4562 | $0.0625 / $0.000625 | 7.3 | codex2 | qwen3-reranker-8b |

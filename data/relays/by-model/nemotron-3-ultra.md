@@ -15,7 +15,7 @@
 | 3 | `sub2api.closeapi.top` | ¥1.095 | $0.15 / $0.6 | 7.3 | oc | nemotron-3-ultra |
 | 4 | `www.zhenx.ai` | ¥1.46 | $0.2 / $1 | 7.3 | default | nemotron-3-ultra |
 | 5 | `cdn.sta1n.cn` | ¥1.8 | $1.8 / $7.7 | 1 | default | nemotron-3-ultra |
-| 6 | `autorouter.top` | ¥2 | $2 / $10 | 1 | default | nemotron-3-ultra |
+| 6 | `autorouter.top` | ¥2 | $2 / $10 | 1 | svip2 | nemotron-3-ultra |
 | 7 | `botcf.com` | ¥2.01 | $2.01 / $10.05 | 1 | 🚄openweight-fast | nemotron-3-ultra |
 | 8 | `xn--15q04w3tg4kio0a.com` | ¥2.01 | $2.01 / $10.05 | 1 | 🚄openweight-fast | nemotron-3-ultra |
 | 9 | `api.luoqianyi.qzz.io` | ¥2.5 | $5 / $5 | 0.5 | default | nemotron-3-ultra |

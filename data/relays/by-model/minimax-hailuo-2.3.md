@@ -1,6 +1,6 @@
 # minimax-hailuo-2.3
 
-> 93 站提供 · 正常价 81 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥2**/次（29 站公开充值价） · 推算，未对账
+> 93 站提供 · 正常价 82 站 · 名义中位价 **$0.016**/次 · 实付中位价 **¥2**/次（30 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,27 +18,28 @@
 | 6 | `api.camel-hub.com` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-2.3 |
 | 7 | `api.kr777.top` | ¥0.24 | $0.3 | 0.8 | default | MiniMax-Hailuo-2.3 |
 | 8 | `synthapi.asia` | ¥0.4097 | $0.05612 | 7.3 | 视频模型聚合 | minimax-hailuo-2.3 |
-| 9 | `toapis.com` | ¥1.358 | $0.194 | 7 | default | MiniMax-Hailuo-2.3 |
-| 10 | `gpt777.top` | ¥1.6 | $1.6 | 1 | opensource | MiniMax-Hailuo-2.3 |
-| 11 | `www.hohoapi.com` | ¥1.746 | $0.582 | 3 | video | MiniMax-Hailuo-2.3 |
-| 12 | `api.tokenrouter.com` | ¥1.96 | $0.28 | 7 | default | MiniMax-Hailuo-2.3 |
-| 13 | `api.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
-| 14 | `apilio.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
-| 15 | `kfcv50.link` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
-| 16 | `test-ssl.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
-| 17 | `ai.comfly.org` | ¥2.4 | $2 | 1.2 | default | MiniMax-Hailuo-2.3 |
-| 18 | `api.34ku.com` | ¥2.6 | $2.6 | 1 | default | MiniMax-Hailuo-2.3 |
-| 19 | `ai.mowen.vip` | ¥2.68 | $0.400857 | 6.68494 | default | MiniMax-Hailuo-2.3 |
-| 20 | `ai.t8star.org` | ¥2.7 | $2 | 1.35 | default | MiniMax-Hailuo-2.3 |
-| 21 | `api.ilaien.com` | ¥2.832 | $0.388 | 7.3 | default | MiniMax-Hailuo-2.3 |
-| 22 | `runapi.co` | ¥3.172 | $0.47 | 6.75 | default | MiniMax-Hailuo-2.3 |
-| 23 | `api.ifopen.ai` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-2.3 |
-| 24 | `api2.aigcbest.top` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-2.3 |
-| 25 | `cn.gptapi.asia` | ¥4.34 | $4.34 | 1 | enterprise | MiniMax-Hailuo-2.3 |
-| 26 | `yutoapi.com` | ¥4.34 | $4.34 | 1 | enterprise | MiniMax-Hailuo-2.3 |
-| 27 | `kapibala.asia` | ¥4.5 | $15 | 0.3 | codex | MiniMax-Hailuo-2.3 |
-| 28 | `api-x.top` | ¥14 | $2 | 7 | default | MiniMax-Hailuo-2.3 |
-| 29 | `api-x.vip` | ¥27.2 | $27.2 | 1 | default | MiniMax-Hailuo-2.3 |
+| 9 | `ai.hwdrama.com` | ¥0.6 | $0.6 | 1 | default | MiniMax-Hailuo-2.3 |
+| 10 | `toapis.com` | ¥1.358 | $0.194 | 7 | vip | MiniMax-Hailuo-2.3 |
+| 11 | `gpt777.top` | ¥1.6 | $1.6 | 1 | opensource | MiniMax-Hailuo-2.3 |
+| 12 | `www.hohoapi.com` | ¥1.746 | $0.582 | 3 | video | MiniMax-Hailuo-2.3 |
+| 13 | `api.tokenrouter.com` | ¥1.96 | $0.28 | 7 | default | MiniMax-Hailuo-2.3 |
+| 14 | `api.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
+| 15 | `apilio.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
+| 16 | `kfcv50.link` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
+| 17 | `test-ssl.bltcy.ai` | ¥2 | $2 | 1 | default | MiniMax-Hailuo-2.3 |
+| 18 | `ai.comfly.org` | ¥2.4 | $2 | 1.2 | default | MiniMax-Hailuo-2.3 |
+| 19 | `api.34ku.com` | ¥2.6 | $2.6 | 1 | default | MiniMax-Hailuo-2.3 |
+| 20 | `ai.mowen.vip` | ¥2.68 | $0.400857 | 6.68494 | default | MiniMax-Hailuo-2.3 |
+| 21 | `ai.t8star.org` | ¥2.7 | $2 | 1.35 | default | MiniMax-Hailuo-2.3 |
+| 22 | `api.ilaien.com` | ¥2.832 | $0.388 | 7.3 | default | MiniMax-Hailuo-2.3 |
+| 23 | `runapi.co` | ¥3.172 | $0.47 | 6.75 | default | MiniMax-Hailuo-2.3 |
+| 24 | `api.ifopen.ai` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-2.3 |
+| 25 | `api2.aigcbest.top` | ¥3.185 | $0.91 | 3.5 | 通用大模型 | MiniMax-Hailuo-2.3 |
+| 26 | `cn.gptapi.asia` | ¥4.34 | $4.34 | 1 | enterprise | MiniMax-Hailuo-2.3 |
+| 27 | `yutoapi.com` | ¥4.34 | $4.34 | 1 | enterprise | MiniMax-Hailuo-2.3 |
+| 28 | `kapibala.asia` | ¥4.5 | $15 | 0.3 | default | MiniMax-Hailuo-2.3 |
+| 29 | `api-x.top` | ¥14 | $2 | 7 | default | MiniMax-Hailuo-2.3 |
+| 30 | `api-x.vip` | ¥27.2 | $27.2 | 1 | default | MiniMax-Hailuo-2.3 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -97,4 +98,4 @@
 
 > 另有 2 站未列出。
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

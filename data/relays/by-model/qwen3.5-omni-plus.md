@@ -1,6 +1,6 @@
 # qwen3.5-omni-plus
 
-> 40 站提供 · 正常价 16 站 · 名义中位价 **$2.2963**/1M 输入 · 实付中位价 **¥7**/1M 输入（16 站公开充值价） · 推算，未对账
+> 41 站提供 · 正常价 16 站 · 名义中位价 **$2.2963**/1M 输入 · 实付中位价 **¥7**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,8 +23,8 @@
 | 11 | `api.apiyi.com` | ¥8.4 | $1.2 / $6 | 7 | default | qwen3.5-omni-plus |
 | 12 | `www.yibuapi.cn` | ¥10.5 | $7 / $40 | 1.5 | default | qwen3.5-omni-plus |
 | 13 | `yibuapi.cn` | ¥10.5 | $7 / $40 | 1.5 | claude-code | qwen3.5-omni-plus |
-| 14 | `mb.dmxapi.cn` | ¥12.96 | $2.5926 / $14.8148 | 5 | default | qwen3.5-omni-plus |
+| 14 | `mb.dmxapi.cn` | ¥12.96 | $2.5926 / $14.8148 | 5 | vip | qwen3.5-omni-plus |
 | 15 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3.5-omni-plus |
 | 16 | `codeyy.top` | ¥51.1 | $7 / $53 | 7.3 | default | qwen3.5-omni-plus |
 
-> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

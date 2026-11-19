@@ -18,7 +18,7 @@
 | 6 | `api.eido.top` | ¥0.48 | $0.48 | 1 | default | black-forest-labs/flux-2-flex |
 | 7 | `toapis.com` | ¥0.49 | $0.07 | 7 | default | flux-2-flex |
 | 8 | `www.hohoapi.com` | ¥0.63 | $0.21 | 3 | image | flux-2-flex |
-| 9 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 图像模型聚合(可自定义图像参数) | flux-2-flex |
+| 9 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | flux-2-flex |
 | 10 | `tokenflux.ai` | ¥0.84 | $0.12 | 7 | default | image/black-forest-labs/flux-2-flex |
 | 11 | `nbapi.net` | ¥0.876 | $0.12 | 7.3 | default | flux-2-flex |
 | 12 | `api.ilaien.com` | ¥1.022 | $0.14 | 7.3 | default | flux-2-flex |

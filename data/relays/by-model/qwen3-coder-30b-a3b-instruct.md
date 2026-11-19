@@ -1,6 +1,6 @@
 # qwen3-coder-30b-a3b-instruct
 
-> 91 站提供 · 正常价 70 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥0.9149**/1M 输入（18 站公开充值价） · 推算，未对账
+> 93 站提供 · 正常价 70 站 · 名义中位价 **$1.5**/1M 输入 · 实付中位价 **¥1.5**/1M 输入（18 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,14 +17,14 @@
 | 5 | `gpt777.top` | ¥0.8 | $0.8 / $3.2 | 1 | opensource | Qwen/Qwen3-Coder-30B-A3B-Instruct |
 | 6 | `aifast.site` | ¥0.9 | $0.9 / $3.6 | 1 | 国产文本 | qwen3-coder-30b-a3b-instruct |
 | 7 | `ai.lgdfort.com` | ¥0.91 | $0.91 / $3.64 | 1 | default | Qwen/Qwen3-Coder-30B-A3B-Instruct |
-| 8 | `api.ifopen.ai` | ¥0.91 | $0.26 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3-Coder-30B-A3B-Instruct |
-| 9 | `api2.aigcbest.top` | ¥0.91 | $0.26 / $1.04 | 3.5 | 通用大模型 | Qwen/Qwen3-Coder-30B-A3B-Instruct |
-| 10 | `ai2.qiqiai.top` | ¥0.9198 | $0.126 / $0.486 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-30b-a3b-instruct |
-| 11 | `keypool.space` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
-| 12 | `new.foxi-api.cn` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
-| 13 | `xinsuanai.com` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
-| 14 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $0.923077 | 7.3 | default | qwen/qwen3-coder-30b-a3b-instruct |
-| 15 | `ai.mowen.vip` | ¥3.008 | $0.45 / $2.25 | 6.68494 | default | Qwen3-Coder-30B-A3B-Instruct |
+| 8 | `ai2.qiqiai.top` | ¥0.9198 | $0.126 / $0.486 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-30b-a3b-instruct |
+| 9 | `keypool.space` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
+| 10 | `new.foxi-api.cn` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
+| 11 | `xinsuanai.com` | ¥1.5 | $1.5 / $6 | 1 | default | qwen3-coder-30b-a3b-instruct |
+| 12 | `api.tacklekey.com` | ¥1.685 | $0.230769 / $0.923077 | 7.3 | default | qwen/qwen3-coder-30b-a3b-instruct |
+| 13 | `ai.mowen.vip` | ¥3.008 | $0.45 / $2.25 | 6.68494 | default | Qwen3-Coder-30B-A3B-Instruct |
+| 14 | `api.ifopen.ai` | ¥3.5 | $1 / $4 | 3.5 | default | Qwen/Qwen3-Coder-30B-A3B-Instruct |
+| 15 | `api2.aigcbest.top` | ¥3.5 | $1 / $4 | 3.5 | default | Qwen/Qwen3-Coder-30B-A3B-Instruct |
 | 16 | `api.qinzhiai.com` | ¥3.833 | $0.525 / $2.1 | 7.3 | openrouter | qwen/qwen3-coder-30b-a3b-instruct |
 | 17 | `cn.gptapi.asia` | ¥10.5 | $10.5 / $42 | 1 | enterprise | qwen3-coder-30b-a3b-instruct |
 | 18 | `yutoapi.com` | ¥10.5 | $10.5 / $42 | 1 | enterprise | qwen3-coder-30b-a3b-instruct |
@@ -86,4 +86,4 @@
 
 > 另有 2 站未列出。
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 23 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -10,9 +10,9 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.xi-ai.cn` | ¥0.43 | $0.43 / $1.66 | 1 | 国产模型 | qwen3-omni-flash |
-| 2 | `api.zyai.online` | ¥0.9 | $0.9 / $6.35 | 1 | mini | qwen3-omni-flash |
-| 3 | `mb.dmxapi.cn` | ¥1.8 | $0.36 / $1.38 | 5 | default | qwen3-omni-flash |
+| 1 | `api.zyai.online` | ¥0.9 | $0.9 / $6.35 | 1 | mini | qwen3-omni-flash |
+| 2 | `mb.dmxapi.cn` | ¥1.8 | $0.36 / $1.38 | 5 | vip | qwen3-omni-flash |
+| 3 | `api.xi-ai.cn` | ¥1.8 | $1.8 / $6.94884 | 1 | 国产模型 | qwen3-omni-flash |
 | 4 | `onetoken.one` | ¥1.8 | $1.8 / $6.89994 | 1 | 官方原生通道 | qwen3-omni-flash |
 | 5 | `api.aiskt.com` | ¥2 | $2 / $69.5556 | 1 | default | qwen3-omni-flash-2025-09-15 |
 | 6 | `rockapi.ai` | ¥2.667 | $2.667 / $10.577 | 1 | 0.7x | qwen3-omni-flash |

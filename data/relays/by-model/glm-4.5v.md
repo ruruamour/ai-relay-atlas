@@ -1,6 +1,6 @@
 # glm-4.5v
 
-> 38 站提供 · 正常价 24 站 · 名义中位价 **$0.761539**/1M 输入 · 实付中位价 **¥2.19**/1M 输入（23 站公开充值价） · 推算，未对账
+> 39 站提供 · 正常价 24 站 · 名义中位价 **$0.761539**/1M 输入 · 实付中位价 **¥2.19**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,8 +11,8 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `token101.site` | ¥0.14 | $0.14 / $0.86 | 1 | cn_model | zai-org/GLM-4.5V |
-| 2 | `newapi.prorisehub.com` | ¥0.145 | $0.145 / $0.43 | 1 | GLM-官-Key | glm-4.5v |
-| 3 | `api.aliyunfuwu.top` | ¥0.54 | $0.54 / $1.9818 | 1 | SiliconFlow | zai-org/GLM-4.5V |
+| 2 | `api.aliyunfuwu.top` | ¥0.54 | $0.54 / $1.9818 | 1 | SiliconFlow | zai-org/GLM-4.5V |
+| 3 | `apijing.com` | ¥0.6 | $0.6 / $1.8 | 1 | default | z-ai/glm-4.5v |
 | 4 | `xiaoqie.xyz` | ¥0.6 | $0.6 / $1.8 | 1 | OpenRouter官方线路 | z-ai/glm-4.5v |
 | 5 | `airouter.dev` | ¥1.202 | $0.18 / $0.54 | 6.68 | default | z-ai/glm-4.5v |
 | 6 | `ai.lgdfort.com` | ¥1.3 | $1.3 / $7.8 | 1 | default | zai-org/GLM-4.5V |
@@ -40,4 +40,4 @@
 |---|---|---|---|---|---|
 | 1 | `aixhub.shop` | $0.2 / $0.6 | deepseek | 0.1 | glm-4.5v |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

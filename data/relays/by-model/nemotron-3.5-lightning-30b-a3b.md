@@ -1,6 +1,6 @@
 # nemotron-3.5-lightning-30b-a3b
 
-> 28 站提供 · 正常价 9 站 · 名义中位价 **$0.2412**/1M 输入 · 实付中位价 **¥0.3206**/1M 输入（8 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 8 站 · 名义中位价 **$0.3206**/1M 输入 · 实付中位价 **¥0.3206**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,11 +18,5 @@
 | 6 | `newapi.prorisehub.com` | ¥2 | $2 / $2 | 1 | default | nvidia/nemotron-3.5-lightning-30b-a3b |
 | 7 | `api.luoqianyi.qzz.io` | ¥2.5 | $5 / $5 | 0.5 | default | nvidia/nemotron-3.5-lightning-30b-a3b |
 | 8 | `api.wapq.cn` | ¥36.5 | $5 / $5 | 7.3 | default | nemotron-3.5-lightning-30b-a3b |
-
-## 名义价（未公开充值价，按 $ 排序）
-
-| # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
-|---|---|---|---|---|---|
-| 1 | `6661886.xyz` | $0.07 / $0.2 | default | 1 | nvidia/nemotron-3.5-lightning-30b-a3b |
 
 > 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

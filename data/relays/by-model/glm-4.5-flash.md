@@ -10,11 +10,11 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `new.gateway.icu` | ¥0.01 | $0.01 / $0.04 | 1 | default | glm-4.5-flash |
+| 1 | `new.gateway.icu` | ¥0.01 | $0.01 / $0.04 | 1 | glm | glm-4.5-flash |
 | 2 | `kfcv50.link` | ¥0.016 | $0.016 / $0.064 | 1 | Domestic_act_08 | glm-4.5-flash |
 | 3 | `api.hopeai.cc` | ¥0.02 | $0.02 / $0.02 | 1 | default | glm-4.5-flash |
 | 4 | `api.openai-hub.net` | ¥0.02 | $0.02 / $0.08 | 1 | cheap | glm-4.5-flash |
-| 5 | `keypool.space` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
+| 5 | `keypool.space` | ¥0.02 | $0.02 / $0.08 | 1 | vip | glm-4.5-flash |
 | 6 | `xinsuanai.com` | ¥0.02 | $0.02 / $0.08 | 1 | default | glm-4.5-flash |
 | 7 | `www.hohoapi.com` | ¥0.039 | $0.013 / $0.013 | 3 | default | glm-4.5-flash |
 | 8 | `gpt777.top` | ¥0.16 | $0.16 / $0.64 | 1 | opensource | glm-4.5-flash |

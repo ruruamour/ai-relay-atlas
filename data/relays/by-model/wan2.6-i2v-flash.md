@@ -1,6 +1,6 @@
 # wan2.6-i2v-flash
 
-> 33 站提供 · 正常价 22 站 · 名义中位价 **$0.445**/次 · 实付中位价 **¥0.365**/次（13 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 20 站 · 名义中位价 **$0.5**/次 · 实付中位价 **¥0.365**/次（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,16 +13,14 @@
 | 1 | `api.ifopen.ai` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | wan2.6-i2v-flash |
 | 2 | `api2.aigcbest.top` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | wan2.6-i2v-flash |
 | 3 | `api.lingyaai.cn` | ¥0.3 | $0.3 | 1 | default | wan2.6-i2v-flash |
-| 4 | `beeroute.ai` | ¥0.3 | $0.3 | 1 | default | wan2.6-i2v-flash |
-| 5 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.3 | $0.3 | 1 | default | wan2.6-i2v-flash |
-| 6 | `supertoken.pro` | ¥0.3 | $0.0411 | 7.3 | 万象 | wan2.6-i2v-flash |
-| 7 | `api.bianxie.ai` | ¥0.365 | $0.05 | 7.3 | default | wan2.6-i2v-flash |
-| 8 | `api.bianxieai.com` | ¥0.365 | $0.05 | 7.3 | default | wan2.6-i2v-flash |
-| 9 | `test-api.apiqik.online` | ¥0.3779 | $0.053991 | 7 | aliyun/official | wan2.6-i2v-flash |
-| 10 | `cn.gptapi.asia` | ¥0.5787 | $0.578704 | 1 | enterprise | wan2.6-i2v-flash |
-| 11 | `yutoapi.com` | ¥0.5787 | $0.578704 | 1 | enterprise | wan2.6-i2v-flash |
-| 12 | `kubernetes-test-api.apiqik.online` | ¥0.6256 | $0.0857 | 7.3 | default | wan2.6-i2v-flash |
-| 13 | `www.hohoapi.com` | ¥1.17 | $0.39 | 3 | default | wan2.6-i2v-flash |
+| 4 | `supertoken.pro` | ¥0.3 | $0.0411 | 7.3 | 万象 | wan2.6-i2v-flash |
+| 5 | `api.bianxie.ai` | ¥0.365 | $0.05 | 7.3 | default | wan2.6-i2v-flash |
+| 6 | `api.bianxieai.com` | ¥0.365 | $0.05 | 7.3 | default | wan2.6-i2v-flash |
+| 7 | `test-api.apiqik.online` | ¥0.3779 | $0.053991 | 7 | aliyun/official | wan2.6-i2v-flash |
+| 8 | `cn.gptapi.asia` | ¥0.5787 | $0.578704 | 1 | enterprise | wan2.6-i2v-flash |
+| 9 | `yutoapi.com` | ¥0.5787 | $0.578704 | 1 | enterprise | wan2.6-i2v-flash |
+| 10 | `kubernetes-test-api.apiqik.online` | ¥0.6256 | $0.0857 | 7.3 | default | wan2.6-i2v-flash |
+| 11 | `www.hohoapi.com` | ¥1.17 | $0.39 | 3 | default | wan2.6-i2v-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # grok-imagine
 
-> 58 站提供 · 正常价 29 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.104**/次（21 站公开充值价） · 推算，未对账
+> 57 站提供 · 正常价 29 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.12**/次（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -19,12 +19,12 @@
 | 7 | `newapi.ailyyzdk.xyz` | ¥0.03 | $0.03 | 1 | grok | grok-imagine |
 | 8 | `api.mcapple.top` | ¥0.05 | $0.05 | 1 | 生图 | grok-imagine |
 | 9 | `tkbot.ai` | ¥0.05 | $0.05 | 1 | default | grok-imagine |
-| 10 | `api.xkj666.top` | ¥0.07 | $0.07 | 1 | GorkHeavy | grok-imagine |
-| 11 | `ccapi.us` | ¥0.104 | $0.104 | 1 | Grok heavy | grok-imagine |
-| 12 | `apibasis.com` | ¥0.12 | $0.12 | 1 | Grok super | grok-imagine |
-| 13 | `newapi.youkies.space` | ¥0.12 | $0.12 | 1 | default | grok-imagine |
-| 14 | `nova.vcrauo.com` | ¥0.12 | $0.12 | 1 | Grok·image节点 | grok-imagine |
-| 15 | `new5.easysu.cn` | ¥0.15 | $0.15 | 1 | grok | grok-imagine |
+| 10 | `ccapi.us` | ¥0.104 | $0.104 | 1 | Grok heavy | grok-imagine |
+| 11 | `apibasis.com` | ¥0.12 | $0.12 | 1 | Grok Heavy | grok-imagine |
+| 12 | `newapi.youkies.space` | ¥0.12 | $0.12 | 1 | default | grok-imagine |
+| 13 | `nova.vcrauo.com` | ¥0.12 | $0.12 | 1 | Grok·image节点 | grok-imagine |
+| 14 | `new5.easysu.cn` | ¥0.15 | $0.15 | 1 | grok | grok-imagine |
+| 15 | `api.xkj666.top` | ¥0.28 | $0.28 | 1 | GorkHeavy | grok-imagine |
 | 16 | `ai.mowen.vip` | ¥0.6685 | $0.1 | 6.68494 | default | grok-imagine |
 | 17 | `newapi.makelove.cloud` | ¥0.8 | $0.8 | 1 | Grok | grok-imagine |
 | 18 | `nianhuaapi.com` | ¥0.8 | $0.8 | 1 | Grok | grok-imagine |
@@ -45,4 +45,4 @@
 | 7 | `momoai.asia` | $0.017 | SuperGrok余额分组 | 0.85 | grok-imagine |
 | 8 | `ai.soulecho.cc` | $15.6652 | xAI Grok | 8 | grok-imagine |
 
-> 29 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

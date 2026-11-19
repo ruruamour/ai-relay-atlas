@@ -1,6 +1,6 @@
 # nai-diffusion-4-5-full
 
-> 28 站提供 · 正常价 21 站 · 名义中位价 **$0.03**/次 · 实付中位价 **¥0.0288**/次（19 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 21 站 · 名义中位价 **$0.03**/次 · 实付中位价 **¥0.02**/次（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,15 +11,15 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `hk.chenmoai.cn` | ¥0.01 | $0.01 | 1 | default | [openai兼容]nai-diffusion-4-5-full |
-| 2 | `tok.sonetto.top` | ¥0.01 | $0.01 | 1 | Novel AI 生图 | nai-diffusion-4-5-full |
-| 3 | `boai.iisbo.com` | ¥0.015 | $0.015 | 1 | default | nai-diffusion-4-5-full |
-| 4 | `api.dzzi.org` | ¥0.02 | $0.02 | 1 | default | nai-diffusion-4-5-full |
-| 5 | `api.rinko.ai` | ¥0.02 | $0.02 | 1 | NAI | nai-diffusion-4-5-full |
-| 6 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 生图 | [高级]nai-diffusion-4-5-full |
-| 7 | `api.yousebaby.com` | ¥0.02 | $0.02 | 1 | 全部按次分组 | nai-diffusion-4-5-full |
-| 8 | `meinianda.top` | ¥0.02 | $0.02 | 1 | 画图分组 | nai-diffusion-4-5-full |
-| 9 | `newapi-jp.qianye.host` | ¥0.0288 | $0.016 | 1.8 | NovelAI | nai-diffusion-4-5-full |
-| 10 | `newapi.qianqianye.com` | ¥0.0288 | $0.016 | 1.8 | NovelAI | nai-diffusion-4-5-full |
+| 2 | `boai.iisbo.com` | ¥0.013 | $0.013 | 1 | default | nai-diffusion-4-5-full |
+| 3 | `newapi-jp.qianye.host` | ¥0.01728 | $0.0096 | 1.8 | NovelAI | nai-diffusion-4-5-full |
+| 4 | `newapi.qianqianye.com` | ¥0.01728 | $0.0096 | 1.8 | NovelAI | nai-diffusion-4-5-full |
+| 5 | `api.dzzi.org` | ¥0.02 | $0.02 | 1 | default | nai-diffusion-4-5-full |
+| 6 | `api.rinko.ai` | ¥0.02 | $0.02 | 1 | NAI | nai-diffusion-4-5-full |
+| 7 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 生图 | [高级]nai-diffusion-4-5-full |
+| 8 | `api.yousebaby.com` | ¥0.02 | $0.02 | 1 | 全部按次分组 | nai-diffusion-4-5-full |
+| 9 | `meinianda.top` | ¥0.02 | $0.02 | 1 | 画图分组 | nai-diffusion-4-5-full |
+| 10 | `tok.sonetto.top` | ¥0.02 | $0.02 | 1 | Novel AI 生图 | nai-diffusion-4-5-full |
 | 11 | `ai.furry.vg` | ¥0.03 | $0.03 | 1 | default | nai-diffusion-4-5-full |
 | 12 | `api16z.com` | ¥0.05 | $0.05 | 1 | default | [0.05/次][出图nai1] nai-diffusion-4-5-full |
 | 13 | `origin.novai.su` | ¥0.05 | $0.05 | 1 | Auto | nai-diffusion-4-5-full |
@@ -34,7 +34,7 @@
 
 | # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.nionio2026.xyz` | $0.5 | svip | 1 | nai-diffusion-4-5-full |
+| 1 | `api.nionio2026.xyz` | $0.5 | default | 1 | nai-diffusion-4-5-full |
 | 2 | `www.wamwuai.com` | $2 | default | 1 | nai-diffusion-4-5-full |
 
 > 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

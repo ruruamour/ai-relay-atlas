@@ -1,6 +1,6 @@
 # moonshot-v1
 
-> 92 站提供 · 正常价 75 站 · 名义中位价 **$3.6**/1M 输入 · 实付中位价 **¥3.6**/1M 输入（23 站公开充值价） · 推算，未对账
+> 89 站提供 · 正常价 73 站 · 名义中位价 **$3.6**/1M 输入 · 实付中位价 **¥2**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,7 +13,7 @@
 | 1 | `api.ocoolai.com` | ¥0.3 | $0.3 / $3 | 1 | default | moonshot-v1-8k |
 | 2 | `ocool.cn` | ¥0.3 | $0.3 / $3 | 1 | default | moonshot-v1-8k |
 | 3 | `one.ooo.cool` | ¥0.3 | $0.3 / $3 | 1 | default | moonshot-v1-8k |
-| 4 | `new.gateway.icu` | ¥0.852 | $0.852 / $0.852 | 1 | default | moonshot-v1-8k |
+| 4 | `new.gateway.icu` | ¥0.852 | $0.852 / $0.852 | 1 | reverse | moonshot-v1-8k |
 | 5 | `big.sbgpt.site` | ¥1.2 | $1.2 / $1.2 | 1 | openai逆向 | moonshot-v1-8k |
 | 6 | `go.sbgpt.site` | ¥1.4 | $1.4 / $1.4 | 1 | openai逆向 | moonshot-v1-8k |
 | 7 | `gpt777.top` | ¥1.6 | $1.6 / $8 | 1 | opensource | moonshot-v1-8k |
@@ -27,12 +27,10 @@
 | 15 | `gptnb.ai` | ¥6 | $6 / $60 | 1 | cn_official | moonshot-v1-8k |
 | 16 | `oneapi.gptnb.ai` | ¥6 | $6 / $60 | 1 | CN_discount | moonshot-v1-8k |
 | 17 | `webapi.xjai.cc` | ¥6 | $2 / $2 | 3 | default | moonshot-v1-8k |
-| 18 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | moonshot-v1-8k |
-| 19 | `api2.aigcbest.top` | ¥7 | $2 / $10 | 3.5 | default | moonshot-v1-8k |
-| 20 | `api.34ku.com` | ¥7.8 | $7.8 / $7.8 | 1 | default | moonshot-v1-8k |
-| 21 | `cn.gptapi.asia` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
-| 22 | `yutoapi.com` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
-| 23 | `www.hohoapi.com` | ¥23.4 | $7.8 / $7.8 | 3 | default | moonshot-v1-8k |
+| 18 | `api.34ku.com` | ¥7.8 | $7.8 / $7.8 | 1 | default | moonshot-v1-8k |
+| 19 | `cn.gptapi.asia` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
+| 20 | `yutoapi.com` | ¥14 | $14 / $70 | 1 | enterprise | moonshot-v1-8k |
+| 21 | `www.hohoapi.com` | ¥23.4 | $7.8 / $7.8 | 3 | default | moonshot-v1-8k |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -91,4 +89,4 @@
 
 > 另有 2 站未列出。
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

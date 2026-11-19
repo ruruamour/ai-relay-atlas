@@ -1,6 +1,6 @@
 # seedream-5.0-pro
 
-> 25 站提供 · 正常价 16 站 · 名义中位价 **$0.2035**/次 · 实付中位价 **¥0.207**/次（11 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 15 站 · 名义中位价 **$0.207**/次 · 实付中位价 **¥0.2135**/次（10 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,16 +11,15 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.manxiaobai.online` | ¥0.03 | $0.03 | 1 | 混组 | Seedream 5.0 Pro |
-| 2 | `tokenmarket.cheap` | ¥0.1 | $0.1 | 1 | 视频（逆向） | Seedream 5.0 Pro |
+| 2 | `xixiapi.com` | ¥0.085 | $0.085 | 1 | default | seedream-5.0-pro |
 | 3 | `newapi.prorisehub.com` | ¥0.15 | $0.15 | 1 | 图像-低 | seedream-5.0-pro |
-| 4 | `xixiapi.com` | ¥0.15 | $0.15 | 1 | default | seedream-5.0-pro |
-| 5 | `api.jui87.com` | ¥0.2 | $0.2 | 1 | 生图分组 | seedream-5.0-pro |
-| 6 | `www.treeapi.online` | ¥0.207 | $0.207 | 1 | 视频组 | seedream-5.0-pro-2k |
-| 7 | `vip.brioi.com` | ¥0.22 | $0.22 | 1 | gpt生图分组 | seedream-5.0-pro |
-| 8 | `ymeng.cc` | ¥0.5 | $0.5 | 1 | 图像-Agent | seedream-5.0-pro |
-| 9 | `api.shisuanai.com` | ¥0.6 | $0.6 | 1 | default | seedream-5.0-pro |
-| 10 | `api.tokenrouter.com` | ¥0.63 | $0.09 | 7 | default | bytedance-seed/seedream-5.0-pro |
-| 11 | `api.nycatai.com` | ¥0.876 | $0.12 | 7.3 | image | seedream-5.0-pro |
+| 4 | `api.jui87.com` | ¥0.2 | $0.2 | 1 | 生图分组 | seedream-5.0-pro |
+| 5 | `www.treeapi.online` | ¥0.207 | $0.207 | 1 | 视频组 | seedream-5.0-pro-2k |
+| 6 | `vip.brioi.com` | ¥0.22 | $0.22 | 1 | gpt生图分组 | seedream-5.0-pro |
+| 7 | `ymeng.cc` | ¥0.5 | $0.5 | 1 | 图像-Agent | seedream-5.0-pro |
+| 8 | `api.shisuanai.com` | ¥0.6 | $0.6 | 1 | default | seedream-5.0-pro |
+| 9 | `api.tokenrouter.com` | ¥0.63 | $0.09 | 7 | vip | bytedance-seed/seedream-5.0-pro |
+| 10 | `api.nycatai.com` | ¥0.876 | $0.12 | 7.3 | image | seedream-5.0-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -32,4 +31,4 @@
 | 4 | `www.juapi.net` | $6 | SeeDream | 140 | seedream-5.0-pro |
 | 5 | `www.tokenrouter.tech` | $6 | SeeDream | 140 | seedream-5.0-pro |
 
-> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

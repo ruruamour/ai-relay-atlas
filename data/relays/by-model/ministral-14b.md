@@ -1,6 +1,6 @@
 # ministral-14b
 
-> 24 站提供 · 正常价 14 站 · 名义中位价 **$0.269231**/1M 输入 · 实付中位价 **¥1.46**/1M 输入（13 站公开充值价） · 推算，未对账
+> 26 站提供 · 正常价 15 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.095**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,17 +12,18 @@
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.18 | $0.18 / $0.18 | 1 | Mistral | ministral-14b-2512 |
 | 2 | `api.ouu.ch` | ¥0.2 | $0.2 / $0.2 | 1 | default | ministral-14b-2512 |
-| 3 | `wzw.pp.ua` | ¥0.2 | $0.2 / $0.2 | 1 | claude code | ministral-14b-latest |
-| 4 | `xiaoqie.xyz` | ¥0.2 | $0.2 / $0.2 | 1 | OpenRouter官方线路 | mistralai/ministral-14b-2512 |
-| 5 | `api.pie-xian.com` | ¥0.73 | $0.1 / $1 | 7.3 | model | ministral-14b-latest |
-| 6 | `llm.kagu.one` | ¥0.73 | $0.1 / $0.1 | 7.3 | 大杂烩 | ministral-14b-2512 |
-| 7 | `or.mux.la` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | mistralai/ministral-14b-2512 |
-| 8 | `api.tacklekey.com` | ¥2.471 | $0.338462 / $0.338462 | 7.3 | default | mistralai/ministral-14b-2512 |
-| 9 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $0.36 | 7.3 | 官方合作渠道 | mistralai/ministral-14b-2512 |
-| 10 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | ministral-14b-latest |
-| 11 | `api.qinzhiai.com` | ¥5.11 | $0.7 / $0.7 | 7.3 | openrouter | mistralai/ministral-14b-2512 |
-| 12 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
-| 13 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
+| 3 | `apijing.com` | ¥0.2 | $0.2 / $0.2 | 1 | default | mistralai/ministral-14b-2512 |
+| 4 | `wzw.pp.ua` | ¥0.2 | $0.2 / $0.2 | 1 | claude code | ministral-14b-latest |
+| 5 | `xiaoqie.xyz` | ¥0.2 | $0.2 / $0.2 | 1 | OpenRouter官方线路 | mistralai/ministral-14b-2512 |
+| 6 | `api.pie-xian.com` | ¥0.73 | $0.1 / $1 | 7.3 | model | ministral-14b-latest |
+| 7 | `llm.kagu.one` | ¥0.73 | $0.1 / $0.1 | 7.3 | 大杂烩 | ministral-14b-2512 |
+| 8 | `or.mux.la` | ¥1.46 | $0.2 / $0.2 | 7.3 | default | mistralai/ministral-14b-2512 |
+| 9 | `api.tacklekey.com` | ¥2.471 | $0.338462 / $0.338462 | 7.3 | default | mistralai/ministral-14b-2512 |
+| 10 | `ai2.qiqiai.top` | ¥2.628 | $0.36 / $0.36 | 7.3 | 官方合作渠道 | mistralai/ministral-14b-2512 |
+| 11 | `api.wapq.cn` | ¥3.65 | $0.5 / $0.5 | 7.3 | default | ministral-14b-latest |
+| 12 | `api.qinzhiai.com` | ¥5.11 | $0.7 / $0.7 | 7.3 | openrouter | mistralai/ministral-14b-2512 |
+| 13 | `api.ifopen.ai` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
+| 14 | `api2.aigcbest.top` | ¥7 | $2 / $2 | 3.5 | default | ministral-14b-2512 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -30,4 +31,4 @@
 |---|---|---|---|---|---|
 | 1 | `meta-api.vip` | $6.65288 / $6.65288 | 企业级 | 1 | ministral-14b-2512 |
 
-> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

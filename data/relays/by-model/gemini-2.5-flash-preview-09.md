@@ -1,6 +1,6 @@
 # gemini-2.5-flash-preview-09
 
-> 51 站提供 · 正常价 34 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.66**/1M 输入（31 站公开充值价） · 推算，未对账
+> 51 站提供 · 正常价 34 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥0.72**/1M 输入（31 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,10 +25,10 @@
 | 13 | `api.bltcy.ai` | ¥0.6 | $0.6 / $4.9998 | 1 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
 | 14 | `apilio.ai` | ¥0.6 | $0.6 / $4.9998 | 1 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
 | 15 | `test-ssl.bltcy.ai` | ¥0.6 | $0.6 / $4.9998 | 1 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
-| 16 | `www.cybersol.net` | ¥0.66 | $0.33 / $2.75 | 2 | Gemini Advance | gemini-2.5-flash-preview-09-2025 |
-| 17 | `ai.comfly.org` | ¥0.72 | $0.6 / $4.9998 | 1.2 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
-| 18 | `api.34ku.com` | ¥0.78 | $0.78 / $7.8 | 1 | default | gemini-2.5-flash-preview-09-2025 |
-| 19 | `ai.t8star.org` | ¥0.81 | $0.6 / $4.9998 | 1.35 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
+| 16 | `ai.comfly.org` | ¥0.72 | $0.6 / $4.9998 | 1.2 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
+| 17 | `api.34ku.com` | ¥0.78 | $0.78 / $7.8 | 1 | default | gemini-2.5-flash-preview-09-2025 |
+| 18 | `ai.t8star.org` | ¥0.81 | $0.6 / $4.9998 | 1.35 | gemini优质 | gemini-2.5-flash-preview-09-2025 |
+| 19 | `www.cybersol.net` | ¥1.05 | $0.525 / $4.375 | 2 | Gemini Premium | gemini-2.5-flash-preview-09-2025 |
 | 20 | `api.hoxkai.top` | ¥1.2 | $1.2 / $10 | 1 | gemini-svip | gemini-2.5-flash-preview-09-2025 |
 | 21 | `getgoapi.com` | ¥1.728 | $0.24 / $2 | 7.2 | default | gemini-2.5-flash-preview-09-2025 |
 | 22 | `api.apib.ai` | ¥2.1 | $0.3 / $2.499 | 7 | - | gemini-2.5-flash-preview-09-2025 |

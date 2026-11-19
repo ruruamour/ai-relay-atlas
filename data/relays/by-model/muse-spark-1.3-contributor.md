@@ -1,6 +1,6 @@
 # muse-spark-1.3-contributor
 
-> 55 站提供 · 正常价 29 站 · 名义中位价 **$0.21**/1M 输入 · 实付中位价 **¥0.402**/1M 输入（24 站公开充值价） · 推算，未对账
+> 56 站提供 · 正常价 31 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.402**/1M 输入（24 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -41,8 +41,10 @@
 |---|---|---|---|---|---|
 | 1 | `supercodes.vip` | $0.05 / $0.1 | opencode渠道 | 0.5 | muse-spark-1.3-contributor |
 | 2 | `pro.fan142.top` | $0.1 / $0.2 | coding api | 1 | meta/muse-spark-1.3-contributor |
-| 3 | `api.hyhawang.com` | $0.21 / $0.42 | 国模3折 | 0.3 | muse-spark-1.3-contributor |
-| 4 | `www.qianweikeji.fun` | $0.21 / $0.42 | 国模3折 | 0.3 | muse-spark-1.3-contributor |
-| 5 | `sub.skypoem.top` | $0.225 / $0.765 | qwen-自部署 | 0.18 | muse-spark-1.3-contributor |
+| 3 | `clodex.xyz` | $0.14 / $0.14 | default | 1 | muse-spark-1.3-contributor |
+| 4 | `kukuai.ai` | $0.181987 / $0.363972 | 线路22 | 1 | muse-spark-1.3-contributor |
+| 5 | `api.hyhawang.com` | $0.21 / $0.42 | 国模3折 | 0.3 | muse-spark-1.3-contributor |
+| 6 | `www.qianweikeji.fun` | $0.21 / $0.42 | 国模3折 | 0.3 | muse-spark-1.3-contributor |
+| 7 | `sub.skypoem.top` | $0.225 / $0.765 | qwen-自部署 | 0.18 | muse-spark-1.3-contributor |
 
-> 26 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

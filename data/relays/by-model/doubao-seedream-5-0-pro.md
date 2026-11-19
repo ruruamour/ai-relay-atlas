@@ -1,6 +1,6 @@
 # doubao-seedream-5-0-pro
 
-> 200 站提供 · 正常价 162 站 · 名义中位价 **$0.0186**/次 · 实付中位价 **¥0.01529**/次（110 站公开充值价） · 推算，未对账
+> 198 站提供 · 正常价 161 站 · 名义中位价 **$0.0186**/次 · 实付中位价 **¥0.01529**/次（110 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,56 +10,56 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.openlux.ai` | ¥0.007282 | $0.00108854 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 2 | `api.relayrouter.ai` | ¥0.007282 | $0.00108854 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 3 | `openlux.zhongzhuan.chat` | ¥0.007282 | $0.00108854 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 4 | `4zapi.com` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 5 | `ai.kalehui.cn` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 6 | `aiopus.top` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 7 | `aipipe.site` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 8 | `api.anthropicricardo.club` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 9 | `api.modelyard.cc` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 10 | `api.tidewhisper-ai.xyz` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 11 | `apistudio.vip` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 12 | `dawnnode.com` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 13 | `gzxbykj.com` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 14 | `tiantoken.cn` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 15 | `token.kkdmx.com` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 16 | `vortexapi.cn` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 17 | `www.vectronode.com` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 18 | `www.xiaoruiera.top` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 19 | `yunwu.org` | ¥0.008155 | $0.00121916 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 20 | `api.antmoo.cc` | ¥0.008374 | $0.00125182 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 21 | `v2.cloudmist.cloud` | ¥0.008374 | $0.00125182 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 22 | `apiclaw.cn` | ¥0.008811 | $0.00131713 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 23 | `ciyuan.today` | ¥0.009102 | $0.00136068 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 24 | `gptapi.top` | ¥0.009102 | $0.00136068 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 25 | `makerend.com` | ¥0.009102 | $0.00136068 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 26 | `moliapi.com` | ¥0.009175 | $0.00137156 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 27 | `ai-api.cc` | ¥0.009466 | $0.0014151 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 28 | `infai.cc` | ¥0.009466 | $0.0014151 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 29 | `sucloud.vip` | ¥0.009466 | $0.0014151 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 30 | `newapi.xueai.me` | ¥0.009612 | $0.00143687 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 1 | `api.openlux.ai` | ¥0.00728 | $0.00108854 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 2 | `api.relayrouter.ai` | ¥0.00728 | $0.00108854 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 3 | `openlux.zhongzhuan.chat` | ¥0.00728 | $0.00108854 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 4 | `4zapi.com` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 5 | `aiopus.top` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 6 | `aipipe.site` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 7 | `api.anthropicricardo.club` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 8 | `api.modelyard.cc` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 9 | `api.tidewhisper-ai.xyz` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 10 | `apistudio.vip` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 11 | `dawnnode.com` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 12 | `tiantoken.cn` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 13 | `token.kkdmx.com` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 14 | `www.vectronode.com` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 15 | `www.xiaoruiera.top` | ¥0.008008 | $0.00119739 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 16 | `ai.kalehui.cn` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 17 | `gzxbykj.com` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 18 | `vortexapi.cn` | ¥0.00801 | $0.00119739 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 19 | `yunwu.org` | ¥0.008153 | $0.00121916 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 20 | `api.antmoo.cc` | ¥0.008372 | $0.00125182 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 21 | `v2.cloudmist.cloud` | ¥0.008372 | $0.00125182 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 22 | `apiclaw.cn` | ¥0.008808 | $0.00131713 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 23 | `newapi.xueai.me` | ¥0.008808 | $0.00131713 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 24 | `ciyuan.today` | ¥0.0091 | $0.00136068 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 25 | `makerend.com` | ¥0.0091 | $0.00136068 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 26 | `gptapi.top` | ¥0.009102 | $0.00136068 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 27 | `moliapi.com` | ¥0.009172 | $0.00137156 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 28 | `ai-api.cc` | ¥0.009464 | $0.0014151 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 29 | `infai.cc` | ¥0.009464 | $0.0014151 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 30 | `sucloud.vip` | ¥0.009464 | $0.0014151 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
 | 31 | `nodapi.com` | ¥0.009612 | $0.00143687 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 32 | `anyaigc.ai` | ¥0.00983 | $0.00146953 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 33 | `fluxapi.top` | ¥0.01019 | $0.00152396 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 34 | `sheepaiplus.top` | ¥0.01019 | $0.00152396 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 35 | `xiguapi.icu` | ¥0.01019 | $0.00152396 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 36 | `api.88api.chat` | ¥0.01092 | $0.00163281 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 37 | `lanbuff.app` | ¥0.01092 | $0.00163281 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 38 | `new.aigc2d.com` | ¥0.01092 | $0.00163281 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 39 | `open.clai.click` | ¥0.01092 | $0.00163281 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 32 | `anyaigc.ai` | ¥0.009828 | $0.00146953 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 33 | `sheepaiplus.top` | ¥0.01019 | $0.00152396 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 34 | `xiguapi.icu` | ¥0.01019 | $0.00152396 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 35 | `fluxapi.top` | ¥0.01019 | $0.00152396 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 36 | `api.88api.chat` | ¥0.01092 | $0.00163281 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 37 | `lanbuff.app` | ¥0.01092 | $0.00163281 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 38 | `new.aigc2d.com` | ¥0.01092 | $0.00163281 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 39 | `open.clai.click` | ¥0.01092 | $0.00163281 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
 | 40 | `oyy-ai.xyz` | ¥0.01092 | $0.00163281 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 41 | `api.videocaptioner.cn` | ¥0.01097 | $0.00163281 | 6.718 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 42 | `wodapis.com` | ¥0.01201 | $0.00179609 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 43 | `api.nixapi.com` | ¥0.01231 | $0.00183963 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 41 | `api.videocaptioner.cn` | ¥0.01165 | $0.00174166 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 42 | `wodapis.com` | ¥0.01201 | $0.00179609 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 43 | `api.nixapi.com` | ¥0.0123 | $0.00183963 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
 | 44 | `hboom.ai` | ¥0.01396 | $0.0020531 | 6.8 | Doubao-Top-B | doubao-seedream-5-0-pro-260628 |
 | 45 | `hk.hbapis.com` | ¥0.01396 | $0.0020531 | 6.8 | Doubao-Top-B | doubao-seedream-5-0-pro-260628 |
-| 46 | `aiwuje.com` | ¥0.01456 | $0.00217708 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 47 | `api.cursorai.art` | ¥0.01456 | $0.00217708 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 48 | `api.echoflowai.cc` | ¥0.01456 | $0.00217708 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 49 | `api.n1n.ai` | ¥0.01456 | $0.00217708 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
-| 50 | `api.quickrouter.ai` | ¥0.01456 | $0.00217708 | 6.68934 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 46 | `aiwuje.com` | ¥0.01456 | $0.00217708 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 47 | `api.cursorai.art` | ¥0.01456 | $0.00217708 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 48 | `api.echoflowai.cc` | ¥0.01456 | $0.00217708 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 49 | `api.n1n.ai` | ¥0.01456 | $0.00217708 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
+| 50 | `api.quickrouter.ai` | ¥0.01456 | $0.00217708 | 6.68752 | doubao-image-1 | doubao-seedream-5-0-pro-260628 |
 
 > 另有 60 站未列出。
 
@@ -115,9 +115,9 @@
 | 46 | `hetune.top` | $0.16 | 生图统一分组 | 1 | doubao-seedream-5-0-pro |
 | 47 | `choohub.net` | $0.2 | 生图 | 1 | doubao-seedream-5-0-pro |
 | 48 | `api.chuangxiangai.asia` | $1.16471 | 生图 | 1 | doubao-seedream-5-0-pro |
-| 49 | `vapi.chuangxiangai.asia` | $1.16471 | 生图 | 1 | doubao-seedream-5-0-pro |
-| 50 | `aiapi.market` | $1.188 | image-2 | 10 | doubao-seedream-5-0-pro |
+| 49 | `aiapi.market` | $1.188 | media | 10 | doubao-seedream-5-0-pro |
+| 50 | `api.bblabu.ai` | $2.8 | 生图专用分组 | 1 | doubao-seedream-5-0-pro |
 
-> 另有 2 站未列出。
+> 另有 1 站未列出。
 
-> 38 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 37 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

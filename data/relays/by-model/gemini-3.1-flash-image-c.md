@@ -1,6 +1,6 @@
 # gemini-3.1-flash-image-c
 
-> 23 站提供 · 正常价 11 站 · 名义中位价 **$0.16**/次 · 实付中位价 **¥0.16**/次（9 站公开充值价） · 推算，未对账
+> 20 站提供 · 正常价 10 站 · 名义中位价 **$0.1925**/次 · 实付中位价 **¥0.14**/次（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,8 +17,7 @@
 | 5 | `api.rinko.ai` | ¥0.16 | $0.16 | 1 | Gemini香蕉1K大并发 | gemini-3.1-flash-image-c |
 | 6 | `code0.ai` | ¥0.225 | $0.225 | 1 | Gemini-hybird | gemini-3.1-flash-image-c |
 | 7 | `4sapi.com` | ¥0.24 | $0.24 | 1 | image | gemini-3.1-flash-image-c |
-| 8 | `www.amutes.com` | ¥0.365 | $0.05 | 7.3 | 逆向banana2 | gemini-3.1-flash-image-c |
-| 9 | `1sapi.com` | ¥7.3 | $1 | 7.3 | gemini-image | gemini-3.1-flash-image-c |
+| 8 | `1sapi.com` | ¥7.3 | $1 | 7.3 | gemini-image | gemini-3.1-flash-image-c |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -27,4 +26,4 @@
 | 1 | `ai.juguang.chat` | $3.4 | default | 4 | gemini-3.1-flash-image-c |
 | 2 | `www.redbox.ink` | $3.4 | default | 4 | gemini-3.1-flash-image-c |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

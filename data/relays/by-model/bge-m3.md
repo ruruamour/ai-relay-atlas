@@ -15,16 +15,16 @@
 | 3 | `api.rua.chat` | ¥0.012 | $0.012 / $0.012 | 1 | 神奇分组-里面啥都有 | cf/bge-m3 |
 | 4 | `www.mrouter.com` | ¥0.015 | $0.015 / $0.015 | 1 | sp1 | bge-m3 |
 | 5 | `gpt777.top` | ¥0.016 | $0.016 / $0.016 | 1 | opensource | BAAI/bge-m3 |
-| 6 | `api.ifopen.ai` | ¥0.0182 | $0.0052 / $0.0052 | 3.5 | 通用大模型 | BAAI/bge-m3 |
-| 7 | `api2.aigcbest.top` | ¥0.0182 | $0.0052 / $0.0052 | 3.5 | 通用大模型 | BAAI/bge-m3 |
-| 8 | `zen-ai.top` | ¥0.024 | $0.024 / $0.024 | 1 | 开源 | bge-m3 |
-| 9 | `ai.furry.vg` | ¥0.03 | $0.03 / $0 | 1 | default | bge-m3 |
-| 10 | `pro.gemai.cc` | ¥0.03 | $0.03 / $0.03 | 1 | Chinese Model | bge-m3 |
-| 11 | `api.camel-hub.com` | ¥0.032 | $0.04 / $0.04 | 0.8 | default | bge-m3 |
-| 12 | `aiapi.world` | ¥0.05896 | $0.00867 / $0 | 6.8 | cmodels | bge-m3 |
-| 13 | `ai.mowen.vip` | ¥0.06685 | $0.01 / $0 | 6.68494 | default | bge-m3 |
-| 14 | `hk.moleapi.com` | ¥0.068 | $0.01 / $0 | 6.8 | default | bge-m3 |
-| 15 | `api.apiyi.com` | ¥0.07 | $0.01 / $0.01 | 7 | default | bge-m3 |
+| 6 | `zen-ai.top` | ¥0.024 | $0.024 / $0.024 | 1 | 开源 | bge-m3 |
+| 7 | `ai.furry.vg` | ¥0.03 | $0.03 / $0 | 1 | default | bge-m3 |
+| 8 | `pro.gemai.cc` | ¥0.03 | $0.03 / $0.03 | 1 | Chinese Model | bge-m3 |
+| 9 | `api.camel-hub.com` | ¥0.032 | $0.04 / $0.04 | 0.8 | default | bge-m3 |
+| 10 | `aiapi.world` | ¥0.05896 | $0.00867 / $0 | 6.8 | cmodels | bge-m3 |
+| 11 | `ai.mowen.vip` | ¥0.06685 | $0.01 / $0 | 6.68494 | default | bge-m3 |
+| 12 | `hk.moleapi.com` | ¥0.068 | $0.01 / $0 | 6.8 | default | bge-m3 |
+| 13 | `api.apiyi.com` | ¥0.07 | $0.01 / $0.01 | 7 | default | bge-m3 |
+| 14 | `api.ifopen.ai` | ¥0.07 | $0.02 / $0.02 | 3.5 | default | BAAI/bge-m3 |
+| 15 | `api2.aigcbest.top` | ¥0.07 | $0.02 / $0.02 | 3.5 | default | BAAI/bge-m3 |
 | 16 | `api.nekoapi.com` | ¥0.072 | $0.036 / $0.036 | 2 | open-source | bge-m3 |
 | 17 | `apimaster.ai` | ¥0.0735 | $0.0105 / $0.0105 | 7 | default | bge-m3 |
 | 18 | `ai.lgdfort.com` | ¥0.091 | $0.091 / $0 | 1 | default | Pro/BAAI/bge-m3 |
@@ -41,7 +41,7 @@
 | 29 | `meinianda.top` | ¥0.3 | $0.3 / $0.3 | 1 | EmbeddingReranker专用-稳定 | BAAI/bge-m3 |
 | 30 | `api.treegpt.cc` | ¥0.35 | $0.35 / $0.35 | 1 | 国产模型 | bge-m3 |
 | 31 | `tree.lamclod.cn` | ¥0.35 | $0.35 / $0.35 | 1 | 国产模型 | bge-m3 |
-| 32 | `admin.cygnenoir.space` | ¥0.365 | $0.05 / $0.05 | 7.3 | vip | BAAI/bge-m3 |
+| 32 | `admin.cygnenoir.space` | ¥0.365 | $0.05 / $0.05 | 7.3 | default | BAAI/bge-m3 |
 | 33 | `ssvip.dmxapi.com` | ¥0.438 | $0.06 / $0 | 7.3 | default | bge-m3 |
 | 34 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | BAAI/bge-m3 |
 | 35 | `api.34ku.com` | ¥0.52 | $0.52 / $1.04 | 1 | default | bge-m3 |
@@ -52,7 +52,7 @@
 | 40 | `mb.dmxapi.cn` | ¥5.165 | $1.033 / $5.166 | 5 | default | bge-m3 |
 | 41 | `botcf.com` | ¥6 | $6 / $6 | 1 | 🧬embedding | BAAI/bge-m3 |
 | 42 | `xn--15q04w3tg4kio0a.com` | ¥6 | $6 / $6 | 1 | 🧬embedding | BAAI/bge-m3 |
-| 43 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | bge-m3 |
+| 43 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | 国模 | bge-m3 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

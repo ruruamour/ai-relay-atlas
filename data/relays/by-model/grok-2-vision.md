@@ -25,7 +25,7 @@
 | 13 | `api.bianxie.ai` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2-vision |
 | 14 | `api.bianxieai.com` | ¥14.6 | $2 / $10 | 7.3 | default | grok-2-vision |
 | 15 | `hy88.my` | ¥14.6 | $2 / $10 | 7.3 | grok_official | grok-2-vision |
-| 16 | `aio-api-ssvip.aiearth.dev` | ¥21.9 | $3 / $15 | 7.3 | vip | grok-2-vision-1212 |
+| 16 | `aio-api-ssvip.aiearth.dev` | ¥21.9 | $3 / $15 | 7.3 | default | grok-2-vision-1212 |
 | 17 | `api.ysaikeji.cn` | ¥43.8 | $6 / $30 | 7.3 | grok官转 | grok-2-vision-1212 |
 | 18 | `wrduai.com` | ¥102.2 | $14 / $70 | 7.3 | 官转正价 | grok-2-vision |
 

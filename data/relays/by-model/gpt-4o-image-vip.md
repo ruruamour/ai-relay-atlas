@@ -1,6 +1,6 @@
 # gpt-4o-image-vip
 
-> 68 站提供 · 正常价 47 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.18**/次（45 站公开充值价） · 推算，未对账
+> 66 站提供 · 正常价 47 站 · 名义中位价 **$0.11**/次 · 实付中位价 **¥0.18**/次（45 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `nihao.dog` | ¥0.01 | $0.01 | 1 | 生图 | gpt-4o-image-vip |
-| 2 | `new.gateway.icu` | ¥0.05 | $0.05 | 1 | reverse | gpt-4o-image-vip |
+| 2 | `new.gateway.icu` | ¥0.05 | $0.05 | 1 | default | gpt-4o-image-vip |
 | 3 | `newapi.link` | ¥0.05 | $0.05 | 1 | default | gpt-4o-image-vip |
 | 4 | `kfcv50.link` | ¥0.088 | $0.088 | 1 | pure_az | gpt-4o-image-vip |
 | 5 | `ai.soruxgpt.com` | ¥0.1 | $0.1 | 1 | default | gpt-4o-image-vip |
@@ -63,4 +63,4 @@
 | 1 | `g.openai365.top` | $0.08 | default | 1 | gpt-4o-image-vip |
 | 2 | `vip.zen-ai.top` | $1.2 | 逆向 | 10 | gpt-4o-image-vip |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

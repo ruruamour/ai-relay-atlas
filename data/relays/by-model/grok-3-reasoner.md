@@ -28,7 +28,7 @@
 | 16 | `api.bianxieai.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-3-reasoner |
 | 17 | `api.uiuihao.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-3-reasoner |
 | 18 | `sg.uiuiapi.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-3-reasoner |
-| 19 | `webapi.xjai.cc` | ¥12 | $4 / $20 | 3 | vip | grok-3-reasoner |
+| 19 | `webapi.xjai.cc` | ¥12 | $4 / $20 | 3 | default | grok-3-reasoner |
 | 20 | `api.xistree.hk` | ¥14.6 | $2 / $10 | 7.3 | default | grok-3-reasoner |
 
 > 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

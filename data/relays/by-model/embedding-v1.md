@@ -15,7 +15,7 @@
 | 3 | `api.kr777.top` | ¥0.3 | $0.375 / $0.375 | 0.8 | default | Embedding-V1 |
 | 4 | `keypool.space` | ¥0.5 | $0.5 / $0.5 | 1 | default | Embedding-V1 |
 | 5 | `xinsuanai.com` | ¥0.5 | $0.5 / $0.5 | 1 | default | Embedding-V1 |
-| 6 | `chat.cloudapi.vip` | ¥0.5479 | $0.273973 / $0.273973 | 2 | vip | Embedding-V1 |
+| 6 | `chat.cloudapi.vip` | ¥0.5479 | $0.273973 / $0.273973 | 2 | default | Embedding-V1 |
 | 7 | `api.ytea.top` | ¥0.8 | $0.8 / $0.8 | 1 | default | Embedding-V1 |
 | 8 | `api.wukong.support` | ¥1.5 | $1.5 / $1.5 | 1 | gemini官渠 | Embedding-V1 |
 | 9 | `api.qhhengxin.top` | ¥2 | $0.273973 / $0.273973 | 7.3 | default | Embedding-V1 |

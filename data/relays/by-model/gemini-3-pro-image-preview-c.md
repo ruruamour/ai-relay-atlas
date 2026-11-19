@@ -1,6 +1,6 @@
 # gemini-3-pro-image-preview-c
 
-> 34 站提供 · 正常价 22 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.18**/次（18 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 19 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.18**/次（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,17 +17,14 @@
 | 5 | `pay.magic666.top` | ¥0.15 | $0.15 | 1 | default | gemini-3-pro-image-preview-c |
 | 6 | `kfcv50.link` | ¥0.168 | $0.168 | 1 | banana_2_mix_07_1220 | gemini-3-pro-image-preview-c |
 | 7 | `www.mttie.com` | ¥0.17 | $0.17 | 1 | default | gemini-3-pro-image-preview-c |
-| 8 | `api.new.bi` | ¥0.18 | $0.18 | 1 | default | gemini-3-pro-image-preview-c |
-| 9 | `api.rinko.ai` | ¥0.18 | $0.18 | 1 | Gemini香蕉Pro1K大并发 | gemini-3-pro-image-preview-c |
-| 10 | `top.qingyuntop.top` | ¥0.18 | $0.18 | 1 | 按次计费 | gemini-3-pro-image-preview-c |
-| 11 | `zx1.deepwl.net` | ¥0.18 | $0.18 | 1 | default | gemini-3-pro-image-preview-c |
-| 12 | `api.camel-hub.com` | ¥0.24 | $0.3 | 0.8 | default | gemini-3-pro-image-preview-c |
-| 13 | `api.routeeasy.ai` | ¥0.24 | $0.24 | 1 | default | gemini-3-pro-image-preview-c |
-| 14 | `zen-ai.top` | ¥0.48 | $0.48 | 1 | 优质gemini | gemini-3-pro-image-preview-c |
-| 15 | `www.amutes.com` | ¥0.73 | $0.1 | 7.3 | 逆向banana2 | gemini-3-pro-image-preview-c |
-| 16 | `api1.uiuiapi.com` | ¥0.8088 | $0.24 | 3.37 | default | gemini-3-pro-image-preview-c |
-| 17 | `api.apipro.ai` | ¥1.4 | $0.2 | 7 | default | gemini-3-pro-image-preview-c |
-| 18 | `nxaiapp.com` | ¥6.132 | $0.84 | 7.3 | gemini_03 | gemini-3-pro-image-preview-c |
+| 8 | `api.rinko.ai` | ¥0.18 | $0.18 | 1 | Gemini香蕉Pro1K大并发 | gemini-3-pro-image-preview-c |
+| 9 | `top.qingyuntop.top` | ¥0.18 | $0.18 | 1 | 按次计费 | gemini-3-pro-image-preview-c |
+| 10 | `zx1.deepwl.net` | ¥0.18 | $0.18 | 1 | default | gemini-3-pro-image-preview-c |
+| 11 | `api.routeeasy.ai` | ¥0.24 | $0.24 | 1 | default | gemini-3-pro-image-preview-c |
+| 12 | `zen-ai.top` | ¥0.48 | $0.48 | 1 | 优质gemini | gemini-3-pro-image-preview-c |
+| 13 | `api1.uiuiapi.com` | ¥0.8088 | $0.24 | 3.37 | default | gemini-3-pro-image-preview-c |
+| 14 | `api.apipro.ai` | ¥1.4 | $0.2 | 7 | default | gemini-3-pro-image-preview-c |
+| 15 | `nxaiapp.com` | ¥6.132 | $0.84 | 7.3 | gemini_03 | gemini-3-pro-image-preview-c |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -38,4 +35,4 @@
 | 3 | `www.redbox.ink` | $1.6 | default | 4 | gemini-3-pro-image-preview-c |
 | 4 | `vip.zen-ai.top` | $2.4 | 逆向 | 10 | gemini-3-pro-image-preview-c |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # grok-3
 
-> 169 站提供 · 正常价 84 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥7**/1M 输入（79 站公开充值价） · 推算，未对账
+> 167 站提供 · 正常价 82 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6.5**/1M 输入（78 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -47,7 +47,7 @@
 | 35 | `ocool.cn` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-reasoning |
 | 36 | `one.ooo.cool` | ¥4.5 | $4.5 / $22.5 | 1 | default | grok-3-reasoning |
 | 37 | `apiai.shop` | ¥4.8 | $4 / $20 | 1.2 | default | grok-3 |
-| 38 | `chat.cloudapi.vip` | ¥6 | $3 / $15 | 2 | svip | grok-3 |
+| 38 | `chat.cloudapi.vip` | ¥6 | $3 / $15 | 2 | vip | grok-3 |
 | 39 | `chrisapivip.com` | ¥6 | $6 / $30 | 1 | grok | grok-3 |
 | 40 | `aidianwo.com` | ¥7 | $7 / $15 | 1 | default | grok-3 |
 | 41 | `api.ifopen.ai` | ¥7 | $2 / $10 | 3.5 | default | grok-3-think |
@@ -61,16 +61,15 @@
 | 49 | `api.uiuihao.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-3 |
 | 50 | `sg.uiuiapi.com` | ¥9.57 | $3 / $15 | 3.19 | default | grok-3 |
 
-> 另有 29 站未列出。
+> 另有 28 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `happyapi.org` | $2 / $10 | vip | 1 | grok-3 |
-| 2 | `8888.name` | $3 / $9 | GPT—Az渠道 | 1.5 | grok-3 |
-| 3 | `api.yescale.io` | $3 / $15 | deepseek | 1 | grok-3 |
-| 4 | `api.zhiyikeji.cn` | $3 / $15 | default | 1 | grok-3 |
-| 5 | `vip.zen-ai.top` | $9 / $45 | default | 3 | grok-3 |
+| 2 | `api.yescale.io` | $3 / $15 | grok | 1 | grok-3 |
+| 3 | `api.zhiyikeji.cn` | $3 / $15 | default | 1 | grok-3 |
+| 4 | `vip.zen-ai.top` | $9 / $45 | default | 3 | grok-3 |
 
 > 85 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

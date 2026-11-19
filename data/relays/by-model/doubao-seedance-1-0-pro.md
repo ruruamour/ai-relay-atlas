@@ -1,6 +1,6 @@
 # doubao-seedance-1-0-pro
 
-> 93 站提供 · 正常价 56 站 · 名义中位价 **$22.5**/次 · 实付中位价 **¥13**/次（4 站公开充值价） · 推算，未对账
+> 92 站提供 · 正常价 55 站 · 名义中位价 **$22.5**/次 · 实付中位价 **¥9**/次（3 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,8 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `kfcv50.link` | ¥2 | $2 | 1 | default | doubao-seedance-1-0-pro-250528 |
 | 2 | `mt.ccapi.ai` | ¥9 | $1.3044 | 6.9 | seedance-A | doubao-seedance-1-0-pro-250528 |
-| 3 | `api.videocaptioner.cn` | ¥17 | $2.53125 | 6.718 | Doubao-2 | doubao-seedance-1-0-pro-250528 |
-| 4 | `new.foxi-api.cn` | ¥22.5 | $22.5 | 1 | 纯AZ | doubao-seedance-1-0-pro-250528 |
+| 3 | `new.foxi-api.cn` | ¥22.5 | $22.5 | 1 | 纯AZ | doubao-seedance-1-0-pro-250528 |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # agnes-3.0-flash
 
-> 38 站提供 · 正常价 8 站 · 名义中位价 **$0.1**/1M 输入 · 实付中位价 **¥1.095**/1M 输入（7 站公开充值价） · 推算，未对账
+> 38 站提供 · 正常价 8 站 · 名义中位价 **$0.1125**/1M 输入 · 实付中位价 **¥1.095**/1M 输入（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,8 +10,8 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.tokenfreeperday.com` | ¥0.015 | $0.015 / $0.045 | 1 | ALL | agnes-3.0-flash |
-| 2 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.05 | 1 | relay | agnes-3.0-flash |
+| 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.05 | 1 | relay | agnes-3.0-flash |
+| 2 | `api.aisz.mom` | ¥0.075 | $0.075 / $0.075 | 1 | 新时代领鸡蛋 | agnes-3.0-flash |
 | 3 | `api.pie-xian.com` | ¥0.365 | $0.05 / $0.15 | 7.3 | user | agnes-3.0-flash |
 | 4 | `ai.191800.xyz` | ¥1.095 | $0.15 / $0.15 | 7.3 | default | agnes-3.0-flash |
 | 5 | `elysiver.h-e.top` | ¥2.5 | $0.5 / $1.5 | 5 | unattended-jungling | agnes-3.0-flash(fingerprint≈k06) |

@@ -1,6 +1,6 @@
 # qwen-math-turbo
 
-> 38 站提供 · 正常价 24 站 · 名义中位价 **$1.71432**/1M 输入 · 实付中位价 **¥2**/1M 输入（24 站公开充值价） · 推算，未对账
+> 36 站提供 · 正常价 22 站 · 名义中位价 **$1.65716**/1M 输入 · 实付中位价 **¥1.857**/1M 输入（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -28,11 +28,9 @@
 | 16 | `yutoapi.com` | ¥2.1 | $2.1 / $6.3 | 1 | enterprise | qwen-math-turbo |
 | 17 | `api.xi-ai.cn` | ¥2.857 | $2.8572 / $2.8572 | 1 | 国产模型 | qwen-math-turbo-latest |
 | 18 | `www.hohoapi.com` | ¥3.12 | $1.04 / $3.12 | 3 | qwen | qwen-math-turbo |
-| 19 | `cc.zhihuiapi.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen | qwen-math-turbo |
-| 20 | `cn.zhihuiai.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen | qwen-math-turbo |
-| 21 | `wrduai.com` | ¥7.3 | $1 / $3 | 7.3 | 官转 | qwen-math-turbo |
-| 22 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen-math-turbo |
-| 23 | `codeyy.top` | ¥14.6 | $2 / $6 | 7.3 | default | qwen-math-turbo |
-| 24 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-math-turbo |
+| 19 | `wrduai.com` | ¥7.3 | $1 / $3 | 7.3 | 官转 | qwen-math-turbo |
+| 20 | `hy88.my` | ¥8.76 | $1.2 / $3.6 | 7.3 | qwen | qwen-math-turbo |
+| 21 | `codeyy.top` | ¥14.6 | $2 / $6 | 7.3 | default | qwen-math-turbo |
+| 22 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-math-turbo |
 
 > 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

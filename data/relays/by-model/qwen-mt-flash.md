@@ -1,6 +1,6 @@
 # qwen-mt-flash
 
-> 38 站提供 · 正常价 20 站 · 名义中位价 **$0.266**/1M 输入 · 实付中位价 **¥0.6968**/1M 输入（20 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 19 站 · 名义中位价 **$0.182**/1M 输入 · 实付中位价 **¥0.6936**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -24,11 +24,10 @@
 | 12 | `apishop.ai` | ¥0.7 | $0.1 / $0.278571 | 7 | default | qwen-mt-flash |
 | 13 | `www.dayueai.fun` | ¥0.9 | $0.9 / $2.5 | 1 | vip | qwen-mt-flash |
 | 14 | `wrduai.com` | ¥2.555 | $0.35 / $0.975 | 7.3 | 官转 | qwen-mt-flash |
-| 15 | `api.ipest.ai` | ¥2.964 | $0.406 / $1.13112 | 7.3 | cn_model_default | qwen-mt-flash |
-| 16 | `cn.gptapi.asia` | ¥4.9 | $4.9 / $13.671 | 1 | enterprise | qwen-mt-flash |
-| 17 | `yutoapi.com` | ¥4.9 | $4.9 / $13.671 | 1 | enterprise | qwen-mt-flash |
-| 18 | `elysiver.h-e.top` | ¥5 | $1 / $1 | 5 | unattended-jungling | fm/qwen-mt-flash(fingerprint≈k79) |
-| 19 | `codeyy.top` | ¥5.11 | $0.7 / $1.95 | 7.3 | default | qwen-mt-flash |
-| 20 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-mt-flash |
+| 15 | `cn.gptapi.asia` | ¥4.9 | $4.9 / $13.671 | 1 | enterprise | qwen-mt-flash |
+| 16 | `yutoapi.com` | ¥4.9 | $4.9 / $13.671 | 1 | enterprise | qwen-mt-flash |
+| 17 | `elysiver.h-e.top` | ¥5 | $1 / $1 | 5 | unattended-jungling | fm/qwen-mt-flash(fingerprint≈k79) |
+| 18 | `codeyy.top` | ¥5.11 | $0.7 / $1.95 | 7.3 | default | qwen-mt-flash |
+| 19 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-mt-flash |
 
 > 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

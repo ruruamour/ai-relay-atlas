@@ -1,6 +1,6 @@
 # wan2.7-image
 
-> 67 站提供 · 正常价 43 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.2**/次（40 站公开充值价） · 推算，未对账
+> 66 站提供 · 正常价 42 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.2**/次（39 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,35 +21,34 @@
 | 9 | `aizzz.vip` | ¥0.144 | $0.36 | 0.4 | China | wan2.7-image |
 | 10 | `kuaipao.ai` | ¥0.144 | $0.36 | 0.4 | China | wan2.7-image |
 | 11 | `api.lingyaai.cn` | ¥0.158 | $0.158 | 1 | 国产普惠·源力计划 | wan2.7-image |
-| 12 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.158 | $0.158 | 1 | CN-Model-Special​ | wan2.7-image |
-| 13 | `ai-one.vip` | ¥0.18 | $0.36 | 0.5 | China | wan2.7-image |
-| 14 | `synthapi.asia` | ¥0.1813 | $0.02484 | 7.3 | 图像模型聚合(可自定义图像参数) | wan2.7-image |
-| 15 | `api.ifopen.ai` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | wan2.7-image |
-| 16 | `api2.aigcbest.top` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | wan2.7-image |
-| 17 | `open.cherryin.ai` | ¥0.1858 | $0.0273973 | 6.78 | default | wan/wan2.7-image |
+| 12 | `ai-one.vip` | ¥0.18 | $0.36 | 0.5 | China | wan2.7-image |
+| 13 | `synthapi.asia` | ¥0.1813 | $0.02484 | 7.3 | 视频模型聚合 | wan2.7-image |
+| 14 | `api.ifopen.ai` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | wan2.7-image |
+| 15 | `api2.aigcbest.top` | ¥0.182 | $0.052 | 3.5 | 通用大模型 | wan2.7-image |
+| 16 | `open.cherryin.ai` | ¥0.1858 | $0.0273973 | 6.78 | default | wan/wan2.7-image |
+| 17 | `synthapi.cloud` | ¥0.19 | $0.0260274 | 7.3 | default | wan2.7-image |
 | 18 | `api.wanapis.com` | ¥0.1966 | $0.1966 | 1 | default | wan2.7-image |
 | 19 | `express-ent-admin.cherryin.net` | ¥0.1973 | $0.0273973 | 7.2 | default | wan/wan2.7-image |
 | 20 | `ai.hwdrama.com` | ¥0.2 | $0.2 | 1 | default | wan2.7-image |
 | 21 | `aiapihub.net` | ¥0.2 | $0.2 | 1 | default | Wan2.7-Image |
 | 22 | `ainb.space` | ¥0.2 | $0.2 | 1 | China | wan2.7-image |
 | 23 | `n.lconai.com` | ¥0.2 | $0.2 | 1 | B1 | wan2.7-image |
-| 24 | `newapi.prorisehub.com` | ¥0.2 | $0.2 | 1 | default | wan2.7-image |
-| 25 | `tokencross.cn` | ¥0.2 | $0.2 | 1 | default | wan2.7-image |
-| 26 | `ai-model.chinaz.net` | ¥0.2 | $0.0273973 | 7.3 | default | wan2.7-image |
-| 27 | `supertoken.pro` | ¥0.2 | $0.0274 | 7.3 | 万象 | wan2.7-image |
-| 28 | `ai.zan.top` | ¥0.2008 | $0.027504 | 7.3 | default | wan2.7-image |
-| 29 | `cn.sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
-| 30 | `flynn.sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
-| 31 | `mario.sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
-| 32 | `sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
-| 33 | `yibuapi.com` | ¥0.24 | $0.16 | 1.5 | claude-code | wan2.7-image |
-| 34 | `tokenworldapi.com` | ¥0.3 | $0.3 | 1 | default | wan2.7-image |
-| 35 | `www.yibuapi.cn` | ¥0.3 | $0.2 | 1.5 | claude-code | wan2.7-image |
-| 36 | `yibuapi.cn` | ¥0.3 | $0.2 | 1.5 | default | wan2.7-image |
-| 37 | `linksapi.cn` | ¥0.3077 | $0.3846 | 0.8 | 国产生图 | wan2.7-image |
-| 38 | `open-test.xiaojingai.com` | ¥0.3285 | $0.045 | 7.3 | codex2 | wan2.7-image |
-| 39 | `chat.cloudapi.vip` | ¥0.6 | $0.3 | 2 | ppt | wan2.7-image |
-| 40 | `router.zan.top` | ¥1.46 | $0.2 | 7.3 | default | wan2.7-image |
+| 24 | `tokencross.cn` | ¥0.2 | $0.2 | 1 | default | wan2.7-image |
+| 25 | `ai-model.chinaz.net` | ¥0.2 | $0.0273973 | 7.3 | default | wan2.7-image |
+| 26 | `supertoken.pro` | ¥0.2 | $0.0274 | 7.3 | 万象 | wan2.7-image |
+| 27 | `ai.zan.top` | ¥0.2008 | $0.027504 | 7.3 | default | wan2.7-image |
+| 28 | `cn.sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
+| 29 | `flynn.sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
+| 30 | `mario.sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
+| 31 | `sandbox.dogrouter.ai` | ¥0.219 | $0.03 | 7.3 | default | wan2.7-image |
+| 32 | `yibuapi.com` | ¥0.24 | $0.16 | 1.5 | claude-code | wan2.7-image |
+| 33 | `tokenworldapi.com` | ¥0.3 | $0.3 | 1 | default | wan2.7-image |
+| 34 | `www.yibuapi.cn` | ¥0.3 | $0.2 | 1.5 | claude-code | wan2.7-image |
+| 35 | `yibuapi.cn` | ¥0.3 | $0.2 | 1.5 | default | wan2.7-image |
+| 36 | `linksapi.cn` | ¥0.3077 | $0.3846 | 0.8 | 国产生图 | wan2.7-image |
+| 37 | `open-test.xiaojingai.com` | ¥0.3285 | $0.045 | 7.3 | codex2 | wan2.7-image |
+| 38 | `chat.cloudapi.vip` | ¥0.6 | $0.3 | 2 | ppt | wan2.7-image |
+| 39 | `router.zan.top` | ¥1.46 | $0.2 | 7.3 | default | wan2.7-image |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

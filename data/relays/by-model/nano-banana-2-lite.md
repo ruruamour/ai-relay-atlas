@@ -18,7 +18,7 @@
 | 6 | `api.jui87.com` | ¥0.05 | $0.05 | 1 | 生图分组 | nano-banana-2-lite |
 | 7 | `api.klong.lat` | ¥0.05 | $0.05 | 1 | 画图分组 | nano-banana-2-lite |
 | 8 | `gpt.qinnaonao.com` | ¥0.09 | $0.09 | 1 | 图片vip | nano-banana-2-lite |
-| 9 | `newapi.prorisehub.com` | ¥0.11 | $0.11 | 1 | 图像-低 | nano-banana-2-lite |
+| 9 | `newapi.prorisehub.com` | ¥0.11 | $0.11 | 1 | default | nano-banana-2-lite |
 | 10 | `ccdox.0755.click` | ¥0.15 | $0.15 | 1 | 画图 | nano-banana-2-lite |
 | 11 | `hiapi.ai` | ¥0.2409 | $0.033 | 7.3 | default | Nano-Banana-2-Lite |
 

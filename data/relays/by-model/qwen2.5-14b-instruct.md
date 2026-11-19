@@ -1,6 +1,6 @@
 # qwen2.5-14b-instruct
 
-> 49 站提供 · 正常价 32 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1.274**/1M 输入（23 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 32 站 · 名义中位价 **$1**/1M 输入 · 实付中位价 **¥1.56**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,18 +18,18 @@
 | 6 | `gpt777.top` | ¥0.8 | $0.8 / $2.4 | 1 | opensource | qwen2.5-14b-instruct |
 | 7 | `ai.lgdfort.com` | ¥0.91 | $0.91 / $0.91 | 1 | default | LoRA/Qwen/Qwen2.5-14B-Instruct |
 | 8 | `api.xi-ai.cn` | ¥1 | $1 / $3 | 1 | 国产模型 | qwen2.5-14b-instruct |
-| 9 | `keypool.space` | ¥1 | $1 / $3 | 1 | vip | qwen2.5-14b-instruct |
+| 9 | `keypool.space` | ¥1 | $1 / $3 | 1 | default | qwen2.5-14b-instruct |
 | 10 | `kfcv50.link` | ¥1 | $1 / $3 | 1 | Domestic | qwen2.5-14b-instruct |
 | 11 | `xinsuanai.com` | ¥1 | $1 / $3 | 1 | default | qwen2.5-14b-instruct |
-| 12 | `api.ifopen.ai` | ¥1.274 | $0.364 / $1.092 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-14B-Instruct |
-| 13 | `api2.aigcbest.top` | ¥1.274 | $0.364 / $1.092 | 3.5 | 通用大模型 | LoRA/Qwen/Qwen2.5-14B-Instruct |
-| 14 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-14b-instruct |
-| 15 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-14b-instruct |
-| 16 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-14b-instruct |
-| 17 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen2.5-14b-instruct |
-| 18 | `ai.mowen.vip` | ¥2.34 | $0.35 / $1.4 | 6.68494 | default | Qwen2.5-14B-Instruct |
-| 19 | `api.aiskt.com` | ¥2.857 | $2.8572 / $8.5716 | 1 | default | qwen2.5-14b-instruct |
-| 20 | `hy88.my` | ¥4.38 | $0.6 / $1.8 | 7.3 | qwen | qwen2.5-14b-instruct |
+| 12 | `www.hohoapi.com` | ¥1.56 | $0.52 / $1.56 | 3 | qwen | qwen2.5-14b-instruct |
+| 13 | `goapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-14b-instruct |
+| 14 | `gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | cn_official | qwen2.5-14b-instruct |
+| 15 | `oneapi.gptnb.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | CN_discount | qwen2.5-14b-instruct |
+| 16 | `ai.mowen.vip` | ¥2.34 | $0.35 / $1.4 | 6.68494 | default | Qwen2.5-14B-Instruct |
+| 17 | `api.aiskt.com` | ¥2.857 | $2.8572 / $8.5716 | 1 | default | qwen2.5-14b-instruct |
+| 18 | `hy88.my` | ¥4.38 | $0.6 / $1.8 | 7.3 | qwen | qwen2.5-14b-instruct |
+| 19 | `api.ifopen.ai` | ¥4.9 | $1.4 / $4.2 | 3.5 | default | LoRA/Qwen/Qwen2.5-14B-Instruct |
+| 20 | `api2.aigcbest.top` | ¥4.9 | $1.4 / $4.2 | 3.5 | default | LoRA/Qwen/Qwen2.5-14B-Instruct |
 | 21 | `api.xistree.hk` | ¥7.3 | $1 / $3 | 7.3 | default | qwen2.5-14b-instruct |
 | 22 | `kaopuapi.com` | ¥7.3 | $1 / $3 | 7.3 | cn1 | Qwen2.5-14B-Instruct |
 | 23 | `mrouter.cn` | ¥7.3 | $1 / $3 | 7.3 | cn1 | Qwen2.5-14B-Instruct |

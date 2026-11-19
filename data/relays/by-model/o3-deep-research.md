@@ -1,6 +1,6 @@
 # o3-deep-research
 
-> 73 站提供 · 正常价 59 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥48.8**/1M 输入（44 站公开充值价） · 推算，未对账
+> 72 站提供 · 正常价 59 站 · 名义中位价 **$10**/1M 输入 · 实付中位价 **¥48.8**/1M 输入（44 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -63,16 +63,16 @@
 | 2 | `api.clawhud.com` | $1 / $4 | Nvidia | 0.1 | o3-deep-research |
 | 3 | `api.socode.cc` | $1 / $4 | GPT[Main] | 0.1 | o3-deep-research |
 | 4 | `test-sub2.sjapi.top` | $1.5 / $6 | plus | 0.15 | o3-deep-research |
-| 5 | `saletoken.org` | $2 / $8 | CODEX-pro | 0.2 | o3-deep-research |
-| 6 | `sub2api.hyl2api.com` | $2 / $8 | GPT  | 0.2 | o3-deep-research |
-| 7 | `api.geniuscoder.net` | $2.5 / $10 | gpt优惠 | 0.25 | o3-deep-research |
-| 8 | `supersubscribe689.com` | $5 / $20 | chatgpt美区版 | 0.5 | o3-deep-research |
-| 9 | `momoai.asia` | $8 / $32 | codex余额分组 | 0.8 | o3-deep-research |
-| 10 | `lobe.zen-ai.top` | $10 / $40 | mt | 1 | o3-deep-research |
-| 11 | `8888.name` | $15 / $60 | GPT—Az渠道 | 1.5 | o3-deep-research |
-| 12 | `api.zhimigy.cn` | $16 / $64 | pro | 1.6 | o3-deep-research |
+| 5 | `aixhub.shop` | $1.7 / $6.8 | Codex 混合池子 | 0.17 | o3-deep-research |
+| 6 | `saletoken.org` | $2 / $8 | CODEX-pro | 0.2 | o3-deep-research |
+| 7 | `sub2api.hyl2api.com` | $2 / $8 | GPT  | 0.2 | o3-deep-research |
+| 8 | `api.geniuscoder.net` | $2.5 / $10 | gpt优惠 | 0.25 | o3-deep-research |
+| 9 | `supersubscribe689.com` | $5 / $20 | chatgpt美区版 | 0.5 | o3-deep-research |
+| 10 | `api.zhimigy.cn` | $7 / $28 | pro | 0.7 | o3-deep-research |
+| 11 | `momoai.asia` | $8 / $32 | codex余额分组 | 0.8 | o3-deep-research |
+| 12 | `lobe.zen-ai.top` | $10 / $40 | mt | 1 | o3-deep-research |
 | 13 | `api.akko.space` | $25 / $100 | Codex Azure | 2.5 | o3-deep-research |
 | 14 | `vip.zen-ai.top` | $30 / $120 | default | 3 | o3-deep-research-2025-06-26 |
 | 15 | `sub.hongyun.chat` | $75 / $300 | gpt | 7.5 | o3-deep-research |
 
-> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # nano-banana2
 
-> 31 站提供 · 正常价 24 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.09**/次（13 站公开充值价） · 推算，未对账
+> 30 站提供 · 正常价 23 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.09**/次（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,7 +21,7 @@
 | 9 | `tsohbcwjd6in7jpw.eihhu.com` | ¥0.15 | $0.15 | 1 | default | nano-banana2 |
 | 10 | `code.aifast.top` | ¥0.1971 | $0.027 | 7.3 | Gpt画图 | nano-banana2 |
 | 11 | `zzone.cc.cd` | ¥0.8176 | $0.112 | 7.3 | 生图模型 | nano-banana2 |
-| 12 | `www.openmindapi.com` | ¥1.4 | $0.2 | 7 | gemini4k图片 | nano-banana2 |
+| 12 | `www.openmindapi.com` | ¥1.4 | $0.2 | 7 | default | nano-banana2 |
 | 13 | `api.3365api.cn` | ¥6.57 | $0.9 | 7.3 | 图片视频模型综合分组 | nano-banana2 |
 
 ## 名义价（未公开充值价，按 $ 排序）
@@ -30,14 +30,13 @@
 |---|---|---|---|---|---|
 | 1 | `sub.pikaqiu.shop` | $0.0048 | team | 0.06 | nano-banana2 |
 | 2 | `yyds.chybenzun.top` | $0.04 | 【原生生图】Gemini Nanobana · 原生接口 | 1 | nano-banana2 |
-| 3 | `api.asdfas.party` | $0.06 | gemini | 0.3 | nano-banana2-1k |
-| 4 | `sub.vcnovb.cn` | $0.06 | 香蕉banana | 1 | nano-banana2 |
-| 5 | `api.hyhawang.com` | $0.08 | 香蕉生图 | 1 | nano-banana2 |
-| 6 | `www.qianweikeji.fun` | $0.08 | 香蕉生图 | 1 | nano-banana2 |
-| 7 | `axis.yoga` | $0.09 | 生图专业版 | 1 | nano-banana2-1k |
+| 3 | `sub.vcnovb.cn` | $0.06 | 香蕉banana | 1 | nano-banana2 |
+| 4 | `api.hyhawang.com` | $0.08 | 香蕉生图 | 1 | nano-banana2 |
+| 5 | `www.qianweikeji.fun` | $0.08 | 香蕉生图 | 1 | nano-banana2 |
+| 6 | `axis.yoga` | $0.09 | 生图专业版 | 1 | nano-banana2-1k |
+| 7 | `api.relaycore.cn` | $0.0975 | 生图 | 0.055 | nano-banana2-1k |
 | 8 | `api.chuangxiangai.asia` | $0.705882 | 生图 | 1 | nano-banana2-1k |
-| 9 | `vapi.chuangxiangai.asia` | $0.75 | 生图 | 1 | nano-banana2-1k |
-| 10 | `aiapi.market` | $0.9 | image-2 | 10 | nano-banana2-1k |
-| 11 | `api.bblabu.ai` | $1.7 | 生图专用分组 | 1 | nano-banana2-1k |
+| 9 | `aiapi.market` | $0.9 | image-2 | 10 | nano-banana2-1k |
+| 10 | `api.bblabu.ai` | $1.7 | 生图专用分组 | 1 | nano-banana2-1k |
 
 > 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

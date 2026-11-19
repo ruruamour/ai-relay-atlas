@@ -14,7 +14,7 @@
 | 2 | `art.taluna.ai` | ¥7.315 | $7.315 / $0 | 1 | seedance | dreamina-seedance-2-0-260128 |
 | 3 | `taluna.ai` | ¥7.7 | $7.7 / $0 | 1 | seedance2.0 | dreamina-seedance-2-0-260128 |
 | 4 | `tlndev.taluna.ai` | ¥8 | $8 / $8 | 1 | default | dreamina-seedance-2-0-260128 |
-| 5 | `sub.666api.ai` | ¥17.52 | $2.4 / $2.4 | 7.3 | svip | dreamina-seedance-2-0 |
+| 5 | `sub.666api.ai` | ¥17.52 | $2.4 / $2.4 | 7.3 | 视频生成分组 | dreamina-seedance-2-0 |
 | 6 | `nexaxis.ai` | ¥44.51 | $44.506 / $44.506 | 1 | Seedance2.0 | dreamina-seedance-2-0-260128 |
 | 7 | `aiapi.hk` | ¥49 | $7 / $7 | 7 | seedance-2-0 | dreamina-seedance-2-0-260128 |
 | 8 | `cn.sandbox.dogrouter.ai` | ¥51.1 | $7 / $7 | 7.3 | default | dreamina-seedance-2-0-260128 |

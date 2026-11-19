@@ -17,7 +17,7 @@
 | 5 | `modelport.shop` | ¥0.3832 | $0.0525 | 7.3 | default | flux-2-max |
 | 6 | `api.apiyi.com` | ¥0.49 | $0.07 | 7 | default | flux-2-max |
 | 7 | `api.laozhang.ai` | ¥0.49 | $0.07 | 7 | default | flux-2-max |
-| 8 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 图像模型聚合(可自定义图像参数) | flux-2-max |
+| 8 | `synthapi.asia` | ¥0.6716 | $0.092 | 7.3 | 视频模型聚合 | flux-2-max |
 | 9 | `tokenflux.ai` | ¥0.7 | $0.1 | 7 | default | image/black-forest-labs/flux-2-max |
 | 10 | `api.chatshare.one` | ¥0.73 | $0.1 | 7.3 | default | flux-2-max |
 | 11 | `api.tiantoken.com` | ¥0.73 | $0.1 | 7.3 | default | flux-2-max |

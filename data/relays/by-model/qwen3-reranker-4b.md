@@ -1,6 +1,6 @@
 # qwen3-reranker-4b
 
-> 30 站提供 · 正常价 16 站 · 名义中位价 **$0.16**/1M 输入 · 实付中位价 **¥0.21**/1M 输入（15 站公开充值价） · 推算，未对账
+> 31 站提供 · 正常价 17 站 · 名义中位价 **$0.14**/1M 输入 · 实付中位价 **¥0.196**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,15 +16,16 @@
 | 4 | `express-ent-admin.cherryin.net` | ¥0.1384 | $0.01922 / $0.01922 | 7.2 | default | qwen/qwen3-reranker-4b |
 | 5 | `api.lingyaai.cn` | ¥0.14 | $0.14 / $0 | 1 | default | qwen3-reranker-4b |
 | 6 | `beeroute.ai` | ¥0.14 | $0.14 / $0 | 1 | default | qwen3-reranker-4b |
-| 7 | `ai.lgdfort.com` | ¥0.182 | $0.182 / $0 | 1 | default | Qwen/Qwen3-Reranker-4B |
-| 8 | `yibuapi.com` | ¥0.21 | $0.14 / $0.14 | 1.5 | default | qwen3-reranker-4b |
-| 9 | `www.yibuapi.cn` | ¥0.27 | $0.18 / $0.18 | 1.5 | default | qwen3-reranker-4b |
-| 10 | `yibuapi.cn` | ¥0.27 | $0.18 / $0.18 | 1.5 | default | qwen3-reranker-4b |
-| 11 | `gpt777.top` | ¥0.32 | $0.32 / $0.32 | 1 | opensource | Qwen/Qwen3-Reranker-4B |
-| 12 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | Qwen/Qwen3-Reranker-4B |
-| 13 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen3-Reranker-4B |
-| 14 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen3-Reranker-4B |
-| 15 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🔎Reranker | Qwen3-Reranker-4B |
+| 7 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥0.14 | $0.14 / $0 | 1 | default | qwen3-reranker-4b |
+| 8 | `ai.lgdfort.com` | ¥0.182 | $0.182 / $0 | 1 | default | Qwen/Qwen3-Reranker-4B |
+| 9 | `yibuapi.com` | ¥0.21 | $0.14 / $0.14 | 1.5 | default | qwen3-reranker-4b |
+| 10 | `www.yibuapi.cn` | ¥0.27 | $0.18 / $0.18 | 1.5 | default | qwen3-reranker-4b |
+| 11 | `yibuapi.cn` | ¥0.27 | $0.18 / $0.18 | 1.5 | default | qwen3-reranker-4b |
+| 12 | `gpt777.top` | ¥0.32 | $0.32 / $0.32 | 1 | opensource | Qwen/Qwen3-Reranker-4B |
+| 13 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | Qwen/Qwen3-Reranker-4B |
+| 14 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen3-Reranker-4B |
+| 15 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🔎reranker | Qwen3-Reranker-4B |
+| 16 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🔎Reranker | Qwen3-Reranker-4B |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

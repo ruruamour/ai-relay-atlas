@@ -18,7 +18,7 @@
 | 6 | `api.eido.top` | ¥0.2 | $0.2 / $0.8 | 1 | default | qwen3-0.6b |
 | 7 | `api.aiskt.com` | ¥0.3 | $0.3 / $9 | 1 | default | qwen3-0.6b |
 | 8 | `azapi.com.cn` | ¥0.3 | $0.3 / $3 | 1 | default | qwen3-0.6b |
-| 9 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
+| 9 | `keypool.space` | ¥0.3 | $0.3 / $1.2 | 1 | vip | qwen3-0.6b |
 | 10 | `new.foxi-api.cn` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
 | 11 | `xinsuanai.com` | ¥0.3 | $0.3 / $1.2 | 1 | default | qwen3-0.6b |
 | 12 | `api.pie-xian.com` | ¥0.365 | $0.05 / $0.2 | 7.3 | 无限制 | qwen3-0.6b |

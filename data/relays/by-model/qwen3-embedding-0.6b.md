@@ -1,6 +1,6 @@
 # qwen3-embedding-0.6b
 
-> 41 站提供 · 正常价 22 站 · 名义中位价 **$0.054**/1M 输入 · 实付中位价 **¥0.091**/1M 输入（21 站公开充值价） · 推算，未对账
+> 42 站提供 · 正常价 22 站 · 名义中位价 **$0.07**/1M 输入 · 实付中位价 **¥0.091**/1M 输入（21 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,13 +23,13 @@
 | 11 | `ai.lgdfort.com` | ¥0.091 | $0.091 / $0 | 1 | default | Qwen/Qwen3-Embedding-0.6B |
 | 12 | `ai.mowen.vip` | ¥0.1337 | $0.02 / $0 | 6.68494 | default | Qwen3-Embedding-0.6B |
 | 13 | `gpt777.top` | ¥0.16 | $0.16 / $0.16 | 1 | opensource | Qwen/Qwen3-Embedding-0.6B |
-| 14 | `api.ifopen.ai` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-0.6B |
-| 15 | `api2.aigcbest.top` | ¥0.182 | $0.052 / $0.052 | 3.5 | 通用大模型 | Qwen/Qwen3-Embedding-0.6B |
-| 16 | `api.eido.top` | ¥0.2 | $0.2 / $0.2 | 1 | default | qwen3-embedding-0.6b |
-| 17 | `elysiver.h-e.top` | ¥0.2 | $0.04 / $0.04 | 5 | nonchat | qwen3-embedding-0.6b |
-| 18 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | Qwen/Qwen3-Embedding-0.6B |
-| 19 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen/Qwen3-Embedding-0.6B |
-| 20 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen/Qwen3-Embedding-0.6B |
+| 14 | `api.eido.top` | ¥0.2 | $0.2 / $0.2 | 1 | default | qwen3-embedding-0.6b |
+| 15 | `elysiver.h-e.top` | ¥0.2 | $0.04 / $0.04 | 5 | nonchat | qwen3-embedding-0.6b |
+| 16 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | Qwen/Qwen3-Embedding-0.6B |
+| 17 | `botcf.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen/Qwen3-Embedding-0.6B |
+| 18 | `xn--15q04w3tg4kio0a.com` | ¥0.5 | $0.5 / $0.5 | 1 | 🧬embedding | Qwen/Qwen3-Embedding-0.6B |
+| 19 | `api.ifopen.ai` | ¥0.7 | $0.2 / $0.2 | 3.5 | default | Qwen/Qwen3-Embedding-0.6B |
+| 20 | `api2.aigcbest.top` | ¥0.7 | $0.2 / $0.2 | 3.5 | default | Qwen/Qwen3-Embedding-0.6B |
 | 21 | `m78.newapi.botcf.com` | ¥4.015 | $0.55 / $0.55 | 7.3 | 🧬Embedding | Qwen/Qwen3-Embedding-0.6B |
 
 ## 名义价（未公开充值价，按 $ 排序）
@@ -38,4 +38,4 @@
 |---|---|---|---|---|---|
 | 1 | `api.akko.space` | $0.05 / - | Embedding | 1 | embed-Qwen/Qwen3-Embedding-0.6B |
 
-> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

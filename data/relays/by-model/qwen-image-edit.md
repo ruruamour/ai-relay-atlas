@@ -1,6 +1,6 @@
 # qwen-image-edit
 
-> 103 站提供 · 正常价 86 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.2873**/次（34 站公开充值价） · 推算，未对账
+> 101 站提供 · 正常价 85 站 · 名义中位价 **$0.12**/次 · 实付中位价 **¥0.2959**/次（33 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,37 +13,36 @@
 | 1 | `ai.mowen.vip` | ¥0.04994 | $0.007471 | 6.68494 | default | Qwen-Image-Edit-2511 |
 | 2 | `api.eido.top` | ¥0.05 | $0.05 | 1 | default | qwen-image-edit |
 | 3 | `plusx.nyxos.shop` | ¥0.05368 | $0.007353 | 7.3 | Alibaba-1 | qwen-image-edit-2509 |
-| 4 | `www.ggwk1.online` | ¥0.08 | $0.08 | 1 | a全模型综合组-1倍率 | qwen-image-edit |
-| 5 | `api.zyai.online` | ¥0.1 | $0.1 | 1 | mini | qwen-image-edit |
-| 6 | `kelaiapi.cc` | ¥0.12 | $0.12 | 1 | vip_ch | qwen-image-edit |
-| 7 | `keypool.space` | ¥0.12 | $0.12 | 1 | default | qwen-image-edit-2509 |
-| 8 | `new.foxi-api.cn` | ¥0.12 | $0.12 | 1 | default | qwen-image-edit-2509 |
-| 9 | `xinsuanai.com` | ¥0.12 | $0.12 | 1 | default | qwen-image-edit-2509 |
-| 10 | `api.34ku.com` | ¥0.13 | $0.13 | 1 | default | qwen-image-edit |
-| 11 | `deeptranx.apiqik.com` | ¥0.1375 | $0.1375 | 1 | default | qwen-image-edit |
-| 12 | `api.qiqiai.top` | ¥0.15 | $0.075 | 2 | 国产模型系列 | qwen-image-edit |
-| 13 | `tokenflux.ai` | ¥0.21 | $0.03 | 7 | default | image/qwen/qwen-image-edit |
-| 14 | `kfcv50.link` | ¥0.25 | $0.25 | 1 | Domestic | qwen-image-edit |
-| 15 | `api.ifopen.ai` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | qwen-image-edit |
-| 16 | `api2.aigcbest.top` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | qwen-image-edit |
-| 17 | `open.cherryin.ai` | ¥0.2786 | $0.0410959 | 6.78 | default | qwen/qwen-image-edit-2509 |
-| 18 | `express-ent-admin.cherryin.net` | ¥0.2959 | $0.0410959 | 7.2 | default | qwen/qwen-image-edit-2509 |
-| 19 | `ai.hwdrama.com` | ¥0.3 | $0.3 | 1 | default | qwen-image-edit |
-| 20 | `cn.gptapi.asia` | ¥0.3157 | $0.315658 | 1 | enterprise | qwen-image-edit |
-| 21 | `yutoapi.com` | ¥0.3157 | $0.315658 | 1 | enterprise | qwen-image-edit |
-| 22 | `api.bianxie.ai` | ¥0.3285 | $0.045 | 7.3 | default | qwen-image-edit |
-| 23 | `api.bianxieai.com` | ¥0.3285 | $0.045 | 7.3 | default | qwen-image-edit |
-| 24 | `yibuapi.com` | ¥0.36 | $0.24 | 1.5 | claude-code | qwen-image-edit-2509 |
-| 25 | `ai.lgdfort.com` | ¥0.39 | $0.39 | 1 | default | Qwen/Qwen-Image-Edit |
-| 26 | `www.hohoapi.com` | ¥0.702 | $0.234 | 3 | default | qwen-image-edit |
-| 27 | `apicdn.xyc.ai` | ¥0.7066 | $0.1024 | 6.9 | xycnsfw | qwen-image-edit |
-| 28 | `apicdn.xycai.us` | ¥0.7066 | $0.1024 | 6.9 | xycnsfw | qwen-image-edit |
-| 29 | `hy88.my` | ¥0.876 | $0.12 | 7.3 | qwen | qwen-image-edit |
-| 30 | `na.wanxiaot.com` | ¥1.55 | $1.55 | 1 | default | MusePublic/Qwen-Image-Edit |
-| 31 | `naapi.cc` | ¥1.55 | $1.55 | 1 | default | MusePublic/Qwen-Image-Edit |
-| 32 | `ai.191800.xyz` | ¥7.3 | $1 | 7.3 | 魔搭 | MusePublic/Qwen-Image-Edit |
-| 33 | `api.ai-gaochao.cn` | ¥10.95 | $1.5 | 7.3 | Premium | qwen-image-edit |
-| 34 | `apius.shubiaobiao.cn` | ¥10.95 | $1.5 | 7.3 | Premium | qwen-image-edit |
+| 4 | `api.zyai.online` | ¥0.1 | $0.1 | 1 | mini | qwen-image-edit |
+| 5 | `kelaiapi.cc` | ¥0.12 | $0.12 | 1 | vip_ch | qwen-image-edit |
+| 6 | `keypool.space` | ¥0.12 | $0.12 | 1 | default | qwen-image-edit-2509 |
+| 7 | `new.foxi-api.cn` | ¥0.12 | $0.12 | 1 | default | qwen-image-edit-2509 |
+| 8 | `xinsuanai.com` | ¥0.12 | $0.12 | 1 | default | qwen-image-edit-2509 |
+| 9 | `api.34ku.com` | ¥0.13 | $0.13 | 1 | default | qwen-image-edit |
+| 10 | `deeptranx.apiqik.com` | ¥0.1375 | $0.1375 | 1 | default | qwen-image-edit |
+| 11 | `api.qiqiai.top` | ¥0.15 | $0.075 | 2 | 国产模型系列 | qwen-image-edit |
+| 12 | `tokenflux.ai` | ¥0.21 | $0.03 | 7 | default | image/qwen/qwen-image-edit |
+| 13 | `kfcv50.link` | ¥0.25 | $0.25 | 1 | Domestic | qwen-image-edit |
+| 14 | `api.ifopen.ai` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | qwen-image-edit |
+| 15 | `api2.aigcbest.top` | ¥0.273 | $0.078 | 3.5 | 通用大模型 | qwen-image-edit |
+| 16 | `open.cherryin.ai` | ¥0.2786 | $0.0410959 | 6.78 | default | qwen/qwen-image-edit-2509 |
+| 17 | `express-ent-admin.cherryin.net` | ¥0.2959 | $0.0410959 | 7.2 | default | qwen/qwen-image-edit-2509 |
+| 18 | `ai.hwdrama.com` | ¥0.3 | $0.3 | 1 | default | qwen-image-edit |
+| 19 | `cn.gptapi.asia` | ¥0.3157 | $0.315658 | 1 | enterprise | qwen-image-edit |
+| 20 | `yutoapi.com` | ¥0.3157 | $0.315658 | 1 | enterprise | qwen-image-edit |
+| 21 | `api.bianxie.ai` | ¥0.3285 | $0.045 | 7.3 | default | qwen-image-edit |
+| 22 | `api.bianxieai.com` | ¥0.3285 | $0.045 | 7.3 | default | qwen-image-edit |
+| 23 | `yibuapi.com` | ¥0.36 | $0.24 | 1.5 | claude-code | qwen-image-edit-2509 |
+| 24 | `ai.lgdfort.com` | ¥0.39 | $0.39 | 1 | default | Qwen/Qwen-Image-Edit |
+| 25 | `www.hohoapi.com` | ¥0.702 | $0.234 | 3 | default | qwen-image-edit |
+| 26 | `apicdn.xyc.ai` | ¥0.7066 | $0.1024 | 6.9 | xycnsfw | qwen-image-edit |
+| 27 | `apicdn.xycai.us` | ¥0.7066 | $0.1024 | 6.9 | xycnsfw | qwen-image-edit |
+| 28 | `hy88.my` | ¥0.876 | $0.12 | 7.3 | qwen | qwen-image-edit |
+| 29 | `na.wanxiaot.com` | ¥1.55 | $1.55 | 1 | default | MusePublic/Qwen-Image-Edit |
+| 30 | `naapi.cc` | ¥1.55 | $1.55 | 1 | default | MusePublic/Qwen-Image-Edit |
+| 31 | `ai.191800.xyz` | ¥7.3 | $1 | 7.3 | 魔搭 | MusePublic/Qwen-Image-Edit |
+| 32 | `api.ai-gaochao.cn` | ¥10.95 | $1.5 | 7.3 | Premium | qwen-image-edit |
+| 33 | `apius.shubiaobiao.cn` | ¥10.95 | $1.5 | 7.3 | Premium | qwen-image-edit |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -102,4 +101,4 @@
 
 > 另有 2 站未列出。
 
-> 17 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 16 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

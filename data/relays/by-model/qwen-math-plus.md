@@ -1,6 +1,6 @@
 # qwen-math-plus
 
-> 39 站提供 · 正常价 25 站 · 名义中位价 **$2.00004**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（25 站公开充值价） · 推算，未对账
+> 37 站提供 · 正常价 23 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥3.2**/1M 输入（23 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,7 +20,7 @@
 | 8 | `platform.anyrouter.ai` | ¥1.714 | $1.71432 / $1.71432 | 1 | official_cn | qwen-math-plus-latest |
 | 9 | `magic666.top` | ¥2 | $2.00004 / $2.00004 | 1 | 国产模型 | qwen-math-plus |
 | 10 | `kfcv50.link` | ¥2.857 | $2.8572 / $2.8572 | 1 | Domestic | qwen-math-plus-latest |
-| 11 | `mb.dmxapi.cn` | ¥3 | $0.6 / $0.522 | 5 | default | qwen-math-plus |
+| 11 | `mb.dmxapi.cn` | ¥3 | $0.6 / $0.522 | 5 | vip | qwen-math-plus |
 | 12 | `gpt777.top` | ¥3.2 | $3.2 / $9.6 | 1 | opensource | qwen-math-plus |
 | 13 | `poloai.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen千问 | qwen-math-plus |
 | 14 | `poloapi.top` | ¥3.2 | $3.2 / $9.6 | 1 | qwen千问 | qwen-math-plus |
@@ -29,11 +29,9 @@
 | 17 | `cn.gptapi.asia` | ¥4.06 | $4.06 / $12.18 | 1 | enterprise | qwen-math-plus |
 | 18 | `yutoapi.com` | ¥4.06 | $4.06 / $12.18 | 1 | enterprise | qwen-math-plus |
 | 19 | `www.hohoapi.com` | ¥6.24 | $2.08 / $6.24 | 3 | qwen | qwen-math-plus |
-| 20 | `cc.zhihuiapi.top` | ¥6.4 | $6.4 / $19.2 | 1 | qwen | qwen-math-plus |
-| 21 | `cn.zhihuiai.top` | ¥6.4 | $6.4 / $19.2 | 1 | qwen | qwen-math-plus |
-| 22 | `hy88.my` | ¥12.51 | $1.71432 / $17.1432 | 7.3 | qwen | qwen-math-plus-latest |
-| 23 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-math-plus |
-| 24 | `wrduai.com` | ¥14.6 | $2 / $6 | 7.3 | 官转 | qwen-math-plus |
-| 25 | `codeyy.top` | ¥29.2 | $4 / $12 | 7.3 | default | qwen-math-plus |
+| 20 | `hy88.my` | ¥12.51 | $1.71432 / $17.1432 | 7.3 | qwen | qwen-math-plus-latest |
+| 21 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-math-plus |
+| 22 | `wrduai.com` | ¥14.6 | $2 / $6 | 7.3 | 官转 | qwen-math-plus |
+| 23 | `codeyy.top` | ¥29.2 | $4 / $12 | 7.3 | default | qwen-math-plus |
 
 > 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # gpt-image-2.5-flare
 
-> 1377 站提供 · 正常价 762 站 · 名义中位价 **$0.081825**/次 · 实付中位价 **¥0.1**/次（603 站公开充值价） · 推算，未对账
+> 1386 站提供 · 正常价 771 站 · 名义中位价 **$0.08**/次 · 实付中位价 **¥0.1**/次（611 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -23,7 +23,7 @@
 | 11 | `ai.zyyun.xyz` | ¥0.01 | $0.01 | 1 | GPT-Image-1K | gpt-image-2.5-flare |
 | 12 | `ainzy.net` | ¥0.01 | $0.01 | 1 | image | gpt-image-2.5-flare |
 | 13 | `api.klong.lat` | ¥0.01 | $0.01 | 1 | gpt-image | gpt-image-2.5-flare |
-| 14 | `api.novaeworld.top` | ¥0.01 | $0.01 | 1 | vip | gpt-image-2.5-flare |
+| 14 | `api.novaeworld.top` | ¥0.01 | $0.01 | 1 | 1-图片视频 | gpt-image-2.5-flare |
 | 15 | `api.tokenfreeperday.com` | ¥0.01 | $0.01 | 1 | ALL | gpt-image-2.5-flare |
 | 16 | `direct-api.cangyuansuanli.cn` | ¥0.01 | $0.01 | 1 | IMAGE | gpt-image-2.5-flare |
 | 17 | `openkun.xyz` | ¥0.01 | $0.01 | 1 | Image生图 | gpt-image-2.5-flare |
@@ -33,15 +33,15 @@
 | 21 | `api.rinko.ai` | ¥0.012 | $0.012 | 1 | GPTIMAGE超低价1K | gpt-image-2.5-flare |
 | 22 | `buliangrenai.com` | ¥0.012 | $0.012 | 1 | image-standard | gpt-image-2.5-flare |
 | 23 | `lsapi.cloud` | ¥0.012 | $0.012 | 1 | 超分2.5 | gpt-image-2.5-flare |
-| 24 | `nikoapi.xyz` | ¥0.012 | $0.012 | 1 | 生图专用 | gpt-image-2.5-flare |
+| 24 | `www.shenlanqaq.com` | ¥0.012 | $0.012 | 1 | gpt | gpt-image-2.5-flare |
 | 25 | `meinianda.top` | ¥0.0125 | $0.0125 | 1 | image2超分 | gpt-image-2.5-flare |
-| 26 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2.5-flare-1k |
-| 27 | `www.shenlanqaq.com` | ¥0.014 | $0.014 | 1 | 新渠道不降智 | gpt-image-2.5-flare |
-| 28 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2.5-flare |
-| 29 | `api.foo` | ¥0.015 | $0.015 | 1 | gpt-image-2 \| 2.5 \| 2.6【生图】 | gpt-image-2.5-flare |
-| 30 | `api.jinkundong.store` | ¥0.015 | $0.015 | 1 | gpt-image-2低价分组 | gpt-image-2.5-flare |
-| 31 | `api.llmgw.xyz` | ¥0.015 | $0.015 | 1 | 超分生图-image-2 | gpt-image-2.5-flare |
-| 32 | `api.xiaoyaoxx.cn` | ¥0.015 | $0.015 | 1 | 生图-gpt-web逆向-超分 | gpt-image-2.5-flare |
+| 26 | `www.kamiapi.top` | ¥0.013 | $0.013 | 1 | GPT Standard 标准号池 | gpt-image-2.5-flare |
+| 27 | `api.unorouter.com` | ¥0.014 | $0.014 | 1 | pol-3-gpt-image-2.5-flare | gpt-image-2.5-flare |
+| 28 | `g-aisc.xyz` | ¥0.014 | $0.014 | 1 | web逆向 | gpt-image-2.5-flare-1k |
+| 29 | `api.ciyuanshen.top` | ¥0.015 | $0.015 | 1 | 生图 | gpt-image-2.5-flare |
+| 30 | `api.foo` | ¥0.015 | $0.015 | 1 | gpt-image-2 \| 2.5 \| 2.6【生图】 | gpt-image-2.5-flare |
+| 31 | `api.jinkundong.store` | ¥0.015 | $0.015 | 1 | gpt-image-2低价分组 | gpt-image-2.5-flare |
+| 32 | `api.llmgw.xyz` | ¥0.015 | $0.015 | 1 | 超分生图-image-2 | gpt-image-2.5-flare |
 | 33 | `vakv.cn` | ¥0.015 | $0.015 | 1 | 生图专用 | gpt-image-2.5-flare |
 | 34 | `api.thqllm.com` | ¥0.0182 | $0.0182 | 1 | 图片模型 | gpt-image-2.5-flare-1k |
 | 35 | `aceoai.com` | ¥0.019 | $0.019 | 1 | gpt-img专用 | gpt-image-2.5-flare |
@@ -51,73 +51,73 @@
 | 39 | `aizzz.shop` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-flare |
 | 40 | `api-models.com` | ¥0.02 | $0.02 | 1 | Image | gpt-image-2.5-flare |
 | 41 | `api.0elog.com` | ¥0.02 | $0.02 | 1 | GPT生图 | gpt-image-2.5-flare |
-| 42 | `api.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | 默认 | gpt-image-2.5-flare |
+| 42 | `api.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | 1.2-图片生成 | gpt-image-2.5-flare |
 | 43 | `api.eido.top` | ¥0.02 | $0.02 | 1 | default | gpt-image-2.5-flare |
 | 44 | `api.kkrich.ltd` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-flare |
 | 45 | `api.mxwell.ai` | ¥0.02 | $0.02 | 1 | 生图 GPT-image | gpt-image-2.5-flare |
 | 46 | `api.rua.chat` | ¥0.02 | $0.02 | 1 | 生图 | gpt-image-2.5-flare |
-| 47 | `api.ywcode.top` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-flare |
-| 48 | `api.zzswitch.com` | ¥0.02 | $0.02 | 1 | gpt生图 | gpt-image-2.5-flare |
-| 49 | `api2.yoshub.com` | ¥0.02 | $0.02 | 1 | 生图/视频专用 | gpt-image-2.5-flare |
-| 50 | `api9.bjhuiqu.net` | ¥0.02 | $0.02 | 1 | 1-图片+视频 | gpt-image-2.5-flare |
+| 47 | `api.xctokens.com` | ¥0.02 | $0.02 | 1 | 低价生图【稳定快速】 | gpt-image-2.5-flare-1k |
+| 48 | `api.ywcode.top` | ¥0.02 | $0.02 | 1 | image | gpt-image-2.5-flare |
+| 49 | `api.zzswitch.com` | ¥0.02 | $0.02 | 1 | gpt生图 | gpt-image-2.5-flare |
+| 50 | `api2.yoshub.com` | ¥0.02 | $0.02 | 1 | 生图/视频专用 | gpt-image-2.5-flare |
 
-> 另有 553 站未列出。
+> 另有 561 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `new.984275579.xyz` | $0.004 | GPT 纯Pro20x(降智) | 0.08 | gpt-image-2.5-flare |
-| 2 | `www.starapi.cc` | $0.00425 | OpenAI Neo | 0.05 | gpt-image-2.5-flare |
-| 3 | `api.999555999.com` | $0.005 | gpt-绘画 | 1 | gpt-image-2.5-flare |
-| 4 | `yzstudio.vip` | $0.005 | 生图分组 | 0.1 | gpt-image-2.5-flare |
-| 5 | `api.hud.im` | $0.01 | 【生图】gpt-image-0.01 | 1 | gpt-image-2.5-flare |
-| 6 | `emooo.cc` | $0.01 | 【图片模型】GPT Image 2 / 2.5 · 1K | 1 | gpt-image-2.5-flare |
-| 7 | `mzeapi.top` | $0.01 | 【图】Gpt-Image | 1 | gpt-image-2.5-flare |
-| 8 | `nb.deepsb.com` | $0.01 | gpt-image超分生图-全尺寸 | 0.01 | gpt-image-2.5-flare |
-| 9 | `yyds.chybenzun.top` | $0.01 | 【GPT 网页端 逆向生图】Image 2.0/2.5 · 1K 对接专用 | 1 | gpt-image-2.5-flare |
-| 10 | `2api.app` | $0.010609 | 生图分组（稳定版） | 1.03 | gpt-image-2.5-flare |
-| 11 | `luckyapi.online` | $0.012 | LuckyAPI | 0.8 | gpt-image-2.5-flare |
-| 12 | `www.97api.com` | $0.012 | 廉价生图分组 | 1 | gpt-image-2.5-flare |
-| 13 | `api.apikl.ai` | $0.015 | gpt-image-2 \| 2.5 \| 2.6【生图】 | 1 | gpt-image-2.5-flare |
-| 14 | `apiai.fun` | $0.015 | gpt-image-2 \| 2.5 \| 2.6【生图】 | 1 | gpt-image-2.5-flare |
-| 15 | `momoapi.cn` | $0.015 | OpenAI Plus | 0.15 | gpt-image-2.5-flare |
-| 16 | `wawazz.xyz` | $0.015 | 生图专用分组-反代 | 0.1 | gpt-image-2.5-flare |
-| 17 | `xinyue.mom` | $0.015 | 生图【GPT】 | 1 | gpt-image-2.5-flare |
-| 18 | `aigw.store` | $0.016 | GPT 【原生生图】 | 0.08 | gpt-image-2.5-flare |
-| 19 | `aixhub.shop` | $0.0198 | GPT IMAGE-2 生图 1k图0.045 2k图0.075 4k图0.15 | 0.22 | gpt-image-2.5-flare |
-| 20 | `aiapihub.cc` | $0.02 | 图片 2分/张 | 1 | gpt-image-2.5-flare |
-| 21 | `api.aixhub.vip` | $0.02 | 图片 2分/张 | 1 | gpt-image-2.5-flare |
-| 22 | `api.hyhawang.com` | $0.02 | gpt-image 低价 | 1 | gpt-image-2.5-flare |
-| 23 | `kakouai.com` | $0.02 | 国模-标准版-官方 2 折（已支持DeepSeek-1017、GLM 高速连接-性价比首选） | 0.2 | gpt-image-2.5-flare |
-| 24 | `kktyh.com` | $0.02 | ChatGPT 生图 1K 2K 4K 超分通道 企业级高并发通道 | 1 | gpt-image-2.5-flare |
-| 25 | `worldcodes.online` | $0.02 | 生图专用 | 1 | gpt-image-2.5-flare |
-| 26 | `www.qianweikeji.fun` | $0.02 | gpt-image 低价 | 1 | gpt-image-2.5-flare |
-| 27 | `mfttai.com` | $0.024 | GPT | 0.3 | gpt-image-2.5-flare |
-| 28 | `api.lumenai.cc` | $0.025 | 生图专用 (1k 2k 4k 超分) | 0.025 | gpt-image-2.5-flare |
-| 29 | `api.dreamaitoken.cloud` | $0.03 | 生图（超分） | 1 | gpt-image-2.5-flare |
-| 30 | `api.jiguang.me` | $0.03 | 高性价比-生图 | 1 | gpt-image-2.5-flare |
-| 31 | `api.relaylink.cloud` | $0.03 | image | 1 | gpt-image-2.5-flare |
-| 32 | `api.wopally.cn` | $0.03 | GPT 生图｜1x | 1 | gpt-image-2.5-flare |
-| 33 | `salcara.top` | $0.03 | 生图image | 1 | gpt-image-2.5-flare |
-| 34 | `www.jiguang.me` | $0.03 | 生图模型 | 1 | gpt-image-2.5-flare |
-| 35 | `www.kk-vibe.top` | $0.03 | 无限画布 -- gpt 1K 模型 | 1 | gpt-image-2.5-flare |
-| 36 | `www.yydsapi.uno` | $0.03 | GPT生图【超分】 | 1 | gpt-image-2.5-flare |
-| 37 | `yesapi.online` | $0.03 | 生图Image | 1 | gpt-image-2.5-flare |
-| 38 | `zcbbzzz.online` | $0.03 | GTP 生图专用 | 1 | gpt-image-2.5-flare |
-| 39 | `mofa.love.gd` | $0.03015 | GPT-不降智 | 0.15 | gpt-image-2.5-flare |
-| 40 | `quick-pivot.com` | $0.0375 | OpenAI | 0.15 | gpt-image-2.5-flare |
-| 41 | `api-hub.asia` | $0.04 | 生图-超分 | 1 | gpt-image-2.5-flare |
-| 42 | `api.20020723.xyz` | $0.04 | 图像生成分组 | 1 | gpt-image-2.5-flare |
-| 43 | `code.aicodeme.cn` | $0.04 | 生图分组-4分一张 | 1 | gpt-image-2.5-flare |
+| 1 | `www.starapi.cc` | $0.00425 | OpenAI Neo | 0.05 | gpt-image-2.5-flare |
+| 2 | `api.999555999.com` | $0.005 | gpt-绘画 | 1 | gpt-image-2.5-flare |
+| 3 | `api.heartyuan.com` | $0.008 | GPT-Image | 0.1 | gpt-image-2.5-flare |
+| 4 | `api.hud.im` | $0.01 | 【生图】gpt-image-0.01 | 1 | gpt-image-2.5-flare |
+| 5 | `emooo.cc` | $0.01 | 【图片模型】GPT Image 2 / 2.5 · 1K | 1 | gpt-image-2.5-flare |
+| 6 | `mzeapi.top` | $0.01 | 【图】Gpt-Image | 1 | gpt-image-2.5-flare |
+| 7 | `nb.deepsb.com` | $0.01 | gpt-image超分生图-全尺寸 | 0.01 | gpt-image-2.5-flare |
+| 8 | `new.984275579.xyz` | $0.01 | image生图超分 4K | 1 | gpt-image-2.5-flare |
+| 9 | `xinyue.mom` | $0.01 | 生图【GPT】 | 1 | gpt-image-2.5-flare |
+| 10 | `yyds.chybenzun.top` | $0.01 | 【GPT 网页端 逆向生图】Image 2.0/2.5 · 1K 对接专用 | 1 | gpt-image-2.5-flare |
+| 11 | `2api.app` | $0.010609 | 生图分组（稳定版） | 1.03 | gpt-image-2.5-flare |
+| 12 | `luckyapi.online` | $0.012 | LuckyAPI | 0.8 | gpt-image-2.5-flare |
+| 13 | `www.97api.com` | $0.012 | 廉价生图分组 | 1 | gpt-image-2.5-flare |
+| 14 | `api.apiz.vn` | $0.0144231 | GPT | 0.062 | gpt-image-2.5-flare |
+| 15 | `api.apikl.ai` | $0.015 | gpt-image-2 \| 2.5 \| 2.6【生图】 | 1 | gpt-image-2.5-flare |
+| 16 | `apiai.fun` | $0.015 | gpt-image-2 \| 2.5 \| 2.6【生图】 | 1 | gpt-image-2.5-flare |
+| 17 | `momoapi.cn` | $0.015 | OpenAI Plus | 0.15 | gpt-image-2.5-flare |
+| 18 | `wawazz.xyz` | $0.015 | 生图专用分组-反代 | 0.1 | gpt-image-2.5-flare |
+| 19 | `aigw.store` | $0.016 | GPT 【原生生图】 | 0.08 | gpt-image-2.5-flare |
+| 20 | `aixhub.shop` | $0.0198 | GPT IMAGE-2 生图 1k图0.045 2k图0.075 4k图0.15 | 0.22 | gpt-image-2.5-flare |
+| 21 | `aiapihub.cc` | $0.02 | 图片 2分/张 | 1 | gpt-image-2.5-flare |
+| 22 | `api.aixhub.vip` | $0.02 | 图片 2分/张 | 1 | gpt-image-2.5-flare |
+| 23 | `api.hyhawang.com` | $0.02 | gpt-image 低价 | 1 | gpt-image-2.5-flare |
+| 24 | `kakouai.com` | $0.02 | 国模-标准版-官方 2 折（已支持DeepSeek-1017、GLM 高速连接-性价比首选） | 0.2 | gpt-image-2.5-flare |
+| 25 | `kktyh.com` | $0.02 | ChatGPT 生图 1K 2K 4K 超分通道 企业级高并发通道 | 1 | gpt-image-2.5-flare |
+| 26 | `worldcodes.online` | $0.02 | 生图专用 | 1 | gpt-image-2.5-flare |
+| 27 | `www.qianweikeji.fun` | $0.02 | gpt-image 低价 | 1 | gpt-image-2.5-flare |
+| 28 | `mfttai.com` | $0.024 | GPT | 0.3 | gpt-image-2.5-flare |
+| 29 | `api.lumenai.cc` | $0.025 | 生图专用 (1k 2k 4k 超分) | 0.025 | gpt-image-2.5-flare |
+| 30 | `www.shitapi.cn` | $0.028 | GPT-PLUS[0.05~0.15动态调整] | 0.07 | gpt-image-2.5-flare |
+| 31 | `api.dreamaitoken.cloud` | $0.03 | 生图（超分） | 1 | gpt-image-2.5-flare |
+| 32 | `api.jiguang.me` | $0.03 | 高性价比-生图 | 1 | gpt-image-2.5-flare |
+| 33 | `api.relaylink.cloud` | $0.03 | image | 1 | gpt-image-2.5-flare |
+| 34 | `api.wopally.cn` | $0.03 | GPT 生图｜1x | 1 | gpt-image-2.5-flare |
+| 35 | `salcara.top` | $0.03 | 生图image | 1 | gpt-image-2.5-flare |
+| 36 | `www.kk-vibe.top` | $0.03 | 无限画布 -- gpt 1K 模型 | 1 | gpt-image-2.5-flare |
+| 37 | `www.yydsapi.uno` | $0.03 | GPT生图【超分】 | 1 | gpt-image-2.5-flare |
+| 38 | `yesapi.online` | $0.03 | 生图Image | 1 | gpt-image-2.5-flare |
+| 39 | `zcbbzzz.online` | $0.03 | GTP 生图专用 | 1 | gpt-image-2.5-flare |
+| 40 | `mofa.love.gd` | $0.03015 | GPT-不降智 | 0.15 | gpt-image-2.5-flare |
+| 41 | `quick-pivot.com` | $0.0375 | OpenAI | 0.15 | gpt-image-2.5-flare |
+| 42 | `api-hub.asia` | $0.04 | 生图-超分 | 1 | gpt-image-2.5-flare |
+| 43 | `api.20020723.xyz` | $0.04 | 图像生成分组 | 1 | gpt-image-2.5-flare |
 | 44 | `nextpro.top` | $0.04 | GPT IMAGE（逆向超分） | 1 | gpt-image-2.5-flare |
 | 45 | `api.linkcode.site` | $0.0402 | GPT-生图专用分组 | 0.3 | gpt-image-2.5-flare |
-| 46 | `www.shitapi.cn` | $0.048 | GPT-PLUS[0.05~0.15动态调整] | 0.12 | gpt-image-2.5-flare |
+| 46 | `code.aicodeme.cn` | $0.0404 | 生图分组-4分一张 | 1.01 | gpt-image-2.5-flare |
 | 47 | `88token.net` | $0.05 | T001 image2.5 超分《生图》 | 1 | gpt-image-2.5-flare |
 | 48 | `aistudio.heigh.vip` | $0.05 | default | 1 | gpt-image-2.5-flare |
 | 49 | `api.cnvip.com.cn` | $0.05 | GPT原生逆向生图+香蕉 | 1 | gpt-image-2.5-flare |
 | 50 | `api.nornless.com` | $0.05 | ChatGPT-生图（超分4k）优先使用此分组 | 1 | gpt-image-2.5-flare |
 
-> 另有 109 站未列出。
+> 另有 110 站未列出。
 
 > 615 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

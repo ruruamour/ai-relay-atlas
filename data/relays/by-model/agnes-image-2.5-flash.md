@@ -1,6 +1,6 @@
 # agnes-image-2.5-flash
 
-> 23 站提供 · 正常价 10 站 · 名义中位价 **$0.022**/次 · 实付中位价 **¥0.0976**/次（8 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 9 站 · 名义中位价 **$0.024**/次 · 实付中位价 **¥0.1752**/次（7 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,14 +10,13 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `ai.lgdfort.com` | ¥0.0026 | $0.0026 | 1 | default | agnes-image-2.5-flash |
-| 2 | `api3.kscsnkli.site` | ¥0.008 | $0.008 | 1 | 生图 | agnes-image-2.5-flash |
-| 3 | `fluxa.camila.qzz.io` | ¥0.01854 | $0.018 | 1.03 | 生图 | agnes-image-2.5-flash |
-| 4 | `3seeker.site` | ¥0.02 | $0.02 | 1 | 勿用调试 | agnes-image-2.5-flash |
-| 5 | `api.pie-xian.com` | ¥0.1752 | $0.024 | 7.3 | model | agnes-image-2.5-flash |
-| 6 | `ku-ai.one` | ¥1.46 | $0.2 | 7.3 | agnes | agnes-image-2.5-flash |
-| 7 | `kuai-ai.vip` | ¥1.46 | $0.2 | 7.3 | agnes | agnes-image-2.5-flash |
-| 8 | `ai.chuyel.top` | ¥7.3 | $1 | 7.3 | 小叶币 | agnes-image-2.5-flash |
+| 1 | `api3.kscsnkli.site` | ¥0.008 | $0.008 | 1 | 生图 | agnes-image-2.5-flash |
+| 2 | `fluxa.camila.qzz.io` | ¥0.01854 | $0.018 | 1.03 | 生图 | agnes-image-2.5-flash |
+| 3 | `3seeker.site` | ¥0.02 | $0.02 | 1 | 勿用调试 | agnes-image-2.5-flash |
+| 4 | `api.pie-xian.com` | ¥0.1752 | $0.024 | 7.3 | model | agnes-image-2.5-flash |
+| 5 | `ku-ai.one` | ¥1.46 | $0.2 | 7.3 | agnes | agnes-image-2.5-flash |
+| 6 | `kuai-ai.vip` | ¥1.46 | $0.2 | 7.3 | agnes | agnes-image-2.5-flash |
+| 7 | `ai.chuyel.top` | ¥7.3 | $1 | 7.3 | 小叶币 | agnes-image-2.5-flash |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -26,4 +25,4 @@
 | 1 | `api.asdfas.party` | $0.0015 | 生图-0.05-0.08/张-不能聊天（grok、GPT、Agnes生图） | 0.05 | agnes-image-2.5-flash |
 | 2 | `6661886.xyz` | $0.1 | default | 1 | agnes-image-2.5-flash |
 
-> 13 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 14 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwen3-coder-plus
 
-> 139 站提供 · 正常价 56 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥7.3**/1M 输入（53 站公开充值价） · 推算，未对账
+> 136 站提供 · 正常价 54 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥6.685**/1M 输入（51 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -40,28 +40,28 @@
 | 28 | `poloai.top` | ¥8 | $8 / $32 | 1 | qwen千问 | qwen3-coder-plus |
 | 29 | `poloapi.top` | ¥8 | $8 / $32 | 1 | qwen千问 | qwen3-coder-plus |
 | 30 | `ai2.qiqiai.top` | ¥8.541 | $1.17 / $5.85 | 7.3 | 官方合作渠道 | qwen/qwen3-coder-plus |
-| 31 | `tokensmind.ai` | ¥10.44 | $1.43 / $5.72 | 7.3 | default | qwen3-coder-plus |
-| 32 | `ai.nodeloc.com` | ¥10.64 | $1.4572 / $5.8288 | 7.3 | default | qwen3-coder-plus |
-| 33 | `rockapi.ai` | ¥14 | $14 / $140 | 1 | 0.7x | qwen3-coder-plus |
-| 34 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-coder-plus |
-| 35 | `cc.zhihuiapi.top` | ¥16 | $16 / $64 | 1 | qwen | qwen3-coder-plus |
-| 36 | `cn.zhihuiai.top` | ¥16 | $16 / $64 | 1 | qwen | qwen3-coder-plus |
-| 37 | `gpt777.top` | ¥16 | $16 / $160 | 1 | opensource | qwen3-coder-plus |
-| 38 | `api.qinzhiai.com` | ¥16.61 | $2.275 / $11.375 | 7.3 | openrouter | qwen/qwen3-coder-plus |
-| 39 | `dapicloud.com` | ¥16.8 | $16.8 / $168 | 1 | 国产模型 | qwen3-coder-plus |
-| 40 | `api.ipest.ai` | ¥16.94 | $2.32 / $9.28813 | 7.3 | cn_model_default | qwen3-coder-plus |
-| 41 | `ai.tiantoken.com` | ¥18.98 | $2.6 / $10.4 | 7.3 | 鹏宇国内模型1 | qwen3-coder-plus |
-| 42 | `api.aiskt.com` | ¥20 | $20 / $200 | 1 | default | qwen3-coder-plus |
-| 43 | `api.hopeai.cc` | ¥20 | $20 / $20 | 1 | default | qwen3-coder-plus-2025-07-22 |
-| 44 | `feiniu-ai.xyz` | ¥20 | $20 / $200 | 1 | default | qwen3-coder-plus |
-| 45 | `kfcv50.link` | ¥20 | $20 / $200 | 1 | Domestic | qwen3-coder-plus |
-| 46 | `n.lconai.com` | ¥20 | $20 / $200 | 1 | A2 | qwen3-coder-plus |
-| 47 | `www.dayueai.fun` | ¥20 | $20 / $200 | 1 | vip | qwen3-coder-plus |
-| 48 | `apiai.shop` | ¥24 | $20 / $200 | 1.2 | default | qwen3-coder-plus |
-| 49 | `hy88.my` | ¥26.28 | $3.6 / $14.4 | 7.3 | qwen | qwen3-coder-plus |
-| 50 | `codeyy.top` | ¥29.2 | $4 / $16 | 7.3 | default | qwen3-coder-plus |
+| 31 | `apijing.com` | ¥9 | $9 / $9 | 1 | claudecode满级缓存过检测专属 | qwen3-coder-plus |
+| 32 | `tokensmind.ai` | ¥10.44 | $1.43 / $5.72 | 7.3 | default | qwen3-coder-plus |
+| 33 | `ai.nodeloc.com` | ¥10.64 | $1.4572 / $5.8288 | 7.3 | default | qwen3-coder-plus |
+| 34 | `rockapi.ai` | ¥14 | $14 / $140 | 1 | 0.7x | qwen3-coder-plus |
+| 35 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen3-coder-plus |
+| 36 | `gpt777.top` | ¥16 | $16 / $160 | 1 | opensource | qwen3-coder-plus |
+| 37 | `api.qinzhiai.com` | ¥16.61 | $2.275 / $11.375 | 7.3 | openrouter | qwen/qwen3-coder-plus |
+| 38 | `dapicloud.com` | ¥16.8 | $16.8 / $168 | 1 | 国产模型 | qwen3-coder-plus |
+| 39 | `ai.tiantoken.com` | ¥18.98 | $2.6 / $10.4 | 7.3 | 鹏宇国内模型1 | qwen3-coder-plus |
+| 40 | `api.aiskt.com` | ¥20 | $20 / $200 | 1 | default | qwen3-coder-plus |
+| 41 | `api.hopeai.cc` | ¥20 | $20 / $20 | 1 | default | qwen3-coder-plus-2025-07-22 |
+| 42 | `feiniu-ai.xyz` | ¥20 | $20 / $200 | 1 | default | qwen3-coder-plus |
+| 43 | `kfcv50.link` | ¥20 | $20 / $200 | 1 | Domestic | qwen3-coder-plus |
+| 44 | `n.lconai.com` | ¥20 | $20 / $200 | 1 | A2 | qwen3-coder-plus |
+| 45 | `www.dayueai.fun` | ¥20 | $20 / $200 | 1 | vip | qwen3-coder-plus |
+| 46 | `apiai.shop` | ¥24 | $20 / $200 | 1.2 | default | qwen3-coder-plus |
+| 47 | `hy88.my` | ¥26.28 | $3.6 / $14.4 | 7.3 | qwen | qwen3-coder-plus |
+| 48 | `codeyy.top` | ¥29.2 | $4 / $16 | 7.3 | default | qwen3-coder-plus |
+| 49 | `one.zhihuiapi.top` | ¥43.8 | $6 / $24 | 7.3 | qwen3 | qwen3-coder-plus-2025-07-22 |
+| 50 | `cn.gptapi.asia` | ¥140 | $140 / $1400 | 1 | enterprise | qwen3-coder-plus |
 
-> 另有 3 站未列出。
+> 另有 1 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -71,4 +71,4 @@
 | 2 | `happyapi.org` | $1.4572 / $5.8288 | default | 1 | qwen3-coder-plus |
 | 3 | `api.zhiyikeji.cn` | $4 / $16 | default | 1 | qwen3-coder-plus |
 
-> 83 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 82 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

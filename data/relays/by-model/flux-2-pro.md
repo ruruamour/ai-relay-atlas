@@ -25,7 +25,7 @@
 | 13 | `api.apiyi.com` | ¥0.21 | $0.03 | 7 | default | flux-2-pro |
 | 14 | `api.laozhang.ai` | ¥0.21 | $0.03 | 7 | default | flux-2-pro |
 | 15 | `www.hohoapi.com` | ¥0.225 | $0.075 | 3 | image | flux-2-pro |
-| 16 | `synthapi.asia` | ¥0.3022 | $0.0414 | 7.3 | 图像模型聚合(可自定义图像参数) | flux-2-pro |
+| 16 | `synthapi.asia` | ¥0.3022 | $0.0414 | 7.3 | 视频模型聚合 | flux-2-pro |
 | 17 | `tokenflux.ai` | ¥0.315 | $0.045 | 7 | default | image/black-forest-labs/flux-2-pro |
 | 18 | `api.chatshare.one` | ¥0.3285 | $0.045 | 7.3 | default | flux-2-pro |
 | 19 | `api.tiantoken.com` | ¥0.3285 | $0.045 | 7.3 | default | flux-2-pro |

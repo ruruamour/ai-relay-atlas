@@ -1,6 +1,6 @@
 # qwen3.5-flash
 
-> 189 站提供 · 正常价 142 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.62**/1M 输入（88 站公开充值价） · 推算，未对账
+> 186 站提供 · 正常价 138 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.584**/1M 输入（85 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,17 +11,17 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.aliyunfuwu.top` | ¥0.05 | $0.05 / $0.15 | 1 | relay | qwen3.5-flash |
-| 2 | `xiaoqie.xyz` | ¥0.065 | $0.065 / $0.26 | 1 | OpenRouter官方线路 | qwen/qwen3.5-flash-02-23 |
-| 3 | `api.zyai.online` | ¥0.1 | $0.1 / $1 | 1 | mini | qwen3.5-flash |
-| 4 | `newapi.prorisehub.com` | ¥0.1 | $0.1 / $1 | 1 | 海外国产编程模 | qwen3.5-flash |
-| 5 | `slb-v1.api.fan` | ¥0.1 | $0.1 / $1 | 1 | bailian | qwen3.5-flash |
-| 6 | `www.packyapi.com` | ¥0.1 | $0.1 / $1 | 1 | bailian | qwen3.5-flash |
-| 7 | `www.wanmoapi.com` | ¥0.1 | $0.1 / $1 | 1 | bailian | qwen3.5-flash |
-| 8 | `api.chatfire.cn` | ¥0.12 | $0.12 / $0.48 | 1 | alibailian | qwen3.5-flash |
-| 9 | `fishxcode.com` | ¥0.12 | $0.12 / $0.12 | 1 | china | qwen3.5-flash |
-| 10 | `goapi.gptnb.ai` | ¥0.12 | $0.12 / $1.2 | 1 | cn_official | qwen3.5-flash |
-| 11 | `rockapi.ai` | ¥0.1204 | $0.1204 / $1.204 | 1 | 0.7x | qwen3.5-flash |
-| 12 | `api.ipest.ai` | ¥0.1228 | $0.01682 / $0.1653 | 7.3 | cn_model_default | qwen3.5-flash |
+| 2 | `apijing.com` | ¥0.065 | $0.065 / $0.26 | 1 | default | qwen/qwen3.5-flash-02-23 |
+| 3 | `xiaoqie.xyz` | ¥0.065 | $0.065 / $0.26 | 1 | OpenRouter官方线路 | qwen/qwen3.5-flash-02-23 |
+| 4 | `api.zyai.online` | ¥0.1 | $0.1 / $1 | 1 | mini | qwen3.5-flash |
+| 5 | `newapi.prorisehub.com` | ¥0.1 | $0.1 / $1 | 1 | 海外国产编程模 | qwen3.5-flash |
+| 6 | `slb-v1.api.fan` | ¥0.1 | $0.1 / $1 | 1 | bailian | qwen3.5-flash |
+| 7 | `www.packyapi.com` | ¥0.1 | $0.1 / $1 | 1 | bailian | qwen3.5-flash |
+| 8 | `www.wanmoapi.com` | ¥0.1 | $0.1 / $1 | 1 | bailian | qwen3.5-flash |
+| 9 | `api.chatfire.cn` | ¥0.12 | $0.12 / $0.48 | 1 | alibailian | qwen3.5-flash |
+| 10 | `fishxcode.com` | ¥0.12 | $0.12 / $0.12 | 1 | china | qwen3.5-flash |
+| 11 | `goapi.gptnb.ai` | ¥0.12 | $0.12 / $1.2 | 1 | cn_official | qwen3.5-flash |
+| 12 | `rockapi.ai` | ¥0.1204 | $0.1204 / $1.204 | 1 | 0.7x | qwen3.5-flash |
 | 13 | `runapi.co` | ¥0.1543 | $0.022856 / $0.22856 | 6.75 | default | qwen3.5-flash |
 | 14 | `147ai.com` | ¥0.16 | $0.16 / $1.6 | 1 | qwen | qwen3.5-flash |
 | 15 | `api.147ai.cn` | ¥0.16 | $0.16 / $1.6 | 1 | qwen | qwen3.5-flash |
@@ -53,15 +53,15 @@
 | 41 | `magic666.top` | ¥0.56 | $0.56 / $5.6 | 1 | 国产模型 | qwen3.5-flash |
 | 42 | `ccoo.ai` | ¥0.578 | $0.085 / $0.34 | 6.8 | Alibaba cloud 官方 | qwen3.5-flash |
 | 43 | `maisi-ai.com` | ¥0.584 | $0.08 / $0.4 | 7.3 | 国模分组 | qwen3.5-flash |
-| 44 | `open.xiaojingai.com` | ¥0.6 | $0.6 / $6 | 1 | Ali | qwen3.5-flash |
-| 45 | `poloai.top` | ¥0.64 | $0.64 / $6.4 | 1 | qwen千问 | qwen3.5-flash |
-| 46 | `poloapi.top` | ¥0.64 | $0.64 / $6.4 | 1 | qwen千问 | qwen3.5-flash |
-| 47 | `xinglianapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | qwen | qwen3.5-flash |
-| 48 | `ai.tiantoken.com` | ¥0.73 | $0.1 / $1 | 7.3 | 鹏宇默认 | qwen3.5-flash |
-| 49 | `api.ai-gaochao.cn` | ¥0.73 | $0.1 / $1 | 7.3 | guo_chan | qwen3.5-flash |
-| 50 | `api.orcarouter.ai` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | qwen/qwen3.5-flash |
+| 44 | `poloai.top` | ¥0.64 | $0.64 / $6.4 | 1 | qwen千问 | qwen3.5-flash |
+| 45 | `poloapi.top` | ¥0.64 | $0.64 / $6.4 | 1 | qwen千问 | qwen3.5-flash |
+| 46 | `xinglianapi.com` | ¥0.7 | $0.7 / $2.8 | 1 | qwen | qwen3.5-flash |
+| 47 | `ai.tiantoken.com` | ¥0.73 | $0.1 / $1 | 7.3 | 鹏宇默认 | qwen3.5-flash |
+| 48 | `api.ai-gaochao.cn` | ¥0.73 | $0.1 / $1 | 7.3 | guo_chan | qwen3.5-flash |
+| 49 | `api.orcarouter.ai` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | qwen/qwen3.5-flash |
+| 50 | `api.tacklekey.com` | ¥0.73 | $0.1 / $0.4 | 7.3 | default | qwen/qwen3.5-flash-02-23 |
 
-> 另有 38 站未列出。
+> 另有 35 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -118,6 +118,6 @@
 | 49 | `yuli.host` | $0.2 / $2 | default | 1 | qwen3.5-flash |
 | 50 | `yunai.chat` | $0.2 / $2 | default | 1 | qwen3.5-flash |
 
-> 另有 4 站未列出。
+> 另有 3 站未列出。
 
-> 47 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 48 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

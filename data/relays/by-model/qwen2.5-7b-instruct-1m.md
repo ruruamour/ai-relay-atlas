@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `aifast.site` | ¥0.3 | $0.3 / $0.6 | 1 | 国产文本 | qwen2.5-7b-instruct-1m |
-| 2 | `keypool.space` | ¥0.5 | $0.5 / $1 | 1 | default | qwen2.5-7b-instruct-1m |
+| 2 | `keypool.space` | ¥0.5 | $0.5 / $1 | 1 | vip | qwen2.5-7b-instruct-1m |
 | 3 | `kfcv50.link` | ¥0.5 | $0.5 / $1 | 1 | Domestic | qwen2.5-7b-instruct-1m |
 | 4 | `xinsuanai.com` | ¥0.5 | $0.5 / $1 | 1 | default | qwen2.5-7b-instruct-1m |
 | 5 | `hy88.my` | ¥2.19 | $0.3 / $0.6 | 7.3 | qwen | qwen2.5-7b-instruct-1m |

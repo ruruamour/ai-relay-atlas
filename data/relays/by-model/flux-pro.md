@@ -10,7 +10,7 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `new.gateway.icu` | ¥0.005 | $0.005 | 1 | default | flux-pro |
+| 1 | `new.gateway.icu` | ¥0.005 | $0.005 | 1 | reverse | flux-pro |
 | 2 | `api.hopeai.cc` | ¥0.01 | $0.01 | 1 | default | flux-pro |
 | 3 | `api.bltcy.ai` | ¥0.05 | $0.05 | 1 | default | flux-pro |
 | 4 | `api.eido.top` | ¥0.05 | $0.05 | 1 | default | flux-pro |

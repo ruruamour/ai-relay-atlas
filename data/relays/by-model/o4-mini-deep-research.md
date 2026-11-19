@@ -1,6 +1,6 @@
 # o4-mini-deep-research
 
-> 67 站提供 · 正常价 55 站 · 名义中位价 **$3**/1M 输入 · 实付中位价 **¥12**/1M 输入（44 站公开充值价） · 推算，未对账
+> 69 站提供 · 正常价 58 站 · 名义中位价 **$2.4**/1M 输入 · 实付中位价 **¥12**/1M 输入（44 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -59,16 +59,19 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.clawhud.com` | $0.2 / $0.8 | Nvidia | 0.1 | o4-mini-deep-research |
-| 2 | `api.socode.cc` | $0.2 / $0.8 | GPT[Main] | 0.1 | o4-mini-deep-research |
-| 3 | `test-sub2.sjapi.top` | $0.3 / $1.2 | plus | 0.15 | o4-mini-deep-research |
-| 4 | `saletoken.org` | $0.4 / $1.6 | CODEX-pro | 0.2 | o4-mini-deep-research |
-| 5 | `sub2api.hyl2api.com` | $0.4 / $1.6 | GPT  | 0.2 | o4-mini-deep-research |
-| 6 | `api.geniuscoder.net` | $0.5 / $2 | gpt优惠 | 0.25 | o4-mini-deep-research |
-| 7 | `supersubscribe689.com` | $1 / $4 | chatgpt美区版 | 0.5 | o4-mini-deep-research |
-| 8 | `momoai.asia` | $1.6 / $6.4 | codex余额分组 | 0.8 | o4-mini-deep-research |
-| 9 | `api.zhimigy.cn` | $3.2 / $12.8 | pro | 1.6 | o4-mini-deep-research |
-| 10 | `api.akko.space` | $5 / $20 | Codex Azure | 2.5 | o4-mini-deep-research |
-| 11 | `sub.hongyun.chat` | $15 / $60 | gpt | 7.5 | o4-mini-deep-research |
+| 1 | `s169.bjhuiqu.net` | $0.12 / $0.48 | pro | 0.06 | o4-mini-deep-research |
+| 2 | `api.clawhud.com` | $0.2 / $0.8 | Nvidia | 0.1 | o4-mini-deep-research |
+| 3 | `api.socode.cc` | $0.2 / $0.8 | GPT[Main] | 0.1 | o4-mini-deep-research |
+| 4 | `test-sub2.sjapi.top` | $0.3 / $1.2 | plus | 0.15 | o4-mini-deep-research |
+| 5 | `aixhub.shop` | $0.34 / $1.36 | Codex 混合池子 | 0.17 | o4-mini-deep-research |
+| 6 | `saletoken.org` | $0.4 / $1.6 | CODEX-pro | 0.2 | o4-mini-deep-research |
+| 7 | `sub2api.hyl2api.com` | $0.4 / $1.6 | GPT  | 0.2 | o4-mini-deep-research |
+| 8 | `api.geniuscoder.net` | $0.5 / $2 | gpt优惠 | 0.25 | o4-mini-deep-research |
+| 9 | `supersubscribe689.com` | $1 / $4 | chatgpt美区版 | 0.5 | o4-mini-deep-research |
+| 10 | `api.zhimigy.cn` | $1.4 / $5.6 | pro | 0.7 | o4-mini-deep-research |
+| 11 | `momoai.asia` | $1.6 / $6.4 | codex余额分组 | 0.8 | o4-mini-deep-research |
+| 12 | `xclaude.cn` | $2 / $8 | 按量计费-OpenAI | 1 | o4-mini-deep-research |
+| 13 | `api.akko.space` | $5 / $20 | Codex Azure | 2.5 | o4-mini-deep-research |
+| 14 | `sub.hongyun.chat` | $15 / $60 | gpt | 7.5 | o4-mini-deep-research |
 
-> 12 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

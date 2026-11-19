@@ -1,6 +1,6 @@
 # qwen3-coder-next
 
-> 50 站提供 · 正常价 22 站 · 名义中位价 **$0.191308**/1M 输入 · 实付中位价 **¥0.803**/1M 输入（19 站公开充值价） · 推算，未对账
+> 49 站提供 · 正常价 22 站 · 名义中位价 **$0.191308**/1M 输入 · 实付中位价 **¥0.803**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,11 +10,11 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `rockapi.ai` | ¥0.1106 | $0.1106 / $0.588 | 1 | 0.7x | qwen3-coder-next |
-| 2 | `xiaoqie.xyz` | ¥0.12 | $0.12 / $0.8 | 1 | OpenRouter官方线路 | qwen/qwen3-coder-next |
-| 3 | `jiugx.com` | ¥0.132 | $0.132 / $0.88 | 1 | vip | qwen/qwen3-coder-next |
-| 4 | `gptapi.app` | ¥0.158 | $0.158 / $0.84 | 1 | default | qwen3-coder-next |
-| 5 | `llmai.freebird2913.tech` | ¥0.158 | $0.158 / $0.84 | 1 | 其他渠道 | qwen3-coder-next |
+| 1 | `apijing.com` | ¥0.11 | $0.11 / $0.8 | 1 | default | qwen/qwen3-coder-next |
+| 2 | `rockapi.ai` | ¥0.1106 | $0.1106 / $0.588 | 1 | 0.7x | qwen3-coder-next |
+| 3 | `xiaoqie.xyz` | ¥0.12 | $0.12 / $0.8 | 1 | OpenRouter官方线路 | qwen/qwen3-coder-next |
+| 4 | `jiugx.com` | ¥0.132 | $0.132 / $0.88 | 1 | vip | qwen/qwen3-coder-next |
+| 5 | `gptapi.app` | ¥0.158 | $0.158 / $0.84 | 1 | default | qwen3-coder-next |
 | 6 | `api.zyai.online` | ¥0.5 | $0.5 / $2 | 1 | mini | qwen3-coder-next |
 | 7 | `slb-v1.api.fan` | ¥0.5 | $0.5 / $2 | 1 | bailian | qwen3-coder-next |
 | 8 | `llm.kagu.one` | ¥0.5475 | $0.075 / $0.4 | 7.3 | 大杂烩 | qwen/qwen3-coder-next |
@@ -38,4 +38,4 @@
 | 2 | `ai.kunkun.chat` | $3.75 / $22.5 | qwen | 2.5 | kiro-qwen3-coder-next |
 | 3 | `ai.saigou.work` | $3.75 / $22.5 | qwen | 2.5 | kiro-qwen3-coder-next |
 
-> 28 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 27 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

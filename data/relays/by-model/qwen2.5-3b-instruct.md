@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `aifast.site` | ¥0.18 | $0.18 / $0.54 | 1 | 国产文本 | qwen2.5-3b-instruct |
 | 2 | `gpt777.top` | ¥0.24 | $0.24 / $0.72 | 1 | opensource | qwen2.5-3b-instruct |
-| 3 | `keypool.space` | ¥0.3 | $0.3 / $0.9 | 1 | default | qwen2.5-3b-instruct |
+| 3 | `keypool.space` | ¥0.3 | $0.3 / $0.9 | 1 | vip | qwen2.5-3b-instruct |
 | 4 | `kfcv50.link` | ¥0.3 | $0.3 / $0.9 | 1 | Domestic | qwen2.5-3b-instruct |
 | 5 | `xinsuanai.com` | ¥0.3 | $0.3 / $0.9 | 1 | default | qwen2.5-3b-instruct |
 | 6 | `hy88.my` | ¥1.314 | $0.18 / $0.54 | 7.3 | qwen | qwen2.5-3b-instruct |

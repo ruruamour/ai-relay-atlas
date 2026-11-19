@@ -13,7 +13,7 @@
 | 1 | `123api.co` | ¥1.75 | $1.75 / $14 | 1 | default | gpt-5.2-openai-compact |
 | 2 | `api.ulastai.com` | ¥2.81 | $0.385 / $3.08 | 7.3 | gptpro | gpt-5.2-openai-compact |
 | 3 | `api.llms.best` | ¥3.78 | $0.525 / $4.2 | 7.2 | Codex | gpt-5.2-openai-compact |
-| 4 | `api.onefaka.com` | ¥9.125 | $1.25 / $10 | 7.3 | ssvip | gpt-5.2-openai-compact |
+| 4 | `api.onefaka.com` | ¥9.125 | $1.25 / $10 | 7.3 | default | gpt-5.2-openai-compact |
 | 5 | `api.vivijane.pro` | ¥12.78 | $1.75 / $14 | 7.3 | default | gpt-5.2-openai-compact |
 | 6 | `wrduai.com` | ¥44.71 | $6.125 / $49 | 7.3 | 官转 | gpt-5.2-openai-compact |
 

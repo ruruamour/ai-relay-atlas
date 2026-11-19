@@ -1,6 +1,6 @@
 # flux.1-kontext-pro
 
-> 71 站提供 · 正常价 64 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.165**/次（12 站公开充值价） · 推算，未对账
+> 69 站提供 · 正常价 63 站 · 名义中位价 **$0.18**/次 · 实付中位价 **¥0.15**/次（11 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,17 +11,16 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `new.yunai.link` | ¥0.012 | $0.012 | 1 | azure03-0 | flux.1-kontext-pro |
-| 2 | `api.openai-labs.com` | ¥0.04 | $0.04 | 1 | default | flux.1-kontext-pro |
+| 2 | `api.openai-labs.com` | ¥0.036 | $0.036 | 1 | azure | flux.1-kontext-pro |
 | 3 | `api.camel-hub.com` | ¥0.04 | $0.05 | 0.8 | default | flux.1-kontext-pro |
 | 4 | `keypool.space` | ¥0.12 | $0.12 | 1 | default | flux.1-kontext-pro |
 | 5 | `xinsuanai.com` | ¥0.12 | $0.12 | 1 | default | flux.1-kontext-pro |
 | 6 | `proaiapi.tech` | ¥0.15 | $0.15 | 1 | default | flux.1-kontext-pro |
 | 7 | `new.foxi-api.cn` | ¥0.18 | $0.18 | 1 | 纯AZ | flux.1-kontext-pro |
-| 8 | `api.videocaptioner.cn` | ¥0.266 | $0.0396 | 6.718 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 9 | `layso.ai` | ¥0.39 | $0.39 | 1 | Azure-Gpt-3 | flux.1-kontext-pro |
-| 10 | `api.xistree.hk` | ¥0.876 | $0.12 | 7.3 | default | flux.1-kontext-pro |
-| 11 | `nbapi.net` | ¥0.876 | $0.12 | 7.3 | default | flux.1-kontext-pro |
-| 12 | `plusx.nyxos.shop` | ¥1.927 | $0.264 | 7.3 | Azure-GPT-3 | flux.1-kontext-pro |
+| 8 | `layso.ai` | ¥0.39 | $0.39 | 1 | Azure-Gpt-3 | flux.1-kontext-pro |
+| 9 | `api.xistree.hk` | ¥0.876 | $0.12 | 7.3 | default | flux.1-kontext-pro |
+| 10 | `nbapi.net` | ¥0.876 | $0.12 | 7.3 | default | flux.1-kontext-pro |
+| 11 | `plusx.nyxos.shop` | ¥1.927 | $0.264 | 7.3 | Azure-GPT-3 | flux.1-kontext-pro |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -80,4 +79,4 @@
 
 > 另有 2 站未列出。
 
-> 7 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 6 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

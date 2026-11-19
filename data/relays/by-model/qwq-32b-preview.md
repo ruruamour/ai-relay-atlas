@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|---|
 | 1 | `new.gateway.icu` | ¥0.7286 | $0.7286 / $0.7286 | 1 | default | qwq-32b-preview |
 | 2 | `api.hopeai.cc` | ¥1.457 | $1.4572 / $1.4572 | 1 | default | qwq-32b-preview |
-| 3 | `keypool.space` | ¥2 | $2 / $6 | 1 | default | qwq-32b-preview |
+| 3 | `keypool.space` | ¥2 | $2 / $6 | 1 | vip | qwq-32b-preview |
 | 4 | `kfcv50.link` | ¥2 | $2 / $6 | 1 | Domestic | qwq-32b-preview |
 | 5 | `new.foxi-api.cn` | ¥2 | $2 / $6 | 1 | default | qwq-32b-preview |
 | 6 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | qwq-32b-preview |

@@ -1,6 +1,6 @@
 # gemini-2.5-flash-image-preview
 
-> 165 站提供 · 正常价 96 站 · 名义中位价 **$0.0855**/次 · 实付中位价 **¥0.15**/次（88 站公开充值价） · 推算，未对账
+> 164 站提供 · 正常价 97 站 · 名义中位价 **$0.1**/次 · 实付中位价 **¥0.15**/次（89 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -35,33 +35,33 @@
 | 23 | `test-ssl.bltcy.ai` | ¥0.08 | $0.08 | 1 | gemini优质 | gemini-2.5-flash-image-preview |
 | 24 | `zen-ai.top` | ¥0.08 | $0.08 | 1 | 优质gemini | gemini-2.5-flash-image-preview |
 | 25 | `www.ggwk1.online` | ¥0.081 | $0.081 | 1 | 绘画base64 | gemini-2.5-flash-image-preview |
-| 26 | `toapis.com` | ¥0.084 | $0.012 | 7 | default | gemini-2.5-flash-image-preview |
+| 26 | `toapis.com` | ¥0.084 | $0.012 | 7 | svip | gemini-2.5-flash-image-preview |
 | 27 | `b.kr777.top` | ¥0.09 | $0.09 | 1 | Gemini | gemini-2.5-flash-image-preview |
 | 28 | `nn.147ai.com` | ¥0.092 | $0.04 | 2.3 | default | gemini-2.5-flash-image-preview |
 | 29 | `ai.comfly.org` | ¥0.096 | $0.08 | 1.2 | gemini优质 | gemini-2.5-flash-image-preview |
 | 30 | `147ai.com` | ¥0.1 | $0.1 | 1 | banana | gemini-2.5-flash-image-preview |
-| 31 | `api.147ai.cn` | ¥0.1 | $0.1 | 1 | banana | gemini-2.5-flash-image-preview |
-| 32 | `api.ccodezh.com` | ¥0.1 | $0.1 | 1 | default | gemini-2.5-flash-image-preview |
-| 33 | `api.xbai.top` | ¥0.1 | $0.1 | 1 | default | gemini-2.5-flash-image-preview |
-| 34 | `synthapi.asia` | ¥0.1049 | $0.014375 | 7.3 | 图像模型聚合(可自定义图像参数) | gemini-2.5-flash-image-preview |
-| 35 | `www.hohoapi.com` | ¥0.108 | $0.036 | 3 | image | gemini-2.5-flash-image-preview |
-| 36 | `ai.t8star.org` | ¥0.108 | $0.08 | 1.35 | gemini优质 | gemini-2.5-flash-image-preview |
-| 37 | `apiai.shop` | ¥0.12 | $0.1 | 1.2 | default | gemini-2.5-flash-image-preview |
-| 38 | `api.ifopen.ai` | ¥0.1365 | $0.039 | 3.5 | default | gemini-2.5-flash-image-preview |
-| 39 | `api2.aigcbest.top` | ¥0.1365 | $0.039 | 3.5 | default | gemini-2.5-flash-image-preview |
-| 40 | `api.apiyi.com` | ¥0.14 | $0.02 | 7 | default | gemini-2.5-flash-image-preview |
-| 41 | `api1.147ai.com` | ¥0.15 | $0.15 | 1 | banana | gemini-2.5-flash-image-preview |
-| 42 | `i-sh.v1api.cc` | ¥0.15 | $0.15 | 1 | default | gemini-2.5-flash-image-preview |
-| 43 | `i.v1api.cc` | ¥0.15 | $0.15 | 1 | default | gemini-2.5-flash-image-preview |
-| 44 | `n.lconai.com` | ¥0.15 | $0.15 | 1 | default | gemini-2.5-flash-image-preview |
-| 45 | `api.xhuoai.com` | ¥0.15 | $0.1 | 1.5 | default | gemini-2.5-flash-image-preview |
-| 46 | `yun.v1api.cc` | ¥0.15 | $0.1 | 1.5 | default | gemini-2.5-flash-image-preview |
-| 47 | `api.ilaien.com` | ¥0.1752 | $0.024 | 7.3 | default | gemini-2.5-flash-image-preview |
-| 48 | `yinli.one` | ¥0.1752 | $0.024 | 7.3 | Gemini-低价-90%稳定性 | gemini-2.5-flash-image-preview |
-| 49 | `api.tokenfty.net` | ¥0.19 | $0.19 | 1 | Banana | gemini-2.5-flash-image-preview |
-| 50 | `autorouter.net` | ¥0.19 | $0.19 | 1 | Banana | gemini-2.5-flash-image-preview |
+| 31 | `aiapibase.top` | ¥0.1 | $0.1 | 1 | default | gemini-2.5-flash-image-preview |
+| 32 | `api.147ai.cn` | ¥0.1 | $0.1 | 1 | banana | gemini-2.5-flash-image-preview |
+| 33 | `api.ccodezh.com` | ¥0.1 | $0.1 | 1 | default | gemini-2.5-flash-image-preview |
+| 34 | `api.xbai.top` | ¥0.1 | $0.1 | 1 | default | gemini-2.5-flash-image-preview |
+| 35 | `synthapi.asia` | ¥0.1049 | $0.014375 | 7.3 | Gemini 图像一 | gemini-2.5-flash-image-preview |
+| 36 | `www.hohoapi.com` | ¥0.108 | $0.036 | 3 | image | gemini-2.5-flash-image-preview |
+| 37 | `ai.t8star.org` | ¥0.108 | $0.08 | 1.35 | gemini优质 | gemini-2.5-flash-image-preview |
+| 38 | `apiai.shop` | ¥0.12 | $0.1 | 1.2 | default | gemini-2.5-flash-image-preview |
+| 39 | `api.ifopen.ai` | ¥0.1365 | $0.039 | 3.5 | default | gemini-2.5-flash-image-preview |
+| 40 | `api2.aigcbest.top` | ¥0.1365 | $0.039 | 3.5 | default | gemini-2.5-flash-image-preview |
+| 41 | `api.apiyi.com` | ¥0.14 | $0.02 | 7 | default | gemini-2.5-flash-image-preview |
+| 42 | `api1.147ai.com` | ¥0.15 | $0.15 | 1 | banana | gemini-2.5-flash-image-preview |
+| 43 | `i-sh.v1api.cc` | ¥0.15 | $0.15 | 1 | default | gemini-2.5-flash-image-preview |
+| 44 | `i.v1api.cc` | ¥0.15 | $0.15 | 1 | default | gemini-2.5-flash-image-preview |
+| 45 | `n.lconai.com` | ¥0.15 | $0.15 | 1 | default | gemini-2.5-flash-image-preview |
+| 46 | `api.xhuoai.com` | ¥0.15 | $0.1 | 1.5 | default | gemini-2.5-flash-image-preview |
+| 47 | `yun.v1api.cc` | ¥0.15 | $0.1 | 1.5 | default | gemini-2.5-flash-image-preview |
+| 48 | `api.ilaien.com` | ¥0.1752 | $0.024 | 7.3 | default | gemini-2.5-flash-image-preview |
+| 49 | `yinli.one` | ¥0.1752 | $0.024 | 7.3 | Gemini-低价-90%稳定性 | gemini-2.5-flash-image-preview |
+| 50 | `api.tokenfty.net` | ¥0.19 | $0.19 | 1 | Banana | gemini-2.5-flash-image-preview |
 
-> 另有 38 站未列出。
+> 另有 39 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -70,10 +70,10 @@
 | 1 | `sub-lax.autorouter.io` | $0.076 | Gemini | 0.4 | gemini-2.5-flash-image-preview |
 | 2 | `chatapi.onechats.ai` | $0.08 | default | 1 | gemini-2.5-flash-image-preview |
 | 3 | `api.zhiyikeji.cn` | $0.15 | gemini-cli | 1 | gemini-2.5-flash-image-preview |
-| 4 | `vip.zen-ai.top` | $0.6 | 优质gemini | 15 | gemini-2.5-flash-image-preview |
+| 4 | `vip.zen-ai.top` | $0.8 | studio | 20 | gemini-2.5-flash-image-preview |
 | 5 | `api.gemai.cc` | $14 | default | 1 | [官]gemini-2.5-flash-image-preview |
 | 6 | `api.gemapi.ai` | $14 | default | 1 | [官]gemini-2.5-flash-image-preview |
 | 7 | `gemai.huchan.cn` | $14 | default | 1 | [官]gemini-2.5-flash-image-preview |
 | 8 | `windhub.online` | $37.4 | Fenghe 桌面统一路由 | 1 | gemini-2.5-flash-image-preview |
 
-> 69 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 67 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

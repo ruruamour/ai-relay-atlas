@@ -1,6 +1,6 @@
 # deepseek-r1-distill-qwen-1.5b
 
-> 31 站提供 · 正常价 11 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（11 站公开充值价） · 推算，未对账
+> 32 站提供 · 正常价 13 站 · 名义中位价 **$1.2**/1M 输入 · 实付中位价 **¥1.2**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -20,6 +20,8 @@
 | 8 | `poloai.top` | ¥1.6 | $1.6 / $4.8 | 1 | Deepseek | deepseek-r1-distill-qwen-1.5b |
 | 9 | `poloapi.top` | ¥1.6 | $1.6 / $4.8 | 1 | Deepseek | deepseek-r1-distill-qwen-1.5b |
 | 10 | `azapi.com.cn` | ¥2 | $2 / $6 | 1 | default | deepseek-r1-distill-qwen-1.5b |
-| 11 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-1.5b |
+| 11 | `cc.zhihuiapi.top` | ¥3 | $3 / $9 | 1 | default | deepseek-r1-distill-qwen-1.5b |
+| 12 | `cn.zhihuiai.top` | ¥3 | $3 / $9 | 1 | default | deepseek-r1-distill-qwen-1.5b |
+| 13 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | deepseek-r1-distill-qwen-1.5b |
 
-> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 19 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

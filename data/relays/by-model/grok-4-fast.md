@@ -1,6 +1,6 @@
 # grok-4-fast
 
-> 142 站提供 · 正常价 70 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.029**/1M 输入（66 站公开充值价） · 推算，未对账
+> 138 站提供 · 正常价 66 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1**/1M 输入（63 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -48,20 +48,20 @@
 | 36 | `airouter.org` | ¥1.224 | $1.224 / $3.06 | 1 | svip | grok-4-fast-reasoning |
 | 37 | `api.yuboar.com` | ¥1.25 | $1.25 / $2.5 | 1 | AzureOpenAI | grok-4-fast-reasoning |
 | 38 | `hy88.my` | ¥1.314 | $0.18 / $0.45 | 7.3 | grok_official | grok-4-fast-reasoning |
-| 39 | `newapi.zaiwenai.com` | ¥1.314 | $0.18 / $0.45 | 7.3 | default | grok-4-fast-reasoning |
-| 40 | `cn.gptapi.asia` | ¥1.4 | $1.4 / $3.5 | 1 | enterprise | grok-4-fast-reasoning |
-| 41 | `yutoapi.com` | ¥1.4 | $1.4 / $3.5 | 1 | enterprise | grok-4-fast-reasoning |
-| 42 | `api.apipro.ai` | ¥1.4 | $0.2 / $0.5 | 7 | grok | grok-4-fast |
-| 43 | `api.laozhang.ai` | ¥1.4 | $0.2 / $0.5 | 7 | default | grok-4-fast-reasoning |
-| 44 | `ai.nodeloc.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast |
-| 45 | `ai.yuboar.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast-reasoning |
-| 46 | `api.ai-gaochao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-fast-reasoning |
-| 47 | `api.appintheloop.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | grok-maas-stable-m | grok-4-fast-reasoning |
-| 48 | `api.xistree.hk` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast |
-| 49 | `apius.shubiaobiao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-fast-reasoning |
-| 50 | `gemini.ysaikeji.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast-reasoning |
+| 39 | `cn.gptapi.asia` | ¥1.4 | $1.4 / $3.5 | 1 | enterprise | grok-4-fast-reasoning |
+| 40 | `yutoapi.com` | ¥1.4 | $1.4 / $3.5 | 1 | enterprise | grok-4-fast-reasoning |
+| 41 | `api.apipro.ai` | ¥1.4 | $0.2 / $0.5 | 7 | grok | grok-4-fast |
+| 42 | `api.laozhang.ai` | ¥1.4 | $0.2 / $0.5 | 7 | default | grok-4-fast-reasoning |
+| 43 | `ai.nodeloc.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast |
+| 44 | `ai.yuboar.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast-reasoning |
+| 45 | `api.ai-gaochao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-fast-reasoning |
+| 46 | `api.appintheloop.com` | ¥1.46 | $0.2 / $0.5 | 7.3 | grok-maas-stable-m | grok-4-fast-reasoning |
+| 47 | `api.xistree.hk` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast |
+| 48 | `apius.shubiaobiao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-fast-reasoning |
+| 49 | `gemini.ysaikeji.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast-reasoning |
+| 50 | `hk.apitoken.ai` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-fast-reasoning |
 
-> 另有 16 站未列出。
+> 另有 13 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -70,6 +70,5 @@
 | 1 | `api.zhiyikeji.cn` | $0.2 / $0.5 | default | 1 | grok-4-fast-reasoning |
 | 2 | `happyapi.org` | $0.2 / $0.5 | default | 1 | grok-4-fast |
 | 3 | `vip.zen-ai.top` | $0.6 / $1.5 | default | 3 | grok-4-fast-reasoning |
-| 4 | `8888.name` | $3 / $9 | GPT—Az渠道 | 1.5 | grok-4-fast-reasoning |
 
 > 72 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # deepseek-v3.2-exp
 
-> 144 站提供 · 正常价 109 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.8**/1M 输入（55 站公开充值价） · 推算，未对账
+> 145 站提供 · 正常价 111 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.8**/1M 输入（57 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,37 +10,37 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `xiaoqie.xyz` | ¥0.27 | $0.27 / $0.41 | 1 | OpenRouter官方线路 | deepseek/deepseek-v3.2-exp |
-| 2 | `ai.38yun.cn` | ¥0.2835 | $0.2835 / $0.4305 | 1 | 官方全系稳定渠道 | deepseek/deepseek-v3.2-exp |
-| 3 | `chrisapivip.com` | ¥0.7 | $0.7 / $1.05 | 1 | 国产资源-大厂-普通模型 | deepseek-v3.2-exp |
-| 4 | `ai.mowen.vip` | ¥0.7353 | $0.11 / $0.165 | 6.68494 | default | DeepSeek-V3.2-Exp |
-| 5 | `zen-ai.top` | ¥0.8 | $0.8 / $1.2 | 1 | 开源 | deepseek-v3.2-exp |
-| 6 | `api.wamwuai.com` | ¥1 | $1 / $4 | 1 | deep直连 | deepseek-v3.2-exp |
-| 7 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | deepseek-ai/DeepSeek-V3.2-Exp |
-| 8 | `deeptranx.apiqik.com` | ¥1.04 | $1.04 / $1.56 | 1 | default | deepseek-v3.2-exp |
-| 9 | `aifast.site` | ¥1.2 | $1.2 / $1.8 | 1 | 国产文本 | deepseek-v3.2-exp |
-| 10 | `api.zyai.online` | ¥1.2 | $1.2 / $1.8 | 1 | Guochan6 | deepseek-v3.2-exp |
-| 11 | `gptnb.ai` | ¥1.2 | $1.2 / $1.8 | 1 | cn_official | deepseek-v3.2-exp |
-| 12 | `i-sh.v1api.cc` | ¥1.2 | $1.2 / $1.8 | 1 | china | deepseek-v3.2-exp |
-| 13 | `i.v1api.cc` | ¥1.2 | $1.2 / $1.8 | 1 | china | deepseek-v3.2-exp |
-| 14 | `platform.anyrouter.ai` | ¥1.2 | $1.2 / $1.8 | 1 | official_cn | deepseek-v3.2-exp |
-| 15 | `api.camel-hub.cn` | ¥1.2 | $1.5 / $2.25 | 0.8 | default | deepseek-v3.2-exp |
-| 16 | `api.camel-hub.com` | ¥1.2 | $1.5 / $2.25 | 0.8 | default | deepseek-v3.2-exp |
-| 17 | `api.kr777.top` | ¥1.2 | $1.5 / $2.25 | 0.8 | default | deepseek-v3.2-exp |
-| 18 | `aiberm.com` | ¥1.439 | $0.207 / $0.3105 | 6.95 | default | deepseek-v3.2-exp |
-| 19 | `kfcv50.link` | ¥1.5 | $1.5 / $2.25 | 1 | cn_discount_0407_075 | deepseek-v3.2-exp |
-| 20 | `mb.dmxapi.cn` | ¥1.58 | $0.316 / $0.474 | 5 | default | deepseek-v3.2-exp |
-| 21 | `dn.v1api.cc` | ¥1.6 | $1.6 / $2.4 | 1 | deepseek | deepseek-v3.2-exp |
-| 22 | `gpt777.top` | ¥1.6 | $1.6 / $2.4 | 1 | opensource | deepseek-ai/DeepSeek-V3.2-Exp |
-| 23 | `opus.v1api.cc` | ¥1.6 | $2 / $3 | 0.8 | default | deepseek-v3.2-exp |
-| 24 | `xh.v1api.cc` | ¥1.6 | $2 / $3 | 0.8 | default | deepseek-v3.2-exp |
-| 25 | `api.xhuoai.com` | ¥1.8 | $1.2 / $1.8 | 1.5 | deepseek | deepseek-v3.2-exp |
-| 26 | `yun.v1api.cc` | ¥1.8 | $1.2 / $1.8 | 1.5 | deepseek | deepseek-v3.2-exp |
-| 27 | `cnapi.kksj.org` | ¥1.8 | $1.8 / $2.7 | 1 | default | deepseek-v3.2-exp |
-| 28 | `na.wanxiaot.com` | ¥1.8 | $1.8 / $1.8 | 1 | default | deepseek-ai/DeepSeek-V3.2-Exp |
-| 29 | `naapi.cc` | ¥1.8 | $1.8 / $1.8 | 1 | default | deepseek-ai/DeepSeek-V3.2-Exp |
-| 30 | `api.ifopen.ai` | ¥1.82 | $0.52 / $0.78 | 3.5 | 通用大模型 | deepseek-ai/DeepSeek-V3.2-Exp |
-| 31 | `api2.aigcbest.top` | ¥1.82 | $0.52 / $0.78 | 3.5 | 通用大模型 | deepseek-ai/DeepSeek-V3.2-Exp |
+| 1 | `newapi.prorisehub.com` | ¥0.135 | $0.135 / $0.205 | 1 | 海外国产编程模 | deepseek-v3.2-exp |
+| 2 | `apijing.com` | ¥0.27 | $0.27 / $0.41 | 1 | default | deepseek/deepseek-v3.2-exp |
+| 3 | `xiaoqie.xyz` | ¥0.27 | $0.27 / $0.41 | 1 | OpenRouter官方线路 | deepseek/deepseek-v3.2-exp |
+| 4 | `ai.38yun.cn` | ¥0.2835 | $0.2835 / $0.4305 | 1 | 官方全系稳定渠道 | deepseek/deepseek-v3.2-exp |
+| 5 | `chrisapivip.com` | ¥0.7 | $0.7 / $1.05 | 1 | 国产资源-大厂-普通模型 | deepseek-v3.2-exp |
+| 6 | `ai.mowen.vip` | ¥0.7353 | $0.11 / $0.165 | 6.68494 | default | DeepSeek-V3.2-Exp |
+| 7 | `zen-ai.top` | ¥0.8 | $0.8 / $1.2 | 1 | 开源 | deepseek-v3.2-exp |
+| 8 | `api.wamwuai.com` | ¥1 | $1 / $4 | 1 | deep直连 | deepseek-v3.2-exp |
+| 9 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | deepseek-ai/DeepSeek-V3.2-Exp |
+| 10 | `deeptranx.apiqik.com` | ¥1.04 | $1.04 / $1.56 | 1 | default | deepseek-v3.2-exp |
+| 11 | `aifast.site` | ¥1.2 | $1.2 / $1.8 | 1 | 国产文本 | deepseek-v3.2-exp |
+| 12 | `api.zyai.online` | ¥1.2 | $1.2 / $1.8 | 1 | Guochan6 | deepseek-v3.2-exp |
+| 13 | `gptnb.ai` | ¥1.2 | $1.2 / $1.8 | 1 | cn_official | deepseek-v3.2-exp |
+| 14 | `i-sh.v1api.cc` | ¥1.2 | $1.2 / $1.8 | 1 | china | deepseek-v3.2-exp |
+| 15 | `i.v1api.cc` | ¥1.2 | $1.2 / $1.8 | 1 | china | deepseek-v3.2-exp |
+| 16 | `platform.anyrouter.ai` | ¥1.2 | $1.2 / $1.8 | 1 | official_cn | deepseek-v3.2-exp |
+| 17 | `api.camel-hub.cn` | ¥1.2 | $1.5 / $2.25 | 0.8 | default | deepseek-v3.2-exp |
+| 18 | `api.camel-hub.com` | ¥1.2 | $1.5 / $2.25 | 0.8 | CN | deepseek-v3.2-exp |
+| 19 | `api.kr777.top` | ¥1.2 | $1.5 / $2.25 | 0.8 | CN | deepseek-v3.2-exp |
+| 20 | `aiberm.com` | ¥1.439 | $0.207 / $0.3105 | 6.95 | default | deepseek-v3.2-exp |
+| 21 | `kfcv50.link` | ¥1.5 | $1.5 / $2.25 | 1 | cn_discount_0407_075 | deepseek-v3.2-exp |
+| 22 | `mb.dmxapi.cn` | ¥1.58 | $0.316 / $0.474 | 5 | default | deepseek-v3.2-exp |
+| 23 | `dn.v1api.cc` | ¥1.6 | $1.6 / $2.4 | 1 | deepseek | deepseek-v3.2-exp |
+| 24 | `gpt777.top` | ¥1.6 | $1.6 / $2.4 | 1 | opensource | deepseek-ai/DeepSeek-V3.2-Exp |
+| 25 | `opus.v1api.cc` | ¥1.6 | $2 / $3 | 0.8 | default | deepseek-v3.2-exp |
+| 26 | `xh.v1api.cc` | ¥1.6 | $2 / $3 | 0.8 | default | deepseek-v3.2-exp |
+| 27 | `api.xhuoai.com` | ¥1.8 | $1.2 / $1.8 | 1.5 | deepseek | deepseek-v3.2-exp |
+| 28 | `yun.v1api.cc` | ¥1.8 | $1.2 / $1.8 | 1.5 | deepseek | deepseek-v3.2-exp |
+| 29 | `cnapi.kksj.org` | ¥1.8 | $1.8 / $2.7 | 1 | default | deepseek-v3.2-exp |
+| 30 | `na.wanxiaot.com` | ¥1.8 | $1.8 / $1.8 | 1 | default | deepseek-ai/DeepSeek-V3.2-Exp |
+| 31 | `naapi.cc` | ¥1.8 | $1.8 / $1.8 | 1 | default | deepseek-ai/DeepSeek-V3.2-Exp |
 | 32 | `aiapi.world` | ¥1.828 | $0.26877 / $0.40853 | 6.8 | cmodels | deepseek-v3.2-exp |
 | 33 | `or.mux.la` | ¥1.971 | $0.27 / $0.41 | 7.3 | default | deepseek/deepseek-v3.2-exp |
 | 34 | `x.one-origin.ai` | ¥1.971 | $0.27 / $0.41 | 7.3 | Lynx-ALL | deepseek/deepseek-v3.2-exp |
@@ -58,10 +58,10 @@
 | 46 | `api.34ku.com` | ¥2.6 | $2.6 / $3.9 | 1 | default | deepseek-v3.2-exp |
 | 47 | `ai2.qiqiai.top` | ¥2.891 | $0.396 / $0.594 | 7.3 | 官方合作渠道 | deepseek/deepseek-v3.2-exp |
 | 48 | `api.tacklekey.com` | ¥3.032 | $0.415385 / $0.630769 | 7.3 | default | deepseek/deepseek-v3.2-exp |
-| 49 | `chat.cloudapi.vip` | ¥4 | $2 / $3 | 2 | svip | deepseek-v3.2-exp |
-| 50 | `ai.tiantoken.com` | ¥9.49 | $1.3 / $1.95 | 7.3 | 鹏宇国内模型1 | deepseek-v3.2-exp |
+| 49 | `chat.cloudapi.vip` | ¥4 | $2 / $3 | 2 | default | deepseek-v3.2-exp |
+| 50 | `api.ifopen.ai` | ¥7 | $2 / $3 | 3.5 | default | DeepSeek-V3.2-Exp-nothinking |
 
-> 另有 5 站未列出。
+> 另有 7 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 4 站未列出。
 
-> 35 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 34 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -12,9 +12,9 @@
 |---|---|---|---|---|---|---|
 | 1 | `ai.38yun.cn` | ¥0.141 | $0.141015 / $0.351645 | 1 | 官方全系稳定渠道 | doubao-1.5-pro-32k |
 | 2 | `kfcv50.link` | ¥0.2 | $0.2 / $0.5 | 1 | Domestic | doubao-1.5-pro-32k |
-| 3 | `new.gateway.icu` | ¥0.4 | $0.4 / $1 | 1 | default | Doubao-1.5-pro-32k |
+| 3 | `new.gateway.icu` | ¥0.4 | $0.4 / $1 | 1 | reverse | Doubao-1.5-pro-32k |
 | 4 | `ai.mowen.vip` | ¥0.4489 | $0.06715 / $0.16745 | 6.68494 | default | doubao-1.5-pro-32k |
-| 5 | `mb.dmxapi.cn` | ¥0.64 | $0.128 / $0.32 | 5 | default | doubao-1.5-pro-32k |
+| 5 | `mb.dmxapi.cn` | ¥0.64 | $0.128 / $0.32 | 5 | vip | doubao-1.5-pro-32k |
 | 6 | `api.ocoolai.com` | ¥0.76 | $0.76 / $1.9 | 1 | cn | doubao-1.5-pro-32k |
 | 7 | `ocool.cn` | ¥0.76 | $0.76 / $1.9 | 1 | cn | doubao-1.5-pro-32k |
 | 8 | `one.ooo.cool` | ¥0.76 | $0.76 / $1.9 | 1 | cn | doubao-1.5-pro-32k |

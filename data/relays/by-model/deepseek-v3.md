@@ -1,6 +1,6 @@
 # deepseek-v3
 
-> 232 站提供 · 正常价 193 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.9**/1M 输入（130 站公开充值价） · 推算，未对账
+> 227 站提供 · 正常价 191 站 · 名义中位价 **$2**/1M 输入 · 实付中位价 **¥1.972**/1M 输入（129 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,20 +15,20 @@
 | 3 | `goapi.gptnb.ai` | ¥0.1704 | $0.1704 / $0.6816 | 1 | cn_official | deepseek-v3 |
 | 4 | `gptnb.ai` | ¥0.1704 | $0.1704 / $0.6816 | 1 | cn_official | deepseek-v3-0324 |
 | 5 | `oneapi.gptnb.ai` | ¥0.1704 | $0.1704 / $0.6816 | 1 | CN_discount | deepseek-v3 |
-| 6 | `e.fishxcode.com` | ¥0.25 | $0.25 / $1 | 1 | default | siliconflow/deepseek-v3-0324 |
-| 7 | `token101.site` | ¥0.25 | $0.25 / $1 | 1 | cn_model | deepseek-ai/DeepSeek-V3 |
-| 8 | `www.ggwk1.online` | ¥0.266 | $0.266 / $0.62244 | 1 | 国产模型组-0.7倍率 | deepseek-ai/DeepSeek-V3 |
+| 6 | `www.ggwk1.online` | ¥0.19 | $0.19 / $0.4446 | 1 | 国产模型组 | deepseek-ai/DeepSeek-V3 |
+| 7 | `e.fishxcode.com` | ¥0.25 | $0.25 / $1 | 1 | default | siliconflow/deepseek-v3-0324 |
+| 8 | `token101.site` | ¥0.25 | $0.25 / $1 | 1 | cn_model | deepseek-ai/DeepSeek-V3 |
 | 9 | `www.mrouter.com` | ¥0.286 | $0.286 / $1.144 | 1 | sp1 | deepseek-v3 |
-| 10 | `tokensupply.ai` | ¥0.287 | $0.287 / $1.147 | 1 | default | deepseek-v3 |
-| 11 | `botcf.com` | ¥0.336 | $0.336 / $1.008 | 1 | 🚄openweight-fast | deepseek-v3 |
+| 10 | `tokensupply.ai` | ¥0.287 | $0.287 / $1.147 | 1 | vip | deepseek-v3 |
+| 11 | `botcf.com` | ¥0.336 | $0.336 / $1.008 | 1 | 🐋deepseek-mix | deepseek-v3 |
 | 12 | `xn--15q04w3tg4kio0a.com` | ¥0.336 | $0.336 / $1.008 | 1 | 🐋deepseek-mix | deepseek-v3 |
 | 13 | `chrisapivip.com` | ¥0.4 | $0.4 / $1.6 | 1 | default | deepseek-ai/DeepSeek-V3 |
 | 14 | `api.chatfire.cn` | ¥0.5 | $0.5 / $2 | 1 | OpenSource | deepseek-v3 |
 | 15 | `api.unorouter.com` | ¥0.5043 | $0.504336 / $1.89126 | 1 | open1-siliconflow-fp8-deepseek-v3-0324 | deepseek-v3-0324 |
-| 16 | `laysoai.com` | ¥0.5798 | $0.5798 / $2.3192 | 1 | Open-Ali-DeepSeek-1 | deepseek-v3 |
-| 17 | `ai.38yun.cn` | ¥0.588 | $0.588 / $1.764 | 1 | 官方全系稳定渠道 | deepseek-v3 |
-| 18 | `new.gateway.icu` | ¥0.6 | $0.6 / $2.4 | 1 | windsurf | deepseek-v3 |
-| 19 | `ai.mowen.vip` | ¥0.6685 | $0.1 / $0.385 | 6.68494 | default | DeepSeek-V3-0324 |
+| 16 | `ai.38yun.cn` | ¥0.588 | $0.588 / $1.764 | 1 | 官方全系稳定渠道 | deepseek-v3 |
+| 17 | `new.gateway.icu` | ¥0.6 | $0.6 / $2.4 | 1 | windsurf | deepseek-v3 |
+| 18 | `ai.mowen.vip` | ¥0.6685 | $0.1 / $0.385 | 6.68494 | default | DeepSeek-V3-0324 |
+| 19 | `laysoai.com` | ¥0.7537 | $0.75374 / $3.01496 | 1 | DeepSeek-2 | deepseek-v3 |
 | 20 | `go.sbgpt.site` | ¥0.8 | $0.8 / $3.2 | 1 | deepseek-0.4 | deepseek-v3 |
 | 21 | `kelaiapi.cc` | ¥0.8 | $0.8 / $3.2 | 1 | vip_ch | deepseek-v3 |
 | 22 | `zen-ai.top` | ¥0.8 | $0.8 / $3.2 | 1 | 开源 | deepseek-v3-0324 |
@@ -46,7 +46,7 @@
 | 34 | `api.openai-labs.com` | ¥1.2 | $1.2 / $4.8 | 1 | gcBusiness | deepseek-v3 |
 | 35 | `big.sbgpt.site` | ¥1.2 | $1.2 / $4.8 | 1 | deepseek | deepseek-v3 |
 | 36 | `code.147ai.com` | ¥1.2 | $1.2 / $4.8 | 1 | openclaw龙虾 | deepseek-v3 |
-| 37 | `i-sh.v1api.cc` | ¥1.2 | $1.2 / $4.8 | 1 | china | deepseek-v3 |
+| 37 | `i-sh.v1api.cc` | ¥1.2 | $1.2 / $4.8 | 1 | deepseek | deepseek-v3 |
 | 38 | `i.v1api.cc` | ¥1.2 | $1.2 / $4.8 | 1 | china | deepseek-v3 |
 | 39 | `newapi.link` | ¥1.2 | $1.2 / $4.8 | 1 | 国产模型 | deepseek-v3 |
 | 40 | `platform.anyrouter.ai` | ¥1.2 | $1.2 / $4.8 | 1 | official_cn | deepseek-v3 |
@@ -59,19 +59,19 @@
 | 47 | `hk.hbapis.com` | ¥1.36 | $0.199997 / $0.799995 | 6.8 | DeepSeek-Ali | deepseek-v3-250324 |
 | 48 | `ai2.qiqiai.top` | ¥1.46 | $0.2 / $0.56 | 7.3 | azure | deepseek-v3-0324 |
 | 49 | `runapi.co` | ¥1.543 | $0.22857 / $0.91428 | 6.75 | default | deepseek-v3 |
-| 50 | `147ai.com` | ¥1.6 | $1.6 / $6.4 | 1 | deepseek | deepseek-v3 |
+| 50 | `api.paasai.cc` | ¥1.6 | $1.6 / $6.4 | 1 | 八折 国模 | deepseek-v3 |
 
-> 另有 80 站未列出。
+> 另有 79 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `8888.name` | $0.225 / $0.9 | GPT—Az渠道 | 1.5 | DeepSeek-V3 |
+| 1 | `api.168box.xyz` | $0.195 / $0.78 | deepseek | 0.65 | deepseek-v3-0324 |
 | 2 | `ai.kunkun.chat` | $0.4 / $2 | workbuddy | 0.2 | cn:deepseek-v3-0324 |
 | 3 | `ai.saigou.work` | $0.4 / $2 | workbuddy | 0.2 | cn:deepseek-v3-0324 |
 | 4 | `tken.lol` | $0.5936 / $1.7808 | 官方全系稳定渠道 | 1.06 | deepseek-v3 |
-| 5 | `api.yescale.io` | $1 / $4 | starter | 1 | deepseek-v3 |
+| 5 | `api.yescale.io` | $1 / $4 | normal | 1 | deepseek-v3 |
 | 6 | `nodeai.cc` | $1 / $4 | DeepSeek | 0.5 | deepseek-v3-0324 |
 | 7 | `aiapihub.cloud` | $2 / $8 | default | 1 | deepseek-v3 |
 | 8 | `aiyiwei.vip` | $2 / $8 | default | 1 | deepseek-v3 |
@@ -118,6 +118,6 @@
 | 49 | `www.aifast.club` | $2 / $8 | default | 1 | deepseek-v3 |
 | 50 | `www.aigeek.life` | $2 / $8 | default | 1 | deepseek-v3 |
 
-> 另有 13 站未列出。
+> 另有 12 站未列出。
 
-> 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 36 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

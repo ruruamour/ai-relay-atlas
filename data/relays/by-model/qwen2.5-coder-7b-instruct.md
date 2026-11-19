@@ -15,7 +15,7 @@
 | 3 | `aifast.site` | ¥0.6 | $0.6 / $1.2 | 1 | 国产文本 | qwen2.5-coder-7b-instruct |
 | 4 | `api.34ku.com` | ¥0.65 | $0.65 / $1.3 | 1 | default | Qwen2.5-Coder-7B-Instruct |
 | 5 | `gpt777.top` | ¥0.8 | $0.8 / $1.6 | 1 | opensource | qwen2.5-coder-7b-instruct |
-| 6 | `keypool.space` | ¥1 | $1 / $2 | 1 | vip | qwen2.5-coder-7b-instruct |
+| 6 | `keypool.space` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
 | 7 | `kfcv50.link` | ¥1 | $1 / $2 | 1 | Domestic | qwen2.5-coder-7b-instruct |
 | 8 | `xinsuanai.com` | ¥1 | $1 / $2 | 1 | default | qwen2.5-coder-7b-instruct |
 | 9 | `api.aiskt.com` | ¥2.857 | $2.8572 / $5.7144 | 1 | default | qwen2.5-coder-7b-instruct |

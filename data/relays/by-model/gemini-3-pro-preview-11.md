@@ -22,11 +22,11 @@
 | 10 | `api.hopeai.cc` | ¥2 | $2 / $12 | 1 | default | gemini-3-pro-preview-11-2025 |
 | 11 | `wcnbai.com` | ¥2 | $2 / $12 | 1 | - | gemini-3-pro-preview-11-2025 |
 | 12 | `api.132999.xyz` | ¥4 | $2 / $12 | 2 | svip | gemini-3-pro-preview-11-2025 |
-| 13 | `www.cybersol.net` | ¥4.4 | $2.2 / $13.2 | 2 | Gemini Advance | gemini-3-pro-preview-11-2025 |
-| 14 | `api.camel-hub.com` | ¥4.8 | $6 / $36 | 0.8 | default | gemini-3-pro-preview-11-2025 |
-| 15 | `poloai.top` | ¥6 | $6 / $36 | 1 | Gemini-优质临时分组 | gemini-3-pro-preview-11-2025 |
-| 16 | `poloapi.top` | ¥6 | $6 / $36 | 1 | Gemini-优质临时分组 | gemini-3-pro-preview-11-2025 |
-| 17 | `yibuapi.com` | ¥6 | $4 / $24 | 1.5 | default | gemini-3-pro-preview-11-2025 |
+| 13 | `api.camel-hub.com` | ¥4.8 | $6 / $36 | 0.8 | default | gemini-3-pro-preview-11-2025 |
+| 14 | `poloai.top` | ¥6 | $6 / $36 | 1 | Gemini-优质临时分组 | gemini-3-pro-preview-11-2025 |
+| 15 | `poloapi.top` | ¥6 | $6 / $36 | 1 | Gemini-优质临时分组 | gemini-3-pro-preview-11-2025 |
+| 16 | `yibuapi.com` | ¥6 | $4 / $24 | 1.5 | default | gemini-3-pro-preview-11-2025 |
+| 17 | `www.cybersol.net` | ¥7 | $3.5 / $21 | 2 | Gemini Premium | gemini-3-pro-preview-11-2025 |
 | 18 | `api.apib.ai` | ¥8.75 | $1.25 / $10 | 7 | - | gemini-3-pro-preview-11-2025 |
 | 19 | `api.mountainsea.ai` | ¥13.4 | $2 / $12 | 6.7 | default | gemini-3-pro-preview-11-2025 |
 | 20 | `api.ysaikeji.cn` | ¥14.6 | $2 / $12 | 7.3 | Gemini官转 | gemini-3-pro-preview-11-2025 |

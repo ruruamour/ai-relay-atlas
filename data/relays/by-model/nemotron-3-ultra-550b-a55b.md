@@ -1,6 +1,6 @@
 # nemotron-3-ultra-550b-a55b
 
-> 51 站提供 · 正常价 21 站 · 名义中位价 **$0.9**/1M 输入 · 实付中位价 **¥3.131**/1M 输入（18 站公开充值价） · 推算，未对账
+> 53 站提供 · 正常价 22 站 · 名义中位价 **$0.75**/1M 输入 · 实付中位价 **¥2.92**/1M 输入（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -13,21 +13,22 @@
 | 1 | `api.kkdmx.com` | ¥0.18 | $0.18 / $0.9 | 1 | default | nvidia/nemotron-3-ultra-550b-a55b |
 | 2 | `api.aliyunfuwu.top` | ¥0.25 | $0.25 / $1.1 | 1 | relay | nvidia/nemotron-3-ultra-550b-a55b |
 | 3 | `new.xinjianya.top` | ¥0.4 | $0.4 / $0.4 | 1 | default | nvidia/nemotron-3-ultra-550b-a55b |
-| 4 | `xiaoqie.xyz` | ¥0.6 | $0.6 / $2.4 | 1 | OpenRouter官方线路 | nvidia/nemotron-3-ultra-550b-a55b |
-| 5 | `newapi.prorisehub.com` | ¥2 | $2 / $2 | 1 | default | nvidia/nemotron-3-ultra-550b-a55b |
-| 6 | `botcf.com` | ¥2.412 | $2.412 / $9.648 | 1 | 🛰️nvidia-mix | nemotron-3-ultra-550b-a55b |
-| 7 | `xn--15q04w3tg4kio0a.com` | ¥2.412 | $2.412 / $9.648 | 1 | 🛰️nvidia-mix | nemotron-3-ultra-550b-a55b |
-| 8 | `api.luoqianyi.qzz.io` | ¥2.5 | $5 / $5 | 0.5 | default | nvidia/nemotron-3-ultra-550b-a55b |
-| 9 | `newapi.gancmcs.top` | ¥2.92 | $0.4 / $1.76 | 7.3 | 默认全模型 | nvidia/nemotron-3-ultra-550b-a55b |
-| 10 | `ai.mowen.vip` | ¥3.342 | $0.5 / $1 | 6.68494 | default | nemotron-3-ultra-550b-a55b |
-| 11 | `philia093.qzz.io` | ¥3.65 | $0.5 / $2.2 | 7.3 | default | nvidia/nemotron-3-ultra-550b-a55b |
-| 12 | `or.mux.la` | ¥4.38 | $0.6 / $3.6 | 7.3 | default | nvidia/nemotron-3-ultra-550b-a55b |
-| 13 | `ai2.qiqiai.top` | ¥6.57 | $0.9 / $4.5 | 7.3 | 官方合作渠道 | nvidia/nemotron-3-ultra-550b-a55b |
-| 14 | `api.tacklekey.com` | ¥7.019 | $0.961538 / $4.80769 | 7.3 | default | nvidia/nemotron-3-ultra-550b-a55b |
-| 15 | `api.qinzhiai.com` | ¥15.33 | $2.1 / $12.6 | 7.3 | openrouter | nvidia/nemotron-3-ultra-550b-a55b |
-| 16 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-ultra-550b-a55b |
-| 17 | `elysiver.h-e.top` | ¥30 | $6 / $24 | 5 | unattended-jungling | nvidia/nemotron-3-ultra-550b-a55b(fingerprint≈k38) |
-| 18 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | ki | nemotron-3-ultra-550b-a55b |
+| 4 | `apijing.com` | ¥0.5 | $0.5 / $2.2 | 1 | default | nvidia/nemotron-3-ultra-550b-a55b |
+| 5 | `xiaoqie.xyz` | ¥0.6 | $0.6 / $2.4 | 1 | OpenRouter官方线路 | nvidia/nemotron-3-ultra-550b-a55b |
+| 6 | `newapi.prorisehub.com` | ¥2 | $2 / $2 | 1 | default | nvidia/nemotron-3-ultra-550b-a55b |
+| 7 | `botcf.com` | ¥2.412 | $2.412 / $9.648 | 1 | 🛰️nvidia-mix | nemotron-3-ultra-550b-a55b |
+| 8 | `xn--15q04w3tg4kio0a.com` | ¥2.412 | $2.412 / $9.648 | 1 | 🛰️nvidia-mix | nemotron-3-ultra-550b-a55b |
+| 9 | `api.luoqianyi.qzz.io` | ¥2.5 | $5 / $5 | 0.5 | default | nvidia/nemotron-3-ultra-550b-a55b |
+| 10 | `newapi.gancmcs.top` | ¥2.92 | $0.4 / $1.76 | 7.3 | 默认全模型 | nvidia/nemotron-3-ultra-550b-a55b |
+| 11 | `ai.mowen.vip` | ¥3.342 | $0.5 / $1 | 6.68494 | default | nemotron-3-ultra-550b-a55b |
+| 12 | `philia093.qzz.io` | ¥3.65 | $0.5 / $2.2 | 7.3 | default | nvidia/nemotron-3-ultra-550b-a55b |
+| 13 | `or.mux.la` | ¥4.38 | $0.6 / $3.6 | 7.3 | default | nvidia/nemotron-3-ultra-550b-a55b |
+| 14 | `ai2.qiqiai.top` | ¥6.57 | $0.9 / $4.5 | 7.3 | 官方合作渠道 | nvidia/nemotron-3-ultra-550b-a55b |
+| 15 | `api.tacklekey.com` | ¥7.019 | $0.961538 / $4.80769 | 7.3 | default | nvidia/nemotron-3-ultra-550b-a55b |
+| 16 | `api.qinzhiai.com` | ¥15.33 | $2.1 / $12.6 | 7.3 | openrouter | nvidia/nemotron-3-ultra-550b-a55b |
+| 17 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | 国模 | nemotron-3-ultra-550b-a55b |
+| 18 | `elysiver.h-e.top` | ¥30 | $6 / $24 | 5 | unattended-jungling | nvidia/nemotron-3-ultra-550b-a55b(fingerprint≈k38) |
+| 19 | `api2.kscsnkli.site` | ¥36.5 | $5 / $5 | 7.3 | ki | nemotron-3-ultra-550b-a55b |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -37,4 +38,4 @@
 | 2 | `pro.fan142.top` | $0.6 / $2.4 | coding api | 1 | nvidia/nemotron-3-ultra-550b-a55b |
 | 3 | `oapi.shop` | $1.4 / $6.16 | 国模/非GPT模型汇总 | 0.4 | nvidia/nemotron-3-ultra-550b-a55b |
 
-> 30 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 31 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

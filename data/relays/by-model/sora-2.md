@@ -12,13 +12,13 @@
 |---|---|---|---|---|---|---|
 | 1 | `pay.magic666.top` | ¥0.04 | $0.04 | 1 | default | sora-2 |
 | 2 | `magic666.top` | ¥0.05 | $0.05 | 1 | default | sora-2 |
-| 3 | `new.gateway.icu` | ¥0.05 | $0.05 | 1 | default | sora-2 |
+| 3 | `new.gateway.icu` | ¥0.05 | $0.05 | 1 | sora | sora-2 |
 | 4 | `azapi.com.cn` | ¥0.06 | $0.06 | 1 | Azure | sora-2 |
-| 5 | `cnapi.kksj.org` | ¥0.09 | $0.09 | 1 | default | sora-2 |
-| 6 | `www.aiu7.com` | ¥0.09 | $0.09 | 1 | 生图专用分组 | sora-2 |
-| 7 | `aifast.site` | ¥0.1 | $0.1 | 1 | sora_video官转 | sora-2 |
-| 8 | `api.eido.top` | ¥0.1 | $0.1 | 1 | default | sora-2 |
-| 9 | `api.openai-labs.com` | ¥0.1 | $0.1 | 1 | default | sora-2 |
+| 5 | `api.openai-labs.com` | ¥0.09 | $0.09 | 1 | azure | sora-2 |
+| 6 | `cnapi.kksj.org` | ¥0.09 | $0.09 | 1 | default | sora-2 |
+| 7 | `www.aiu7.com` | ¥0.09 | $0.09 | 1 | 生图专用分组 | sora-2 |
+| 8 | `aifast.site` | ¥0.1 | $0.1 | 1 | sora_video官转 | sora-2 |
+| 9 | `api.eido.top` | ¥0.1 | $0.1 | 1 | default | sora-2 |
 | 10 | `gzxsy.vip` | ¥0.1 | $0.1 | 1 | sora2 | sora-2 |
 | 11 | `newapi.link` | ¥0.1 | $0.1 | 1 | default | sora-2 |
 | 12 | `zen-ai.top` | ¥0.1 | $0.1 | 1 | default | sora-2 |
@@ -30,7 +30,7 @@
 | 18 | `keypool.space` | ¥0.2 | $0.2 | 1 | default | sora-2-all |
 | 19 | `xinsuanai.com` | ¥0.2 | $0.2 | 1 | default | sora-2-all |
 | 20 | `test-api.apiqik.online` | ¥0.21 | $0.03 | 7 | openai | sora-2 |
-| 21 | `www.ggwk1.online` | ¥0.275 | $0.275 | 1 | AI视频-az | sora-2 |
+| 21 | `aiapibase.top` | ¥0.3 | $0.3 | 1 | default | sora-2 |
 | 22 | `api.annyun.cn` | ¥0.3 | $0.3 | 1 | default | sora-2 |
 | 23 | `api.new.bi` | ¥0.3 | $0.3 | 1 | New.bi-视频 | sora-2 |
 | 24 | `chrisapivip.com` | ¥0.3 | $0.3 | 1 | grok-video | sora-2 |
@@ -39,7 +39,7 @@
 | 27 | `www.177911.com` | ¥0.3 | $0.3 | 1 | sup_4_7 | sora-2 |
 | 28 | `test.yibuapi.com` | ¥0.3 | $0.2 | 1.5 | default | sora-2 |
 | 29 | `api.bltcy.ai` | ¥0.4 | $0.4 | 1 | openai官-优质 | sora-2 |
-| 30 | `api.hoxkai.top` | ¥0.4 | $0.4 | 1 | openai-az-l | sora-2 |
+| 30 | `api.hoxkai.top` | ¥0.4 | $0.4 | 1 | openai-az | sora-2 |
 | 31 | `api.easyart.cc` | ¥0.5 | $0.5 | 1 | default | sora-2 |
 | 32 | `oneapi.gptnb.ai` | ¥0.5 | $0.5 | 1 | official2 | sora-2 |
 | 33 | `origin.novai.su` | ¥0.5 | $0.5 | 1 | Auto | sora-2 |
@@ -70,7 +70,7 @@
 | 1 | `lobe.zen-ai.top` | $0.1 | momo | 1 | sora-2 |
 | 2 | `vip.zen-ai.top` | $0.3 | default | 3 | sora-2 |
 | 3 | `api.2000.run` | $3.6 | default | 1.2 | sora-2 |
-| 4 | `api.chaiquan.cc` | $3.6 | no-limit | 1.2 | sora-2 |
+| 4 | `api.chaiquan.cc` | $3.6 | default | 1.2 | sora-2 |
 | 5 | `cn.wucur.com` | $3.6 | default | 1.2 | sora-2 |
 | 6 | `ai.juguang.chat` | $5.5 | default | 4 | sora-2 |
 | 7 | `www.redbox.ink` | $5.5 | default | 4 | sora-2 |

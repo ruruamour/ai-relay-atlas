@@ -1,6 +1,6 @@
 # doubao-seedance-2.0
 
-> 52 站提供 · 正常价 17 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥45.34**/1M 输入（16 站公开充值价） · 推算，未对账
+> 54 站提供 · 正常价 17 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥45.34**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,8 +11,8 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.amux.ai` | ¥6.75 | $6.75 / $6.75 | 1 | premium/doubao | doubao-seedance-2.0 |
-| 2 | `beehears.com` | ¥11.25 | $11.25 / $11.25 | 1 | 🆙 GPT - Codex | doubao-seedance-2.0 |
-| 3 | `ucenter.beehears.com` | ¥11.25 | $11.25 / $11.25 | 1 | 🆙 GPT - Codex | doubao-seedance-2.0 |
+| 2 | `beehears.com` | ¥7.5 | $7.5 / $7.5 | 1 | 🆙 GPT - Codex | doubao-seedance-2.0 |
+| 3 | `ucenter.beehears.com` | ¥7.5 | $7.5 / $7.5 | 1 | 🆙 GPT - Codex | doubao-seedance-2.0 |
 | 4 | `api.cloudpass.space` | ¥15.3 | $15 / $15 | 1.02 | 视频生成 | doubao-seedance-2.0 |
 | 5 | `kitty.cloudpass.space` | ¥15.3 | $15 / $15 | 1.02 | 视频生成 | doubao-seedance-2.0 |
 | 6 | `www.678api.ai` | ¥19 | $19 / $19 | 1 | DEEPSEEK | doubao-seedance-2.0 |
@@ -33,4 +33,4 @@
 |---|---|---|---|---|---|
 | 1 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | doubao-seedance-2.0-260128 |
 
-> 35 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 37 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

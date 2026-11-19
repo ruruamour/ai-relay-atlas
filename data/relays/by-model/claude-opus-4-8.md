@@ -1,6 +1,6 @@
 # claude-opus-4-8
 
-> 2093 站提供 · 正常价 1698 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5**/1M 输入（1276 站公开充值价） · 推算，未对账
+> 2102 站提供 · 正常价 1699 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5**/1M 输入（1272 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -11,57 +11,57 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.aimasterkey.net` | ¥0.1275 | $0.1275 / $0.6375 | 1 | kiro-pro-cc | claude-opus-4-8 |
-| 2 | `gpt.mzlone.top` | ¥0.15 | $0.15 / $0.75 | 1 | gpt 0.03 | claude-opus-4-8 |
-| 3 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | default | claude-opus-4-8 |
-| 4 | `shangyou.zhuozaiya.top` | ¥0.1913 | $0.19125 / $0.95625 | 1 | CC【华强北】 | claude-opus-4-8 |
-| 5 | `api.68886868.xyz` | ¥0.2 | $0.2 / $1 | 1 | default | [野1] claude-opus-4-8 |
-| 6 | `ckff.dev` | ¥0.2 | $0.2 / $1 | 1 | default | [野1] claude-opus-4-8 |
-| 7 | `llmhub.ltd` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-Pro | claude-opus-4-8 |
-| 8 | `yetoken.vip` | ¥0.2 | $0.2 / $1 | 1 | F0-Kiro | claude-opus-4-8 |
-| 9 | `api.beibeiai.top` | ¥0.25 | $0.25 / $1.25 | 1 | kiro90缓存 | claude-opus-4-8 |
-| 10 | `apijing.com` | ¥0.25 | $0.25 / $1.25 | 1 | claudecode带缓存 | claude-opus-4-8 |
-| 11 | `fluxapi.vip` | ¥0.275 | $0.275 / $1.375 | 1 | kiro高缓存0.055x | claude-opus-4-8 |
-| 12 | `api.llmgw.xyz` | ¥0.3 | $0.3 / $1.5 | 1 | kiro15 | claude-opus-4-8 |
-| 13 | `api.suanniao.shop` | ¥0.3 | $0.3 / $1.5 | 1 | Kiro Claude  超高缓存 | claude-opus-4-8 |
-| 14 | `comput.chat` | ¥0.3 | $0.3 / $1.5 | 1 | default | claude-opus-4-8 |
-| 15 | `frugalrelay.me` | ¥0.3 | $0.3 / $1.5 | 1 | claude_sale | claude-opus-4-8 |
-| 16 | `synapse-ai.uk` | ¥0.3 | $0.3 / $1.5 | 1 | 95缓存Claude Kiro | claude-opus-4-8 |
-| 17 | `wyh.apijing.com` | ¥0.3 | $0.3 / $1.5 | 1 | claude带缓存专属 | claude-opus-4-8 |
-| 18 | `ai.f3000.com` | ¥0.35 | $0.35 / $1.75 | 1 | Kiro-claude | claude-opus-4-8 |
-| 19 | `api.mcapple.top` | ¥0.35 | $0.35 / $1.75 | 1 | kiro高缓 | claude-opus-4-8 |
-| 20 | `faojzoo.cn` | ¥0.35 | $0.7 / $3.5 | 0.5 | Claude【定制CC-Kiro华强北专线】 | claude-opus-4-8 |
-| 21 | `tokenking.cc.cd` | ¥0.35 | $0.35 / $1.75 | 1 | Z-酒馆Kiro-按量计费 | claude-opus-4-8 |
-| 22 | `ai-pixel.online` | ¥0.375 | $0.375 / $1.875 | 1 | room-1483 | claude-opus-4-8 |
-| 23 | `zl.yyapi.cloud` | ¥0.375 | $0.375 / $1.875 | 1 | kiro-自营稳定（号池1，缓存99） | claude-opus-4-8 |
-| 24 | `api-models.com` | ¥0.4 | $0.4 / $2 | 1 | Promo | claude-opus-4-8 |
-| 25 | `api.ciyuanshen.top` | ¥0.4 | $0.4 / $2 | 1 | Claude Kiro 90缓 | claude-opus-4-8 |
-| 26 | `api.feng.cx` | ¥0.4 | $0.4 / $2 | 1 | kiro claude（华强北） | claude-opus-4-8 |
-| 27 | `api.muxllm.com` | ¥0.4 | $0.4 / $2 | 1 | Claude Kiro | claude-opus-4-8 |
-| 28 | `api.routeeasy.ai` | ¥0.4 | $0.4 / $2 | 1 | kiro-0.08-1011 | claude-opus-4-8-thinking |
-| 29 | `api.tokenbits.net` | ¥0.4 | $0.4 / $2 | 1 | claude-kiro | claude-opus-4-8 |
-| 30 | `api9.bjhuiqu.net` | ¥0.4 | $0.4 / $2 | 1 | Claude-促销 | claude-opus-4-8 |
-| 31 | `cf.rule91.wtf` | ¥0.4 | $0.4 / $2 | 1 | CC-kiro | claude-opus-4-8 |
-| 32 | `cf.sheapi.cc` | ¥0.4 | $0.4 / $2 | 1 | kiro-高缓 | claude-opus-4-8 |
-| 33 | `code.aigcpro.org` | ¥0.4 | $0.4 / $2 | 1 | kiro | claude-opus-4-8 |
-| 34 | `cpa057.meta-api.vip` | ¥0.4 | $0.4 / $2 | 1 | 3.1-claude-kiro跑量 | claude-opus-4-8 |
-| 35 | `direct.mianyouyou.xyz` | ¥0.4 | $0.4 / $2 | 1 | kiro | claude-opus-4-8 |
-| 36 | `liliapi.siphot.com` | ¥0.4 | $0.4 / $2 | 1 | kiro 高缓 | claude-opus-4-8 |
-| 37 | `model-probe.jbbtoken.cn` | ¥0.4 | $0.4 / $2 | 1 | claude-kiro | claude-opus-4-8 |
-| 38 | `www.kamiapi.top` | ¥0.4 | $0.4 / $2 | 1 | Claude Kiro 标准版 | claude-opus-4-8 |
-| 39 | `xixi.bjhuiqu.net` | ¥0.4 | $0.4 / $2 | 1 | site_34~5641acb98aaba7ce | claude-opus-4-8 |
-| 40 | `xlapis.com` | ¥0.4 | $0.4 / $2 | 1 | Claude-CHAT | claude-opus-4-8 |
-| 41 | `ymeng.cc` | ¥0.4 | $0.4 / $2 | 1 | Claude-AwsQ-Kiro | claude-opus-4-8 |
-| 42 | `airouter.mxyhi.com` | ¥0.405 | $0.405 / $2.025 | 1 | kiro | claude-opus-4-8 |
-| 43 | `apibasis.com` | ¥0.425 | $0.425 / $2.125 | 1 | Kiro 90%缓存 | claude-opus-4-8 |
-| 44 | `uselink.cn` | ¥0.425 | $0.425 / $2.125 | 1 | default | claude-opus-4-8 |
-| 45 | `api.aihub8.top` | ¥0.45 | $0.45 / $2.25 | 1 | 【Claude】低价组 | claude-opus-4-8 |
-| 46 | `lsapi.cloud` | ¥0.45 | $0.45 / $2.25 | 1 | kiro | claude-opus-4-8 |
-| 47 | `new.tianluo.ccwu.cc` | ¥0.45 | $0.45 / $2.25 | 1 | 等我搞货 | claude-opus-4-8 |
-| 48 | `nova.vcrauo.com` | ¥0.45 | $0.45 / $2.25 | 1 | Claude--kiro·稳定高缓渠道 | claude-opus-4-8 |
-| 49 | `tk.8t.chat` | ¥0.45 | $0.45 / $2.25 | 1 | claude-kiro | claude-opus-4-8 |
-| 50 | `www.dxlingxiapi.top` | ¥0.45 | $0.45 / $2.25 | 1 | Claude kiro | claude-opus-4-8 |
+| 2 | `code28.ccwu.cc` | ¥0.15 | $0.15 / $0.75 | 1 | claude-kiro-超低价版(80缓) | claude-opus-4-8 |
+| 3 | `gpt.mzlone.top` | ¥0.15 | $0.15 / $0.75 | 1 | gpt 0.03 | claude-opus-4-8 |
+| 4 | `⚠️codelypixverse.com` | ¥0.1538 | $0.153846 / $0.153846 | 1 | vip | claude-opus-4-8 |
+| 5 | `shangyou.zhuozaiya.top` | ¥0.1913 | $0.19125 / $0.95625 | 1 | CC【华强北】 | claude-opus-4-8 |
+| 6 | `ai.zhongygod.com` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-低智商 | claude-opus-4-8 |
+| 7 | `ai.zyyun.xyz` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-低智商 | claude-opus-4-8 |
+| 8 | `api.68886868.xyz` | ¥0.2 | $0.2 / $1 | 1 | default | [野1] claude-opus-4-8 |
+| 9 | `ckff.dev` | ¥0.2 | $0.2 / $1 | 1 | default | [野1] claude-opus-4-8 |
+| 10 | `llmhub.ltd` | ¥0.2 | $0.2 / $1 | 1 | Claude-Kiro-Pro | claude-opus-4-8 |
+| 11 | `yetoken.vip` | ¥0.2 | $0.2 / $1 | 1 | F0-Kiro | claude-opus-4-8 |
+| 12 | `api.beibeiai.top` | ¥0.25 | $0.25 / $1.25 | 1 | kiro90缓存 | claude-opus-4-8 |
+| 13 | `apijing.com` | ¥0.25 | $0.25 / $1.25 | 1 | claudecode带缓存 | claude-opus-4-8 |
+| 14 | `fluxapi.vip` | ¥0.275 | $0.275 / $1.375 | 1 | kiro高缓存0.055x | claude-opus-4-8 |
+| 15 | `api.llmgw.xyz` | ¥0.3 | $0.3 / $1.5 | 1 | kiro15 | claude-opus-4-8 |
+| 16 | `api.suanniao.shop` | ¥0.3 | $0.3 / $1.5 | 1 | Kiro Claude  超高缓存 | claude-opus-4-8 |
+| 17 | `azemm.cc` | ¥0.3 | $0.3 / $1.5 | 1 | Claude kiro | claude-opus-4-8 |
+| 18 | `cf.modelflare.dev` | ¥0.3 | $0.3 / $1.5 | 1 | claude-tmp-cheap | claude-opus-4-8 |
+| 19 | `comput.chat` | ¥0.3 | $0.3 / $1.5 | 1 | default | claude-opus-4-8 |
+| 20 | `frugalrelay.me` | ¥0.3 | $0.3 / $1.5 | 1 | claude_sale | claude-opus-4-8 |
+| 21 | `synapse-ai.uk` | ¥0.3 | $0.3 / $1.5 | 1 | 95缓存Claude Kiro | claude-opus-4-8 |
+| 22 | `wyh.apijing.com` | ¥0.3 | $0.3 / $1.5 | 1 | claude带缓存专属 | claude-opus-4-8 |
+| 23 | `555codex.xyz` | ¥0.34 | $0.34 / $1.7 | 1 | cc-max | claude-opus-4-8 |
+| 24 | `ai.f3000.com` | ¥0.35 | $0.35 / $1.75 | 1 | Kiro-claude | claude-opus-4-8 |
+| 25 | `api.mcapple.top` | ¥0.35 | $0.35 / $1.75 | 1 | kiro高缓 | claude-opus-4-8 |
+| 26 | `faojzoo.cn` | ¥0.35 | $0.7 / $3.5 | 0.5 | Claude【定制CC-Kiro华强北专线】 | claude-opus-4-8 |
+| 27 | `new.tianluo.ccwu.cc` | ¥0.35 | $0.35 / $1.75 | 1 | 等我搞货 | claude-opus-4-8 |
+| 28 | `tokenking.cc.cd` | ¥0.35 | $0.35 / $1.75 | 1 | Z-酒馆Kiro-按量计费 | claude-opus-4-8 |
+| 29 | `ai-pixel.online` | ¥0.375 | $0.375 / $1.875 | 1 | room-1483 | claude-opus-4-8 |
+| 30 | `zl.yyapi.cloud` | ¥0.375 | $0.375 / $1.875 | 1 | kiro-自营稳定（号池1，缓存99） | claude-opus-4-8 |
+| 31 | `api-models.com` | ¥0.4 | $0.4 / $2 | 1 | Promo | claude-opus-4-8 |
+| 32 | `api.ciyuanshen.top` | ¥0.4 | $0.4 / $2 | 1 | Claude Kiro 90缓 | claude-opus-4-8 |
+| 33 | `api.feng.cx` | ¥0.4 | $0.4 / $2 | 1 | kiro claude（华强北） | claude-opus-4-8 |
+| 34 | `api.muxllm.com` | ¥0.4 | $0.4 / $2 | 1 | Claude Kiro | claude-opus-4-8 |
+| 35 | `api.routeeasy.ai` | ¥0.4 | $0.4 / $2 | 1 | kiro-0.08-1011 | claude-opus-4-8-thinking |
+| 36 | `api.tokenbits.net` | ¥0.4 | $0.4 / $2 | 1 | claude-kiro | claude-opus-4-8 |
+| 37 | `api9.bjhuiqu.net` | ¥0.4 | $0.4 / $2 | 1 | Claude-促销 | claude-opus-4-8 |
+| 38 | `cf.rule91.wtf` | ¥0.4 | $0.4 / $2 | 1 | CC-kiro | claude-opus-4-8 |
+| 39 | `code.aigcpro.org` | ¥0.4 | $0.4 / $2 | 1 | kiro | claude-opus-4-8 |
+| 40 | `cpa057.meta-api.vip` | ¥0.4 | $0.4 / $2 | 1 | 3.1-claude-kiro跑量 | claude-opus-4-8 |
+| 41 | `direct.mianyouyou.xyz` | ¥0.4 | $0.4 / $2 | 1 | kiro | claude-opus-4-8 |
+| 42 | `liliapi.siphot.com` | ¥0.4 | $0.4 / $2 | 1 | kiro 高缓 | claude-opus-4-8 |
+| 43 | `model-probe.jbbtoken.cn` | ¥0.4 | $0.4 / $2 | 1 | claude-kiro | claude-opus-4-8 |
+| 44 | `www.kamiapi.top` | ¥0.4 | $0.4 / $2 | 1 | Claude Kiro 标准版 | claude-opus-4-8 |
+| 45 | `xixi.bjhuiqu.net` | ¥0.4 | $0.4 / $2 | 1 | site_34~5641acb98aaba7ce | claude-opus-4-8 |
+| 46 | `xlapis.com` | ¥0.4 | $0.4 / $2 | 1 | Claude-CHAT | claude-opus-4-8 |
+| 47 | `ymeng.cc` | ¥0.4 | $0.4 / $2 | 1 | Claude-AwsQ-Kiro | claude-opus-4-8 |
+| 48 | `airouter.mxyhi.com` | ¥0.405 | $0.405 / $2.025 | 1 | kiro | claude-opus-4-8 |
+| 49 | `apibasis.com` | ¥0.425 | $0.425 / $2.125 | 1 | Kiro 90%缓存 | claude-opus-4-8 |
+| 50 | `api.aieyra.cn` | ¥0.4462 | $0.44625 / $2.23125 | 1 | Claude | claude-opus-4-8 |
 
-> 另有 1226 站未列出。
+> 另有 1222 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -70,42 +70,42 @@
 | 1 | `www.bb-api.com` | $0.15 / $0.75 | 【A/003】CCkiro | 0.03 | claude-opus-4-8 |
 | 2 | `staging-sub.geiliapi.com` | $0.2 / $1 | CC-Kiro | 0.2 | claude-opus-4-8 |
 | 3 | `sub.geiliapi.com` | $0.2 / $1 | CC-Kiro | 0.2 | claude-opus-4-8 |
-| 4 | `api.247kan.com` | $0.25 / $1.25 | Claude Kiro | 0.05 | claude-opus-4-8 |
-| 5 | `api.text168.com` | $0.25 / $1.25 | kiro正价99缓-power | 0.05 | claude-opus-4.8 |
-| 6 | `llm.twinight.co` | $0.25 / $1.25 | Claude Kiro · 余额 0.05x | 0.05 | claude-opus-4-8 |
-| 7 | `⚠️mhapi.net` | $0.25 / $1.25 | Claude Kiro 有缓90 | 0.05 | claude-opus-4-8 |
-| 8 | `kukuai.ai` | $0.251472 / $1.25735 | 线路3 | 1 | claude-opus-4-8 |
-| 9 | `88.scxai.top` | $0.3 / $1.5 | cursor-claude | 0.06 | claude-opus-4-8 |
+| 4 | `kukuai.ai` | $0.211766 / $1.05883 | 线路20 | 1 | claude-opus-4-8 |
+| 5 | `api.247kan.com` | $0.25 / $1.25 | Claude Kiro | 0.05 | claude-opus-4-8 |
+| 6 | `api.text168.com` | $0.25 / $1.25 | kiro正价99缓-power | 0.05 | claude-opus-4.8 |
+| 7 | `llm.twinight.co` | $0.25 / $1.25 | Claude Kiro · 余额 0.05x | 0.05 | claude-opus-4-8 |
+| 8 | `⚠️mhapi.net` | $0.25 / $1.25 | Claude Kiro 有缓90 | 0.05 | claude-opus-4-8 |
+| 9 | `tntapi.com` | $0.25 / $1.25 | Claude Kiro 低价 | 0.05 | claude-opus-4-8 |
 | 10 | `api.apikl.ai` | $0.3 / $1.5 | Krio | 0.06 | claude-opus-4-8 |
-| 11 | `apiai.fun` | $0.3 / $1.5 | Krio | 0.06 | claude-opus-4-8 |
-| 12 | `new.984275579.xyz` | $0.3 / $1.5 | claude kiro 99缓 | 0.06 | claude-opus-4-8 |
-| 13 | `tntapi.com` | $0.3 / $1.5 | Claude Kiro 低价 | 0.06 | claude-opus-4-8 |
+| 11 | `api.relaycore.cn` | $0.3 / $1.5 | Claude-Kiro | 0.06 | claude-opus-4-8 |
+| 12 | `apiai.fun` | $0.3 / $1.5 | Krio | 0.06 | claude-opus-4-8 |
+| 13 | `new.984275579.xyz` | $0.3 / $1.5 | claude kiro 99缓 | 0.06 | claude-opus-4-8 |
 | 14 | `www.starapi.cc` | $0.325 / $1.625 | Kiro Cheap | 0.065 | claude-opus-4-8 |
-| 15 | `hanhegufei.online` | $0.35 / $1.75 | claude_kiro | 0.07 | claude-opus-4-8 |
-| 16 | `nb.deepsb.com` | $0.35 / $1.75 | kiro-高思考高缓存 | 0.07 | claude-opus-4-8 |
-| 17 | `sub2.molytea.ccwu.cc` | $0.35 / $1.75 | cc 反重 | 0.07 | claude-opus-4-8 |
-| 18 | `xigong.cloud` | $0.36 / $1.8 | Kiro高缓存 | 0.072 | claude-opus-4-8 |
-| 19 | `kktyh.com` | $0.375 / $1.875 | Kiro Claude 无缓存 | 0.075 | claude-opus-4-8 |
-| 20 | `ai.entrylk.cn` | $0.4 / $2 | cc kiro | 0.08 | claude-opus-4-8 |
-| 21 | `api.123uq.com` | $0.4 / $2 | kiro-99缓 | 0.08 | claude-opus-4-8 |
-| 22 | `api.socode.cc` | $0.4 / $2 | Claude[Kiro] | 0.08 | claude-opus-4-8 |
-| 23 | `api.tcvps.cn` | $0.4 / $2 | Claude组【Kiro定制专线】低价线路★★★ | 0.08 | claude-opus-4-8 |
-| 24 | `hahacode.com` | $0.4 / $2 | claude-kiro-有缓 | 0.08 | claude-opus-4-8 |
-| 25 | `hhw1231.com` | $0.4 / $2 | Kiro | 0.08 | claude-opus-4-8 |
-| 26 | `www.civilian.asia` | $0.4 / $2 | claude-kiro | 0.08 | claude-opus-4-8 |
-| 27 | `xinyue.mom` | $0.4 / $2 | Claude-Kiro | 0.08 | claude-opus-4-8 |
-| 28 | `x.ailzd.com` | $0.42 / $2.1 | 高缓kiro | 0.084 | claude-opus-4-8 |
-| 29 | `api.gguuai.com` | $0.425 / $2.125 | Claude-Kiro | 0.085 | claude-opus-4-8 |
-| 30 | `api-hub.asia` | $0.45 / $2.25 | Claude-kiro | 0.09 | claude-opus-4-8 |
-| 31 | `api.bigsnake.xyz` | $0.45 / $2.25 | kiro | 0.09 | claude-opus-4-8 |
-| 32 | `77api.top` | $0.5 / $2.5 | ClaudeCode【高并发-临时分组】 | 0.1 | claude-opus-4-8 |
-| 33 | `ahao.online` | $0.5 / $2.5 | Claude-kiro | 0.1 | claude-opus-4-8 |
-| 34 | `ai.aicca.cc` | $0.5 / $2.5 | claude-kiro-补助 | 0.1 | claude-opus-4-8 |
-| 35 | `aigw.store` | $0.5 / $2.5 | Claude Kiro | 0.1 | claude-opus-4-8 |
-| 36 | `aodo.ai` | $0.5 / $2.5 | Claude Kiro | 0.1 | claude-opus-4-8 |
-| 37 | `api.bobrouter.com` | $0.5 / $2.5 | Anthropic Kiro | 0.1 | claude-opus-4-8 |
-| 38 | `api.kcne.top` | $0.5 / $2.5 | Claude-Kiro | 0.1 | claude-opus-4-8 |
-| 39 | `api.tmiaow.cn` | $0.5 / $2.5 | ClaudeCode【高并发-临时分组】 | 0.1 | claude-opus-4-8 |
+| 15 | `api-hub.asia` | $0.35 / $1.75 | Claude-kiro | 0.07 | claude-opus-4-8 |
+| 16 | `hanhegufei.online` | $0.35 / $1.75 | claude_kiro | 0.07 | claude-opus-4-8 |
+| 17 | `nb.deepsb.com` | $0.35 / $1.75 | kiro-高思考高缓存 | 0.07 | claude-opus-4-8 |
+| 18 | `sub.skypoem.top` | $0.35 / $1.75 | kiro(华强北) | 0.07 | claude-opus-4-8 |
+| 19 | `sub2.molytea.ccwu.cc` | $0.35 / $1.75 | cc 反重 | 0.07 | claude-opus-4-8 |
+| 20 | `xigong.cloud` | $0.36 / $1.8 | Kiro高缓存 | 0.072 | claude-opus-4-8 |
+| 21 | `kktyh.com` | $0.375 / $1.875 | Kiro Claude 无缓存 | 0.075 | claude-opus-4-8 |
+| 22 | `ai.entrylk.cn` | $0.4 / $2 | cc kiro | 0.08 | claude-opus-4-8 |
+| 23 | `api.123uq.com` | $0.4 / $2 | kiro-99缓 | 0.08 | claude-opus-4-8 |
+| 24 | `api.999555999.com` | $0.4 / $2 | Claude-Kiro(稳定) | 0.08 | claude-opus-4-8 |
+| 25 | `api.bingyun.vip` | $0.4 / $2 | Kiro | 0.08 | claude-opus-4-8 |
+| 26 | `api.socode.cc` | $0.4 / $2 | Claude[Kiro] | 0.08 | claude-opus-4-8 |
+| 27 | `api.tcvps.cn` | $0.4 / $2 | Claude组【Kiro定制专线】低价线路★★★ | 0.08 | claude-opus-4-8 |
+| 28 | `hahacode.com` | $0.4 / $2 | claude-kiro-有缓 | 0.08 | claude-opus-4-8 |
+| 29 | `hhw1231.com` | $0.4 / $2 | Kiro | 0.08 | claude-opus-4-8 |
+| 30 | `www.civilian.asia` | $0.4 / $2 | claude-kiro | 0.08 | claude-opus-4-8 |
+| 31 | `xinyue.mom` | $0.4 / $2 | Claude-Kiro | 0.08 | claude-opus-4-8 |
+| 32 | `x.ailzd.com` | $0.42 / $2.1 | 高缓kiro | 0.084 | claude-opus-4-8 |
+| 33 | `api.gguuai.com` | $0.425 / $2.125 | Claude-Kiro | 0.085 | claude-opus-4-8 |
+| 34 | `api.bigsnake.xyz` | $0.45 / $2.25 | kiro | 0.09 | claude-opus-4-8 |
+| 35 | `ahao.online` | $0.5 / $2.5 | Claude-kiro | 0.1 | claude-opus-4-8 |
+| 36 | `aigw.store` | $0.5 / $2.5 | Claude Kiro | 0.1 | claude-opus-4-8 |
+| 37 | `aodo.ai` | $0.5 / $2.5 | Claude Kiro | 0.1 | claude-opus-4-8 |
+| 38 | `api.bobrouter.com` | $0.5 / $2.5 | Anthropic Kiro | 0.1 | claude-opus-4-8 |
+| 39 | `api.kcne.top` | $0.5 / $2.5 | Claude-Kiro | 0.1 | claude-opus-4-8 |
 | 40 | `api.tokenfree.chat` | $0.5 / $2.5 | KIRO 高缓 | 0.1 | claude-opus-4-8 |
 | 41 | `emooo.cc` | $0.5 / $2.5 | 【Claude】Kiro高智无缓 | 0.1 | claude-opus-4-8 |
 | 42 | `hetune.top` | $0.5 / $2.5 | Krio稳定 | 0.1 | claude-opus-4-8 |
@@ -113,11 +113,11 @@
 | 44 | `llm-coding.space` | $0.5 / $2.5 | kiro | 0.1 | claude-opus-4-8 |
 | 45 | `pureai.ink` | $0.5 / $2.5 | B-Kiro-Cache 90+ | 0.1 | claude-opus-4-8 |
 | 46 | `sub.sixoner.com` | $0.5 / $2.5 | kiro 高缓 | 0.1 | claude-opus-4-8 |
-| 47 | `sub.skypoem.top` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
-| 48 | `sub2api.luchikey.com` | $0.5 / $2.5 | kiro反代普通 | 0.1 | claude-opus-4-8 |
-| 49 | `www.deponia.me` | $0.5 / $2.5 | Kiro90缓  | 0.1 | claude-opus-4-8 |
-| 50 | `www.largechestnut.com` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
+| 47 | `sub2api.luchikey.com` | $0.5 / $2.5 | kiro反代普通 | 0.1 | claude-opus-4-8 |
+| 48 | `www.deponia.me` | $0.5 / $2.5 | Kiro90缓  | 0.1 | claude-opus-4-8 |
+| 49 | `www.largechestnut.com` | $0.5 / $2.5 | claude-kiro | 0.1 | claude-opus-4-8 |
+| 50 | `www.nmoon.cc` | $0.5 / $2.5 | kiro 华强北定制版 | 0.1 | claude-opus-4-8 |
 
-> 另有 372 站未列出。
+> 另有 377 站未列出。
 
-> 395 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 403 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

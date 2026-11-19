@@ -1,6 +1,6 @@
 # z-image-turbo
 
-> 173 站提供 · 正常价 153 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.07526**/次（95 站公开充值价） · 推算，未对账
+> 173 站提供 · 正常价 153 站 · 名义中位价 **$0.05**/次 · 实付中位价 **¥0.07523**/次（95 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -17,49 +17,49 @@
 | 5 | `api.kr777.top` | ¥0.024 | $0.03 | 0.8 | default | z-image-turbo |
 | 6 | `api.eido.top` | ¥0.03 | $0.03 | 1 | default | z-image-turbo |
 | 7 | `tokenflux.ai` | ¥0.035 | $0.005 | 7 | default | image/prunaai/z-image-turbo |
-| 8 | `api.videocaptioner.cn` | ¥0.03779 | $0.005625 | 6.718 | Alibaba-1 | z-image-turbo |
-| 9 | `ai.mowen.vip` | ¥0.04579 | $0.00684932 | 6.68494 | default | Z-Image-Turbo |
-| 10 | `kfcv50.link` | ¥0.05 | $0.05 | 1 | Domestic | z-image-turbo |
-| 11 | `www.ggwk1.online` | ¥0.05 | $0.05 | 1 | 其他绘画 | z-image-turbo |
-| 12 | `api.openlux.ai` | ¥0.05017 | $0.0075 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 13 | `api.relayrouter.ai` | ¥0.05017 | $0.0075 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 14 | `openlux.zhongzhuan.chat` | ¥0.05017 | $0.0075 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 15 | `4zapi.com` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 16 | `ai.kalehui.cn` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 17 | `aiopus.top` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 18 | `aipipe.site` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 19 | `api.anthropicricardo.club` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 20 | `api.modelyard.cc` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 21 | `api.tidewhisper-ai.xyz` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 22 | `apistudio.vip` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 23 | `dawnnode.com` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 24 | `gzxbykj.com` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 25 | `tiantoken.cn` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 26 | `token.kkdmx.com` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
+| 8 | `ai.mowen.vip` | ¥0.04579 | $0.00684932 | 6.68494 | default | Z-Image-Turbo |
+| 9 | `kfcv50.link` | ¥0.05 | $0.05 | 1 | Domestic | z-image-turbo |
+| 10 | `api.openlux.ai` | ¥0.05016 | $0.0075 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 11 | `api.relayrouter.ai` | ¥0.05016 | $0.0075 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 12 | `openlux.zhongzhuan.chat` | ¥0.05016 | $0.0075 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 13 | `4zapi.com` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 14 | `aiopus.top` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 15 | `aipipe.site` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 16 | `api.anthropicricardo.club` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 17 | `api.modelyard.cc` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 18 | `api.tidewhisper-ai.xyz` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 19 | `apistudio.vip` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 20 | `dawnnode.com` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 21 | `tiantoken.cn` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 22 | `token.kkdmx.com` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 23 | `www.vectronode.com` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 24 | `www.xiaoruiera.top` | ¥0.05517 | $0.00825 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 25 | `ai.kalehui.cn` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
+| 26 | `gzxbykj.com` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
 | 27 | `vortexapi.cn` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 28 | `www.vectronode.com` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 29 | `www.xiaoruiera.top` | ¥0.05519 | $0.00825 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 30 | `yunwu.org` | ¥0.05619 | $0.0084 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 31 | `api.antmoo.cc` | ¥0.0577 | $0.008625 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 32 | `v2.cloudmist.cloud` | ¥0.0577 | $0.008625 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 33 | `apiclaw.cn` | ¥0.06071 | $0.009075 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 34 | `ciyuan.today` | ¥0.06271 | $0.009375 | 6.68934 | Alibaba-1 | z-image-turbo |
+| 28 | `yunwu.org` | ¥0.05618 | $0.0084 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 29 | `api.antmoo.cc` | ¥0.05768 | $0.008625 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 30 | `v2.cloudmist.cloud` | ¥0.05768 | $0.008625 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 31 | `apiclaw.cn` | ¥0.06069 | $0.009075 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 32 | `newapi.xueai.me` | ¥0.06069 | $0.009075 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 33 | `ciyuan.today` | ¥0.0627 | $0.009375 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 34 | `makerend.com` | ¥0.0627 | $0.009375 | 6.68752 | Alibaba-1 | z-image-turbo |
 | 35 | `gptapi.top` | ¥0.06271 | $0.009375 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 36 | `makerend.com` | ¥0.06271 | $0.009375 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 37 | `moliapi.com` | ¥0.06321 | $0.00945 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 38 | `api.34ku.com` | ¥0.065 | $0.065 | 1 | default | z-image-turbo |
-| 39 | `ai-api.cc` | ¥0.06522 | $0.00975 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 40 | `sucloud.vip` | ¥0.06522 | $0.00975 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 41 | `newapi.xueai.me` | ¥0.06622 | $0.0099 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 42 | `nodapi.com` | ¥0.06622 | $0.0099 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 43 | `anyaigc.ai` | ¥0.06773 | $0.010125 | 6.68934 | Alibaba-1 | z-image-turbo |
+| 36 | `moliapi.com` | ¥0.0632 | $0.00945 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 37 | `api.34ku.com` | ¥0.065 | $0.065 | 1 | default | z-image-turbo |
+| 38 | `ai-api.cc` | ¥0.0652 | $0.00975 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 39 | `sucloud.vip` | ¥0.0652 | $0.00975 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 40 | `nodapi.com` | ¥0.06622 | $0.0099 | 6.68934 | Alibaba-1 | z-image-turbo |
+| 41 | `anyaigc.ai` | ¥0.06771 | $0.010125 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 42 | `sheepaiplus.top` | ¥0.07022 | $0.0105 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 43 | `xiguapi.icu` | ¥0.07022 | $0.0105 | 6.68752 | Alibaba-1 | z-image-turbo |
 | 44 | `fluxapi.top` | ¥0.07024 | $0.0105 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 45 | `sheepaiplus.top` | ¥0.07024 | $0.0105 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 46 | `xiguapi.icu` | ¥0.07024 | $0.0105 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 47 | `api.88api.chat` | ¥0.07526 | $0.01125 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 48 | `infai.cc` | ¥0.07526 | $0.01125 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 49 | `lanbuff.app` | ¥0.07526 | $0.01125 | 6.68934 | Alibaba-1 | z-image-turbo |
-| 50 | `new.aigc2d.com` | ¥0.07526 | $0.01125 | 6.68934 | Alibaba-1 | z-image-turbo |
+| 45 | `api.88api.chat` | ¥0.07523 | $0.01125 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 46 | `infai.cc` | ¥0.07523 | $0.01125 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 47 | `lanbuff.app` | ¥0.07523 | $0.01125 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 48 | `new.aigc2d.com` | ¥0.07523 | $0.01125 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 49 | `open.clai.click` | ¥0.07523 | $0.01125 | 6.68752 | Alibaba-1 | z-image-turbo |
+| 50 | `oyy-ai.xyz` | ¥0.07526 | $0.01125 | 6.68934 | Alibaba-1 | z-image-turbo |
 
 > 另有 45 站未列出。
 

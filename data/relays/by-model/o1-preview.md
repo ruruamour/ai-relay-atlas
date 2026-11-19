@@ -1,6 +1,6 @@
 # o1-preview
 
-> 138 站提供 · 正常价 117 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥30**/1M 输入（107 站公开充值价） · 推算，未对账
+> 133 站提供 · 正常价 113 站 · 名义中位价 **$15**/1M 输入 · 实付中位价 **¥30.61**/1M 输入（103 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -42,26 +42,26 @@
 | 30 | `platform.anyrouter.ai` | ¥15 | $15 / $60 | 1 | Azure4 | o1-preview |
 | 31 | `xinsuanai.com` | ¥15 | $15 / $60 | 1 | default | o1-preview |
 | 32 | `ai.t8star.org` | ¥16.2 | $12 / $48 | 1.35 | vip | o1-preview |
-| 33 | `api.openai-hub.net` | ¥16.5 | $16.5 / $66 | 1 | cheap | o1-preview-2024-09-12 |
-| 34 | `new.yihubang.top` | ¥16.5 | $16.5 / $66 | 1 | GPT 中转 | o1-preview |
-| 35 | `xrok.dev` | ¥16.5 | $16.5 / $66 | 1 | AZ-GPT | o1-preview |
-| 36 | `jyzl.apihy.com` | ¥19.27 | $2.64 / $10.56 | 7.3 | default | o1-preview |
-| 37 | `api.34ku.com` | ¥19.5 | $19.5 / $78 | 1 | default | o1-preview |
-| 38 | `proaiapi.tech` | ¥20 | $20 / $80 | 1 | default | o1-preview |
-| 39 | `api.ocoolai.com` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
-| 40 | `api.xhuoai.com` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
-| 41 | `beehears.com` | ¥22.5 | $22.5 / $90 | 1 | ✳️ GPT生图2 - AZ | o1-preview |
-| 42 | `ocool.cn` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
-| 43 | `one.ooo.cool` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
-| 44 | `ucenter.beehears.com` | ¥22.5 | $22.5 / $90 | 1 | ✳️ GPT生图2 - AZ | o1-preview |
-| 45 | `vakv.cn` | ¥22.5 | $22.5 / $90 | 1 | Azure-gpt | o1-preview |
-| 46 | `yun.v1api.cc` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
-| 47 | `147ai.online` | ¥24 | $30 / $120 | 0.8 | default | o1-preview |
-| 48 | `closedai.kylenqaq.com` | ¥24 | $24 / $96 | 1 | Azure GPT | o1-preview |
-| 49 | `aws.baby` | ¥27 | $27 / $108 | 1 | Az GPT 文本全模型 | o1-preview-2024-09-12 |
-| 50 | `biezou.com` | ¥27 | $27 / $108 | 1 | Az GPT 文本全模型 | o1-preview-2024-09-12 |
+| 33 | `new.yihubang.top` | ¥16.5 | $16.5 / $66 | 1 | GPT 中转 | o1-preview |
+| 34 | `xrok.dev` | ¥16.5 | $16.5 / $66 | 1 | AZ-GPT | o1-preview |
+| 35 | `jyzl.apihy.com` | ¥19.27 | $2.64 / $10.56 | 7.3 | default | o1-preview |
+| 36 | `api.34ku.com` | ¥19.5 | $19.5 / $78 | 1 | default | o1-preview |
+| 37 | `proaiapi.tech` | ¥20 | $20 / $80 | 1 | default | o1-preview |
+| 38 | `api.ocoolai.com` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
+| 39 | `api.xhuoai.com` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
+| 40 | `beehears.com` | ¥22.5 | $22.5 / $90 | 1 | ✳️ GPT生图2 - AZ | o1-preview |
+| 41 | `ocool.cn` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
+| 42 | `one.ooo.cool` | ¥22.5 | $22.5 / $90 | 1 | default | o1-preview |
+| 43 | `ucenter.beehears.com` | ¥22.5 | $22.5 / $90 | 1 | ✳️ GPT生图2 - AZ | o1-preview |
+| 44 | `vakv.cn` | ¥22.5 | $22.5 / $90 | 1 | Azure-gpt | o1-preview |
+| 45 | `yun.v1api.cc` | ¥22.5 | $15 / $60 | 1.5 | default | o1-preview |
+| 46 | `147ai.online` | ¥24 | $30 / $120 | 0.8 | default | o1-preview |
+| 47 | `closedai.kylenqaq.com` | ¥24 | $24 / $96 | 1 | Azure GPT | o1-preview |
+| 48 | `botcf.com` | ¥27 | $27 / $108 | 1 | 🏢openai-azure | o1-preview |
+| 49 | `xn--15q04w3tg4kio0a.com` | ¥27 | $27 / $108 | 1 | 🏢openai-azure | o1-preview |
+| 50 | `api.qiqiai.top` | ¥30 | $15 / $60 | 2 | default | o1-preview |
 
-> 另有 57 站未列出。
+> 另有 53 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -78,4 +78,4 @@
 | 9 | `yuli.host` | $15 / $60 | default | 1 | o1-preview |
 | 10 | `vip.zen-ai.top` | $45 / $180 | default | 3 | o1-preview-2024-09-12 |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

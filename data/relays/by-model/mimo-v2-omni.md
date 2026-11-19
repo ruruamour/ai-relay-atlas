@@ -1,6 +1,6 @@
 # mimo-v2-omni
 
-> 27 站提供 · 正常价 21 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.727**/1M 输入（18 站公开充值价） · 推算，未对账
+> 25 站提供 · 正常价 19 站 · 名义中位价 **$0.6**/1M 输入 · 实付中位价 **¥2.387**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -21,13 +21,11 @@
 | 9 | `aiapi.world` | ¥2.653 | $0.39015 / $1.95075 | 6.8 | cmodels | mimo-v2-omni |
 | 10 | `freegpt.tech` | ¥2.8 | $2.8 / $14 | 1 | default | mimo-v2-omni |
 | 11 | `api.tokenrouter.com` | ¥2.8 | $0.4 / $2 | 7 | default | xiaomi/mimo-v2-omni |
-| 12 | `zgc.apihy.com` | ¥3.008 | $0.412 / $2.059 | 7.3 | default | mimo-v2-omni |
-| 13 | `aiberm.com` | ¥3.197 | $0.46 / $1.38 | 6.95 | default | mimo-v2-omni |
-| 14 | `mb.dmxapi.cn` | ¥5.165 | $1.033 / $5.166 | 5 | default | mimo-v2-omni |
-| 15 | `cn.gptapi.asia` | ¥19.6 | $19.6 / $98 | 1 | enterprise | mimo-v2-omni |
-| 16 | `yutoapi.com` | ¥19.6 | $19.6 / $98 | 1 | enterprise | mimo-v2-omni |
-| 17 | `api.ai-gaochao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-omni |
-| 18 | `apius.shubiaobiao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-omni |
+| 12 | `aiberm.com` | ¥3.197 | $0.46 / $1.38 | 6.95 | default | mimo-v2-omni |
+| 13 | `cn.gptapi.asia` | ¥19.6 | $19.6 / $98 | 1 | enterprise | mimo-v2-omni |
+| 14 | `yutoapi.com` | ¥19.6 | $19.6 / $98 | 1 | enterprise | mimo-v2-omni |
+| 15 | `api.ai-gaochao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-omni |
+| 16 | `apius.shubiaobiao.cn` | ¥20.44 | $2.8 / $14 | 7.3 | SSVIP | mimo-v2-omni |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

@@ -1,6 +1,6 @@
 # qwen-tts
 
-> 25 站提供 · 正常价 10 站 · 名义中位价 **$0.916**/1M 输入 · 实付中位价 **¥4.168**/1M 输入（10 站公开充值价） · 推算，未对账
+> 23 站提供 · 正常价 8 站 · 名义中位价 **$1.1**/1M 输入 · 实付中位价 **¥6.251**/1M 输入（8 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,13 +12,11 @@
 |---|---|---|---|---|---|---|
 | 1 | `e-flowcode.cc` | ¥0.64 | $0.64 / $4 | 1 | 0_Tools_Sound | qwen-tts |
 | 2 | `gpt777.top` | ¥1.28 | $1.28 / $8 | 1 | opensource | qwen-tts-2025-05-22 |
-| 3 | `api.ifopen.ai` | ¥1.456 | $0.416 / $2.6 | 3.5 | 通用大模型 | qwen-tts-2025-05-22 |
-| 4 | `api2.aigcbest.top` | ¥1.456 | $0.416 / $2.6 | 3.5 | 通用大模型 | qwen-tts-2025-05-22 |
-| 5 | `www.hohoapi.com` | ¥2.496 | $0.832 / $5.2 | 3 | qwen | qwen-tts |
-| 6 | `wrduai.com` | ¥5.84 | $0.8 / $5 | 7.3 | 官转 | qwen-tts-2025-05-22 |
-| 7 | `swaychip-ai.com` | ¥6.665 | $1 / $1 | 6.6647 | default | qwen-tts-latest |
-| 8 | `hy88.my` | ¥8.76 | $1.2 / $4.8 | 7.3 | qwen | qwen-tts-2025-05-22 |
-| 9 | `codeyy.top` | ¥11.68 | $1.6 / $10 | 7.3 | default | qwen-tts-2025-05-22 |
-| 10 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-tts-2025-05-22 |
+| 3 | `www.hohoapi.com` | ¥2.496 | $0.832 / $5.2 | 3 | qwen | qwen-tts |
+| 4 | `wrduai.com` | ¥5.84 | $0.8 / $5 | 7.3 | 官转 | qwen-tts-2025-05-22 |
+| 5 | `swaychip-ai.com` | ¥6.661 | $1 / $1 | 6.6614 | default | qwen-tts-latest |
+| 6 | `hy88.my` | ¥8.76 | $1.2 / $4.8 | 7.3 | qwen | qwen-tts-2025-05-22 |
+| 7 | `codeyy.top` | ¥11.68 | $1.6 / $10 | 7.3 | default | qwen-tts-2025-05-22 |
+| 8 | `supertoken.pro` | ¥14.6 | $2 / $2 | 7.3 | 千问 | qwen-tts-2025-05-22 |
 
 > 15 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

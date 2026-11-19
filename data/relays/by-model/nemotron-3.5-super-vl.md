@@ -1,6 +1,6 @@
 # nemotron-3.5-super-vl
 
-> 22 站提供 · 正常价 4 站 · 名义中位价 **$0.225**/1M 输入 · 实付中位价 **¥1.596**/1M 输入（4 站公开充值价） · 推算，未对账
+> 24 站提供 · 正常价 4 站 · 名义中位价 **$0.225**/1M 输入 · 实付中位价 **¥1.596**/1M 输入（4 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,4 +15,4 @@
 | 3 | `api.pie-xian.com` | ¥2.19 | $0.3 / $0.65 | 7.3 | 无限制 | nemotron-3.5-super-vl |
 | 4 | `elysiver.h-e.top` | ¥5 | $1 / $4 | 5 | unattended-jungling | nvidia/nemotron-3.5-super-vl(fingerprint≈k64) |
 
-> 18 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 20 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

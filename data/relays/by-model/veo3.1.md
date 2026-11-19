@@ -10,14 +10,14 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `www.ggwk1.online` | ¥0.4 | $0.4 | 1 | AI视频 | veo3.1 |
+| 1 | `www.ggwk1.online` | ¥0.4 | $0.4 | 1 | a全模型综合组-1倍率 | veo3.1 |
 | 2 | `open.xiaojingai.com` | ¥0.48 | $0.48 | 1 | default | veo3.1 |
 | 3 | `api.easyart.cc` | ¥0.5 | $0.5 | 1 | default | veo3.1 |
 | 4 | `api.zyai.online` | ¥0.5 | $0.5 | 1 | mini | veo3.1 |
 | 5 | `new.gateway.icu` | ¥0.5 | $0.5 | 1 | default | veo3.1 |
 | 6 | `newapi.link` | ¥0.5 | $0.5 | 1 | default | veo3.1 |
 | 7 | `api.eido.top` | ¥0.6 | $0.6 | 1 | default | veo3.1 |
-| 8 | `keypool.space` | ¥0.7 | $0.7 | 1 | vip | veo3.1 |
+| 8 | `keypool.space` | ¥0.7 | $0.7 | 1 | default | veo3.1 |
 | 9 | `xinsuanai.com` | ¥0.7 | $0.7 | 1 | default | veo3.1 |
 | 10 | `api.openai-hub.net` | ¥0.8 | $0.8 | 1 | cheap | veo3.1 |
 | 11 | `open-test.xiaojingai.com` | ¥0.876 | $0.12 | 7.3 | codex2 | veo3.1 |

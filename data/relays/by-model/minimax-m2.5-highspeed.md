@@ -1,6 +1,6 @@
 # minimax-m2.5-highspeed
 
-> 75 站提供 · 正常价 42 站 · 名义中位价 **$0.855**/1M 输入 · 实付中位价 **¥2.355**/1M 输入（36 站公开充值价） · 推算，未对账
+> 73 站提供 · 正常价 41 站 · 名义中位价 **$0.66**/1M 输入 · 实付中位价 **¥2.355**/1M 输入（36 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -10,21 +10,21 @@
 
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
-| 1 | `api.aliyunfuwu.top` | ¥0.4 | $0.4 / $1.6 | 1 | default | MiniMax-M2.5-highspeed |
-| 2 | `api1.link-ai.cc` | ¥0.42 | $0.42 / $1.68 | 1 | 国产2折 | MiniMax-M2.5-highspeed |
-| 3 | `api.amux.ai` | ¥0.6 | $0.6 / $2.4 | 1 | premium | MiniMax-M2.5-highspeed |
-| 4 | `api.banyane.top` | ¥0.6 | $0.6 / $2.4 | 1 | default | minimax-m2.5-highspeed |
-| 5 | `dev.api.dimleap.cn` | ¥0.6 | $0.6 / $2.4 | 1 | default | MiniMax-M2.5-highspeed |
-| 6 | `feiniu-ai.xyz` | ¥0.6 | $0.6 / $2.4 | 1 | default | MiniMax-M2.5-highspeed |
-| 7 | `otoken.pro` | ¥0.6 | $0.6 / $2.4 | 1 | default | MiniMax-M2.5-highspeed |
-| 8 | `www.mrouter.com` | ¥0.6 | $0.6 / $2.4 | 1 | cn | MiniMax-M2.5-highspeed |
-| 9 | `ai.38yun.cn` | ¥0.63 | $0.63 / $2.52 | 1 | 官方全系稳定渠道 | minimax/minimax-m2.5-highspeed |
-| 10 | `jiugx.com` | ¥0.66 | $0.66 / $2.64 | 1 | Minimax M3 | MiniMax-M2.5-highspeed |
-| 11 | `api.chatfire.cn` | ¥1.05 | $1.05 / $4.2 | 1 | cn | minimax-m2.5-highspeed |
-| 12 | `hk.moleapi.com` | ¥1.24 | $0.1824 / $0.7296 | 6.8 | relay | MiniMax-M2.5-highspeed |
-| 13 | `new.tianluo.ccwu.cc` | ¥1.26 | $1.26 / $5.04 | 1 | 国产小分队 | MiniMax-M2.5-highspeed |
+| 1 | `newapi.prorisehub.com` | ¥0.3 | $0.3 / $1.2 | 1 | 海外国产编程模 | minimax-m2.5-highspeed |
+| 2 | `api.aliyunfuwu.top` | ¥0.4 | $0.4 / $1.6 | 1 | default | MiniMax-M2.5-highspeed |
+| 3 | `api1.link-ai.cc` | ¥0.42 | $0.42 / $1.68 | 1 | 国产2折 | MiniMax-M2.5-highspeed |
+| 4 | `api.amux.ai` | ¥0.6 | $0.6 / $2.4 | 1 | premium | MiniMax-M2.5-highspeed |
+| 5 | `api.banyane.top` | ¥0.6 | $0.6 / $2.4 | 1 | default | minimax-m2.5-highspeed |
+| 6 | `dev.api.dimleap.cn` | ¥0.6 | $0.6 / $2.4 | 1 | default | MiniMax-M2.5-highspeed |
+| 7 | `feiniu-ai.xyz` | ¥0.6 | $0.6 / $2.4 | 1 | default | MiniMax-M2.5-highspeed |
+| 8 | `otoken.pro` | ¥0.6 | $0.6 / $2.4 | 1 | default | MiniMax-M2.5-highspeed |
+| 9 | `www.mrouter.com` | ¥0.6 | $0.6 / $2.4 | 1 | cn | MiniMax-M2.5-highspeed |
+| 10 | `ai.38yun.cn` | ¥0.63 | $0.63 / $2.52 | 1 | 官方全系稳定渠道 | minimax/minimax-m2.5-highspeed |
+| 11 | `jiugx.com` | ¥0.66 | $0.66 / $2.64 | 1 | MiniMax-M2.7 | MiniMax-M2.5-highspeed |
+| 12 | `api.chatfire.cn` | ¥1.05 | $1.05 / $4.2 | 1 | cn | minimax-m2.5-highspeed |
+| 13 | `hk.moleapi.com` | ¥1.24 | $0.1824 / $0.7296 | 6.8 | relay | MiniMax-M2.5-highspeed |
 | 14 | `magic666.top` | ¥1.47 | $1.47 / $5.88 | 1 | 国产模型 | minimax-m2.5-highspeed |
-| 15 | `mydamoxing.cn` | ¥1.68 | $1.68 / $6.72 | 1 | minimax | MiniMax-M2.5-highspeed |
+| 15 | `new.tianluo.ccwu.cc` | ¥1.68 | $1.68 / $6.72 | 1 | 国产-官KEY | MiniMax-M2.5-highspeed |
 | 16 | `fluxa.camila.qzz.io` | ¥1.73 | $1.68 / $6.72 | 1.03 | 国模 | MiniMax-M2.5-highspeed |
 | 17 | `token101.site` | ¥2.1 | $2.1 / $8.4 | 1 | minimax系列 | MiniMax-M2.5-highspeed |
 | 18 | `llm.kagu.one` | ¥2.19 | $0.3 / $1.2 | 7.3 | 大杂烩 | minimax-m2.5-highspeed |
@@ -52,10 +52,9 @@
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.coderplan.ai` | $0.24 / $0.96 | open | 0.8 | minimax-m2.5-highspeed |
-| 2 | `api.okinto.com` | $0.6 / $2.4 | 国模 | 1 | MiniMax-M2.5-highspeed |
-| 3 | `tken.lol` | $0.636 / $2.544 | 官方全系稳定渠道 | 1.06 | minimax/minimax-m2.5-highspeed |
-| 4 | `ent.mmkg.cloud` | $2.1 / $8.4 | MiniMax | 1 | MiniMax-M2.5-highspeed |
-| 5 | `api.lmuai.ai` | $3.15 / $12.6 | MiniMax(Anthropic协议) | 0.75 | MiniMax-M2.5-highspeed |
-| 6 | `openclawroot.com` | $3.2 / $14.4 | default | 1 | MiniMax-M2.5-highspeed |
+| 2 | `tken.lol` | $0.636 / $2.544 | 官方全系稳定渠道 | 1.06 | minimax/minimax-m2.5-highspeed |
+| 3 | `ent.mmkg.cloud` | $2.1 / $8.4 | MiniMax | 1 | MiniMax-M2.5-highspeed |
+| 4 | `api.lmuai.ai` | $3.15 / $12.6 | MiniMax(Anthropic协议) | 0.75 | MiniMax-M2.5-highspeed |
+| 5 | `openclawroot.com` | $3.2 / $14.4 | default | 1 | MiniMax-M2.5-highspeed |
 
-> 33 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 32 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -1,6 +1,6 @@
 # qwq-plus
 
-> 87 站提供 · 正常价 25 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（24 站公开充值价） · 推算，未对账
+> 85 站提供 · 正常价 23 站 · 名义中位价 **$1.6**/1M 输入 · 实付中位价 **¥1.6**/1M 输入（22 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,7 +16,7 @@
 | 4 | `oneapi.gptnb.ai` | ¥0.96 | $0.96 / $2.4 | 1 | CN_discount | qwq-plus |
 | 5 | `platform.anyrouter.ai` | ¥0.96 | $0.96 / $2.4 | 1 | official_cn | qwq-plus |
 | 6 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwq-plus-latest |
-| 7 | `mb.dmxapi.cn` | ¥1.2 | $0.24 / $0.6 | 5 | default | qwq-plus |
+| 7 | `mb.dmxapi.cn` | ¥1.2 | $0.24 / $0.6 | 5 | vip | qwq-plus |
 | 8 | `gpt777.top` | ¥1.28 | $1.28 / $3.2 | 1 | opensource | qwq-plus |
 | 9 | `api.aiskt.com` | ¥1.6 | $1.6 / $4.8 | 1 | default | qwq-plus |
 | 10 | `api.eido.top` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
@@ -28,12 +28,10 @@
 | 16 | `xinsuanai.com` | ¥1.6 | $1.6 / $4 | 1 | default | qwq-plus |
 | 17 | `ssvip.dmxapi.com` | ¥1.752 | $0.24 / $0.6 | 7.3 | default | qwq-plus |
 | 18 | `www.hohoapi.com` | ¥2.496 | $0.832 / $0.832 | 3 | qwen | qwq-plus-latest |
-| 19 | `cc.zhihuiapi.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwq-plus |
-| 20 | `cn.zhihuiai.top` | ¥2.56 | $2.56 / $6.4 | 1 | qwen | qwq-plus |
-| 21 | `cn.gptapi.asia` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
-| 22 | `yutoapi.com` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
-| 23 | `codeyy.top` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
-| 24 | `nbapi.net` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
+| 19 | `cn.gptapi.asia` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
+| 20 | `yutoapi.com` | ¥11.2 | $11.2 / $28 | 1 | enterprise | qwq-plus |
+| 21 | `codeyy.top` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
+| 22 | `nbapi.net` | ¥11.68 | $1.6 / $4 | 7.3 | default | qwq-plus |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

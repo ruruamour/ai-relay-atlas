@@ -1,6 +1,6 @@
 # mj-zoom
 
-> 101 站提供 · 正常价 98 站 · 名义中位价 **$0.0866**/次 · 实付中位价 **¥0.3894**/次（96 站公开充值价） · 推算，未对账
+> 101 站提供 · 正常价 98 站 · 名义中位价 **$0.0866**/次 · 实付中位价 **¥0.3864**/次（96 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -25,39 +25,39 @@
 | 13 | `wolfai.top` | ¥0.2 | $0.1 | 2 | default | mj_zoom |
 | 14 | `cnapi.kksj.org` | ¥0.27 | $0.27 | 1 | default | mj_zoom |
 | 15 | `fastapi.top` | ¥0.292 | $0.04 | 7.3 | default | mj_zoom |
-| 16 | `api.openlux.ai` | ¥0.295 | $0.0441 | 6.68934 | MJ-3 | mj_zoom |
-| 17 | `api.relayrouter.ai` | ¥0.295 | $0.0441 | 6.68934 | MJ-3 | mj_zoom |
-| 18 | `openlux.zhongzhuan.chat` | ¥0.295 | $0.0441 | 6.68934 | MJ-3 | mj_zoom |
+| 16 | `api.openlux.ai` | ¥0.2949 | $0.0441 | 6.68752 | MJ-3 | mj_zoom |
+| 17 | `api.relayrouter.ai` | ¥0.2949 | $0.0441 | 6.68752 | MJ-3 | mj_zoom |
+| 18 | `openlux.zhongzhuan.chat` | ¥0.2949 | $0.0441 | 6.68752 | MJ-3 | mj_zoom |
 | 19 | `keypool.space` | ¥0.3 | $0.3 | 1 | default | mj_zoom |
 | 20 | `xinsuanai.com` | ¥0.3 | $0.3 | 1 | default | mj_zoom |
 | 21 | `webapi.xjai.cc` | ¥0.3 | $0.1 | 3 | default | mj_zoom |
-| 22 | `4zapi.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 23 | `ai.kalehui.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 24 | `aiopus.top` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 25 | `aipipe.site` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 26 | `api.anthropicricardo.club` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 27 | `api.modelyard.cc` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 28 | `api.tidewhisper-ai.xyz` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 29 | `apistudio.vip` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 30 | `dawnnode.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 31 | `gzxbykj.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 32 | `tiantoken.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 33 | `token.kkdmx.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 34 | `vortexapi.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 35 | `www.vectronode.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 36 | `www.xiaoruiera.top` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
-| 37 | `yunwu.org` | ¥0.3304 | $0.049392 | 6.68934 | MJ-3 | mj_zoom |
-| 38 | `api.antmoo.cc` | ¥0.3392 | $0.050715 | 6.68934 | MJ-3 | mj_zoom |
-| 39 | `v2.cloudmist.cloud` | ¥0.3392 | $0.050715 | 6.68934 | MJ-3 | mj_zoom |
-| 40 | `apiclaw.cn` | ¥0.3569 | $0.053361 | 6.68934 | MJ-3 | mj_zoom |
-| 41 | `ciyuan.today` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_zoom |
-| 42 | `gptapi.top` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_zoom |
-| 43 | `makerend.com` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_zoom |
-| 44 | `moliapi.com` | ¥0.3717 | $0.055566 | 6.68934 | MJ-3 | mj_zoom |
-| 45 | `ai-api.cc` | ¥0.3835 | $0.05733 | 6.68934 | MJ-3 | mj_zoom |
-| 46 | `infai.cc` | ¥0.3835 | $0.05733 | 6.68934 | MJ-3 | mj_zoom |
-| 47 | `sucloud.vip` | ¥0.3835 | $0.05733 | 6.68934 | MJ-3 | mj_zoom |
-| 48 | `newapi.xueai.me` | ¥0.3894 | $0.058212 | 6.68934 | MJ-3 | mj_zoom |
+| 22 | `4zapi.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 23 | `aiopus.top` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 24 | `aipipe.site` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 25 | `api.anthropicricardo.club` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 26 | `api.modelyard.cc` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 27 | `api.tidewhisper-ai.xyz` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 28 | `apistudio.vip` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 29 | `dawnnode.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 30 | `tiantoken.cn` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 31 | `token.kkdmx.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 32 | `www.vectronode.com` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 33 | `www.xiaoruiera.top` | ¥0.3244 | $0.04851 | 6.68752 | MJ-3 | mj_zoom |
+| 34 | `ai.kalehui.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
+| 35 | `gzxbykj.com` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
+| 36 | `vortexapi.cn` | ¥0.3245 | $0.04851 | 6.68934 | MJ-3 | mj_zoom |
+| 37 | `yunwu.org` | ¥0.3303 | $0.049392 | 6.68752 | MJ-3 | mj_zoom |
+| 38 | `api.antmoo.cc` | ¥0.3392 | $0.050715 | 6.68752 | MJ-3 | mj_zoom |
+| 39 | `v2.cloudmist.cloud` | ¥0.3392 | $0.050715 | 6.68752 | MJ-3 | mj_zoom |
+| 40 | `apiclaw.cn` | ¥0.3569 | $0.053361 | 6.68752 | MJ-3 | mj_zoom |
+| 41 | `newapi.xueai.me` | ¥0.3569 | $0.053361 | 6.68752 | MJ-3 | mj_zoom |
+| 42 | `ciyuan.today` | ¥0.3686 | $0.055125 | 6.68752 | MJ-3 | mj_zoom |
+| 43 | `makerend.com` | ¥0.3686 | $0.055125 | 6.68752 | MJ-3 | mj_zoom |
+| 44 | `gptapi.top` | ¥0.3687 | $0.055125 | 6.68934 | MJ-3 | mj_zoom |
+| 45 | `moliapi.com` | ¥0.3716 | $0.055566 | 6.68752 | MJ-3 | mj_zoom |
+| 46 | `ai-api.cc` | ¥0.3834 | $0.05733 | 6.68752 | MJ-3 | mj_zoom |
+| 47 | `infai.cc` | ¥0.3834 | $0.05733 | 6.68752 | MJ-3 | mj_zoom |
+| 48 | `sucloud.vip` | ¥0.3834 | $0.05733 | 6.68752 | MJ-3 | mj_zoom |
 | 49 | `nodapi.com` | ¥0.3894 | $0.058212 | 6.68934 | MJ-3 | mj_zoom |
 | 50 | `api.34ku.com` | ¥0.39 | $0.39 | 1 | default | mj_zoom |
 

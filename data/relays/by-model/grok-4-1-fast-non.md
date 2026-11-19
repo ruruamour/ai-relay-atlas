@@ -1,6 +1,6 @@
 # grok-4-1-fast-non
 
-> 126 站提供 · 正常价 55 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.314**/1M 输入（51 站公开充值价） · 推算，未对账
+> 123 站提供 · 正常价 53 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥1.314**/1M 输入（50 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -50,26 +50,23 @@
 | 38 | `apius.shubiaobiao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-non-reasoning |
 | 39 | `hk.apitoken.ai` | ¥1.46 | $0.2 / $0.5 | 7.3 | grok | grok-4-1-fast-non-reasoning |
 | 40 | `newapi.floatai.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | default | grok-4-1-fast-non-reasoning |
-| 41 | `xa.infra.apigw-prod-hmirz2dd.lingyaai.cn` | ¥1.9 | $1.9 / $3.8 | 1 | Gpt-Official | grok-4-1-fast-non-reasoning |
-| 42 | `aidianwo.com` | ¥2 | $2 / $8 | 1 | default | grok-4-1-fast-non-reasoning |
-| 43 | `api.humanwill.xyz` | ¥2.19 | $0.3 / $0.75 | 7.3 | Grok_heavy | grok-4-1-fast-non-reasoning |
-| 44 | `api.34ku.com` | ¥2.6 | $2.6 / $6.5 | 1 | default | grok-4-1-fast-non-reasoning |
-| 45 | `api.hoxkai.top` | ¥3.75 | $3.75 / $7.5 | 1 | grok | grok-4-1-fast-non-reasoning |
-| 46 | `nxaiapp.com` | ¥4.088 | $0.56 / $1.4 | 7.3 | grok_2 | grok-4-1-fast-non-reasoning |
-| 47 | `api.ysaikeji.cn` | ¥4.38 | $0.6 / $1.5 | 7.3 | grok官转 | grok-4-1-fast-non-reasoning |
-| 48 | `nbapi.net` | ¥4.38 | $0.6 / $1.5 | 7.3 | vip | grok-4-1-fast-non-reasoning |
-| 49 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4-1-fast-non-reasoning |
-| 50 | `api.bianxieai.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4-1-fast-non-reasoning |
-
-> 另有 1 站未列出。
+| 41 | `aidianwo.com` | ¥2 | $2 / $8 | 1 | default | grok-4-1-fast-non-reasoning |
+| 42 | `api.humanwill.xyz` | ¥2.19 | $0.3 / $0.75 | 7.3 | Grok_heavy | grok-4-1-fast-non-reasoning |
+| 43 | `api.34ku.com` | ¥2.6 | $2.6 / $6.5 | 1 | default | grok-4-1-fast-non-reasoning |
+| 44 | `api.hoxkai.top` | ¥3.75 | $3.75 / $7.5 | 1 | grok | grok-4-1-fast-non-reasoning |
+| 45 | `nxaiapp.com` | ¥4.088 | $0.56 / $1.4 | 7.3 | grok_2 | grok-4-1-fast-non-reasoning |
+| 46 | `api.ysaikeji.cn` | ¥4.38 | $0.6 / $1.5 | 7.3 | grok官转 | grok-4-1-fast-non-reasoning |
+| 47 | `nbapi.net` | ¥4.38 | $0.6 / $1.5 | 7.3 | vip | grok-4-1-fast-non-reasoning |
+| 48 | `api.bianxie.ai` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4-1-fast-non-reasoning |
+| 49 | `api.bianxieai.com` | ¥9.125 | $1.25 / $2.5 | 7.3 | default | grok-4-1-fast-non-reasoning |
+| 50 | `wrduai.com` | ¥10.22 | $1.4 / $3.5 | 7.3 | 官转正价 | grok-4-1-fast-non-reasoning |
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.zhiyikeji.cn` | $0.2 / $0.5 | default | 1 | grok-4-1-fast-non-reasoning |
-| 2 | `api.yescale.io` | $0.3 / $0.75 | pro | 1.5 | grok-4-1-fast-non-reasoning |
+| 2 | `api.yescale.io` | $0.25 / $0.625 | plus | 1.25 | grok-4-1-fast-non-reasoning |
 | 3 | `vip.zen-ai.top` | $0.6 / $1.5 | default | 3 | grok-4-1-fast-non-reasoning |
-| 4 | `8888.name` | $3 / $9 | GPT—Az渠道 | 1.5 | grok-4-1-fast-non-reasoning |
 
-> 71 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 70 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -18,7 +18,7 @@
 | 6 | `api.laozhang.ai` | ¥0.49 | $0.07 / $0.07 | 7 | default | text-embedding-v4 |
 | 7 | `ai.amaxsmp.com` | ¥0.5 | $0.5 / $0.5 | 1 | 原厂直供 | text-embedding-v4 |
 | 8 | `api.xi-ai.cn` | ¥0.5 | $0.5 / $0.5 | 1 | 国产模型 | text-embedding-v4 |
-| 9 | `n.lconai.com` | ¥0.5 | $0.5 / $0.5 | 1 | A2 | text-embedding-v4 |
+| 9 | `n.lconai.com` | ¥0.5 | $0.5 / $0.5 | 1 | B1 | text-embedding-v4 |
 | 10 | `maas.afirstsoft.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
 | 11 | `ssvip.dmxapi.com` | ¥0.511 | $0.07 / $0.07 | 7.3 | default | text-embedding-v4 |
 | 12 | `gpt777.top` | ¥0.56 | $0.56 / $0.56 | 1 | opensource | text-embedding-v4 |

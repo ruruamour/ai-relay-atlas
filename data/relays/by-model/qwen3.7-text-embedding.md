@@ -1,6 +1,6 @@
 # qwen3.7-text-embedding
 
-> 29 站提供 · 正常价 18 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（14 站公开充值价） · 推算，未对账
+> 27 站提供 · 正常价 18 站 · 名义中位价 **$0.5**/1M 输入 · 实付中位价 **¥0.5**/1M 输入（14 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -34,4 +34,4 @@
 | 3 | `api.gemapi.ai` | $100 / $0 | default | 1 | qwen3.7-text-embedding |
 | 4 | `gemai.huchan.cn` | $100 / $0 | default | 1 | qwen3.7-text-embedding |
 
-> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 9 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

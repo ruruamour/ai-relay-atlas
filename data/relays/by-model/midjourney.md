@@ -1,6 +1,6 @@
 # midjourney
 
-> 45 站提供 · 正常价 24 站 · 名义中位价 **$0.295**/次 · 实付中位价 **¥0.2989**/次（19 站公开充值价） · 推算，未对账
+> 45 站提供 · 正常价 23 站 · 名义中位价 **$0.29**/次 · 实付中位价 **¥0.2989**/次（19 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -35,9 +35,8 @@
 | # | 站点 | 名义 $ | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `hanhegufei.online` | $0.1 | gemini生图 | 1 | youchuan/midjourney |
-| 2 | `vapi.chuangxiangai.asia` | $3.625 | 生图 | 1 | midjourney-1k |
-| 3 | `api.chuangxiangai.asia` | $4.58824 | 生图 | 1 | midjourney |
-| 4 | `aiapi.market` | $4.68 | image-2 | 10 | midjourney |
-| 5 | `api.bblabu.ai` | $10.9 | 生图专用分组 | 1 | midjourney |
+| 2 | `api.chuangxiangai.asia` | $4.58824 | 生图 | 1 | midjourney |
+| 3 | `aiapi.market` | $4.68 | image-2 | 10 | midjourney |
+| 4 | `api.bblabu.ai` | $10.9 | 生图专用分组 | 1 | midjourney |
 
-> 21 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 22 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

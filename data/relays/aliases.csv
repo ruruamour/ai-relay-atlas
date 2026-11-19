@@ -262,6 +262,7 @@ ai-proxy.qicunshang.com,ai.qicunshang.com,mirror,scan
 api.ruikon.com,ai.ruikon.com,same-host,veridrop
 api.sandboxai.top,ai.sandboxai.top,same-host,scan
 ai2.sggai.site,ai.sggai.site,same-host,scan
+skywalk.cloud,ai.skywalk.cloud,same-host,scan
 api-cf.soruxgpt.com,ai.soruxgpt.com,mirror,scan
 api-host.soruxgpt.com,ai.soruxgpt.com,mirror,scan
 api-node3.soruxgpt.com,ai.soruxgpt.com,mirror,scan
@@ -449,6 +450,7 @@ api.allaitoken.com,allaitoken.com,same-host,scan
 www.allaitoken.com,allaitoken.com,same-host,veridrop
 www.allincoding.cc,allincoding.cc,same-host,scan
 www.allrouter.ai,allrouter.ai,same-host,scan
+allrouter.club,allrouter.cc,mirror,scan
 www.amzssa.chat,amzssa.chat,same-host,scan
 bwg.anpin.ai,anpin.ai,mirror,veridrop
 ni.anpin.ai,anpin.ai,mirror,veridrop
@@ -722,6 +724,7 @@ chatfire.cn,api.chatfire.cn,same-host,scan
 chhlink.xyz,api.chhlink.xyz,same-host,scan
 cdn.chr6.com,api.chr6.com,same-host,scan
 direct-vapi.chuangxiangai.asia,api.chuangxiangai.asia,mirror,scan
+vapi.chuangxiangai.asia,api.chuangxiangai.asia,mirror,veridrop
 www.chuangxiangai.asia,api.chuangxiangai.asia,same-host,scan
 api2.cicadas.top,api.cicadas.top,same-host,scan
 cicadas.top,api.cicadas.top,same-host,scan
@@ -847,7 +850,6 @@ apiredirect.hangzhale.com,api.hangzhale.com,mirror,scan
 hk.hangzhale.com,api.hangzhale.com,same-host,scan
 ai.hanhanapi.top,api.hanhanapi.top,same-host,scan
 direct.heartyuan.com,api.heartyuan.com,same-host,scan
-apigo.hfsyapi.cn,api.hfsyapi.cn,mirror,scan
 console.hohocode.ai,api.hohocode.ai,mirror,scan
 hohocode.ai,api.hohocode.ai,same-host,scan
 www.hohocode.ai,api.hohocode.ai,same-host,scan
@@ -2694,6 +2696,7 @@ www.maylily.xyz,maylily.xyz,same-host,scan
 ai.meapi.space,meapi.space,same-host,scan
 all.meapi.space,meapi.space,mirror,scan
 api.meapi.space,meapi.space,same-host,scan
+new.meapi.space,meapi.space,same-host,scan
 www.meapi.space,meapi.space,same-host,scan
 sub.meilinn.xyz,meilinn.xyz,same-host,scan
 meinianda.xyz,meinianda.top,mirror,scan
@@ -3911,6 +3914,8 @@ hejuapi.com,www.hejuapi.com,same-host,scan
 hk.hejuapi.com,www.hejuapi.com,same-host,scan
 us.hejuapi.com,www.hejuapi.com,same-host,scan
 hellox.cloud,www.hellox.cloud,same-host,scan
+api.hfsyapi.cn,www.hfsyapi.cn,same-host,scan
+apigo.hfsyapi.cn,www.hfsyapi.cn,mirror,scan
 hi-code.cc,www.hi-code.cc,same-host,scan
 api.hohoapi.com,www.hohoapi.com,same-host,scan
 hohoapi.com,www.hohoapi.com,same-host,scan
@@ -4038,6 +4043,7 @@ newapi.tixyw.com,www.tixyw.com,same-host,scan
 tixyw.com,www.tixyw.com,same-host,scan
 tken.shop,www.tken.shop,same-host,scan
 web.tken.shop,www.tken.shop,mirror,scan
+toc.tmao.ai,www.tmao.ai,mirror,scan
 dan.token.me.uk,www.token.me.uk,mirror,scan
 token.me.uk,www.token.me.uk,same-host,scan
 xuan.token.me.uk,www.token.me.uk,mirror,scan

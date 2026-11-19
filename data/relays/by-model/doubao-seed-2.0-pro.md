@@ -1,6 +1,6 @@
 # doubao-seed-2.0-pro
 
-> 49 站提供 · 正常价 20 站 · 名义中位价 **$0.903125**/1M 输入 · 实付中位价 **¥3.276**/1M 输入（16 站公开充值价） · 推算，未对账
+> 47 站提供 · 正常价 18 站 · 名义中位价 **$0.903125**/1M 输入 · 实付中位价 **¥3.276**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -22,7 +22,7 @@
 | 10 | `api.tsbys.com` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-pro |
 | 11 | `feiniu-ai.xyz` | ¥4 | $4 / $20 | 1 | default | doubao-seed-2.0-pro |
 | 12 | `api.132999.xyz` | ¥6.4 | $3.2 / $16 | 2 | default | doubao-seed-2.0-pro |
-| 13 | `swaychip-ai.com` | ¥6.665 | $1 / $1 | 6.6647 | default | Doubao-Seed-2.0-pro |
+| 13 | `swaychip-ai.com` | ¥6.661 | $1 / $1 | 6.6614 | default | Doubao-Seed-2.0-pro |
 | 14 | `codex2api.net` | ¥27 | $27 / $140 | 1 | gpt生图 | doubao-seed-2.0-pro |
 | 15 | `api.llm-token.cn` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-pro |
 | 16 | `gpt-agent.cc` | ¥43.8 | $6 / $30 | 7.3 | default | doubao-seed-2.0-pro |
@@ -31,9 +31,7 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `api.relaycore.cn` | $0.192 / $0.96 | 国模-临时 | 0.06 | doubao-seed-2.0-pro |
-| 2 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | doubao-seed-2.0-pro-260215 |
-| 3 | `aichronos.xyz` | $1.92 / $9.6 | 国模 | 0.6 | doubao-seed-2.0-pro |
-| 4 | `openclawroot.com` | $5 / $25 | default | 1 | Doubao-Seed-2.0-pro |
+| 1 | `rapidapi.cc` | $0.80625 / $2.9625 | 国模二组（官key） | 0.15 | doubao-seed-2.0-pro-260215 |
+| 2 | `aichronos.xyz` | $1.92 / $9.6 | 国模 | 0.6 | doubao-seed-2.0-pro |
 
 > 29 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

@@ -11,7 +11,7 @@
 | # | 站点 | 实付 ¥ | 名义 $ 输入/输出 | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `new.gateway.icu` | ¥1 | $1 / $1 | 1 | default | grok-2-1212 |
-| 2 | `i-sh.v1api.cc` | ¥1.2 | $1.2 / $6 | 1 | china | grok-2-1212 |
+| 2 | `i-sh.v1api.cc` | ¥1.2 | $1.2 / $6 | 1 | deepseek | grok-2-1212 |
 | 3 | `i.v1api.cc` | ¥1.2 | $1.2 / $6 | 1 | china | grok-2-1212 |
 | 4 | `ai.soruxgpt.com` | ¥2 | $2 / $2 | 1 | default | grok-2-1212 |
 | 5 | `api.eido.top` | ¥2 | $2 / $10 | 1 | default | grok-2 |

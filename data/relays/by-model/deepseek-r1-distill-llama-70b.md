@@ -1,6 +1,6 @@
 # deepseek-r1-distill-llama-70b
 
-> 28 站提供 · 正常价 18 站 · 名义中位价 **$1.28**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（16 站公开充值价） · 推算，未对账
+> 28 站提供 · 正常价 17 站 · 名义中位价 **$1.26**/1M 输入 · 实付中位价 **¥2.5**/1M 输入（16 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -31,7 +31,6 @@
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
-| 1 | `newapi.relayport17.asia` | $22 / $66 | ds专属分组 | 100 | deepseek-r1-distill-llama-70b |
-| 2 | `liangjiewis.com` | $89 / $342.65 | self-hosted | 1 | deepseek-ai/DeepSeek-R1-Distill-Llama-70B |
+| 1 | `liangjiewis.com` | $89 / $342.65 | self-hosted | 1 | deepseek-ai/DeepSeek-R1-Distill-Llama-70B |
 
-> 10 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 11 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

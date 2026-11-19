@@ -11,9 +11,9 @@
 | # | 站点 | 实付 ¥ | 名义 $ | 充值 ¥/$ | 分组 | 原始模型名 |
 |---|---|---|---|---|---|---|
 | 1 | `api.easyart.cc` | ¥2.5 | $2.5 | 1 | default | veo3-pro |
-| 2 | `new.gateway.icu` | ¥2.5 | $2.5 | 1 | default | veo3-pro |
+| 2 | `new.gateway.icu` | ¥2.5 | $2.5 | 1 | reverse | veo3-pro |
 | 3 | `api.eido.top` | ¥4 | $4 | 1 | default | veo3-pro |
-| 4 | `keypool.space` | ¥4 | $4 | 1 | default | veo3-pro |
+| 4 | `keypool.space` | ¥4 | $4 | 1 | vip | veo3-pro |
 | 5 | `xinsuanai.com` | ¥4 | $4 | 1 | default | veo3-pro |
 | 6 | `ai.soruxgpt.com` | ¥5 | $5 | 1 | default | veo3-pro |
 | 7 | `api.hopeai.cc` | ¥5 | $5 | 1 | default | veo3-pro |

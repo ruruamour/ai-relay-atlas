@@ -17,6 +17,6 @@
 | 5 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning |
 | 6 | `elysiver.h-e.top` | ¥1.312 | $0.2625 / $20 | 5 | default-cc | nemotron-3-nano-omni-30b-a3b-reasoning |
 | 7 | `newapi.prorisehub.com` | ¥2 | $2 / $2 | 1 | default | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning |
-| 8 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | default | nemotron-3-nano-omni-30b-a3b-reasoning |
+| 8 | `api.wapq.cn` | ¥18.25 | $2.5 / $2.5 | 7.3 | 国模 | nemotron-3-nano-omni-30b-a3b-reasoning |
 
 > 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

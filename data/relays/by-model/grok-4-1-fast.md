@@ -1,6 +1,6 @@
 # grok-4-1-fast
 
-> 136 站提供 · 正常价 66 站 · 名义中位价 **$0.3**/1M 输入 · 实付中位价 **¥1.093**/1M 输入（62 站公开充值价） · 推算，未对账
+> 133 站提供 · 正常价 64 站 · 名义中位价 **$0.285**/1M 输入 · 实付中位价 **¥1.051**/1M 输入（61 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -16,7 +16,7 @@
 | 4 | `cpa057.meta-api.vip` | ¥0.075 | $0.075 / $0.15 | 1 | 4.1-grok-Super | grok-4-1-fast-reasoning |
 | 5 | `azapi.com.cn` | ¥0.12 | $0.12 / $0.3 | 1 | Azure | grok-4-1-fast-reasoning |
 | 6 | `api.eido.top` | ¥0.2 | $0.2 / $0.5 | 1 | default | grok-4-1-fast-reasoning |
-| 7 | `keypool.space` | ¥0.2 | $0.2 / $0.5 | 1 | vip | grok-4-1-fast-reasoning |
+| 7 | `keypool.space` | ¥0.2 | $0.2 / $0.5 | 1 | default | grok-4-1-fast-reasoning |
 | 8 | `www.ggwk1.online` | ¥0.2 | $0.2 / $0.8 | 1 | grok组 | grok-4-1-fast |
 | 9 | `xinsuanai.com` | ¥0.2 | $0.2 / $0.5 | 1 | default | grok-4-1-fast-reasoning |
 | 10 | `zen-ai.top` | ¥0.2 | $0.2 / $0.5 | 1 | default | grok-4-1-fast-reasoning |
@@ -61,15 +61,14 @@
 | 49 | `api.ai-gaochao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-reasoning |
 | 50 | `apius.shubiaobiao.cn` | ¥1.46 | $0.2 / $0.5 | 7.3 | Evan | grok-4-1-fast-reasoning |
 
-> 另有 12 站未列出。
+> 另有 11 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `api.zhiyikeji.cn` | $0.2 / $0.5 | default | 1 | grok-4-1-fast-reasoning |
-| 2 | `api.yescale.io` | $0.3 / $0.75 | pro | 1.5 | grok-4-1-fast-reasoning |
+| 2 | `api.yescale.io` | $0.25 / $0.625 | plus | 1.25 | grok-4-1-fast-reasoning |
 | 3 | `vip.zen-ai.top` | $0.6 / $1.5 | default | 3 | grok-4-1-fast-reasoning |
-| 4 | `8888.name` | $3 / $9 | GPT—Az渠道 | 1.5 | grok-4-1-fast-reasoning |
 
-> 70 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 69 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

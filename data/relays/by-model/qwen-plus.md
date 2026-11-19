@@ -1,6 +1,6 @@
 # qwen-plus
 
-> 233 站提供 · 正常价 208 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.672**/1M 输入（155 站公开充值价） · 推算，未对账
+> 231 站提供 · 正常价 207 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.68**/1M 输入（154 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -12,35 +12,35 @@
 |---|---|---|---|---|---|---|
 | 1 | `e.fishxcode.com` | ¥0.1143 | $0.114286 / $0.285714 | 1 | default | qwen-plus-2025-01-25 |
 | 2 | `api.aliyunfuwu.top` | ¥0.2 | $0.2 / $0.6 | 1 | relay | qwen-plus |
-| 3 | `xiaoqie.xyz` | ¥0.26 | $0.26 / $0.78 | 1 | OpenRouter官方线路 | qwen/qwen-plus |
-| 4 | `poloai.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
-| 5 | `poloapi.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
-| 6 | `ai.mowen.vip` | ¥0.3995 | $0.059766 / $0.149415 | 6.68494 | default | qwen-plus-2025-01-25 |
-| 7 | `api.zyai.online` | ¥0.4 | $0.4 / $4 | 1 | mini | qwen-plus |
-| 8 | `newapi.prorisehub.com` | ¥0.4 | $0.4 / $1 | 1 | 海外国产编程模 | qwen-plus |
-| 9 | `pay.magic666.top` | ¥0.4 | $0.4 / $4 | 1 | 国产 | qwen-plus |
-| 10 | `wzw.pp.ua` | ¥0.4 | $0.4 / $1.2 | 1 | default | qwen-plus |
-| 11 | `llm.kagu.one` | ¥0.4198 | $0.0575 / $0.1435 | 7.3 | 大杂烩 | qwen-plus |
-| 12 | `crazyrouter.com` | ¥0.42 | $0.06 / $0.23 | 7 | default | qwen-plus |
-| 13 | `aifast.site` | ¥0.48 | $0.48 / $1.2 | 1 | 国产文本 | qwen-plus |
-| 14 | `api.camel-hub.cn` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
-| 15 | `api.camel-hub.com` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
-| 16 | `api.kr777.top` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
-| 17 | `goapi.gptnb.ai` | ¥0.48 | $0.48 / $1.2 | 1 | cn_official | qwen-plus |
-| 18 | `gptnb.ai` | ¥0.48 | $0.48 / $1.2 | 1 | cn_official | qwen-plus |
-| 19 | `oneapi.gptnb.ai` | ¥0.48 | $0.48 / $1.2 | 1 | CN_discount | qwen-plus |
-| 20 | `platform.anyrouter.ai` | ¥0.48 | $0.48 / $4.8 | 1 | official_cn | qwen-plus |
-| 21 | `deeptranx.apiqik.com` | ¥0.55 | $0.55 / $1.375 | 1 | default | qwen-plus |
-| 22 | `magic666.top` | ¥0.56 | $0.56 / $5.6 | 1 | 国产模型 | qwen-plus |
-| 23 | `gpt777.top` | ¥0.64 | $0.64 / $6.4 | 1 | opensource | qwen-plus |
-| 24 | `api.ifopen.ai` | ¥0.728 | $0.208 / $2.08 | 3.5 | 通用大模型 | qwen-plus |
-| 25 | `api2.aigcbest.top` | ¥0.728 | $0.208 / $2.08 | 3.5 | 通用大模型 | qwen-plus |
-| 26 | `ai-model.chinaz.net` | ¥0.8 | $0.109589 / $0.273973 | 7.3 | default | qwen-plus-2025-01-25 |
-| 27 | `api.aiskt.com` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus-0919 |
-| 28 | `api.solov.cc` | ¥0.8 | $0.8 / $8 | 1 | Qwen-通义千问 | qwen-plus |
-| 29 | `api.xgapi.top` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
-| 30 | `azapi.com.cn` | ¥0.8 | $0.8 / $8 | 1 | default | qwen-plus |
-| 31 | `claudecn.ai` | ¥0.8 | $0.8 / $2 | 1 | 国产模型 | qwen-plus |
+| 3 | `apijing.com` | ¥0.26 | $0.26 / $0.78 | 1 | default | qwen/qwen-plus |
+| 4 | `xiaoqie.xyz` | ¥0.26 | $0.26 / $0.78 | 1 | OpenRouter官方线路 | qwen/qwen-plus |
+| 5 | `poloai.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
+| 6 | `poloapi.top` | ¥0.32 | $0.32 / $3.2 | 1 | qwen千问 | qwen-plus-2025-04-28 |
+| 7 | `ai.mowen.vip` | ¥0.3995 | $0.059766 / $0.149415 | 6.68494 | default | qwen-plus-2025-01-25 |
+| 8 | `api.zyai.online` | ¥0.4 | $0.4 / $4 | 1 | mini | qwen-plus |
+| 9 | `newapi.prorisehub.com` | ¥0.4 | $0.4 / $1 | 1 | 海外国产编程模 | qwen-plus |
+| 10 | `pay.magic666.top` | ¥0.4 | $0.4 / $4 | 1 | 国产 | qwen-plus |
+| 11 | `wzw.pp.ua` | ¥0.4 | $0.4 / $1.2 | 1 | default | qwen-plus |
+| 12 | `llm.kagu.one` | ¥0.4198 | $0.0575 / $0.1435 | 7.3 | 大杂烩 | qwen-plus |
+| 13 | `crazyrouter.com` | ¥0.42 | $0.06 / $0.23 | 7 | default | qwen-plus |
+| 14 | `aifast.site` | ¥0.48 | $0.48 / $1.2 | 1 | 国产文本 | qwen-plus |
+| 15 | `api.camel-hub.cn` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
+| 16 | `api.camel-hub.com` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
+| 17 | `api.kr777.top` | ¥0.48 | $0.6 / $1.5 | 0.8 | default | qwen-plus-latest |
+| 18 | `goapi.gptnb.ai` | ¥0.48 | $0.48 / $1.2 | 1 | cn_official | qwen-plus |
+| 19 | `gptnb.ai` | ¥0.48 | $0.48 / $1.2 | 1 | cn_official | qwen-plus |
+| 20 | `oneapi.gptnb.ai` | ¥0.48 | $0.48 / $1.2 | 1 | CN_discount | qwen-plus |
+| 21 | `platform.anyrouter.ai` | ¥0.48 | $0.48 / $4.8 | 1 | official_cn | qwen-plus |
+| 22 | `deeptranx.apiqik.com` | ¥0.55 | $0.55 / $1.375 | 1 | default | qwen-plus |
+| 23 | `magic666.top` | ¥0.56 | $0.56 / $5.6 | 1 | 国产模型 | qwen-plus |
+| 24 | `gpt777.top` | ¥0.64 | $0.64 / $6.4 | 1 | opensource | qwen-plus |
+| 25 | `api.ifopen.ai` | ¥0.728 | $0.208 / $2.08 | 3.5 | 通用大模型 | qwen-plus |
+| 26 | `api2.aigcbest.top` | ¥0.728 | $0.208 / $2.08 | 3.5 | 通用大模型 | qwen-plus |
+| 27 | `ai-model.chinaz.net` | ¥0.8 | $0.109589 / $0.273973 | 7.3 | default | qwen-plus-2025-01-25 |
+| 28 | `api.aiskt.com` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus-0919 |
+| 29 | `api.solov.cc` | ¥0.8 | $0.8 / $8 | 1 | Qwen-通义千问 | qwen-plus |
+| 30 | `api.xgapi.top` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
+| 31 | `azapi.com.cn` | ¥0.8 | $0.8 / $8 | 1 | default | qwen-plus |
 | 32 | `coneverse.com` | ¥0.8 | $0.8 / $2 | 1 | qwen-official | qwen-plus |
 | 33 | `infistar.ai` | ¥0.8 | $0.8 / $2 | 1 | qwen-official | qwen-plus |
 | 34 | `keypool.space` | ¥0.8 | $0.8 / $2 | 1 | default | qwen-plus |
@@ -58,10 +58,10 @@
 | 46 | `gpt-api.cc` | ¥1 | $1 / $4 | 1 | default | qwen-plus |
 | 47 | `api.34ku.com` | ¥1.04 | $1.04 / $2.6 | 1 | default | qwen-plus |
 | 48 | `runapi.co` | ¥1.08 | $0.16 / $0.4 | 6.75 | default | qwen-plus |
-| 49 | `api.videocaptioner.cn` | ¥1.209 | $0.18 / $0.54 | 6.718 | Self-Deployed-1 | qwen-plus |
-| 50 | `www.hohoapi.com` | ¥1.248 | $0.416 / $1.04 | 3 | qwen | qwen-plus |
+| 49 | `www.hohoapi.com` | ¥1.248 | $0.416 / $1.04 | 3 | qwen | qwen-plus |
+| 50 | `linksapi.cn` | ¥1.308 | $1.63455 / $12 | 0.8 | 阿里云国产大模型（Qwen） | qwen-plus |
 
-> 另有 105 站未列出。
+> 另有 104 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 
@@ -120,4 +120,4 @@
 
 > 另有 3 站未列出。
 
-> 25 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 24 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
