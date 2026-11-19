@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """探活：访问每个主域名首页，记录 http_status / latency_ms，缺名称时用网页标题补。
-用法: python3 tools/probe.py [--workers 80]
+用法: python3 tools/probe.py [--workers 80] [--only /tmp/new-domains.txt]
 """
 import argparse
 import concurrent.futures as cf
@@ -44,21 +44,30 @@ def probe(d):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--workers', type=int, default=80)
+    ap.add_argument('--only', help='只探活清单文件里的域名（每行一个），其余行保持原值')
     a = ap.parse_args()
     rows = read_csv(RELAYS)
     today = datetime.date.today().isoformat()
+    if a.only:
+        wanted = {x.strip().lower() for x in open(a.only, encoding='utf-8') if x.strip()}
+        targets = [r['domain'] for r in rows if r['domain'].lower() in wanted]
+        print('只探活 %d/%d' % (len(targets), len(rows)), file=sys.stderr)
+    else:
+        targets = [r['domain'] for r in rows]
     res = {}
     with cf.ThreadPoolExecutor(a.workers) as ex:
-        for d, st, ms, title in ex.map(probe, [r['domain'] for r in rows]):
+        for d, st, ms, title in ex.map(probe, targets):
             res[d] = (st, ms, title)
     for r in rows:
+        if r['domain'] not in res:
+            continue
         st, ms, title = res[r['domain']]
         r['http_status'], r['latency_ms'] = st, ms
         if title and not r.get('name') and title.lower() not in GENERIC:
             r['name'] = title[:80]
         r['last_checked'] = max(r.get('last_checked') or '', today)
     write_csv(RELAYS, RELAY_COLS, rows)
-    print('probed', len(rows), '200:', sum(1 for v in res.values() if v[0] == 200))
+    print('probed', len(res), '200:', sum(1 for v in res.values() if v[0] == 200))
 
 
 if __name__ == '__main__':
