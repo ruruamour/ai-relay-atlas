@@ -21,7 +21,7 @@
 | 9 | `xinsuanai.com` | ¥2 | $2 / $6 | 1 | default | mistral-large-latest |
 | 10 | `api.wapq.cn` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistral-large-latest |
 | 11 | `or.mux.la` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistralai/mistral-large-2512 |
-| 12 | `aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-large-latest |
+| 12 | `⚠️aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-large-latest |
 | 13 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | mistral-large-latest |
 | 14 | `api.tacklekey.com` | ¥6.177 | $0.846154 / $2.53846 | 7.3 | default | mistralai/mistral-large-2512 |
 | 15 | `ai2.qiqiai.top` | ¥6.57 | $0.9 / $2.7 | 7.3 | 官方合作渠道 | mistralai/mistral-large-2512 |

@@ -141,7 +141,7 @@ aceoai.com,,ACEO AI,New-API,v1.0.0-rc.48,1,veridrop,,21,openai/claude/gemini/dee
 acloudvip.top,,MIXAPI-3.3,New-API,v0.0.0,7.3,veridrop,,27,openai/claude/deepseek/glm/other,0,,200,561,2026-11-14,,
 acy7.com,,爱次元AI中转站,New-API/One-API,v1.0.0-rc.51,,veridrop,,0,,4,,200,506,2026-11-14,,
 admin.cygnenoir.space,,Ether,New-API,v0.0.0,7.3,urlscan,,140,openai/claude/gemini/mimo/deepseek/qwen/glm/kimi/minimax/other,0,,200,6091,2026-11-14,,
-aeapi.cn,,一个Key 全球模型自由,New-API,v1.0.0-rc.6,6.7,veridrop,,50,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/doubao/minimax/media/other,0,,200,4983,2026-11-14,,
+aeapi.cn,,一个Key 全球模型自由,New-API,v1.0.0-rc.6,6.7,veridrop,,50,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/doubao/minimax/media/other,0,,200,4983,2026-11-14,前台停运,"首页显示""抱歉！该站点已经被管理员停止运行""；但 /api/pricing 仍返回 50 个模型，属停运/迁移中的站（实测）"
 aegisy.cc,www.aegisy.cc,aegisy,Sub2API,0.2.21-aegisy-prepared-20261111-r2,,veridrop,,59,openai/claude/gemini/grok,1,,200,6002,2026-11-14,,
 aetherheartpool.top,,AetherHeart-API,Sub2API,0.2.16,,veridrop,,0,,0,,530,5209,2026-11-14,,
 agent.tokensea.ai,,Token Sea,New-API,v1.9.41,7.3,veridrop,,124,openai/claude/gemini/deepseek/qwen/glm/kimi/doubao/minimax/other,0,,200,5360,2026-11-14,,
@@ -3587,7 +3587,7 @@ panda-api.cn,,Panda,Sub2API,0.2.21,,veridrop,,0,,2,,200,828,2026-11-14,,
 panda.api520.pro,,Panda,New-API,v0.0.0,1,veridrop,,41,openai/claude/gemini/grok/deepseek/qwen/glm/kimi,0,,200,1326,2026-11-14,,
 pandaproxy.top,,小熊猫,Sub2API,0.2.21,,veridrop,,0,,1,,200,691,2026-11-14,,
 panel.raozheng.top,,明流API,New-API,v1.0.0-rc.41,1,directory,,18,openai/grok/deepseek/glm/kimi/minimax,0,,200,1155,2026-11-14,,
-partokens.com,,Partokens,New-API/One-API,v1.0.0-rc.25,1,veridrop,,0,,0,,,,2026-11-14,,
+partokens.com,,Partokens,New-API/One-API,v1.0.0-rc.25,1,veridrop,,0,,0,,,,2026-11-14,不稳定,首页 Cloudflare 522（源站连接超时），浏览器打开与探活均无内容（实测）
 passion-api.com,,Passion-API,New-API,v1.0.0-rc.92,7,urlscan,,40,openai/claude/gemini/grok/deepseek/kimi,0,,200,822,2026-11-14,,
 passion8.cc,,Passion8 API,New-API,v1.0.0-rc.49-p8.wallet.auto.ead6220b5675,7.3,veridrop,97,35,openai/claude/gemini/grok,1,,200,496,2026-11-14,,
 paulcc.router.nerver.cc,,cc,New-API/One-API,main-7bb0804ad,1,scan,,0,,0,,200,853,2026-11-14,,

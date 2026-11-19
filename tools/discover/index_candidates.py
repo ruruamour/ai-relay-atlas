@@ -33,6 +33,7 @@ SOURCE_FILES = {
     'bing': ['bing-candidates.jsonl'],
     'directory': ['directory-harvest.jsonl'],
     'contact': ['contact-harvest.jsonl'],
+    'contact-verify': ['contact-browser-verify.jsonl'],
 }
 PROBE_FILES = [
     'veridrop-probe.jsonl', 'crtsh-probe.jsonl', 'certspotter-probe.jsonl', 'prefix-expansion-probe.jsonl',
@@ -122,6 +123,17 @@ def main():
     if relay_path.exists():
         relay_info = {normalize_host(r['domain']): r for r in csv.DictReader(relay_path.open(encoding='utf-8'))}
 
+    # 浏览器逐站实核：只取判定类别与是否打开成功，不含正文
+    verified = {}
+    verify_path = root / 'contact-browser-verify.jsonl'
+    if verify_path.exists():
+        for line in verify_path.read_text(encoding='utf-8').splitlines():
+            if line.strip():
+                rec = json.loads(line)
+                host = normalize_host(rec.get('domain'))
+                if host:
+                    verified[host] = rec
+
     shops = {}
     shop_path = root / 'shop-fingerprint-candidates.jsonl'
     if shop_path.exists():
@@ -149,11 +161,12 @@ def main():
                 'in_relays': host in relay_info,
                 'shop_likelihood': shop.get('likelihood', ''),
                 'shop_systems': shop.get('systems') or [],
+                'page_category': (verified.get(host) or {}).get('category', ''),
             }
             fh.write(json.dumps(row, ensure_ascii=False) + '\n')
-    print('候选索引：%d；已探活：%d；接口命中：%d；主表已有：%d' %
+    print('候选索引：%d；已探活：%d；接口命中：%d；主表已有：%d；浏览器实核：%d' %
           (len(index), sum(x in probes for x in index), sum(x in scans for x in index),
-           sum(x in relay_info for x in index)))
+           sum(x in relay_info for x in index), sum(x in verified for x in index)))
 
 
 if __name__ == '__main__':

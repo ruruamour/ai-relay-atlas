@@ -35,7 +35,7 @@
 | 23 | `www.qhaigc.net` | ¥0.2 | $0.2 / $0 | 1 | default | bge-reranker-v2-m3 |
 | 24 | `ai.comfly.org` | ¥0.24 | $0.2 / $0.2 | 1.2 | default | BAAI/bge-reranker-v2-m3 |
 | 25 | `ai.t8star.org` | ¥0.27 | $0.2 / $0.2 | 1.35 | default | BAAI/bge-reranker-v2-m3 |
-| 26 | `aeapi.cn` | ¥0.335 | $0.05 / $0.08 | 6.7 | default | BAAI/bge-reranker-v2-m3 |
+| 26 | `⚠️aeapi.cn` | ¥0.335 | $0.05 / $0.08 | 6.7 | default | BAAI/bge-reranker-v2-m3 |
 | 27 | `api.ifopen.ai` | ¥0.35 | $0.1 / $0.1 | 3.5 | default | Pro/BAAI/bge-reranker-v2-m3 |
 | 28 | `api2.aigcbest.top` | ¥0.35 | $0.1 / $0.1 | 3.5 | default | Pro/BAAI/bge-reranker-v2-m3 |
 | 29 | `api.luoqianyi.qzz.io` | ¥0.5 | $1 / $1 | 0.5 | default | BAAI/bge-reranker-v2-m3 |

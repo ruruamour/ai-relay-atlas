@@ -28,7 +28,7 @@
 | 16 | `api2.aigcbest.top` | ¥3.5 | $1 / $3 | 3.5 | default | mistral-small-2506 |
 | 17 | `api.wapq.cn` | ¥3.65 | $0.5 / $1.5 | 7.3 | default | mistral-small-latest |
 | 18 | `api.qinzhiai.com` | ¥3.833 | $0.525 / $2.1 | 7.3 | openrouter | mistralai/mistral-small-2603 |
-| 19 | `aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-small-latest |
+| 19 | `⚠️aeapi.cn` | ¥4.69 | $0.7 / $2.1 | 6.7 | default | mistral-small-latest |
 | 20 | `elysiver.h-e.top` | ¥5 | $1 / $1 | 5 | unattended-jungling | plugsky-mistral-small(fingerprint≈k16) |
 | 21 | `api.wukong.support` | ¥6 | $6 / $18 | 1 | gemini官渠 | mistral-small-latest |
 | 22 | `nbapi.net` | ¥14.6 | $2 / $6 | 7.3 | default | mistral-small-latest |

@@ -159,7 +159,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 | 99 | `api.wlai.vip` | 云雾 API | New-API | 378 | OCGXMD | - | - | 200 | 6036ms |
 | 100 | `api.xueai.me` | XUEAI | New-API | 378 | OCGXMD | - | - | 200 | 1296ms |
 
-⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 3 个。
+⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 5 个。
 
 覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。
 
