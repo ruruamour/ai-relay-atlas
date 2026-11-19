@@ -1,6 +1,6 @@
 # claude-fable-5-2
 
-> 1019 站提供 · 正常价 656 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥13.44**/1M 输入（489 站公开充值价） · 推算，未对账
+> 1020 站提供 · 正常价 657 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥13.33**/1M 输入（490 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -54,14 +54,14 @@
 | 42 | `dragtokens.com` | ¥3.2 | $3.2 / $16 | 1 | Claude-Kiro | claude-fable-5-2 |
 | 43 | `mv88.cn` | ¥3.2 | $3.2 / $16 | 1 | Claude特殊渠道 | claude-fable-5-2 |
 | 44 | `api.aihub8.top` | ¥3.84 | $3.84 / $19.2 | 1 | 【Claude】专业组 | claude-fable-5-2 |
-| 45 | `ai.soruxgpt.com` | ¥4 | $4 / $20 | 1 | cc-cursor | claude-fable-5-2 |
-| 46 | `api.dogrouter.ai` | ¥4 | $4 / $20 | 1 | default | claude-fable-5-2 |
-| 47 | `cn.jbbt.cc` | ¥4 | $4 / $20 | 1 | claude 满血 | claude-fable-5-2 |
-| 48 | `duoyuanx.com` | ¥4 | $4 / $20 | 1 | claude | claude-fable-5-2 |
-| 49 | `jbbtoken.cn` | ¥4 | $4 / $20 | 1 | claude 满血 | claude-fable-5-2 |
-| 50 | `minuapi.duoyuanx.net` | ¥4 | $4 / $20 | 1 | claude | claude-fable-5-2 |
+| 45 | `crowllm.com` | ¥3.99 | $3.99 / $37 | 1 | pro | claude-fable-5-2 |
+| 46 | `ai.soruxgpt.com` | ¥4 | $4 / $20 | 1 | cc-cursor | claude-fable-5-2 |
+| 47 | `api.dogrouter.ai` | ¥4 | $4 / $20 | 1 | default | claude-fable-5-2 |
+| 48 | `cn.jbbt.cc` | ¥4 | $4 / $20 | 1 | claude 满血 | claude-fable-5-2 |
+| 49 | `duoyuanx.com` | ¥4 | $4 / $20 | 1 | claude | claude-fable-5-2 |
+| 50 | `jbbtoken.cn` | ¥4 | $4 / $20 | 1 | claude 满血 | claude-fable-5-2 |
 
-> 另有 439 站未列出。
+> 另有 440 站未列出。
 
 ## 名义价（未公开充值价，按 $ 排序）
 

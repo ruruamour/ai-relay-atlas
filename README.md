@@ -33,8 +33,8 @@
 | 中转站（去重后） | 5125（首页可访问 4594） |
 | 合并的别名/镜像域名 | 4318 |
 | 已剔除的泛解析子域 | 5704 |
-| 站 × 模型 报价 | 267153 |
-| 基础模型数（不同模型，非站数） | 13931 |
+| 站 × 模型 报价 | 267079 |
+| 基础模型数（不同模型，非站数） | 13849 |
 | 公开充值价的站 | 2713（≤¥1.5/$ 的 1532 站，≥¥6/$ 的 1144 站） |
 | 发卡店铺 | 430（SaaS 348 / 自建 82） |
 | 发卡商品报价 | 17212 |
@@ -172,21 +172,21 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 家族 | 基础模型数 | 覆盖站点 | 覆盖最广的模型 |
 |---|---|---|---|
-| OpenAI | 1734 | 2596 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
+| OpenAI | 1683 | 2596 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
 | Claude | 1060 | 2344 | [claude-opus-4-8](data/relays/by-model/claude-opus-4-8.md) · [claude-opus-4-6](data/relays/by-model/claude-opus-4-6.md) · [claude-opus-5](data/relays/by-model/claude-opus-5.md) |
-| Gemini | 1552 | 1939 | [gemini-3.8-flash](data/relays/by-model/gemini-3.8-flash.md) · [gemini-4-argon](data/relays/by-model/gemini-4-argon.md) · [gemini-3.1-pro-preview](data/relays/by-model/gemini-3.1-pro-preview.md) |
+| Gemini | 1545 | 1939 | [gemini-3.8-flash](data/relays/by-model/gemini-3.8-flash.md) · [gemini-4-argon](data/relays/by-model/gemini-4-argon.md) · [gemini-3.1-pro-preview](data/relays/by-model/gemini-3.1-pro-preview.md) |
 | Grok | 339 | 1709 | [grok-4.5](data/relays/by-model/grok-4.5.md) · [grok-4.6](data/relays/by-model/grok-4.6.md) · [grok-4.7](data/relays/by-model/grok-4.7.md) |
 | MiMo | 41 | 680 | [mimo-v2.5-pro](data/relays/by-model/mimo-v2.5-pro.md) · [mimo-v2.5](data/relays/by-model/mimo-v2.5.md) · [mimo-v2.6-pro](data/relays/by-model/mimo-v2.6-pro.md) |
-| DeepSeek | 331 | 1916 | [deepseek-v4-pro](data/relays/by-model/deepseek-v4-pro.md) · [deepseek-v4.1-flash](data/relays/by-model/deepseek-v4.1-flash.md) · [deepseek-v4-flash](data/relays/by-model/deepseek-v4-flash.md) |
-| Qwen | 685 | 1147 | [qwen3.8-max](data/relays/by-model/qwen3.8-max.md) · [qwen3.7-max](data/relays/by-model/qwen3.7-max.md) · [qwen3.8-flash](data/relays/by-model/qwen3.8-flash.md) |
+| DeepSeek | 329 | 1916 | [deepseek-v4-pro](data/relays/by-model/deepseek-v4-pro.md) · [deepseek-v4.1-flash](data/relays/by-model/deepseek-v4.1-flash.md) · [deepseek-v4-flash](data/relays/by-model/deepseek-v4-flash.md) |
+| Qwen | 682 | 1147 | [qwen3.8-max](data/relays/by-model/qwen3.8-max.md) · [qwen3.7-max](data/relays/by-model/qwen3.7-max.md) · [qwen3.8-flash](data/relays/by-model/qwen3.8-flash.md) |
 | GLM | 235 | 1641 | [glm-5.3](data/relays/by-model/glm-5.3.md) · [glm-5.3-flash](data/relays/by-model/glm-5.3-flash.md) · [glm-5.2](data/relays/by-model/glm-5.2.md) |
 | Kimi | 119 | 1558 | [kimi-k3](data/relays/by-model/kimi-k3.md) · [kimi-k3.1-pro](data/relays/by-model/kimi-k3.1-pro.md) · [kimi-k2.6](data/relays/by-model/kimi-k2.6.md) |
 | 豆包 | 1024 | 760 | [doubao-seedance-2-0](data/relays/by-model/doubao-seedance-2-0.md) · [doubao-seedream-5-0](data/relays/by-model/doubao-seedream-5-0.md) · [doubao-seedance-2-0-fast](data/relays/by-model/doubao-seedance-2-0-fast.md) |
 | MiniMax | 357 | 1139 | [minimax-m3](data/relays/by-model/minimax-m3.md) · [minimax-m2.7](data/relays/by-model/minimax-m2.7.md) · [minimax-m2.5](data/relays/by-model/minimax-m2.5.md) |
-| 混元 | 66 | 501 | [hy4-preview](data/relays/by-model/hy4-preview.md) · [hy3](data/relays/by-model/hy3.md) · [hy4](data/relays/by-model/hy4.md) |
+| 混元 | 65 | 501 | [hy4-preview](data/relays/by-model/hy4-preview.md) · [hy3](data/relays/by-model/hy3.md) · [hy4](data/relays/by-model/hy4.md) |
 | Llama | 123 | 245 | [llama-3.2-90b-vision-instruct](data/relays/by-model/llama-3.2-90b-vision-instruct.md) · [llama-3.2-11b-vision-instruct](data/relays/by-model/llama-3.2-11b-vision-instruct.md) · [llama-3.2-3b-instruct](data/relays/by-model/llama-3.2-3b-instruct.md) |
 | 图像/视频/音频 | 1136 | 484 | [z-image-turbo](data/relays/by-model/z-image-turbo.md) · [viduq3-turbo](data/relays/by-model/viduq3-turbo.md) · [happyhorse-1.1-t2v](data/relays/by-model/happyhorse-1.1-t2v.md) |
-| 其他 | 5129 | 1196 | [sparkdesk-v1.1](data/relays/by-model/sparkdesk-v1.1.md) · [sparkdesk-v3.1](data/relays/by-model/sparkdesk-v3.1.md) · [step-5-preview](data/relays/by-model/step-5-preview.md) |
+| 其他 | 5111 | 1196 | [sparkdesk-v1.1](data/relays/by-model/sparkdesk-v1.1.md) · [sparkdesk-v3.1](data/relays/by-model/sparkdesk-v3.1.md) · [step-5-preview](data/relays/by-model/step-5-preview.md) |
 
 全部 953 个模型榜单：[by-model/index.md](data/relays/by-model/index.md)
 
@@ -385,7 +385,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 |---|---|
 | `data/relays/relays.csv` | 中转站主表（5125 站，一站一行） |
 | `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4318） |
-| `data/relays/relay-models.csv` | 站 × 模型 × 价格（267153） |
+| `data/relays/relay-models.csv` | 站 × 模型 × 价格（267079） |
 | `data/relays/by-model/` | 模型榜单（953 页） |
 | `data/relays/medians.json` | 各模型正常价中位数 |
 | `data/relays/relay-systems.csv` | 中转站软件名录 |

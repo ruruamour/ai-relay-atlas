@@ -35,9 +35,9 @@
 | 23 | `api1.link-ai.cc` | ¥0.11 | $0.11 / $0.44 | 1 | 国产2折 | mimo-v2.5 |
 | 24 | `new.omniakey.com` | ¥0.112 | $0.112 / $0.224 | 1 | default | mimo-v2.5 |
 | 25 | `apipaths.com` | ¥0.12 | $0.12 / $0.24 | 1 | 国产模型 | mimo-v2.5 |
-| 26 | `crowllm.com` | ¥0.13 | $0.13 / $0.1 | 1 | pro | mimo-v2.5 |
-| 27 | `api.banyane.top` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |
-| 28 | `api.tokenreply.com` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |
+| 26 | `api.banyane.top` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |
+| 27 | `api.tokenreply.com` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |
+| 28 | `crowllm.com` | ¥0.14 | $0.14 / $0.28 | 1 | pro | mimo-v2.5 |
 | 29 | `feiniu-ai.cn` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |
 | 30 | `feiniu-ai.xyz` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |
 | 31 | `newapi.prorisehub.com` | ¥0.14 | $0.14 / $0.28 | 1 | default | mimo-v2.5 |

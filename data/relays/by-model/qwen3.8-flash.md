@@ -40,26 +40,26 @@
 | 28 | `api.banyane.top` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
 | 29 | `api.dawclaudecode.com` | ¥0.15 | $0.15 / $0.47 | 1 | 国模-千问 | qwen3.8-flash |
 | 30 | `api.nyxos.shop` | ¥0.15 | $0.15 / $0.47 | 1 | AUTO-V2 | qwen3.8-flash |
-| 31 | `dawcode.com` | ¥0.15 | $0.15 / $0.47 | 1 | 国模-千问 | qwen3.8-flash |
-| 32 | `dawvip.com` | ¥0.15 | $0.15 / $0.47 | 1 | 国模-千问 | qwen3.8-flash |
-| 33 | `easyrouter.io` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
-| 34 | `relay.fast` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
-| 35 | `router.cheap` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
-| 36 | `routerra.ai` | ¥0.15 | $0.15 / $0.469995 | 1 | default | qwen3.8-flash |
-| 37 | `status.xcode.best` | ¥0.15 | $0.15 / $0.47 | 1 | qwen | qwen3.8-flash |
-| 38 | `xiaoqie.xyz` | ¥0.15 | $0.15 / $0.47 | 1 | OpenRouter官方线路 | qwen/qwen3.8-flash |
-| 39 | `api.ccode.vip` | ¥0.16 | $0.16 / $0.54 | 1 | 国模平价 | qwen3.8-flash |
-| 40 | `api.renice.cc` | ¥0.16 | $0.16 / $0.54 | 1 | openllm | qwen3.8-flash |
-| 41 | `api.slomerex.xyz` | ¥0.16 | $0.16 / $0.54 | 1 | Qwen | qwen3.8-flash |
-| 42 | `api.xctokens.com` | ¥0.16 | $0.16 / $0.54 | 1 | 国产模型稳定 | qwen3.8-flash |
-| 43 | `api9.bjhuiqu.net` | ¥0.16 | $0.16 / $0.54 | 1 | 国模特供 | qwen3.8-flash |
-| 44 | `e-flowcode.cc` | ¥0.16 | $0.16 / $0.54 | 1 | 1_vip_china | qwen3.8-flash |
-| 45 | `moyuu.cc` | ¥0.16 | $0.16 / $0.54 | 1 | go | qwen3.8-flash |
-| 46 | `new.omniakey.com` | ¥0.16 | $0.16 / $0.47 | 1 | probe | qwen3.8-flash |
-| 47 | `tk.8t.chat` | ¥0.16 | $0.16 / $0.54 | 1 | 国模 | qwen3.8-flash |
-| 48 | `xxapi.info` | ¥0.16 | $0.16 / $0.54 | 1 | 国模 | qwen3.8-flash |
-| 49 | `api.aihub8.top` | ¥0.192 | $0.192 / $0.648 | 1 | 【国模】标准版 | qwen3.8-flash |
-| 50 | `vaelo.8t.chat` | ¥0.192 | $0.192 / $0.648 | 1 | 国模 | qwen3.8-flash |
+| 31 | `crowllm.com` | ¥0.15 | $0.15 / $0.47 | 1 | pro | qwen3.8-flash |
+| 32 | `dawcode.com` | ¥0.15 | $0.15 / $0.47 | 1 | 国模-千问 | qwen3.8-flash |
+| 33 | `dawvip.com` | ¥0.15 | $0.15 / $0.47 | 1 | 国模-千问 | qwen3.8-flash |
+| 34 | `easyrouter.io` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
+| 35 | `relay.fast` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
+| 36 | `router.cheap` | ¥0.15 | $0.15 / $0.47 | 1 | default | qwen3.8-flash |
+| 37 | `routerra.ai` | ¥0.15 | $0.15 / $0.469995 | 1 | default | qwen3.8-flash |
+| 38 | `status.xcode.best` | ¥0.15 | $0.15 / $0.47 | 1 | qwen | qwen3.8-flash |
+| 39 | `xiaoqie.xyz` | ¥0.15 | $0.15 / $0.47 | 1 | OpenRouter官方线路 | qwen/qwen3.8-flash |
+| 40 | `api.ccode.vip` | ¥0.16 | $0.16 / $0.54 | 1 | 国模平价 | qwen3.8-flash |
+| 41 | `api.renice.cc` | ¥0.16 | $0.16 / $0.54 | 1 | openllm | qwen3.8-flash |
+| 42 | `api.slomerex.xyz` | ¥0.16 | $0.16 / $0.54 | 1 | Qwen | qwen3.8-flash |
+| 43 | `api.xctokens.com` | ¥0.16 | $0.16 / $0.54 | 1 | 国产模型稳定 | qwen3.8-flash |
+| 44 | `api9.bjhuiqu.net` | ¥0.16 | $0.16 / $0.54 | 1 | 国模特供 | qwen3.8-flash |
+| 45 | `e-flowcode.cc` | ¥0.16 | $0.16 / $0.54 | 1 | 1_vip_china | qwen3.8-flash |
+| 46 | `moyuu.cc` | ¥0.16 | $0.16 / $0.54 | 1 | go | qwen3.8-flash |
+| 47 | `new.omniakey.com` | ¥0.16 | $0.16 / $0.47 | 1 | probe | qwen3.8-flash |
+| 48 | `tk.8t.chat` | ¥0.16 | $0.16 / $0.54 | 1 | 国模 | qwen3.8-flash |
+| 49 | `xxapi.info` | ¥0.16 | $0.16 / $0.54 | 1 | 国模 | qwen3.8-flash |
+| 50 | `api.aihub8.top` | ¥0.192 | $0.192 / $0.648 | 1 | 【国模】标准版 | qwen3.8-flash |
 
 > 另有 287 站未列出。
 

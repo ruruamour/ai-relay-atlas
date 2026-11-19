@@ -13,29 +13,29 @@
 | 1 | `tokens1688.cn` | ¥0.07 | $0.07 / $0.4 | 1 | default | glm-5.3-flashx |
 | 2 | `us-api.x5m5x.com` | ¥0.08 | $0.08 / $0.28 | 1 | 国模自营（2号主力池） | glm-5.3-flashx |
 | 3 | `new.omniakey.com` | ¥0.1 | $0.1 / $0.5 | 1 | default | glm-5.3-flashx |
-| 4 | `api-models.com` | ¥0.16 | $0.16 / $0.56 | 1 | Promo | glm-5.3-flashx |
-| 5 | `momoapi.xin` | ¥0.16 | $0.16 / $0.56 | 1 | glm | glm-5.3-flashx |
-| 6 | `www.xpivot.top` | ¥0.16 | $0.16 / $0.56 | 1 | 其他国模 | glm-5.3-flashx |
-| 7 | `api.jinkundong.store` | ¥0.1643 | $0.164335 / $0.575174 | 1 | glm-官key | glm-5.3-flashx |
-| 8 | `pro.auroai.icu` | ¥0.24 | $0.24 / $0.84 | 1 | 012 | glm-5.3-flashx |
-| 9 | `api3.kscsnkli.site` | ¥0.25 | $0.25 / $0.75 | 1 | 正常国模 | glm-5.3-flashx |
-| 10 | `coneverse.com` | ¥0.2976 | $0.297642 / $1.04175 | 1 | supply-22d65dfd33626abb42988b77 | glm-5.3-flashx |
-| 11 | `infistar.ai` | ¥0.2976 | $0.297642 / $1.04175 | 1 | supply-22d65dfd33626abb42988b77 | glm-5.3-flashx |
-| 12 | `1.cnmz.de` | ¥0.3 | $0.3 / $1.05 | 1 | 国模精品极致速度分组 | glm-5.3-flashx |
-| 13 | `ai.furry.vg` | ¥0.3 | $0.3 / $1.05 | 1 | default | glm-5.3-flashx |
-| 14 | `dragon3api.com` | ¥0.3 | $0.3 / $1.05 | 1 | 国模 | glm-5.3-flashx |
-| 15 | `fluxapi.vip` | ¥0.3 | $0.3 / $1.05 | 1 | 智谱GLM 0.15x | glm-5.3-flashx |
-| 16 | `getezo.com` | ¥0.3 | $0.3 / $1.05 | 1 | 国模精品极致速度分组 | glm-5.3-flashx |
-| 17 | `mzhcloud.com` | ¥0.3 | $0.3 / $1.05 | 1 | 国产模型 | glm-5.3-flashx |
-| 18 | `oai2api.com` | ¥0.3 | $0.3 / $0.9 | 1 | china_modal_hight | glm-5.3-flashx |
-| 19 | `www.yysc.top` | ¥0.3 | $0.3 / $1.05 | 1 | 国产模型 | glm-5.3-flashx |
-| 20 | `zl.yyapi.cloud` | ¥0.3 | $0.3 / $1.05 | 1 | 国模分组2（稳定） | glm-5.3-flashx |
-| 21 | `cn.gptapi.asia` | ¥0.304 | $0.304 / $1.02752 | 1 | default | glm-5.3-flashx |
-| 22 | `suanlitaikong.com` | ¥0.304 | $0.304 / $1 | 1 | GLM-额度计费 | glm-5.3-flashx |
-| 23 | `yutoapi.com` | ¥0.304 | $0.304 / $1.02752 | 1 | default | glm-5.3-flashx |
-| 24 | `8yes.cc` | ¥0.3429 | $0.342857 / $1.2 | 1 | 国模openai协议 | hh-glm-5.3-flashx |
-| 25 | `api.mxwell.ai` | ¥0.35 | $0.35 / $1.19 | 1 | 国模 ZhiPu | glm-5.3-flashx |
-| 26 | `crowllm.com` | ¥0.36 | $0.36 / $0.36 | 1 | pro | glm-5.3-flashx |
+| 4 | `crowllm.com` | ¥0.12 | $0.12 / $0.42 | 1 | pro | glm-5.3-flashx |
+| 5 | `api-models.com` | ¥0.16 | $0.16 / $0.56 | 1 | Promo | glm-5.3-flashx |
+| 6 | `momoapi.xin` | ¥0.16 | $0.16 / $0.56 | 1 | glm | glm-5.3-flashx |
+| 7 | `www.xpivot.top` | ¥0.16 | $0.16 / $0.56 | 1 | 其他国模 | glm-5.3-flashx |
+| 8 | `api.jinkundong.store` | ¥0.1643 | $0.164335 / $0.575174 | 1 | glm-官key | glm-5.3-flashx |
+| 9 | `pro.auroai.icu` | ¥0.24 | $0.24 / $0.84 | 1 | 012 | glm-5.3-flashx |
+| 10 | `api3.kscsnkli.site` | ¥0.25 | $0.25 / $0.75 | 1 | 正常国模 | glm-5.3-flashx |
+| 11 | `coneverse.com` | ¥0.2976 | $0.297642 / $1.04175 | 1 | supply-22d65dfd33626abb42988b77 | glm-5.3-flashx |
+| 12 | `infistar.ai` | ¥0.2976 | $0.297642 / $1.04175 | 1 | supply-22d65dfd33626abb42988b77 | glm-5.3-flashx |
+| 13 | `1.cnmz.de` | ¥0.3 | $0.3 / $1.05 | 1 | 国模精品极致速度分组 | glm-5.3-flashx |
+| 14 | `ai.furry.vg` | ¥0.3 | $0.3 / $1.05 | 1 | default | glm-5.3-flashx |
+| 15 | `dragon3api.com` | ¥0.3 | $0.3 / $1.05 | 1 | 国模 | glm-5.3-flashx |
+| 16 | `fluxapi.vip` | ¥0.3 | $0.3 / $1.05 | 1 | 智谱GLM 0.15x | glm-5.3-flashx |
+| 17 | `getezo.com` | ¥0.3 | $0.3 / $1.05 | 1 | 国模精品极致速度分组 | glm-5.3-flashx |
+| 18 | `mzhcloud.com` | ¥0.3 | $0.3 / $1.05 | 1 | 国产模型 | glm-5.3-flashx |
+| 19 | `oai2api.com` | ¥0.3 | $0.3 / $0.9 | 1 | china_modal_hight | glm-5.3-flashx |
+| 20 | `www.yysc.top` | ¥0.3 | $0.3 / $1.05 | 1 | 国产模型 | glm-5.3-flashx |
+| 21 | `zl.yyapi.cloud` | ¥0.3 | $0.3 / $1.05 | 1 | 国模分组2（稳定） | glm-5.3-flashx |
+| 22 | `cn.gptapi.asia` | ¥0.304 | $0.304 / $1.02752 | 1 | default | glm-5.3-flashx |
+| 23 | `suanlitaikong.com` | ¥0.304 | $0.304 / $1 | 1 | GLM-额度计费 | glm-5.3-flashx |
+| 24 | `yutoapi.com` | ¥0.304 | $0.304 / $1.02752 | 1 | default | glm-5.3-flashx |
+| 25 | `8yes.cc` | ¥0.3429 | $0.342857 / $1.2 | 1 | 国模openai协议 | hh-glm-5.3-flashx |
+| 26 | `api.mxwell.ai` | ¥0.35 | $0.35 / $1.19 | 1 | 国模 ZhiPu | glm-5.3-flashx |
 | 27 | `easyrouter.io` | ¥0.37 | $0.37 / $1.25 | 1 | default | glm-5.3-flashx |
 | 28 | `xiaoqie.xyz` | ¥0.37 | $0.37 / $1.25 | 1 | OpenRouter官方线路 | z-ai/glm-5.3-flashx |
 | 29 | `api.slomerex.xyz` | ¥0.4 | $0.4 / $1.4 | 1 | GLM | glm-5.3-flashx |

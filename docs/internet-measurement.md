@@ -76,7 +76,7 @@ python3 tools/discover/contact_harvest.py /tmp/recipients.txt \
 python3 tools/discover/index_candidates.py
 ```
 
-`github_harvest.py` 只读取公开仓库中的 README、名单和小型数据文件，不执行仓库代码；结果保留仓库/文件来源。`candidate_probe.py` 只对首页做低并发 GET。`200` 和 `3xx` 进入后续处理，`401/403/429/5xx` 也保留作人工复查。最近一轮原始结果保存在 `data/raw/sources/github-harvest.jsonl`、`github-code-harvest.jsonl`、`urlscan-candidates.jsonl`、`gitlab-harvest.jsonl`、`npm-harvest.jsonl`、`docker-hub-harvest.jsonl`、`huggingface-harvest.jsonl`、`sourcegraph-candidates.jsonl`、`bing-candidates.jsonl`、`directory-harvest.jsonl` 和 `contact-harvest.jsonl`；探活结果使用同目录下对应的 probe 文件。邮件/联系人清单只在内存里解析邮箱地址，落盘仅保留域名和 role/personal 标记，不保存地址、发件人、标题或正文。
+`github_harvest.py` 只读取公开仓库中的 README、名单和小型数据文件，不执行仓库代码；结果保留仓库/文件来源。`candidate_probe.py` 只对首页做低并发 GET。`200` 和 `3xx` 进入后续处理，`401/403/429/5xx` 也保留：首页 403 不等于不能查价（`crowllm.com` 首页 403，`/api/pricing` 仍返回 166 个模型），这类主机值得直接丢给 `scan.py` 试一次公开接口。最近一轮原始结果保存在 `data/raw/sources/github-harvest.jsonl`、`github-code-harvest.jsonl`、`urlscan-candidates.jsonl`、`gitlab-harvest.jsonl`、`npm-harvest.jsonl`、`docker-hub-harvest.jsonl`、`huggingface-harvest.jsonl`、`sourcegraph-candidates.jsonl`、`bing-candidates.jsonl`、`directory-harvest.jsonl` 和 `contact-harvest.jsonl`；探活结果使用同目录下对应的 probe 文件。邮件/联系人清单只在内存里解析邮箱地址，落盘仅保留域名和 role/personal 标记，不保存地址、发件人、标题或正文。
 
 ## 1. 先生成查询串
 

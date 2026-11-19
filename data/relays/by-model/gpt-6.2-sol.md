@@ -1,6 +1,6 @@
 # gpt-6.2-sol
 
-> 95 站提供 · 正常价 50 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.387**/1M 输入（14 站公开充值价） · 推算，未对账
+> 96 站提供 · 正常价 51 站 · 名义中位价 **$0.8**/1M 输入 · 实付中位价 **¥1.375**/1M 输入（15 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -15,15 +15,16 @@
 | 3 | `llmoxy.com` | ¥0.6 | $0.6 / $3 | 1 | default | gpt-6.2-sol |
 | 4 | `liliapi.siphot.com` | ¥0.8 | $0.8 / $4 | 1 | gpt特殊渠道 | gpt-6.2-sol |
 | 5 | `moyuu.cc` | ¥0.8 | $0.8 / $4 | 1 | codex_6.2_临时分组 | gpt-6.2-sol |
-| 6 | `puppyrouter.com` | ¥1.285 | $0.176 / $0.88 | 7.3 | gpt-官key | gpt-6.2-sol |
-| 7 | `api.wukong.support` | ¥1.375 | $1.375 / $8.25 | 1 | gpt官key | gpt-6.2-sol |
-| 8 | `pro.auroai.icu` | ¥1.4 | $1.4 / $7 | 1 | GPT-Azure | gpt-6.2-sol |
-| 9 | `kiosapi.com` | ¥2.25 | $2.25 / $4.5 | 1 | Codex-Plus | gpt-6.2-sol |
-| 10 | `8yes.cc` | ¥2.4 | $2.4 / $12 | 1 | gpt-azru | gpt-6.2-sol |
-| 11 | `meinianda.top` | ¥2.4 | $2.4 / $12 | 1 | AZ逆向 | gpt-6.2-sol |
-| 12 | `beefapi.com` | ¥3 | $3 / $15 | 1 | GPT-6.2 | gpt-6.2-sol |
-| 13 | `momoapi.xin` | ¥3.45 | $3.45 / $20.7 | 1 | gpt_azure | gpt-6.2-sol |
-| 14 | `seedrouter.net` | ¥14.6 | $2 / $10 | 7.3 | default | gpt-6.2-sol |
+| 6 | `crowllm.com` | ¥1 | $1 / $5 | 1 | pro | gpt-6.2-sol |
+| 7 | `puppyrouter.com` | ¥1.285 | $0.176 / $0.88 | 7.3 | gpt-官key | gpt-6.2-sol |
+| 8 | `api.wukong.support` | ¥1.375 | $1.375 / $8.25 | 1 | gpt官key | gpt-6.2-sol |
+| 9 | `pro.auroai.icu` | ¥1.4 | $1.4 / $7 | 1 | GPT-Azure | gpt-6.2-sol |
+| 10 | `kiosapi.com` | ¥2.25 | $2.25 / $4.5 | 1 | Codex-Plus | gpt-6.2-sol |
+| 11 | `8yes.cc` | ¥2.4 | $2.4 / $12 | 1 | gpt-azru | gpt-6.2-sol |
+| 12 | `meinianda.top` | ¥2.4 | $2.4 / $12 | 1 | AZ逆向 | gpt-6.2-sol |
+| 13 | `beefapi.com` | ¥3 | $3 / $15 | 1 | GPT-6.2 | gpt-6.2-sol |
+| 14 | `momoapi.xin` | ¥3.45 | $3.45 / $20.7 | 1 | gpt_azure | gpt-6.2-sol |
+| 15 | `seedrouter.net` | ¥14.6 | $2 / $10 | 7.3 | default | gpt-6.2-sol |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

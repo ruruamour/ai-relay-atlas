@@ -1,6 +1,6 @@
 # gpt-6.2-astra
 
-> 85 站提供 · 正常价 46 站 · 名义中位价 **$2.125**/1M 输入 · 实付中位价 **¥2.325**/1M 输入（12 站公开充值价） · 推算，未对账
+> 86 站提供 · 正常价 47 站 · 名义中位价 **$2.125**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -18,10 +18,11 @@
 | 6 | `kiosapi.com` | ¥2.25 | $2.25 / $4.5 | 1 | Codex-Plus | gpt-6.2-astra |
 | 7 | `llmoxy.com` | ¥2.4 | $2.4 / $12 | 1 | default | gpt-6.2-astra |
 | 8 | `beefapi.com` | ¥3.75 | $3.75 / $22.5 | 1 | GPT-6.2 | gpt-6.2-astra |
-| 9 | `moyuu.cc` | ¥4 | $4 / $20 | 1 | codex_6.2_临时分组 | gpt-6.2-astra |
-| 10 | `puppyrouter.com` | ¥6.424 | $0.88 / $4.4 | 7.3 | gpt-官key | gpt-6.2-astra |
-| 11 | `seedrouter.net` | ¥58.4 | $8 / $40 | 7.3 | default | gpt-6.2-astra |
-| 12 | `api.ciyuanshen.top` | ¥199.8 | $199.8 / $399.6 | 1 | GPT官转 | gpt-6.2-astra |
+| 9 | `crowllm.com` | ¥4 | $4 / $20 | 1 | pro | gpt-6.2-astra |
+| 10 | `moyuu.cc` | ¥4 | $4 / $20 | 1 | codex_6.2_临时分组 | gpt-6.2-astra |
+| 11 | `puppyrouter.com` | ¥6.424 | $0.88 / $4.4 | 7.3 | gpt-官key | gpt-6.2-astra |
+| 12 | `seedrouter.net` | ¥58.4 | $8 / $40 | 7.3 | default | gpt-6.2-astra |
+| 13 | `api.ciyuanshen.top` | ¥199.8 | $199.8 / $399.6 | 1 | GPT官转 | gpt-6.2-astra |
 
 ## 名义价（未公开充值价，按 $ 排序）
 

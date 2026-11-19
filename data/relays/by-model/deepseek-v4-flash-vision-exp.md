@@ -15,9 +15,9 @@
 | 3 | `moligate.com` | ¥0.049 | $0.049 / $0.098 | 1 | 国产模型 | deepseek-v4-flash-vision-exp |
 | 4 | `api.arithcore.com` | ¥0.0495 | $0.0495 / $0.198 | 1 | deepseek专属 | deepseek-v4-flash-vision-exp |
 | 5 | `ikun.love` | ¥0.056 | $0.056 / $0.112 | 1 | 国模 | deepseek-v4-flash-vision-exp |
-| 6 | `itkk.lol` | ¥0.1512 | $0.0225 / $0.0675 | 6.72 | China-Ai-次卡 | deepseek-v4-flash-vision-exp |
-| 7 | `api.xiaoyaoxx.cn` | ¥0.2016 | $0.2016 / $0.588 | 1 | 国模自部署 | deepseek-v4-flash-vision-exp |
-| 8 | `crowllm.com` | ¥0.22 | $0.22 / $0.66 | 1 | pro | deepseek-v4-flash-vision-exp |
+| 6 | `crowllm.com` | ¥0.15 | $0.15 / $0.6 | 1 | pro | deepseek-v4-flash-vision-exp |
+| 7 | `itkk.lol` | ¥0.1512 | $0.0225 / $0.0675 | 6.72 | China-Ai-次卡 | deepseek-v4-flash-vision-exp |
+| 8 | `api.xiaoyaoxx.cn` | ¥0.2016 | $0.2016 / $0.588 | 1 | 国模自部署 | deepseek-v4-flash-vision-exp |
 | 9 | `cn.gptapi.asia` | ¥0.24 | $0.24 / $0.96 | 1 | default | deepseek-v4-flash-vision-exp |
 | 10 | `yutoapi.com` | ¥0.24 | $0.24 / $0.96 | 1 | default | deepseek-v4-flash-vision-exp |
 | 11 | `code.oai1.online` | ¥0.25 | $0.25 / $1 | 1 | 国产模型 | deepseek-v4-flash-vision-exp |
