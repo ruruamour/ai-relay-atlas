@@ -50,6 +50,7 @@
 git clone https://github.com/ruruamour/ai-relay-atlas.git && cd ai-relay-atlas
 python3 tools/query.py model gemini-4-argon      # 某模型哪些站有、什么价
 python3 tools/query.py site api.openlux.ai       # 某站的全部模型（别名会自动换成主域名）
+python3 tools/query.py group cursor              # 某渠道（分组名）哪些站有、什么价
 bash tools/build.sh                              # 改数据后重建：去重 → 榜单 → 统计 → README
 ```
 

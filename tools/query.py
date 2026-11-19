@@ -3,6 +3,8 @@
   python3 tools/query.py model gemini-4-argon [--n 30] [--all] [--cny]   某模型的站点与价格（默认排除福利/占位/异常价；--cny 按实付 ¥ 排）
   python3 tools/query.py site api.openlux.ai                     某站的全部模型（别名自动换成主域名）
   python3 tools/query.py find openlux                            按关键词找站点/别名
+  python3 tools/query.py group cursor [--n 30] [--cny] [--model claude-opus-5-5]
+                                                                 按渠道（分组名）关键词找站点，如 cursor 渠道、gemini 反重力
 """
 import argparse
 import os
@@ -85,6 +87,50 @@ def cmd_site(a):
             print('  … 另 %d 个' % (len(by[c]) - a.n))
 
 
+def cmd_group(a):
+    """按分组名（渠道）关键词聚合：哪些站在卖这个渠道、卖什么模型、什么价。"""
+    q = a.q.lower()
+    rows = read_csv(MODELS)
+    hit = [r for r in rows if q in (r['group'] or '').lower()]
+    if a.model:
+        m = a.model.lower()
+        hit = [r for r in hit if m in r['model_base'] or m in r['model'].lower()]
+    if a.call:
+        hit = [r for r in hit if r['billing'] == 'call']
+    elif not a.all and any(r['billing'] == 'token' for r in hit):
+        hit = [r for r in hit if r['billing'] == 'token']
+    if not hit:
+        print('没有分组名包含 %r 的报价行' % a.q)
+        return
+    sites = {r['domain'] for r in hit}
+    groups = {r['group'] for r in hit}
+    models = {r['model_base'] for r in hit}
+    print('渠道 %r：%d 站 · %d 个分组名 · %d 个模型 · %d 行报价' % (a.q, len(sites), len(groups), len(models), len(hit)))
+    best = {}
+    for r in hit:
+        if not a.all and BAD & set((r['flag'] or '').split('+')):
+            continue
+        v = p(r)
+        if v is None or v <= 0:
+            continue
+        if r['domain'] not in best or v < p(best[r['domain']]):
+            best[r['domain']] = r
+    tp = topup_map()
+    key = (lambda kv: p(kv[1]) * tp[kv[0]]) if a.cny else (lambda kv: p(kv[1]))
+    cand = [(d, r) for d, r in best.items() if not a.cny or d in tp]
+    if not cand:
+        print('没有可用报价（可能全是福利/占位价，加 --all 看看）')
+        return
+    names = {r['domain']: r['name'] for r in read_csv(RELAYS)}
+    print('\n%-32s %-10s %-10s %-9s %-10s %s' % ('站点', '最低价$', '输出$', '充值¥/$', '实付¥', '渠道名 / 模型'))
+    for d, r in sorted(cand, key=key)[:a.n]:
+        unit = '/次' if r['billing'] == 'call' else ''
+        real = ('¥' + fmt(p(r) * tp[d])) if d in tp else '-'
+        print('%-32s %-10s %-10s %-9s %-10s %s | %s' % (
+            d, '$' + fmt(p(r)) + unit, ('$' + r['output_usd_m']) if r['output_usd_m'] else '-',
+            fmt(tp.get(d)) or '-', real, r['group'][:28], r['model_base']))
+
+
 def cmd_find(a):
     q = a.q.lower()
     for r in read_csv(RELAYS):
@@ -97,15 +143,17 @@ def cmd_find(a):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('mode', choices=['model', 'site', 'domain', 'find'])
+    ap.add_argument('mode', choices=['model', 'site', 'domain', 'find', 'group'])
     ap.add_argument('q')
     ap.add_argument('--n', type=int, default=30)
     ap.add_argument('--all', action='store_true')
     ap.add_argument('--call', action='store_true', help='只看按次计价')
     ap.add_argument('--cny', action='store_true', help='只看公开充值价的站，按实付 ¥ 排序')
     ap.add_argument('--token', action='store_true', help='只看按量计价')
+    ap.add_argument('--model', help='group 模式：再按模型名过滤')
     a = ap.parse_args()
-    {'model': cmd_model, 'site': cmd_site, 'domain': cmd_site, 'find': cmd_find}[a.mode](a)
+    {'model': cmd_model, 'site': cmd_site, 'domain': cmd_site, 'find': cmd_find,
+     'group': cmd_group}[a.mode](a)
 
 
 if __name__ == '__main__':

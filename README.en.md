@@ -29,6 +29,7 @@ git clone https://github.com/ruruamour/ai-relay-atlas.git
 cd ai-relay-atlas
 python3 tools/query.py model gemini-4-argon
 python3 tools/query.py site api.openlux.ai
+python3 tools/query.py group cursor
 bash tools/build.sh
 ```
 
