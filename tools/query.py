@@ -3,8 +3,9 @@
   python3 tools/query.py model gemini-4-argon [--n 30] [--all] [--cny]   某模型的站点与价格（默认排除福利/占位/异常价；--cny 按实付 ¥ 排）
   python3 tools/query.py site api.openlux.ai                     某站的全部模型（别名自动换成主域名）
   python3 tools/query.py find openlux                            按关键词找站点/别名
-  python3 tools/query.py group cursor [--n 30] [--cny] [--model claude-opus-5-5]
-                                                                 按渠道（分组名）关键词找站点，如 cursor 渠道、gemini 反重力
+  python3 tools/query.py group cursor [--n 30] [--cny] [--model claude-opus-5-5] [--field group|model|any]
+                                                                 按渠道关键词找站点（默认同时匹配分组名和原始模型名，
+                                                                 如 cursor 渠道、反重力、[vertex]、[官逆]）
 """
 import argparse
 import os
@@ -90,8 +91,18 @@ def cmd_site(a):
 def cmd_group(a):
     """按分组名（渠道）关键词聚合：哪些站在卖这个渠道、卖什么模型、什么价。"""
     q = a.q.lower()
+
+    def match(r):
+        g = (r['group'] or '').lower()
+        m = r['model'].lower()
+        if a.field == 'group':
+            return q in g
+        if a.field == 'model':
+            return q in m
+        return q in g or q in m
+
     rows = read_csv(MODELS)
-    hit = [r for r in rows if q in (r['group'] or '').lower()]
+    hit = [r for r in rows if match(r)]
     if a.model:
         m = a.model.lower()
         hit = [r for r in hit if m in r['model_base'] or m in r['model'].lower()]
@@ -151,6 +162,8 @@ def main():
     ap.add_argument('--cny', action='store_true', help='只看公开充值价的站，按实付 ¥ 排序')
     ap.add_argument('--token', action='store_true', help='只看按量计价')
     ap.add_argument('--model', help='group 模式：再按模型名过滤')
+    ap.add_argument('--field', choices=['any', 'group', 'model'], default='any',
+                    help='group 模式匹配位置：分组名 / 原始模型名 / 两者（默认）')
     a = ap.parse_args()
     {'model': cmd_model, 'site': cmd_site, 'domain': cmd_site, 'find': cmd_find,
      'group': cmd_group}[a.mode](a)
