@@ -780,6 +780,7 @@ v1.enter9.de,api.enter9.de,mirror,scan
 agent.ephone.ai,api.ephone.ai,mirror,scan
 ephone.ai,api.ephone.ai,same-host,scan
 platform.ephone.ai,api.ephone.ai,mirror,github-list
+etok.ai,api.etok.ai,same-host,browser
 api-cn.eula.site,api.eula.site,mirror,scan
 api-main.eula.site,api.eula.site,mirror,scan
 api-cn.everyapi.ai,api.everyapi.ai,mirror,scan
@@ -1111,6 +1112,7 @@ paoluai.com,api.paoluai.com,same-host,scan
 www.paoluai.com,api.paoluai.com,same-host,scan
 direct.passionapi.com,api.passionapi.com,same-host,scan
 new.passionapi.com,api.passionapi.com,same-host,scan
+passionapi.com,api.passionapi.com,same-host,browser
 api-t1.pdai.top,api.pdai.top,mirror,veridrop
 api-t1yx.pdai.top,api.pdai.top,mirror,scan
 api2.penguinsaichat.dpdns.org,api.penguinsaichat.dpdns.org,same-host,scan

@@ -25,7 +25,8 @@ SRC_MAP = {
     'scan:pricing': 'newapi:/api/pricing', '/api/pricing': 'newapi:/api/pricing',
     'scan': 'newapi:/api/pricing',
 }
-RANK = {'veridrop': 0, 'github-list': 1, 'scan': 2, 'urlscan': 3, 'gitlab': 4, 'npm': 5, 'huggingface': 6, 'bing': 7, 'directory': 8, 'crtsh': 9}
+RANK = {'veridrop': 0, 'github-list': 1, 'scan': 2, 'urlscan': 3, 'gitlab': 4, 'npm': 5, 'huggingface': 6,
+        'bing': 7, 'directory': 8, 'contact': 9, 'browser': 10, 'crtsh': 11}
 
 
 def nkey(v):

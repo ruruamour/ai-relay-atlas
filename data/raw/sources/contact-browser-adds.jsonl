@@ -1,0 +1,23 @@
+{"domain": "51kik.com", "name": "连连智枢", "note": "首页为 OpenAI 兼容 LLM 网关，含价格与充值入口"}
+{"domain": "9flare.com", "name": "9Flare", "note": "越南语站，VND 结算"}
+{"domain": "agiplan.dev", "name": "AGI Plan", "note": "订阅制，一份订阅覆盖多个模型"}
+{"domain": "aicodewith.com", "name": "AICodeWith", "note": "Claude Code / Codex 按量计费"}
+{"domain": "aicoding.inc", "name": "AICoding", "note": "Claude Code / Codex / Gemini 编程套餐"}
+{"domain": "apigoto.com", "name": "APIGOTO", "note": "统一 LLM 网关，中英文页面"}
+{"domain": "bazaarlink.ai", "name": "BazaarLink", "note": "LLM 网关，页面含 BYOK / BYOC"}
+{"domain": "claude-code.club", "name": "CC Club", "note": "CC Club，编程订阅"}
+{"domain": "cubence.com", "name": "Cubence", "note": "多模型中转，英文页面"}
+{"domain": "etok.ai", "name": "ETok", "note": "AI coding 教程 + 套餐"}
+{"domain": "g0i.ai", "name": "G0I", "note": "统一 API 工作台"}
+{"domain": "gptproto.com", "name": "GPT Proto", "note": "200+ 模型，首页有价格表"}
+{"domain": "hypershub.com", "name": "HypersHub", "note": "企业版 AI 统一管控平台"}
+{"domain": "justcode.lol", "name": "JustCode", "note": "俄语站，Claude/GPT/Gemini API"}
+{"domain": "lcodex.cc", "name": "lcodex", "note": "AI Gateway 管理后台"}
+{"domain": "maizitech.xyz", "name": "MaiziAI", "note": "图片/视频生成，OpenAI 兼容聚合"}
+{"domain": "modelcross.com", "name": "Model Cross", "note": "Agent 统一接口"}
+{"domain": "nuoapi.com", "name": "NuoAPI", "note": "同品牌非公开实例，注册与模型广场均关闭"}
+{"domain": "ominigate.ai", "name": "OminiGate", "note": "文本/图片/视频模型网关"}
+{"domain": "oneprovider.dev", "name": "OneProvider", "note": "一个 Key，按量计费"}
+{"domain": "passionapi.com", "name": "Passion API", "note": "账号/路由/计费同一工作台"}
+{"domain": "smartapi.shop", "name": "SmartAPI", "note": "俄语站，one API for AI models"}
+{"domain": "tokenlab.sh", "name": "TokenLab", "note": "按量计费，页面有模型价格"}

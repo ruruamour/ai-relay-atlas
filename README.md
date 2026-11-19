@@ -30,8 +30,8 @@
 
 | 项 | 数量 |
 |---|---|
-| 中转站（去重后） | 5125（首页可访问 4594） |
-| 合并的别名/镜像域名 | 4318 |
+| 中转站（去重后） | 5146（首页可访问 4615） |
+| 合并的别名/镜像域名 | 4320 |
 | 已剔除的泛解析子域 | 5704 |
 | 站 × 模型 报价 | 267083 |
 | 基础模型数（不同模型，非站数） | 13848 |
@@ -163,7 +163,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。
 
-完整名单（5125 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)
+完整名单（5146 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · 报价：[relay-models.csv](data/relays/relay-models.csv)
 
 [↑ 目录](#toc)
 
@@ -383,8 +383,8 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 路径 | 内容 |
 |---|---|
-| `data/relays/relays.csv` | 中转站主表（5125 站，一站一行） |
-| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4318） |
+| `data/relays/relays.csv` | 中转站主表（5146 站，一站一行） |
+| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4320） |
 | `data/relays/relay-models.csv` | 站 × 模型 × 价格（267083） |
 | `data/relays/by-model/` | 模型榜单（953 页） |
 | `data/relays/medians.json` | 各模型正常价中位数 |
