@@ -33,8 +33,8 @@
 | 中转站（去重后） | 5125（首页可访问 4594） |
 | 合并的别名/镜像域名 | 4318 |
 | 已剔除的泛解析子域 | 5704 |
-| 站 × 模型 报价 | 267079 |
-| 基础模型数（不同模型，非站数） | 13849 |
+| 站 × 模型 报价 | 267083 |
+| 基础模型数（不同模型，非站数） | 13848 |
 | 公开充值价的站 | 2713（≤¥1.5/$ 的 1532 站，≥¥6/$ 的 1144 站） |
 | 发卡店铺 | 430（SaaS 348 / 自建 82） |
 | 发卡商品报价 | 17212 |
@@ -172,7 +172,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 
 | 家族 | 基础模型数 | 覆盖站点 | 覆盖最广的模型 |
 |---|---|---|---|
-| OpenAI | 1683 | 2596 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
+| OpenAI | 1682 | 2596 | [gpt-5.6-sol](data/relays/by-model/gpt-5.6-sol.md) · [gpt-5.6-terra](data/relays/by-model/gpt-5.6-terra.md) · [gpt-6-astra](data/relays/by-model/gpt-6-astra.md) |
 | Claude | 1060 | 2344 | [claude-opus-4-8](data/relays/by-model/claude-opus-4-8.md) · [claude-opus-4-6](data/relays/by-model/claude-opus-4-6.md) · [claude-opus-5](data/relays/by-model/claude-opus-5.md) |
 | Gemini | 1545 | 1939 | [gemini-3.8-flash](data/relays/by-model/gemini-3.8-flash.md) · [gemini-4-argon](data/relays/by-model/gemini-4-argon.md) · [gemini-3.1-pro-preview](data/relays/by-model/gemini-3.1-pro-preview.md) |
 | Grok | 339 | 1709 | [grok-4.5](data/relays/by-model/grok-4.5.md) · [grok-4.6](data/relays/by-model/grok-4.6.md) · [grok-4.7](data/relays/by-model/grok-4.7.md) |
@@ -385,7 +385,7 @@ bash tools/build.sh                              # 改数据后重建：去重 �
 |---|---|
 | `data/relays/relays.csv` | 中转站主表（5125 站，一站一行） |
 | `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（4318） |
-| `data/relays/relay-models.csv` | 站 × 模型 × 价格（267079） |
+| `data/relays/relay-models.csv` | 站 × 模型 × 价格（267083） |
 | `data/relays/by-model/` | 模型榜单（953 页） |
 | `data/relays/medians.json` | 各模型正常价中位数 |
 | `data/relays/relay-systems.csv` | 中转站软件名录 |

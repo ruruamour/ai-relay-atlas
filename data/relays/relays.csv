@@ -4236,7 +4236,7 @@ tokhubs.com,www.tokhubs.com,TokHubs Nexus,New-API,v0.0.0,7.3,veridrop,,43,openai
 tokit.ai,www.tokit.ai,tokit,New-API,,7.3,scan,,35,openai/claude/gemini/deepseek/qwen/glm/kimi/doubao/minimax,1,,200,1267,2026-11-14,,
 tokit.cc,direct.tokit.cc,Tokit,New-API,v1.0.0-rc.12,6.9,veridrop,,12,openai,2,,200,624,2026-11-14,,
 tokit.online,,Tokit,New-API,,1,scan,,3,qwen,0,,200,346,2026-11-14,,
-toknex.ai,www.toknex.ai,Toknex,Sub2API,0.2.17,,veridrop,,26,openai/claude/grok,3,,200,4245,2026-11-14,,
+toknex.ai,toknex.me,Toknex,Sub2API,0.2.17,,veridrop,,30,openai/claude/grok,3,,200,4245,2026-11-19,,
 tomjerryai.top,,Tom and Jerry API,Sub2API,0.2.21,,veridrop,,0,,1,,200,1095,2026-11-14,,
 tongapi.com,,通API,New-API/One-API,v1.0.0-rc.21,1,veridrop,,0,,1,,200,494,2026-11-14,,
 tonkicapi.xyz,us.tonkicapi.xyz,TonkicAPI中转,New-API,v1.0.0-rc.40.3,1,veridrop,,11,openai/claude/grok,3,,200,467,2026-11-14,,

@@ -1,6 +1,6 @@
 # claude-fable-5-2
 
-> 1020 站提供 · 正常价 657 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥13.33**/1M 输入（490 站公开充值价） · 推算，未对账
+> 1021 站提供 · 正常价 658 站 · 名义中位价 **$8**/1M 输入 · 实付中位价 **¥13.33**/1M 输入（490 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -94,30 +94,30 @@
 | 25 | `business.starway.lol` | $0.96 / $4.8 | Claude-Cursor | 0.12 | claude-fable-5-2 |
 | 26 | `all-api.ccode.dev` | $1.04 / $5.2 | Claude-Lite | 0.13 | claude-fable-5-2 |
 | 27 | `api.aiportx.com` | $1.04 / $5.2 | Claude-稳定 | 0.13 | claude-fable-5-2 |
-| 28 | `88token.net` | $1.2 / $6 | A002 kiro | 0.15 | claude-fable-5-2 |
-| 29 | `ai.qystart.top` | $1.2 / $6 | claude-kiro💦0.15 | 0.15 | claude-fable-5-2 |
-| 30 | `api.sanbailab.com` | $1.2 / $6 | Claude Kiro 分组 | 0.15 | claude-fable-5-2 |
-| 31 | `levelup.mom` | $1.2 / $6 | Claude Kiro反代贫血号池 | 0.15 | claude-fable-5-2 |
-| 32 | `ai.blue1.top` | $1.35 / $6.75 | Kiro（高缓存） | 0.135 | claude-fable-5.2 |
-| 33 | `xigong.cloud` | $1.36 / $6.8 | 企业KIRO | 0.17 | claude-fable-5-2 |
-| 34 | `ai.dmapi.xyz` | $1.44 / $7.2 | Claude kiro | 0.18 | claude-fable-5-2 |
-| 35 | `api.onemini.top` | $1.44 / $7.2 | claude-kiro [90%+缓存] | 0.18 | claude-fable-5-2 |
-| 36 | `meilinn.xyz` | $1.44 / $7.2 | kiro 克劳德 | 0.18 | claude-fable-5-2 |
-| 37 | `linfengx.xyz` | $1.5 / $7.5 | Claude kiro  高缓  接的上游（自测） | 0.15 | claude-fable-5-2 |
-| 38 | `aichronos.xyz` | $1.6 / $8 | Cluade官转混合Kiro | 0.2 | claude-fable-5-2 |
-| 39 | `api.aisj.ai` | $1.6 / $8 | Claude-Kiro（高缓存） | 0.2 | claude-fable-5-2 |
-| 40 | `api.rumeng-ai.com` | $1.6 / $8 | Claude  | 0.2 | claude-fable-5-2 |
-| 41 | `choohub.net` | $1.6 / $8 | Cursor-cc | 0.2 | claude-fable-5-2 |
-| 42 | `codexpert.top` | $1.6 / $8 | Claude-Kiro渠道 | 0.2 | claude-fable-5-2 |
-| 43 | `fcodex.top` | $1.6 / $8 | claude kiro | 0.2 | claude-fable-5-2 |
-| 44 | `tk666ai.com` | $1.6 / $8 | Claude-Kiro（高缓存） | 0.2 | claude-fable-5-2 |
-| 45 | `xindu.xyz` | $1.6 / $8 | aws claude（高智商） | 0.2 | claude-fable-5-2 |
-| 46 | `api.qiuming-ai.com` | $1.68 / $8.4 | cursor | 0.21 | claude-fable-5-2 |
-| 47 | `api.qiuming-web.com` | $1.68 / $8.4 | cursor | 0.21 | claude-fable-5-2 |
-| 48 | `ai.lazymo.qzz.io` | $1.76 / $8.8 | 【Claude Cursor】cursor逆向0注入-90缓 | 0.22 | claude-fable-5-2 |
-| 49 | `api.inktandwkx.top` | $2 / $10 | Claude-cursor | 0.2 | claude-fable-5.2 |
-| 50 | `api.xiaojue.cloud` | $2 / $10 | 满血cursorClaude | 0.25 | claude-fable-5-2 |
+| 28 | `toknex.ai` | $1.04 / $5.2 | claude | 0.13 | claude-fable-5-2 |
+| 29 | `88token.net` | $1.2 / $6 | A002 kiro | 0.15 | claude-fable-5-2 |
+| 30 | `ai.qystart.top` | $1.2 / $6 | claude-kiro💦0.15 | 0.15 | claude-fable-5-2 |
+| 31 | `api.sanbailab.com` | $1.2 / $6 | Claude Kiro 分组 | 0.15 | claude-fable-5-2 |
+| 32 | `levelup.mom` | $1.2 / $6 | Claude Kiro反代贫血号池 | 0.15 | claude-fable-5-2 |
+| 33 | `ai.blue1.top` | $1.35 / $6.75 | Kiro（高缓存） | 0.135 | claude-fable-5.2 |
+| 34 | `xigong.cloud` | $1.36 / $6.8 | 企业KIRO | 0.17 | claude-fable-5-2 |
+| 35 | `ai.dmapi.xyz` | $1.44 / $7.2 | Claude kiro | 0.18 | claude-fable-5-2 |
+| 36 | `api.onemini.top` | $1.44 / $7.2 | claude-kiro [90%+缓存] | 0.18 | claude-fable-5-2 |
+| 37 | `meilinn.xyz` | $1.44 / $7.2 | kiro 克劳德 | 0.18 | claude-fable-5-2 |
+| 38 | `linfengx.xyz` | $1.5 / $7.5 | Claude kiro  高缓  接的上游（自测） | 0.15 | claude-fable-5-2 |
+| 39 | `aichronos.xyz` | $1.6 / $8 | Cluade官转混合Kiro | 0.2 | claude-fable-5-2 |
+| 40 | `api.aisj.ai` | $1.6 / $8 | Claude-Kiro（高缓存） | 0.2 | claude-fable-5-2 |
+| 41 | `api.rumeng-ai.com` | $1.6 / $8 | Claude  | 0.2 | claude-fable-5-2 |
+| 42 | `choohub.net` | $1.6 / $8 | Cursor-cc | 0.2 | claude-fable-5-2 |
+| 43 | `codexpert.top` | $1.6 / $8 | Claude-Kiro渠道 | 0.2 | claude-fable-5-2 |
+| 44 | `fcodex.top` | $1.6 / $8 | claude kiro | 0.2 | claude-fable-5-2 |
+| 45 | `tk666ai.com` | $1.6 / $8 | Claude-Kiro（高缓存） | 0.2 | claude-fable-5-2 |
+| 46 | `xindu.xyz` | $1.6 / $8 | aws claude（高智商） | 0.2 | claude-fable-5-2 |
+| 47 | `api.qiuming-ai.com` | $1.68 / $8.4 | cursor | 0.21 | claude-fable-5-2 |
+| 48 | `api.qiuming-web.com` | $1.68 / $8.4 | cursor | 0.21 | claude-fable-5-2 |
+| 49 | `ai.lazymo.qzz.io` | $1.76 / $8.8 | 【Claude Cursor】cursor逆向0注入-90缓 | 0.22 | claude-fable-5-2 |
+| 50 | `api.inktandwkx.top` | $2 / $10 | Claude-cursor | 0.2 | claude-fable-5.2 |
 
-> 另有 117 站未列出。
+> 另有 118 站未列出。
 
 > 363 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

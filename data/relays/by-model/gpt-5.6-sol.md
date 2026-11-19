@@ -82,41 +82,41 @@
 | 13 | `kimera.cc` | $0.195 / $1.17 | 超便宜Plus池01 | 0.039 | gpt-5.6-sol |
 | 14 | `88token.net` | $0.2 / $1.2 | B006 GPT Plus（不能用就换别的组） | 0.04 | gpt-5.6-sol |
 | 15 | `api-hub.asia` | $0.2 / $1.2 | 004不降智 | 0.04 | gpt-5.6-sol |
-| 16 | `worldcodes.online` | $0.225 / $1.35 | Codex · Plus · 超值 | 0.045 | gpt-5.6-sol |
-| 17 | `ttapi123.xyz` | $0.24 / $1.2 | Codex-降智组 | 0.06 | gpt-5.6-sol |
-| 18 | `api.awai.cc` | $0.25 / $1.5 | GPT【降智低价】 | 0.05 | gpt-5.6-sol |
-| 19 | `api.cnvip.com.cn` | $0.25 / $1.5 | GPT  team | 0.05 | gpt-5.6-sol |
-| 20 | `api.hyhawang.com` | $0.25 / $1.5 | gpt低倍率 | 0.05 | gpt-5.6-sol |
-| 21 | `loveapi.top` | $0.25 / $1.5 | Codex-Plus 激励组0.05x | 0.05 | gpt-5.6-sol |
-| 22 | `sub.sixoner.com` | $0.25 / $1.5 | GPT005 | 0.05 | gpt-5.6-sol |
-| 23 | `super.aresaicode.cn` | $0.25 / $1.5 | gpt （降智不保证） | 0.05 | gpt-5.6-sol |
-| 24 | `www.bb-api.com` | $0.25 / $1.5 | 【O/005】GPT屎山大本营 | 0.05 | gpt-5.6-sol |
-| 25 | `www.kk-vibe.top` | $0.25 / $1.5 | 005----GPT 口水车 | 0.05 | gpt-5.6-sol |
-| 26 | `www.qianweikeji.fun` | $0.25 / $1.5 | gpt低倍率 | 0.05 | gpt-5.6-sol |
-| 27 | `api.168box.xyz` | $0.26 / $1.3 | gpt | 0.065 | gpt-5.6-sol |
-| 28 | `ai.dyc.im` | $0.3 / $1.8 | ChatGPT Plus | 0.06 | gpt-5.6-sol |
-| 29 | `ai.entrylk.cn` | $0.3 / $1.8 | codex-超优惠 | 0.06 | gpt-5.6-sol |
-| 30 | `ai.websee.top` | $0.3 / $1.8 | ChatGPT Plus | 0.06 | gpt-5.6-sol |
-| 31 | `api.123uq.com` | $0.3 / $1.8 | plus狂欢 | 0.06 | gpt-5.6-sol |
-| 32 | `api.bobrouter.com` | $0.3 / $1.8 | ChatGPT Pro pool | 0.06 | gpt-5.6-sol |
-| 33 | `api.wopally.cn` | $0.3 / $1.8 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-5.6-sol |
-| 34 | `hetune.top` | $0.3 / $1.8 | Codex-team | 0.06 | gpt-5.6-sol |
-| 35 | `kuafushe.cc` | $0.3 / $1.8 | GPT-王炸组 | 0.06 | gpt-5.6-sol |
-| 36 | `linfengx.xyz` | $0.3 / $1.8 | 常规 | 0.06 | gpt-5.6-sol |
-| 37 | `pureai.ink` | $0.3 / $1.8 | Z-GPT-Team | 0.06 | gpt-5.6-sol |
-| 38 | `s169.bjhuiqu.net` | $0.3 / $1.8 | pro | 0.06 | gpt-5.6-sol |
-| 39 | `sub.callai.one` | $0.3 / $1.8 | gpt | 0.06 | gpt-5.6-sol |
-| 40 | `sub.pikaqiu.shop` | $0.3 / $1.8 | team | 0.06 | gpt-5.6-sol |
-| 41 | `supercodes.vip` | $0.3 / $1.8 | GPT Plus | 0.06 | gpt-5.6-sol |
-| 42 | `api.tyasai.com` | $0.325 / $1.95 | GPT  稳定 | 0.065 | gpt-5.6-sol |
-| 43 | `change2pro.com` | $0.34 / $2.04 | Codex-真香组 | 0.068 | gpt-5.6-sol |
-| 44 | `ai.bayunzi.shop` | $0.35 / $2.1 | ChatGPT-Plus | 0.07 | gpt-5.6-sol |
-| 45 | `ai.blue1.top` | $0.35 / $2.1 | Plus 优惠组（不能用就切） | 0.07 | gpt-5.6-sol |
-| 46 | `doufuapi.com` | $0.35 / $2.1 | GPT分组\|低价捡漏 | 0.07 | gpt-5.6-sol |
-| 47 | `ovo1.vip` | $0.35 / $2.1 | Codex Plus | 0.07 | gpt-5.6-sol |
-| 48 | `www.civilian.asia` | $0.35 / $2.1 | 狼人分组 | 0.07 | gpt-5.6-sol |
-| 49 | `api-ap.onemini.top` | $0.36 / $1.8 | {非GPT}swe-2 【不会用别选】 | 0.12 | gpt-5.6-sol |
-| 50 | `fugui.im` | $0.375 / $2.25 | 【无名】ChatGPT-Pro-科研小组 | 0.075 | gpt-5.6-sol |
+| 16 | `toknex.ai` | $0.2 / $1 | codex | 0.05 | gpt-5.6-sol |
+| 17 | `worldcodes.online` | $0.225 / $1.35 | Codex · Plus · 超值 | 0.045 | gpt-5.6-sol |
+| 18 | `ttapi123.xyz` | $0.24 / $1.2 | Codex-降智组 | 0.06 | gpt-5.6-sol |
+| 19 | `api.awai.cc` | $0.25 / $1.5 | GPT【降智低价】 | 0.05 | gpt-5.6-sol |
+| 20 | `api.cnvip.com.cn` | $0.25 / $1.5 | GPT  team | 0.05 | gpt-5.6-sol |
+| 21 | `api.hyhawang.com` | $0.25 / $1.5 | gpt低倍率 | 0.05 | gpt-5.6-sol |
+| 22 | `loveapi.top` | $0.25 / $1.5 | Codex-Plus 激励组0.05x | 0.05 | gpt-5.6-sol |
+| 23 | `sub.sixoner.com` | $0.25 / $1.5 | GPT005 | 0.05 | gpt-5.6-sol |
+| 24 | `super.aresaicode.cn` | $0.25 / $1.5 | gpt （降智不保证） | 0.05 | gpt-5.6-sol |
+| 25 | `www.bb-api.com` | $0.25 / $1.5 | 【O/005】GPT屎山大本营 | 0.05 | gpt-5.6-sol |
+| 26 | `www.kk-vibe.top` | $0.25 / $1.5 | 005----GPT 口水车 | 0.05 | gpt-5.6-sol |
+| 27 | `www.qianweikeji.fun` | $0.25 / $1.5 | gpt低倍率 | 0.05 | gpt-5.6-sol |
+| 28 | `api.168box.xyz` | $0.26 / $1.3 | gpt | 0.065 | gpt-5.6-sol |
+| 29 | `ai.dyc.im` | $0.3 / $1.8 | ChatGPT Plus | 0.06 | gpt-5.6-sol |
+| 30 | `ai.entrylk.cn` | $0.3 / $1.8 | codex-超优惠 | 0.06 | gpt-5.6-sol |
+| 31 | `ai.websee.top` | $0.3 / $1.8 | ChatGPT Plus | 0.06 | gpt-5.6-sol |
+| 32 | `api.123uq.com` | $0.3 / $1.8 | plus狂欢 | 0.06 | gpt-5.6-sol |
+| 33 | `api.bobrouter.com` | $0.3 / $1.8 | ChatGPT Pro pool | 0.06 | gpt-5.6-sol |
+| 34 | `api.wopally.cn` | $0.3 / $1.8 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-5.6-sol |
+| 35 | `hetune.top` | $0.3 / $1.8 | Codex-team | 0.06 | gpt-5.6-sol |
+| 36 | `kuafushe.cc` | $0.3 / $1.8 | GPT-王炸组 | 0.06 | gpt-5.6-sol |
+| 37 | `linfengx.xyz` | $0.3 / $1.8 | 常规 | 0.06 | gpt-5.6-sol |
+| 38 | `pureai.ink` | $0.3 / $1.8 | Z-GPT-Team | 0.06 | gpt-5.6-sol |
+| 39 | `s169.bjhuiqu.net` | $0.3 / $1.8 | pro | 0.06 | gpt-5.6-sol |
+| 40 | `sub.callai.one` | $0.3 / $1.8 | gpt | 0.06 | gpt-5.6-sol |
+| 41 | `sub.pikaqiu.shop` | $0.3 / $1.8 | team | 0.06 | gpt-5.6-sol |
+| 42 | `supercodes.vip` | $0.3 / $1.8 | GPT Plus | 0.06 | gpt-5.6-sol |
+| 43 | `api.tyasai.com` | $0.325 / $1.95 | GPT  稳定 | 0.065 | gpt-5.6-sol |
+| 44 | `change2pro.com` | $0.34 / $2.04 | Codex-真香组 | 0.068 | gpt-5.6-sol |
+| 45 | `ai.bayunzi.shop` | $0.35 / $2.1 | ChatGPT-Plus | 0.07 | gpt-5.6-sol |
+| 46 | `ai.blue1.top` | $0.35 / $2.1 | Plus 优惠组（不能用就切） | 0.07 | gpt-5.6-sol |
+| 47 | `doufuapi.com` | $0.35 / $2.1 | GPT分组\|低价捡漏 | 0.07 | gpt-5.6-sol |
+| 48 | `ovo1.vip` | $0.35 / $2.1 | Codex Plus | 0.07 | gpt-5.6-sol |
+| 49 | `www.civilian.asia` | $0.35 / $2.1 | 狼人分组 | 0.07 | gpt-5.6-sol |
+| 50 | `api-ap.onemini.top` | $0.36 / $1.8 | {非GPT}swe-2 【不会用别选】 | 0.12 | gpt-5.6-sol |
 
 > 另有 327 站未列出。
 

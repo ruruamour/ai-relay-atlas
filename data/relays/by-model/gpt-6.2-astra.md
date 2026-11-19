@@ -1,6 +1,6 @@
 # gpt-6.2-astra
 
-> 86 站提供 · 正常价 47 站 · 名义中位价 **$2.125**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（13 站公开充值价） · 推算，未对账
+> 87 站提供 · 正常价 48 站 · 名义中位价 **$2.125**/1M 输入 · 实付中位价 **¥2.4**/1M 输入（13 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -29,38 +29,39 @@
 | # | 站点 | 名义 $ 输入/输出 | 分组 | 倍率 | 原始模型名 |
 |---|---|---|---|---|---|
 | 1 | `⚠️mhapi.net` | $0.29 / $1.45 | 激励gpt | 0.029 | gpt-6.2-astra |
-| 2 | `kedaya.ai` | $0.5 / $2.5 | GPT 0.05不降智 | 0.05 | gpt-6.2-astra |
-| 3 | `ai.dyc.im` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6.2-astra |
-| 4 | `ai.websee.top` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6.2-astra |
-| 5 | `8888.name` | $0.75 / $4.5 | GPT—官转 | 0.3 | gpt-6.2-astra |
-| 6 | `sheepapi.top` | $0.75 / $3.75 | gpt-混池 | 0.075 | gpt-6.2-astra |
-| 7 | `www.digitalcats.cc` | $0.75 / $4.5 | GPT 官转Fast | 0.3 | gpt-6.2-astra |
-| 8 | `huanyuf.top` | $0.8 / $4.8 | 「神秘官转Chatgpt」6.2sol/6.2a | 0.32 | gpt-6.2-astra |
-| 9 | `api.xag-api.com` | $0.85 / $5.1 | GPT企业级别-官Key | 0.34 | gpt-6.2-astra |
-| 10 | `yzstudio.vip` | $1 / $5 | 生图分组 | 0.1 | gpt-6.2-astra |
-| 11 | `aodo.ai` | $1.6 / $8 | GPT Pro | 0.2 | gpt-6.2-astra |
-| 12 | `linfengx.xyz` | $1.7 / $8.5 | 官key | 0.17 | gpt-6.2-astra |
-| 13 | `api.hyhawang.com` | $1.75 / $10.5 | GPT AWS offical | 0.7 | gpt-6.2-astra |
-| 14 | `www.qianweikeji.fun` | $1.75 / $10.5 | GPT AWS offical | 0.7 | gpt-6.2-astra |
-| 15 | `api.binzzz.xyz` | $2 / $10 | GPT 官转【不降智专用】【禁止破限】缓存99 | 0.2 | gpt-6.2-astra |
-| 16 | `api.hzapi.vip` | $2 / $10 | GPT 官K【创世核心】主力通道｜0.2x | 0.2 | gpt-6.2-astra |
-| 17 | `business.starway.lol` | $2 / $10 | GPT-Business-官Key分组 | 0.2 | gpt-6.2-astra |
-| 18 | `api.qiuming-ai.com` | $2.125 / $12.75 | AZ GPT  | 0.85 | gpt-6.2-astra |
-| 19 | `api.qiuming-web.com` | $2.125 / $12.75 | AZ GPT  | 0.85 | gpt-6.2-astra |
-| 20 | `aichronos.xyz` | $2.15 / $12.9 | GPT | 0.43 | gpt-6.2-astra |
-| 21 | `api.aiportx.com` | $2.5 / $12.5 | GPT 官key 低价 | 0.25 | gpt-6.2-astra |
-| 22 | `choohub.net` | $2.5 / $12.5 | GPT-科研不降智高缓 | 0.25 | gpt-6.2-astra |
-| 23 | `sub.vcnovb.cn` | $2.5 / $15 | Az-gpt | 1 | gpt-6.2-astra |
-| 24 | `xigong.cloud` | $2.625 / $15.75 | Cyber Blue | 1.05 | gpt-6.2-astra |
-| 25 | `hanhegufei.online` | $3 / $15 | gpt企业分组 | 0.3 | gpt-6.2-astra |
-| 26 | `www.xmapi.cc` | $3.25 / $19.5 | Az-6.2sol-尝鲜 | 1.3 | gpt-6.2-astra |
-| 27 | `sub.hotapi.top` | $3.5 / $17.5 | gpt-官key | 0.35 | gpt-6.2-astra |
-| 28 | `api.awai.cc` | $3.6 / $18 | GPT【官转\|强制fast】 | 0.36 | gpt-6.2-astra |
-| 29 | `subkkai.com` | $3.75 / $22.5 | GPT官key分组 | 1.5 | gpt-6.2-astra |
-| 30 | `api.maixun.icu` | $5 / $25 | GPT官K-满血不降智 | 0.5 | gpt-6.2-astra |
-| 31 | `meta-aihub.com` | $8 / $40 | Codex Pro | 1 | gpt-6.2-astra |
-| 32 | `api.zayuapi.com` | $12.8 / $64 | ChatGPT-Azure满血 | 1.28 | gpt-6.2-astra |
-| 33 | `ciyuan.fast` | $25 / $125 | GPT-官key | 2.5 | gpt-6.2-astra |
-| 34 | `api.chuangxiangai.asia` | $35 / $175 | gpt-官key 0.35x | 3.5 | gpt-6.2-astra |
+| 2 | `toknex.ai` | $0.4 / $2 | codex | 0.05 | gpt-6.2-astra |
+| 3 | `kedaya.ai` | $0.5 / $2.5 | GPT 0.05不降智 | 0.05 | gpt-6.2-astra |
+| 4 | `ai.dyc.im` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6.2-astra |
+| 5 | `ai.websee.top` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6.2-astra |
+| 6 | `8888.name` | $0.75 / $4.5 | GPT—官转 | 0.3 | gpt-6.2-astra |
+| 7 | `sheepapi.top` | $0.75 / $3.75 | gpt-混池 | 0.075 | gpt-6.2-astra |
+| 8 | `www.digitalcats.cc` | $0.75 / $4.5 | GPT 官转Fast | 0.3 | gpt-6.2-astra |
+| 9 | `huanyuf.top` | $0.8 / $4.8 | 「神秘官转Chatgpt」6.2sol/6.2a | 0.32 | gpt-6.2-astra |
+| 10 | `api.xag-api.com` | $0.85 / $5.1 | GPT企业级别-官Key | 0.34 | gpt-6.2-astra |
+| 11 | `yzstudio.vip` | $1 / $5 | 生图分组 | 0.1 | gpt-6.2-astra |
+| 12 | `aodo.ai` | $1.6 / $8 | GPT Pro | 0.2 | gpt-6.2-astra |
+| 13 | `linfengx.xyz` | $1.7 / $8.5 | 官key | 0.17 | gpt-6.2-astra |
+| 14 | `api.hyhawang.com` | $1.75 / $10.5 | GPT AWS offical | 0.7 | gpt-6.2-astra |
+| 15 | `www.qianweikeji.fun` | $1.75 / $10.5 | GPT AWS offical | 0.7 | gpt-6.2-astra |
+| 16 | `api.binzzz.xyz` | $2 / $10 | GPT 官转【不降智专用】【禁止破限】缓存99 | 0.2 | gpt-6.2-astra |
+| 17 | `api.hzapi.vip` | $2 / $10 | GPT 官K【创世核心】主力通道｜0.2x | 0.2 | gpt-6.2-astra |
+| 18 | `business.starway.lol` | $2 / $10 | GPT-Business-官Key分组 | 0.2 | gpt-6.2-astra |
+| 19 | `api.qiuming-ai.com` | $2.125 / $12.75 | AZ GPT  | 0.85 | gpt-6.2-astra |
+| 20 | `api.qiuming-web.com` | $2.125 / $12.75 | AZ GPT  | 0.85 | gpt-6.2-astra |
+| 21 | `aichronos.xyz` | $2.15 / $12.9 | GPT | 0.43 | gpt-6.2-astra |
+| 22 | `api.aiportx.com` | $2.5 / $12.5 | GPT 官key 低价 | 0.25 | gpt-6.2-astra |
+| 23 | `choohub.net` | $2.5 / $12.5 | GPT-科研不降智高缓 | 0.25 | gpt-6.2-astra |
+| 24 | `sub.vcnovb.cn` | $2.5 / $15 | Az-gpt | 1 | gpt-6.2-astra |
+| 25 | `xigong.cloud` | $2.625 / $15.75 | Cyber Blue | 1.05 | gpt-6.2-astra |
+| 26 | `hanhegufei.online` | $3 / $15 | gpt企业分组 | 0.3 | gpt-6.2-astra |
+| 27 | `www.xmapi.cc` | $3.25 / $19.5 | Az-6.2sol-尝鲜 | 1.3 | gpt-6.2-astra |
+| 28 | `sub.hotapi.top` | $3.5 / $17.5 | gpt-官key | 0.35 | gpt-6.2-astra |
+| 29 | `api.awai.cc` | $3.6 / $18 | GPT【官转\|强制fast】 | 0.36 | gpt-6.2-astra |
+| 30 | `subkkai.com` | $3.75 / $22.5 | GPT官key分组 | 1.5 | gpt-6.2-astra |
+| 31 | `api.maixun.icu` | $5 / $25 | GPT官K-满血不降智 | 0.5 | gpt-6.2-astra |
+| 32 | `meta-aihub.com` | $8 / $40 | Codex Pro | 1 | gpt-6.2-astra |
+| 33 | `api.zayuapi.com` | $12.8 / $64 | ChatGPT-Azure满血 | 1.28 | gpt-6.2-astra |
+| 34 | `ciyuan.fast` | $25 / $125 | GPT-官key | 2.5 | gpt-6.2-astra |
+| 35 | `api.chuangxiangai.asia` | $35 / $175 | gpt-官key 0.35x | 3.5 | gpt-6.2-astra |
 
 > 39 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

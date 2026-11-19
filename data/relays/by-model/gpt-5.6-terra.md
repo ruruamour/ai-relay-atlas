@@ -87,36 +87,36 @@
 | 18 | `loveapi.top` | $0.1 / $0.6 | Codex-Plus 激励组0.05x | 0.05 | gpt-5.6-terra |
 | 19 | `sub.sixoner.com` | $0.1 / $0.6 | GPT005 | 0.05 | gpt-5.6-terra |
 | 20 | `super.aresaicode.cn` | $0.1 / $0.6 | gpt （降智不保证） | 0.05 | gpt-5.6-terra |
-| 21 | `www.bb-api.com` | $0.1 / $0.6 | 【O/005】GPT屎山大本营 | 0.05 | gpt-5.6-terra |
-| 22 | `www.kk-vibe.top` | $0.1 / $0.6 | 005----GPT 口水车 | 0.05 | gpt-5.6-terra |
-| 23 | `www.qianweikeji.fun` | $0.1 / $0.6 | gpt低倍率 | 0.05 | gpt-5.6-terra |
-| 24 | `kukuai.ai` | $0.11581 / $0.661766 | 线路7 - 推荐 | 1 | gpt-5.6-terra |
-| 25 | `ai.dyc.im` | $0.12 / $0.72 | ChatGPT Plus | 0.06 | gpt-5.6-terra |
-| 26 | `ai.entrylk.cn` | $0.12 / $0.72 | codex-超优惠 | 0.06 | gpt-5.6-terra |
-| 27 | `ai.websee.top` | $0.12 / $0.72 | ChatGPT Plus | 0.06 | gpt-5.6-terra |
-| 28 | `api.123uq.com` | $0.12 / $0.72 | plus狂欢 | 0.06 | gpt-5.6-terra |
-| 29 | `api.wopally.cn` | $0.12 / $0.72 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-5.6-terra |
-| 30 | `hetune.top` | $0.12 / $0.72 | Codex-team | 0.06 | gpt-5.6-terra |
-| 31 | `kuafushe.cc` | $0.12 / $0.72 | GPT-王炸组 | 0.06 | gpt-5.6-terra |
-| 32 | `pureai.ink` | $0.12 / $0.72 | Z-GPT-Team | 0.06 | gpt-5.6-terra |
-| 33 | `s169.bjhuiqu.net` | $0.12 / $0.72 | pro | 0.06 | gpt-5.6-terra |
-| 34 | `sub.callai.one` | $0.12 / $0.72 | gpt | 0.06 | gpt-5.6-terra |
-| 35 | `sub.pikaqiu.shop` | $0.12 / $0.72 | team | 0.06 | gpt-5.6-terra |
-| 36 | `supercodes.vip` | $0.12 / $0.72 | GPT Plus | 0.06 | gpt-5.6-terra |
-| 37 | `ttapi123.xyz` | $0.12 / $0.72 | Codex-降智组 | 0.06 | gpt-5.6-terra |
-| 38 | `api.cnvip.com.cn` | $0.125 / $0.75 | GPT  team | 0.05 | gpt-5.6-terra |
-| 39 | `api.tyasai.com` | $0.13 / $0.78 | GPT  稳定 | 0.065 | gpt-5.6-terra |
-| 40 | `ai.blue1.top` | $0.14 / $0.84 | Plus 优惠组（不能用就切） | 0.07 | gpt-5.6-terra |
-| 41 | `ovo1.vip` | $0.14 / $0.84 | Codex Plus | 0.07 | gpt-5.6-terra |
-| 42 | `www.civilian.asia` | $0.14 / $0.84 | 狼人分组 | 0.07 | gpt-5.6-terra |
-| 43 | `fugui.im` | $0.15 / $0.9 | 【无名】ChatGPT-Pro-科研小组 | 0.075 | gpt-5.6-terra |
-| 44 | `sheepapi.top` | $0.15 / $0.9 | gpt-混池 | 0.075 | gpt-5.6-terra |
-| 45 | `api.asdfas.party` | $0.16 / $0.96 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-5.6-terra |
-| 46 | `api.bingoapi.top` | $0.16 / $0.96 | gpt plus（骨折价，稳定性适中） | 0.08 | gpt-5.6-terra |
-| 47 | `api.chi-yu-ai.com` | $0.16 / $0.96 | GPT-【分组】 | 0.08 | GPT-5.6-Terra |
-| 48 | `api.www-cx-api.cn.mt` | $0.16 / $0.96 | GPT-plus  0.08 | 0.08 | gpt-5.6-terra |
-| 49 | `aus.aivra.lat` | $0.16 / $0.96 | Aivra X OpenAI Pro 25x | 0.08 | gpt-5.6-terra |
-| 50 | `codexpert.top` | $0.16 / $0.96 | GPT（ Plus/Team组） | 0.08 | gpt-5.6-terra |
+| 21 | `toknex.ai` | $0.1 / $0.6 | codex | 0.05 | gpt-5.6-terra |
+| 22 | `www.bb-api.com` | $0.1 / $0.6 | 【O/005】GPT屎山大本营 | 0.05 | gpt-5.6-terra |
+| 23 | `www.kk-vibe.top` | $0.1 / $0.6 | 005----GPT 口水车 | 0.05 | gpt-5.6-terra |
+| 24 | `www.qianweikeji.fun` | $0.1 / $0.6 | gpt低倍率 | 0.05 | gpt-5.6-terra |
+| 25 | `kukuai.ai` | $0.11581 / $0.661766 | 线路7 - 推荐 | 1 | gpt-5.6-terra |
+| 26 | `ai.dyc.im` | $0.12 / $0.72 | ChatGPT Plus | 0.06 | gpt-5.6-terra |
+| 27 | `ai.entrylk.cn` | $0.12 / $0.72 | codex-超优惠 | 0.06 | gpt-5.6-terra |
+| 28 | `ai.websee.top` | $0.12 / $0.72 | ChatGPT Plus | 0.06 | gpt-5.6-terra |
+| 29 | `api.123uq.com` | $0.12 / $0.72 | plus狂欢 | 0.06 | gpt-5.6-terra |
+| 30 | `api.wopally.cn` | $0.12 / $0.72 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-5.6-terra |
+| 31 | `hetune.top` | $0.12 / $0.72 | Codex-team | 0.06 | gpt-5.6-terra |
+| 32 | `kuafushe.cc` | $0.12 / $0.72 | GPT-王炸组 | 0.06 | gpt-5.6-terra |
+| 33 | `pureai.ink` | $0.12 / $0.72 | Z-GPT-Team | 0.06 | gpt-5.6-terra |
+| 34 | `s169.bjhuiqu.net` | $0.12 / $0.72 | pro | 0.06 | gpt-5.6-terra |
+| 35 | `sub.callai.one` | $0.12 / $0.72 | gpt | 0.06 | gpt-5.6-terra |
+| 36 | `sub.pikaqiu.shop` | $0.12 / $0.72 | team | 0.06 | gpt-5.6-terra |
+| 37 | `supercodes.vip` | $0.12 / $0.72 | GPT Plus | 0.06 | gpt-5.6-terra |
+| 38 | `ttapi123.xyz` | $0.12 / $0.72 | Codex-降智组 | 0.06 | gpt-5.6-terra |
+| 39 | `api.cnvip.com.cn` | $0.125 / $0.75 | GPT  team | 0.05 | gpt-5.6-terra |
+| 40 | `api.tyasai.com` | $0.13 / $0.78 | GPT  稳定 | 0.065 | gpt-5.6-terra |
+| 41 | `ai.blue1.top` | $0.14 / $0.84 | Plus 优惠组（不能用就切） | 0.07 | gpt-5.6-terra |
+| 42 | `ovo1.vip` | $0.14 / $0.84 | Codex Plus | 0.07 | gpt-5.6-terra |
+| 43 | `www.civilian.asia` | $0.14 / $0.84 | 狼人分组 | 0.07 | gpt-5.6-terra |
+| 44 | `fugui.im` | $0.15 / $0.9 | 【无名】ChatGPT-Pro-科研小组 | 0.075 | gpt-5.6-terra |
+| 45 | `sheepapi.top` | $0.15 / $0.9 | gpt-混池 | 0.075 | gpt-5.6-terra |
+| 46 | `api.asdfas.party` | $0.16 / $0.96 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-5.6-terra |
+| 47 | `api.bingoapi.top` | $0.16 / $0.96 | gpt plus（骨折价，稳定性适中） | 0.08 | gpt-5.6-terra |
+| 48 | `api.chi-yu-ai.com` | $0.16 / $0.96 | GPT-【分组】 | 0.08 | GPT-5.6-Terra |
+| 49 | `api.www-cx-api.cn.mt` | $0.16 / $0.96 | GPT-plus  0.08 | 0.08 | gpt-5.6-terra |
+| 50 | `aus.aivra.lat` | $0.16 / $0.96 | Aivra X OpenAI Pro 25x | 0.08 | gpt-5.6-terra |
 
 > 另有 308 站未列出。
 

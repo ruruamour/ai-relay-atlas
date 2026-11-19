@@ -1,6 +1,6 @@
 # gpt-6-astra
 
-> 2133 站提供 · 正常价 1175 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5**/1M 输入（877 站公开充值价） · 推算，未对账
+> 2134 站提供 · 正常价 1176 站 · 名义中位价 **$2.5**/1M 输入 · 实付中位价 **¥5**/1M 输入（877 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -92,32 +92,32 @@
 | 23 | `loveapi.top` | $0.5 / $2.5 | Codex-Plus 激励组0.05x | 0.05 | gpt-6-astra |
 | 24 | `sub.sixoner.com` | $0.5 / $2.5 | GPT005 | 0.05 | gpt-6-astra |
 | 25 | `super.aresaicode.cn` | $0.5 / $2.5 | gpt （降智不保证） | 0.05 | gpt-6-astra |
-| 26 | `www.bb-api.com` | $0.5 / $2.5 | 【O/005】GPT屎山大本营 | 0.05 | gpt-6-astra |
-| 27 | `www.kk-vibe.top` | $0.5 / $2.5 | 005----GPT 口水车 | 0.05 | gpt-6-astra |
-| 28 | `www.qianweikeji.fun` | $0.5 / $2.5 | gpt低倍率 | 0.05 | gpt-6-astra |
-| 29 | `www.starapi.cc` | $0.5 / $2.5 | OpenAI Neo | 0.05 | gpt-6-astra |
-| 30 | `ai.dyc.im` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6-astra |
-| 31 | `ai.entrylk.cn` | $0.6 / $3 | codex-超优惠 | 0.06 | gpt-6-astra |
-| 32 | `ai.websee.top` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6-astra |
-| 33 | `api.123uq.com` | $0.6 / $3 | plus狂欢 | 0.06 | gpt-6-astra |
-| 34 | `api.hualong.online` | $0.6 / $3 | GPT万亿补贴分组 | 0.06 | gpt-6-astra |
-| 35 | `api.wopally.cn` | $0.6 / $3 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-6-astra |
-| 36 | `hetune.top` | $0.6 / $3 | Codex-team | 0.06 | gpt-6-astra |
-| 37 | `kuafushe.cc` | $0.6 / $3 | GPT-王炸组 | 0.06 | gpt-6-astra |
-| 38 | `linfengx.xyz` | $0.6 / $3 | 常规 | 0.06 | gpt-6-astra |
-| 39 | `pureai.ink` | $0.6 / $3 | Z-GPT-Team | 0.06 | gpt-6-astra |
-| 40 | `sub.callai.one` | $0.6 / $3 | gpt | 0.06 | gpt-6-astra |
-| 41 | `sub.pikaqiu.shop` | $0.6 / $3 | team | 0.06 | gpt-6-astra |
-| 42 | `supercodes.vip` | $0.6 / $3 | GPT Plus | 0.06 | gpt-6-astra |
-| 43 | `ttapi123.xyz` | $0.6 / $3 | Codex-降智组 | 0.06 | gpt-6-astra |
-| 44 | `api.168box.xyz` | $0.65 / $3.25 | gpt | 0.065 | gpt-6-astra |
-| 45 | `api.tyasai.com` | $0.65 / $3.25 | GPT  稳定 | 0.065 | gpt-6-astra |
-| 46 | `ai.bayunzi.shop` | $0.7 / $3.5 | ChatGPT-Plus | 0.07 | gpt-6-astra |
-| 47 | `ai.blue1.top` | $0.7 / $3.5 | Plus 优惠组（不能用就切） | 0.07 | gpt-6-astra |
-| 48 | `ai.dmapi.xyz` | $0.7 / $3.5 | gpt plus（稳定） | 0.07 | gpt-6-astra |
-| 49 | `ovo1.vip` | $0.7 / $3.5 | Codex Plus | 0.07 | gpt-6-astra |
-| 50 | `fugui.im` | $0.75 / $3.75 | 【无名】ChatGPT-Pro-科研小组 | 0.075 | gpt-6-astra |
+| 26 | `toknex.ai` | $0.5 / $2.5 | codex | 0.05 | gpt-6-astra |
+| 27 | `www.bb-api.com` | $0.5 / $2.5 | 【O/005】GPT屎山大本营 | 0.05 | gpt-6-astra |
+| 28 | `www.kk-vibe.top` | $0.5 / $2.5 | 005----GPT 口水车 | 0.05 | gpt-6-astra |
+| 29 | `www.qianweikeji.fun` | $0.5 / $2.5 | gpt低倍率 | 0.05 | gpt-6-astra |
+| 30 | `www.starapi.cc` | $0.5 / $2.5 | OpenAI Neo | 0.05 | gpt-6-astra |
+| 31 | `ai.dyc.im` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6-astra |
+| 32 | `ai.entrylk.cn` | $0.6 / $3 | codex-超优惠 | 0.06 | gpt-6-astra |
+| 33 | `ai.websee.top` | $0.6 / $3 | ChatGPT Plus | 0.06 | gpt-6-astra |
+| 34 | `api.123uq.com` | $0.6 / $3 | plus狂欢 | 0.06 | gpt-6-astra |
+| 35 | `api.hualong.online` | $0.6 / $3 | GPT万亿补贴分组 | 0.06 | gpt-6-astra |
+| 36 | `api.wopally.cn` | $0.6 / $3 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-6-astra |
+| 37 | `hetune.top` | $0.6 / $3 | Codex-team | 0.06 | gpt-6-astra |
+| 38 | `kuafushe.cc` | $0.6 / $3 | GPT-王炸组 | 0.06 | gpt-6-astra |
+| 39 | `linfengx.xyz` | $0.6 / $3 | 常规 | 0.06 | gpt-6-astra |
+| 40 | `pureai.ink` | $0.6 / $3 | Z-GPT-Team | 0.06 | gpt-6-astra |
+| 41 | `sub.callai.one` | $0.6 / $3 | gpt | 0.06 | gpt-6-astra |
+| 42 | `sub.pikaqiu.shop` | $0.6 / $3 | team | 0.06 | gpt-6-astra |
+| 43 | `supercodes.vip` | $0.6 / $3 | GPT Plus | 0.06 | gpt-6-astra |
+| 44 | `ttapi123.xyz` | $0.6 / $3 | Codex-降智组 | 0.06 | gpt-6-astra |
+| 45 | `api.168box.xyz` | $0.65 / $3.25 | gpt | 0.065 | gpt-6-astra |
+| 46 | `api.tyasai.com` | $0.65 / $3.25 | GPT  稳定 | 0.065 | gpt-6-astra |
+| 47 | `ai.bayunzi.shop` | $0.7 / $3.5 | ChatGPT-Plus | 0.07 | gpt-6-astra |
+| 48 | `ai.blue1.top` | $0.7 / $3.5 | Plus 优惠组（不能用就切） | 0.07 | gpt-6-astra |
+| 49 | `ai.dmapi.xyz` | $0.7 / $3.5 | gpt plus（稳定） | 0.07 | gpt-6-astra |
+| 50 | `ovo1.vip` | $0.7 / $3.5 | Codex Plus | 0.07 | gpt-6-astra |
 
-> 另有 248 站未列出。
+> 另有 249 站未列出。
 
 > 958 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

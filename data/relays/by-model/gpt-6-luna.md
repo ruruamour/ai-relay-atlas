@@ -74,24 +74,24 @@
 | 5 | `api.hyhawang.com` | $0.005 / $0.025 | gpt低倍率 | 0.05 | gpt-6-luna |
 | 6 | `sub.sixoner.com` | $0.005 / $0.025 | GPT005 | 0.05 | gpt-6-luna |
 | 7 | `super.aresaicode.cn` | $0.005 / $0.025 | gpt （降智不保证） | 0.05 | gpt-6-luna |
-| 8 | `www.bb-api.com` | $0.005 / $0.025 | 【O/005】GPT屎山大本营 | 0.05 | gpt-6-luna |
-| 9 | `www.kk-vibe.top` | $0.005 / $0.025 | 005----GPT 口水车 | 0.05 | gpt-6-luna |
-| 10 | `www.qianweikeji.fun` | $0.005 / $0.025 | gpt低倍率 | 0.05 | gpt-6-luna |
-| 11 | `ai.dyc.im` | $0.006 / $0.03 | ChatGPT Plus | 0.06 | gpt-6-luna |
-| 12 | `ai.websee.top` | $0.006 / $0.03 | ChatGPT Plus | 0.06 | gpt-6-luna |
-| 13 | `api.123uq.com` | $0.006 / $0.03 | plus狂欢 | 0.06 | gpt-6-luna |
-| 14 | `api.wopally.cn` | $0.006 / $0.03 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-6-luna |
-| 15 | `kuafushe.cc` | $0.006 / $0.03 | GPT-王炸组 | 0.06 | gpt-6-luna |
-| 16 | `pureai.ink` | $0.006 / $0.03 | Z-GPT-Team | 0.06 | gpt-6-luna |
-| 17 | `sub.callai.one` | $0.006 / $0.03 | gpt | 0.06 | gpt-6-luna |
-| 18 | `sub.pikaqiu.shop` | $0.006 / $0.03 | team | 0.06 | gpt-6-luna |
-| 19 | `xigong.cloud` | $0.0065 / $0.0325 | 【猛猛干】PRO200二手号池退款流不降智 | 0.065 | gpt-6-luna |
-| 20 | `kukuai.ai` | $0.00675 / $0.03375 | openai pro 号池 - 推荐 | 1 | gpt-6-luna |
-| 21 | `ai.blue1.top` | $0.007 / $0.035 | Plus 优惠组（不能用就切） | 0.07 | gpt-6-luna |
-| 22 | `sheepapi.top` | $0.0075 / $0.0375 | gpt-混池 | 0.075 | gpt-6-luna |
-| 23 | `api.asdfas.party` | $0.008 / $0.04 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-6-luna |
-| 24 | `gptzzz.ai` | $0.008 / $0.04 | 混合号池pro兜底 | 0.08 | gpt-6-luna |
-| 25 | `toknex.ai` | $0.008 / $0.04 | codex | 0.08 | gpt-6-luna |
+| 8 | `toknex.ai` | $0.005 / $0.025 | codex | 0.05 | gpt-6-luna |
+| 9 | `www.bb-api.com` | $0.005 / $0.025 | 【O/005】GPT屎山大本营 | 0.05 | gpt-6-luna |
+| 10 | `www.kk-vibe.top` | $0.005 / $0.025 | 005----GPT 口水车 | 0.05 | gpt-6-luna |
+| 11 | `www.qianweikeji.fun` | $0.005 / $0.025 | gpt低倍率 | 0.05 | gpt-6-luna |
+| 12 | `ai.dyc.im` | $0.006 / $0.03 | ChatGPT Plus | 0.06 | gpt-6-luna |
+| 13 | `ai.websee.top` | $0.006 / $0.03 | ChatGPT Plus | 0.06 | gpt-6-luna |
+| 14 | `api.123uq.com` | $0.006 / $0.03 | plus狂欢 | 0.06 | gpt-6-luna |
+| 15 | `api.wopally.cn` | $0.006 / $0.03 | GPT 官方反代｜0.06x（可生图） | 0.06 | gpt-6-luna |
+| 16 | `kuafushe.cc` | $0.006 / $0.03 | GPT-王炸组 | 0.06 | gpt-6-luna |
+| 17 | `pureai.ink` | $0.006 / $0.03 | Z-GPT-Team | 0.06 | gpt-6-luna |
+| 18 | `sub.callai.one` | $0.006 / $0.03 | gpt | 0.06 | gpt-6-luna |
+| 19 | `sub.pikaqiu.shop` | $0.006 / $0.03 | team | 0.06 | gpt-6-luna |
+| 20 | `xigong.cloud` | $0.0065 / $0.0325 | 【猛猛干】PRO200二手号池退款流不降智 | 0.065 | gpt-6-luna |
+| 21 | `kukuai.ai` | $0.00675 / $0.03375 | openai pro 号池 - 推荐 | 1 | gpt-6-luna |
+| 22 | `ai.blue1.top` | $0.007 / $0.035 | Plus 优惠组（不能用就切） | 0.07 | gpt-6-luna |
+| 23 | `sheepapi.top` | $0.0075 / $0.0375 | gpt-混池 | 0.075 | gpt-6-luna |
+| 24 | `api.asdfas.party` | $0.008 / $0.04 | GPT-低缓-低价（适用于酒馆等低命中场景） | 0.08 | gpt-6-luna |
+| 25 | `gptzzz.ai` | $0.008 / $0.04 | 混合号池pro兜底 | 0.08 | gpt-6-luna |
 | 26 | `www.deponia.me` | $0.008 / $0.04 | 全模型分组（不降智） 自营  | 0.08 | gpt-6-luna |
 | 27 | `xinghubai.top` | $0.008 / $0.04 | Luna | 0.08 | gpt-6-luna |
 | 28 | `api.qiuming-ai.com` | $0.009 / $0.045 | codex Plus 分组 | 0.09 | gpt-6-luna |

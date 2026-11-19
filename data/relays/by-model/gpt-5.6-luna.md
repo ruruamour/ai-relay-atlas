@@ -1,6 +1,6 @@
 # gpt-5.6-luna
 
-> 1625 站提供 · 正常价 1074 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.4415**/1M 输入（774 站公开充值价） · 推算，未对账
+> 1625 站提供 · 正常价 1073 站 · 名义中位价 **$0.2**/1M 输入 · 实付中位价 **¥0.4415**/1M 输入（774 站公开充值价） · 推算，未对账
 
 [← 返回索引](index.md)
 
@@ -84,40 +84,40 @@
 | 15 | `api.chi-yu-ai.com` | $0.016 / $0.096 | GPT-【分组】 | 0.08 | GPT-5.6-Luna |
 | 16 | `gptzzz.ai` | $0.016 / $0.096 | 混合号池pro兜底 | 0.08 | gpt-5.6-luna |
 | 17 | `sub.sixoner.com` | $0.016 / $0.096 | GPT008 | 0.08 | gpt-5.6-luna |
-| 18 | `toknex.ai` | $0.016 / $0.096 | codex | 0.08 | gpt-5.6-luna |
-| 19 | `www.deponia.me` | $0.016 / $0.096 | 全模型分组（不降智） 自营  | 0.08 | gpt-5.6-luna |
-| 20 | `worldcodes.online` | $0.017 / $0.102 | Codex · Plus · 稳定 | 0.085 | gpt-5.6-luna |
-| 21 | `api.1route.dev` | $0.018 / $0.108 | GPT 🎲（混合号池） | 0.09 | gpt-5.6-luna |
-| 22 | `api.985la.cn` | $0.018 / $0.108 | PLUS组 0.09倍率 | 0.09 | gpt-5.6-luna |
-| 23 | `api.qiuming-ai.com` | $0.018 / $0.108 | codex Plus 分组 | 0.09 | gpt-5.6-luna |
-| 24 | `api.qiuming-web.com` | $0.018 / $0.108 | codex Plus 分组 | 0.09 | gpt-5.6-luna |
-| 25 | `jinglin.cc` | $0.018 / $0.108 | gpt plus(稳定性欠缺） | 0.09 | gpt-5.6-luna |
-| 26 | `api.aisj.ai` | $0.02 / $0.12 | ChatGPT-Pro-Plus混合池 | 0.1 | gpt-5.6-luna |
-| 27 | `api.clawhud.com` | $0.02 / $0.12 | Nvidia | 0.1 | gpt-5.6-luna |
-| 28 | `api.lingqiaotech.com` | $0.02 / $0.12 | [openai] codex逆向渠道【yh】 | 0.1 | gpt-5.6-luna |
-| 29 | `api.rumeng-ai.com` | $0.02 / $0.12 | GPT 速度较慢 | 0.1 | gpt-5.6-luna |
-| 30 | `api.socode.cc` | $0.02 / $0.12 | GPT[Main] | 0.1 | gpt-5.6-luna |
-| 31 | `api.tohoqing.com` | $0.02 / $0.12 | plus号池 | 0.1 | gpt-5.6-luna |
-| 32 | `api340.com` | $0.02 / $0.12 | plus  team  pro混池 | 0.1 | gpt-5.6-luna |
-| 33 | `app.yylx.io` | $0.02 / $0.12 | GPT Codex - 标准 | 0.1 | gpt-5.6-luna |
-| 34 | `hanhegufei.online` | $0.02 / $0.12 | codex-plus | 0.1 | gpt-5.6-luna |
-| 35 | `jd14l2.auto-code.net` | $0.02 / $0.12 | 自营plus | 0.1 | gpt-5.6-luna |
-| 36 | `sub2.molytea.ccwu.cc` | $0.02 / $0.12 | Codex Plus 号池 | 0.1 | gpt-5.6-luna |
-| 37 | `tk666ai.com` | $0.02 / $0.12 | ChatGPT-Pro-Plus混合池 | 0.1 | gpt-5.6-luna |
-| 38 | `www.bb-api.com` | $0.02 / $0.12 | 【O/005】GPT屎山大本营 | 0.05 | gpt-5.6-luna |
-| 39 | `yzstudio.vip` | $0.02 / $0.12 | 生图分组 | 0.1 | gpt-5.6-luna |
-| 40 | `api.kcne.top` | $0.022 / $0.132 | GPT-Plus组 | 0.11 | gpt-5.6-luna |
-| 41 | `kedaya.ai` | $0.022 / $0.132 | GPT 不降智2 | 0.11 | gpt-5.6-luna |
-| 42 | `sub.hotapi.top` | $0.022 / $0.132 | gpt | 0.11 | gpt-5.6-luna |
-| 43 | `corealgos.com` | $0.023997 / $0.143982 | gpt 计量分组（余额消费） | 0.12 | gpt-5.6-luna |
-| 44 | `aigw.store` | $0.024 / $0.144 | GPT Pro 企业【不降智】 | 0.12 | gpt-5.6-luna |
-| 45 | `gptcodex.top` | $0.024 / $0.144 | Codex-PLUS | 0.12 | gpt-5.6-luna |
-| 46 | `www.shitapi.cn` | $0.024 / $0.144 | GPT-PLUS[0.05~0.15动态调整] | 0.12 | gpt-5.6-luna |
-| 47 | `www.xunsuan.top` | $0.024 / $0.144 | Codex-plus | 0.12 | gpt-5.6-luna |
-| 48 | `api.tcvps.cn` | $0.026 / $0.156 | GPT【Pro企业级】速度快/稳定性较优/★★★★ | 0.13 | gpt-5.6-luna |
-| 49 | `fugui.im` | $0.026 / $0.156 | 【King】ChatGPT精品商家 | 0.13 | gpt-5.6-luna |
-| 50 | `oapi.shop` | $0.026 / $0.156 | Pro精选 | 0.13 | gpt-5.6-luna |
+| 18 | `www.deponia.me` | $0.016 / $0.096 | 全模型分组（不降智） 自营  | 0.08 | gpt-5.6-luna |
+| 19 | `worldcodes.online` | $0.017 / $0.102 | Codex · Plus · 稳定 | 0.085 | gpt-5.6-luna |
+| 20 | `api.1route.dev` | $0.018 / $0.108 | GPT 🎲（混合号池） | 0.09 | gpt-5.6-luna |
+| 21 | `api.985la.cn` | $0.018 / $0.108 | PLUS组 0.09倍率 | 0.09 | gpt-5.6-luna |
+| 22 | `api.qiuming-ai.com` | $0.018 / $0.108 | codex Plus 分组 | 0.09 | gpt-5.6-luna |
+| 23 | `api.qiuming-web.com` | $0.018 / $0.108 | codex Plus 分组 | 0.09 | gpt-5.6-luna |
+| 24 | `jinglin.cc` | $0.018 / $0.108 | gpt plus(稳定性欠缺） | 0.09 | gpt-5.6-luna |
+| 25 | `api.aisj.ai` | $0.02 / $0.12 | ChatGPT-Pro-Plus混合池 | 0.1 | gpt-5.6-luna |
+| 26 | `api.clawhud.com` | $0.02 / $0.12 | Nvidia | 0.1 | gpt-5.6-luna |
+| 27 | `api.lingqiaotech.com` | $0.02 / $0.12 | [openai] codex逆向渠道【yh】 | 0.1 | gpt-5.6-luna |
+| 28 | `api.rumeng-ai.com` | $0.02 / $0.12 | GPT 速度较慢 | 0.1 | gpt-5.6-luna |
+| 29 | `api.socode.cc` | $0.02 / $0.12 | GPT[Main] | 0.1 | gpt-5.6-luna |
+| 30 | `api.tohoqing.com` | $0.02 / $0.12 | plus号池 | 0.1 | gpt-5.6-luna |
+| 31 | `api340.com` | $0.02 / $0.12 | plus  team  pro混池 | 0.1 | gpt-5.6-luna |
+| 32 | `app.yylx.io` | $0.02 / $0.12 | GPT Codex - 标准 | 0.1 | gpt-5.6-luna |
+| 33 | `hanhegufei.online` | $0.02 / $0.12 | codex-plus | 0.1 | gpt-5.6-luna |
+| 34 | `jd14l2.auto-code.net` | $0.02 / $0.12 | 自营plus | 0.1 | gpt-5.6-luna |
+| 35 | `sub2.molytea.ccwu.cc` | $0.02 / $0.12 | Codex Plus 号池 | 0.1 | gpt-5.6-luna |
+| 36 | `tk666ai.com` | $0.02 / $0.12 | ChatGPT-Pro-Plus混合池 | 0.1 | gpt-5.6-luna |
+| 37 | `www.bb-api.com` | $0.02 / $0.12 | 【O/005】GPT屎山大本营 | 0.05 | gpt-5.6-luna |
+| 38 | `yzstudio.vip` | $0.02 / $0.12 | 生图分组 | 0.1 | gpt-5.6-luna |
+| 39 | `api.kcne.top` | $0.022 / $0.132 | GPT-Plus组 | 0.11 | gpt-5.6-luna |
+| 40 | `kedaya.ai` | $0.022 / $0.132 | GPT 不降智2 | 0.11 | gpt-5.6-luna |
+| 41 | `sub.hotapi.top` | $0.022 / $0.132 | gpt | 0.11 | gpt-5.6-luna |
+| 42 | `corealgos.com` | $0.023997 / $0.143982 | gpt 计量分组（余额消费） | 0.12 | gpt-5.6-luna |
+| 43 | `aigw.store` | $0.024 / $0.144 | GPT Pro 企业【不降智】 | 0.12 | gpt-5.6-luna |
+| 44 | `gptcodex.top` | $0.024 / $0.144 | Codex-PLUS | 0.12 | gpt-5.6-luna |
+| 45 | `www.shitapi.cn` | $0.024 / $0.144 | GPT-PLUS[0.05~0.15动态调整] | 0.12 | gpt-5.6-luna |
+| 46 | `www.xunsuan.top` | $0.024 / $0.144 | Codex-plus | 0.12 | gpt-5.6-luna |
+| 47 | `api.tcvps.cn` | $0.026 / $0.156 | GPT【Pro企业级】速度快/稳定性较优/★★★★ | 0.13 | gpt-5.6-luna |
+| 48 | `fugui.im` | $0.026 / $0.156 | 【King】ChatGPT精品商家 | 0.13 | gpt-5.6-luna |
+| 49 | `oapi.shop` | $0.026 / $0.156 | Pro精选 | 0.13 | gpt-5.6-luna |
+| 50 | `api.168box.xyz` | $0.027 / $0.162 | codex | 0.135 | gpt-5.6-luna |
 
-> 另有 250 站未列出。
+> 另有 249 站未列出。
 
-> 551 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。
+> 552 站只有福利/占位/异常价，未参与排名。完整数据见 `relay-models.csv`。

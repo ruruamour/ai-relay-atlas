@@ -11,7 +11,7 @@
 |---|---|---|---|
 | [gpt-5.6-sol](gpt-5.6-sol.md) | 2312 | $1.25 | ¥2.48 |
 | [gpt-5.6-terra](gpt-5.6-terra.md) | 2182 | $0.6 | ¥1 |
-| [gpt-6-astra](gpt-6-astra.md) | 2133 | $2.5 | ¥5 |
+| [gpt-6-astra](gpt-6-astra.md) | 2134 | $2.5 | ¥5 |
 | [gpt-6.1-sol](gpt-6.1-sol.md) | 1987 | $0.5 | ¥1 |
 | [gpt-6-sol](gpt-6-sol.md) | 1959 | $0.5 | ¥1 |
 | [gpt-image-2](gpt-image-2.md) | 1877 | $0.08/次 | ¥0.1/次 |
@@ -20,7 +20,7 @@
 | [gpt-image-2.5-flare](gpt-image-2.5-flare.md) | 1377 | $0.081825/次 | ¥0.1/次 |
 | [gpt-image-2.5-sunburst](gpt-image-2.5-sunburst.md) | 1376 | $0.084/次 | ¥0.1/次 |
 | [gpt-6-luna](gpt-6-luna.md) | 1241 | $0.06 | ¥0.12 |
-| [gpt-6.1-terra](gpt-6.1-terra.md) | 1172 | $0.24 | ¥0.42 |
+| [gpt-6.1-terra](gpt-6.1-terra.md) | 1173 | $0.24 | ¥0.42 |
 | [codex-auto-review](codex-auto-review.md) | 1169 | $0.65 | ¥0.9 |
 | [gpt-5.4](gpt-5.4.md) | 1120 | $1.25 | ¥4 |
 | [gpt-5.4-mini](gpt-5.4-mini.md) | 919 | $0.6 | ¥0.9 |
@@ -105,14 +105,14 @@
 | [gpt-4o-mini-realtime-preview](gpt-4o-mini-realtime-preview.md) | 105 | $0.6 | ¥3.456 |
 | [sora-2](sora-2.md) | 104 | $0.3/次 | ¥0.6/次 |
 | [gpt-5.6-terra-openai-compact](gpt-5.6-terra-openai-compact.md) | 100 | $0.5 | ¥0.85 |
-| [gpt-6.2-sol](gpt-6.2-sol.md) | 96 | $0.8 | ¥1.375 |
+| [gpt-6.2-sol](gpt-6.2-sol.md) | 97 | $0.8 | ¥1.375 |
 | [gpt-image-2.5-sunburst-c](gpt-image-2.5-sunburst-c.md) | 92 | $0.0185884/次 | ¥0.118/次 |
 | [gpt-audio-mini](gpt-audio-mini.md) | 91 | $0.6 | ¥2.19 |
 | [chatgpt-4o](chatgpt-4o.md) | 91 | $5 | ¥10 |
 | [gpt-image-2.5-flare-c](gpt-image-2.5-flare-c.md) | 91 | $0.0185884/次 | ¥0.118/次 |
 | [gpt-audio-1.5](gpt-audio-1.5.md) | 90 | $2.5 | ¥8.75 |
 | [gpt-realtime-1.5](gpt-realtime-1.5.md) | 88 | $4 | ¥14 |
-| [gpt-6.2-astra](gpt-6.2-astra.md) | 86 | $2.125 | ¥2.4 |
+| [gpt-6.2-astra](gpt-6.2-astra.md) | 87 | $2.125 | ¥2.4 |
 | [gpt-4o-transcribe-diarize](gpt-4o-transcribe-diarize.md) | 82 | $2.5 | ¥9.375 |
 | [gpt-4.5-preview](gpt-4.5-preview.md) | 80 | $112.5 | ¥172.5 |
 | [gpt-4o-image](gpt-4o-image.md) | 79 | $0.06/次 | ¥0.1052/次 |
@@ -186,7 +186,7 @@
 | [claude-sonnet-4-5](claude-sonnet-4-5.md) | 1285 | $2.4 | ¥3.24 |
 | [claude-opus-4-5](claude-opus-4-5.md) | 1279 | $4.25 | ¥5.903 |
 | [claude-haiku-5-5](claude-haiku-5-5.md) | 1252 | $0.1 | ¥0.175 |
-| [claude-fable-5-2](claude-fable-5-2.md) | 1020 | $8 | ¥13.33 |
+| [claude-fable-5-2](claude-fable-5-2.md) | 1021 | $8 | ¥13.33 |
 | [claude-sonnet-4](claude-sonnet-4.md) | 482 | $3 | ¥4.352 |
 | [claude-opus-4-1](claude-opus-4-1.md) | 481 | $15 | ¥45.49 |
 | [claude-opus-4](claude-opus-4.md) | 393 | $15 | ¥22.75 |
