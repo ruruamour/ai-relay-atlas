@@ -1,35 +1,56 @@
 # Tools and update flow
 
-The tools are intentionally manual and conservative. They use low-concurrency public GET requests and do not call model inference endpoints.
+[Project home](../README.en.md) · [Data dictionary](../data/README.en.md) · [简体中文](README.md)
 
-## Normal relay update
+Use Python 3.10 or newer. A complete build requires `tldextract`. Offline queries use the standard library.
+
+## Offline price queries
+
+Run `query.py` from the repository root. It reads local CSV files and requires no network access or extra dependencies.
 
 ```bash
-python3 tools/gen_candidates.py --resolve > /tmp/candidates.txt
-python3 tools/scan.py /tmp/candidates.txt /tmp/scan.json
-python3 tools/merge.py /tmp/scan.json --via scan
-python3 tools/probe.py
-bash tools/build.sh
+python3 tools/query.py model gemini-4-argon --token --cny --n 10
+python3 tools/query.py group cursor --field any --model claude --call
 ```
 
-Run `bash tools/check_secrets.sh` before every commit. Generated files include `README.md`, `data/stats.md`, `data/relays/by-model/`, and normalized shop tables.
+- `model` first looks for an exact match in the stored base-model names, then checks the base and raw names for a substring. It defaults to the billing unit with the most matching rows.
+- `group` searches the stored reference quotes for a channel. By default it matches a substring in the group or raw model name. Use `--field group` or `--field model` to select one field. Use `--model` to filter the matches by base or raw model name.
+- Both commands rank one billing unit at a time. Choose `--token` for prices per million input tokens or `--call` for prices per call. `group` defaults to token billing if any token rows match and call billing when only call rows match.
+- By default, rankings exclude `promo`, `default`, `low`, and zero prices. Quotes flagged `high` remain eligible. `--all` includes flagged and zero prices within the selected billing unit.
+- Each site contributes its lowest eligible quote. `--cny` keeps only sites with a valid disclosed top-up rate and ranks by nominal price × rate. `--n` limits the output to 30 rows by default.
 
-## Discovery tools
+Run `python3 -m unittest discover -s tests` for local regression checks with the Python standard library.
 
-| Tool | Purpose |
+<a id="normal-relay-update"></a>
+
+## Rebuild the snapshot
+
+Run these commands from the repository root.
+
+```bash
+python3 -m pip install tldextract
+bash tools/build.sh
+python3 -m unittest discover -s tests
+```
+
+The build normalizes relay and shop data, refreshes the candidate index and shop review table, renders rankings, reports, and both homepages, then checks Markdown links and potential secrets.
+
+For new listings and data corrections, see the [contribution guide](../CONTRIBUTING.en.md) and [source batches](../data/raw/sources/README.md).
+
+<a id="discovery-tools"></a>
+
+## Tool index
+
+| Task | Tools |
 |---|---|
-| `discover/github_harvest.py` | Public GitHub repository/README/list harvesting with checkpoints |
-| `discover/github_code_harvest.py` | Public GitHub code-search text harvesting |
-| `discover/gitlab_harvest.py` | Public GitLab project text harvesting |
-| `discover/urlscan_harvest.py` | Passive urlscan public-index harvesting |
-| `discover/directory_harvest.py` | Public relay-directory and comparison-page harvesting |
-| `discover/crtsh.py` / `certspotter.py` | Passive certificate-transparency expansion |
-| `discover/candidate_probe.py` | Homepage status/title/latency checks |
-| `discover/shop_fingerprint.py` | Homepage-only shop/system candidate fingerprinting |
-| `discover/index_candidates.py` | One-row-per-domain evidence index |
-| `discover/build_shop_review.py` | Human-review CSV for shop candidates |
-
-See [the Chinese discovery guide](discover/README.md) for the full source list and examples.
+| Query sites and prices | [query.py](query.py) |
+| Rebuild and check the snapshot | [build.sh](build.sh), [check_links.py](check_links.py), [check_secrets.sh](check_secrets.sh) |
+| Generate reports and homepages | [build_reports.py](build_reports.py), [build_readme.py](build_readme.py), [build_readme_en.py](build_readme_en.py) |
+| Normalize site and shop data | [merge.py](merge.py), [dedupe.py](dedupe.py), [normalize_shops.py](normalize_shops.py) |
+| Rebuild candidate views | [index_candidates.py](discover/index_candidates.py), [build_shop_review.py](discover/build_shop_review.py) |
+| Monitor and report possible pricing anomalies | [monitor.py](monitor.py), [detect_substitution.py](detect_substitution.py) |
+| Collect public-source evidence | [Discovery tools](discover/README.md) |
+| Trace historical snapshots | [Archived tools](legacy/README.md) |
 
 ## Safety boundary
 

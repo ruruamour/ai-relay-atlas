@@ -1,45 +1,43 @@
 # 原始来源与验证证据
 
-本目录保存候选域名的来源元数据、低并发首页探活和公开接口扫描结果。
-这里只保存域名、来源文件、状态、标题、延迟和结构化价格结果，不保存 Cookie、API Key、密码、IP、端口、响应正文或跳转路径/查询参数。
+[候选域名索引](candidate-index.jsonl)按域名汇总线索，也包含已收录站点。[中转站主表](../../relays/relays.csv)只列核实过的服务。新资料的文件格式见[批次说明](batches/README.md)。
 
-## 来源收集
+## 核实批次
 
-| 文件 | 来源 | 规模 | 说明 |
+| 批次 | 抓取清单 | 收录依据 | 变化 |
+|---|---|---|---|
+| <a id="2026-11-21-公开目录补录"></a>[2026-11-21 公开目录补录](batches/2026-11-21/README.md) | [940 个目录域名](veridrop-directory-2026-11-21.txt) | [15 条逐站核实记录](directory-review-2026-11-21.jsonl) | 站点主表 +15，候选索引 +497 个域名 |
+
+早期调查见[历史核实记录](batches/legacy/README.md)。
+
+<a id="来源收集"></a>
+## 来源注册表
+
+| 文件 | 来源 | 规模 | 含义 |
 |---|---|---:|---|
-| `veridrop-domains.json` | Veridrop 公开目录 | 6,060 | 主候选池（已去除 249 个 IP 字面量） |
+| `veridrop-domains.json` | Veridrop 历史目录 | 6,060 | 历史种子清单，也用于重建发现来源 |
+| [`veridrop-directory-2026-11-21.txt`](veridrop-directory-2026-11-21.txt) | Veridrop 最近活跃列表 | 940 | 2026-11-21 的去重域名抓取清单 |
+| [`directory-review-2026-11-21.jsonl`](directory-review-2026-11-21.jsonl) | 目录与服务方页面交叉核实 | 15 | 每站一条的实核记录 |
 | `github-list-domains.json` | 固定 GitHub 名单 | 358 | 公开名单域名 |
-| `github-harvest.jsonl` | GitHub 仓库/README/名单 | 13,735 | 保留仓库和文件来源 |
-| `github-code-harvest.jsonl` | GitHub 代码搜索 | 5,504 | 只保留小型文本文件来源 |
-| `gitlab-harvest.jsonl` | GitLab 公共项目 | 2,274 | 不执行项目代码 |
-| `urlscan-candidates.jsonl` | urlscan 公共搜索索引 | 660 | 被动索引，不提交扫描 |
-| `npm-harvest.jsonl` | npm 公共包元数据 | 1,215 | 不安装或执行 npm 包 |
-| `docker-hub-harvest.jsonl` | Docker Hub 公共镜像描述 | 219 | 不拉取或执行容器 |
-| `huggingface-harvest.jsonl` | Hugging Face 公共 Spaces README | 388 | 不运行 Space、不调用推理 |
-| `sourcegraph-candidates.jsonl` | Sourcegraph 公共文档索引 | 4 | 仅 README/文本匹配行 |
-| `bing-candidates.jsonl` | Bing 公共搜索结果 | 65 | 低频查询，噪声较高 |
-| `directory-harvest.jsonl` | 公开中转站目录/比价页 | 958 | 只提取域名线索，不保存正文或购买路径 |
-| `crtsh-domains.json` | crt.sh 证书透明日志 | 3,527 | 被动 SAN/根域候选，不等于在售站 |
+| `github-harvest.jsonl` | GitHub 仓库、README、名单 | 13,735 | 保留仓库和文件来源的线索 |
+| `github-code-harvest.jsonl` | GitHub 代码搜索 | 5,504 | 小型文本文件中的线索 |
+| `gitlab-harvest.jsonl` | GitLab 公共项目 | 2,274 | 公共项目线索，不执行项目代码 |
+| `urlscan-candidates.jsonl` | urlscan 公共搜索索引 | 660 | 被动索引线索，不提交扫描 |
+| `npm-harvest.jsonl` | npm 公共包元数据 | 1,215 | 包描述和 README 线索，不安装包 |
+| `docker-hub-harvest.jsonl` | Docker Hub 公共镜像描述 | 219 | 描述元数据线索，不拉取容器 |
+| `huggingface-harvest.jsonl` | Hugging Face 公共 Spaces README | 388 | README 线索，不运行 Space |
+| `sourcegraph-candidates.jsonl` | Sourcegraph 公共文档索引 | 4 | README 和文本匹配线 |
+| `bing-candidates.jsonl` | Bing 公共搜索结果 | 65 | 低频、噪声较高的候选来源 |
+| `directory-harvest.jsonl` | 公开目录和比价页 | 958 | 目录域名线索，不保存正文或购买路径 |
+| `crtsh-domains.json` | crt.sh 证书透明日志 | 3,527 | 被动 SAN 和根域候选，不等于在售站 |
 | `certspotter-domains.json` | Certspotter 备用 CT | 100 | 免费接口的批次结果 |
-| `prefix-expansion-candidates.txt` | 新增站点前缀/后缀扩展 | 8,894 | 定向组合，不是全网扫描 |
-| `contact-harvest.jsonl` | 联系人/邮件清单（收件人地址） | 130 | 只保留域名和 role/personal 分类，不存邮箱地址；49 个此前完全未收录，17 个是同品牌换后缀；128/130 可达 |
-| `candidate-index.jsonl` | 多路候选统一索引 | 28,644 | 一行一域名，汇总来源、探活、接口和卡网候选状态 |
+| `prefix-expansion-candidates.txt` | 定向前缀和后缀扩展 | 8,894 | 组合候选，不是全网扫描 |
+| `contact-harvest.jsonl` | 联系人和邮件清单 | 130 | 只保留域名及分类，不保存邮箱地址 |
+| [`candidate-index.jsonl`](candidate-index.jsonl) | 多路统一索引 | 29,215 | 汇总来源、探活、接口、主表和卡网候选状态 |
 
-## 验证证据
+<a id="验证证据"></a>
+## 如何读证据
 
-- `*-probe.jsonl`：首页公开 GET 的状态、标题、延迟和最终主机；`401/403/429/5xx` 也保留。`veridrop-probe.jsonl` 是对主候选池中此前未验证的 2,200 个域名补做的探活。
-- `passive-refresh-probe.jsonl` / `passive-refresh-scan.json`：对 1,747 个此前未探活的 CT/目录候选做的低并发补验；871 个返回 2xx/3xx，保留 482 个不含敏感字段的公开接口结果，去重后主表新增 1 个 canonical 站点，其他命中项与已有域名合并。
-- `*-scan.json`：只访问已公开的状态/价格/模型目录接口，不调用推理接口。`directory-scan.json` 是公开目录新候选的接口验证结果，208 个 2xx/3xx 中命中 114 个。
-- `unified-candidate-probe.jsonl` / `unified-candidate-scan.json`：最后一批补验证的 19 个未覆盖域名，19/19 返回 HTTP 200，17 个命中公开接口。
-- `veridrop-scan.json`：上述 Veridrop 补验证中 1,053 个 2xx/3xx 域名的公开接口结果，命中 584 个。
-- `contact-harvest.jsonl` / `contact-probe.jsonl` / `contact-scan.json`：从一份群发邮件的收件人清单提取的 130 个域名线索；与主表交叉后 44 个已收录（含换后缀/镜像）、17 个与已收录站同品牌不同后缀、20 个候选索引已有、49 个全新。全清单探活 128/130 可达（102 个 2xx/3xx，其余多为 5xx 而非域名失效），剔除已收录后 90 个未收录域名无一不可达；公开接口命中 22 个，合并后新增 14 站、刷新 10 站报价。清单是他人维护的行业联系人表，可达率接近 100% 说明经过整理，取值高于证书日志的随机候选；免费邮箱 local part 里的两条域名线索（`vipapi.online`、`ttchi.online`）也都对应已收录站，说明 local part 是有效线索。
-- `contact-hard-scan.json`：对同一清单里首页返回 403/404/502/5xx 的 26 个主机也扫了公开接口（首页非 2xx 不等于不能查价），只有 `crowllm.com` 命中（403 首页、166 个模型）。该站已在主表，按快照整体刷新后报价行 267153 → 267079：站点删掉了 104 个免费/自定义模型、新增 30 个（`pricing_version` 从旧值变为 `a42d372c…`，`agnes-*`、`MiniCPM*` 已从目录消失，属真实下架而非解析失败）。结论：新候选不要只把 2xx/3xx 清单丢给 `scan.py`，403 首页也会藏着在售站。
-- `contact-brandscan.json`：对 20 个"与已收录站同品牌、不同后缀"的域名单独扫了一轮，只有 2 个有响应：`toknex.me`（Sub2API 模型广场 30 个模型，并入 `toknex.ai`，报价行 267079 → 267109）和 `nuoapi.com`（`registration_enabled` 与 `model_plaza_enabled` 都是 false，属于同品牌的非公开实例，按 merge 的规则不收录；公开的那个是 `nuoapi.net`）。其余 18 个换后缀域名虽然有首页或邮箱线索，但没有任何公开状态/价格接口，仍留在候选索引。
-- 同一批文档里像卡网的 12 个域名（`wokushop.com`、`fuka.win`、`minecrash.top`、`wookit.cn`、`xiass.com`、`pulseneko.com` 等）过了 `shop_fingerprint.py`，12/12 无卡网系统指纹、无卡密/发货关键词：这份清单是中转站与相邻业务（VPS、代充值、域名待售）的厂商名录，不是发卡站目录，因此没有进 `data/shops/candidates.csv`。
-- `contact-browser-verify.jsonl`：清单里 130 个域名**逐个用真实浏览器打开**的实核结果（Cloudflare 挑战页、JS 壳、访客闸门这类只看 HTTP 状态码判断不了的情况），只存判定类别、标题、文本字数与关键词布尔命中，不存正文。结果：中转站 70、打不开 25、相邻业务 13、非中转 12、待定 1、账号/订阅代售 5、停放/待售 3、前台已停 1、运营设施 1。其中 4 个被 Cloudflare 挑战页挡住（`crowllm.com`、`ctok.ai`、`vanvibe.com`、`wokushop.com`），改用有头模式重开才拿到真实页面：`crowllm.com` 是中转站（页面写 138 个模型、17 家上游），`ctok.ai` 是 Claude Code 教程站，`vanvibe.com` 跳到 HugeDomains 域名出售页，`wokushop.com` 是越南语数字账号商店——无头模式会把这几类判定成"被盾拦截"，有头模式一次就能分清。
-- `contact-browser-adds.jsonl`：上面 130 个域名里实核为"中转站"但主表没有的 23 个（`51kik.com`、`gptproto.com`、`cubence.com`、`oneprovider.dev`、`bazaarlink.ai` 等），按"首页实核"补进主表：`discovered_via=browser`、`n_models=0`、`notes` 写明"浏览器打开确认，无公开价格/状态接口"。主表里 `n_models=0` 的行本来就占四成，这里是唯一一类"没有接口证据"的，所以来源列和备注都写清楚，便于后续补价或剔除。`nuoapi.com` 虽然也在其中，但它的注册与模型广场都是关闭状态。其中 30 个实核为中转站但没有任何公开价格/状态接口（`gptproto.com`、`cubence.com`、`bazaarlink.ai`、`oneprovider.dev` 等），已在 `candidate-index.jsonl` 的 `page_category` 标为中转站，主表仍按"有公开接口"的门槛未收录。另外 `aeapi.cn`（首页已暂停、`/api/pricing` 仍返回 50 个模型）和 `partokens.com`（Cloudflare 522）已写进 `annotations.csv`。
-- `shop-fingerprint-candidates.jsonl`：首页卡网/系统指纹候选，**不是已确认商品店**；审核清单为 `data/shops/candidates.csv`。
-- `shop-browser-review.jsonl`：4 个高置信候选的浏览器渲染摘要；3 个首页显示商品/卡密相关内容，1 个访问受限。只保存标题、长度和布尔标记，不保存正文。
-- `candidate-index.jsonl`：把上述来源、探活、接口命中、主表状态和卡网指纹整理成一行一域名的复查索引；不替代主表。
+`*-probe.jsonl` 是首页访问记录，含状态、标题、延迟和最终主机。`*-scan.json` 保存公开状态、价格和模型目录接口的结构化结果。`contact-browser-verify.jsonl` 和 `directory-review*.jsonl` 保存页面类别及核实摘要。
 
-来源候选和确认主表分离：只有扫描到公开模型/价格目录并通过合并去重的站点才进入 `data/relays/relays.csv`；卡网候选不会自动进入 `data/shops/shops.csv`。
+确认服务需要公开接口或服务方说明，还要核对主域、别名和品牌。卡网首页的指纹线索另列在[店铺候选审核表](../../shops/candidates.csv)，不计入已收录店铺。

@@ -1,258 +1,63 @@
 #!/usr/bin/env python3
-"""从 data/ 生成 README.md（勿手改 README）。"""
-import os
-import sys
-from collections import defaultdict
+"""从当前快照生成中文读者首页；详细表格见 build_reports.py。"""
+from pathlib import Path
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import *  # noqa
-from build_stats import compute
-from generate_by_model import fname, MIN_SITES
-
-LETTER = [('openai', 'O'), ('claude', 'C'), ('gemini', 'G'), ('grok', 'X'), ('mimo', 'M'), ('deepseek', 'D')]
-
-
-def esc(x):
-    return str(x if x is not None else '').replace('|', '\\|')
+from common import path
+from readme_common import snapshot
 
 
 def main():
-    s = compute()
-    m, rl, sh, pr = s['summ'], s['rl'], s['sh'], s['pr']
-    L = []
-    A = L.append
-    A('# ai-relay-atlas · AI 中转站与发卡地图')
-    A('')
-    A('[![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) '
-      '[![Data: CC BY-NC 4.0](https://img.shields.io/badge/data-CC%20BY--NC%204.0-lightgrey.svg)](DATA-LICENSE.md) '
-      '[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)')
-    A('')
-    A('**简体中文** · [English README](README.en.md)')
-    A('')
-    A('把 **AI API 中转站**和 **发卡/卡网店铺**放进同一张"上游地图"。**本阶段以收全名单为主**，细节后续补充。')
-    A('')
-    A('> ⚠️ 仅收录公开信息，不提供购买入口、不参与交易、不担保。价格为推算值、未对账，以原站为准。见 [DISCLAIMER.md](DISCLAIMER.md)。')
-    A('')
-    A('<a id="toc"></a>')
-    A('## 目录')
-    A('')
-    for t, a in [('数据概览', 'stats'), ('快速开始', 'quickstart'), ('安全与范围', 'safety'), ('中转站 · 综合名单', 'relays'),
-                 ('中转站 · 模型覆盖', 'coverage'), ('中转站 · 疑似同后端', 'backend'), ('卡网 · 店铺名单', 'shops'),
-                 ('卡网 · 平台与系统', 'shop-platforms'), ('数据文件', 'files'), ('文档', 'docs'),
-                 ('数据来源', 'sources'), ('授权', 'license'), ('贡献', 'contributing')]:
-        A('- [%s](#%s)' % (t, a))
-    A('')
+    s = snapshot()
+    text = f"""# ai-relay-atlas · AI 中转站与发卡地图
 
-    A('<a id="stats"></a>')
-    A('## 数据概览')
-    A('')
-    A('| 项 | 数量 |')
-    A('|---|---|')
-    A('| 中转站（去重后） | %d（首页可访问 %d） |' % (m['sites'], s['up']))
-    A('| 合并的别名/镜像域名 | %d |' % m['aliases'])
-    A('| 已剔除的泛解析子域 | %d |' % m['wildcard_removed'])
-    A('| 站 × 模型 报价 | %d |' % m['model_rows'])
-    A('| 基础模型数（不同模型，非站数） | %d |' % m['model_bases'])
-    tps = [valid_topup(r['topup_cny_per_usd']) for r in rl if valid_topup(r['topup_cny_per_usd'])]
-    if tps:
-        A('| 公开充值价的站 | %d（≤¥1.5/$ 的 %d 站，≥¥6/$ 的 %d 站） |' % (
-            len(tps), sum(1 for x in tps if x <= 1.5), sum(1 for x in tps if x >= 6)))
-    A('| 发卡店铺 | %d（SaaS %d / 自建 %d） |' % (len(sh), sum(1 for x in sh if x['hosting'] == 'SaaS'),
-                                            sum(1 for x in sh if x['hosting'] == '自建')))
-    A('| 发卡商品报价 | %d |' % len(pr))
-    A('')
-    A('更多分布见 [data/stats.md](data/stats.md)。')
-    A('')
+**简体中文** · [English](README.en.md)
 
-    A('<a id="quickstart"></a>')
-    A('## 快速开始')
-    A('')
-    A('这是一个公开信息研究项目：候选、已确认中转站和卡网审核项始终分开。')
-    A('')
-    A('```bash')
-    A('git clone https://github.com/ruruamour/ai-relay-atlas.git && cd ai-relay-atlas')
-    A('python3 tools/query.py model gemini-4-argon      # 某模型哪些站有、什么价')
-    A('python3 tools/query.py site api.openlux.ai       # 某站的全部模型（别名会自动换成主域名）')
-    A('python3 tools/query.py group cursor              # 某渠道（分组名）哪些站有、什么价')
-    A('bash tools/build.sh                              # 改数据后重建：去重 → 榜单 → 统计 → README')
-    A('```')
-    A('')
+在这里查 AI API 中转站、比较模型报价，或核对发卡店铺的商品与来源。价格来自公开页面或接口，未与账单核对。
 
-    A('<a id="relays"></a>')
-    A('## 中转站 · 综合名单')
-    A('')
-    A('| # | 站点 | 站名 | 系统 | 模型数 | 覆盖 | 充值 ¥/$ | Veridrop | 状态 | 延迟 |')
-    A('|---|---|---|---|---|---|---|---|---|---|')
+<a id="toc"></a><a id="tasks"></a><a id="目录"></a>
+## 从这里开始
 
-    def key(r):
-        return (r['http_status'] == '200', int(r['n_models'] or 0), num(r['veridrop_score']) or 0)
-    for i, r in enumerate(sorted(rl, key=key, reverse=True)[:100], 1):
-        fams = set((r['families'] or '').split('/'))
-        cov = ''.join(l for c, l in LETTER if c in fams) or '-'
-        nm = (r['name'] or '').strip()
-        warn = '⚠️ ' if (r.get('tags') or '') else ''
-        A('| %d | `%s` | %s | %s | %s | %s | %s | %s | %s | %s |' % (
-            i, warn + esc(r['domain']), esc(nm[:18] + ('…' if len(nm) > 18 else '')) or '-', esc(r['system']) or '-',
-            r['n_models'] or 0, cov, fmt(valid_topup(r['topup_cny_per_usd'])) or '-',
-            esc(r['veridrop_score']) or '-', esc(r['http_status']) or '-',
-            (r['latency_ms'] + 'ms') if r['latency_ms'] else '-'))
-    A('')
-    A('⚠️ 标记的站点见 [aliases/标注说明](data/README.md#标注annotationscsv)；目前 %d 个。' % sum(1 for r in rl if r.get('tags')))
-    A('')
-    A('覆盖：O=OpenAI · C=Claude · G=Gemini · X=Grok · M=MiMo · D=DeepSeek。'
-      '充值 ¥/$：站点公开的"多少元买 1 美元额度"，实付价 = 名义价 × 充值价。')
-    A('')
-    A('完整名单（%d 站）：[relays.csv](data/relays/relays.csv) · 别名：[aliases.csv](data/relays/aliases.csv) · '
-      '报价：[relay-models.csv](data/relays/relay-models.csv)' % m['sites'])
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+| 我想做什么 | 从哪里查 |
+|---|---|
+| <a id="relays"></a><a id="中转站--综合名单"></a>查一个站点或镜像 | [中转站主表](data/relays/relays.csv) · [别名对照表](data/relays/aliases.csv) · [综合名单前 100 站](reports/relays.md#top-100-sites) |
+| <a id="coverage"></a><a id="中转站--模型覆盖"></a>比较同一模型的价格 | [按模型查价](data/relays/by-model/index.md) · [全部报价 CSV](data/relays/relay-models.csv) · [计价和换算](docs/pricing-basics.md) |
+| <a id="shops"></a><a id="卡网--店铺名单"></a>查店铺和商品 | [已收录店铺](data/shops/shops.csv) · [商品与标价](data/shops/products.csv) · [店铺概览](reports/shops.md) |
+| <a id="sources"></a><a id="数据来源"></a>核对收录依据 | [来源与批次](data/raw/sources/README.md) · [候选域名索引](data/raw/sources/candidate-index.jsonl) |
+| <a id="contributing"></a><a id="贡献"></a>提交新站或纠错 | [贡献指南](CONTRIBUTING.md) · [哪些文件可以改](data/README.md) |
 
-    A('<a id="coverage"></a>')
-    A('## 中转站 · 模型覆盖')
-    A('')
-    A('| 家族 | 基础模型数 | 覆盖站点 | 覆盖最广的模型 |')
-    A('|---|---|---|---|')
-    sites_of = defaultdict(set)
-    for r in s['rm']:
-        sites_of[r['model_base']].add(r['domain'])
-    for c in FAMILY_ORDER:
-        bases = s['fam_models'].get(c)
-        if not bases:
-            continue
-        top = sorted(bases, key=lambda b: (-len(sites_of[b]), b))[:3]
-        links = ' · '.join(('[%s](data/relays/by-model/%s.md)' % (b, fname(b))) if len(sites_of[b]) >= MIN_SITES else b
-                           for b in top)
-        A('| %s | %d | %d | %s |' % (FAMILY_NAME[c], len(bases), len(s['fam_sites'][c]), links))
-    A('')
-    A('全部 %d 个模型榜单：[by-model/index.md](data/relays/by-model/index.md)' % s['pages'])
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+<a id="stats"></a>
+## 数据概览
 
-    A('<a id="backend"></a>')
-    A('## 中转站 · 疑似同后端')
-    A('')
-    A('价格表完全相同的跨品牌站点，共 %d 组 / %d 站。前 15 组：' % (m['backend_groups'], m['backend_group_sites']))
-    A('')
-    A('| 组 | 站数 | 站点 |')
-    A('|---|---|---|')
-    for g, ds in sorted(s['groups'].items(), key=lambda kv: (-len(kv[1]), kv[0]))[:15]:
-        A('| %s | %d | %s |' % (g, len(ds), ' · '.join('`%s`' % d for d in sorted(ds)[:6]) + (' …' if len(ds) > 6 else '')))
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+- 中转站主表有 **{s['sites']:,} 站**，另有 {s['aliases']:,} 个别名。共收集 **{s['model_rows']:,} 条报价**。`n_models=0` 表示仓库暂无该站报价。
+- 候选索引涉及 {s['indexed_domains']:,} 个域名，其中包含已收录站点。第三方目录中的条目要经核实才会进入主表。
+- 店铺表收录 {s['shops']:,} 家，含 {s['products']:,} 条商品报价。另有 {s['candidates']:,} 条[店铺待审线索](data/shops/candidates.csv)。
 
-    A('<a id="shops"></a>')
-    A('## 卡网 · 店铺名单')
-    A('')
-    A('| # | 店铺 | 归属 | 卖什么 | 价位(¥) | 来源 |')
-    A('|---|---|---|---|---|---|')
-    cnt = defaultdict(int)
-    for x in pr:
-        cnt[x['shop']] += 1
-    short = {'Gemini Ultra': 'Ultra', 'ChatGPT': 'GPT'}
-    for i, r in enumerate(sorted(sh, key=lambda r: -cnt.get(r['shop'], 0))[:120], 1):
-        own = r['platform'] or ('自建/' + (r['system'] or '未知'))
-        cats = '/'.join(short.get(c, c) for c in (r['categories'] or '').split('/') if c and c != '其它') or '其它'
-        A('| %d | %s | %s | %s | %s | %s |' % (i, esc(r['shop']), esc(own), esc(cats), esc(r['price_range']), esc(r['source'])))
-    A('')
-    A('共 %d 家，上表按商品数取前 120。完整：[shops.csv](data/shops/shops.csv) · [products.csv](data/shops/products.csv)' % len(sh))
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+<a id="quickstart"></a>
+## 快速开始
 
-    A('<a id="shop-platforms"></a>')
-    A('## 卡网 · 平台与系统')
-    A('')
-    A('**发卡平台（SaaS，商家入驻）**')
-    A('')
-    A('| 平台 | 域名 | 说明 |')
-    A('|---|---|---|')
-    for r in read_csv(path('data', 'shops', 'platforms.csv')):
-        A('| %s | `%s` | %s |' % (esc(r['platform']), esc(r['domain']), esc(r['note'])))
-    A('')
-    A('**发卡系统（开源软件，自建用）**')
-    A('')
-    A('| 系统 | 仓库 | 说明 |')
-    A('|---|---|---|')
-    for r in read_csv(path('data', 'shops', 'systems.csv')):
-        A('| %s | %s | %s |' % (esc(r['system']), esc(r['repo']) or '-', esc(r['note'])))
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+在仓库根目录运行。查询只读本地 CSV，无需联网或先运行构建。
 
-    A('<a id="files"></a>')
-    A('## 数据文件')
-    A('')
-    A('| 路径 | 内容 |')
-    A('|---|---|')
-    A('| `data/relays/relays.csv` | 中转站主表（%d 站，一站一行） |' % m['sites'])
-    A('| `data/relays/aliases.csv` | 别名/镜像域名 → 主域名（%d） |' % m['aliases'])
-    A('| `data/relays/relay-models.csv` | 站 × 模型 × 价格（%d） |' % m['model_rows'])
-    A('| `data/relays/by-model/` | 模型榜单（%d 页） |' % s['pages'])
-    A('| `data/relays/medians.json` | 各模型正常价中位数 |')
-    A('| `data/relays/relay-systems.csv` | 中转站软件名录 |')
-    A('| `data/shops/` | 发卡平台、系统、店铺、商品 |')
-    A('| `data/raw/` | 原始产物、发现来源、泛解析缓存 |')
-    A('| `data/stats.md` | 统计分布 |')
-    A('')
-    A('字段说明见 [data/README.md](data/README.md)。')
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+```bash
+python3 tools/query.py site api.openlux.ai --n 10
+python3 tools/query.py model gemini-4-argon --token --cny --n 10
+python3 tools/query.py group cursor --field any --model claude --call --n 10
+```
 
-    A('<a id="docs"></a>')
-    A('## 文档')
-    A('')
-    A('| 文档 | 内容 |')
-    A('|---|---|')
-    A('| [pricing-basics.md](docs/pricing-basics.md) | 倍率/价格怎么算、标记含义 |')
-    A('| [glossary.md](docs/glossary.md) | 黑话表 |')
-    A('| [how-to-choose.md](docs/how-to-choose.md) | 怎么选上游 / 避坑 |')
-    A('| [internet-measurement.md](docs/internet-measurement.md) | 互联网测量、候选发现与合规边界 |')
-    A('| [find-faka-shops.md](docs/find-faka-shops.md) | 用公开指纹找自建卡网 |')
-    A('| [data/raw/sources/README.md](data/raw/sources/README.md) | 原始来源与验证证据清单 |')
-    A('| [tools/README.md](tools/README.md) | 脚本与更新流程 |')
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+`--token` 按每百万输入 token 比价，`--call` 按次比价。`--cny` 使用站点公开的充值价估算人民币费用。更多选项见[离线查询说明](tools/README.md#离线查价)。
 
-    A('<a id="safety"></a>')
-    A('## 安全与范围')
-    A('')
-    A('- 只读取公开页面和已公开的状态/价格/模型目录接口，使用低并发 GET。')
-    A('- 不登录、不注册、不爆破、不测漏洞、不调用推理接口。')
-    A('- 不保存 API Key、Cookie、密码、IP、端口、响应正文、跳转路径/查询参数或购买直达链接。')
-    A('')
-    A('[↑ 目录](#toc)')
-    A('')
+<a id="reports"></a><a id="files"></a><a id="docs"></a><a id="数据文件"></a><a id="文档"></a>
+## 报告与数据说明
 
-    A('<a id="sources"></a>')
-    A('## 数据来源')
-    A('')
-    A('- 中转站：Veridrop、GitHub/GitLab 公开项目、crt.sh/Certspotter、urlscan、npm、Docker Hub、Hugging Face、Sourcegraph、Bing、公开目录和定向子域扩展。')
-    A('- 站点信息与价格取自各站公开的 `/api/status`、`/api/pricing`、Sub2API `/api/v1/settings/public`、`/api/v1/model-plaza`。')
-    A('- 卡网：OpenPrice、水獭比价(shuita.xyz)、PriceAI、AI号探、AiFaKa；新增首页指纹仅作候选。')
-    A('- 来源证据清单：[data/raw/sources/README.md](data/raw/sources/README.md)')
-    A('- 原始报价版权归各来源站，见 [DATA-LICENSE.md](DATA-LICENSE.md)')
-    A('')
-    A('<a id="license"></a>')
-    A('## 授权')
-    A('')
-    A('- 代码 **MIT** · [LICENSE](LICENSE)')
-    A('- 编排与整理 **CC BY-NC 4.0** · [DATA-LICENSE.md](DATA-LICENSE.md)')
-    A('- English: [DATA-LICENSE.en.md](DATA-LICENSE.en.md) · [DISCLAIMER.en.md](DISCLAIMER.en.md)')
-    A('- 原始报价版权归各来源站')
-    A('')
-    A('<a id="contributing"></a>')
-    A('## 贡献')
-    A('')
-    A('见 [CONTRIBUTING.md](CONTRIBUTING.md) · [English contribution guide](CONTRIBUTING.en.md)。')
-    A('')
-    A('[↑ 回到目录](#toc)')
-    open(path('README.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
-    print('README lines', len(L))
+- <a id="backend"></a><a id="shop-platforms"></a><a id="中转站--疑似同后端"></a><a id="卡网--平台与系统"></a>[报告总览](reports/README.md)收录[模型家族覆盖](reports/relays.md#family-coverage)、[疑似同后端分组](reports/relays.md#suspected-backends)及[店铺平台与系统](reports/shops.md#platforms-and-systems)。
+- [数据统计](data/stats.md)汇总覆盖和价格分布。[{s['model_pages']:,} 个模型榜单](data/relays/by-model/index.md)保留各站明细。
+- [文档索引](docs/README.md)分为使用和维护两部分。更新数据后，在仓库根目录运行 `bash tools/build.sh`。
+
+<a id="license"></a><a id="safety"></a><a id="授权"></a>
+## 安全与范围
+
+收录仅依据公开信息，不提供购买入口，也不担保站点当前可用。见[免责声明](DISCLAIMER.md)、[代码许可（MIT）](LICENSE)和[整理数据许可（CC BY-NC 4.0）](DATA-LICENSE.md)。
+"""
+    Path(path('README.md')).write_text(text, encoding='utf-8')
 
 
 if __name__ == '__main__':

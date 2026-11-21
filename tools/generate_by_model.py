@@ -14,7 +14,6 @@ from common import *  # noqa
 OUT = path('data', 'relays', 'by-model')
 MIN_SITES = 20
 TOP = 50
-BAD = {'promo', 'zero', 'default', 'low'}
 
 
 def fname(b):
@@ -44,7 +43,7 @@ def main():
         for d, rs in sites.items():
             cand = []
             for r in rs:
-                if BAD & set((r['flag'] or '').split('+')):
+                if not RANK_EXCLUDED_FLAGS.isdisjoint((r['flag'] or '').split('+')):
                     continue
                 p = num(r['call_usd'] if call else r['input_usd_m'])
                 if p is not None and p > 0 and (r['billing'] == 'call') == call:

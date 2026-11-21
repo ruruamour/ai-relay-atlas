@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""统计：compute() 供 build_readme.py 复用；直接运行则写 data/stats.md。"""
+"""计算 data/stats.md 和独立报告所用的统计；直接运行则写入统计页。"""
 import glob
 import json
 import os

@@ -1,170 +1,217 @@
 #!/usr/bin/env python3
-"""查询。
-  python3 tools/query.py model gemini-4-argon [--n 30] [--all] [--cny]   某模型的站点与价格（默认排除福利/占位/异常价；--cny 按实付 ¥ 排）
-  python3 tools/query.py site api.openlux.ai                     某站的全部模型（别名自动换成主域名）
-  python3 tools/query.py find openlux                            按关键词找站点/别名
-  python3 tools/query.py group cursor [--n 30] [--cny] [--model claude-opus-5-5] [--field group|model|any]
-                                                                 按渠道关键词找站点（默认同时匹配分组名和原始模型名，
-                                                                 如 cursor 渠道、反重力、[vertex]、[官逆]）
-"""
+"""从本地 CSV 查询模型报价、渠道、站点与别名。用法见 tools/README.md。"""
 import argparse
+import math
 import os
 import sys
 from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import *  # noqa
+from common import (ALIASES, FAMILY_NAME, FAMILY_ORDER, MODELS, RANK_EXCLUDED_FLAGS,
+                    RELAYS, family, fmt, iter_csv, num, topup_map)
 
-BAD = {'promo', 'zero', 'default', 'low'}
+BILLING = {'token': '按量', 'call': '按次'}
 
 
-def p(r):
-    return num(r['call_usd']) if r['billing'] == 'call' else num(r['input_usd_m'])
+def amount(raw):
+    value = num(raw)
+    if value is not None and math.isfinite(value) and value >= 0:
+        return value
+    return None
+
+
+def price(row):
+    if row['billing'] == 'call':
+        return amount(row['call_usd'])
+    if row['billing'] == 'token':
+        return amount(row['input_usd_m'])
+    return None
+
+
+class Quotes:
+    """同一计价单位的匹配统计，每站只保留最低的可用报价。"""
+
+    def __init__(self):
+        self.count = 0
+        self.sites = set()
+        self.groups = set()
+        self.bases = set()
+        self.best = {}
+
+    def add(self, row, args):
+        domain = row['domain']
+        self.count += 1
+        selected = args.billing is None or args.billing == row['billing']
+        if args.mode == 'model' or selected:
+            self.bases.add(row['model_base'])
+        if not selected:
+            return
+        if args.mode == 'group':
+            self.sites.add(domain)
+            self.groups.add(row['group'])
+
+        value = price(row)
+        if value is None:
+            return
+        flags = (row.get('flag') or '').split('+')
+        if not args.all and (value == 0 or not RANK_EXCLUDED_FLAGS.isdisjoint(flags)):
+            return
+        if domain not in self.best or value < self.best[domain][0]:
+            self.best[domain] = (value, row)
+
+
+def show_prices(a, matches, mode):
+    quotes = matches[mode]
+    other = 'call' if mode == 'token' else 'token'
+    if other in matches:
+        print(f'另有 {matches[other].count} 行{BILLING[other]}报价，可用 --{other} 查看。')
+    if not quotes.count:
+        print(f'没有匹配的{BILLING[mode]}报价。')
+        return
+    if not quotes.best:
+        hint = '' if a.all else ' 可用 --all 纳入带标记的报价。'
+        print(f'没有可用于排名的{BILLING[mode]}报价。{hint}')
+        return
+
+    topups = topup_map()
+    converted = {}
+    for domain, (value, _) in quotes.best.items():
+        if domain in topups:
+            cny = value * topups[domain]
+            if math.isfinite(cny):
+                converted[domain] = cny
+    if a.cny:
+        sites = sorted(converted, key=lambda d: (converted[d], d))
+        order = '按实付 ¥ 升序，仅含公开有效充值价的站'
+    else:
+        sites = sorted(quotes.best, key=lambda d: (quotes.best[d][0], d))
+        order = '按名义 $ 升序'
+    if not sites:
+        print(f'有 {len(quotes.best)} 站提供报价，均缺少可用于排名的实付价。')
+        return
+
+    unit = '每次调用' if mode == 'call' else '每百万 token，按输入价排名'
+    flags = '含带标记的报价' if a.all else '已排除福利、占位、零价和异常低价'
+    print(f'{len(sites)} 个站（{unit}，{order}，推算，{flags}）\n')
+    columns = '%-32s %-12s %-11s %-9s %-10s %-12s %-22s %s'
+    print(columns % ('站点', '名义$', '输出$', '充值¥/$', '实付¥', '标记', '分组', '原始模型名'))
+    for domain in sites[:a.n]:
+        value, row = quotes.best[domain]
+        nominal = '$' + fmt(value) + ('/次' if mode == 'call' else '')
+        output = '-'
+        if mode == 'token' and amount(row['output_usd_m']) is not None:
+            output = '$' + row['output_usd_m']
+        real = '¥' + fmt(converted[domain]) if domain in converted else '-'
+        print(columns % (domain, nominal, output, fmt(topups.get(domain)) or '-', real, row['flag'] or '-',
+                         (row['group'] or '-')[:22], row['model']))
 
 
 def cmd_model(a):
-    rows = read_csv(MODELS)
-    q = a.q.lower()
-    hit = [r for r in rows if r['model_base'] == q] or [r for r in rows if q in r['model_base'] or q in r['model'].lower()]
-    from collections import Counter
-    bc = Counter(r['billing'] for r in hit)
-    mode = 'call' if a.call else ('token' if a.token else (bc.most_common(1)[0][0] if bc else 'token'))
-    best = {}
-    for r in hit:
-        if r['billing'] != mode:
+    q = a.q.strip().lower()
+    matches = defaultdict(Quotes)
+    exact = False
+    for row in iter_csv(MODELS):
+        base = row['model_base'].lower()
+        if base == q:
+            if not exact:
+                # 首次遇到精确匹配，丢弃之前累计的模糊匹配。
+                matches.clear()
+                exact = True
+        elif exact or (q not in base and q not in row['model'].lower()):
             continue
-        if not a.all and BAD & set(r['flag'].split('+')):
+        if row['billing'] in BILLING:
+            matches[row['billing']].add(row, a)
+
+    if not matches:
+        print(f'没有匹配 {a.q!r} 的模型报价。')
+        return
+    bases = sorted(set().union(*(quotes.bases for quotes in matches.values())))
+    print('匹配 %d 个基础模型（%s%s）' % (len(bases), ', '.join(bases[:8]), ' …' if len(bases) > 8 else ''))
+    mode = a.billing or max(matches, key=lambda unit: matches[unit].count)
+    show_prices(a, matches, mode)
+
+
+def cmd_group(a):
+    q = a.q.strip().lower()
+    model = (a.model or '').strip().lower()
+    matches = defaultdict(Quotes)
+    for row in iter_csv(MODELS):
+        if row['billing'] not in BILLING:
             continue
-        v = p(r)
-        if v is None or v <= 0:
+        in_group = a.field != 'model' and q in (row['group'] or '').lower()
+        in_name = a.field != 'group' and q in row['model'].lower()
+        if not (in_group or in_name):
             continue
-        if r['domain'] not in best or v < p(best[r['domain']]):
-            best[r['domain']] = r
-    bases = sorted({r['model_base'] for r in hit})
-    print('匹配基础模型 %d 个：%s%s' % (len(bases), ', '.join(bases[:8]), ' …' if len(bases) > 8 else ''))
-    other = sum(v for k, v in bc.items() if k != mode)
-    print('%d 个站（%s，按价格升序，推算%s）%s\n' % (len(best), '按次' if mode == 'call' else '按量 $/1M 输入',
-          '' if a.all else '，已排除福利/占位/异常价，--all 显示全部',
-          ('；另有 %d 行%s计价，用 --%s 查看' % (other, '按量' if mode == 'call' else '按次', 'token' if mode == 'call' else 'call')) if other else ''))
-    tp = topup_map()
-    key = (lambda kv: (0, p(kv[1]) * tp[kv[0]])) if a.cny else (lambda kv: (0, p(kv[1])))
-    rows_ = sorted(((d, r) for d, r in best.items() if (not a.cny or d in tp)), key=key)
-    if a.cny:
-        print('只看公开了充值价的站，按实付 ¥ 排序\n')
-    print('%-32s %-12s %-11s %-9s %-10s %-12s %-22s %s' % ('站点', '名义$', '输出$', '充值¥/$', '实付¥', '标记', '分组', '原始模型名'))
-    for d, r in rows_[:a.n]:
-        unit = '/次' if r['billing'] == 'call' else ''
-        real = ('¥' + fmt(p(r) * tp[d])) if d in tp else '-'
-        print('%-32s %-12s %-11s %-9s %-10s %-12s %-22s %s' % (d, '$' + fmt(p(r)) + unit,
-              ('$' + r['output_usd_m']) if r['output_usd_m'] else '-', fmt(tp.get(d)) or '-', real,
-              r['flag'] or '-', (r['group'] or '-')[:22], r['model']))
+        if model and model not in row['model_base'].lower() and model not in row['model'].lower():
+            continue
+        matches[row['billing']].add(row, a)
+
+    if not matches:
+        print(f'没有符合渠道关键词 {a.q!r} 和筛选条件的报价。')
+        return
+    mode = a.billing or ('token' if 'token' in matches else 'call')
+    quotes = matches[mode]
+    print(f'渠道 {a.q!r}（{BILLING[mode]}）匹配 {len(quotes.sites)} 站 · {len(quotes.groups)} 个分组名'
+          f' · {len(quotes.bases)} 个模型 · {quotes.count} 行报价')
+    show_prices(a, matches, mode)
 
 
 def cmd_site(a):
-    alias = {r['alias']: r['canonical'] for r in read_csv(ALIASES)}
-    d = alias.get(a.q, a.q)
-    if d != a.q:
-        print('%s 是 %s 的别名' % (a.q, d))
-    info = {r['domain']: r for r in read_csv(RELAYS)}.get(d)
+    host = a.q.strip().lower().rstrip('.')
+    domain = next((r['canonical'] for r in iter_csv(ALIASES) if r['alias'] == host), host)
+    if domain != host:
+        print(f'{host} 是 {domain} 的别名')
+    info = next((r for r in iter_csv(RELAYS) if r['domain'] == domain), None)
     if not info:
-        print('未收录：%s（试试 find）' % a.q)
+        print(f'尚未收录 {host}（可用 find 查找）')
         return
     for k in ('domain', 'api_host', 'name', 'system', 'version', 'topup_cny_per_usd', 'discovered_via', 'veridrop_score', 'n_models', 'families',
-              'aliases', 'backend_group', 'http_status', 'latency_ms', 'last_checked', 'notes'):
+              'aliases', 'backend_group', 'http_status', 'latency_ms', 'last_checked', 'tags', 'notes'):
         if info.get(k):
             print('%-15s %s' % (k, info[k]))
-    rows = [r for r in read_csv(MODELS) if r['domain'] == d]
     by = defaultdict(list)
-    for r in rows:
-        by[family(r['model_base'])].append(r)
+    for row in iter_csv(MODELS):
+        if row['domain'] == domain:
+            by[family(row['model_base'])].append(row)
     for c in FAMILY_ORDER:
-        if not by.get(c):
+        if c not in by:
             continue
         print('\n[%s] %d' % (FAMILY_NAME[c], len(by[c])))
         for r in sorted(by[c], key=lambda r: r['model'])[:a.n]:
+            value = price(r)
             unit = '/次' if r['billing'] == 'call' else ''
-            print('  %-40s $%-10s %-10s %s' % (r['model'][:40], fmt(p(r)) + unit, r['flag'] or '', r['group'][:30]))
+            nominal = '$' + fmt(value) + unit if value is not None else '-'
+            print('  %-40s %-11s %-10s %s' % (r['model'][:40], nominal, r['flag'] or '', r['group'][:30]))
         if len(by[c]) > a.n:
             print('  … 另 %d 个' % (len(by[c]) - a.n))
 
 
-def cmd_group(a):
-    """按分组名（渠道）关键词聚合：哪些站在卖这个渠道、卖什么模型、什么价。"""
-    q = a.q.lower()
-
-    def match(r):
-        g = (r['group'] or '').lower()
-        m = r['model'].lower()
-        if a.field == 'group':
-            return q in g
-        if a.field == 'model':
-            return q in m
-        return q in g or q in m
-
-    rows = read_csv(MODELS)
-    hit = [r for r in rows if match(r)]
-    if a.model:
-        m = a.model.lower()
-        hit = [r for r in hit if m in r['model_base'] or m in r['model'].lower()]
-    if a.call:
-        hit = [r for r in hit if r['billing'] == 'call']
-    elif not a.all and any(r['billing'] == 'token' for r in hit):
-        hit = [r for r in hit if r['billing'] == 'token']
-    if not hit:
-        print('没有分组名包含 %r 的报价行' % a.q)
-        return
-    sites = {r['domain'] for r in hit}
-    groups = {r['group'] for r in hit}
-    models = {r['model_base'] for r in hit}
-    print('渠道 %r：%d 站 · %d 个分组名 · %d 个模型 · %d 行报价' % (a.q, len(sites), len(groups), len(models), len(hit)))
-    best = {}
-    for r in hit:
-        if not a.all and BAD & set((r['flag'] or '').split('+')):
-            continue
-        v = p(r)
-        if v is None or v <= 0:
-            continue
-        if r['domain'] not in best or v < p(best[r['domain']]):
-            best[r['domain']] = r
-    tp = topup_map()
-    key = (lambda kv: p(kv[1]) * tp[kv[0]]) if a.cny else (lambda kv: p(kv[1]))
-    cand = [(d, r) for d, r in best.items() if not a.cny or d in tp]
-    if not cand:
-        print('没有可用报价（可能全是福利/占位价，加 --all 看看）')
-        return
-    names = {r['domain']: r['name'] for r in read_csv(RELAYS)}
-    print('\n%-32s %-10s %-10s %-9s %-10s %s' % ('站点', '最低价$', '输出$', '充值¥/$', '实付¥', '渠道名 / 模型'))
-    for d, r in sorted(cand, key=key)[:a.n]:
-        unit = '/次' if r['billing'] == 'call' else ''
-        real = ('¥' + fmt(p(r) * tp[d])) if d in tp else '-'
-        print('%-32s %-10s %-10s %-9s %-10s %s | %s' % (
-            d, '$' + fmt(p(r)) + unit, ('$' + r['output_usd_m']) if r['output_usd_m'] else '-',
-            fmt(tp.get(d)) or '-', real, r['group'][:28], r['model_base']))
-
-
 def cmd_find(a):
-    q = a.q.lower()
-    for r in read_csv(RELAYS):
+    q = a.q.strip().lower()
+    for r in iter_csv(RELAYS):
         if q in r['domain'] or q in (r['name'] or '').lower():
             print('站点  %-34s %-8s 模型 %-5s %s' % (r['domain'], r['system'] or '-', r['n_models'], r['name'][:40]))
-    for r in read_csv(ALIASES):
+    for r in iter_csv(ALIASES):
         if q in r['alias']:
             print('别名  %-34s → %s (%s)' % (r['alias'], r['canonical'], r['reason']))
 
 
 def main():
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('mode', choices=['model', 'site', 'domain', 'find', 'group'])
-    ap.add_argument('q')
-    ap.add_argument('--n', type=int, default=30)
-    ap.add_argument('--all', action='store_true')
-    ap.add_argument('--call', action='store_true', help='只看按次计价')
+    ap.add_argument('q', help='模型名、域名或关键词')
+    ap.add_argument('--n', type=int, default=30, help='最多显示的报价数（site 按家族分别计数，默认 30）')
+    ap.add_argument('--all', action='store_true', help='model/group 纳入福利、占位、零价和异常低价')
+    billing = ap.add_mutually_exclusive_group()
+    billing.add_argument('--call', dest='billing', action='store_const', const='call', help='只看按次计价')
+    billing.add_argument('--token', dest='billing', action='store_const', const='token', help='只看按量计价')
     ap.add_argument('--cny', action='store_true', help='只看公开充值价的站，按实付 ¥ 排序')
-    ap.add_argument('--token', action='store_true', help='只看按量计价')
-    ap.add_argument('--model', help='group 模式：再按模型名过滤')
+    ap.add_argument('--model', help='group 模式下按模型名进一步筛选')
     ap.add_argument('--field', choices=['any', 'group', 'model'], default='any',
-                    help='group 模式匹配位置：分组名 / 原始模型名 / 两者（默认）')
+                    help='group 的关键词匹配位置（分组名、原始模型名或两者，默认两者）')
     a = ap.parse_args()
+    if a.n < 0:
+        ap.error('--n 需要为非负整数')
     {'model': cmd_model, 'site': cmd_site, 'domain': cmd_site, 'find': cmd_find,
      'group': cmd_group}[a.mode](a)
 

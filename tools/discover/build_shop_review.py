@@ -5,6 +5,11 @@ import csv
 import json
 from pathlib import Path
 
+COLUMNS = (
+    'domain', 'status', 'likelihood', 'title', 'systems', 'common_hits', 'ai_hits',
+    'relay_overlap', 'last_checked', 'browser_review', 'rendered_title', 'notes',
+)
+
 
 def main():
     ap = argparse.ArgumentParser(description='生成卡网候选审核表')
@@ -58,7 +63,7 @@ def main():
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open('w', encoding='utf-8', newline='') as fh:
-        writer = csv.DictWriter(fh, fieldnames=list(rows[0]), lineterminator='\n')
+        writer = csv.DictWriter(fh, fieldnames=COLUMNS, lineterminator='\n')
         writer.writeheader()
         writer.writerows(rows)
     print('审核候选：%d；其中不在中转站主表：%d；输出：%s' %

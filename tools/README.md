@@ -1,51 +1,55 @@
 # tools/ · 脚本
 
-[English](README.en.md)
+[项目首页](../README.md) · [数据字典](../data/README.md) · [English](README.en.md)
 
-全部手动运行，无 CI。Python 3.10+；`dedupe.py` 需要 `pip install tldextract`。
+使用 Python 3.10 或更新版本。完整重建需要 `tldextract`，离线查询使用标准库。
+
+## 离线查价
+
+在仓库根目录运行。`query.py` 读取本地 CSV，无需联网或安装额外依赖。
+
+```bash
+python3 tools/query.py model gemini-4-argon --token --cny --n 10
+python3 tools/query.py group cursor --field any --model claude --call
+```
+
+- `model` 优先精确匹配表中的基础模型名，找不到时才在基础模型名和原始模型名中查找子串。默认展示匹配行数最多的计价方式。
+- `group` 在已收录的参考报价中查渠道。默认在分组名和原始模型名中查找关键词。可用 `--field group` 或 `--field model` 限定字段，用 `--model` 按基础模型名或原始模型名进一步筛选。
+- 两个命令都可以用 `--token`（每百万输入 token）或 `--call`（每次调用）选定单位，两者互斥。`group` 默认优先显示按量报价，仅匹配到按次报价时显示按次价。
+- 默认排除 `promo`、`default`、`low` 和零价，带 `high` 标记的报价仍可参与。`--all` 纳入有标记的报价和零价，沿用当前计价单位。
+- 每站保留最低符合条件的报价。`--cny` 仅纳入有有效公开充值价的站点，按名义价 × 充值价排序。`--n` 限制输出条数，默认 30。
+
+本地回归命令为 `python3 -m unittest discover -s tests`，使用 Python 标准库。
 
 ## 日常更新
 
+在仓库根目录运行下列命令可重建和验证本地快照。
+
 ```bash
-# 1. 找候选（任选，见 discover/README.md）
-python3 tools/gen_candidates.py --resolve > /tmp/cands.txt
-
-# 2. 扫价格（断点续跑，可中断）
-python3 tools/scan.py /tmp/cands.txt /tmp/new.json
-
-# 3. 并入主表（已有站点整体替换报价，新站点追加）
-python3 tools/merge.py /tmp/new.json --via scan
-
-# 4. 探活 + 重建
-python3 tools/probe.py
+python3 -m pip install tldextract
 bash tools/build.sh
+python3 -m unittest discover -s tests
 ```
 
-刷新已收录站点的价格：把 `relays.csv` 的 `domain`（或 `api_host`）导出成清单，走 2–4 步。
+`build.sh` 依次清理中转站数据、归一店铺报价、重建候选索引和店铺审核表，再生成模型榜单、统计、独立报告和中英文首页，最后检查文档链接及疑似密钥。
+
+站点或价格有变化时，按[贡献指南](../CONTRIBUTING.md)更新对应输入。公开来源采集已有独立入口，见[发现工具](discover/README.md)和[来源批次](../data/raw/sources/README.md)。
 
 ## 脚本
 
-| 脚本 | 作用 |
+| 用途 | 文件 |
 |---|---|
-| `build.sh` | 一键重建：dedupe → 店铺归一 → 模型榜单 → 统计 → README → 密钥检查 |
-| `check_secrets.sh` | 检查仓库里有没有疑似 API Key/Token（有则报错，禁止提交） |
-| `scan.py` | 扫站点信息（`/api/status`、Sub2API `/api/v1/settings/public`）与价格（`/api/pricing`、`/api/v1/model-plaza`）；取最低付费分组价，区分按量/按次；`--only status` 只刷新站名/版本/充值价 |
-| `merge.py` | 扫描结果并入 `relays.csv` / `relay-models.csv`；价格不公开的站按"目录收录或自定义站名"收录 |
-| `dedupe.py` | 合并别名与镜像、剔除泛解析子域、归一模型名、打价格标记、识别疑似同后端 |
-| `probe.py` | 首页探活（状态码、延迟、网页标题） |
-| `gen_candidates.py` | 前缀/换后缀生成候选，跳过已收录、已扫描；`--resolve` 先做 DNS 过滤并去掉泛解析父域 |
-| `generate_by_model.py` | 生成 `data/relays/by-model/` |
-| `build_stats.py` | 生成 `data/stats.md` |
-| `build_readme.py` | 生成中文 `README.md` |
-| `build_readme_en.py` | 生成英文 `README.en.md` |
-| `query.py` | 命令行查询：`model` / `site` / `find` / `group`（按渠道/分组名关键词找站，如 `group cursor`） |
-| `detect_substitution.py` | 掺水嫌疑检测：旗舰模型挂牌价 < 全网中位价 10% 的站，输出 `data/relays/suspicious.csv`（只出疑似，不自动标注） |
-| `monitor.py` | 站点监控：存活、延迟、某模型是否在售、最低价，历史落盘；`report` / `drift` 出报告；`--probe` 需 `data/monitor/keys.txt` |
-| `normalize_shops.py` | 卡网数据归一（`data/raw/` → `data/shops/`） |
-| `common.py` | 共享：CSV、模型名归一、模型家族、域名归一 |
-| `discover/` | 找新站的方法（Veridrop、GitHub 名单、证书日志） |
-| `legacy/` | 早期一次性脚本，已停用 |
-| `prompts/` | 让 AI 代理执行扫描任务的提示词 |
+| 查站和查价 | [query.py](query.py) |
+| 重建当前快照 | [build.sh](build.sh) |
+| 生成读者页面 | [build_reports.py](build_reports.py)、[build_readme.py](build_readme.py)、[build_readme_en.py](build_readme_en.py)、[build_stats.py](build_stats.py)、[generate_by_model.py](generate_by_model.py) |
+| 整理中转站 | [merge.py](merge.py) 导入公开报价快照。[dedupe.py](dedupe.py) 合并别名、归一和标记价格 |
+| 整理卡网 | [normalize_shops.py](normalize_shops.py) 生成公开店铺表和商品表。[build_shop_review.py](discover/build_shop_review.py) 生成候选审核表 |
+| 整理候选证据 | [index_candidates.py](discover/index_candidates.py) 汇总来源、核实结果和入库状态 |
+| 检查 | [check_links.py](check_links.py) 验证本地 Markdown 链接。[check_secrets.sh](check_secrets.sh) 检查疑似密钥 |
+| 监控和异常分析 | [monitor.py](monitor.py)、[detect_substitution.py](detect_substitution.py) |
+| 来源采集 | [discover/](discover/README.md)、[scan.py](scan.py)、[probe.py](probe.py)、[gen_candidates.py](gen_candidates.py) |
+| 共用格式和规则 | [common.py](common.py) |
+| 历史资料 | [旧工具归档](legacy/README.md)、[早期任务提示词](prompts/) |
 
 ## 监控（monitor.py）
 

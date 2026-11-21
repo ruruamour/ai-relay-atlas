@@ -38,11 +38,18 @@ def annotations():
     return out
 
 
+def iter_csv(p):
+    """逐行读取 CSV，文件缺失时返回空迭代器。"""
+    try:
+        fh = open(p, newline='', encoding='utf-8')
+    except FileNotFoundError:
+        return
+    with fh:
+        yield from csv.DictReader(fh)
+
+
 def read_csv(p):
-    if not os.path.exists(p):
-        return []
-    with open(p, newline='', encoding='utf-8') as fh:
-        return list(csv.DictReader(fh))
+    return list(iter_csv(p))
 
 
 def write_csv(p, cols, rows):
@@ -151,6 +158,7 @@ def has_secret(*vals):
 
 
 PROMO_RX = re.compile(r'福利|特价|特惠|免费|free|公益|限时|体验|白嫖|award|活动|赠送|测试|test|试用', re.I)
+RANK_EXCLUDED_FLAGS = frozenset({'promo', 'zero', 'default', 'low'})
 
 
 # ---------------- 域名 ----------------
@@ -179,7 +187,7 @@ def valid_topup(v):
 def topup_map():
     """站点 → 充值价（元 / 1 美元额度），仅限站点公开、开启在线充值、且数值在合理区间的。"""
     out = {}
-    for r in read_csv(RELAYS):
+    for r in iter_csv(RELAYS):
         v = valid_topup(r.get('topup_cny_per_usd'))
         if v:
             out[r['domain']] = v
