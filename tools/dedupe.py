@@ -18,6 +18,7 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *  # noqa
+from discover.relay_search import normalize_host
 
 SUMMARY = path('data', 'relays', 'summary.json')
 SRC_MAP = {
@@ -32,6 +33,21 @@ RANK = {'veridrop': 0, 'github-list': 1, 'scan': 2, 'urlscan': 3, 'gitlab': 4, '
 def nkey(v):
     x = num(v)
     return '' if x is None else '%.6g' % x
+
+
+def seed_reviewed_aliases(rows, relay_hosts, alias_of, alias_via, split):
+    """Seed aliases only for confirmed hosts; leave existing conflicts and splits alone."""
+    reviewed = set()
+    for r in rows:
+        alias, canonical, source = r['alias'], r['canonical'], r['discovered_via']
+        if (not alias or normalize_host(alias) != alias or canonical not in relay_hosts
+                or alias in relay_hosts or alias in split or canonical in split or source not in RANK
+                or alias_of.get(alias, canonical) != canonical):
+            continue
+        alias_of[alias] = canonical
+        alias_via.setdefault(alias, source)
+        reviewed.add(alias)
+    return reviewed
 
 
 def main():
@@ -50,6 +66,13 @@ def main():
     annot = annotations()
     alias_of = {r['alias']: r['canonical'] for r in old_alias}
     alias_via = {r['alias']: r.get('discovered_via') or r.get('known') or '' for r in old_alias}
+
+    split = set()
+    sp = path('data', 'relays', 'split.txt')
+    if os.path.exists(sp):
+        split = {x.split('#')[0].strip() for x in open(sp, encoding='utf-8')} - {''}
+    reviewed_aliases = seed_reviewed_aliases(
+        read_csv(path('data', 'relays', 'reviewed-aliases.csv')), info, alias_of, alias_via, split)
 
     def via(d):
         if d in vd:
@@ -87,11 +110,6 @@ def main():
             par[x] = par[par[x]]
             x = par[x]
         return x
-
-    split = set()
-    sp = path('data', 'relays', 'split.txt')
-    if os.path.exists(sp):
-        split = {x.split('#')[0].strip() for x in open(sp, encoding='utf-8')} - {''}
 
     mset = {d: set(by[d]) if d in by else set() for d in doms}
 
@@ -262,7 +280,7 @@ def main():
         return num((info.get(d) or {}).get('veridrop_score')) or 0
 
     def ckey(d):
-        return (RANK[via(d)], -score(d), d in artifact, 0 if (d in info and d not in alias_of) else 1,
+        return (d in reviewed_aliases, RANK[via(d)], -score(d), d in artifact, 0 if (d in info and d not in alias_of) else 1,
                 d.count('.'), len(d), d)
 
 

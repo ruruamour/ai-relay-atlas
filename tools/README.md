@@ -19,14 +19,16 @@ python3 tools/query.py group cursor --field any --model claude --call
 - 默认排除 `promo`、`default`、`low` 和零价，带 `high` 标记的报价仍可参与。`--all` 纳入有标记的报价和零价，沿用当前计价单位。
 - 每站保留最低符合条件的报价。`--cny` 仅纳入有有效公开充值价的站点，按名义价 × 充值价排序。`--n` 限制输出条数，默认 30。
 
-本地回归命令为 `python3 -m unittest discover -s tests`，使用 Python 标准库。
+查询本身只需标准库。完整回归命令为 `python3 -m unittest discover -s tests`，依赖见下方。
 
 ## 日常更新
+
+[每日候选工作流](discover/README.md#daily-candidates)负责读上游、去重和提出审核 PR。它不会更新已确认站点和报价。
 
 在仓库根目录运行下列命令可重建和验证本地快照。
 
 ```bash
-python3 -m pip install tldextract
+python3 -m pip install tldextract==5.3.1 beautifulsoup4==4.14.3
 bash tools/build.sh
 python3 -m unittest discover -s tests
 ```

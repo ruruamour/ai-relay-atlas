@@ -36,6 +36,8 @@ class EvidenceBatchTests(unittest.TestCase):
                     "checked": "2026-11-19",
                 },
             )
+            self.write_reviews(sources / "daily-candidates.jsonl",
+                               {"domain": "daily.atlas-fixture.net", "source_site": "fixture"})
 
             first = sources / "batches" / "2026-11-20"
             second = sources / "batches" / "2026-11-21"
@@ -77,6 +79,13 @@ class EvidenceBatchTests(unittest.TestCase):
                 {"domain": "flat-review.atlas-fixture.net", "category": "使用批次日期"},
             )
             # Only the documented names directly inside date-named folders are read.
+            self.write_reviews(
+                second / "directory-listings.jsonl",
+                {"domain": "new.atlas-fixture.net", "source_site": "one.directory"},
+                {"domain": "listing-only.atlas-fixture.net", "source_site": "one.directory"},
+                {"domain": "listing-only.atlas-fixture.net", "source_site": "two.directory"},
+            )
+            self.write_reviews(second / "directory-listings-backup.jsonl", {"domain": "backup.atlas-fixture.net"})
             archive = second.parent / "archive"
             archive.mkdir()
             (archive / "veridrop-directory.txt").write_text("archive.atlas-fixture.net\n", encoding="utf-8")
@@ -123,9 +132,19 @@ class EvidenceBatchTests(unittest.TestCase):
                     "new.atlas-fixture.net",
                     "flat-review.atlas-fixture.net",
                     "review-only.atlas-fixture.net",
+                    "listing-only.atlas-fixture.net",
+                    "daily.atlas-fixture.net",
                 },
             )
             self.assertEqual(len(rows), len(by_domain))
+            daily = by_domain['daily.atlas-fixture.net']
+            self.assertEqual(daily['sources'], ['daily-feed'])
+            self.assertFalse(daily['validated'] or daily['in_relays'] or daily['page_category'])
+            self.assertEqual(by_domain["new.atlas-fixture.net"]["sources"], ["directory", "veridrop"])
+            listed = by_domain["listing-only.atlas-fixture.net"]
+            self.assertEqual(listed["sources"], ["directory"])
+            self.assertEqual(listed["page_category"], "")
+            self.assertFalse(listed["validated"] or listed["in_relays"])
             self.assertEqual(by_domain["flat-review.atlas-fixture.net"]["page_category"], "使用批次日期")
             self.assertEqual(
                 by_domain["duplicate.atlas-fixture.net"]["page_category"], "最新记录"

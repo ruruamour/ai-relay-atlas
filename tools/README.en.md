@@ -19,7 +19,7 @@ python3 tools/query.py group cursor --field any --model claude --call
 - By default, rankings exclude `promo`, `default`, `low`, and zero prices. Quotes flagged `high` remain eligible. `--all` includes flagged and zero prices within the selected billing unit.
 - Each site contributes its lowest eligible quote. `--cny` keeps only sites with a valid disclosed top-up rate and ranks by nominal price × rate. `--n` limits the output to 30 rows by default.
 
-Run `python3 -m unittest discover -s tests` for local regression checks with the Python standard library.
+Queries need only the standard library. The full offline test suite also exercises the feed parsers; install the dependencies below before running it.
 
 <a id="normal-relay-update"></a>
 
@@ -28,7 +28,7 @@ Run `python3 -m unittest discover -s tests` for local regression checks with the
 Run these commands from the repository root.
 
 ```bash
-python3 -m pip install tldextract
+python3 -m pip install tldextract==5.3.1 beautifulsoup4==4.14.3
 bash tools/build.sh
 python3 -m unittest discover -s tests
 ```
@@ -36,6 +36,8 @@ python3 -m unittest discover -s tests
 The build normalizes relay and shop data, refreshes the candidate index and shop review table, renders rankings, reports, and both homepages, then checks Markdown links and potential secrets.
 
 For new listings and data corrections, see the [contribution guide](../CONTRIBUTING.en.md) and [source batches](../data/raw/sources/README.md).
+
+The [daily GitHub Actions workflow](../.github/workflows/daily-candidates.yml) polls public feeds at 01:17 UTC and updates one review PR for new candidates. It does not visit the listed websites, add verified relays or collect prices. See [setup and local preview](discover/README.md#daily-candidates).
 
 <a id="discovery-tools"></a>
 

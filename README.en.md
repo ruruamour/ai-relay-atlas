@@ -17,8 +17,8 @@ Find AI API relays, compare model prices, and check shops and their listings aga
 
 ## Snapshot
 
-- The relay table lists **5,155 sites**, with 4,326 additional aliases and **271,412 price records**. `n_models=0` means the atlas has no quotes for that site.
-- The evidence index covers 29,215 domains, including sites already listed. A third-party directory entry needs verification before it can become a relay listing.
+- The relay table lists **5,165 sites**, with 4,328 additional aliases and **271,412 price records**. `n_models=0` means the atlas has no quotes for that site.
+- The evidence index covers 29,249 domains, including sites already listed. A third-party directory entry needs verification before it can become a relay listing.
 - The shop table lists 430 shops and 17,212 product price records. Another 191 [shop candidates](data/shops/candidates.csv) are in a separate review queue.
 
 ## Quick start

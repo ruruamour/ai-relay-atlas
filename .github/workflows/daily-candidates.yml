@@ -1,0 +1,212 @@
+name: Daily candidates
+
+on:
+  schedule:
+    - cron: '17 1 * * *' # UTC
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: daily-candidates-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  BASE_BRANCH: ${{ github.ref_name }}
+  BOT_BRANCH: automation/daily-candidates
+  QUEUE: data/raw/sources/daily-candidates.jsonl
+  INDEX: data/raw/sources/candidate-index.jsonl
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  collect:
+    # GitHub schedules always use the default branch; do not require a webhook payload field.
+    if: github.ref_type == 'branch' && github.ref_name != 'automation/daily-candidates' && (github.event_name == 'schedule' || github.ref_name == github.event.repository.default_branch)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      pull-requests: read
+    outputs:
+      changed: ${{ steps.collect.outputs.changed }}
+      branch_oid: ${{ steps.pending.outputs.branch_oid }}
+      pending_oid: ${{ steps.pending.outputs.pending_oid }}
+
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+
+      - name: Read the pending queue at the open PR's head commit
+        id: pending
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          # Save the ref for a push lease, including the empty (branch absent) case.
+          ref="refs/heads/$BOT_BRANCH"
+          remote=$(git -c credential.helper= -c 'credential.helper=!gh auth git-credential' ls-remote --refs origin "$ref")
+          branch_oid=${remote%%$'\t'*}
+          pending_oid=$(gh pr list --repo "$GITHUB_REPOSITORY" --base "$BASE_BRANCH" --head "$BOT_BRANCH" \
+            --state open --limit 100 --json isCrossRepository,headRefOid | jq -er '
+              if length >= 100 then error("possibly truncated PR list") else map(select(.isCrossRepository == false)) end |
+              if length == 0 then ""
+              elif length == 1 and (.[0].headRefOid | test("^[0-9a-f]{40}$")) then .[0].headRefOid
+              else error("ambiguous or invalid PR head") end')
+          if [[ -n "$pending_oid" ]]; then
+            [[ "$pending_oid" == "$branch_oid" ]] || { echo 'Pending branch moved; rerun.' >&2; exit 1; }
+            # A generated PR has exactly one bot-authored commit ahead of its base.
+            bot_only=$(gh api "repos/$GITHUB_REPOSITORY/compare/$GITHUB_SHA...$pending_oid" --jq '
+              .ahead_by == 1 and (.commits | length) == 1 and
+              .commits[0].author.id == 41898282 and .commits[0].committer.id == 41898282')
+            if [[ "$bot_only" != true ]]; then
+              echo '::error::Pending PR has manual or unexpected commits; leaving the branch for human review.' >&2
+              exit 1
+            fi
+            gh api -H 'Accept: application/vnd.github.raw+json' \
+              "repos/$GITHUB_REPOSITORY/contents/$QUEUE?ref=$pending_oid" > "$RUNNER_TEMP/daily-pending.jsonl"
+          fi
+          printf 'branch_oid=%s\npending_oid=%s\n' "$branch_oid" "$pending_oid" >> "$GITHUB_OUTPUT"
+
+      - name: Install collector dependencies outside the checkout
+        run: |
+          set -euo pipefail
+          python3 -m venv "$RUNNER_TEMP/daily-venv"
+          "$RUNNER_TEMP/daily-venv/bin/python3" -m pip install --only-binary=:all: tldextract==5.3.1 beautifulsoup4==4.14.3
+
+      - name: Collect candidates from public directories
+        id: collect
+        env:
+          PENDING_OID: ${{ steps.pending.outputs.pending_oid }}
+        run: |
+          set -euo pipefail
+          git ls-files --error-unmatch -- "$QUEUE" > /dev/null
+          args=()
+          if [[ -n "$PENDING_OID" ]]; then
+            test -f "$RUNNER_TEMP/daily-pending.jsonl"
+            args+=(--pending "$RUNNER_TEMP/daily-pending.jsonl")
+          fi
+          "$RUNNER_TEMP/daily-venv/bin/python3" tools/discover/daily_candidates.py "${args[@]}"
+          state=$(git status --porcelain=v1 --untracked-files=all)
+          case "$state" in
+            '') changed=false ;;
+            " M $QUEUE") changed=true ;;
+            *) printf 'Unexpected collector changes:\n%s\n' "$state" >&2; exit 1 ;;
+          esac
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Rebuild the candidate index and both homepages; run local checks
+        if: steps.collect.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          py="$RUNNER_TEMP/daily-venv/bin/python3"
+          "$py" tools/discover/index_candidates.py
+          "$py" tools/build_readme.py
+          "$py" tools/build_readme_en.py
+          "$py" -m unittest discover -s tests
+          "$py" tools/check_links.py
+          bash tools/check_secrets.sh
+          git diff --check HEAD
+          outside=$(git status --porcelain=v1 --untracked-files=all -- . ":!$QUEUE" ":!$INDEX" ':!README.md' ':!README.en.md')
+          [[ -z "$outside" ]] || { printf 'Unexpected build changes:\n%s\n' "$outside" >&2; exit 1; }
+
+      - name: Save only the proposed data files
+        if: steps.collect.outputs.changed == 'true'
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
+        with:
+          name: daily-candidates
+          path: |
+            ${{ env.QUEUE }}
+            ${{ env.INDEX }}
+            README.md
+            README.en.md
+          if-no-files-found: error
+          retention-days: 7
+          overwrite: true
+
+  publish:
+    needs: collect
+    if: needs.collect.outputs.changed == 'true' || needs.collect.outputs.branch_oid != ''
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Check out the same base in a fresh runner
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+
+      - name: Download proposed data without running collector code
+        if: needs.collect.outputs.changed == 'true'
+        uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7.0.0
+        with:
+          name: daily-candidates
+          path: ${{ runner.temp }}/daily-results
+
+      - name: Publish the review PR or clean up an absorbed branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CHANGED: ${{ needs.collect.outputs.changed }}
+          PENDING_OID: ${{ needs.collect.outputs.pending_oid }}
+          BRANCH_OID: ${{ needs.collect.outputs.branch_oid }}
+        run: |
+          set -euo pipefail
+          git_auth() { git -c core.hooksPath=/dev/null -c core.fsmonitor=false -c credential.helper= -c 'credential.helper=!gh auth git-credential' "$@"; }
+          default_branch=$(gh api "repos/$GITHUB_REPOSITORY" --jq .default_branch)
+          [[ "$default_branch" == "$BASE_BRANCH" ]] || { echo 'Not the current default branch; rerun.' >&2; exit 1; }
+          base=$(git_auth ls-remote --refs origin "refs/heads/$BASE_BRANCH")
+          [[ "${base%%$'\t'*}" == "$GITHUB_SHA" ]] || { echo 'Default branch moved; rerun.' >&2; exit 1; }
+          # A lease detects ref updates, but not a PR being closed or opened against a different base.
+          live=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BOT_BRANCH" --state open --limit 100 \
+            --json isCrossRepository,baseRefName,headRefOid --jq '
+              if length >= 100 then error("possibly truncated PR list") else
+                .[] | select(.isCrossRepository == false) | "\(.baseRefName):\(.headRefOid)" end')
+          [[ "$live" == "${PENDING_OID:+$BASE_BRANCH:$PENDING_OID}" ]] || { echo 'Pending PR changed; rerun.' >&2; exit 1; }
+          ref="refs/heads/$BOT_BRANCH"
+          lease="--force-with-lease=$ref:$BRANCH_OID"
+          if [[ -z "$PENDING_OID" && -n "$BRANCH_OID" ]]; then
+            # A failed PR creation can leave the only copy of yesterday's queue here.
+            merged=$(gh pr list --repo "$GITHUB_REPOSITORY" --base "$BASE_BRANCH" --head "$BOT_BRANCH" \
+              --state merged --json isCrossRepository,headRefOid --jq 'map(select(.isCrossRepository == false))[0].headRefOid // ""')
+            if [[ "$merged" != "$BRANCH_OID" ]]; then
+              echo 'Pending branch has no matching open or merged PR. Review it, then open its PR or remove the branch.' >&2
+              exit 1
+            fi
+          fi
+          if [[ "$CHANGED" == false ]]; then
+            git_auth push "$lease" origin ":$ref"
+            exit 0
+          fi
+
+          paths=("$QUEUE" "$INDEX" README.md README.en.md)
+          bundle="$RUNNER_TEMP/daily-results"
+          for path in "${paths[@]}"; do
+            [[ -f "$bundle/$path" && "$(realpath -- "$bundle/$path")" == "$bundle/$path" ]]
+            git_auth ls-files --error-unmatch -- "$path" > /dev/null
+            install -m 0644 -- "$bundle/$path" "$path"
+          done
+          if [[ -n "$PENDING_OID" ]]; then
+            # Compare blobs only. Never check out or run anything from the PR head.
+            git_auth fetch --no-tags --depth=1 origin "$PENDING_OID"
+            differences=$(git_auth diff --name-only "$PENDING_OID" -- "${paths[@]}")
+            [[ -n "$differences" ]] || { echo 'The open PR already contains these files.'; exit 0; }
+          fi
+          git_auth -c 'user.name=github-actions[bot]' -c 'user.email=41898282+github-actions[bot]@users.noreply.github.com' \
+            commit --only -m 'data: 更新每日待核验候选' -- "${paths[@]}"
+          git_auth push "$lease" origin "HEAD:$ref"
+          if [[ -z "$PENDING_OID" ]]; then
+            gh pr create --repo "$GITHUB_REPOSITORY" --base "$BASE_BRANCH" --head "$BOT_BRANCH" \
+              --title '更新每日待核验候选' \
+              --body '本次仅更新公开目录中的候选域名、候选索引和中英文首页计数。请复核域名及来源后再合并；这些线索未经站点验证，不会自动加入中转站主表或更新报价。' || {
+                echo '::error::Branch preserved. Check Actions PR permissions, then open a PR from automation/daily-candidates to the default branch.' >&2
+                exit 1
+              }
+          fi

@@ -6,6 +6,7 @@
 
 除历史的 sources/ 根目录文件外，离线读取器只认识：
   sources/batches/YYYY-MM-DD/veridrop-directory*.txt
+  sources/batches/YYYY-MM-DD/directory-listings.jsonl
   sources/batches/YYYY-MM-DD/directory-review*.jsonl
 批次里的 README 或其它文件不会被递归猜测或读取。
 """
@@ -38,6 +39,7 @@ SOURCE_FILES = {
     'sourcegraph': ['sourcegraph-candidates.jsonl'],
     'bing': ['bing-candidates.jsonl'],
     'directory': ['directory-harvest.jsonl'],
+    'daily-feed': ['daily-candidates.jsonl'],
     'directory-review': ['directory-review-*.jsonl'],
     'contact': ['contact-harvest.jsonl'],
     'contact-verify': ['contact-browser-verify.jsonl'],
@@ -46,6 +48,7 @@ SOURCE_FILES = {
 # not a source payload and must not be picked up by a broad recursive glob.
 BATCH_SOURCE_FILES = {
     'veridrop': ['veridrop-directory*.txt'],
+    'directory': ['directory-listings.jsonl'],
     'directory-review': ['directory-review*.jsonl'],
 }
 BATCH_DATE = re.compile(r'^\d{4}-\d{2}-\d{2}$')

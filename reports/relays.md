@@ -4,7 +4,7 @@
 
 > ⚠️ 这是公开信息目录，不是推荐榜或购买入口。站点状态、模型目录和价格会变化；价格为推算值，未对账。
 
-当前主表有 **5155** 个去重中转站（首页 HTTP 200：4567），4326 个别名/镜像，271412 条站 × 模型报价。完整字段见 [relays.csv](../data/relays/relays.csv)、[aliases.csv](../data/relays/aliases.csv) 和 [relay-models.csv](../data/relays/relay-models.csv)。
+当前主表有 **5165** 个去重中转站（首页 HTTP 200：4574），4328 个别名/镜像，271412 条站 × 模型报价。完整字段见 [relays.csv](../data/relays/relays.csv)、[aliases.csv](../data/relays/aliases.csv) 和 [relay-models.csv](../data/relays/relay-models.csv)。
 
 <a id="top-100-sites"></a>
 ## 综合名单 · 前 100 站

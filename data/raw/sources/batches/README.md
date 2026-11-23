@@ -1,5 +1,6 @@
 # 证据批次
 
+- [2026-11-23 中文目录复核](2026-11-23/README.md) — 141 条目录记录，24 个未匹配主机逐一核查，另查新站名称。主表新增 10 站，候选索引新增 34 个域名。
 - [`2026-11-21-公开目录补录`](2026-11-21/README.md) — 抓取清单 940 个，实核记录 15 个，候选索引新增 497 个。
 - [`legacy/README.md`](legacy/README.md) — 早期调查和验证记录。
 
@@ -14,11 +15,14 @@ sources/
 └── batches/
     └── YYYY-MM-DD/
         ├── README.md                       # 批次说明
-        ├── veridrop-directory*.txt         # 抓取清单，可选
+        ├── veridrop-directory*.txt         # Veridrop 域名清单，可选
+        ├── directory-listings.jsonl        # 其它目录明列的域名和出处，可选
         └── directory-review*.jsonl         # 实核记录，可选
 ```
 
-索引器只读取日期目录的直接子文件，并且只认 `veridrop-directory*.txt` 和 `directory-review*.jsonl`。其它文件、README 和更深的子目录都会忽略。`.txt` 每行写一个归一化域名，`.jsonl` 每行写一条至少带有 `domain` 的 JSON 实核记录，建议同时保留 `checked`、页面类别和公开说明链接。
+索引器只读取上面三种直接放在日期目录里的数据文件。Veridrop 清单每行写一个域名。其它目录清单每行记录 `domain`、公开站名 `name`、来源目录 `source_site`、目录条目链接 `listing_page` 及日期 `checked`。同一域名在多个目录出现时分别保留出处，索引按域名合并，来源标为 `directory`。
+
+逐站核实另写入 `directory-review*.jsonl`，至少给出 `domain`、`checked`、`category` 和判断依据。记录一次核查不代表确认营业或已经收录。
 
 ## 留下本批核实依据
 

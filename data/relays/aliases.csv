@@ -1649,6 +1649,7 @@ www.blackaicoding.com,blackaicoding.com,same-host,veridrop
 admin.blankapi.com,blankapi.com,mirror,scan
 api.blankapi.com,blankapi.com,same-host,scan
 www.blankapi.com,blankapi.com,same-host,scan
+blazeai.boxu.dev,blazeapi.org,merged,directory
 ai.bmodels.top,bmodels.top,same-host,scan
 www.bmodels.top,bmodels.top,same-host,veridrop
 api.bob-api.com,bob-api.com,same-host,scan
@@ -2947,6 +2948,7 @@ nomissapi.net,nomissapi.com,mirror,scan
 nomissapi.top,nomissapi.com,mirror,veridrop
 nomissapi.vip,nomissapi.com,mirror,scan
 us.nomissapi.com,nomissapi.com,same-host,scan
+nonelinear.com,nonelinear.com.cn,mirror,directory
 api.nookcode.com,nookcode.com,same-host,scan
 www.nookcode.com,nookcode.com,same-host,scan
 api.noonoo.ai,noonoo.ai,same-host,scan

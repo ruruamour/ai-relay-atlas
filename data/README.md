@@ -8,6 +8,7 @@
 |---|---|---|---|
 | [relays.csv](relays/relays.csv) | 一站一行的中转站主表，同时是构建输入和输出 | `merge.py` 合入公开接口快照，维护者也可加入[已核实的无报价记录](../CONTRIBUTING.md#metadata-only)。`dedupe.py` 统一主域和统计，`probe.py` 可更新首页状态 | 仅限审核过的元数据 |
 | [aliases.csv](relays/aliases.csv) | 别名或镜像域名到主域名的映射 | `dedupe.py` 综合现有映射、站名、域名、报价和拆分规则重建 | 否 |
+| [reviewed-aliases.csv](relays/reviewed-aliases.csv) | 有站方依据的别名映射 | 每行记录别名、已核实主域、发现来源和核验日期，在[对应日期批次](raw/sources/batches/README.md)保留证据。重建时不会用它新增主站、覆盖已有映射或撤销拆分 | 仅限审核过的映射 |
 | [relay-models.csv](relays/relay-models.csv) | 按站点和原始模型保存的参考报价 | `merge.py` 用完整报价快照替换该站报价，`dedupe.py` 归一模型名、计价和标记 | 否 |
 | [annotations.csv](relays/annotations.csv) · [split.txt](relays/split.txt) | 人工标注和拆分规则 | 补充事实或拆分原因后重建，`dedupe.py` 读取两者 | 是 |
 | [relay-systems.csv](relays/relay-systems.csv) | 中转软件参考目录 | 按项目公开资料维护，不参与站点识别 | 是 |
@@ -88,7 +89,7 @@
 <a id="evidence"></a>
 ## 来源证据
 
-[来源注册表](raw/sources/README.md) 和 [2026-11-21 目录复核批次](raw/sources/batches/2026-11-21/README.md) 链接到原始域名清单和逐站记录。目录复核记录保存域名、核验日期、公开目录和服务方说明页、事实摘要，以及实际测得的首页状态码（如有）。`merge.py` 读取命令行指定的 `scan.py` 格式 JSON，目录复核记录供人工审核。候选索引的 `validated` 表示有探活记录或该域名在主表中，收录情况看 `in_relays`，页面判定看 `page_category`。
+[来源注册表](raw/sources/README.md) 和[按日期排列的批次](raw/sources/batches/README.md)链接到原始域名清单和逐站记录。目录复核记录保存域名、核验日期、公开目录和服务方说明页、事实摘要，以及实际测得的首页状态码（如有）。`merge.py` 读取命令行指定的 `scan.py` 格式 JSON，目录复核记录供人工审核。候选索引的 `validated` 表示有探活记录或该域名在主表中，收录情况看 `in_relays`，页面判定看 `page_category`。
 
 <a id="monitor监控"></a>
 ## 监控数据

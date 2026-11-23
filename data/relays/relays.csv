@@ -875,6 +875,7 @@ api.biuapi.com,,哈基米biu,Sub2API,0.2.23-hakimi-e8b63da42,,veridrop,,45,claud
 api.biubiu.best,,BiuBiu API,New-API,v1.0.0-rc.51,7,directory,,33,openai/claude/gemini,0,,200,1709,2026-11-19,,
 api.bjhuiqu.net,pay.bjhuiqu.net,汇取云 API源头批发,New-API,v1.0.0-rc.47-custom119,1,veridrop,,195,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/doubao/minimax/hunyuan/media/other,8,,200,937,2026-11-19,,
 api.bltcy.ai,one-api.bltcy.top,柏拉图AI,New-API,v4.9.61-v2,1,veridrop,,1135,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/doubao/minimax/hunyuan/llama/media/other,3,,502,1167,2026-11-19,,
+api.bluesminds.com,,Bluesminds,,,,directory,,0,,0,,200,,2026-11-23,,公益站导航；首页介绍统一 API 网关，公开模型目录列出本站已启用的 OpenAI、Anthropic 和 DeepSeek 模型；本次未采集报价
 api.boboa.top,,Sub2API - AI API Gateway,Sub2API,0.2.15,,veridrop,,0,,0,,502,964,2026-11-19,,
 api.bobrouter.com,bobrouter.com,Bobrouter,New-API,v1.0.0-rc.51-bobrouter-minimal.4970452f0,,veridrop,,38,openai/claude/gemini/grok/deepseek/glm,1,,404,1374,2026-11-19,,
 api.boft.ai,,BANK OF TOKEN,Sub2API,0.2.23,,veridrop,,0,,11,,200,4797,2026-11-19,,
@@ -1031,6 +1032,7 @@ api.frimodel.com,,FriModel,New-API/One-API,rc49-mj-20261111,1.02,veridrop,,0,,1,
 api.frontier-intelligence.tech,,Frontier Intelligence,New-API/One-API,,0.4,veridrop,,0,,0,,200,4166,2026-11-19,,
 api.fshencoding.cn,,FSHEN API,New-API/One-API,v1.0.0-rc.47,7.3,veridrop,,0,,0,,200,317,2026-11-19,,
 api.fuckyou.one,bapi.fuckyou.one,Fuck Studio,New-API,2026.11.17-upstream-balance-b,7.3,veridrop,,48,claude/mimo/deepseek/glm/kimi/minimax/hunyuan,1,,200,1072,2026-11-19,,
+api.fuka.win,,芙卡卡の小食堂,,,,directory,,0,,0,,200,,2026-11-23,,公益站导航；站方说明提供第三方 API 聚合与转发服务，列出 OpenAI、Claude 和 Gemini 接口；本次未采集报价
 api.fulik.cc,,Fulik API,New-API/One-API,v0.0.0,7.3,veridrop,,0,,0,,200,4911,2026-11-19,,
 api.fullcupai.com,,fullCupAi,Sub2API,2.23.0,,veridrop,,0,,1,,200,3936,2026-11-19,,
 api.furryforum.com,,FURRY API,New-API,v1.0.0-rc.49-furry-20261111,1,veridrop,,110,openai/claude/gemini,0,,200,2903,2026-11-19,,
@@ -1981,6 +1983,7 @@ biz.socheap.ai,,SoCheap.AI Biz,Sub2API,0.2.21,,scan,,0,,0,,200,939,2026-11-19,,
 bizdecipher.com,,BizDecipher,Sub2API,production-20261107-media-observation,,veridrop,,0,,0,,200,4042,2026-11-19,,
 blackaicoding.com,,codex-for,Sub2API,0.2.17-custom,,veridrop,,0,,1,,200,4063,2026-11-19,,
 blankapi.com,api.blankapi.com,Blank API,New-API,v1.0.0-rc.20,,veridrop,,36,openai/claude/grok/deepseek/qwen/glm,3,,200,3428,2026-11-19,,
+blazeapi.org,,BlazeAPI,,,,directory,,0,,1,,200,,2026-11-23,,公益站导航；站方说明一个 API 可接入 Claude、GPT 和 Gemini，文档给出本站的调用主机；本次未采集报价
 bluecode.fun,,Sub2API - AI API Gateway,Sub2API,0.2.23,,veridrop,,0,,0,,200,6480,2026-11-19,,
 bluefuture.studio,,Blue Future,New-API,,1,veridrop,,18,openai/claude/other,0,,200,1353,2026-11-19,,
 bmapi.020212.xyz,,斑马API - AI API 中转站,Sub2API,0.2.21,,veridrop,,0,,0,,200,1913,2026-11-19,,
@@ -3180,6 +3183,7 @@ mhapi.net,chat.mhapi.net,梦幻API,Sub2API,0.2.23,,veridrop,,80,openai/claude/ge
 miaochuang.setbug.cn,,MiaCanvas,New-API,20261118-152006-image-mask-patch,1,scan,,32,openai/gemini/qwen/doubao/minimax/media/other,0,,200,539,2026-11-19,,
 miaomio.net,,哩喵中转栈,Sub2API,0.2.15,,veridrop,,0,,2,,200,3135,2026-11-19,,
 micu.icu,,micu 中转站 你值得信耐的api中转站,Sub2API,0.2.0,,urlscan,,0,,1,,502,7376,2026-11-19,,
+midalo.ai,,Midalo,,,,browser,,0,,0,,,,2026-11-23,,按最全 API 名称另查官网并与 OkkMax 交叉核对；站方说明可用一把密钥接入 OpenAI、Anthropic 和 Gemini；本次未采集报价
 midcode.cc,,MidCode,,,,veridrop,35,0,,0,,200,675,2026-11-19,,
 mie233.life,,hyw,New-API,v1.0.0-rc.44,6.74,veridrop,,19,openai/claude/gemini/grok/deepseek/glm,3,,502,7418,2026-11-19,,
 mikuapi.org,,MikuAPI,Sub2API,0.1.172,,veridrop,,0,,1,,200,10066,2026-11-19,,
@@ -3468,6 +3472,7 @@ nodeai.cc,www.nodeai.cc,NODEAI,Sub2API,0.2.15,,scan,,74,openai/claude/grok/mimo/
 nodeai.click,,NodeAi,Sub2API,0.2.22,,veridrop,,78,openai/claude/gemini/grok/other,1,,200,6987,2026-11-19,,
 nodexapi.it.com,,NodeX,New-API,v0.0.0,1,veridrop,,105,openai/claude/gemini/mimo/deepseek/qwen/glm/kimi,2,,200,3783,2026-11-19,,
 nomissapi.com,a.nomissapi.top,NoMiss API,New-API,v1.0.0-rc.50-nomiss-preserved-overlays-r,1,veridrop,,60,openai/claude/gemini/grok/deepseek/qwen/glm/kimi,8,,200,2156,2026-11-19,,
+nonelinear.com.cn,,非线智能API,,,,directory,,0,,1,,200,,2026-11-23,,API中转站；站方介绍统一接入 Claude、GPT 和 Gemini 官方 API 的服务；两个首页都指定该域为规范域名；本次未采集报价
 nookcode.com,,NC - NookCode,Sub2API,0.2.13,,veridrop,,0,,2,,200,5551,2026-11-19,,
 noonoo.ai,m.noonoo.ai,noonoo,New-API,v1.0.0-rc.24,6.8,veridrop,,21,openai/claude,3,,200,3169,2026-11-19,,
 nova.vcrauo.com,,Orbelis,New-API,v1.0.0-rc.41,1,veridrop,,143,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/doubao/minimax/hunyuan/media/other,0,,200,2234,2026-11-19,,
@@ -4101,6 +4106,7 @@ taomu.xyz,,Taomu,Sub2API,0.2.23-taomu,,veridrop,,0,,1,,200,2834,2026-11-19,,
 tavern-proxy.deepseektavern.com,,,New-API,v1.0.0-rc.10,7.3,scan,,13,deepseek/glm/other,0,,200,5643,2026-11-19,,
 tbtk.asia,,Tongba Tokens,New-API,v1.0.0-rc.11-35-upgraded-20261110,1,veridrop,80,43,openai/claude/gemini/grok/mimo/deepseek/qwen/glm/kimi/other,0,,200,5588,2026-11-19,,
 tdyun.ai,,梯度云 API,New-API,v0.0.0,7.3,veridrop,,50,openai/claude/gemini/deepseek/glm/kimi/minimax/other,1,,200,590,2026-11-19,,
+teapotrouter.com,,Teapot Router,,,,directory,,0,,0,,200,,2026-11-23,,API中转站；官方接入说明给出同一托管网关上的 Anthropic Claude 和 OpenAI GPT 接入方式；本次未采集报价
 telangpuai.com,api.telangpuai.com,Telangpu.AI,Sub2API,0.2.23,,veridrop,82,41,openai/claude/gemini/grok/deepseek/kimi/other,2,,200,4064,2026-11-19,,
 tenzen.ai,,Tenzen AI,New-API,,7.3,veridrop,100,216,openai/claude/gemini/deepseek/glm/kimi/other,1,,200,1596,2026-11-19,,
 test-api.apiqik.online,test2-api.apiqik.online,,New-API,1-20260804140546,7,veridrop,,216,openai/claude/gemini/grok/qwen/kimi/doubao/media/other,1,,200,924,2026-11-19,,
@@ -4607,6 +4613,7 @@ www.codeplanai.com,,CodePlanAI,Sub2API,0.2.17,,veridrop,,0,,3,,200,10620,2026-11
 www.codex2api.com,,Codex2API,Sub2API,0.1.278-ct-v3.43,,veridrop,,0,,2,,200,1344,2026-11-19,,
 www.codex789.com,,island AI Coding,Sub2API,0.2.23,,veridrop,,0,,1,,200,4548,2026-11-19,,
 www.codexcc.site,,Forward,Sub2API,0.2.18,,veridrop,,0,,1,,200,1221,2026-11-19,,
+www.codexhot.com,,热核算力,,,,directory,,0,,0,,200,,2026-11-23,,API中转站；站方介绍使用一把 API 密钥接入模型，开发者指南分别给出 GPT、Claude 和 Grok 的配置；本次未采集报价
 www.codextopapi.com,codextopapi.com,CodeX Top API 充值联系Q4108824,New-API,v1.0.0-rc.49,7.3,veridrop,,68,openai/claude/gemini/grok/other,1,,200,1325,2026-11-19,,
 www.coletoken.de,,Cole Token,Sub2API,0.2.23,,veridrop,,0,,1,,200,5482,2026-11-19,,
 www.computinger.com,computinger.com,Computinger,New-API,v1.0.0-rc.24-computinger-smart-router-ph,7.3,veridrop,,28,openai/claude/other,1,,200,7075,2026-11-19,,
@@ -4681,6 +4688,7 @@ www.kk-vibe.top,kk-vibe.top,kk vibe,Sub2API,2.22.0-kk.77bd40957215,,veridrop,,11
 www.kldai.cc,,浮梦,Sub2API,0.2.23,,veridrop,70,0,,0,,200,10563,2026-11-19,,
 www.kldai.vip,,浮梦,Sub2API,0.2.21,,scan,,0,,0,,200,9731,2026-11-19,,
 www.largechestnut.com,,LargeChestnut,Sub2API,largechestnut-candidate,,veridrop,,59,openai/claude/gemini/deepseek/glm/other,1,,200,6072,2026-11-19,,
+www.latticehub.cc,,LatticeHub,,,,browser,,0,,0,,200,,2026-11-23,,按最全 API 名称另查官网；统一接口的模型广场列出 OpenAI、xAI 和 DeepSeek；本次未采集报价
 www.lemonapi.ai,,柠檬 API,New-API/One-API,v0.5.18,1,veridrop,,0,,2,,200,2906,2026-11-19,,
 www.lenovo-ai.cn,,GZAPI,Sub2API,0.2.23,,veridrop,,0,,1,,200,855,2026-11-19,,
 www.leolabvip.top,,Sub2API - AI API Gateway,Sub2API,2.10.6-custom.no-sync-routing.20261104,,veridrop,,0,,0,,200,3961,2026-11-19,,
@@ -4698,6 +4706,7 @@ www.lnmbq.icu,,TURING,Sub2API,0.2.23,,veridrop,,0,,2,,200,4627,2026-11-19,,
 www.loomex.top,,Loomex,Sub2API,0.2.23.2,,veridrop,,0,,0,,200,4913,2026-11-19,,
 www.lsgyl.xyz,,TTapi,Sub2API,0.2.23,,veridrop,,1,grok,2,,200,7597,2026-11-19,,
 www.lucase.club,,L U C A S E,New-API,v1.0.0-rc.51,7.3,veridrop,,74,openai/claude/gemini/deepseek/glm,0,,200,6713,2026-11-19,,
+www.lumdatech.com,,Lumda AI,,,,browser,,0,,0,,,,2026-11-23,,按最全 API 名称另查官网并与禾维 AI 交叉核对；站方说明 Claude、ChatGPT 和 DeepSeek 共用一个网关；本次未采集报价
 www.luminas.top,,露米Shop,Sub2API,0.1.165,,veridrop,,0,,1,,200,6475,2026-11-19,,
 www.lvzhouai.cc,,,New-API,,,veridrop,,1,grok,0,,502,3186,2026-11-19,,
 www.lxooxlai.com,lxooxlai.com,lxooxlAI,New-API,v1.0.0-rc.41,1,veridrop,,94,openai/claude/gemini/mimo/deepseek/qwen/glm/kimi/doubao/minimax/hunyuan/other,1,,200,3772,2026-11-19,,
@@ -4739,6 +4748,7 @@ www.nowaterapi.xyz,,NoWater API,New-API/One-API,v1.0.0-rc.26,1,urlscan,,0,,0,,20
 www.nowhub.org,,NowHub API,New-API,v0.0.0,7.3,urlscan,,16,openai/claude,0,,200,2449,2026-11-19,,
 www.nuwaflux.com,,NUWA,New-API,v0.0.116,1,directory,,108,openai/claude/gemini/grok/deepseek/qwen/glm/kimi/minimax,0,,200,2103,2026-11-19,,
 www.ohmycodex.cn,hk.ohmycodex.cn,Oh my Codex,Sub2API,0.2.23,,veridrop,,107,openai/claude/gemini/grok/deepseek/glm/kimi/other,1,,200,1678,2026-11-19,,
+www.olmai.cc,,Olm.ai,,,,browser,,0,,0,,,,2026-11-23,,按最全 API 名称另查官网；公开模型目录及教程给出 Anthropic 和 OpenAI 的统一接入方式；本次未采集报价
 www.omniroute.cc,,OmniRoute,Sub2API,0.2.21,1,urlscan,,126,openai/claude/gemini/grok/deepseek/qwen/glm/kimi/doubao/minimax/other,0,,200,3776,2026-11-19,,
 www.onetopai.com,onetopai.com,OneTop AI,New-API,v1.0.0-rc.26,1,veridrop,,66,openai/claude/gemini/grok/deepseek/qwen/glm/kimi/minimax/other,1,,200,3620,2026-11-19,,
 www.open1.codes,open1.codes,OPEN1 中转站,Sub2API,0.7.2,,veridrop,,24,openai/claude,1,,200,2295,2026-11-19,,

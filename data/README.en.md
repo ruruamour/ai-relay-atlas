@@ -8,6 +8,7 @@
 |---|---|---|---|
 | [relays.csv](relays/relays.csv) | One row per canonical relay. Both an input to the next build and a normalized output | `merge.py` imports public-interface snapshots. Maintainers can also add [reviewed metadata-only rows](../CONTRIBUTING.en.md#metadata-only). `dedupe.py` normalizes the table, and `probe.py` can refresh homepage observations | Reviewed metadata only |
 | [aliases.csv](relays/aliases.csv) | Alias or mirror hostname → canonical hostname | `dedupe.py` rewrites it using existing mappings, hostname and brand, site name, quotes, and split rules | No |
+| [reviewed-aliases.csv](relays/reviewed-aliases.csv) | First-party evidence for an alias of a confirmed relay | Record the alias, confirmed hostname, discovery source and check date. Keep the evidence in the [dated batch](raw/sources/batches/README.md). Rebuilding does not use these rows to create relays, overwrite mappings or undo splits | Reviewed mappings only |
 | [relay-models.csv](relays/relay-models.csv) | Reference quote per site and raw model name | `merge.py` replaces a site's quote snapshot. `dedupe.py` normalizes model names, billing, and flags | No |
 | [annotations.csv](relays/annotations.csv) · [split.txt](relays/split.txt) | Manual annotations and never-merge rules | Update the factual note or split reason, then rebuild. `dedupe.py` reads both | Yes |
 | [relay-systems.csv](relays/relay-systems.csv) | Reference catalog of relay software | Update from public project information. The catalog is not used to identify relay sites | Yes |
@@ -62,7 +63,7 @@ The catalogs use `platform,type,domain,note` for platforms and `system,type,repo
 <a id="evidence"></a>
 ## Source evidence
 
-The [source registry](raw/sources/README.md) and the [2026-11-21 directory review](raw/sources/batches/2026-11-21/README.md) link the existing hostname snapshot and per-site reviews. Review records preserve the domain, check date, public directory and provider pages, a factual summary, and a homepage status code if observed. `merge.py` takes a `scan.py`-format JSON file passed on the command line. Directory reviews are for human review. In the candidate index, `validated` means the domain has a probe record or is in the relay table. `in_relays` marks canonical inclusion and `page_category` records page classification.
+The [source registry](raw/sources/README.md) and [dated batches](raw/sources/batches/README.md) link the hostname snapshots and per-site reviews. Review records preserve the domain, check date, public directory and provider pages, a factual summary, and a homepage status code if observed. `merge.py` takes a `scan.py`-format JSON file passed on the command line. Directory reviews are for human review. In the candidate index, `validated` means the domain has a probe record or is in the relay table. `in_relays` marks canonical inclusion and `page_category` records page classification.
 
 ## Monitoring data
 
